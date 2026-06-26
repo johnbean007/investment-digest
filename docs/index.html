@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Investment Digest</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <div class="header-inner">
+      <h1>Investment Digest</h1>
+      <div id="meta" class="meta"></div>
+    </div>
+    <div class="filters">
+      <button class="filter-btn active" data-filter="all">All</button>
+      <button class="filter-btn" data-filter="buy">Buy signals</button>
+      <button class="filter-btn" data-filter="avoid">Avoid only</button>
+      <button class="filter-btn" data-filter="earnings">Earnings soon</button>
+      <input type="text" id="search" placeholder="Search ticker or company…" />
+    </div>
+  </header>
+
+  <main id="stocks"></main>
+
+  <div id="loading">Loading digest…</div>
+  <div id="error" class="hidden">Failed to load digest data.</div>
+
+  <script src="app.js"></script>
+</body>
+</html>

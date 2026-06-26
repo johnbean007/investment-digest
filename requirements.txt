@@ -1,0 +1,6 @@
+anthropic
+youtube-transcript-api
+yfinance
+yt-dlp
+numpy
+pandas

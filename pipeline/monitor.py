@@ -63,7 +63,7 @@ def save_state(state: dict):
 
 def get_channel_videos(channel_url: str) -> list[dict]:
     cmd = [
-        "yt-dlp", "--dump-json", "--playlist-end", "5",
+        "yt-dlp", "--dump-json", "--playlist-end", "30",
         "--skip-download", channel_url,
     ]
     try:

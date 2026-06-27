@@ -77,13 +77,8 @@ h1 { font-size: 20px; font-weight: 700; letter-spacing: -0.3px; }
 }
 #search:focus { border-color: var(--blue); }
 
-/* ── Main grid ── */
-main {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(540px, 1fr));
-  gap: 20px;
-  padding: 24px;
-}
+/* ── Main ── */
+main { min-height: 60vh; }
 
 /* ── Stock card ── */
 .card {
@@ -253,6 +248,101 @@ main {
   background: rgba(245,158,11,0.08);
   border-left: 2px solid var(--amber);
   border-radius: 0 4px 4px 0;
+}
+
+/* ── View switcher ── */
+.view-switcher { display: flex; gap: 4px; margin-left: auto; }
+.view-btn {
+  background: var(--surface2);
+  border: 1px solid var(--border);
+  color: var(--muted);
+  border-radius: 6px;
+  padding: 4px 14px;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+.view-btn.active { background: var(--blue); border-color: var(--blue); color: #fff; }
+
+/* ── Summary view ── */
+#summary-view { padding: 24px; display: flex; flex-direction: column; gap: 28px; }
+.summary-section {}
+.summary-heading {
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  padding: 0 0 10px;
+}
+.summary-heading.buy-head   { color: var(--green); }
+.summary-heading.avoid-head { color: var(--red); }
+.summary-note { font-size: 12px; color: var(--muted); padding: 0 4px; }
+
+.table-wrap { overflow-x: auto; border-radius: var(--radius); border: 1px solid var(--border); }
+.summary-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+}
+.summary-table thead { background: var(--surface2); }
+.summary-table th {
+  padding: 9px 14px;
+  text-align: left;
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: var(--muted);
+  white-space: nowrap;
+  cursor: pointer;
+  user-select: none;
+}
+.summary-table th:hover { color: var(--text); }
+.summary-table td {
+  padding: 10px 14px;
+  border-top: 1px solid var(--border);
+  vertical-align: middle;
+}
+.summary-table tr:hover td { background: var(--surface2); }
+
+.sum-ticker  { font-weight: 700; font-size: 14px; margin-right: 8px; }
+.sum-company { color: var(--muted); font-size: 12px; }
+.num { text-align: center; font-weight: 600; }
+.creators-cell { color: var(--muted); font-size: 12px; max-width: 180px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+
+/* ── Mini timeline ── */
+.mini-timeline { display: flex; gap: 5px; align-items: center; flex-wrap: wrap; }
+.dot {
+  width: 10px; height: 10px;
+  border-radius: 50%;
+  cursor: default;
+  flex-shrink: 0;
+  transition: transform 0.1s;
+}
+.dot:hover { transform: scale(1.5); }
+.dot-buy   { background: var(--green); }
+.dot-avoid { background: var(--red); }
+.dot-mixed { background: var(--amber); }
+
+.detail-btn {
+  background: var(--surface2);
+  border: 1px solid var(--border);
+  color: var(--blue);
+  border-radius: 5px;
+  padding: 3px 10px;
+  font-size: 12px;
+  cursor: pointer;
+  white-space: nowrap;
+}
+.detail-btn:hover { background: var(--blue); color: #fff; border-color: var(--blue); }
+
+/* ── Detail grid ── */
+.detail-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(540px, 1fr));
+  gap: 20px;
+  padding: 24px;
 }
 
 /* ── Utilities ── */

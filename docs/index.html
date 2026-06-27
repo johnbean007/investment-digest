@@ -11,6 +11,10 @@
     <div class="header-inner">
       <h1>Investment Digest</h1>
       <div id="meta" class="meta"></div>
+      <div class="view-switcher">
+        <button class="view-btn active" data-view="summary">Summary</button>
+        <button class="view-btn" data-view="detail">Detail</button>
+      </div>
     </div>
     <div class="filters">
       <button class="filter-btn active" data-filter="all">All</button>
@@ -21,7 +25,10 @@
     </div>
   </header>
 
-  <main id="stocks"></main>
+  <main>
+    <div id="summary-view"></div>
+    <div id="detail-view" class="detail-grid hidden"></div>
+  </main>
 
   <div id="loading">Loading digest…</div>
   <div id="error" class="hidden">Failed to load digest data.</div>

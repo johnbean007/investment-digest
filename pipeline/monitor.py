@@ -131,10 +131,11 @@ def get_channel_videos(channel_url: str, api_key: str, state: dict) -> list[dict
         return []
 
 
-def get_transcript(video_id: str) -> str | None:
+def get_transcript(video_id: str, cookies_path: str | None = None) -> str | None:
     # Primary: youtube-transcript-api
     try:
-        api = YouTubeTranscriptApi()
+        kwargs = {"cookie_path": cookies_path} if cookies_path else {}
+        api = YouTubeTranscriptApi(**kwargs)
         fetched = api.fetch(video_id, languages=["en", "en-US", "en-GB"])
         text = " ".join(s.text for s in fetched.snippets)
         if text:
@@ -490,6 +491,12 @@ def run():
         log.error("YOUTUBE_API_KEY not set — cannot fetch channel videos")
         return
 
+    cookies_path = os.environ.get("YOUTUBE_COOKIES_FILE")
+    if cookies_path:
+        log.info(f"Using YouTube cookies from {cookies_path}")
+    else:
+        log.warning("No YOUTUBE_COOKIES_FILE set — transcript fetching may be blocked by YouTube")
+
     for channel in CHANNELS:
         name = channel["name"]
         url  = channel["url"]
@@ -513,7 +520,7 @@ def run():
                 continue
 
             log.info(f"  Processing: {video['title']}")
-            transcript = get_transcript(vid_id)
+            transcript = get_transcript(vid_id, cookies_path=cookies_path)
 
             if not transcript:
                 state.setdefault("processed", {})[vid_id] = {

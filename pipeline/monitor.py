@@ -132,13 +132,12 @@ def get_channel_videos(channel_url: str, api_key: str, state: dict) -> list[dict
 
 
 def get_transcript(video_id: str, cookies_path: str | None = None) -> str | None:
-    # Primary: youtube-transcript-api (static method supports cookies across versions)
+    # Primary: youtube-transcript-api instance API (0.6.x+)
     try:
         kwargs = {"cookies": cookies_path} if cookies_path else {}
-        transcript_data = YouTubeTranscriptApi.get_transcript(
-            video_id, languages=["en", "en-US", "en-GB"], **kwargs
-        )
-        text = " ".join(item["text"] for item in transcript_data)
+        api = YouTubeTranscriptApi(**kwargs)
+        fetched = api.fetch(video_id, languages=["en", "en-US", "en-GB"])
+        text = " ".join(s.text for s in fetched.snippets)
         if text:
             log.info(f"  Transcript via API: {len(text):,} chars")
             return text

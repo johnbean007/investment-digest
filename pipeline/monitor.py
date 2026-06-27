@@ -17,6 +17,7 @@ import glob
 from datetime import datetime, timedelta
 from pathlib import Path
 
+import requests
 import anthropic
 import numpy as np
 import yfinance as yf
@@ -61,33 +62,72 @@ def save_state(state: dict):
 # YouTube helpers
 # ---------------------------------------------------------------------------
 
-def get_channel_videos(channel_url: str) -> list[dict]:
-    cmd = [
-        "yt-dlp", "--dump-json", "--playlist-end", "30",
-        "--skip-download", channel_url,
-    ]
+def _resolve_channel_id(handle: str, api_key: str) -> str | None:
+    """Resolve a YouTube @handle to a channel ID via the Data API."""
     try:
-        result = subprocess.run(cmd, capture_output=True, text=True, timeout=60)
-        videos = []
-        for line in result.stdout.strip().split("\n"):
-            if not line:
-                continue
-            try:
-                data = json.loads(line)
-                videos.append({
-                    "id": data.get("id"),
-                    "title": data.get("title"),
-                    "upload_date": data.get("upload_date"),
-                    "url": f"https://www.youtube.com/watch?v={data.get('id')}",
-                })
-            except json.JSONDecodeError:
-                continue
-        return videos
-    except subprocess.TimeoutExpired:
-        log.error(f"Timeout fetching videos from {channel_url}")
-        return []
+        resp = requests.get(
+            "https://www.googleapis.com/youtube/v3/channels",
+            params={"part": "contentDetails", "forHandle": handle, "key": api_key},
+            timeout=15,
+        )
+        items = resp.json().get("items", [])
+        return items[0]["id"] if items else None
     except Exception as e:
-        log.error(f"Error fetching videos from {channel_url}: {e}")
+        log.error(f"Could not resolve channel handle @{handle}: {e}")
+        return None
+
+
+def get_channel_videos(channel_url: str, api_key: str, state: dict) -> list[dict]:
+    """Fetch recent videos via YouTube Data API v3. Caches channel IDs in state."""
+    match = re.search(r'@([^/]+)', channel_url)
+    if not match:
+        log.error(f"Could not extract handle from URL: {channel_url}")
+        return []
+    handle = match.group(1)
+
+    # Cache channel IDs to save API quota on subsequent runs
+    channel_ids = state.setdefault("channel_ids", {})
+    if handle not in channel_ids:
+        channel_id = _resolve_channel_id(handle, api_key)
+        if not channel_id:
+            return []
+        channel_ids[handle] = channel_id
+    channel_id = channel_ids[handle]
+
+    # Uploads playlist: channel ID with UC → UU prefix
+    uploads_playlist_id = "UU" + channel_id[2:]
+
+    try:
+        resp = requests.get(
+            "https://www.googleapis.com/youtube/v3/playlistItems",
+            params={
+                "part": "snippet",
+                "playlistId": uploads_playlist_id,
+                "maxResults": 30,
+                "key": api_key,
+            },
+            timeout=15,
+        )
+        data = resp.json()
+        if "error" in data:
+            log.error(f"YouTube API error for @{handle}: {data['error'].get('message')}")
+            return []
+
+        videos = []
+        for item in data.get("items", []):
+            snippet  = item["snippet"]
+            video_id = snippet["resourceId"]["videoId"]
+            published = snippet.get("publishedAt", "")
+            upload_date = published[:10].replace("-", "") if published else ""
+            videos.append({
+                "id":          video_id,
+                "title":       snippet.get("title", ""),
+                "upload_date": upload_date,
+                "url":         f"https://www.youtube.com/watch?v={video_id}",
+            })
+        return videos
+    except Exception as e:
+        log.error(f"Error fetching videos for @{handle}: {e}")
         return []
 
 
@@ -445,12 +485,17 @@ def run():
     cutoff     = (datetime.now() - timedelta(days=MAX_VIDEO_AGE_DAYS)).strftime("%Y%m%d")
     new_count  = 0
 
+    yt_api_key = os.environ.get("YOUTUBE_API_KEY")
+    if not yt_api_key:
+        log.error("YOUTUBE_API_KEY not set — cannot fetch channel videos")
+        return
+
     for channel in CHANNELS:
         name = channel["name"]
         url  = channel["url"]
         log.info(f"Checking: {name}")
 
-        videos = get_channel_videos(url)
+        videos = get_channel_videos(url, yt_api_key, state)
         log.info(f"  Found {len(videos)} recent video(s)")
 
         for video in videos:

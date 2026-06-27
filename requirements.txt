@@ -4,3 +4,4 @@ yfinance
 yt-dlp
 numpy
 pandas
+requests

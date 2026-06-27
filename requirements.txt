@@ -1,5 +1,5 @@
 anthropic
-youtube-transcript-api
+youtube-transcript-api==0.6.3
 yfinance
 yt-dlp
 numpy

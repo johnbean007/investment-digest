@@ -491,11 +491,12 @@ def run():
         log.error("YOUTUBE_API_KEY not set — cannot fetch channel videos")
         return
 
-    cookies_path = os.environ.get("YOUTUBE_COOKIES_FILE")
+    _cookies_env = os.environ.get("YOUTUBE_COOKIES_FILE", "")
+    cookies_path = _cookies_env if (_cookies_env and Path(_cookies_env).exists() and Path(_cookies_env).stat().st_size > 10) else None
     if cookies_path:
         log.info(f"Using YouTube cookies from {cookies_path}")
     else:
-        log.warning("No YOUTUBE_COOKIES_FILE set — transcript fetching may be blocked by YouTube")
+        log.warning("No valid YOUTUBE_COOKIES_FILE — transcript fetching may be blocked by YouTube")
 
     for channel in CHANNELS:
         name = channel["name"]

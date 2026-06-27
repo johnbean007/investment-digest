@@ -27,14 +27,13 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Write YouTube cookies
-        if: ${{ secrets.YOUTUBE_COOKIES != '' }}
         run: echo "${{ secrets.YOUTUBE_COOKIES }}" > /tmp/yt_cookies.txt
 
       - name: Run pipeline
         env:
-          ANTHROPIC_API_KEY:      ${{ secrets.ANTHROPIC_API_KEY }}
-          YOUTUBE_API_KEY:        ${{ secrets.YOUTUBE_API_KEY }}
-          YOUTUBE_COOKIES_FILE:   ${{ secrets.YOUTUBE_COOKIES != '' && '/tmp/yt_cookies.txt' || '' }}
+          ANTHROPIC_API_KEY:    ${{ secrets.ANTHROPIC_API_KEY }}
+          YOUTUBE_API_KEY:      ${{ secrets.YOUTUBE_API_KEY }}
+          YOUTUBE_COOKIES_FILE: /tmp/yt_cookies.txt
         run: python pipeline/monitor.py
 
       - name: Copy data for GitHub Pages

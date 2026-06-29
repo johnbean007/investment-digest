@@ -132,9 +132,17 @@ def get_channel_videos(channel_url: str, api_key: str, state: dict) -> list[dict
 
 
 def get_transcript(video_id: str, cookies_path: str | None = None) -> str | None:
-    # Primary: youtube-transcript-api instance API (0.6.x+)
+    # Primary: youtube-transcript-api instance API (1.x+)
     try:
-        api = YouTubeTranscriptApi()
+        if cookies_path:
+            import http.cookiejar
+            jar = http.cookiejar.MozillaCookieJar()
+            jar.load(cookies_path, ignore_discard=True, ignore_expires=True)
+            session = requests.Session()
+            session.cookies = jar
+            api = YouTubeTranscriptApi(http_client=session)
+        else:
+            api = YouTubeTranscriptApi()
         fetched = api.fetch(video_id, languages=["en", "en-US", "en-GB"])
         text = " ".join(s.text for s in fetched.snippets)
         if text:
@@ -237,8 +245,16 @@ def calculate_rsi(closes: list[float], period: int = 14) -> float | None:
 
 def get_stock_data(ticker: str) -> dict | None:
     try:
-        stock = yf.Ticker(ticker)
-        info = stock.info
+        import signal
+        def _timeout(signum, frame):
+            raise TimeoutError(f"yfinance timeout for {ticker}")
+        signal.signal(signal.SIGALRM, _timeout)
+        signal.alarm(15)
+        try:
+            stock = yf.Ticker(ticker)
+            info = stock.info
+        finally:
+            signal.alarm(0)
 
         current_price = info.get("currentPrice") or info.get("regularMarketPrice")
         if not current_price:
@@ -251,8 +267,8 @@ def get_stock_data(ticker: str) -> dict | None:
         name           = info.get("shortName") or info.get("longName") or ticker
 
         # Historical prices
-        hist_1y = stock.history(period="1y")
-        hist_1mo = stock.history(period="1mo")
+        hist_1y = stock.history(period="1y", timeout=10)
+        hist_1mo = stock.history(period="1mo", timeout=10)
         if hist_1y.empty:
             return None
 
@@ -515,11 +531,12 @@ def run():
                 log.info(f"  Skipping (too old): {video['title']}")
                 continue
 
-            if vid_id in state.get("processed", {}):
+            if vid_id in state.get("processed", {}) and "analysis" in state["processed"][vid_id]:
                 log.info(f"  Skipping (already processed): {video['title']}")
                 continue
 
             log.info(f"  Processing: {video['title']}")
+            time.sleep(2)
             transcript = get_transcript(vid_id, cookies_path=cookies_path)
 
             if not transcript:

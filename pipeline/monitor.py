@@ -7,6 +7,7 @@ and writes structured JSON for the web frontend.
 """
 
 import json
+import math
 import os
 import re
 import sys
@@ -25,7 +26,7 @@ from youtube_transcript_api import YouTubeTranscriptApi, TranscriptsDisabled, No
 
 from config import (
     CHANNELS, MAX_VIDEO_AGE_DAYS, ANTHROPIC_MODEL,
-    DATA_DIR, DIGEST_DIR, STATE_FILE, LOG_FILE,
+    DATA_DIR, DIGEST_DIR, STATE_FILE, LOG_FILE, EVAL_DIR,
 )
 
 logging.basicConfig(
@@ -272,8 +273,8 @@ def get_stock_data(ticker: str) -> dict | None:
         if hist_1y.empty:
             return None
 
-        closes_1y = hist_1y["Close"].tolist()
-        closes_1mo = hist_1mo["Close"].tolist() if not hist_1mo.empty else []
+        closes_1y = hist_1y["Close"].dropna().tolist()
+        closes_1mo = hist_1mo["Close"].dropna().tolist() if not hist_1mo.empty else []
 
         daily_change_pct = round((current_price - prev_close) / prev_close * 100, 2) if prev_close else None
         month_change_pct = round((current_price - closes_1mo[0]) / closes_1mo[0] * 100, 2) if closes_1mo else None
@@ -482,6 +483,42 @@ def build_digest(all_video_analyses: list[dict]) -> dict:
     }
 
 
+def maybe_save_eval_transcript(state: dict, video: dict, channel: str, transcript: str, analysis: dict):
+    """Save one transcript + its analysis per calendar week, for manually spot-checking
+    whether Claude's summary matches what the video actually said."""
+    iso = datetime.now().isocalendar()
+    week_id = f"{iso.year}-W{iso.week:02d}"
+    if state.get("last_eval_week") == week_id:
+        return
+
+    EVAL_DIR.mkdir(parents=True, exist_ok=True)
+    with open(EVAL_DIR / f"{week_id}.json", "w") as f:
+        json.dump({
+            "video_id":    video.get("id"),
+            "channel":     channel,
+            "title":       video["title"],
+            "url":         video["url"],
+            "upload_date": video.get("upload_date", ""),
+            "captured_at": datetime.now().isoformat(),
+            "transcript":  transcript,
+            "analysis":    analysis,
+        }, f, indent=2)
+    state["last_eval_week"] = week_id
+    log.info(f"  Saved eval transcript for week {week_id}")
+
+
+def sanitize_floats(obj):
+    """Replace NaN/Infinity with None so json.dump can't emit invalid JSON
+    (a single bad float breaks JSON.parse for the whole file in the browser)."""
+    if isinstance(obj, dict):
+        return {k: sanitize_floats(v) for k, v in obj.items()}
+    if isinstance(obj, list):
+        return [sanitize_floats(v) for v in obj]
+    if isinstance(obj, float) and not math.isfinite(obj):
+        return None
+    return obj
+
+
 def format_date(upload_date: str) -> str:
     if upload_date and len(upload_date) == 8:
         try:
@@ -554,6 +591,8 @@ def run():
                 log.warning(f"  Analysis failed: {video['title']}")
                 continue
 
+            maybe_save_eval_transcript(state, video, name, transcript, analysis)
+
             # Capture current prices for all tickers at time of processing
             all_tickers = set(
                 r.get("ticker", "").upper()
@@ -602,7 +641,7 @@ def run():
         return
 
     log.info(f"Building digest from {len(all_video_analyses)} video(s)...")
-    digest = build_digest(all_video_analyses)
+    digest = sanitize_floats(build_digest(all_video_analyses))
 
     DIGEST_DIR.mkdir(parents=True, exist_ok=True)
     today = datetime.now().strftime("%Y-%m-%d")

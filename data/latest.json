@@ -5737,7 +5737,7 @@
         "market_cap": 63766999040,
         "current_price": 43.06,
         "daily_change_pct": 4.9,
-        "month_change_pct": NaN,
+        "month_change_pct": null,
         "week52_high": 80.17,
         "week52_high_date": "25 Aug 2025",
         "week52_low": 40.0,

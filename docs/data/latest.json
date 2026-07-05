@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-04T09:15:47.370403",
-  "video_count": 58,
-  "stock_count": 114,
+  "generated_at": "2026-07-05T09:36:17.734722",
+  "video_count": 54,
+  "stock_count": 108,
   "stocks": [
     {
       "ticker": "AAOI",
@@ -884,7 +884,7 @@
         "ma200": 1311.8,
         "ma_signal": "golden_cross",
         "pe_trailing": 60.24242,
-        "pe_forward": 35.869057,
+        "pe_forward": 35.813248,
         "peg_ratio": 2.65,
         "revenue_growth": 0.132,
         "earnings_growth": 0.192,
@@ -947,7 +947,7 @@
         "ma200": 4.36,
         "ma_signal": "golden_cross",
         "pe_trailing": null,
-        "pe_forward": -13.401681,
+        "pe_forward": -13.385388,
         "peg_ratio": null,
         "revenue_growth": -0.426,
         "earnings_growth": null,
@@ -1046,9 +1046,9 @@
     {
       "ticker": "AVGO",
       "company_name": "Broadcom Inc.",
-      "buy_count": 10,
-      "avoid_count": 1,
-      "first_mention_date": "04 Jun 2026",
+      "buy_count": 9,
+      "avoid_count": 0,
+      "first_mention_date": "10 Jun 2026",
       "price_at_first_mention": 365.02,
       "pct_change_since_rec": -1.3,
       "market": {
@@ -1169,19 +1169,6 @@
           "cautions": null
         },
         {
-          "channel": "Jose Najarro Stocks",
-          "title": "The 4 Best AI Stocks to Buy Today",
-          "url": "https://www.youtube.com/watch?v=Dt_4NEcJN3I",
-          "upload_date": "20260604",
-          "date_label": "04 Jun 2026",
-          "ticker": "AVGO",
-          "company_name": "Broadcom Inc.",
-          "reason": "Broadcom experienced a 12% stock drop following earnings, which the creator believes is an overreaction. The company shared bullish information about the AI market, specifically that 2027 will see growth and 2028 will be 'substantial growth.' The semiconductor solution segment is the primary revenue driver, growing 77% year-over-year in the most recent quarter, compared to 52% in the previous quarter, demonstrating acceleration. The forward P/E ratio of 27-27.5 based on non-GAAP earnings per share is considered extremely cheap for a company with expected growth and various customers. The creator views this dip as a buying opportunity.",
-          "when_to_buy": "During the recent 12% stock dip following earnings",
-          "target_price": null,
-          "cautions": "The creator mentions wanting to do a deeper dive on risks associated with Broadcom and notes personal preference for Nvidia, though acknowledges the bullish potential in Broadcom."
-        },
-        {
           "channel": "Ticker Symbol: YOU",
           "title": "Top Stocks I'm Buying For Huge Growth In July 2026",
           "url": "https://www.youtube.com/watch?v=k4Y3UctGWuI",
@@ -1221,19 +1208,7 @@
           "cautions": "Should not be swing traded anymore due to strength; position for mid-to-long term only"
         }
       ],
-      "avoids": [
-        {
-          "channel": "CouchInvestor",
-          "title": "Broadcom Just Crashed 15%. Here's What It Means for Every AI Investor",
-          "url": "https://www.youtube.com/watch?v=pT_ZJ7COq4c",
-          "upload_date": "20260604",
-          "date_label": "04 Jun 2026",
-          "ticker": "AVGO",
-          "company_name": "Broadcom Inc.",
-          "reason": "Broadcom crashed 14.7% in pre-market despite delivering exceptional fundamentals: revenue up 48% year-over-year to $22.2 billion, AI semiconductor revenue up 143%, Q3 guidance of $29.4 billion (up 84% YoY), and AI bookings of over $30 billion (3x Q2 revenue). The creator explicitly states 'this is another story of being priced to perfection.' Despite strong guidance including fiscal 2026 AI semiconductor revenue of $56 billion (up 180% YoY) and fiscal 2027 reiterated 'in excess of $100 billion,' the market sold off, suggesting investors anticipated higher guidance given the massive run-up. The stock has been extremely overbought, and even exceptional execution is now priced into the valuation.",
-          "risk": "Stock is priced to absolute perfection; any guidance miss or slowdown in AI demand would trigger significant downside. Market is selling despite exceptional results, indicating valuation expectations are unrealistic."
-        }
-      ]
+      "avoids": []
     },
     {
       "ticker": "AXON",
@@ -1581,9 +1556,9 @@
     {
       "ticker": "CELH",
       "company_name": "Celsius Holdings Inc.",
-      "buy_count": 2,
+      "buy_count": 1,
       "avoid_count": 0,
-      "first_mention_date": "04 Jun 2026",
+      "first_mention_date": "16 Jun 2026",
       "price_at_first_mention": 29.85,
       "pct_change_since_rec": 11.1,
       "market": {
@@ -1637,19 +1612,6 @@
           "when_to_buy": "Current levels; this is a spec position less than 1% of portfolio",
           "target_price": null,
           "cautions": "This is a spec position representing less than 1% of the portfolio. The creator is not loading up heavily and is building it up gradually. Most growth has been inorganic from acquisition."
-        },
-        {
-          "channel": "Mr. FIRED Up Wealth",
-          "title": "5 Best Stocks to Buy NOW | 25-Year Investor Reveals His Buys!",
-          "url": "https://www.youtube.com/watch?v=icoRZgwZibI",
-          "upload_date": "20260604",
-          "date_label": "04 Jun 2026",
-          "ticker": "CELH",
-          "company_name": "Celsius Holdings",
-          "reason": "Strong profitability at 50% gross margin in energy drink sector. Company has achieved 6% YoY growth with Alani Nu acquisition providing pro forma growth of 60%. One in five energy drinks sold is Celsius brand. Massive US market share and distribution partnership with Pepsi provides scale and competitive moat. International momentum showing 55% YoY revenue growth. Functional beverage tailwinds as consumers shift to zero-sugar options. Margin recovery path visible with improving numbers. Insider buying shows executive confidence.",
-          "when_to_buy": "Creator bought more shares today at $27.57. Prefers DCA (dollar cost averaging) at $25 or less. Buy zone appears to be in this $25-$30 range.",
-          "target_price": "Analyst price targets range from $60-$90. Creator thinks stock was overvalued near $100 but attractive in current $27 range.",
-          "cautions": "Not a high-growth AI technology stock and won't deliver overnight 10x returns. Faces competition from Monster, Red Bull, and Coca-Cola. Costco's Kirkland energy drink competition is not comparable according to creator but represents market pressure."
         }
       ],
       "avoids": []
@@ -2001,7 +1963,7 @@
       "ticker": "CRWD",
       "company_name": "CrowdStrike",
       "buy_count": 1,
-      "avoid_count": 3,
+      "avoid_count": 2,
       "first_mention_date": "17 Jun 2026",
       "price_at_first_mention": 701.09,
       "pct_change_since_rec": -72.3,
@@ -2025,7 +1987,7 @@
         "ma200": 125.64,
         "ma_signal": "golden_cross",
         "pe_trailing": null,
-        "pe_forward": 124.262505,
+        "pe_forward": 124.21079,
         "peg_ratio": 6.31,
         "revenue_growth": 0.256,
         "earnings_growth": null,
@@ -2080,78 +2042,6 @@
           "company_name": "CrowdStrike Holdings",
           "reason": "The creator stated that while CrowdStrike is 'best in class' in cybersecurity, he would not pay the premium valuation for it. Cybersecurity names trade at a premium despite many not being profitable on a GAAP basis, with some showing only 0.6-1% operating margins or negative margins. While the creator believes cybersecurity will benefit from AI, he prefers Rubrik instead of CrowdStrike.",
           "risk": "Overvalued relative to profitability; trading at premium despite weak or negative GAAP profitability"
-        },
-        {
-          "channel": "CouchInvestor",
-          "title": "Broadcom Just Crashed 15%. Here's What It Means for Every AI Investor",
-          "url": "https://www.youtube.com/watch?v=pT_ZJ7COq4c",
-          "upload_date": "20260604",
-          "date_label": "04 Jun 2026",
-          "ticker": "CRWD",
-          "company_name": "CrowdStrike Holdings Inc.",
-          "reason": "While CrowdStrike delivered a strong quarter with net new ARR beating estimates by $5 million (2%), revenue beat by 2%, and ARR growth of 24.5% year-over-year, the stock has become extremely overvalued and overbought. The stock traded at $365 in mid-April, peaked at $784-785 (a 114% gain), and even after the earnings-driven pullback remains up 84% over the past month and a half. Trading at 154x forward EPS and 110x forward free cash flow, the valuation is disconnected from fundamentals. The creator explicitly states cybersecurity names 'are not cheap' and have 'run up significantly' to 'super high multiples' that 'didn't make sense.' This is a classic case of a quality business priced to perfection where even good earnings cannot justify further upside at current valuations.",
-          "risk": "Stock remains extremely overbought with RSI at extremes; a broader market correction would likely see this name decline significantly given its extended valuation"
-        }
-      ]
-    },
-    {
-      "ticker": "CSCO",
-      "company_name": "Cisco Systems",
-      "buy_count": 0,
-      "avoid_count": 1,
-      "first_mention_date": "04 Jun 2026",
-      "price_at_first_mention": 113.77,
-      "pct_change_since_rec": -0.9,
-      "market": {
-        "ticker": "CSCO",
-        "name": "Cisco Systems, Inc.",
-        "currency": "USD",
-        "sector": "Technology",
-        "industry": "Communication Equipment",
-        "market_cap": 444160278528,
-        "current_price": 112.69,
-        "daily_change_pct": -3.69,
-        "month_change_pct": -10.92,
-        "week52_high": 130.37,
-        "week52_high_date": "04 Jun 2026",
-        "week52_low": 65.75,
-        "week52_low_date": "18 Aug 2025",
-        "rsi": 43.4,
-        "rsi_label": "neutral",
-        "ma50": 111.02,
-        "ma200": 84.46,
-        "ma_signal": "golden_cross",
-        "pe_trailing": 37.563335,
-        "pe_forward": 23.591454,
-        "peg_ratio": 1.56,
-        "revenue_growth": 0.12,
-        "earnings_growth": 0.371,
-        "free_cashflow": 9288375296,
-        "profit_margins": 0.19685,
-        "debt_to_equity": 67.541,
-        "beta": 1.007,
-        "short_percent": 0.015700001,
-        "dividend_yield": 1.49,
-        "analyst_buy": 17,
-        "analyst_hold": 9,
-        "analyst_sell": 0,
-        "analyst_target": 127.18,
-        "analyst_upside_pct": 12.9,
-        "earnings_date": null,
-        "earnings_days": null
-      },
-      "buys": [],
-      "avoids": [
-        {
-          "channel": "Mr. FIRED Up Wealth",
-          "title": "5 Best Stocks to Buy NOW | 25-Year Investor Reveals His Buys!",
-          "url": "https://www.youtube.com/watch?v=icoRZgwZibI",
-          "upload_date": "20260604",
-          "date_label": "04 Jun 2026",
-          "ticker": "CSCO",
-          "company_name": "Cisco Systems",
-          "reason": "Wall Street comparison between Nvidia and Cisco is fundamentally flawed and invalid. During dot-com peak, Cisco had $550 billion market cap on only $19 billion revenue (150-200X multiples representing fantasy growth). In contrast, Nvidia has $216 billion revenue with far more reasonable valuations. Cisco took 26 years (from 2000 to 2026) just to get back to dot-com bubble highs, representing 26 years of dead money for investors.",
-          "risk": "Stock served as cautionary tale of overvalued tech companies. Took from 2000 until 2026 to recover to previous highs - extreme underperformance over 26-year period."
         }
       ]
     },
@@ -2177,32 +2067,6 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": "Canadian stock not available on many platforms like Robinhood; requires Interactive Brokers or similar for access. AI sentiment has negatively impacted software stocks broadly, but creator believes this is temporary market confusion specific to certain software segments."
-        }
-      ],
-      "avoids": []
-    },
-    {
-      "ticker": "CVWE",
-      "company_name": "CoreWeave Inc.",
-      "buy_count": 1,
-      "avoid_count": 0,
-      "first_mention_date": "04 Jun 2026",
-      "price_at_first_mention": null,
-      "pct_change_since_rec": null,
-      "market": null,
-      "buys": [
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "The 4 Best AI Stocks to Buy Today",
-          "url": "https://www.youtube.com/watch?v=Dt_4NEcJN3I",
-          "upload_date": "20260604",
-          "date_label": "04 Jun 2026",
-          "ticker": "CVWE",
-          "company_name": "CoreWeave Inc.",
-          "reason": "CoreWeave has over 1 gigawatt (1 GW) of operational power with actual GPUs running, which is the highest among competing data center operators in the space (next competitor Nebius has only 310 MW). The company has a $100 billion backlog in contracts, the largest in the industry, providing substantial visibility into future revenue. Despite debt concerns from competitors, the debt is justified by actual operational infrastructure driving current revenue. CoreWeave is being priced at levels comparable to competitors without the same operational power or backlog visibility. The creator considers this one of the most exciting opportunities with the most growth potential.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": "This is explicitly described as 'the one that I think is the most hated' and is characterized as 'one of my more riskier plays.' The company has significant debt and competition, and will likely need to either increase debt further, dilute shares, or take other actions that may be negative to shareholders as other players scale to compete. Stock is currently trading at $58."
         }
       ],
       "avoids": []
@@ -3298,7 +3162,7 @@
       "ticker": "INTC",
       "company_name": "Intel Corporation",
       "buy_count": 5,
-      "avoid_count": 2,
+      "avoid_count": 1,
       "first_mention_date": "09 Jun 2026",
       "price_at_first_mention": 128.32,
       "pct_change_since_rec": -6.2,
@@ -3408,17 +3272,6 @@
         }
       ],
       "avoids": [
-        {
-          "channel": "Mr. FIRED Up Wealth",
-          "title": "5 Best Stocks to Buy NOW | 25-Year Investor Reveals His Buys!",
-          "url": "https://www.youtube.com/watch?v=icoRZgwZibI",
-          "upload_date": "20260604",
-          "date_label": "04 Jun 2026",
-          "ticker": "INTC",
-          "company_name": "Intel Corporation",
-          "reason": "Historical chart resembles Cisco's pattern from dot-com bubble. Reached $70-$77 in 2000, then experienced prolonged decline. Despite getting close to previous highs in 2020 (50s-$68 range) and 2021, fundamentally different from today's profitable AI companies like Nvidia.",
-          "risk": "Similar to Cisco, Intel represents cautionary tale of extreme underperformance. Took decades to approach dot-com bubble highs with massive periods of lost value."
-        },
         {
           "channel": "CouchInvestor",
           "title": "4 Stocks I\u2019d Sell Before This Gets Worse",
@@ -3585,132 +3438,6 @@
       "avoids": []
     },
     {
-      "ticker": "ISRG",
-      "company_name": "Intuitive Surgical",
-      "buy_count": 1,
-      "avoid_count": 0,
-      "first_mention_date": "04 Jun 2026",
-      "price_at_first_mention": 404.27,
-      "pct_change_since_rec": 5.4,
-      "market": {
-        "ticker": "ISRG",
-        "name": "Intuitive Surgical, Inc.",
-        "currency": "USD",
-        "sector": "Healthcare",
-        "industry": "Medical Instruments & Supplies",
-        "market_cap": 150876913664,
-        "current_price": 426.01,
-        "daily_change_pct": 5.87,
-        "month_change_pct": 4.6,
-        "week52_high": 603.88,
-        "week52_high_date": "07 Jan 2026",
-        "week52_low": 396.68,
-        "week52_low_date": "02 Jun 2026",
-        "rsi": 56.5,
-        "rsi_label": "neutral",
-        "ma50": 429.73,
-        "ma200": 488.46,
-        "ma_signal": "death_cross",
-        "pe_trailing": 51.826035,
-        "pe_forward": 36.14604,
-        "peg_ratio": 2.23,
-        "revenue_growth": 0.23,
-        "earnings_growth": 0.188,
-        "free_cashflow": 2254087424,
-        "profit_margins": 0.28152,
-        "debt_to_equity": null,
-        "beta": 1.46,
-        "short_percent": 0.0221,
-        "dividend_yield": null,
-        "analyst_buy": 23,
-        "analyst_hold": 9,
-        "analyst_sell": 2,
-        "analyst_target": 565.08,
-        "analyst_upside_pct": 32.6,
-        "earnings_date": null,
-        "earnings_days": null
-      },
-      "buys": [
-        {
-          "channel": "Mr. FIRED Up Wealth",
-          "title": "5 Best Stocks to Buy NOW | 25-Year Investor Reveals His Buys!",
-          "url": "https://www.youtube.com/watch?v=icoRZgwZibI",
-          "upload_date": "20260604",
-          "date_label": "04 Jun 2026",
-          "ticker": "ISRG",
-          "company_name": "Intuitive Surgical",
-          "reason": "Market leader in robotic surgery with DaVinci systems as industry standard. Revenue is highly recurring and sticky with difficulty for hospitals to replace quickly. Growth around 16-17% in mature medical device space. Faces competition from Medtrocket and Johnson & Johnson but maintains market leadership. Recurring revenue model makes business more resilient than perceived.",
-          "when_to_buy": "Creator's preference is under $400 per share with DCA strategy. Buy zone extends up to maybe $450 if company fits personal investment thesis. Stock briefly dipped to $396 and now at $417.",
-          "target_price": "If stock worth $600, upside targets apply. Creator expects support around $385-$400 range.",
-          "cautions": "Elon Musk and others suggest Optimus robots could replace Intuitive Surgical's systems in several years. Physical AI and robotics could pose long-term threat. Should not be built as large position. Currently underperforming S&P 500 (up only 50% in 5 years). Down 25% in past year. Should only buy if fits personal investment blueprint and after doing homework."
-        }
-      ],
-      "avoids": []
-    },
-    {
-      "ticker": "LMB",
-      "company_name": "Limbach Holdings",
-      "buy_count": 1,
-      "avoid_count": 0,
-      "first_mention_date": "04 Jun 2026",
-      "price_at_first_mention": 81.26,
-      "pct_change_since_rec": -6.5,
-      "market": {
-        "ticker": "LMB",
-        "name": "Limbach Holdings, Inc.",
-        "currency": "USD",
-        "sector": "Industrials",
-        "industry": "Building Products & Equipment",
-        "market_cap": 906001088,
-        "current_price": 76.0,
-        "daily_change_pct": -2.09,
-        "month_change_pct": -6.75,
-        "week52_high": 151.5,
-        "week52_high_date": "03 Jul 2025",
-        "week52_low": 65.08,
-        "week52_low_date": "25 Nov 2025",
-        "rsi": 42.7,
-        "rsi_label": "neutral",
-        "ma50": 81.97,
-        "ma200": 83.97,
-        "ma_signal": "death_cross",
-        "pe_trailing": 27.737226,
-        "pe_forward": 14.919337,
-        "peg_ratio": 1.7,
-        "revenue_growth": 0.043,
-        "earnings_growth": -0.576,
-        "free_cashflow": 18625876,
-        "profit_margins": 0.05092,
-        "debt_to_equity": 38.949,
-        "beta": 1.423,
-        "short_percent": 0.090500005,
-        "dividend_yield": null,
-        "analyst_buy": 4,
-        "analyst_hold": 1,
-        "analyst_sell": 0,
-        "analyst_target": 115.6,
-        "analyst_upside_pct": 52.1,
-        "earnings_date": null,
-        "earnings_days": null
-      },
-      "buys": [
-        {
-          "channel": "Daniel Pronk",
-          "title": "5 Stocks I'm Buying In June 2026",
-          "url": "https://www.youtube.com/watch?v=wkAqHlYL7bQ",
-          "upload_date": "20260604",
-          "date_label": "04 Jun 2026",
-          "ticker": "LMB",
-          "company_name": "Limbach Holdings",
-          "reason": "Limbach is a specialty contractor providing critical maintenance services to mission-critical buildings (hospitals, data centers, industrial facilities, universities) across the Eastern United States. The company has undergone a successful transformation from low-margin GCR (new construction) revenue to high-margin ODR (recurring maintenance) revenue, with ODR growing 282% since Q1 2021 while GCR declined 46%. Management states this transformation is complete, positioning the company for accelerated total revenue growth. The data center business is newly ramping, already representing 27% of Q1 2026 bookings growth after just one quarter of focus, with a $30+ million contract won from a hyperscaler. The company reaffirmed full-year 2026 guidance for 13-17% revenue growth and 10-16% IBITA growth despite a weak Q1, indicating strength expected in H2 2026. The stock fell 37% on earnings despite meeting pre-guided weak Q1 results, creating a valuation disconnect. Limbach trades at 23x forward P/E and 14.3x free cash flow versus peers trading at 30-70x forward P/E, and below its own historical averages. The company projects ~$70 million free cash flow for 2026 (75% conversion from IBITA), and the data center opportunity is not yet priced in given the company's goal to become the single national contractor for hyperscaler data center portfolios.",
-          "when_to_buy": "Following 37% post-earnings decline in May 2026; creator actively accumulating at depressed levels",
-          "target_price": null,
-          "cautions": "Weak Q1 2026 results and near-term revenue lumpiness due to the 6-9 month booking cycle. Success depends on execution of data center projects and achieving guidance in H2 2026."
-        }
-      ],
-      "avoids": []
-    },
-    {
       "ticker": "LOCL",
       "company_name": "DLocal Limited",
       "buy_count": 1,
@@ -3850,69 +3577,6 @@
       "avoids": []
     },
     {
-      "ticker": "MA",
-      "company_name": "Mastercard",
-      "buy_count": 1,
-      "avoid_count": 0,
-      "first_mention_date": "04 Jun 2026",
-      "price_at_first_mention": 499.02,
-      "pct_change_since_rec": 8.1,
-      "market": {
-        "ticker": "MA",
-        "name": "Mastercard Incorporated",
-        "currency": "USD",
-        "sector": "Financial Services",
-        "industry": "Credit Services",
-        "market_cap": 476596305920,
-        "current_price": 539.39,
-        "daily_change_pct": 3.24,
-        "month_change_pct": 14.39,
-        "week52_high": 601.77,
-        "week52_high_date": "22 Aug 2025",
-        "week52_low": 464.52,
-        "week52_low_date": "03 Jun 2026",
-        "rsi": 71.4,
-        "rsi_label": "overbought",
-        "ma50": 497.45,
-        "ma200": 530.08,
-        "ma_signal": "death_cross",
-        "pe_trailing": 31.25087,
-        "pe_forward": 23.671993,
-        "peg_ratio": 1.66,
-        "revenue_growth": 0.158,
-        "earnings_growth": 0.212,
-        "free_cashflow": 16148124672,
-        "profit_margins": 0.45876,
-        "debt_to_equity": 282.059,
-        "beta": 0.729,
-        "short_percent": 0.0076,
-        "dividend_yield": 0.65,
-        "analyst_buy": 36,
-        "analyst_hold": 3,
-        "analyst_sell": 0,
-        "analyst_target": 643.59,
-        "analyst_upside_pct": 19.3,
-        "earnings_date": null,
-        "earnings_days": null
-      },
-      "buys": [
-        {
-          "channel": "Daniel Pronk",
-          "title": "5 Stocks I'm Buying In June 2026",
-          "url": "https://www.youtube.com/watch?v=wkAqHlYL7bQ",
-          "upload_date": "20260604",
-          "date_label": "04 Jun 2026",
-          "ticker": "MA",
-          "company_name": "Mastercard",
-          "reason": "Mastercard is a highest-quality business with strong structural moats in global payments. While facing concerns about government-backed internal payment systems (e.g., Brazil's Pix, India's UPI), these internal systems are largely limited to domestic bank-to-bank transfers and remain useless for international purchases, travel, credit building, buy-now-pay-later, and e-commerce. Credit cards retain value for cross-border transactions, travel, rewards, protection, and online purchases. Evidence: Nuvbank has issued hundreds of millions of Mastercards in Brazil despite Pix adoption, and credit card usage remains strong. Mastercard is pivoting beyond pure payment network to value-added services (data, cybersecurity) that now comprise over 40% of revenue and grow faster than the payment network itself, diversifying cash flow and reducing reliance on any single moat. The business continues to grow strongly despite payment system disruption concerns. Mastercard stock has sold off to decade-low price multiples\u2014lower than during COVID and the 2022 sell-off\u2014despite continued strong growth and margin expansion.",
-          "when_to_buy": "Decade-low valuation multiples provide compelling entry",
-          "target_price": null,
-          "cautions": "Concerns around potential disruption from government-backed payment rails and competition from alternative payment systems, though creator believes the moat remains intact for international and cross-border use cases."
-        }
-      ],
-      "avoids": []
-    },
-    {
       "ticker": "MAGS",
       "company_name": "Roundhill Magnificent 7 ETF",
       "buy_count": 1,
@@ -3978,9 +3642,9 @@
     {
       "ticker": "MELI",
       "company_name": "Mercado Libre",
-      "buy_count": 7,
+      "buy_count": 6,
       "avoid_count": 0,
-      "first_mention_date": "04 Jun 2026",
+      "first_mention_date": "06 Jun 2026",
       "price_at_first_mention": 1675.1,
       "pct_change_since_rec": 5.3,
       "market": {
@@ -4049,19 +3713,6 @@
           "cautions": "Margins are currently being compressed as company invests aggressively for growth. Investors must model either: (1) revenue deceleration with margin expansion, or (2) continued 20-30% revenue growth through 2032 with suppressed margins. Company is still rolling out products across Latin America (e.g., credit card launched in Argentina August 2024 but not yet in Chile/Colombia), so execution risk remains. Stock experienced 7% decline on negative sentiment despite strong fundamentals."
         },
         {
-          "channel": "Daniel Pronk",
-          "title": "5 Stocks I'm Buying In June 2026",
-          "url": "https://www.youtube.com/watch?v=wkAqHlYL7bQ",
-          "upload_date": "20260604",
-          "date_label": "04 Jun 2026",
-          "ticker": "MELI",
-          "company_name": "MercadoLibre",
-          "reason": "MercadoLibre is the largest e-commerce platform in Latin America with 33% market share and growing faster than Amazon at over 30% year-over-year, continuing to take market share. E-commerce penetration in Latin America is only ~10% of total retail sales, indicating substantial runway for growth. The advertising business has accelerated to 73% year-over-year growth in Q1 2026, reaching $1.75 billion in trailing twelve-month revenue with ~80% operating margins. Ads revenue as a percentage of GMV (10%) remains well below Amazon's (6%) on a per-unit basis, providing significant upside potential. Ads business alone could be valued at $48 billion at a 30x multiple. The fintech business generated ~$14 billion in trailing twelve-month revenue, nearly equivalent to all of Nuvbank's $17.5 billion revenue, suggesting a standalone valuation of ~$50 billion. Combined, the ads and fintech businesses are worth more than the entire $82 billion market cap, not accounting for the core e-commerce business. At current valuation, the market is not pricing in the substantial growth potential or the margin expansion that will occur when the company eventually reduces investment intensity.",
-          "when_to_buy": "Creator has been buying consistently over the past month; stock continues to trade down",
-          "target_price": null,
-          "cautions": "Stock has faced sustained selling pressure from the market. The bull case depends on eventual margin expansion as the company reduces reinvestment rates and the market recognizing the sum-of-the-parts value."
-        },
-        {
           "channel": "Mr. FIRED Up Wealth",
           "title": "SpaceX Hype vs Reality \u2014 Plus 7 Best Stocks to Buy Now!",
           "url": "https://www.youtube.com/watch?v=rB6hoJTQYP8",
@@ -4119,9 +3770,9 @@
     {
       "ticker": "META",
       "company_name": "Meta Platforms",
-      "buy_count": 22,
+      "buy_count": 19,
       "avoid_count": 2,
-      "first_mention_date": "04 Jun 2026",
+      "first_mention_date": "05 Jun 2026",
       "price_at_first_mention": 550.25,
       "pct_change_since_rec": 5.9,
       "market": {
@@ -4190,19 +3841,6 @@
           "cautions": "Meta's capex guidance is now above operating cash flow, meaning company will be free-cash-flow negative in near term. Rumors of potential equity issuance caused 7% stock decline, though creator hopes this does not occur. Sentiment toward the stock is extremely negative, creating valuation compression despite strong fundamentals."
         },
         {
-          "channel": "Daniel Pronk",
-          "title": "5 Stocks I'm Buying In June 2026",
-          "url": "https://www.youtube.com/watch?v=wkAqHlYL7bQ",
-          "upload_date": "20260604",
-          "date_label": "04 Jun 2026",
-          "ticker": "META",
-          "company_name": "Meta Platforms",
-          "reason": "Meta announced Meta Business Agent, an AI-powered assistant for businesses of all sizes, with over 1 million businesses already using it on WhatsApp and Messenger. The platform is being rolled out globally for free initially, then monetized via tiered subscriptions for businesses of all sizes. The AI agent can answer questions, make product recommendations, book appointments, qualify leads, and handle customer service 24/7. Beyond sales, the agent provides business owners with intelligent briefings summarizing customer feedback, pain points, and trends from millions of customer interactions\u2014essentially functioning as a digital employee. Meta can monetize this across its 3.5 billion daily active users and tens of millions of businesses using WhatsApp, Instagram, and Facebook. This represents a new recurring, high-margin revenue stream that diversifies away from advertising. Current growth is accelerating to over 30% year-over-year. A conservative DCF assuming only 15% annual operating cash flow growth (a deceleration from current ~30%) and 13x price-to-operating-cash-flow (well below the historical median of 17.4x) yields 16% CAGR and a fair value of $732 per share within three years. The stock is not priced for this optionality or the ability to monetize the massive user and business base.",
-          "when_to_buy": "Creator continuing to buy at current price range",
-          "target_price": "$732 in DCF (3-year fair value under conservative assumptions); $1,000 potential stock price if metrics achieved",
-          "cautions": "Monetization execution risk on business agents\u2014success depends on adoption rates, willingness of businesses to pay subscription fees, and competitive responses. Regulatory risk in multiple jurisdictions. Cyclical advertising revenue remains a significant portion of the business."
-        },
-        {
           "channel": "The Traveling Trader",
           "title": "What the HELL Just Happened to the Stock Market?",
           "url": "https://www.youtube.com/watch?v=HkQ2sotw9yQ",
@@ -4266,19 +3904,6 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": "Meta faces significant regulatory and legal headwinds, including EU and US scrutiny. The CFO noted they continue to monitor active legal and regulatory matters that could significantly impact business and financial results. Specific risks include youth-related scrutiny with additional trials scheduled in the US that may result in material loss, EU data privacy rules, youth safety litigations, and potential antitrust actions. Any adverse ruling, particularly in the EU where Meta's data practices are under intense scrutiny, could force costly operational changes or result in significant fines. Additionally, the company is spending substantial capital, though the creator notes the investment is justified by business growth. These regulatory risks have not yet slowed the business, but warrant monitoring of courtroom developments."
-        },
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "The 4 Best AI Stocks to Buy Today",
-          "url": "https://www.youtube.com/watch?v=Dt_4NEcJN3I",
-          "upload_date": "20260604",
-          "date_label": "04 Jun 2026",
-          "ticker": "META",
-          "company_name": "Meta Platforms Inc.",
-          "reason": "Meta has a forward P/E ratio of approximately 18.98 and is one of the cheapest stocks in the Magnificent 7 index. The company benefits dramatically from artificial intelligence through advertising efficiencies and incremental ad increases. Meta is pushing agentic business AI solutions that allow businesses to pay a monthly fee for AI assistance, which the creator views as a 'no-brainer' offering. These business agents are expandable across multiple platforms like Spotify and Shopify. The creator would personally use Meta's business AI solution if they had a business. This valuations offer significant growth story potential.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": null
         },
         {
           "channel": "Mr. FIRED Up Wealth",
@@ -4396,19 +4021,6 @@
           "when_to_buy": "Current range of 600-620 per share",
           "target_price": "Base case represents close to 50% upside, Bull case at 90.3% upside",
           "cautions": "CAPEX is increasing and free cash flow is coming down drastically for now. The creator acknowledges the stock may not move immediately despite the valuation disconnect."
-        },
-        {
-          "channel": "CouchInvestor",
-          "title": "Broadcom Just Crashed 15%. Here's What It Means for Every AI Investor",
-          "url": "https://www.youtube.com/watch?v=pT_ZJ7COq4c",
-          "upload_date": "20260604",
-          "date_label": "04 Jun 2026",
-          "ticker": "META",
-          "company_name": "Meta Platforms Inc.",
-          "reason": "The creator views Meta as an absolute no-brainer at current prices around $600. Meta has developed a strong baseline model (LLaMA) that they are comfortable building on, which was the most critical piece missing. The company now has distribution through WhatsApp, Messenger, and Instagram with billions of users, an existing advertising business running on the platform, and established relationships with enterprises and businesses. Meta's monetization strategy is straightforward: leveraging AI agents for agentic shopping across Instagram Reels, DoorDash, Etsy, Reddit, Yelp, and Outlook for B2C, and streamlined business funnels via Shopify, Zendesk, and Shopee for B2B with usage-based monetization. The creator emphasizes that execution on faster model releases (version 2 expected to be better) combined with existing infrastructure makes monetization inevitable. Additionally, if Meta overbuilds on infrastructure, the creator believes they can easily attract tenants to rent data center capacity and GPUs at a premium, making it a win-win scenario.",
-          "when_to_buy": "Around $600 valuation represents an attractive entry point",
-          "target_price": "Canaccord price target of $930 over 12 months; creator speculates stock could move 'quite quickly over $800'",
-          "cautions": "Execution is critical - the company must deliver better models and faster iteration. The creator notes that Meta's Copilot product has been underwhelming, so proof of concept on superior AI offerings is necessary."
         },
         {
           "channel": "Ticker Symbol: YOU",
@@ -4578,7 +4190,7 @@
         "currency": "USD",
         "sector": "Technology",
         "industry": "Semiconductors",
-        "market_cap": 214764421120,
+        "market_cap": 214579691520,
         "current_price": 245.29,
         "daily_change_pct": -9.84,
         "month_change_pct": -18.68,
@@ -4948,9 +4560,9 @@
     {
       "ticker": "MU",
       "company_name": "Micron Technology Inc.",
-      "buy_count": 12,
+      "buy_count": 11,
       "avoid_count": 1,
-      "first_mention_date": "04 Jun 2026",
+      "first_mention_date": "07 Jun 2026",
       "price_at_first_mention": 1132.33,
       "pct_change_since_rec": -13.8,
       "market": {
@@ -5069,19 +4681,6 @@
           "when_to_buy": "Any dips; creator has $77 cost basis and holding",
           "target_price": "$1,500-$2,200 analyst targets; one-month bull case $1,300; aggressive case $1,500",
           "cautions": "Stock already up 273% year-to-date and 824% over the last year; already near highs today at $1,255; ensure proper position sizing given valuation"
-        },
-        {
-          "channel": "Mr. FIRED Up Wealth",
-          "title": "5 Best Stocks to Buy NOW | 25-Year Investor Reveals His Buys!",
-          "url": "https://www.youtube.com/watch?v=icoRZgwZibI",
-          "upload_date": "20260604",
-          "date_label": "04 Jun 2026",
-          "ticker": "MU",
-          "company_name": "Micron Technology",
-          "reason": "First recommended at $80 in December 2024. The company has pivoted to focus on data center business and will benefit from LLM training requiring more inference and edge cloud computing, necessitating CPUs, memory, and storage. Strong fundamentals with 58% gross profit margin, $454,000 net income per employee TTM, 91% forward revenue growth, and a forward P/E of only 18.32 with PEG ratio of 0.12. Stock has achieved 10x+ returns in a year and a half, showing strong momentum in the AI infrastructure space.",
-          "when_to_buy": "Creator is not buying at current levels but looking to trim around $1,300-$1,500. New investors might consider buying, especially on dips to $700 support level.",
-          "target_price": "Potential 50% upside from current levels if market remains bullish",
-          "cautions": "Stock is up 889% in one year and currently at $1,000 per share. Expect massive beta and potential pullback to $700. Do not expect overnight gains after such a significant run. Creator is trimming profits rather than buying at current levels due to already owning at much lower prices."
         },
         {
           "channel": "CouchInvestor",
@@ -5307,9 +4906,9 @@
     {
       "ticker": "NFLX",
       "company_name": "Netflix Inc.",
-      "buy_count": 10,
+      "buy_count": 9,
       "avoid_count": 1,
-      "first_mention_date": "04 Jun 2026",
+      "first_mention_date": "05 Jun 2026",
       "price_at_first_mention": 73.81,
       "pct_change_since_rec": 5.2,
       "market": {
@@ -5376,19 +4975,6 @@
           "when_to_buy": "Currently trading around $78.71; creator believes $75 could be support or floor; willing to accumulate lower",
           "target_price": "Creator illustrates upside to $124 and downside scenario to $65, viewing risk-reward as attractive",
           "cautions": "The stock keeps drifting lower and is not an AI player, so it's getting thrown in the trash by many investors. The creator emphasizes you cannot buy a stock just off a chart\u2014you must do homework and understand what you're buying."
-        },
-        {
-          "channel": "Mr. FIRED Up Wealth",
-          "title": "5 Best Stocks to Buy NOW | 25-Year Investor Reveals His Buys!",
-          "url": "https://www.youtube.com/watch?v=icoRZgwZibI",
-          "upload_date": "20260604",
-          "date_label": "04 Jun 2026",
-          "ticker": "NFLX",
-          "company_name": "Netflix",
-          "reason": "Down 34% in past year but fundamentally sound with 49% gross profit margin and $835,000 net income per employee. Mature growth company with 13-15% growth rate. Valuation attractive with forward P/E of 22.68 and PEG ratio of 0.56 (under 1, which creator likes). Room to expand on advertising and international segments. Off its highs and appears washed out and oversold technically.",
-          "when_to_buy": "Creator likes it at $81 per share where he's buying. Willing to DCA down if stock falls to 70s ($75-$79 range). Prefers smaller 2-3% portfolio position.",
-          "target_price": "Creator's target is $125 in next 12-18 months. Analyst average price target is $115 (41.69% upside from $81), with highest at $135 and lowest at $95.",
-          "cautions": "Streaming might not be top secular growth trend for all investors. Some see robotics/AI threatening the business model. Should only buy if fits personal investment blueprint. Risk/reward extends down to $70 support level."
         },
         {
           "channel": "CouchInvestor",
@@ -5762,10 +5348,10 @@
     },
     {
       "ticker": "NU",
-      "company_name": "Nuvbank",
-      "buy_count": 3,
+      "company_name": "Nu Holdings",
+      "buy_count": 2,
       "avoid_count": 0,
-      "first_mention_date": "04 Jun 2026",
+      "first_mention_date": "07 Jun 2026",
       "price_at_first_mention": 13.17,
       "pct_change_since_rec": 3.3,
       "market": {
@@ -5808,19 +5394,6 @@
       },
       "buys": [
         {
-          "channel": "Daniel Pronk",
-          "title": "5 Stocks I'm Buying In June 2026",
-          "url": "https://www.youtube.com/watch?v=wkAqHlYL7bQ",
-          "upload_date": "20260604",
-          "date_label": "04 Jun 2026",
-          "ticker": "NU",
-          "company_name": "Nuvbank",
-          "reason": "Nuvbank is a digital bank operating across South America with Brazil as the largest profit engine, now expanding into the United States. The company is growing revenues and net income by over 40% year-over-year with a trailing twelve-month net income of 3.2 billion in Q1 2026, having reached all-time highs. Customer base hit 135 million with average revenue per active account at $16, while cost to serve has declined significantly\u2014from $110/month in Q4 2020 to current levels\u2014creating operating leverage. Monthly average revenue per customer grew from $3.30 to $16 while costs remained flat, generating substantial net income acceleration. Brazil is the leading digital bank with significant TAM remaining, while Mexico\u2014with 15 million customers and $124 ARPU\u2014is now break-even and should contribute positive net income going forward, representing an equally massive untapped TAM. The new CFO hire from Visa (former CFO of Visa North America, the company's largest business) is viewed as a bullish signal for scaling operations. Nuvbank trades at only 18.4x trailing P/E and 12.4x forward P/E despite 40%+ revenue growth, 30-40% net income growth, and massive remaining TAM across multiple geographies.",
-          "when_to_buy": "Recent CFO departure created selling pressure; creator views this as an attractive entry point",
-          "target_price": null,
-          "cautions": "Recent CFO resignation caused stock decline. Currency and regulatory risks in operating across multiple Latin American countries and new U.S. expansion. Success depends on Mexico profitability ramp and U.S. market entry execution."
-        },
-        {
           "channel": "CouchInvestor",
           "title": "The 4 Stocks I\u2019m Closest to Buying Right Now And Why I Haven\u2019t Yet",
           "url": "https://www.youtube.com/watch?v=7-rjKHooC70",
@@ -5852,9 +5425,9 @@
     {
       "ticker": "NVDA",
       "company_name": "Nvidia Corporation",
-      "buy_count": 15,
+      "buy_count": 13,
       "avoid_count": 1,
-      "first_mention_date": "04 Jun 2026",
+      "first_mention_date": "05 Jun 2026",
       "price_at_first_mention": 192.53,
       "pct_change_since_rec": 1.2,
       "market": {
@@ -5986,32 +5559,6 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": null
-        },
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "The 4 Best AI Stocks to Buy Today",
-          "url": "https://www.youtube.com/watch?v=Dt_4NEcJN3I",
-          "upload_date": "20260604",
-          "date_label": "04 Jun 2026",
-          "ticker": "NVDA",
-          "company_name": "Nvidia Corporation",
-          "reason": "Nvidia is described as 'one of those few no-brainer stocks' with a forward P/E ratio of 21.61, which the creator believes is underestimated by analysts. The creator asserts the true forward P/E ratio is likely in the 18s-19s range. Data center revenue continues to accelerate dramatically at 92.4% in the most recent quarter, and they are maintaining this high growth rate despite already having a massive $75 billion revenue base. The company continues to innovate and is a monster in the semiconductor space. The creator considers this a strong investment despite believing no stock is a true no-brainer.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": "The creator notes that 'there's never a no-brainer in the stock market' and emphasizes risk-to-reward considerations should always be evaluated."
-        },
-        {
-          "channel": "Mr. FIRED Up Wealth",
-          "title": "5 Best Stocks to Buy NOW | 25-Year Investor Reveals His Buys!",
-          "url": "https://www.youtube.com/watch?v=icoRZgwZibI",
-          "upload_date": "20260604",
-          "date_label": "04 Jun 2026",
-          "ticker": "NVDA",
-          "company_name": "Nvidia Corporation",
-          "reason": "Held since under $4 per share. Unlike the Cisco comparison made by Wall Street analysts, Nvidia has fundamentally different profitability metrics with trailing PE of 34 and forward PE of 25 on $216 billion fiscal 2026 revenue (up 65% YoY). This contrasts sharply with Cisco at dot-com peak which had 150-200X multiples on only $19 billion revenue. Nvidia is a must-own stock for any portfolio with genuine profitable growth, not fantasy valuations.",
-          "when_to_buy": "Creator is overweight and looking to trim as stock approaches $300. New investors should consider owning some if they don't already own it.",
-          "target_price": "Expects Nvidia between $250-$300 in 2026. Analyst average price target is $310 (41% upside from $220), with highest target at $500 and lowest at $250.",
-          "cautions": "Stock has already had a significant run. Creator acknowledges that buying after such gains requires patience and should assume market remains bullish. Already owns at much lower prices so is not actively buying but trimming."
         },
         {
           "channel": "CouchInvestor",
@@ -6502,7 +6049,7 @@
       "ticker": "PANW",
       "company_name": "Palo Alto Networks Inc.",
       "buy_count": 0,
-      "avoid_count": 2,
+      "avoid_count": 1,
       "first_mention_date": "09 Jun 2026",
       "price_at_first_mention": 304.2,
       "pct_change_since_rec": 14.4,
@@ -6556,17 +6103,6 @@
           "company_name": "Palo Alto Networks Inc.",
           "reason": "Same as PALO above - the creator viewed cybersecurity stocks broadly as overvalued relative to their profitability.",
           "risk": "Trading at premium valuation; cybersecurity sector correction possible"
-        },
-        {
-          "channel": "CouchInvestor",
-          "title": "Broadcom Just Crashed 15%. Here's What It Means for Every AI Investor",
-          "url": "https://www.youtube.com/watch?v=pT_ZJ7COq4c",
-          "upload_date": "20260604",
-          "date_label": "04 Jun 2026",
-          "ticker": "PANW",
-          "company_name": "Palo Alto Networks Inc.",
-          "reason": "Despite delivering a strong quarter with revenue beat by 2%, RPO beat by 2.7%, organic bookings growth of 22%, EBIT beat by 4.9%, and raised guidance across revenue, RPO, and EPS, the stock has run up 91-109% since end of March and is trading at 74x forward EPS and 47x forward free cash flow. The creator notes that cybersecurity names broadly 'are not cheap' and that Palo Alto, while cheaper than peers due to better profitability, still does not justify the valuation multiple. Even with excellent business fundamentals and strong organic next-gen ARR growth of 40 basis points, the stock is priced to perfection. The creator states that 'even when you come out with a good quarter, well, you're going to get hit' when valuations are this extended, especially during market pullbacks.",
-          "risk": "High valuation multiple at 74x forward EPS leaves stock vulnerable to correction; even strong execution cannot support current price levels"
         }
       ]
     },
@@ -8260,69 +7796,6 @@
       "avoids": []
     },
     {
-      "ticker": "TMUS",
-      "company_name": "T-Mobile",
-      "buy_count": 1,
-      "avoid_count": 0,
-      "first_mention_date": "04 Jun 2026",
-      "price_at_first_mention": 182.68,
-      "pct_change_since_rec": -2.8,
-      "market": {
-        "ticker": "TMUS",
-        "name": "T-Mobile US, Inc.",
-        "currency": "USD",
-        "sector": "Communication Services",
-        "industry": "Telecom Services",
-        "market_cap": 192112984064,
-        "current_price": 177.52,
-        "daily_change_pct": 2.58,
-        "month_change_pct": -2.17,
-        "week52_high": 261.56,
-        "week52_high_date": "20 Aug 2025",
-        "week52_low": 165.66,
-        "week52_low_date": "30 Jun 2026",
-        "rsi": 44.8,
-        "rsi_label": "neutral",
-        "ma50": 186.13,
-        "ma200": 202.22,
-        "ma_signal": "death_cross",
-        "pe_trailing": 18.865038,
-        "pe_forward": 12.702284,
-        "peg_ratio": 0.7,
-        "revenue_growth": 0.106,
-        "earnings_growth": -0.12,
-        "free_cashflow": 11147374592,
-        "profit_margins": 0.116459996,
-        "debt_to_equity": 218.569,
-        "beta": 0.319,
-        "short_percent": 0.048299998,
-        "dividend_yield": 2.3,
-        "analyst_buy": 25,
-        "analyst_hold": 4,
-        "analyst_sell": 0,
-        "analyst_target": 259.08,
-        "analyst_upside_pct": 45.9,
-        "earnings_date": null,
-        "earnings_days": null
-      },
-      "buys": [
-        {
-          "channel": "Mr. FIRED Up Wealth",
-          "title": "5 Best Stocks to Buy NOW | 25-Year Investor Reveals His Buys!",
-          "url": "https://www.youtube.com/watch?v=icoRZgwZibI",
-          "upload_date": "20260604",
-          "date_label": "04 Jun 2026",
-          "ticker": "TMUS",
-          "company_name": "T-Mobile",
-          "reason": "Strong profitability with 63% gross profit margin and $140,000 net income per employee. Trading at attractive 17.34 forward P/E ratio (sector median is 15.78, but these companies have lower growth). Paying 2.25% dividend with healthy 36% payout ratio. Described as upcoming dividend growth investment (DGI) with 2-year dividend growth history, positioned as income play rather than growth play.",
-          "when_to_buy": "Creator bought in dividend portfolio at current levels. No specific entry point mentioned beyond general dividend investor framework.",
-          "target_price": null,
-          "cautions": "Down 27% in past five years, so not a good performer historically. Only up 21% over five years. Dividend growth is only 2 years old, so not yet an established dividend growth stock but 'up-and-coming' DGI play. Growth expectations only 6-9% annually. Should only be bought by those seeking dividend income, not capital appreciation."
-        }
-      ],
-      "avoids": []
-    },
-    {
       "ticker": "TOI",
       "company_name": "Topicus (Constellation Software subsidiary)",
       "buy_count": 1,
@@ -8413,7 +7886,7 @@
         "ma200": 418.61,
         "ma_signal": "death_cross",
         "pe_trailing": 357.68182,
-        "pe_forward": 154.47221,
+        "pe_forward": 154.48071,
         "peg_ratio": 5.76,
         "revenue_growth": 0.158,
         "earnings_growth": 0.083,

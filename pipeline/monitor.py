@@ -159,7 +159,7 @@ def get_transcript(video_id: str, cookies_path: str | None = None) -> str | None
         cmd = [
             "yt-dlp", "--write-auto-subs", "--write-subs",
             "--sub-langs", "en.*", "--sub-format", "vtt",
-            "--skip-download", "--no-playlist",
+            "--skip-download", "--no-playlist", "--ignore-no-formats-error",
             "-o", f"/tmp/yt_transcript_{video_id}",
             f"https://www.youtube.com/watch?v={video_id}",
         ]

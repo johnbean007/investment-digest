@@ -163,8 +163,13 @@ def get_transcript(video_id: str, cookies_path: str | None = None) -> str | None
             "-o", f"/tmp/yt_transcript_{video_id}",
             f"https://www.youtube.com/watch?v={video_id}",
         ]
-        subprocess.run(cmd, capture_output=True, text=True, timeout=60)
+        if cookies_path:
+            cmd[1:1] = ["--cookies", cookies_path]
+        result = subprocess.run(cmd, capture_output=True, text=True, timeout=60)
         vtt_files = glob.glob(f"/tmp/yt_transcript_{video_id}*.vtt")
+        if not vtt_files:
+            stderr_tail = result.stderr.strip().splitlines()[-1] if result.stderr.strip() else "(no stderr)"
+            log.warning(f"  yt-dlp found no subtitles for {video_id} (exit {result.returncode}): {stderr_tail}")
         if vtt_files:
             raw = Path(vtt_files[0]).read_text()
             Path(vtt_files[0]).unlink(missing_ok=True)

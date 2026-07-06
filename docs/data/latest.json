@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T09:36:17.734722",
-  "video_count": 54,
+  "generated_at": "2026-07-06T08:32:31.358729",
+  "video_count": 52,
   "stock_count": 108,
   "stocks": [
     {
@@ -884,7 +884,7 @@
         "ma200": 1311.8,
         "ma_signal": "golden_cross",
         "pe_trailing": 60.24242,
-        "pe_forward": 35.813248,
+        "pe_forward": 35.78747,
         "peg_ratio": 2.65,
         "revenue_growth": 0.132,
         "earnings_growth": 0.192,
@@ -897,8 +897,8 @@
         "analyst_buy": 38,
         "analyst_hold": 5,
         "analyst_sell": 1,
-        "analyst_target": 1782.83,
-        "analyst_upside_pct": 0.8,
+        "analyst_target": 1780.18,
+        "analyst_upside_pct": 0.6,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -2562,9 +2562,9 @@
     {
       "ticker": "GOOGL",
       "company_name": "Google (Alphabet Inc.)",
-      "buy_count": 16,
+      "buy_count": 15,
       "avoid_count": 0,
-      "first_mention_date": "05 Jun 2026",
+      "first_mention_date": "07 Jun 2026",
       "price_at_first_mention": 337.39,
       "pct_change_since_rec": 6.7,
       "market": {
@@ -2761,19 +2761,6 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": null
-        },
-        {
-          "channel": "CouchInvestor",
-          "title": "4 Stocks I'm Buying in June. Here's Why",
-          "url": "https://www.youtube.com/watch?v=cZWmxrsWbhQ",
-          "upload_date": "20260605",
-          "date_label": "05 Jun 2026",
-          "ticker": "GOOGL",
-          "company_name": "Alphabet Inc.",
-          "reason": "Google is positioned to be one of the biggest winners in the AI story based on what it has demonstrated over the past couple of months and quarters, making it very difficult for other companies to compete. The company is extremely powerful and nearly impossible to disrupt. Even in a scenario of a major market crash where unprofitable companies are crushed, the creator is almost certain Google will not suffer the same fate and will likely pick up the pieces to become even bigger. The company raised $85 billion recently (approximately 2% dilution) demonstrating financial strength and showing competitors what is possible. Google's ecosystem, profitability, and market position provide downside protection.",
-          "when_to_buy": "If market pulls back to $350 or lower, the creator would be interested in buying more. Currently close to all-time highs.",
-          "target_price": "Base case is close to current price, Bear case represents 22.3% downside, Bull case represents 27% upside",
-          "cautions": "Stock is currently trading near all-time highs at 4.45 trillion dollar valuation and forward PE close to 28x, so entry point matters. The bull case scenario may take time to materialize."
         },
         {
           "channel": "Ticker Symbol: YOU",
@@ -3770,9 +3757,9 @@
     {
       "ticker": "META",
       "company_name": "Meta Platforms",
-      "buy_count": 19,
+      "buy_count": 18,
       "avoid_count": 2,
-      "first_mention_date": "05 Jun 2026",
+      "first_mention_date": "07 Jun 2026",
       "price_at_first_mention": 550.25,
       "pct_change_since_rec": 5.9,
       "market": {
@@ -4008,19 +3995,6 @@
           "when_to_buy": "Under $600 per share (recent price level)",
           "target_price": null,
           "cautions": "Stock is currently under pressure from potential capital raise speculation; creator believes dilution at current undervalued levels would be poor timing. Reports suggest potential $10+ billion equity offering, though Meta denied speculation."
-        },
-        {
-          "channel": "CouchInvestor",
-          "title": "4 Stocks I'm Buying in June. Here's Why",
-          "url": "https://www.youtube.com/watch?v=cZWmxrsWbhQ",
-          "upload_date": "20260605",
-          "date_label": "05 Jun 2026",
-          "ticker": "META",
-          "company_name": "Meta Platforms Inc.",
-          "reason": "The creator believes Meta's valuation at 600-620 range does not make sense given the company's ability to monetize AI in multiple ways that are just beginning to be reflected in earnings. The company has shown it can use AI better than virtually any competitor and the market will eventually realize the monetization opportunity. Currently trading at a forward PE of 17.7x and trailing PE of 22.2x, which the creator views as extremely cheap despite rising CAPEX and declining free cash flow in the near term. The creator plans to continue accumulating shares as the risk-reward profile is very attractive.",
-          "when_to_buy": "Current range of 600-620 per share",
-          "target_price": "Base case represents close to 50% upside, Bull case at 90.3% upside",
-          "cautions": "CAPEX is increasing and free cash flow is coming down drastically for now. The creator acknowledges the stock may not move immediately despite the valuation disconnect."
         },
         {
           "channel": "Ticker Symbol: YOU",
@@ -4293,7 +4267,7 @@
         "ma200": 443.78,
         "ma_signal": "death_cross",
         "pe_trailing": 23.257294,
-        "pe_forward": 20.160732,
+        "pe_forward": 20.16825,
         "peg_ratio": 1.2,
         "revenue_growth": 0.183,
         "earnings_growth": 0.234,
@@ -4906,9 +4880,9 @@
     {
       "ticker": "NFLX",
       "company_name": "Netflix Inc.",
-      "buy_count": 9,
+      "buy_count": 8,
       "avoid_count": 1,
-      "first_mention_date": "05 Jun 2026",
+      "first_mention_date": "07 Jun 2026",
       "price_at_first_mention": 73.81,
       "pct_change_since_rec": 5.2,
       "market": {
@@ -5040,19 +5014,6 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": "Stock has not moved much upside this year despite solid fundamentals; lacks momentum."
-        },
-        {
-          "channel": "CouchInvestor",
-          "title": "4 Stocks I'm Buying in June. Here's Why",
-          "url": "https://www.youtube.com/watch?v=cZWmxrsWbhQ",
-          "upload_date": "20260605",
-          "date_label": "05 Jun 2026",
-          "ticker": "NFLX",
-          "company_name": "Netflix Inc.",
-          "reason": "Netflix is a company the creator believes will not be disrupted and will become stronger and more profitable due to AI. Trading at $81 per share with a $342 billion valuation that is attractive relative to its growth prospects. Expected revenue growth of 13-13.7% this fiscal year declining to 10.2% in later years, though the creator believes they can grow faster than current expectations. Free cash flow is expected to grow 39.1% this fiscal year and normalize to 19% in fiscal 2028. The company is a forgotten name that is overlooked because it doesn't build data centers or have chips, but it is a very strong company that will become more profitable. At current valuations, the creator sees it as a gift given the quality of the business.",
-          "when_to_buy": "Current price around $81 per share is attractive",
-          "target_price": null,
-          "cautions": "The creator does not expect a 5x return from current levels. It is not one of the high-growth names currently in favor with the market, which means momentum is not with it."
         },
         {
           "channel": "The Traveling Trader",
@@ -5425,9 +5386,9 @@
     {
       "ticker": "NVDA",
       "company_name": "Nvidia Corporation",
-      "buy_count": 13,
+      "buy_count": 12,
       "avoid_count": 1,
-      "first_mention_date": "05 Jun 2026",
+      "first_mention_date": "07 Jun 2026",
       "price_at_first_mention": 192.53,
       "pct_change_since_rec": 1.2,
       "market": {
@@ -5546,19 +5507,6 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": "The creator acknowledges the stock may not move higher for several months or quarters despite positive news. He emphasizes not every piece of news will immediately drive stock price appreciation. The creator notes the market doesn't like Nvidia 'because it's a giant right now,' suggesting potential headwinds despite strong fundamentals."
-        },
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "NVIDIA JUST GAVE INVESTORS A MASSIVE GIFT!!",
-          "url": "https://www.youtube.com/watch?v=R3JP0y8cMMk",
-          "upload_date": "20260605",
-          "date_label": "05 Jun 2026",
-          "ticker": "NVDA",
-          "company_name": "Nvidia Corporation",
-          "reason": "Nvidia is expanding its addressable market through two major mechanisms: (1) Revenue per gigawatt of AI data center power is increasing from $20-30 billion to $50-60 billion currently, and potentially reaching $80-100 billion per gigawatt in the future. This means even with flat power consumption, revenue can double year-over-year. (2) Nvidia is expanding horizontally across the entire data center ecosystem beyond just GPUs\u2014moving into CPUs, networking, and system adapters. The company's DSX platform helps customers build data centers faster, more efficiently, and at lower cost, which accelerates customer revenue collection and justifies premium pricing for Nvidia's integrated solutions. The optimization benefits (10-15% power efficiency gains, faster time-to-revenue, reliability improvements on token cost) create a compelling total cost of ownership advantage that outweighs higher upfront chip costs. At a forward P/E of 20, the valuation appears conservative given the company's continued market expansion potential and the path to becoming the first $10 trillion company.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": null
         },
         {
           "channel": "CouchInvestor",
@@ -5694,8 +5642,8 @@
         "analyst_buy": 5,
         "analyst_hold": 9,
         "analyst_sell": 0,
-        "analyst_target": 47.72,
-        "analyst_upside_pct": -5.4,
+        "analyst_target": 47.64,
+        "analyst_upside_pct": -5.5,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -6421,7 +6369,7 @@
         "ma50": 708.51,
         "ma200": 633.49,
         "ma_signal": "golden_cross",
-        "pe_trailing": 32.71787,
+        "pe_trailing": 32.71807,
         "pe_forward": null,
         "peg_ratio": null,
         "revenue_growth": null,
@@ -6458,9 +6406,9 @@
     {
       "ticker": "RDDT",
       "company_name": "Reddit",
-      "buy_count": 5,
+      "buy_count": 4,
       "avoid_count": 0,
-      "first_mention_date": "05 Jun 2026",
+      "first_mention_date": "07 Jun 2026",
       "price_at_first_mention": 166.94,
       "pct_change_since_rec": 16.6,
       "market": {
@@ -6553,19 +6501,6 @@
           "when_to_buy": "Under $170 per share (after-hours price mentioned); creator would look to open position on broader sell-off",
           "target_price": "$100 billion+ valuation (3x from current ~$33 billion)",
           "cautions": "Creator acknowledges not being the biggest fan of some platform activities; currently down 29% year-to-date though up 46.2% over past 12 months. Stock must prove monetization potential."
-        },
-        {
-          "channel": "CouchInvestor",
-          "title": "4 Stocks I'm Buying in June. Here's Why",
-          "url": "https://www.youtube.com/watch?v=cZWmxrsWbhQ",
-          "upload_date": "20260605",
-          "date_label": "05 Jun 2026",
-          "ticker": "RDDT",
-          "company_name": "Reddit Inc.",
-          "reason": "Reddit is a $33.3 billion company growing very rapidly while becoming increasingly profitable. The creator views it as an essential component of the modern AI ecosystem, noting that no LLM was trained without Reddit data. The company is positioning its data as foundational for pre-training, post-training, and grounding of AI models, which could result in significantly higher licensing deal values when renegotiated with major LLM players. The company is transitioning to a personalized feed experience, expanding into search (15 million users) with LLM-based capabilities, and integrating commercial product links and advertising into search results targeting high-intent user queries. Long-term objective is reaching 1 billion global daily active users with near-term milestone of 100 million US daily active users. The company is disciplined on capital allocation and the creator believes the market is not fully pricing in the AI opportunity.",
-          "when_to_buy": null,
-          "target_price": "Bear case: $82.5, Base case: $206, Bull case: $335.5",
-          "cautions": "Bear case applies if growth rates don't materialize and nothing works out. Trading at trailing PE of 49.4x and trailing price-to-sales of 130.6x, indicating high growth expectations already priced in."
         }
       ],
       "avoids": []
@@ -6674,9 +6609,9 @@
     {
       "ticker": "RUK",
       "company_name": "Rubrik Inc.",
-      "buy_count": 2,
+      "buy_count": 1,
       "avoid_count": 1,
-      "first_mention_date": "05 Jun 2026",
+      "first_mention_date": "14 Jun 2026",
       "price_at_first_mention": null,
       "pct_change_since_rec": null,
       "market": null,
@@ -6693,19 +6628,6 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": "Company is in transition with significant margin expansion targets ahead. R&D and sales/marketing need to decrease substantially to reach long-term targets, which requires successful execution."
-        },
-        {
-          "channel": "CouchInvestor",
-          "title": "4 Stocks I'm Buying in June. Here's Why",
-          "url": "https://www.youtube.com/watch?v=cZWmxrsWbhQ",
-          "upload_date": "20260605",
-          "date_label": "05 Jun 2026",
-          "ticker": "RUK",
-          "company_name": "Rubrik Inc.",
-          "reason": "Rubrik reported an excellent quarter with beats across the board and raised guidance. Revenue increased 39% year-over-year (43% excluding material rights), beating estimates by 5.8%. Net revenue retention of 120%, cloud ARR mix at 89% of subscription ARR (up from 82%), subscription ARR beat by 1.1%, gross margin beat by 190 basis points, free cash flow beat 57%, and EPS beat 19 cents. The company is moving in the right direction much faster than expected on margin expansion. Company introduced Rubrik Agent Cloud this quarter and has already won a large financial services customer. Identity Resilience grew 38% sequentially with ARR crossing $50 million one year after introduction. New product coverage includes Google Workspace products for backup and Microsoft 365 business recovery for Azure and GitHub DevOps. Demand has increased since Entropic Mitos announcement.",
-          "when_to_buy": "If stock pulls back to $70 or lower after recent 90% run-up from April",
-          "target_price": null,
-          "cautions": "Stock is trading at roughly 50x this year's updated free cash flow guidance. Currently not a cheap valuation. Cybersecurity names in general are not the cheapest in the market. The stock rose 90% since start of April and is experiencing a 7% correction following the earnings report, suggesting significant expectations were already priced in. Operating margins are still negative for many competitors though Rubrik is improving."
         }
       ],
       "avoids": [
@@ -7087,7 +7009,7 @@
         "ma200": 703.36,
         "ma_signal": "golden_cross",
         "pe_trailing": 59.51569,
-        "pe_forward": 8.600737,
+        "pe_forward": 8.534192,
         "peg_ratio": null,
         "revenue_growth": 2.51,
         "earnings_growth": null,
@@ -7186,9 +7108,9 @@
     {
       "ticker": "SOFI",
       "company_name": "SoFi Technologies",
-      "buy_count": 5,
+      "buy_count": 4,
       "avoid_count": 0,
-      "first_mention_date": "05 Jun 2026",
+      "first_mention_date": "07 Jun 2026",
       "price_at_first_mention": 17.85,
       "pct_change_since_rec": 2.2,
       "market": {
@@ -7281,19 +7203,6 @@
           "when_to_buy": "Low $16 per share range (recent market price)",
           "target_price": null,
           "cautions": "Stock has recently pulled back significantly; needs to prove market confidence."
-        },
-        {
-          "channel": "CouchInvestor",
-          "title": "4 Stocks I'm Buying in June. Here's Why",
-          "url": "https://www.youtube.com/watch?v=cZWmxrsWbhQ",
-          "upload_date": "20260605",
-          "date_label": "05 Jun 2026",
-          "ticker": "SOFI",
-          "company_name": "SoFi Technologies Inc.",
-          "reason": "SoFi is extremely undervalued with one of the best risk-reward profiles available. The company remains profitable and fundamentally sound despite being completely overlooked by the market. Year-to-date the stock is down 41.1% but up 18.3% over the past 12 months. The risk-reward profile offers only 4.3% downside on the bear case while offering 55.9% upside on the base case and 125.5% upside on the bull case. The base case target of $25 per share is viewed as extremely realistic.",
-          "when_to_buy": "Current price under $17 per share",
-          "target_price": "Bear case: minimal downside, Base case: $25 (55.9% upside), Bull case: 125.5% upside",
-          "cautions": "The bull case may not materialize if interest rates increase. The stock has poor momentum as it has nothing to do with AI, data centers, or memory. Investors may face opportunity cost buying this name versus hot tech names, and the stock has not moved much despite accumulation."
         }
       ],
       "avoids": []
@@ -7676,28 +7585,28 @@
       "avoid_count": 0,
       "first_mention_date": "12 Jun 2026",
       "price_at_first_mention": 9.29,
-      "pct_change_since_rec": -4.1,
+      "pct_change_since_rec": -10.5,
       "market": {
         "ticker": "TEA.AX",
         "name": "TASMEA FPO [TEA]",
         "currency": "AUD",
         "sector": "Industrials",
         "industry": "Engineering & Construction",
-        "market_cap": 2463238656,
-        "current_price": 8.91,
-        "daily_change_pct": -0.34,
-        "month_change_pct": 10.14,
+        "market_cap": 2297364224,
+        "current_price": 8.31,
+        "daily_change_pct": -6.73,
+        "month_change_pct": 2.85,
         "week52_high": 10.0,
         "week52_high_date": "25 Jun 2026",
         "week52_low": 3.2,
         "week52_low_date": "24 Feb 2026",
-        "rsi": 59.0,
+        "rsi": 48.7,
         "rsi_label": "neutral",
-        "ma50": 7.23,
-        "ma200": 5.1,
+        "ma50": 7.29,
+        "ma200": 5.12,
         "ma_signal": "golden_cross",
-        "pe_trailing": 46.894737,
-        "pe_forward": 19.139475,
+        "pe_trailing": 43.736843,
+        "pe_forward": 17.850622,
         "peg_ratio": null,
         "revenue_growth": 0.624,
         "earnings_growth": -0.275,
@@ -7711,7 +7620,7 @@
         "analyst_hold": 0,
         "analyst_sell": 0,
         "analyst_target": 10.12,
-        "analyst_upside_pct": 13.5,
+        "analyst_upside_pct": 21.7,
         "earnings_date": null,
         "earnings_days": null
       },

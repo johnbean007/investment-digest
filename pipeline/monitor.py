@@ -25,7 +25,7 @@ import yfinance as yf
 from youtube_transcript_api import YouTubeTranscriptApi, TranscriptsDisabled, NoTranscriptFound
 
 from config import (
-    CHANNELS, MAX_VIDEO_AGE_DAYS, ANTHROPIC_MODEL,
+    CHANNELS, MAX_VIDEO_AGE_DAYS, ANTHROPIC_MODEL, BATCH_SIZE,
     DATA_DIR, DIGEST_DIR, STATE_FILE, LOG_FILE, EVAL_DIR,
 )
 
@@ -555,7 +555,12 @@ def run():
     else:
         log.warning("No valid YOUTUBE_COOKIES_FILE — transcript fetching may be blocked by YouTube")
 
+    attempts = 0
     for channel in CHANNELS:
+        if attempts >= BATCH_SIZE:
+            log.info(f"Batch limit of {BATCH_SIZE} reached, stopping for this run")
+            break
+
         name = channel["name"]
         url  = channel["url"]
         log.info(f"Checking: {name}")
@@ -564,6 +569,9 @@ def run():
         log.info(f"  Found {len(videos)} recent video(s)")
 
         for video in videos:
+            if attempts >= BATCH_SIZE:
+                break
+
             vid_id = video.get("id")
             if not vid_id:
                 continue
@@ -579,6 +587,7 @@ def run():
 
             log.info(f"  Processing: {video['title']}")
             time.sleep(2)
+            attempts += 1
             transcript = get_transcript(vid_id, cookies_path=cookies_path)
 
             if not transcript:

@@ -1,8 +1,10 @@
-name: Daily Investment Digest
+name: Investment Digest
 
 on:
   schedule:
-    - cron: '0 7 * * *'   # 7am UTC = 8am BST / 7am GMT
+    - cron: '0 */2 * * *'   # every 2 hours - each run processes a batch of BATCH_SIZE
+                            # videos (see pipeline/config.py) to stay under YouTube's
+                            # per-burst rate limit; backlog clears over the course of the day
   workflow_dispatch:        # allow manual trigger from GitHub UI
 
 jobs:
@@ -47,5 +49,5 @@ jobs:
           git config user.name  "Investment Digest Bot"
           git config user.email "digest-bot@users.noreply.github.com"
           git add data/ docs/data/
-          git diff --cached --quiet || git commit -m "digest: $(date +'%Y-%m-%d')"
+          git diff --cached --quiet || git commit -m "digest: $(date -u +'%Y-%m-%d %H:%M UTC')"
           git push

@@ -14,6 +14,11 @@ CHANNELS = [
 MAX_VIDEO_AGE_DAYS = 30
 ANTHROPIC_MODEL    = "claude-haiku-4-5-20251001"
 
+# YouTube rate-limits transcript requests from a given IP+cookie pair after
+# roughly 6 in a burst. Cap attempts per run well under that and rely on the
+# scheduled re-runs (every 2 hours) to work through any backlog over the day.
+BATCH_SIZE = 5
+
 ROOT = Path(__file__).parent.parent
 DATA_DIR   = ROOT / "data"
 DIGEST_DIR = DATA_DIR / "digests"

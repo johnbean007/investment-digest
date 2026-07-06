@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-06T11:24:43.313930",
-  "video_count": 52,
-  "stock_count": 108,
+  "generated_at": "2026-07-06T12:25:07.331509",
+  "video_count": 57,
+  "stock_count": 110,
   "stocks": [
     {
       "ticker": "AAOI",
@@ -1214,7 +1214,7 @@
       "ticker": "AXON",
       "company_name": "Axon Enterprise",
       "buy_count": 4,
-      "avoid_count": 0,
+      "avoid_count": 1,
       "first_mention_date": "07 Jun 2026",
       "price_at_first_mention": 464.83,
       "pct_change_since_rec": 28.4,
@@ -1310,7 +1310,19 @@
           "cautions": "The stock is still struggling to stay consistently above $418 per share. The creator didn't have enough time to complete all planned purchases at desired levels."
         }
       ],
-      "avoids": []
+      "avoids": [
+        {
+          "channel": "CouchInvestor",
+          "title": "4 Stocks I'm Buying in July. Here's Why",
+          "url": "https://www.youtube.com/watch?v=iL8vyBjmqcc",
+          "upload_date": "20260705",
+          "date_label": "05 Jul 2026",
+          "ticker": "AXON",
+          "company_name": "Axon Enterprise",
+          "reason": "While creator is bullish on Axon fundamentally (owns position with 2.5% allocation), the stock has rallied too quickly to nearly $600 per share based on old news about Trump buying the stock earlier in the year. The sharp bounce from $394 entry to $597 closing was driven by sentiment rather than fundamental developments. Creator explicitly stated the stock is now way less attractive at these levels and would prefer a pullback before adding more.",
+          "risk": "Creator hoping for pullback to add more; currently too richly valued relative to recent momentum; stock has recovered above 50-week ($576) and 100-week ($569) moving averages, leaving little room for further gains"
+        }
+      ]
     },
     {
       "ticker": "BAM",
@@ -1480,7 +1492,7 @@
     {
       "ticker": "CEG",
       "company_name": "Constellation Energy",
-      "buy_count": 2,
+      "buy_count": 3,
       "avoid_count": 0,
       "first_mention_date": "17 Jun 2026",
       "price_at_first_mention": 264.02,
@@ -1549,6 +1561,19 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": null
+        },
+        {
+          "channel": "Mr. FIRED Up Wealth",
+          "title": "The Mag 7 Just Became the Lag 7 \u2014 My 3 Best Stocks to BUY Right NOW!",
+          "url": "https://www.youtube.com/watch?v=N8fzEctLPbE",
+          "upload_date": "20260702",
+          "date_label": "02 Jul 2026",
+          "ticker": "CEG",
+          "company_name": "Constellation Energy",
+          "reason": "Constellation Energy is the largest nuclear energy operator in the United States with 22 gigawatts of nuclear capacity running at 94.7% capacity factor. The company is positioned as a prime partner for tech hyperscalers requiring 24/7 carbon-free electricity. Virtually 0% of Constellation's core business is regulated utility, meaning the company can capture uncapped profit potential from AI demand growth while maintaining higher operating margins and returning capital through buybacks and dividends. Microsoft has signed a 20-year power purchase agreement (PPA) with Constellation, as has Meta. Google and Amazon are actively searching for nuclear energy partners. This represents a structural, long-term revenue opportunity from AI infrastructure power demands.",
+          "when_to_buy": "$250 or less with dollar cost averaging. Lower entry is better.",
+          "target_price": "Wall Street average price target of $366 (per TipRanks), with highest target at $516 and lowest at $296, implying 52.79% upside from current levels",
+          "cautions": "Stock was in air pocket at $411 ahead of itself and has since pulled back to $239. Could see further downside with S3 Fibonacci support around $214. Nuclear energy story is still developing and not certain. Creator does not claim to be an energy expert."
         }
       ],
       "avoids": []
@@ -1760,7 +1785,7 @@
     {
       "ticker": "COREWEAVE",
       "company_name": "CoreWeave",
-      "buy_count": 3,
+      "buy_count": 4,
       "avoid_count": 0,
       "first_mention_date": "10 Jun 2026",
       "price_at_first_mention": null,
@@ -1805,6 +1830,19 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": null
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "The Most Obvious Buy in the Market Right Now",
+          "url": "https://www.youtube.com/watch?v=nuLZAqF-VBc",
+          "upload_date": "20260702",
+          "date_label": "02 Jul 2026",
+          "ticker": "COREWEAVE",
+          "company_name": "CoreWeave",
+          "reason": "CoreWeave has a $21 billion expanded AI cloud deal with Meta and is experiencing significant growth. Like Nebius, CoreWeave benefits from the proliferation of models and inference workloads requiring specialized, flexible compute. Nvidia's new financing and revenue-sharing model directly benefits neo-cloud players like CoreWeave by lowering capital costs and accelerating cluster expansion. The creator believes the market is overreacting to Meta's cloud announcement and that multiple infrastructure providers will thrive. The creator owns CoreWeave and finds it 'very attractive, especially if you look at options, leaps.'",
+          "when_to_buy": "Recent pullback of ~14% presents attractive entry point; still up 9.4% year-to-date; creator suggests buying via options/leaps",
+          "target_price": null,
+          "cautions": "CoreWeave must prove that margins will recover and stabilize in the next quarter as management promised. The creator explicitly states: 'If next quarter earnings score comments around margins are not great, yes, I do think that the stock will take a hit.' Unlike Nebius, CoreWeave is still early-stage in proving its business model sustainability."
         }
       ],
       "avoids": []
@@ -2329,7 +2367,7 @@
         "week52_high": 57.75,
         "week52_high_date": "26 May 2026",
         "week52_low": 41.79,
-        "week52_low_date": "08 Jul 2025",
+        "week52_low_date": "03 Jul 2025",
         "rsi": 98.2,
         "rsi_label": "overbought",
         "ma50": 56.87,
@@ -3629,7 +3667,7 @@
     {
       "ticker": "MELI",
       "company_name": "Mercado Libre",
-      "buy_count": 6,
+      "buy_count": 7,
       "avoid_count": 0,
       "first_mention_date": "06 Jun 2026",
       "price_at_first_mention": 1675.1,
@@ -3750,6 +3788,19 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": null
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "4 Stocks I'm Buying in July. Here's Why",
+          "url": "https://www.youtube.com/watch?v=iL8vyBjmqcc",
+          "upload_date": "20260705",
+          "date_label": "05 Jul 2026",
+          "ticker": "MELI",
+          "company_name": "Mercado Libre",
+          "reason": "Similar to Nu, creator expects Mercado Libre and other Latin American names to receive more love in July-August. Stock recently reclaimed $1,700 level with 50-day at $1,726 and 200-day at $1,672. Creator expects stock could reach $1,900-2,000 once earnings season begins. Stock trading at discount compared to non-Latin American peers.",
+          "when_to_buy": "Around current $1,763 level above 50-day moving average",
+          "target_price": "$1,900-2,000",
+          "cautions": "Latin American exposure; trading at discount; earnings season catalyst timing uncertain"
         }
       ],
       "avoids": []
@@ -3757,7 +3808,7 @@
     {
       "ticker": "META",
       "company_name": "Meta Platforms",
-      "buy_count": 18,
+      "buy_count": 20,
       "avoid_count": 2,
       "first_mention_date": "07 Jun 2026",
       "price_at_first_mention": 550.25,
@@ -4034,6 +4085,32 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": null
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "The Most Obvious Buy in the Market Right Now",
+          "url": "https://www.youtube.com/watch?v=nuLZAqF-VBc",
+          "upload_date": "20260702",
+          "date_label": "02 Jul 2026",
+          "ticker": "META",
+          "company_name": "Meta Platforms Inc.",
+          "reason": "The creator states Meta is 'still extremely undervalued' and a 'no-brainer buy in the market right now.' Meta's core business is performing very well due to AI investments. The company has announced it will sell access to AI computing power and models similar to AWS, Microsoft, and Google, which could generate significant new revenue streams ($10-20 billion potential). Meta has multiple value levers: capex normalization will improve forward free cash flow revisions, the emerging cloud business represents a new growth avenue, and the core advertising business continues to perform well. The creator owns a large position and plans to add more.",
+          "when_to_buy": "Current price around $606 per share; creator mentions overreactions present buying opportunities",
+          "target_price": "$1,000 within 12-18 months; $800 per share possible in near-term if sentiment shifts; base case DCF shows 44.7% upside; bull case shows 92.7% upside",
+          "cautions": "The reported cloud business is just preliminary information with limited details. News sentiment is driving stock moves rather than fundamentals. Bear case DCF shows 8.4% downside. Success depends on Meta executing on capex plans and delivering on the cloud business promises."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "4 Stocks I'm Buying in July. Here's Why",
+          "url": "https://www.youtube.com/watch?v=iL8vyBjmqcc",
+          "upload_date": "20260705",
+          "date_label": "05 Jul 2026",
+          "ticker": "META",
+          "company_name": "Meta Platforms",
+          "reason": "Meta is described as a no-brainer in the market trading at low 17x P/E multiple. Revenue expected to grow 25.8% this year, 19.5% next year, and 17% thereafter, with the creator believing they can easily beat estimates. Free cash flow is expected to recover from negative $300 million this year to $11.2 billion next year and $31.24 billion by fiscal 2028. According to Semi Analysis, Meta's data center and compute capex will actually accelerate in 2027. The company is launching a new competitive AI model (Watermelon) comparable to ChatGPT 4.5 with an upcoming API release. If Meta launches its own cloud business, this will directly monetize existing capacity and change the growth narrative significantly.",
+          "when_to_buy": "Needs to close above $600 per share; ideally above 50-day ($622) and 100-day ($630) moving averages",
+          "target_price": null,
+          "cautions": "Earnings call will be critically important; recent sentiment swings suggest volatility; AI agent development progress slower than expected internally; capex requirements may pressure near-term cash flow in 2027; new API had previous delays"
         }
       ],
       "avoids": [
@@ -4242,7 +4319,7 @@
     {
       "ticker": "MSFT",
       "company_name": "Microsoft Corporation",
-      "buy_count": 12,
+      "buy_count": 13,
       "avoid_count": 2,
       "first_mention_date": "09 Jun 2026",
       "price_at_first_mention": 372.97,
@@ -4441,6 +4518,19 @@
           "when_to_buy": "Current levels around $350; can hold mid-term (2-12 months) without waiting years for profit",
           "target_price": null,
           "cautions": null
+        },
+        {
+          "channel": "Mr. FIRED Up Wealth",
+          "title": "The Mag 7 Just Became the Lag 7 \u2014 My 3 Best Stocks to BUY Right NOW!",
+          "url": "https://www.youtube.com/watch?v=N8fzEctLPbE",
+          "upload_date": "20260702",
+          "date_label": "02 Jul 2026",
+          "ticker": "MSFT",
+          "company_name": "Microsoft Corporation",
+          "reason": "Microsoft is being punished short-term due to massive CapEx spending of $190 billion in 2026 (61% increase year-over-year), but the creator believes this is a misunderstood business with strong fundamentals. Azure surpassed $75 billion in annual revenue with expected growth of 39-40% next quarter. Microsoft maintains 80% market share in enterprise office productivity software with extremely high switching costs. The company is baking AI into all its products through Microsoft 365 Copilot, which represents direct AI monetization on top of existing subscriptions. This spending is locking in enterprise customers deeper and building an unparalleled moat similar to Windows. The stock is down 17% year-to-date and 20% in the past year, but has A+ profitability with $549,000 net income per employee, PEG ratio of 0.77, and 20 years of dividend growth history.",
+          "when_to_buy": "Under $400, with preference under $350. Creator mentioned 331-400 range, with position at $392",
+          "target_price": null,
+          "cautions": "Stock can go lower. Sentiment is very negative on social media. Free cash flow took a hit due to CapEx spending. This is a mature company with almost $3 trillion market cap, not a small-cap high-flyer."
         }
       ],
       "avoids": [
@@ -4739,7 +4829,7 @@
     {
       "ticker": "NBIS",
       "company_name": "Nebius",
-      "buy_count": 2,
+      "buy_count": 3,
       "avoid_count": 0,
       "first_mention_date": "11 Jun 2026",
       "price_at_first_mention": 240.3,
@@ -4808,6 +4898,19 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": null
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "The Most Obvious Buy in the Market Right Now",
+          "url": "https://www.youtube.com/watch?v=nuLZAqF-VBc",
+          "upload_date": "20260702",
+          "date_label": "02 Jul 2026",
+          "ticker": "NBIS",
+          "company_name": "Nebius",
+          "reason": "Nebius has a $27 billion deal with Meta and is growing extremely rapidly. The creator believes the Meta cloud announcement does not change the investment thesis because the AI infrastructure market is large enough to support multiple players\u2014AWS, Azure, Google Cloud, Nebius, and CoreWeave can all coexist and grow. The rise of inference workloads (which require flexibility, optimization, and cost control) favors neo-cloud providers like Nebius that offer customized clustering without ecosystem lock-in. Nvidia's new financing model for neo-clouds lowers weighted average cost of capital and accelerates expansion. The creator owns a large position in Nebius.",
+          "when_to_buy": "Recent pullback of ~18% drawdown presents attractive entry; down from 371% year-to-date gains and 161% YTD performance",
+          "target_price": null,
+          "cautions": "Execution risk remains key. Concentration risk if inference workloads end up dominated by same giants as training (Meta, Google, Microsoft). Stock is highly volatile. Creator notes 'right now it seems like nothing can go wrong for them. But execution is still key.'"
         }
       ],
       "avoids": []
@@ -4834,6 +4937,32 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": "Large position means significant volatility impact on overall portfolio; single-day declines of 12% are possible."
+        }
+      ],
+      "avoids": []
+    },
+    {
+      "ticker": "NBUS",
+      "company_name": "Nebius",
+      "buy_count": 1,
+      "avoid_count": 0,
+      "first_mention_date": "05 Jul 2026",
+      "price_at_first_mention": null,
+      "pct_change_since_rec": null,
+      "market": null,
+      "buys": [
+        {
+          "channel": "CouchInvestor",
+          "title": "4 Stocks I'm Buying in July. Here's Why",
+          "url": "https://www.youtube.com/watch?v=iL8vyBjmqcc",
+          "upload_date": "20260705",
+          "date_label": "05 Jul 2026",
+          "ticker": "NBUS",
+          "company_name": "Nebius",
+          "reason": "Nebius is a 50-54 billion dollar company growing extremely quickly. Analysts expect the company to generate $38.8 billion in revenue by fiscal 2028, with consensus at $21.72 billion. Even at the consensus figure, applying a 5-10x price-to-sales multiple suggests significant upside to $100-200 billion in market cap. The company is expanding its European data center footprint, having signed an 18 megawatt lease with Merlin Properties in Spain, which will accelerate growth. Year-to-date the stock is up 140% despite recent 24.5% drawdown and 16.6% monthly decline. The creator has held this position through previous drawdowns and views current weakness as a buying opportunity.",
+          "when_to_buy": "On weakness; creator would add more in July despite current drawdown",
+          "target_price": "$100-200+ billion market cap valuation",
+          "cautions": "Execution risk on data center expansion, capex-heavy business model, high volatility with previous 24.5% drawdowns, potential delays with data center buildout"
         }
       ],
       "avoids": []
@@ -4881,7 +5010,7 @@
       "ticker": "NFLX",
       "company_name": "Netflix Inc.",
       "buy_count": 8,
-      "avoid_count": 1,
+      "avoid_count": 2,
       "first_mention_date": "07 Jun 2026",
       "price_at_first_mention": 73.81,
       "pct_change_since_rec": 5.2,
@@ -5040,6 +5169,17 @@
           "company_name": "Netflix Inc.",
           "reason": "Pronk concludes Netflix is trading around fair value, not at a discount, despite being down 45% from all-time highs. He argues the stock was very expensive at peaks due to multiple expansion and has now corrected to fair value rather than becoming cheap. Netflix's business is maturing with decelerating growth rates: revenue growth expected to decelerate from 13.5% in Q2 2026 to 11.7% in 2027 and 10.3% in 2028. The streaming market is becoming increasingly competitive with YouTube and Amazon gaining market share\u2014Netflix gained only 0.2% market share year-over-year while YouTube gained 1.7%, suggesting competitors are performing better. Pronk's DCF analysis yields only 13% compounded annual growth versus higher returns from competing stocks. The advertising business, while growing at 100%, remains a small portion of overall revenue. Relative to other market opportunities like Amazon, Meta, Microsoft, Brookfield, and Mercado Libre, Netflix does not offer the same attractive risk-reward profile.",
           "risk": "Pronk's DCF valuation suggests a fair value of approximately $79 per share with a future stock price around $105, implying limited upside from current levels and downside risk if growth decelerates faster than expected or competitive pressures intensify."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "4 Stocks I'm Buying in July. Here's Why",
+          "url": "https://www.youtube.com/watch?v=iL8vyBjmqcc",
+          "upload_date": "20260705",
+          "date_label": "05 Jul 2026",
+          "ticker": "NFLX",
+          "company_name": "Netflix",
+          "reason": "Netflix is still struggling technically and is described as in no man's land. Stock at $77.60 needs to reclaim the 50-day simple moving average at $91.50, which represents a long way to go. The 200-day moving average sits at $69.50, which would be an ideal place to add, but the stock must first prove it can hold above current levels.",
+          "risk": "Long way to recovery with 50-day at $91.50; potential downside support at 200-day moving average of $69.50; currently in accumulation mode with uncertain direction"
         }
       ]
     },
@@ -5310,7 +5450,7 @@
     {
       "ticker": "NU",
       "company_name": "Nu Holdings",
-      "buy_count": 2,
+      "buy_count": 3,
       "avoid_count": 0,
       "first_mention_date": "07 Jun 2026",
       "price_at_first_mention": 13.17,
@@ -5379,6 +5519,19 @@
           "when_to_buy": "$11.22 per share (recent purchase price)",
           "target_price": null,
           "cautions": null
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "4 Stocks I'm Buying in July. Here's Why",
+          "url": "https://www.youtube.com/watch?v=iL8vyBjmqcc",
+          "upload_date": "20260705",
+          "date_label": "05 Jul 2026",
+          "ticker": "NU",
+          "company_name": "Nu Holdings",
+          "reason": "Creator wants to buy more Nu around current price levels and expects Latin American fintech names to receive more investor love in July-August. Creator believes this name, along with Mercado Libre and Dlocal, trades at a discount compared to non-Latin American peers.",
+          "when_to_buy": "Around current levels",
+          "target_price": null,
+          "cautions": "Latin American exposure; trading at discount may persist; expects more volatility in July-August"
         }
       ],
       "avoids": []
@@ -5642,7 +5795,7 @@
         "analyst_buy": 5,
         "analyst_hold": 9,
         "analyst_sell": 0,
-        "analyst_target": 47.64,
+        "analyst_target": 47.63,
         "analyst_upside_pct": -5.5,
         "earnings_date": null,
         "earnings_days": null
@@ -5693,7 +5846,7 @@
     {
       "ticker": "ORCL",
       "company_name": "Oracle Corporation",
-      "buy_count": 9,
+      "buy_count": 10,
       "avoid_count": 1,
       "first_mention_date": "07 Jun 2026",
       "price_at_first_mention": 148.53,
@@ -5853,6 +6006,19 @@
           "when_to_buy": "Below $100 per share; creator is executing purchases at $88.80 and plans to accumulate more at lower levels",
           "target_price": null,
           "cautions": "The stock did not hold its 50-day moving average of $103-104 or its 110-day simple moving average of $87.50. The creator notes support is probably in the low $70s range, suggesting further downside risk before accumulation is complete."
+        },
+        {
+          "channel": "Mr. FIRED Up Wealth",
+          "title": "The Mag 7 Just Became the Lag 7 \u2014 My 3 Best Stocks to BUY Right NOW!",
+          "url": "https://www.youtube.com/watch?v=N8fzEctLPbE",
+          "upload_date": "20260702",
+          "date_label": "02 Jul 2026",
+          "ticker": "ORCL",
+          "company_name": "Oracle Corporation",
+          "reason": "Oracle is building a specialized neo-cloud platform (Oracle Cloud Infrastructure/OCI) that is attracting major AI companies as customers. OpenAI chose Oracle OCI for its primary compute infrastructure instead of AWS, Azure, or Google Cloud, signaling confidence in Oracle's offering. Nvidia has a direct partnership with Oracle, and XAI is also a customer. Oracle is using a surgical, specialized approach rather than trying to compete with hyperscalers across all workloads. The company already has relationships with the majority of Fortune 1000 customers, allowing plug-and-play adoption of AI services. Oracle's Remaining Performance Obligation (RPO) reached a record $638 billion, representing 363% year-over-year growth in contracted future revenue. The company has 40+ years of embedded, irreplaceable infrastructure across healthcare, government, defense, and financial institutions.",
+          "when_to_buy": "Dollar cost averaging approach. Creator bought at $139 and change. Potential floor around $100. Fibonacci S2 support at $115.06.",
+          "target_price": "Potential $300 target within 2-3 years based on creator's analysis",
+          "cautions": "Oracle had a parabolic run up to $343 in 2025 that was unsustainable. Currently in air pocket. Stock pulled back significantly from highs. Could see further downside toward S2 support of $115 or even lower. RPO is forward-looking revenue and not guaranteed. This is a segment of Oracle's business, not a pure-play neo-cloud company."
         }
       ],
       "avoids": [
@@ -6057,7 +6223,7 @@
     {
       "ticker": "PLTR",
       "company_name": "Palantir Technologies",
-      "buy_count": 4,
+      "buy_count": 5,
       "avoid_count": 1,
       "first_mention_date": "07 Jun 2026",
       "price_at_first_mention": 112.93,
@@ -6152,6 +6318,19 @@
           "when_to_buy": "$107 per share (entry price already executed by creator); willing to accumulate more over time at these levels",
           "target_price": null,
           "cautions": "On paper, the company appears expensive with a high P/E ratio. The creator previously held the stock, sold it at $69, missed the move to $200, but is reinvesting at the current lower levels. The creator plans to provide detailed DCF analysis in a future video to justify the valuation thesis."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Was Wrong to Sell Palantir. Here's Why I'm Buying Now",
+          "url": "https://www.youtube.com/watch?v=5bpOa3L9kHw",
+          "upload_date": "20260630",
+          "date_label": "30 Jun 2026",
+          "ticker": "PLTR",
+          "company_name": "Palantir Technologies Inc.",
+          "reason": "The creator is re-entering Palantir after completely selling 1.5 years ago, acknowledging it as a mistake to fully exit. The investment thesis is based on: (1) Acceleration in revenue growth across total, commercial, and government segments, which the creator did not see when he sold but which has now materialized; (2) Exceptional profitability metrics with operating margin, free cash flow margin, and gross profit margin all expanding upward despite accelerating growth\u2014a rare combination where most SaaS companies sacrifice margins for growth; (3) A PEG ratio near 1.0, which the creator considers attractive for a company with elite margins, insane growth on both top and bottom lines, and positioned as one of the biggest winners in the AI cycle; (4) Strong net dollar retention rate of 150%, indicating pricing power and expansion within existing customers; (5) Competitive moat through their AIP (Artificial Intelligence Platform) infrastructure that doesn't face disruption from ChatGPT or other LLMs because enterprises want multiple models layered on top of Palantir's underlying data infrastructure; (6) The company is experiencing an AI adoption cycle with no capex burden, generating strong free cash flow; (7) Government and commercial segments show continued aggressive growth potential.",
+          "when_to_buy": "The creator bought at $107 per share around 100 shares. He notes the stock is not cheap and suggests waiting for better prices potentially under $100, as technically the stock is still 'in no man's land' and could pull back. However, he emphasizes this is a reasonable entry point after a 50% drawdown from highs of $200.",
+          "target_price": "Fair value of $131 per share (12.4% upside) in base case. Bull case fair value is $201 per share. Bear case is $55 per share. Based on DCF model with base case (50% probability), bull case (30% probability), and bear case (20% probability) scenarios.",
+          "cautions": "The stock is trading at a lofty premium and is not cheap even after the 50% drawdown. The creator explicitly states investors should not force themselves to buy Palantir just because it's being discussed. Technical analysis shows the stock is in 'no man's land' and could pull back toward $100 or even below $100 before establishing a new floor. The creator paid 50% more to re-enter compared to his original exit price 1.5 years ago. The position size is modest at approximately 2% of his portfolio. The creator's bull case assumptions (80% revenue growth this year, 70% next year declining to 15% by 2035, 50-52% EBIT margins in year 10) may be viewed as aggressive and should be stress-tested by investors."
         }
       ],
       "avoids": [
@@ -6406,7 +6585,7 @@
     {
       "ticker": "RDDT",
       "company_name": "Reddit",
-      "buy_count": 4,
+      "buy_count": 5,
       "avoid_count": 0,
       "first_mention_date": "07 Jun 2026",
       "price_at_first_mention": 166.94,
@@ -6501,6 +6680,19 @@
           "when_to_buy": "Under $170 per share (after-hours price mentioned); creator would look to open position on broader sell-off",
           "target_price": "$100 billion+ valuation (3x from current ~$33 billion)",
           "cautions": "Creator acknowledges not being the biggest fan of some platform activities; currently down 29% year-to-date though up 46.2% over past 12 months. Stock must prove monetization potential."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "4 Stocks I'm Buying in July. Here's Why",
+          "url": "https://www.youtube.com/watch?v=iL8vyBjmqcc",
+          "upload_date": "20260705",
+          "date_label": "05 Jul 2026",
+          "ticker": "RDDT",
+          "company_name": "Reddit",
+          "reason": "Creator has added to Reddit position and believes it remains undervalued. Stock recently consolidated after sharp rally.",
+          "when_to_buy": "Creator wanted to add more around $150-160 but stock rallied beyond that",
+          "target_price": null,
+          "cautions": "Creator would have preferred lower entry point; market volatility unpredictable"
         }
       ],
       "avoids": []
@@ -6508,7 +6700,7 @@
     {
       "ticker": "RKLB",
       "company_name": "Rocket Lab",
-      "buy_count": 3,
+      "buy_count": 4,
       "avoid_count": 1,
       "first_mention_date": "07 Jun 2026",
       "price_at_first_mention": 84.54,
@@ -6590,6 +6782,19 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": null
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "The 10x Case for This Stock Just Got a Lot Easier to Make",
+          "url": "https://www.youtube.com/watch?v=cExovMag3_0",
+          "upload_date": "20260629",
+          "date_label": "29 Jun 2026",
+          "ticker": "RKLB",
+          "company_name": "Rocket Lab USA Inc.",
+          "reason": "The creator presents Rocket Lab as a 10x opportunity that has become easier to justify following the announcement of an $8 billion acquisition of Iridium Communications. The combined entity creates a vertically integrated space powerhouse that designs, builds, launches, and operates satellite constellations. Iridium brings $871.7 million in annual gross revenue with a 57% EBITDA margin ($495 million), providing recurring, high-margin subscriber cash flow that will fund Rocket Lab's advanced space systems without stock dilution. The acquisition unlocks significant cost savings (approximately $240 million on 10 planned launches by operating internal launch capabilities instead of paying third-party providers $80 million per launch). Rocket Lab now competes directly with SpaceX and Amazon in the satellite communications space, owning valuable L-band spectrum and securing an insurmountable market moat. The combined company is positioned to unlock growth from Iridium's existing network while building new constellations for next-generation services. The creator has been a long-term holder since $4 and views this as a potential $100+ billion company in the making, with management execution and delivery track record supporting the thesis.",
+          "when_to_buy": "Under $100 per share is attractive; creator suggests pullbacks may provide additional entry opportunities in this headline-driven market",
+          "target_price": "$100+ company in the making; potential for 10x or greater returns from current levels, though timeframe is extended (not 1-5 years)",
+          "cautions": "Stock is not currently profitable and is expensive at current valuations ($53 billion market cap). Rocket Lab development costs remain substantial, including Neutron rocket development which has experienced delays. Stock is currently down 39% from highs despite being up 156% over the past year. Creator advises this is not a cheap entry and recommends knowing what you're buying. Risk of pullbacks in a headline-driven market exists."
         }
       ],
       "avoids": [
@@ -7108,7 +7313,7 @@
     {
       "ticker": "SOFI",
       "company_name": "SoFi Technologies",
-      "buy_count": 4,
+      "buy_count": 5,
       "avoid_count": 0,
       "first_mention_date": "07 Jun 2026",
       "price_at_first_mention": 17.85,
@@ -7203,6 +7408,19 @@
           "when_to_buy": "Low $16 per share range (recent market price)",
           "target_price": null,
           "cautions": "Stock has recently pulled back significantly; needs to prove market confidence."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "4 Stocks I'm Buying in July. Here's Why",
+          "url": "https://www.youtube.com/watch?v=iL8vyBjmqcc",
+          "upload_date": "20260705",
+          "date_label": "05 Jul 2026",
+          "ticker": "SOFI",
+          "company_name": "SoFi Technologies",
+          "reason": "SoFi is trading under $20 at $23 billion market cap, which the creator calls an absolute joke for a company growing rapidly and becoming increasingly profitable. The company has reiterated guidance despite a less favorable macro outlook. Down only 6% over past 12 months and 34.2% from highs, despite being a fundamentally much better business than 12 months ago. Most long-term SoFi shareholders bought under $10 three-four years ago, and the company has generated 115% returns since then. The creator views any pullback as a gift to accumulate more shares. Earnings coming end of month expected to show strong results.",
+          "when_to_buy": "Under $20 is attractive entry point; creator plans to accumulate more on any weakness",
+          "target_price": null,
+          "cautions": "Stock down 6% over past 12 months and 34.2% from highs; macro not favorable; past 48% drawdown suggests high volatility; guidance reaffirmation may not move stock if market expects raises due to rate cut reassessment"
         }
       ],
       "avoids": []
@@ -8357,6 +8575,69 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": null
+        }
+      ],
+      "avoids": []
+    },
+    {
+      "ticker": "ZG",
+      "company_name": "Zillow Group / Zeta (unclear from transcript - likely refers to a $5 billion market cap company mentioned as undervalued)",
+      "buy_count": 1,
+      "avoid_count": 0,
+      "first_mention_date": "05 Jul 2026",
+      "price_at_first_mention": 33.42,
+      "pct_change_since_rec": 0.0,
+      "market": {
+        "ticker": "ZG",
+        "name": "Zillow Group, Inc.",
+        "currency": "USD",
+        "sector": "Communication Services",
+        "industry": "Internet Content & Information",
+        "market_cap": 7646556160,
+        "current_price": 33.42,
+        "daily_change_pct": 2.36,
+        "month_change_pct": -6.1,
+        "week52_high": 90.22,
+        "week52_high_date": "17 Sep 2025",
+        "week52_low": 29.03,
+        "week52_low_date": "25 Jun 2026",
+        "rsi": 48.6,
+        "rsi_label": "neutral",
+        "ma50": 37.3,
+        "ma200": 55.31,
+        "ma_signal": "death_cross",
+        "pe_trailing": 133.68,
+        "pe_forward": 10.9732065,
+        "peg_ratio": 0.92,
+        "revenue_growth": 0.184,
+        "earnings_growth": 5.333,
+        "free_cashflow": 285500000,
+        "profit_margins": 0.022650002,
+        "debt_to_equity": 9.732,
+        "beta": 1.952,
+        "short_percent": 0.18090001,
+        "dividend_yield": null,
+        "analyst_buy": 14,
+        "analyst_hold": 12,
+        "analyst_sell": 0,
+        "analyst_target": 62.86,
+        "analyst_upside_pct": 88.1,
+        "earnings_date": null,
+        "earnings_days": null
+      },
+      "buys": [
+        {
+          "channel": "CouchInvestor",
+          "title": "4 Stocks I'm Buying in July. Here's Why",
+          "url": "https://www.youtube.com/watch?v=iL8vyBjmqcc",
+          "upload_date": "20260705",
+          "date_label": "05 Jul 2026",
+          "ticker": "ZG",
+          "company_name": "Zillow Group / Zeta (unclear from transcript - likely refers to a $5 billion market cap company mentioned as undervalued)",
+          "reason": "Creator has had this $5 billion market cap company on watchlist for a year, initially covering it at $12-13 when nobody was interested. The stock is growing quickly, becoming increasingly profitable, and fits the profile of small, growing, increasingly profitable companies the creator targets. Currently experiencing 18% drawdown from recent highs and previously experienced 40% drawdown in April. Creator believes the stock could go to $30 and still be fairly valued, indicating significant undervaluation at current levels.",
+          "when_to_buy": "Around current levels; creator hasn't bought yet but plans complete analysis in separate video",
+          "target_price": "$30 per share or higher while remaining fairly valued",
+          "cautions": "Creator has not yet purchased this stock; up only 39.3% over past year; experiencing 18% drawdown; stock has large retail following which may create volatility; requires full fundamental analysis before commitment"
         }
       ],
       "avoids": []

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T10:08:54.664870",
+  "generated_at": "2026-07-06T10:31:51.970588",
   "video_count": 52,
   "stock_count": 108,
   "stocks": [
@@ -897,8 +897,8 @@
         "analyst_buy": 38,
         "analyst_hold": 5,
         "analyst_sell": 1,
-        "analyst_target": 1778.55,
-        "analyst_upside_pct": 0.5,
+        "analyst_target": 1779.57,
+        "analyst_upside_pct": 0.6,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -4164,7 +4164,7 @@
         "currency": "USD",
         "sector": "Technology",
         "industry": "Semiconductors",
-        "market_cap": 214764421120,
+        "market_cap": 214579691520,
         "current_price": 245.29,
         "daily_change_pct": -9.84,
         "month_change_pct": -18.68,
@@ -5642,7 +5642,7 @@
         "analyst_buy": 5,
         "analyst_hold": 9,
         "analyst_sell": 0,
-        "analyst_target": 47.61,
+        "analyst_target": 47.63,
         "analyst_upside_pct": -5.6,
         "earnings_date": null,
         "earnings_days": null
@@ -6268,7 +6268,7 @@
         "ma200": 166.97,
         "ma_signal": "golden_cross",
         "pe_trailing": 18.931255,
-        "pe_forward": 16.073433,
+        "pe_forward": 16.004875,
         "peg_ratio": 0.56,
         "revenue_growth": -0.035,
         "earnings_growth": 1.73,

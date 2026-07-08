@@ -26,6 +26,7 @@ from youtube_transcript_api import YouTubeTranscriptApi, TranscriptsDisabled, No
 
 from config import (
     CHANNELS, MAX_VIDEO_AGE_DAYS, ANTHROPIC_MODEL, BATCH_SIZE,
+    MAX_TRANSCRIPT_RETRIES, MAX_ANALYSIS_RETRIES,
     DATA_DIR, DIGEST_DIR, STATE_FILE, LOG_FILE, EVAL_DIR,
 )
 
@@ -132,7 +133,12 @@ def get_channel_videos(channel_url: str, api_key: str, state: dict) -> list[dict
         return []
 
 
-def get_transcript(video_id: str, cookies_path: str | None = None) -> str | None:
+def get_transcript(video_id: str, cookies_path: str | None = None) -> tuple[str | None, str | None]:
+    """Return (transcript, reason). reason is None on success, "unavailable" when
+    captions are genuinely disabled (terminal — never retry), or "error" for a
+    transient failure such as a network / IP block (worth retrying later)."""
+    captions_unavailable = False
+
     # Primary: youtube-transcript-api instance API (1.x+)
     try:
         if cookies_path:
@@ -148,11 +154,13 @@ def get_transcript(video_id: str, cookies_path: str | None = None) -> str | None
         text = " ".join(s.text for s in fetched.snippets)
         if text:
             log.info(f"  Transcript via API: {len(text):,} chars")
-            return text
+            return text, None
     except (TranscriptsDisabled, NoTranscriptFound):
+        captions_unavailable = True
         log.warning(f"  No transcript available via API for {video_id}")
     except Exception as e:
-        log.warning(f"  Transcript API error for {video_id}: {e}")
+        # Blocks/rate-limits surface here; some raise with an empty str, so log the type.
+        log.warning(f"  Transcript API error for {video_id}: {type(e).__name__}: {e}")
 
     # Fallback: yt-dlp VTT
     try:
@@ -185,23 +193,27 @@ def get_transcript(video_id: str, cookies_path: str | None = None) -> str | None
             transcript = " ".join(lines)
             if transcript:
                 log.info(f"  Transcript via yt-dlp VTT: {len(transcript):,} chars")
-                return transcript
+                return transcript, None
     except Exception as e:
-        log.warning(f"  yt-dlp VTT fallback failed for {video_id}: {e}")
+        log.warning(f"  yt-dlp VTT fallback failed for {video_id}: {type(e).__name__}: {e}")
 
     log.warning(f"  No transcript obtained for {video_id}")
-    return None
+    return None, ("unavailable" if captions_unavailable else "error")
 
 
 # ---------------------------------------------------------------------------
 # Claude analysis
 # ---------------------------------------------------------------------------
 
-def analyse_transcript(title: str, channel: str, transcript: str) -> dict | None:
+def analyse_transcript(title: str, channel: str, transcript: str) -> tuple[dict | None, bool]:
+    """Return (analysis, transient). transient=True means the failure is an
+    infrastructure/auth/network problem (retry later, do NOT count toward giving
+    up); transient=False with analysis=None means Claude returned an unparseable
+    response for this specific video (a content problem that counts toward the cap)."""
     api_key = os.environ.get("ANTHROPIC_API_KEY")
     if not api_key:
         log.error("ANTHROPIC_API_KEY not set")
-        return None
+        return None, True
 
     client = anthropic.Anthropic(api_key=api_key)
     template = PROMPT_FILE.read_text()
@@ -219,13 +231,15 @@ def analyse_transcript(title: str, channel: str, transcript: str) -> dict | None
         raw = message.content[0].text.strip()
         raw = re.sub(r"^```(?:json)?\s*", "", raw)
         raw = re.sub(r"\s*```$", "", raw)
-        return json.loads(raw)
+        return json.loads(raw), False
     except json.JSONDecodeError as e:
         log.error(f"  Claude returned invalid JSON: {e}")
-        return None
+        return None, False
     except Exception as e:
-        log.error(f"  Claude API error: {e}")
-        return None
+        # Auth (401), rate limit (429), server (5xx) and network errors are all
+        # transient/global — never let them permanently retire a video.
+        log.error(f"  Claude API error: {type(e).__name__}: {e}")
+        return None, True
 
 
 # ---------------------------------------------------------------------------
@@ -581,28 +595,58 @@ def run():
                 log.info(f"  Skipping (too old): {video['title']}")
                 continue
 
-            if vid_id in state.get("processed", {}) and "analysis" in state["processed"][vid_id]:
+            prior = state.get("processed", {}).get(vid_id)
+            if prior and ("analysis" in prior or prior.get("terminal")):
                 log.info(f"  Skipping (already processed): {video['title']}")
                 continue
 
             log.info(f"  Processing: {video['title']}")
             time.sleep(2)
             attempts += 1
-            transcript = get_transcript(vid_id, cookies_path=cookies_path)
+            transcript, reason = get_transcript(vid_id, cookies_path=cookies_path)
 
             if not transcript:
-                state.setdefault("processed", {})[vid_id] = {
+                entry = state.setdefault("processed", {}).get(vid_id, {})
+                fails = entry.get("transcript_fails", 0) + 1
+                entry.update({
                     "channel": name, "title": video["title"],
                     "upload_date": upload_date, "url": video["url"],
                     "processed_at": datetime.now().isoformat(),
-                    "skipped": "no transcript",
-                }
+                    "transcript_fails": fails, "last_reason": reason,
+                })
+                # Captions genuinely disabled → give up now. Transient block → give
+                # up only after MAX_TRANSCRIPT_RETRIES so it stops blocking the queue.
+                if reason == "unavailable" or fails >= MAX_TRANSCRIPT_RETRIES:
+                    entry["terminal"] = True
+                    entry["skipped"] = "no transcript"
+                    log.warning(f"  Giving up on transcript ({reason}, {fails} attempt(s)): {video['title']}")
+                state["processed"][vid_id] = entry
                 save_state(state)
                 continue
 
-            analysis = analyse_transcript(video["title"], name, transcript)
+            analysis, transient = analyse_transcript(video["title"], name, transcript)
             if not analysis:
-                log.warning(f"  Analysis failed: {video['title']}")
+                if transient:
+                    # Infra/auth/network problem — leave state untouched and retry
+                    # on a later run so a global outage can't retire the backlog.
+                    log.warning(f"  Analysis failed (transient — will retry): {video['title']}")
+                    continue
+                entry = state.setdefault("processed", {}).get(vid_id, {})
+                afails = entry.get("analysis_fails", 0) + 1
+                entry.update({
+                    "channel": name, "title": video["title"],
+                    "upload_date": upload_date, "url": video["url"],
+                    "processed_at": datetime.now().isoformat(),
+                    "analysis_fails": afails,
+                })
+                if afails >= MAX_ANALYSIS_RETRIES:
+                    entry["terminal"] = True
+                    entry["skipped"] = "analysis failed"
+                    log.warning(f"  Giving up on analysis ({afails} attempt(s)): {video['title']}")
+                else:
+                    log.warning(f"  Analysis failed (content, attempt {afails}): {video['title']}")
+                state["processed"][vid_id] = entry
+                save_state(state)
                 continue
 
             maybe_save_eval_transcript(state, video, name, transcript, analysis)

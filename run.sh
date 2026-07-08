@@ -1,10 +1,16 @@
 #!/bin/bash
-set -e
+# Investment Digest — local runner (launchd, on this Mac's residential IP).
+# Pulls latest state, runs the pipeline, publishes the digest to GitHub Pages.
+set -euo pipefail
+
+# launchd runs with a minimal PATH; add Homebrew (yt-dlp) and keep system git.
+export PATH="/opt/homebrew/bin:/usr/bin:/bin:/usr/sbin:/sbin:$PATH"
 
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 VENV_PYTHON="/Users/johnbean/Documents/Claude/Investment Projects/youtube-digest/venv/bin/python3"
+cd "$SCRIPT_DIR"
 
-# Load secrets from .env if present
+# Load secrets (ANTHROPIC_API_KEY, YOUTUBE_API_KEY) from .env
 if [ -f "$SCRIPT_DIR/.env" ]; then
     set -a && source "$SCRIPT_DIR/.env" && set +a
 fi
@@ -12,8 +18,32 @@ fi
 COOKIES="$SCRIPT_DIR/yt_cookies.txt"
 if [ -f "$COOKIES" ]; then
     export YOUTUBE_COOKIES_FILE="$COOKIES"
-    echo "Using cookies: $COOKIES"
 fi
 
-cd "$SCRIPT_DIR/pipeline"
-"$VENV_PYTHON" monitor.py
+echo "=== run.sh starting $(date -u '+%Y-%m-%d %H:%M:%SZ') ==="
+
+# Get latest committed state first so we don't process against a stale backlog
+# and so the push at the end fast-forwards cleanly.
+git pull --rebase --autostash origin main
+
+# Run the pipeline
+"$VENV_PYTHON" pipeline/monitor.py
+
+# Publish data for the GitHub Pages frontend
+mkdir -p docs/data
+cp data/latest.json            docs/data/latest.json
+cp data/processed_videos.json  docs/data/processed_videos.json 2>/dev/null || true
+
+# Commit and push only if something actually changed
+git config user.name  "Investment Digest Bot"
+git config user.email "digest-bot@users.noreply.github.com"
+git add data/ docs/data/
+if git diff --cached --quiet; then
+    echo "No changes to commit."
+else
+    git commit -m "digest: $(date -u '+%Y-%m-%d %H:%M UTC')"
+    git push origin main
+    echo "Pushed update."
+fi
+
+echo "=== run.sh done $(date -u '+%Y-%m-%d %H:%M:%SZ') ==="

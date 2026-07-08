@@ -1,10 +1,12 @@
 name: Investment Digest
 
 on:
-  schedule:
-    - cron: '0 */2 * * *'   # every 2 hours - each run processes a batch of BATCH_SIZE
-                            # videos (see pipeline/config.py) to stay under YouTube's
-                            # per-burst rate limit; backlog clears over the course of the day
+  # Scheduled runs are DISABLED. YouTube blocks transcript fetches from GitHub's
+  # datacenter IPs, so CI runs produced empty digests. The pipeline now runs on a
+  # residential IP via launchd on the Mac (ops/com.johnbean.investment-digest.plist,
+  # run.sh). Kept here as a manual fallback only.
+  #  schedule:
+  #    - cron: '0 */2 * * *'
   workflow_dispatch:        # allow manual trigger from GitHub UI
 
 jobs:

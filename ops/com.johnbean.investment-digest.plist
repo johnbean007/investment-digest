@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.johnbean.investment-digest</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>/Users/johnbean/Documents/Claude/Investment Projects/investment-digest-v2/run.sh</string>
+    </array>
+
+    <key>WorkingDirectory</key>
+    <string>/Users/johnbean/Documents/Claude/Investment Projects/investment-digest-v2</string>
+
+    <!-- Run hourly. If the Mac is asleep across scheduled times, launchd fires
+         the job once on wake, then resumes the hourly cadence. Combined with the
+         pipeline's 30-day lookback, a weekend gap is caught up automatically. -->
+    <key>StartInterval</key>
+    <integer>3600</integer>
+
+    <!-- Also run immediately when the job is loaded / on login. -->
+    <key>RunAtLoad</key>
+    <true/>
+
+    <key>StandardOutPath</key>
+    <string>/Users/johnbean/Library/Logs/investment-digest.out.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/johnbean/Library/Logs/investment-digest.err.log</string>
+</dict>
+</plist>

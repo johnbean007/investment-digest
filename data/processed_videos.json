@@ -2617,40 +2617,138 @@
       "title": "Top Undervalued AI Stock to BUY NOW",
       "upload_date": "20260627",
       "url": "https://www.youtube.com/watch?v=ZLuyJtaxUKM",
-      "processed_at": "2026-07-06T12:22:31.374470",
-      "skipped": "no transcript"
+      "processed_at": "2026-07-09T14:54:10.298861",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "MSFT",
+            "company_name": "Microsoft Corporation",
+            "reason": "Microsoft is a massive company in the B2B space with a growing revenue stream from Microsoft Azure, which grew 39% in the past year despite the company generating over a hundred billion dollars annually. The stock appears undervalued at current prices and has been beaten down by bad press. The creator believes the company has strong long-term potential combined with attractive short-term valuation metrics.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": [
+          "MSFT"
+        ]
+      },
+      "price_at_recommendation": {
+        "MSFT": 378.1
+      }
     },
     "12HgCBCuTCI": {
       "channel": "FinTek",
       "title": "Top AI Infrastructure Stock in 2026",
       "upload_date": "20260626",
       "url": "https://www.youtube.com/watch?v=12HgCBCuTCI",
-      "processed_at": "2026-07-06T12:22:35.379962",
-      "skipped": "no transcript"
+      "processed_at": "2026-07-09T14:54:19.316435",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NET",
+            "company_name": "Cloudflare Inc.",
+            "reason": "Cloudflare has demonstrated exponential revenue growth over the last 5 years, with gross profits increasing at an even faster rate than revenue. In February 2026, the company announced Q4 revenue of $614 million, representing 34% year-over-year growth. The creator currently owns 172 shares and describes it as one of their biggest positions, currently up approximately 200% overall, indicating strong conviction in the company's AI infrastructure potential.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The video notes that Cloudflare has had 'pretty wild volatility over the last 5 years,' indicating significant price swings despite strong underlying fundamentals."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": [
+          "NET"
+        ]
+      },
+      "price_at_recommendation": {
+        "NET": 274.15
+      }
     },
     "xQZhNMIKlgY": {
       "channel": "FinTek",
       "title": "Top Robotics Stock ETF to BUY NOW",
       "upload_date": "20260622",
       "url": "https://www.youtube.com/watch?v=xQZhNMIKlgY",
-      "processed_at": "2026-07-06T12:22:39.379801",
-      "skipped": "no transcript"
+      "processed_at": "2026-07-09T14:54:28.086427",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "BOTZ",
+            "company_name": "Robotics ETF",
+            "reason": "BOTZ is a robotics ETF that provides a basket of stocks spread across the entire robotics space. It holds larger cap growth stocks and offers lower fees compared to alternatives. Its holdings are spread across multiple parts of the robotics value chain, providing diversified exposure to the sector. The ETF gives exposure to parts of the robotics market not covered directly elsewhere, including medical robots and non-US names such as companies in China.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The ETF holds high volatility stocks, which means investors should be prepared for significant price fluctuations."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": [
+          "BOTZ"
+        ]
+      },
+      "price_at_recommendation": {
+        "BOTZ": 36.53
+      }
     },
     "JOSAw_GG_fs": {
       "channel": "FinTek",
       "title": "Top AI Energy Stock to BUY NOW (CEG)",
       "upload_date": "20260620",
       "url": "https://www.youtube.com/watch?v=JOSAw_GG_fs",
-      "processed_at": "2026-07-06T12:22:43.257855",
-      "skipped": "no transcript"
+      "processed_at": "2026-07-09T14:54:36.664992",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "CEG",
+            "company_name": "Constellation Energy",
+            "reason": "Constellation Energy is positioned as the number one company in the US for carbon-free energy. The company signed a 20-year deal with Meta for clean nuclear energy in Illinois, demonstrating strong demand from major tech companies for reliable clean power. Additionally, Constellation acquired Calpine, one of the biggest natural gas companies in the US, which allows the company to capture extra revenue in the short term while positioning for massive profits as nuclear energy adoption increases. The investment thesis combines near-term revenue from the Calpine acquisition with long-term growth as nuclear becomes more widely adopted.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": [
+          "CEG"
+        ]
+      },
+      "price_at_recommendation": {
+        "CEG": 247.16
+      }
     },
     "YnllKWyCNTg": {
       "channel": "FinTek",
       "title": "Warren Buffett Just Bought This Stock",
       "upload_date": "20260619",
       "url": "https://www.youtube.com/watch?v=YnllKWyCNTg",
-      "processed_at": "2026-07-06T12:22:47.278585",
-      "skipped": "no transcript"
+      "processed_at": "2026-07-09T14:54:46.476099",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet Inc.",
+            "reason": "Berkshire Hathaway bought another $10 billion worth of Alphabet stock, nearly tripling their stake in Google's parent company. This makes Google Berkshire's seventh largest position overall and their second biggest tech position behind Apple. The purchase may signal that new CEO Greg Abel is more willing to engage in the latest tech compared to Warren Buffett's previous approach.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The video suggests this may be more of a Greg Abel move as the new CEO rather than a Buffett conviction, which could indicate some uncertainty about whether this aligns with traditional Berkshire investment philosophy."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "While Berkshire has been selling across many different industries, their buying has been focused in only a few key areas, suggesting selective deployment of capital and potential concerns about broader market valuations or specific sectors outside their core holdings."
+        ],
+        "tickers_mentioned": [
+          "GOOGL",
+          "AAPL"
+        ]
+      },
+      "price_at_recommendation": {
+        "GOOGL": 356.64
+      }
     },
     "4EDq12k6yQM": {
       "channel": "FinTek",
@@ -2855,8 +2953,482 @@
       "title": "BEST Growth Stocks to Buy NOW \u2013 Full 50-Stock Tier List (Tesla, Nvidia, Palantir...)",
       "upload_date": "20260618",
       "url": "https://www.youtube.com/watch?v=XYTcJMK0IUk",
-      "processed_at": "2026-07-09T11:41:33.192695",
-      "analysis_fails": 1
+      "processed_at": "2026-07-09T14:52:50.246263",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon",
+            "reason": "Long-term conviction stock on the creator's top 10 high conviction stocks for the next decade list. The creator has confidence that if owned for 5-10 years, the stock will be worth more and represents a 'sleep well at night' investment. Amazon is positioned as a company that will at least market perform or potentially provide upside, suitable for holding over extended periods.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Creator notes this is not ranking by alpha or biggest returns. Stock can certainly go lower in a bear market. This is a long-term hold, not a day-trading vehicle."
+          },
+          {
+            "ticker": "MSFT",
+            "company_name": "Microsoft",
+            "reason": "On the creator's top 10 high conviction stocks for the next decade list, positioned in S tier. Creator emphasizes this is a 'sleep well at night' investment where they can hold for 5-10 years with confidence in appreciation.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Creator notes that while in S tier, this is about conviction and sleep-well-at-night vibes rather than maximum alpha. Some may disagree with this ranking."
+          },
+          {
+            "ticker": "BRK.B",
+            "company_name": "Broadcom",
+            "reason": "In S tier as part of creator's top 10 high conviction stocks for the next decade. Broadcom offers diversification beyond semiconductors with a 60% semiconductor and 40% software/cybersecurity mix. This diversification makes it less reliant on single-cycle dynamics compared to pure semiconductor plays. Creator has owned since 2018 with good returns and views it as suitable for long-term holding.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Still subject to CapEx cycle risks affecting the broader semiconductor industry. Stock has already appreciated significantly, so timing matters."
+          },
+          {
+            "ticker": "ORCL",
+            "company_name": "Oracle",
+            "reason": "Positioned in S tier ('sleep well at night' tier). Creator has personal expertise having worked at Oracle for a couple years and in the partner ecosystem for a decade. Creator believes Oracle has significant long-term opportunity with its new cloud offerings and is comfortable holding for 5-10 years with confidence in appreciation.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Creator emphasizes that S tier doesn't guarantee huge returns, just market-level or slightly better performance with confidence in ownership. Valuation matters, and the creator owns at lower historical cost basis."
+          },
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia",
+            "reason": "Long-term ownership since 2017 at under $4 per share. Approximately 15% of creator's main portfolio with additional shares in community portfolio. Despite long history of owning this stock, positioned in A tier rather than S due to concerns about cyclicality tied to CapEx cycles in GPU demand.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Creator has significant concerns about the CapEx cycle slowdown risk. Valuation-wise not expensive, but the dependence on GPU sales presents concentrated risk. Could be elevated to S tier if CapEx cycle concerns are resolved. Creator notes this will generate disagreement from investors who view it as S or higher tier."
+          },
+          {
+            "ticker": "PLTR",
+            "company_name": "Palantir Technologies",
+            "reason": "Purchased around $10 per share with long history of coverage since before IPO in October 2020. Creator's channel was first YouTube coverage in July 2020. Positioned in A tier with optimism about long-term prospects and potential for appreciation.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Expensive even after pulling back from $200 level. Creator warns to be careful with valuation and advises caution on entry point. Stock remains volatile and not a cheap entry currently."
+          },
+          {
+            "ticker": "SNOW",
+            "company_name": "Snowflake",
+            "reason": "Creator invested $100,000 with positive returns and good conviction, positioned between A and B tier. Creator acknowledges this is an area of personal weakness due to work background in cloud SaaS space where they believe they understand these companies better than most analysts. Long-term growth potential in cloud data platform space.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Creator admits this rating may be biased due to personal expertise and work history. For most people, creator would recommend avoiding SaaS stocks or rating this C or D tier. Valuation not specifically addressed as concern, but SaaS sector has structural risks including stock-based compensation and cyclical valuations."
+          },
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices",
+            "reason": "Identified as best of breed for data center CPU with additional GPU market share. Quality company positioned in A tier primarily due to current valuation concerns at $550+ per share.",
+            "when_to_buy": "Creator suggests if priced at $75-80 per share (April 2025 timeframe), would move to S tier",
+            "target_price": null,
+            "cautions": "Expensive at current levels ($550+). Creator notes valuation is the primary constraint on rating, not company quality. Would only move to S tier at significantly lower prices."
+          },
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet (Google)",
+            "reason": "Long-term holding since $50 per share with A tier rating. Creator notes this could easily be rated A or S tier but maintains A due to personal holding bias and valuation considerations.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Creator notes could be rated S tier, and some would easily argue for S. Valuation appears to be moderating the rating from S to A."
+          },
+          {
+            "ticker": "TSM",
+            "company_name": "Taiwan Semiconductor Manufacturing Company",
+            "reason": "Owned in community portfolio, positioned in A tier. TSM has dominant moat with approximately 90% of advanced chip manufacturing. Best of breed in advanced nano-scale chip production. Lower conviction than some other holdings but current pricing viewed as opportunity to buy.",
+            "when_to_buy": "Current price around $550 seen as potential buying opportunity",
+            "target_price": null,
+            "cautions": "Significant geopolitical risk from China and Taiwan tensions. If something happens to TSM, it will impact global economy and all semiconductor stocks mentioned. Arizona manufacturing plants somewhat mitigate but don't eliminate risk. Creator notes this has always been lower conviction holding despite quality."
+          },
+          {
+            "ticker": "NFLX",
+            "company_name": "Netflix",
+            "reason": "Owned in community portfolio with bullish outlook at current price of $75-77. Analyst consensus shows 23 buy ratings, 8 hold, 0 sell with average price target of $114.92. Stock trading below even lowest analyst target of $95, offering upside potential of 23-46% based on analyst range.",
+            "when_to_buy": "Current price $75-77 represents attractive entry relative to analyst targets",
+            "target_price": "$114.92 average analyst target; $135 highest, $95 lowest",
+            "cautions": "Creator emphasizes not buying just based on analyst price targets. This is speculative based on analyst consensus rather than creator's fundamental analysis. Multiple expansion risk if growth disappoints."
+          },
+          {
+            "ticker": "IBM",
+            "company_name": "International Business Machines",
+            "reason": "Owned in dividend portfolio with B tier rating. Not appropriate for growth portfolio but suitable for income-focused strategy.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Explicitly not recommended for growth-focused investors. Better suited to dividend/income strategies only."
+          },
+          {
+            "ticker": "QCOM",
+            "company_name": "Qualcomm",
+            "reason": "Owned in dividend portfolio with additional shares in main portfolio, rated B tier. Significant opportunity in robotics, edge computing, autonomous vehicles, and potential data center expansion. Lost modem business to Apple but has compensatory growth opportunities.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Qualcomm has things to prove after losing modem business to Apple. Could emerge as a 'dark horse' but requires execution on new markets."
+          },
+          {
+            "ticker": "MU",
+            "company_name": "Micron Technology",
+            "reason": "Rated A tier, owned by creator with positive outlook. Deutsche Bank issued fresh $1,500 price target implying 50% upside from current $1,000 level. Company pivoted away from consumer electronics to focus on data center, addressing cyclicality concerns associated with traditional memory business.",
+            "when_to_buy": null,
+            "target_price": "$1,500 (Deutsche Bank target)",
+            "cautions": "Stock has already ripped approximately 1,000% in recent period. Despite A tier rating, creator cautions this is more of a cyclical trade for 1-2 years rather than long-term 'swan' stock. Semiconductors retain cyclical nature despite data center focus."
+          },
+          {
+            "ticker": "AAPL",
+            "company_name": "Apple",
+            "reason": "Long-term holding since 2015 with A tier rating. High conviction name with over 10 years of ownership in creator's main portfolio. Creator feels comfortable letting it ride despite uncertainty about buying at current prices if starting fresh.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Creator notes would not initiate new position at current prices despite A tier rating. Position held at significantly lower historical cost basis. Not appropriate for new entrants at current valuation."
+          },
+          {
+            "ticker": "NET",
+            "company_name": "Cloudflare",
+            "reason": "Purchased at IPO in 2019 at $35-40 range with strong performance. Rated A tier. Creator notes this is one of first Discord community buys with positive track record.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Very expensive at current prices. Creator would not recommend buying at today's valuation despite A tier quality rating. Better suited for those with lower cost basis."
+          },
+          {
+            "ticker": "UBER",
+            "company_name": "Uber Technologies",
+            "reason": "Owned in community portfolio with B tier rating. Creator sees significant long-term opportunity in the company as a solid growth holding with multiple revenue streams.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "App-based business model creates different risk profile. Creator prefers Uber to DoorDash as best-of-breed with network effects from ride-sharing customer base plus Uber Eats."
+          },
+          {
+            "ticker": "SQ",
+            "company_name": "Block, Inc. (Square)",
+            "reason": "Positioned in C tier. Creator indicates this has ripped hard and is a good company but hesitates to recommend at current elevated prices.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Stock has appreciated significantly. Creator would wait for better entry point. Currently too expensive for new positions in creator's assessment."
+          },
+          {
+            "ticker": "SOFI",
+            "company_name": "SoFi Technologies",
+            "reason": "Owned in community portfolio with B tier rating. Creator likes the company with conviction for long-term holding. Initially bought at lower prices, sold 3/4 of position around $28-30 range, now repurchased at lower prices after decline.",
+            "when_to_buy": "Dollar-cost averaging approach used after selling position at $28-30; repurchasing at lower prices",
+            "target_price": null,
+            "cautions": "Position is held in half shares showing some caution. This will generate comments as some view it lower. Creator acknowledges fintech sector skepticism but maintains B rating based on personal conviction."
+          },
+          {
+            "ticker": "RBLX",
+            "company_name": "Roblox",
+            "reason": "Owned in community portfolio with C tier rating as speculative name. Creator's children use the platform, indicating familiarity with user base and engagement.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Explicitly rated as speculative. Creator took profits and reduced to half shares, indicating caution despite ownership. Suitable only for risk-tolerant investors."
+          },
+          {
+            "ticker": "TTD",
+            "company_name": "The Trade Desk",
+            "reason": "Positioned in C tier (though creator expresses more favorable view). Creator indicates this is good company that has appreciated significantly.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Stock has ripped hard. Creator would likely wait for better entry point. Current pricing makes it difficult to recommend despite quality."
+          },
+          {
+            "ticker": "CRWD",
+            "company_name": "CrowdStrike",
+            "reason": "Positioned in C tier. Creator acknowledges this could easily be rated higher but maintains C due to already significant appreciation.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Stock has appreciated substantially. Creator would wait for correction before recommending. Too expensive at current levels for new positions."
+          },
+          {
+            "ticker": "CRM",
+            "company_name": "Salesforce",
+            "reason": "Owned by creator, rated B tier despite consideration for C tier. Creator likes the company and believes it will do well long-term. Would personally choose ServiceNow over Salesforce if buying between the two.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Lacks strong growth characteristics that would elevate it to A tier. Creator acknowledges for most people this should be C or D tier due to SaaS sector risks. Personal ownership bias may be elevating the rating. Stock-based compensation and SaaS valuation risks present."
+          },
+          {
+            "ticker": "NOW",
+            "company_name": "ServiceNow",
+            "reason": "Rated B tier. Creator prefers this SaaS name over Salesforce despite not having large position. Creator would choose ServiceNow if buying between SaaS options.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Creator advises most people to avoid SaaS stocks due to unique risks including stock-based compensation and valuation cyclicality. This is exception to creator's general SaaS avoidance advice, applicable only to sophisticated investors."
+          },
+          {
+            "ticker": "SHOP",
+            "company_name": "Shopify",
+            "reason": "Rated B tier. Creator likes the company but maintains lower conviction than A tier holdings. Positioned between A and B tier but selected B.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Lower conviction than A tier despite liking the company. Appears to be valuation constraint on rating from A to B."
+          },
+          {
+            "ticker": "SPX",
+            "company_name": "Space Exploration Technologies (SpaceX)",
+            "reason": "Allocated 40 shares in community portfolio. Positioned at B tier despite being a speculative long-term opportunity. Creator believes if young (25-year-old version), would rate A or S tier. For creator's stage (near end-game retirement), rates B tier for lower risk positioning.",
+            "when_to_buy": "Dollar-cost average if stock declines further; creator expects potential opportunity to buy at lower prices",
+            "target_price": null,
+            "cautions": "Creator views SpaceX as expensive and overvalued at current valuation, despite owning 1% position that has appreciated 50-60%. Market cap currently exceeds Microsoft and Amazon, which creator believes is premature valuation. Creator expects stock could be lower later, providing entry opportunity. Small 1% position reflects caution. Rating depends heavily on investor age and risk tolerance."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "SNAP",
+            "company_name": "Snap Inc.",
+            "reason": "Rated F tier (avoid). Stock down 92% over past 5 years and now trading under $5 (technically penny stock at $4.76). Creator has never been a fan of Snap, the CEO, or the business model. Creator not engaged with product (Snapchat goggles) and questions market viability, noting $2,195 AR goggle pricing is unrealistic relative to competitors like Ray-Ban Meta. This represents fundamental business model rejection rather than valuation issue.",
+            "risk": "Down 92% in 5 years; trading at $4.76 (penny stock territory)"
+          },
+          {
+            "ticker": "PAYPAL",
+            "company_name": "PayPal",
+            "reason": "Rated D/F tier (avoid). Creator has not been a fan and notes people have lost significant money on PayPal over the years. Fintech sector skepticism leads creator to view this as poor investment. Creator would rate F but gives slight benefit of doubt with D rating.",
+            "risk": "Long history of poor returns; investors have lost money; fintech sector headwinds"
+          },
+          {
+            "ticker": "BABA",
+            "company_name": "Alibaba",
+            "reason": "Rated F tier (avoid). Creator personally avoids all Chinese stocks due to regulatory risk, geopolitical concerns, and lack of familiarity with Chinese market dynamics.",
+            "risk": "Chinese regulatory risk; geopolitical tensions; creator avoids all Chinese equities as policy"
+          },
+          {
+            "ticker": "TCEHY",
+            "company_name": "Tencent Holdings",
+            "reason": "Rated F tier (avoid). Same rationale as Alibaba\u2014creator avoids Chinese stocks as a matter of investment policy due to regulatory and geopolitical risks.",
+            "risk": "Chinese regulatory risk; geopolitical tensions; creator avoids all Chinese equities as policy"
+          },
+          {
+            "ticker": "COIN",
+            "company_name": "Coinbase",
+            "reason": "Rated D tier (avoid). Creator places this below Robinhood (rated C) due to higher cyclicality and uncertainty around crypto regulation. If Robinhood is C, Coinbase is worse.",
+            "risk": "Extreme cyclicality tied to crypto market cycles; regulatory uncertainty"
+          },
+          {
+            "ticker": "HOOD",
+            "company_name": "Robinhood Markets",
+            "reason": "Rated C tier (avoid/hold). Viewed as cyclical stock dependent on retail investor activity and options trading. During market rallies and retail enthusiasm, performs well; during bear markets and recessions, gets absolutely hammered.",
+            "risk": "Extreme cyclicality; crashes during bear markets and recessions; not suitable for buy-and-hold; only for tactical traders"
+          },
+          {
+            "ticker": "SPOT",
+            "company_name": "Spotify",
+            "reason": "Rated C tier (avoid). Creator doesn't own it and notes while community members own it, it doesn't fit creator's investment blueprint focused on secular growth trends. App-based business model without structural secular growth tailwind.",
+            "risk": "No secular growth trend; app-based business vulnerable to competitive threats; creator lacks conviction"
+          },
+          {
+            "ticker": "ABNB",
+            "company_name": "Airbnb",
+            "reason": "Rated C tier (avoid). Creator bought at IPO, stock did nothing and remained flat for years. Creator sold the position and unlikely to repurchase. App-based business model without secular growth characteristics similar to Spotify.",
+            "risk": "Flat performance history; no secular growth trend; app model exposes to disruption; creator already exited position"
+          },
+          {
+            "ticker": "DASH",
+            "company_name": "DoorDash",
+            "reason": "Rated C tier (avoid). Creator prefers best-of-breed and favors Uber with Uber Eats over pure-play DoorDash. Falls into category of app-based businesses lumped with Spotify and Airbnb as mediocre investments.",
+            "risk": "Secular growth headwinds; app-based saturation; inferior to Uber with network effects"
+          },
+          {
+            "ticker": "ADBE",
+            "company_name": "Adobe",
+            "reason": "Rated C/D tier (avoid). Creator personally would not invest, citing excessive competition. While not necessarily a bad business, creator sees better opportunities. Too much competitive pressure from alternative solutions.",
+            "risk": "Intense competition; no moat protection; valuation not compelling relative to risks"
+          },
+          {
+            "ticker": "SNE",
+            "company_name": "Sony Group Corporation",
+            "reason": "Rated D tier (avoid). Creator not interested in investing despite acknowledging Sony is decent company. Not a compelling opportunity.",
+            "risk": "Creator lacks investment thesis; better alternatives available"
+          },
+          {
+            "ticker": "SSNLF",
+            "company_name": "Samsung Electronics",
+            "reason": "Rated D tier (avoid). Placed in same category as Sony, indicating lack of investment interest despite being established company.",
+            "risk": "Creator lacks conviction; better alternatives in semiconductor space"
+          },
+          {
+            "ticker": "NTDOY",
+            "company_name": "Nintendo",
+            "reason": "Rated D tier (avoid). While not bad company and established business, creator would not invest. More suited to entertainment/gaming enthusiasts than growth investors.",
+            "risk": "Limited secular growth; creator lacks investment thesis; video game industry struggles historically"
+          },
+          {
+            "ticker": "TTM",
+            "company_name": "Take-Two Interactive",
+            "reason": "Rated C tier (caution). Creator notes stock market generally does not like video game companies historically, despite upcoming Grand Theft Auto release potentially creating trading opportunity. Not suitable for long-term hold.",
+            "risk": "Video game sector historically underperforms; momentum-dependent; avoid for buy-and-hold strategy"
+          },
+          {
+            "ticker": "EA",
+            "company_name": "Electronic Arts",
+            "reason": "Rated D/F tier (avoid). Considered worse than Take-Two. Creator views video game companies unfavorably. Same historical underperformance as broader video game industry.",
+            "risk": "Video game sector headwinds; worse than peers; historical underperformance"
+          },
+          {
+            "ticker": "RDDT",
+            "company_name": "Reddit",
+            "reason": "Rated C tier (avoid). Falls into app category alongside Spotify, Airbnb, and DoorDash. Creator doesn't own it and views as mediocre opportunity.",
+            "risk": "App-based monetization uncertainty; creator lacks conviction; grouping with weaker assets"
+          },
+          {
+            "ticker": "CSCO",
+            "company_name": "Cisco Systems",
+            "reason": "Rated C tier (caution/avoid). Creator doesn't own it and expresses uncertainty about company's positioning. With AI disruption potential, becomes less attractive. Could rate B or C but likely fits with Dell in C tier.",
+            "risk": "AI disruption threat; legacy business model; creator uncertain about future positioning"
+          },
+          {
+            "ticker": "DELL",
+            "company_name": "Dell Technologies",
+            "reason": "Rated C tier (avoid). Creator doesn't think it's bad business but doesn't own it and not interested. Placed in category of decent companies not worth investing.",
+            "risk": "Creator lacks conviction; turnaround story may not materialize as expected"
+          },
+          {
+            "ticker": "INTC",
+            "company_name": "Intel",
+            "reason": "Rated C tier (caution). Considered turnaround story with stock having already ripped higher. Creator cheering for company to do well but doesn't own at current prices. Could be B tier due to foundry opportunity potential, but kept at C due to no current position and already appreciated valuation.",
+            "risk": "Turnaround execution risk; valuation already elevated; competitive threats from TSMC and Samsung; foundry business unproven"
+          },
+          {
+            "ticker": "DISCORD",
+            "company_name": "Discord (Private, pre-IPO)",
+            "reason": "Rated D tier (avoid, pending IPO). Creator loves Discord platform but views IPO as overvalued. Fundamental question about monetization remains unresolved. Wants to see earnings reports and more information before considering investment. Likely to be rated D or higher depending on IPO pricing and initial earnings.",
+            "risk": "Uncertain monetization model; IPO pricing likely excessive; execution risk on becoming profitable company"
+          },
+          {
+            "ticker": "ASML",
+            "company_name": "ASML Holding",
+            "reason": "Rated C tier (avoid). Creator previously owned it but sold; stock ripped since sale. While acknowledging ASML as best-of-breed in lithography equipment, has concerns about future disruption from Canon and other competitors. Creator feels equipment costs and physical size make industry ripe for disruption.",
+            "risk": "Potential disruption from competitors; expensive equipment with limited TAM; creator already exited position"
+          },
+          {
+            "ticker": "ARM",
+            "company_name": "Arm Holdings",
+            "reason": "Rated C tier (avoid). Creator likes the company but doesn't like valuation. Doesn't own it and not buying at current prices despite company quality.",
+            "risk": "Valuation not compelling; competitive threats from x86 and custom chips; creator lacks entry conviction"
+          },
+          {
+            "ticker": "ANTHROPIC",
+            "company_name": "Anthropic (Private, pre-IPO)",
+            "reason": "Rated C tier (placeholder). Company not yet public. Creator hesitant to rate based on hype without seeing S-1 filing or understanding IPO valuation. Rating could easily change to S, A, or B depending on IPO pricing and fundamentals.",
+            "risk": "IPO uncertainty; pre-commercial AI company; valuation risk of hype-driven IPO pricing"
+          },
+          {
+            "ticker": "OPENAI",
+            "company_name": "OpenAI (Private, pre-IPO)",
+            "reason": "Rated C tier (placeholder). Company not yet public. Creator suggests this is tough call requiring S-1 review before making investment decision. Rating placeholder pending more information.",
+            "risk": "IPO uncertainty; market already crowded with AI competitors; unclear path to profitability"
+          },
+          {
+            "ticker": "SNDX",
+            "company_name": "SanDisk",
+            "reason": "Rated C tier (avoid). While stock has ripped 1,000% in past year, creator missed opportunity and won't chase. This represents pattern where creator bought AMD and Micron but not SanDisk, indicating this wasn't on radar. Too expensive to enter after such large move.",
+            "risk": "Stock up 1,000% in one year, likely overextended; creator missed entry window; cyclical memory business"
+          }
+        ],
+        "key_warnings": [
+          "Avoid app-based business model stocks (Spotify, Airbnb, DoorDash, Snap, etc.) as they lack secular growth tailwinds and are vulnerable to disruption. Creator explicitly groups these as mediocre investments without underlying structural growth.",
+          "SaaS sector carries unique risks including stock-based compensation dilution and cyclical valuations. Creator advises most investors to avoid SaaS stocks unless they deeply understand the specific business. Cloud infrastructure (like Snowflake) may differ from traditional SaaS.",
+          "Chinese stock exposure creates regulatory and geopolitical risk. Creator avoids all Chinese stocks (Alibaba, Tencent, etc.) as a matter of policy due to regulatory uncertainty and lack of familiarity with Chinese market dynamics.",
+          "Semiconductor stocks have exposure to CapEx cycle risk. If data center CapEx spending slows, entire semiconductor complex (Nvidia, AMD, Broadcom, etc.) faces significant headwind despite quality of individual companies.",
+          "Fintech and cryptocurrency-linked stocks (PayPal, Coinbase, Robinhood) face extreme cyclicality. These are boom-bust sectors that crash during bear markets and recessions, unsuitable for buy-and-hold strategies.",
+          "Video game companies (Take-Two, EA, Nintendo) have historically underperformed in stock market and lack secular growth trends. Video game sector not suitable for long-term growth portfolio, only for tactical momentum trades.",
+          "Taiwan Semiconductor concentration risk: If geopolitical event impacts Taiwan or TSMC, it will crater entire global economy and all semiconductor stocks. Arizona manufacturing capacity partially mitigates but doesn't eliminate risk.",
+          "Valuation matters more than quality. Creator repeatedly notes that even A-tier companies (Apple, Cloudflare, AMD, ARM, ASML) are avoided at current prices, suggesting creator would wait for 40-50%+ price corrections. Price entry is critical.",
+          "Avoid chasing stocks that have already ripped significantly. Creator notes SanDisk (+1000%), Square, and others are too expensive to chase after massive runs. Better to wait for corrections.",
+          "SpaceX IPO is expensive relative to Microsoft and Amazon market caps, despite being less profitable. Valuation appears stretched for a company still developing business model.",
+          "Netflix analyst price target of $114.92 suggests upside but creator cautions not to buy based solely on analyst targets. Use analyst consensus as information, not action signal.",
+          "Creator's ratings are personal and based on individual investment philosophy, work experience, and time horizon. Investors should create their own tier lists based on their own DNA, risk tolerance, time horizon, and expertise."
+        ],
+        "tickers_mentioned": [
+          "SPOT",
+          "AAPL",
+          "AMD",
+          "GOOGL",
+          "ABNB",
+          "NET",
+          "SNE",
+          "TSLA",
+          "UBER",
+          "DASH",
+          "TSM",
+          "META",
+          "DELL",
+          "AMZN",
+          "QCOM",
+          "MU",
+          "MSFT",
+          "SHOP",
+          "HOOD",
+          "NOW",
+          "CISCO",
+          "ANTHROPIC",
+          "SPX",
+          "BABA",
+          "NTDOY",
+          "ADBE",
+          "PLTR",
+          "ORCL",
+          "COIN",
+          "IBM",
+          "SSNLF",
+          "NVDA",
+          "ASML",
+          "BRK.B",
+          "TCEHY",
+          "INTC",
+          "CRM",
+          "NFLX",
+          "ARM",
+          "SNOW",
+          "TTD",
+          "RBLX",
+          "PAYPAL",
+          "SOFI",
+          "RDDT",
+          "DISCORD",
+          "OPENAI",
+          "SNDX",
+          "TTM",
+          "EA",
+          "CRWD"
+        ]
+      },
+      "price_at_recommendation": {
+        "CRWD": 195.27,
+        "QCOM": 191.33,
+        "SPOT": 477.0,
+        "EA": 205.23,
+        "ORCL": 147.56,
+        "CSCO": 117.39,
+        "SHOP": 121.02,
+        "INTC": 115.6,
+        "NOW": 107.01,
+        "CRM": 162.72,
+        "NTDOY": 10.9,
+        "SNAP": 4.64,
+        "IBM": 294.71,
+        "ASML": 1844.0,
+        "RBLX": 55.24,
+        "ARM": 333.38,
+        "SNOW": 263.41,
+        "PLTR": 127.63,
+        "AMD": 552.22,
+        "SOFI": 18.23,
+        "MU": 1023.65,
+        "RDDT": 196.53,
+        "ABNB": 144.19,
+        "DELL": 447.0,
+        "AAPL": 311.0,
+        "GOOGL": 356.66,
+        "TCEHY": 59.78,
+        "MSFT": 378.02,
+        "BABA": 110.9,
+        "DASH": 188.91,
+        "ADBE": 220.16,
+        "SSNLF": 65.21,
+        "SNDX": 24.92,
+        "TSM": 442.46,
+        "AMZN": 242.3,
+        "NVDA": 202.5,
+        "UBER": 73.4,
+        "TTD": 19.26,
+        "COIN": 159.02,
+        "NFLX": 75.28,
+        "HOOD": 115.81,
+        "NET": 274.05
+      }
     },
     "rB6hoJTQYP8": {
       "channel": "Mr. FIRED Up Wealth",
@@ -5844,8 +6416,117 @@
       "title": "Top 9 Stocks to BUY NOW (High Growth Stocks)",
       "upload_date": "20260629",
       "url": "https://www.youtube.com/watch?v=vjUEwzldJho",
-      "processed_at": "2026-07-06T12:22:27.386746",
-      "skipped": "no transcript"
+      "processed_at": "2026-07-09T14:54:01.673682",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "MSFT",
+            "company_name": "Microsoft",
+            "reason": "Microsoft is down nearly 25% in the past year and appears undervalued compared to peers. While consumer products (Windows 11, Xbox) face headwinds with 1% revenue decline, the company's productivity and business segments are growing strongly at 17% YoY, and intelligent cloud is up 30% YoY. Microsoft is strategically shifting focus from consumers to B2B, spending $120 billion on AI infrastructure in 2026 (85% increase YoY). AI acts as a loss leader to win customers into higher-margin products like Azure cloud computing. The company is executing disciplined capital spending, with Q-latest capex at $31.9 billion on track for planned $120 billion. Microsoft's forward PE ratio is only 22 (B+ rating), well below the 33 average for big tech, suggesting 33% upside to reach sector median valuation. The company is advancing practical AI applications like Project Solar and has announced Majorana 2 quantum chip with 1,000x more reliable qubits than previous version.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Microsoft won't 10x from current prices. Consumer-facing products face reputational challenges including Windows 11 AI integration criticism and FBI security warnings, though creator believes these fears may be overblown. Success depends on execution in quantum computing and AI agent deployment, which are early-stage products that may not move revenue needle immediately."
+          },
+          {
+            "ticker": "AVGO",
+            "company_name": "Broadcom",
+            "reason": "Broadcom is a picks-and-shovels play for AI positioned at the intersection of networking and chip technology, sitting further down the supply chain stack than more obvious plays like Nvidia or Micron. The company produces essential infrastructure products including fiber channel adapters for zero-trust quantum-safe networks, storage for enterprise data centers, and networking components. Broadcom holds nearly $15 billion in cash, providing flexibility to pay down debt as interest rates rise and enabling a partnership with Blackstone to deploy 20+ gigabytes of global AI infrastructure. Broadcom's AI revenue is accelerating with 200% YoY growth expected in Q3. Q2 semiconductor revenue increased 143% to $10.8 billion on total revenue of $22 billion, demonstrating significant operating leverage. The stock has a forward price-to-earnings-growth ratio of 0.77 (below 1.0 is favorable), indicating the company is valued lower than expected based on current growth rates. Even if growth moderates, the company has decent upside potential.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "This is not a moonshot stock and won't 10x in price. Success depends on continued AI infrastructure spending from major customers, and the company is exposed to capital intensity of data center buildouts. The company's competitive advantage is contingent on continued AI spending and its ability to win contracts for essential networking and storage infrastructure."
+          },
+          {
+            "ticker": "XLE",
+            "company_name": "Vanguard Energy ETF / Space Sector Exposure",
+            "reason": "Rather than picking individual space companies, the creator recommends space ETFs as a basket approach to capture ecosystem growth. The space industry is expected to reach $2.5 trillion annually by 2035 according to McKinsey 2024 report, making it one of the fastest-growing technology markets in over a decade. This mirrors how early computer and smartphone ecosystems created billion-dollar companies (Facebook required iPhone, Shopify required Google, AI stocks required Nvidia). 70% of current space launches are by commercial companies with interest growing exponentially. The creator's top recommendation is the Warp X Space ETF (ticker WP) which holds 23% in SpaceX, 14% in Rocket Lab, and 5% in ASM Space Mobile, with 0.5% expense ratio. An alternative is the ARK Space and Defense Innovation ETF (ARKX) which has broader holdings including Rocket Lab, L3 Harris Technologies, Kratos Defense, and diversifies into batteries, 3D printing, and neural networks with under 10% SpaceX allocation.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Both space ETFs will experience very high volatility in short-term returns with no guarantees. Investors must understand their investment thesis and avoid obsessively monitoring daily or monthly performance. Creator explicitly states not to buy SpaceX IPO directly as it is not yet public. The strategy is betting on the space ecosystem as a whole rather than picking individual companies to avoid timing or ticker selection risks."
+          },
+          {
+            "ticker": "IBM",
+            "company_name": "International Business Machines",
+            "reason": "IBM received nearly half of the $2 billion US government investment in quantum computing, positioning it as a quantum market leader. The stock is up 87% over 5 years but down 10% YTD, suggesting a valuation reset opportunity. IBM has been a quantum leader since 2019, specializing in both hardware R&D and customer education with integrated business model across three revenue streams: software ($25 billion/year), infrastructure/hardware/cloud ($3 billion/year), and consulting services. IBM's Qiskit is the world's most popular quantum software with 13 million downloads and 69% of developers using it as primary quantum SDK, creating lock-in effects as LLM models train on popular languages. The company is well-positioned to introduce enterprises to quantum by providing integrated hardware, software, and consulting services. Forward PE ratio puts IBM at 25% under market valuation (B rating), making it relatively cheap by value metrics. The real bet is getting positioned before quantum computing reaches enterprise adoption stage and moves the needle on revenues.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Major risk is the timeline uncertainty for quantum computing enterprise adoption. While quantum is used in research facilities and some cybersecurity applications today, outside those applications quantum computing is mostly an expensive way to run software that could run on classical computers. Creator's thesis requires 20-year holding period and should not expect 1-2 year price increases from quantum division. This is a long-term speculative play on an emerging technology reaching maturity."
+          },
+          {
+            "ticker": "QTUM",
+            "company_name": "Defiance Quantum ETF",
+            "reason": "QTUM provides basket exposure to quantum computing companies as alternative to picking individual stocks. The ETF has had strong recent performance after exceeding $5 billion in assets following the US administration's quantum computing investment. Morning Star rates it as mid-tier large growth ETF with relatively high volatility but decent liquidity, allowing investors to deploy and withdraw capital efficiently. The ETF provides exposure to companies benefiting from quantum computing disruption including breaking modern encryption, solving nation-state warfare problems, and cracking blockchain technology. Holdings include both pure-play quantum names and beneficiaries like Micron, Marvell, Intel, and ARM as these semiconductor leaders will manufacture quantum chips as the technology matures.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Significant risk that many holdings are general semiconductor stocks, so the ETF may simply track semiconductor sector performance rather than quantum-specific upside. Holdings like Micron, Marvell, Intel, and ARM are legacy chip makers benefiting broadly from AI and semiconductors, not quantum breakthroughs specifically. High volatility in ETF requires psychological readiness for significant drawdowns."
+          },
+          {
+            "ticker": "SOFI",
+            "company_name": "SoFi (Social Finance)",
+            "reason": "SoFi is growing revenue at 30% compounded and scores 72 on the investing Rule of 40, but stock is down 37% YTD, creating a disconnect between fundamentals and valuation. The company has dual growth engines: (1) Building SoFi as a bank and brand with recent #1 ranking from Forbes World Best Banks and #1 from JD Power US investor satisfaction, targeting the 500 million legacy bank accounts in the US through superior modern products, (2) SoFi Galileo platform providing banking infrastructure for other companies like Robinhood and new big business banking service for fiat and crypto banking. In long-term (20 years), SoFi could become the backbone of modern finance like AWS is for the internet. Lending business is strong with $38.8 billion in personal and home loans (Q1 2026) and lending segment growing 53% YoY, demonstrating the company is making real profits and expanding. Creator holds 2,500 shares valued at $43,000 as third-largest portfolio position behind Crowd Strike and Vanguard.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "SoFi stock is extremely volatile with recent swing from high $20s to $10 to $17 per share in 6 months, matching broader fintech sector weakness (Global X Fintech ETF down 20% in 6 months vs. financial sector flat). Short-term stock price is heavily influenced by macroeconomy, interest rates, financial sector performance, and technology sector trends. Company is exposed to private credit market risks ($1.5-$2 trillion market) as interconnectedness between insurers, private equity, and banks creates systemic risk potential if credit quality deteriorates. Significant concern about rising interest rates through second half of year impacting lending profitability. Requires psychological readiness for substantial near-term volatility even if long-term thesis is sound."
+          },
+          {
+            "ticker": "PTSI",
+            "company_name": "Pterodine Technologies (Cobot/Teradyne)",
+            "reason": "Pterodine is expert in testing latest-generation AI chips and has created feedback loop where better AI improves analytics, improves testing, improves chip quality. Company is diversified across entire AI supply chain from testing silicon wafers through final machine installation in data center racks. Recent $140 million contract from US Air Force demonstrates market confidence. Company has been called quantum enabler due to testing expertise that will become bottleneck in quantum computing supply chain in future years. Company recently acquired Universal Robotics (100,000+ robots sold) and is pivoting toward physical AI and robotics automation across warehouses and industrial applications. Q-latest revenue of $1.3 billion with 87% YoY growth across all business segments, vast majority driven by AI. Company is advancing physical AI thesis where hardware to interact with real world becomes valuable business.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Forward PE ratio of 63 is extremely elevated for hardware-focused company (typically trade 23-24 PE), nearly triple the sector average. While 87% YoY growth justifies some premium valuation, the current pricing reflects market's recognition of potential and valuations carry significant risk if growth decelerates. Semiconductor market is cyclical with major downturns roughly every 5 years; last downturn was 2023, suggesting next potential downturn 2027-2028, which could temporarily depress revenues given 70% of revenue from AI. Company's robotics expansion into new markets (warehouses, warehousing automation, physical AI) is emerging area with longer time to profitability."
+          },
+          {
+            "ticker": "ASML",
+            "company_name": "ASML Holding",
+            "reason": "ASML has borderline monopoly on extreme ultraviolet (EUV) lithography machines required to manufacture latest-generation chips used in AI processing. Company makes high NA EUV tools costing $250 million each that use lasers to etch chips at molecular level\u2014writing with light is the only viable method to produce latest AI chips. Effectively monopolistic positioning means ASML has no real competitors in this critical bottleneck technology. TSMC and other chip manufacturers must purchase these machines regardless of price to stay competitive in AI chip manufacturing. Elon Musk visited ASML to emphasize importance to chip manufacturing future. New next-generation machine priced at $400 million represents monopoly pricing power given customers (TSMC, Samsung, Intel) have multi-trillion dollar market caps. Current business model is working well with company continuing to grow from monopolistic market position.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Monopoly position could face disruption from new competition entering high NA EUV space or new chip manufacturing methods invented by startups, though no alternative has emerged. Company is vulnerable to geopolitical factors including export restrictions or government intervention in critical semiconductor supply chain. Valuation risk exists if semiconductor cycle turns down or if customers delay next-generation chip manufacturing capacity investments."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "BA",
+            "company_name": "Boeing",
+            "reason": "While Boeing was mentioned as investing in quantum networking for space applications using quantum entanglement for satellite communications, the creator explicitly stated 'I'm not going to add Boeing to my list yet' and made a joke about 737 flight control issues. The implication is that despite having interesting quantum applications, Boeing is not yet a buy recommendation due to unresolved execution and safety concerns that undermine investment confidence.",
+            "risk": null
+          }
+        ],
+        "key_warnings": [
+          "Private credit market ($1.5-$2 trillion) has become systemic risk with high interconnectedness between insurers, private equity, and banks. Rising interest rates through second half of year pose significant threat to credit quality, which will disproportionately impact fintech stocks like SoFi and financial services stocks that rely on lending growth.",
+          "Semiconductor market is cyclical with major downturns every 5 years. Last downturn was 2023, suggesting next potential downturn 2027-2028. Companies with 70%+ of revenue from AI (like Pterodine) face material revenue risk if semiconductor cycle turns negative, even if AI long-term thesis remains intact.",
+          "Midcap stocks ($8 billion market cap range) are currently overvalued relative to large cap and small cap stocks. Value opportunities exist at either end of market (large cap stocks that have sold off or small cap stocks market hasn't discovered yet) but middle market warrants caution.",
+          "Fintech sector broadly underperforming with Global X Fintech ETF down 20% in 6 months while broader financial sector is flat, suggesting sector-specific headwinds independent of individual company performance. Investor caution warranted for all fintech exposures.",
+          "Macro economy and interest rate environment heavily influence near-term stock performance for exposed companies. SoFi and lending-dependent stocks are first to experience downside in market instability, making short-term timing extremely difficult despite sound long-term theses."
+        ],
+        "tickers_mentioned": [
+          "AMD",
+          "PLTR",
+          "MSFT",
+          "GOOGL",
+          "AVGO",
+          "NVDA",
+          "MICRON",
+          "BA",
+          "WP",
+          "ARKX",
+          "IBM",
+          "QTUM",
+          "SOFI",
+          "PTSI",
+          "ASML"
+        ]
+      },
+      "price_at_recommendation": {
+        "IBM": 294.48,
+        "QTUM": 156.8,
+        "ASML": 1846.99,
+        "AVGO": 397.17,
+        "MSFT": 378.25,
+        "BA": 223.86,
+        "XLE": 55.11,
+        "SOFI": 18.15
+      }
     },
     "5bpOa3L9kHw": {
       "channel": "CouchInvestor",
@@ -6065,8 +6746,47 @@
       "title": "Top 3 Stocks to BUY NOW",
       "upload_date": "20260630",
       "url": "https://www.youtube.com/watch?v=M3h5O9_PP5E",
-      "processed_at": "2026-07-06T12:22:22.980771",
-      "skipped": "no transcript"
+      "processed_at": "2026-07-09T14:53:06.336966",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "ZS",
+            "company_name": "Zscaler",
+            "reason": "Cybersecurity stock that is down 57% for the year and now at the cheapest valuation ever. Smart money is buying more than they are selling according to WeBull data, indicating institutional confidence despite the decline.",
+            "when_to_buy": "on the dip",
+            "target_price": null,
+            "cautions": "Short interest is rising, which presents a potential headwind despite smart money accumulation."
+          },
+          {
+            "ticker": "CEG",
+            "company_name": "Constellation Energy",
+            "reason": "Nuclear energy stock that recently signed multi-billion dollar contracts with Microsoft and Meta to power AI data centers. Earnings per share has been shooting up as a result of these major contracts. The stock shows exceptionally strong insider sentiment with 95% more insiders buying than selling.",
+            "when_to_buy": "on the dip",
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": null,
+            "company_name": "Unknown (third recommendation incomplete)",
+            "reason": "Stock is down nearly 77% over the past six months despite revenue being up 41% in the past year, suggesting a severe disconnect between valuation and business performance. WeBull's Vega AI insights appear to corroborate the investment thesis, though the video transcript cuts off before the ticker is fully stated.",
+            "when_to_buy": "on the dip",
+            "target_price": null,
+            "cautions": "The specific ticker and company name were not fully disclosed in the transcript, making it impossible to verify the recommendation."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "The stock market is dropping in 2026, indicating a broader market correction or bear market environment. The creator is recommending stocks specifically as dip-buying opportunities during this downturn."
+        ],
+        "tickers_mentioned": [
+          "ZS",
+          "CEG"
+        ]
+      },
+      "price_at_recommendation": {
+        "CEG": 247.25,
+        "ZS": 145.89
+      }
     },
     "F_WeKkAMHrI": {
       "channel": "Jose Najarro Stocks",

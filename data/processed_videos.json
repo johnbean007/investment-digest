@@ -6138,8 +6138,96 @@
       "title": "The Smart Money is Making Big Changes",
       "upload_date": "20260701",
       "url": "https://www.youtube.com/watch?v=uAzZssHfn7I",
-      "processed_at": "2026-07-06T12:22:19.036833",
-      "skipped": "no transcript"
+      "processed_at": "2026-07-09T11:54:39.456623",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NYT",
+            "company_name": "The New York Times",
+            "reason": "Buffett added to his position in The New York Times, indicating he views it as a strong brand worthy of increased investment in his portfolio.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "M",
+            "company_name": "Macy's",
+            "reason": "Buffett added to his position in Macy's, indicating he views it as a strong brand worthy of increased investment in his portfolio.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon",
+            "reason": "Berkshire Hathaway completely sold their shares in Amazon, suggesting Buffett no longer sees value in the position or considers it overvalued relative to other opportunities.",
+            "risk": null
+          },
+          {
+            "ticker": "UNH",
+            "company_name": "UnitedHealth Group",
+            "reason": "Berkshire Hathaway completely sold their shares in UnitedHealth, suggesting Buffett no longer sees value in the position or considers it overvalued relative to other opportunities.",
+            "risk": null
+          },
+          {
+            "ticker": "DPZ",
+            "company_name": "Domino's Pizza",
+            "reason": "Berkshire Hathaway completely sold their shares in Domino's Pizza, suggesting Buffett no longer sees value in the position or considers it overvalued relative to other opportunities.",
+            "risk": null
+          },
+          {
+            "ticker": "V",
+            "company_name": "Visa",
+            "reason": "Berkshire Hathaway sold their shares in Visa, one of two credit card companies divested this quarter, suggesting Buffett believes the position is overvalued or no longer fits his investment thesis.",
+            "risk": null
+          },
+          {
+            "ticker": "MA",
+            "company_name": "Mastercard",
+            "reason": "Berkshire Hathaway sold their shares in Mastercard, one of two credit card companies divested this quarter, suggesting Buffett believes the position is overvalued or no longer fits his investment thesis.",
+            "risk": null
+          },
+          {
+            "ticker": "BAC",
+            "company_name": "Bank of America",
+            "reason": "Berkshire Hathaway significantly reduced their position in Bank of America, one of the two largest position reductions this quarter, indicating Buffett is trimming exposure to this stock.",
+            "risk": null
+          },
+          {
+            "ticker": "CVX",
+            "company_name": "Chevron",
+            "reason": "Berkshire Hathaway reduced their position in Chevron, one of the two largest position reductions this quarter, indicating Buffett is trimming exposure to this oil company.",
+            "risk": null
+          }
+        ],
+        "key_warnings": [
+          "Buffett is trimming shares in expensive names across the portfolio, suggesting concerns about valuation levels in the broader market. This indicates a more cautious stance toward expensive equities."
+        ],
+        "tickers_mentioned": [
+          "AMZN",
+          "UNH",
+          "DPZ",
+          "V",
+          "MA",
+          "BAC",
+          "CVX",
+          "NYT",
+          "M"
+        ]
+      },
+      "price_at_recommendation": {
+        "V": 347.53,
+        "CVX": 175.97,
+        "UNH": 425.6,
+        "BAC": 58.3,
+        "DPZ": 302.35,
+        "AMZN": 243.62,
+        "NYT": 73.16,
+        "MA": 519.86,
+        "M": 22.7
+      }
     },
     "N8fzEctLPbE": {
       "channel": "Mr. FIRED Up Wealth",

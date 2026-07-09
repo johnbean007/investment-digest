@@ -2855,9 +2855,10 @@
       "title": "BEST Growth Stocks to Buy NOW \u2013 Full 50-Stock Tier List (Tesla, Nvidia, Palantir...)",
       "upload_date": "20260618",
       "url": "https://www.youtube.com/watch?v=XYTcJMK0IUk",
-      "processed_at": "2026-07-08T16:38:37.726639",
-      "skipped": "no transcript",
-      "analysis_fails": 2
+      "processed_at": "2026-07-09T09:05:31.739003",
+      "skipped": "analysis failed",
+      "analysis_fails": 3,
+      "terminal": true
     },
     "rB6hoJTQYP8": {
       "channel": "Mr. FIRED Up Wealth",
@@ -5763,8 +5764,69 @@
       "title": "5 AI Stocks That Just Made Headlines",
       "upload_date": "20260630",
       "url": "https://www.youtube.com/watch?v=RgJFB4h4RaQ",
-      "processed_at": "2026-07-06T12:22:02.469881",
-      "skipped": "no transcript"
+      "processed_at": "2026-07-09T09:08:31.861893",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Nvidia is gaining significant market share as Anthropic, previously reliant on Google and Amazon chips, now runs Claude on Nvidia's H100 GPUs in Azure. This represents a major partnership announcement from November 2025 that is now materializing. Additionally, Nvidia is expanding its partnership with Anthropic by integrating Nvidia tools into Anthropic's stack to enable enterprise cloud agents with domain-specific abilities. The creator is extremely bullish on AI infrastructure and believes Nvidia has crazy cheap valuations despite strong fundamentals.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "MSFT",
+            "company_name": "Microsoft Corporation",
+            "reason": "Microsoft benefits from the Anthropic partnership as Claude now runs on Nvidia GPUs deployed through Microsoft Azure. This means GPUs are coming online and revenue collection is starting, with potential demand increases that could affect RPO (remaining performance obligations). Anthropic may also increase future orders with Microsoft given the success of this partnership. The creator is extremely bullish on AI infrastructure plays within the Mag Seven.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Stock was down roughly 1% on the day at $368"
+          },
+          {
+            "ticker": "IREN",
+            "company_name": "Irene Telecom (Neo Cloud Infrastructure)",
+            "reason": "I-REN achieved Nvidia Exemplar Cloud status on Nvidia's HGX B300, which verifies performance claims and serves as a credibility benchmark in the AI infrastructure space. This is significant because I-REN controls the full stack\u2014it develops sites, constructs facilities, deploys hardware, and operates the platform, creating superior feedback loops compared to competitors who outsource pieces. I-REN has a 3.4 billion dollar, five-year partnership with Nvidia ($700 million annualized run rate) deploying air-cooled Blackwell GPUs, and expects 480 megawatts of active power and 1,500 GPUs by year-end generating $3.7 billion in annual recurring revenue. The creator owns this stock and likes it at current prices, planning to add more over time.",
+            "when_to_buy": "Creator would add more over time at current levels",
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon.com Inc.",
+            "reason": "Amazon benefits from the Anthropic partnership and is exposed to the growing demand for AI infrastructure within the Mag Seven. The creator believes Amazon stock, along with other Mag Seven names, has extremely attractive valuations for long-term investors despite appearing expensive.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "There were reports that Anthropic's shift to token-based pricing from compute-hour pricing could increase Amazon's costs for using Claude, though Amazon disputed this claim as incorrect"
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "SMCI",
+            "company_name": "Super Micro Computer Inc.",
+            "reason": "Super Micro faces investigation by Taiwanese authorities over alleged smuggling of Nvidia chips to China using the company's servers. This is a recurring problem for the company following similar smuggling issues reported one to two months prior that caused a major selloff in early June. The company has also faced ongoing financial and auditing issues throughout the past year. While the company has massive AI demand with $40 billion in orders and just raised $7 billion, it continues to get caught in trouble, suggesting this may be a pattern of problematic behavior rather than isolated incidents.",
+            "risk": "Stock down 8% on the day to $28.15; creator views this as a high-risk coin flip despite potential upside"
+          }
+        ],
+        "key_warnings": [
+          "Super Micro Computer represents a cautionary tale about companies in high-demand sectors: despite massive growth opportunity and strong revenue tailwinds, persistent legal and compliance issues create substantial execution risk and suggest a pattern of problematic behavior that may continue. The creator suggests this is a true coin flip with both massive upside potential (could double) and substantial downside risk.",
+          "Taiwan's legal framework around chip exports to China is evolving, with authorities considering making such exports a criminal offense. This regulatory uncertainty affects companies like Super Micro that operate across jurisdictions and could impact future penalties and enforcement."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "MSFT",
+          "IREN",
+          "SMCI",
+          "AMZN"
+        ]
+      },
+      "price_at_recommendation": {
+        "MSFT": 383.34,
+        "IREN": 43.01,
+        "SMCI": 28.17,
+        "AMZN": 243.62,
+        "NVDA": 204.12
+      }
     },
     "vjUEwzldJho": {
       "channel": "FinTek",
@@ -5930,8 +5992,62 @@
       "title": "NVIDIA JUST CHANGED THE AI MARKET",
       "upload_date": "20260701",
       "url": "https://www.youtube.com/watch?v=aJjsO6Upk5g",
-      "processed_at": "2026-07-06T12:21:58.486109",
-      "skipped": "no transcript"
+      "processed_at": "2026-07-09T09:08:06.246090",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Nvidia trades at crazy low valuations despite being a core beneficiary of AI infrastructure growth. The creator believes Nvidia's software stack and integrated solution (GPUs, CPUs, networking, and software) is driving significant innovation in token cost optimization. With the Blackwell platform, token costs have dropped 5x in one month (from 30 cents to 7 cents per million tokens), but the creator argues this does not signal end of demand because AI agents are still running for tens of minutes to hours, indicating insufficient compute capacity. The creator maintains that demand for tokens and speed will outpace optimization, requiring continued capex investment in Nvidia's chips as AI agents become more sophisticated and use more tools.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The creator acknowledges that bears use software innovation and token cost optimization as a bearish argument, claiming reduced capex will be needed. The creator disputes this but acknowledges this is a key risk narrative in the market."
+          },
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices",
+            "reason": "AMD hit all-time highs at $580 and analyst Aaron Raker raised price target to $615, which would position AMD as a trillion-dollar company. The creator is a long-term shareholder excited about the company's progress. Everything discussed in past months and quarters is playing out faster than expected for AMD. The creator is bullish on AMD's upcoming Advancing AI 2026 event (July 22-23) where the MI450 series and Helios rack (full stack solution) will be revealed with potential partner announcements.",
+            "when_to_buy": null,
+            "target_price": "$615 per share (analyst target by Aaron Raker)",
+            "cautions": "The creator is not actively discussing AMD on the channel currently because he prefers to discuss stocks when they look extremely attractive and the market hates them; at current highs, AMD doesn't meet that threshold. The creator is holding but letting it run, indicating he may not be adding positions at these levels."
+          },
+          {
+            "ticker": "ASML",
+            "company_name": "Astera Labs",
+            "reason": "The creator mentions Astera Labs as a company in the connectivity space that can benefit from AI infrastructure buildout. It is included among players the creator is excited about in supporting the broader AI ecosystem.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon",
+            "reason": "Amazon is at $239 and the creator is bullish on AWS Bedrock growth driving AWS revenue acceleration. Semi-Analysis estimates suggest AWS Bedrock could drive total AWS growth rate well above street expectations this quarter. Semi-Analysis data indicates that top 10% of customers (large enterprises and major AI companies like Meta) are driving most AI revenue and have little risk from API revenue cuts, with limited token optimization concerns. Enterprise AI spending is still minimal (under $2,000 per employee per year for Fortune 500 companies), with growth primarily in engineering and data science departments, suggesting the S-curve of enterprise AI adoption still has significant runway as AI penetrates other business functions.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Token cost optimization is being cited by bears as evidence AI capex cycle is ending, but the creator argues this is a flawed thesis. Demand for tokens and speed improvements will outpace optimization\u2014users still wait tens of minutes to hours for AI agents to complete tasks, indicating compute is still the bottleneck, not cost.",
+          "Token budgeting and optimization narratives are emerging as bearish talking points in the market. However, Semi-Analysis data shows that 90th+ percentile of customers (top 10%) driving most revenue are not materially constrained by token costs and are profitable, suggesting this concern is overblown for revenue-driving customers.",
+          "The AI market is not a straight line and will face multiple 'Black Swan' events and fears including: memory space optimization concerns, token protection narratives, token maxing/budgeting cycles, power supply constraints, and other supply constraints. The creator expects continued volatility despite fundamental strength.",
+          "Mithral was previously banned but is being re-enabled (expected the next day from video recording), which could unlock additional AI model capabilities and demand acceleration in coding and cybersecurity verticals."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "AMD",
+          "ASML",
+          "AMZN"
+        ]
+      },
+      "price_at_recommendation": {
+        "AMZN": 243.62,
+        "AMD": 517.4,
+        "NVDA": 204.12,
+        "ASML": 1768.65
+      }
     },
     "M3h5O9_PP5E": {
       "channel": "FinTek",
@@ -6500,9 +6616,10 @@
       "title": "The Rotation Out of AI Stocks Just Started [A WARNING to All Investors]",
       "upload_date": "20260706",
       "url": "https://www.youtube.com/watch?v=AZTTwbO5SMg",
-      "processed_at": "2026-07-08T16:39:24.752690",
-      "skipped": "no transcript",
-      "analysis_fails": 2
+      "processed_at": "2026-07-09T09:07:09.389961",
+      "skipped": "analysis failed",
+      "analysis_fails": 3,
+      "terminal": true
     },
     "iSOJcKD5ow4": {
       "channel": "Jose Najarro Stocks",
@@ -6959,6 +7076,242 @@
       },
       "price_at_recommendation": {
         "NVDA": 197.54
+      }
+    },
+    "TFsxEgrPnso": {
+      "channel": "CouchInvestor",
+      "title": "Meta Just Shipped Something Huge. The Stock Dropped Anyway",
+      "upload_date": "20260708",
+      "url": "https://www.youtube.com/watch?v=TFsxEgrPnso",
+      "processed_at": "2026-07-09T09:06:00.112451",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms Inc.",
+            "reason": "Meta is one of the best stories in the market right now with not that much risk and significant upside potential. The company just shipped Muse image and Muse video models, which rank number two across all major arena leaderboards. Meta has billions of users across Instagram, Facebook, and Threads, providing unmatched distribution for monetizing AI products. The creator identifies four potential revenue paths: external compute deals (similar to SpaceX/Anthropic deals worth $10 billion annually), private cloud access services, 10x compute scaleup for recommendation systems, and AI capacity hedging. Once Meta demonstrates monetization through subscriptions and new AI products with adoption metrics (targeting $5-10/month subscriptions from small percentages of billions of users), sentiment will flip rapidly. The creator believes Meta should already be worth $800-1,000 per share today, similar to how Google doubled over one year.",
+            "when_to_buy": null,
+            "target_price": "$800 to $1,000 per share",
+            "cautions": "Market currently worried about AI capex spending with unknown ROI. Teenager lawsuit ongoing (details expected in August) with potential fines up to $1.4-1.5 trillion mentioned in headlines, though the creator views this as unlikely. Capex for 2027 expected to increase further. Stock will only re-rate when Meta demonstrates actual product adoption and monetization of AI services."
+          },
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Nvidia remains the market leader in AI semiconductors despite competition from custom chips developed by big tech companies. Most startups are still building on top of the Nvidia tech stack, and all major companies continue to purchase significant quantities of Nvidia products. The creator does not see a world where Nvidia does not remain the market leader. Despite recent reports of delays in products, CEO Jensen Huang stated there are no delays and the roadmap remains intact. Valuation-wise, Nvidia at current levels (after experiencing a 15-20% drawdown from highs of $230) is considered very cheap by the creator.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Some concern about delays in product releases, though management has denied these. Competition from custom chips developed by major tech companies (Google, Meta, etc.) is real, though not expected to displace Nvidia. Valuation stretched at previous highs but more reasonable after recent pullback."
+          },
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices Inc.",
+            "reason": "AMD will continue to grow revenue quite rapidly with expected acceleration in growth beginning in the back half of 2026 into 2027. The creator expects continued gains for AMD despite near-term market weakness. AMD represents a continuation of growth in semiconductor space.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Recent market volatility affecting the entire semiconductor sector. AMD faces competition from Nvidia and custom chips from major tech companies, though this is not expected to prevent growth."
+          },
+          {
+            "ticker": "NEBS",
+            "company_name": "Nebulis Inc.",
+            "reason": "Nebulis has an insane amount of growth left remaining. Stock dropped 34-35% from its peak in late June, representing a significant pullback that creates attractive entry opportunity. The creator personally bought an additional 10 shares following the drop, demonstrating conviction in the long-term growth narrative. Currently trading around $200 per share after the decline.",
+            "when_to_buy": "After the 34-35% drop from June peak (stock at $200 level as of video)",
+            "target_price": null,
+            "cautions": "The stock has experienced extreme volatility, dropping significantly from peak. Nebulis is a high-growth, likely unprofitable company in the neo-cloud/AI infrastructure space, making it inherently riskier than established names."
+          },
+          {
+            "ticker": "CORW",
+            "company_name": "Core Scientific Inc.",
+            "reason": "Core Scientific has significant growth runway remaining and currently receives zero love from the market despite strong fundamentals. Once Core Scientific demonstrates margin improvement as promised to the market, the stock should move above $100 comfortably. The creator expects a narrative flip when margins begin improving.",
+            "when_to_buy": null,
+            "target_price": "Above $100 per share comfortably",
+            "cautions": "Core Scientific made specific promises to the market regarding margin improvement, so execution on these commitments is critical. Company currently out of favor with investors despite growth prospects. Margin expansion timeline is key to catalyst realization."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "FINTECH",
+            "company_name": "Fintech Sector (General)",
+            "reason": "All fintech names were trading in the red on the day of the video despite getting a boost over the past couple of weeks. The sector is experiencing a cooldown, likely driven by expectations of higher oil prices, persistent inflation, lack of rate cuts, or potential rate hikes, all of which impact fintech valuations negatively. These macroeconomic headwinds are creating headwinds for the entire sector.",
+            "risk": null
+          }
+        ],
+        "key_warnings": [
+          "Privately held AI companies (OpenAI, Anthropic, Databricks, etc.) are likely significantly overvalued based on recent fundraising rounds. Semi-Analysis estimates Anthropic could be worth $6 trillion based on projected Q3 2026 profit of $1 billion, but this represents speculative peak valuations. The disconnect between expensive private company valuations and cheaper public company valuations will likely correct, with private companies experiencing significant downward valuation adjustments when they go public.",
+          "The market is currently exhibit irrational behavior by simultaneously undervaluing profitable mega-cap tech companies while overvaluing unprofitable startup AI companies at premium multiples. This disconnect between valuations of public tech giants (trading at low multiples) versus private AI companies (trading at extremely high multiples relative to profitability) is unsustainable and will likely break in favor of public company re-rating.",
+          "Token maxing may represent a peak opportunity in AI spending. The key question is whether Anthropic's projected $1 billion quarterly profit in Q3 2026 represents peak token maxing or sustainable profitability. If companies using Anthropic have not grown faster, become more efficient, or generated better returns, Q4 2026 could show profit deterioration.",
+          "Headline-driven market remains vulnerable to additional volatility. The video was filmed during a market red day, and the creator cautions that while valuations are attractive, more red days are possible given the current headline-sensitive market environment. Additionally, major litigation against Meta (testimony starting August) could create near-term volatility even if long-term thesis remains intact."
+        ],
+        "tickers_mentioned": [
+          "META",
+          "GOOGL",
+          "MSFT",
+          "PLTR",
+          "CORW",
+          "NEBS",
+          "CORW",
+          "CORW",
+          "NVDA",
+          "AMZN",
+          "AMD"
+        ]
+      },
+      "price_at_recommendation": {
+        "AMD": 517.4,
+        "NVDA": 204.12,
+        "META": 603.12
+      }
+    },
+    "eY0goz4pB20": {
+      "channel": "Daniel Pronk",
+      "title": "The Most Obvious Buy in the Market Right Now",
+      "upload_date": "20260708",
+      "url": "https://www.youtube.com/watch?v=eY0goz4pB20",
+      "processed_at": "2026-07-09T09:06:22.959648",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon.com Inc.",
+            "reason": "Amazon is characterized as one of the best stocks for long-term investment with realistic potential for 20% annual returns over the next 5 years with very little risk. The investment thesis is multifaceted: (1) Amazon's Magnificent 7 forward PE premium relative to the S&P 500 is at its lowest level since 2015, with Meta and Microsoft trading below S&P 500 averages, making the stock attractively priced. (2) The business has multiple high-growth, high-margin segments: AWS growing 28% YoY with 30 GW of data center capacity projected by 2030 (tripling from 9 GW currently), advertising growing 24% YoY with 46% operating margins and $83 billion projected revenue for 2026, and subscription services growing 15% YoY. All major business units are accelerating quarter-over-quarter. (3) Amazon's chips business is 'on fire' with $20 billion in annualized revenue growing triple-digit percentages YoY, and would be worth $50 billion if sold to third parties like competitors AMD ($37 billion revenue) and Nvidia, making it larger than AMD's entire business. (4) Amazon Leo satellite business is deploying 3,200+ satellites with potential $20 billion in revenue by 2030, with proof of concept from Starlink's 30%+ operating margins and $13 billion annualized revenue. (5) Gross margins have expanded from 26% in 2013 to an all-time high of 50.6% in trailing 12 months, and operating cash flow margins are at all-time highs of 20% versus 7% in 2014. (6) GPU prices were just raised 20% at AWS due to extreme supply constraints and demand, indicating immediate value creation from capex. (7) Conservative DCF analysis assuming 20% annual OCF growth (below analyst expectations) and 20x OCF multiple (below historical 25x average) yields 23.2% CAGR over 3 years. (8) The stock was overvalued at $184 in July 2021 but has undergone significant multiple compression while fundamentals accelerated, making it extremely cheap on a price-to-operating-cash-flow basis (17.3x versus historical range of 16-47x). Past 5-year underperformance is irrelevant because the stock started from an overvalued position; since January 2023 when valuation became attractive, Amazon has produced 180% returns.",
+            "when_to_buy": null,
+            "target_price": "455 (3-year DCF target with fair value at 342); analyst consensus projects operating cash flow to reach $476 billion by 2030 from $190 billion in 2026",
+            "cautions": "The creator acknowledges this is not a stock expected to deliver 30%+ annual returns, but rather a steady 20% return scenario. Bear arguments addressed but not eliminated: (1) Past 5-year returns have been low at 32.3% total versus S&P 500, though this reflects valuation multiple compression from overvaluation rather than fundamental weakness. (2) Some investors worry AI capex may not pay off, though multiple data points suggest otherwise (GPU price increases, chips business exploding, capacity constraints). (3) PE ratio appears high at ~30 but this metric is unreliable for Amazon historically; price-to-operating-cash-flow is the appropriate valuation metric."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Massive capital rotation away from hyperscalers and into semiconductor, hardware, and industrial stocks in 2026. Money is flowing out of hyperscalers despite strong fundamentals, driven by investor psychology chasing what is currently working. The S&P 500's YTD returns have come almost entirely from the AI complex (semiconductors, hardware, industrials) excluding hyperscalers, while hyperscalers as a group are down YTD and the remaining 395 S&P 500 stocks are flat. Most stocks in the S&P 500 are experiencing significant drawdowns while a handful of sectors hold up the index, creating risk for concentrated exposure.",
+          "Historical PE ratios for Amazon are unreliable and volatile (ranging from 54 in 2010 to 2800 in 2012 to zero in 2013 to 1300 in 2013), making PE-based valuation comparisons meaningless for this business. Investors should focus on price-to-operating-cash-flow multiples instead, which provide more consistent and actionable valuation data."
+        ],
+        "tickers_mentioned": [
+          "AMZN",
+          "TSLA",
+          "META",
+          "MSFT",
+          "JPM",
+          "BAC",
+          "BRK",
+          "AMD",
+          "NVDA"
+        ]
+      },
+      "price_at_recommendation": {
+        "AMZN": 243.62
+      }
+    },
+    "MtMVgoZ7TAQ": {
+      "channel": "Jose Najarro Stocks",
+      "title": "Wall Street Is Rethinking NEOCLOUD! (CRWV IREN NBIS)",
+      "upload_date": "20260709",
+      "url": "https://www.youtube.com/watch?v=MtMVgoZ7TAQ",
+      "processed_at": "2026-07-09T09:07:24.338316",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "CRWV",
+            "company_name": "CoreWeave",
+            "reason": "The creator is extremely bullish on CoreWeave, describing it as having a gigawatt equivalent of $50 billion in revenue-making assets while trading at a $49 billion market cap. He believes the market is underestimating compute needs and that CoreWeave will benefit from a severe and ongoing compute constraint. The creator notes that a gigawatt of power costs approximately $80-100 billion, making CoreWeave's valuation attractive relative to its asset base. He has a huge position in the company and views it as a major opportunity, particularly given that Anthropic (a key customer) has a partnership with CoreWeave and will require significant compute capacity through 2030.",
+            "when_to_buy": "On dips to around $80, as mentioned in the video context of recent price action",
+            "target_price": null,
+            "cautions": "High beta name with significant volatility. The creator acknowledges that the neo-cloud space carries huge growth opportunity but also much risk. The thesis relies on compute remaining constrained for years and on major AI players continuing to demand GPU infrastructure."
+          },
+          {
+            "ticker": "IREN",
+            "company_name": "Iren (Neo-cloud/AI Data Center)",
+            "reason": "The creator mentions Iren as part of the neo-cloud space benefiting from AI infrastructure demand. He specifically references it as a high-beta name with significant growth opportunity that experienced a massive downturn but remains attractive on dips. The broader thesis is that companies with large installed bases of GPU infrastructure will benefit dramatically from sustained GPU pricing (which has remained flat for 2 years rather than depreciating as modeled) and from ongoing compute supply constraints.",
+            "when_to_buy": "On dips to the low-to-mid $30s, as referenced in the video",
+            "target_price": null,
+            "cautions": "The creator explicitly describes this as a high-beta name carrying huge growth opportunity but also much risk. Neo-cloud players are riskier than hyperscaler plays."
+          },
+          {
+            "ticker": "NBIS",
+            "company_name": "Nebius",
+            "reason": "Nebius is identified as a neo-cloud and AI data center play that the creator believes will benefit from the ongoing compute constraint and margin expansion in the infrastructure space. It was up 10-11% on the day the video was recorded, reflecting renewed investor interest in neo-cloud names.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "High-beta, high-risk name. The creator acknowledges volatility and notes that the opportunity, while significant, is not a straight-line upward path."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "The neo-cloud and AI infrastructure space carries significant volatility and risk despite strong long-term thesis. The creator acknowledges that 'this AI story doesn't mean it's always going to go up. It's not going to be a straight line every single month.' Investors should be prepared for drawdowns and view dips as buying opportunities rather than signs of fundamental deterioration.",
+          "The entire investment thesis depends on sustained compute constraint and elevated GPU pricing continuing through 2030. If demand disappoints or supply normalizes faster than expected, margin expansion could be less dramatic than modeled. However, recent evidence from OpenAI, Anthropic, Meta, and others suggests demand is accelerating, not slowing."
+        ],
+        "tickers_mentioned": [
+          "CRWV",
+          "IREN",
+          "NBIS",
+          "CIPHER",
+          "WULF",
+          "NVDA"
+        ]
+      },
+      "price_at_recommendation": {
+        "IREN": 43.01,
+        "CRWV": 90.0,
+        "NBIS": 216.48
+      }
+    },
+    "TdtVUjpaev8": {
+      "channel": "Jose Najarro Stocks",
+      "title": "Why Memory Stocks Are Falling",
+      "upload_date": "20260708",
+      "url": "https://www.youtube.com/watch?v=TdtVUjpaev8",
+      "processed_at": "2026-07-09T09:07:44.461419",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "MU",
+            "company_name": "Micron Technologies",
+            "reason": "Despite the 17% decline in the past 5 days and 22% drop from monthly peak, the creator believes current bearish sentiment is overblown. Year-to-date the stock is up 200%. Micron reported amazing earnings with gross margins of 84% and expects higher margins next quarter. The creator states that long-term contracts with partners will have margins north of 60%. The forward PE ratio of 6.24 is not pricing in perfection, and the creator believes a revaluation should occur given continued strong demand and the fact that new supply capacity won't materialize until 2027-2028. The creator argues that the bearish news about Apple sourcing Chinese chips, Samsung's preliminary results, and SK Hynix's new fab announcement are not actually negative for Micron's DRAM-focused business.",
+            "when_to_buy": "The creator mentions using current dips to increase exposure to high beta names and plans to purchase more today, suggesting this pullback is a buying opportunity.",
+            "target_price": null,
+            "cautions": "The creator notes they do not personally own memory stocks directly, and acknowledges that if one believes Samsung's results signal peak margins, that would be a counter-argument. Memory optimization poses a risk. There is debate about what the appropriate forward PE ratio should be (creator suggests 10-15 rather than current 6.24 or hypothetical 20)."
+          },
+          {
+            "ticker": "SIMO",
+            "company_name": "Silicon Motion",
+            "reason": "The creator mentions owning shares in Silicon Motion as an indirect way to gain exposure to the memory space. This indicates the creator has conviction in the company as a way to participate in memory market growth.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "RMBS",
+            "company_name": "Rambus",
+            "reason": "The creator mentions owning shares in Rambus as an indirect way to gain exposure to the memory space, indicating conviction in the company as a participation vehicle for memory market growth.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "FFHC",
+            "company_name": "Form Factor",
+            "reason": "The creator mentions owning shares in Form Factor as an indirect way to gain exposure to the memory space, indicating conviction in the company as a participation vehicle for memory market growth.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Geopolitical risk: Trump declared Iran ceasefire over, creating bearish sentiment towards the AI industry and semiconductor space. This is creating domino effects across AI stocks.",
+          "Sector-wide AI semiconductor sell-off: There is a global sell-off in the AI semiconductor market with fears of oversupply, concerns about excessive CapEx, and negative sentiment from high-profile investors like Michael Burry discussing a potential top in the semiconductor industry. However, the creator cautions that this broad fear may be overblown for specific sub-sectors like high-end memory.",
+          "Supply chain geopolitics: Apple is seeking approval to buy chips from blacklisted Chinese companies, creating fear that Chinese memory companies will flood the market. However, the creator argues Chinese companies are unlikely to supply memory to US companies due to national security concerns and would prefer to build their own AI infrastructure. This fear may be overblown for high-tech memory products like HBM and server DRAM.",
+          "New competitive supply coming online: SK Hynix announced $60 billion in CapEx (100 trillion Korean won) to build new fabs expected in the first half of 2029. However, the creator notes this is 3 years away and focused on NAND (not Micron's primary DRAM business) and that management believes demand will still outpace supply through 2028.",
+          "SK Hynix IPO volatility: SK Hynix is expected to IPO on Friday, potentially creating short-term volatility and a demand shift from Micron as investors diversify their memory stock holdings. However, the creator views this as short-term volatility without long-term business impact."
+        ],
+        "tickers_mentioned": [
+          "MU",
+          "SIMO",
+          "RMBS",
+          "FFHC"
+        ]
+      },
+      "price_at_recommendation": {
+        "MU": 948.8,
+        "SIMO": 313.3,
+        "RMBS": 109.64
       }
     }
   },

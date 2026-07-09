@@ -225,7 +225,7 @@ def analyse_transcript(title: str, channel: str, transcript: str) -> tuple[dict 
     try:
         message = client.messages.create(
             model=ANTHROPIC_MODEL,
-            max_tokens=4096,
+            max_tokens=8192,
             messages=[{"role": "user", "content": prompt}],
         )
         raw = message.content[0].text.strip()

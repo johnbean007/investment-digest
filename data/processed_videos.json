@@ -2855,10 +2855,8 @@
       "title": "BEST Growth Stocks to Buy NOW \u2013 Full 50-Stock Tier List (Tesla, Nvidia, Palantir...)",
       "upload_date": "20260618",
       "url": "https://www.youtube.com/watch?v=XYTcJMK0IUk",
-      "processed_at": "2026-07-09T09:05:31.739003",
-      "skipped": "analysis failed",
-      "analysis_fails": 3,
-      "terminal": true
+      "processed_at": "2026-07-09T11:41:33.192695",
+      "analysis_fails": 1
     },
     "rB6hoJTQYP8": {
       "channel": "Mr. FIRED Up Wealth",
@@ -5283,8 +5281,21 @@
       "title": "Why Micron Could Crash Monday!!",
       "upload_date": "20260627",
       "url": "https://www.youtube.com/watch?v=t5czpMPxt2o",
-      "processed_at": "2026-07-06T12:22:06.643114",
-      "skipped": "no transcript"
+      "processed_at": "2026-07-09T11:43:02.316674",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Memory chip shortage narrative may be overblown by bearish sentiment. While Apple's attempt to source DRAM from Chinese supplier CXMT has generated fear, multiple structural hurdles could prevent meaningful market impact: (1) US Commerce Department must approve the deal amid inflation vs. strategic concerns, (2) Chinese government may block the export to protect domestic AI capacity and semiconductor independence, (3) Even if approved, Chinese suppliers cannot produce competitive HBM (high bandwidth memory), which is where the real AI-driven shortage exists due to 3-4x higher wafer consumption per gigabyte vs. standard DRAM. The shortage is structural until at least 2028 as new fab construction completes.",
+          "DRAM pricing power is real but concentrated in leading-edge and HBM production, not legacy nodes. Standard DRAM price relief from Chinese suppliers would address consumer electronics (phones, laptops, PCs) but not the bottleneck in AI infrastructure which drives the majority of current demand. Micron and Samsung are intentionally starving consumer memory to serve data center HBM demand, which is a structural choice, not a supply constraint that CXMT can relieve.",
+          "Political risk is extremely elevated and multifaceted: (1) Trump administration faces a no-win choice between allowing Apple to buy Chinese DRAM (cooling inflation but contradicting 5-year US chip strategy to contain China) or blocking it (protecting domestic/allied producers but allowing Apple price increases that worsen inflation), (2) Marco Rubio as Secretary of State adds complexity given his 2022 opposition to Apple-YMTC NAND deal, (3) China has demonstrated twice in 2025 it will reject American chip exports even when beneficial to block US AI advancement, and may do the same with CXMT exports."
+        ],
+        "tickers_mentioned": [
+          "MU",
+          "AAPL"
+        ]
+      },
+      "price_at_recommendation": {}
     },
     "xlP-lk_UiD0": {
       "channel": "CouchInvestor",
@@ -6475,16 +6486,33 @@
       "title": "Warren Buffett is Selling His Stocks",
       "upload_date": "20260703",
       "url": "https://www.youtube.com/watch?v=OSgfbEDPl9s",
-      "processed_at": "2026-07-06T12:22:15.038281",
-      "skipped": "no transcript"
+      "processed_at": "2026-07-09T11:54:24.536826",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Warren Buffett's Berkshire Hathaway has been a net seller of stocks for 14 consecutive quarters, the longest in their history, indicating that management believes current market prices are too high and does not represent attractive value. With over $397 billion in cash and treasuries (more than a third of Berkshire's entire assets), the company is signaling reluctance to deploy capital at current valuations, suggesting a cautious macro outlook and potential market overvaluation."
+        ],
+        "tickers_mentioned": [
+          "BRK.A",
+          "BRK.B"
+        ]
+      },
+      "price_at_recommendation": {}
     },
     "V8SEMtrLKHA": {
       "channel": "FinTek",
       "title": "Revealing my $425,000 Stock Portfolio",
       "upload_date": "20260704",
       "url": "https://www.youtube.com/watch?v=V8SEMtrLKHA",
-      "processed_at": "2026-07-06T12:22:11.162882",
-      "skipped": "no transcript"
+      "processed_at": "2026-07-09T11:54:14.616056",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": []
+      },
+      "price_at_recommendation": {}
     },
     "iL8vyBjmqcc": {
       "channel": "CouchInvestor",
@@ -6616,10 +6644,328 @@
       "title": "The Rotation Out of AI Stocks Just Started [A WARNING to All Investors]",
       "upload_date": "20260706",
       "url": "https://www.youtube.com/watch?v=AZTTwbO5SMg",
-      "processed_at": "2026-07-09T09:07:09.389961",
-      "skipped": "analysis failed",
-      "analysis_fails": 3,
-      "terminal": true
+      "processed_at": "2026-07-09T11:42:44.016338",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "MRVL",
+            "company_name": "Marvell Technology",
+            "reason": "Holding a bull flag off the 48 EMA, presenting a strong swing trading setup. The creator previously executed a successful swing trade on Marvell and views it as more immediately attractive than other semiconductor picks for near-term returns.",
+            "when_to_buy": "On breakout from bull flag formation",
+            "target_price": null,
+            "cautions": "This is identified as a swing trade, not a long-term hold. High-beta stock subject to significant volatility."
+          },
+          {
+            "ticker": "INTC",
+            "company_name": "Intel Corporation",
+            "reason": "Looks good at breakout and retest of bull flag. Expected to become the Taiwan Semiconductor equivalent for CPUs through its foundry business, backed by the American government as a critical national interest. The geopolitical importance and government support provide a strong fundamental thesis for long-term growth.",
+            "when_to_buy": "On bull flag breakout and retest",
+            "target_price": null,
+            "cautions": "Despite the positive setup, Intel does have a high current valuation. The success of the foundry strategy is critical to validating the valuation."
+          },
+          {
+            "ticker": "DRAM",
+            "company_name": "DRAM ETF (semiconductor memory)",
+            "reason": "Pullback to the 50-day moving average represents a buying opportunity in memory stocks, similar to historical pullback patterns from February and March. Korean memory stocks pulled back 17.4% from highs but this is characterized as a routine mean reversion, not a structural breakdown. The creator took a full position on July 2nd and views memory supply constraints as an ongoing tailwind for the AI buildout.",
+            "when_to_buy": "At 50-day moving average support, as it was on July 2nd",
+            "target_price": null,
+            "cautions": "DRAM ETF constituents are high-beta stocks. The Korean index (KOSPI) is volatile due to heavy weighting in memory stocks. However, this volatility is viewed as normal mean reversion in a sustained uptrend."
+          },
+          {
+            "ticker": "BROA",
+            "company_name": "Broadcom Inc.",
+            "reason": "Currently sitting at the 200-day moving average and a major Fibonacci golden pocket level. From an investment standpoint, trading at 18x forward earnings while historically trading in the 40s-80s PE range. Gross profit, revenue, EBITDA, cash from operations, and net income are all at all-time highs. Free cash flows are generating more than ever before. Return on invested capital of almost 20% and a compound annual growth rate of 25% over 10 years demonstrates exceptional long-term growth quality. This is not a swing trade but a strong long-term investment.",
+            "when_to_buy": "At current 200-day moving average support level",
+            "target_price": null,
+            "cautions": "No technical setup for a swing trade currently. Wait for longer-term accumulation. The stock recently broke down a trend, but the creator views this as an opportunity from an investment perspective given the fundamentals."
+          },
+          {
+            "ticker": "QCOM",
+            "company_name": "Qualcomm Inc.",
+            "reason": "Long-term investment thesis based on solid fundamentals in the semiconductor space. The creator likes it from an investment standpoint despite the current chart not being ideal for swing trading.",
+            "when_to_buy": "After technical setup improves; currently has a head and shoulders pattern that may be validating",
+            "target_price": null,
+            "cautions": "Currently does not have an attractive chart for swing trading. The head and shoulders pattern suggests caution in the near term, but long-term investors should wait for better entry points or technical confirmation."
+          },
+          {
+            "ticker": "COHR",
+            "company_name": "Coherent Inc.",
+            "reason": "Photonics stock pulling back to near the 100-day moving average, a level it has tested multiple times in 2024. From a technical perspective, this stock is upholding the photonics trend the most effectively. The creator likes the photonics exposure and Coherent as the best-positioned stock in that subsector during this pullback.",
+            "when_to_buy": "At or near 100-day moving average support",
+            "target_price": null,
+            "cautions": "High-beta stock subject to 25-30% pullbacks as normal mean reversion. The photonics sector faces competition from other stocks like Lumentum and AAOI, which are showing weaker technical patterns (rounding tops)."
+          },
+          {
+            "ticker": "NOK",
+            "company_name": "Nokia Oyj",
+            "reason": "Photonics stock that the creator still likes despite potential for further pullback to the 100-day moving average. Volume is continuing to grow, and the last time it approached the 100-day moving average was in January. The technical trend remains intact with supportive volume.",
+            "when_to_buy": "On approach to 100-day moving average if it pulls back further",
+            "target_price": null,
+            "cautions": "May experience further pullback before finding support. Coherent is preferred over Nokia from a technical standpoint in the photonics subsector."
+          },
+          {
+            "ticker": "NBIS",
+            "company_name": "Nebius Group",
+            "reason": "Data center stock that has pulled back to the 50-day moving average and is still holding its trend. The creator views this as a solid holding in the data center category, though consolidated from other data center positions.",
+            "when_to_buy": "Hold at current levels or add on further pullbacks to moving averages",
+            "target_price": null,
+            "cautions": "The overall data center sector has been impacted by Meta's announcement of potential compute sales, creating headline risk. However, the creator believes this is overblown and Nebius remains in trend."
+          },
+          {
+            "ticker": "CWEN",
+            "company_name": "Coreweave Inc.",
+            "reason": "Data center stock that pulled back significantly on Meta's compute announcement, but the creator believes this was a complete overreaction. Meta cannot effectively compete with Coreweave because Meta lacks dedicated SLAs, so external customers would fear throttling of capacity during peak Meta internal demand. Coreweave will recover once it gets back into its channel. The creator likes CoreWeave better than Iron for data center exposure.",
+            "when_to_buy": "On recovery back into its established technical channel",
+            "target_price": null,
+            "cautions": "Chart currently does not look great and stock is consolidating at lower levels. The Meta headline caused significant selling pressure, but fundamentals remain intact."
+          },
+          {
+            "ticker": "NVRO",
+            "company_name": "Nevro Corp",
+            "reason": "Data center stock that the creator believes is in the best position among data center plays. Recently added to QQQ, providing validation of the investment thesis.",
+            "when_to_buy": "Current levels or on any dips",
+            "target_price": null,
+            "cautions": "None explicitly mentioned for Nevro specifically, though the data center sector faces some headline risk from competitive announcements."
+          },
+          {
+            "ticker": "WOLF",
+            "company_name": "Wolfspeed Inc.",
+            "reason": "Data center power/infrastructure stock that pulled back to the 100-day moving average. The creator has not previously owned this stock but added it during the current pullback. It plays into the broader AI buildout theme through power infrastructure.",
+            "when_to_buy": "At 100-day moving average support",
+            "target_price": null,
+            "cautions": "New to the creator's portfolio, suggesting additional due diligence may be warranted by individual investors before buying."
+          },
+          {
+            "ticker": "BE",
+            "company_name": "Bloom Energy",
+            "reason": "Power infrastructure play for AI buildout. Listed as a favorite stock in the power category for supporting the energy needs of data centers and AI infrastructure expansion.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "VRT",
+            "company_name": "Vertu Holdings",
+            "reason": "Power infrastructure play for AI buildout. Listed as a favorite stock in the power category.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "TE",
+            "company_name": "TE Connectivity",
+            "reason": "Pure play on infrastructure/connectivity for AI buildout. Currently consolidating tightly in a range similar to penny stocks. If TE breaks out from consolidation, the creator expects to see moves toward the $15-$16 price range.",
+            "when_to_buy": "On breakout from tight consolidation range",
+            "target_price": "15 to 16 per share",
+            "cautions": "Currently trading at very low levels in a tight consolidation pattern. Not yet at an attractive entry point; wait for breakout confirmation."
+          },
+          {
+            "ticker": "NVO",
+            "company_name": "Novo Nordisk",
+            "reason": "Healthcare stock that the creator holds in the conservative portfolio. Has broken out from a very long-term downtrend that had established since August 2024. Up 44% from the bottom year-to-date. The creator is optimistic about continued strength in healthcare as a sector, particularly GLP-1 related plays.",
+            "when_to_buy": "Current levels as it tests the longer-term trend line",
+            "target_price": null,
+            "cautions": "Stock is now smack against the longer trend line established since August 2024. Failure to break above this resistance would be disappointing, but the creator is hopeful for continued upside."
+          },
+          {
+            "ticker": "UNH",
+            "company_name": "United Healthcare Group",
+            "reason": "Healthcare stock that the creator holds and likes as a long-term healthcare play. Demonstrates consistent upward movement over time.",
+            "when_to_buy": "Current levels",
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "HOOD",
+            "company_name": "Robinhood Markets",
+            "reason": "Both technically and fundamentally strong stock. Monster performer that has broken out consistently. The creator has bought more on each pullback. Evaluates as outstanding on Rule of 40 metric (annual revenue growth rate plus profitability margin), with a score between 50-90%, which is exceptional. Despite high forward PE and price-to-sales ratios, the growth rate and profitability margin are where it excels. Most stocks do not fall into this category of strength.",
+            "when_to_buy": "On any technical pullbacks, as the creator does",
+            "target_price": null,
+            "cautions": "Traditional valuation metrics like forward PE and price-to-sales may appear high, but growth-adjusted metrics (Rule of 40) explain the premium valuation."
+          },
+          {
+            "ticker": "MA",
+            "company_name": "Mastercard Inc.",
+            "reason": "Fintech/payments stock that the creator picked up and held from approximately last year. Now finally catching a bid after extended period.",
+            "when_to_buy": "Current levels as it catches a bid",
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "V",
+            "company_name": "Visa Inc.",
+            "reason": "Fintech/payments stock that the creator picked up and held from approximately last year. Now finally catching a bid after extended period.",
+            "when_to_buy": "Current levels as it catches a bid",
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "NFLX",
+            "company_name": "Netflix Inc.",
+            "reason": "Tech stock finally catching a bid, up 10% in the last week. Demonstrates a very similar pattern to Microsoft. The creator views this as a no-brainer stock in the mega cap tech category during this period.",
+            "when_to_buy": "Current levels",
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "COST",
+            "company_name": "Costco Wholesale",
+            "reason": "Consumer staples stock that recently fell below $1,000. Shows a pattern very similar to Broadcom. Whenever Costco is under $1,000 or under $900, it tends to attract interest. The creator already owns it and doesn't need more, but recognizes it as an attractive buy level.",
+            "when_to_buy": "At or below $1,000, historically also strong interest below $900",
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "TSLA",
+            "company_name": "Tesla Inc.",
+            "reason": "Consumer discretionary/technology stock expected to have a slow summer. However, multiple catalysts could propel valuation: potential acquisition discussions with SpaceX, expanding robotics strategy, and AI chip-making collaborations. The creator expects eventual breakout from current consolidation, though traditional valuation metrics show the stock as overvalued.",
+            "when_to_buy": "On breakout from consolidation, particularly on announcement catalysts",
+            "target_price": null,
+            "cautions": "The stock appears very overvalued using traditional metrics. The investment thesis relies heavily on execution of robotics strategy and potential SpaceX collaboration. Summer may be slow with limited catalysts."
+          },
+          {
+            "ticker": "MSFT",
+            "company_name": "Microsoft Corporation",
+            "reason": "Mega cap tech stock that the creator describes as a no-brainer at current valuations. From the bottom of the pullback, up 12%. The creator states it is more risky not to own this stock at current valuations than to own it. Earnings coming July 28th will be critical to confirm continued AI capex spending narrative.",
+            "when_to_buy": "Current levels",
+            "target_price": null,
+            "cautions": "Forward PE is still very high at 20x. Earnings on July 28th will be critical test \u2014 if guidance disappoints or capex plans are reduced, the stock could pull back significantly. The creator is betting on continued capex investment."
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms Inc.",
+            "reason": "Mega cap tech stock that the creator describes as a no-brainer at current valuations. Earnings coming July 29th. The creator hopes for a continued rise in Meta along with the AI buildout. Despite Meta's recent announcement of potential compute sales that spooked the market, the creator believes Meta cannot effectively compete with dedicated data center providers.",
+            "when_to_buy": "Current levels",
+            "target_price": null,
+            "cautions": "Earnings guidance on July 29th regarding capex plans will be critical. If Meta announces major capex reductions, it could trigger a chain reaction selling in AI buildout stocks. The compute announcement spooked markets but the creator views it as overblown."
+          },
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet Inc.",
+            "reason": "Mega cap tech stock and the creator's favorite of the Mag 7. Net cash position provides financial strength. Earnings coming July 28th will be critical to confirm continued AI capex spending narrative. The creator is optimistic on the company's ability to generate returns on AI investments.",
+            "when_to_buy": "Current levels",
+            "target_price": null,
+            "cautions": "Earnings on July 28th will be a critical test. If capex guidance disappoints, the entire AI buildout narrative could come under pressure."
+          },
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon Inc.",
+            "reason": "Mega cap tech stock that the creator describes as a no-brainer at current valuations. Earnings coming July 29th. The creator hopes for continued rally in Amazon along with the AI buildout. Strong cash generation capabilities support aggressive capex spending on AI infrastructure.",
+            "when_to_buy": "Current levels",
+            "target_price": null,
+            "cautions": "Earnings guidance will be critical. If capex plans are reduced, Amazon could be sold off with the rest of the AI buildout stocks. The creator expects Amazon to rally strongly if capex investment increases."
+          },
+          {
+            "ticker": "NOW",
+            "company_name": "ServiceNow Inc.",
+            "reason": "Mega cap growth stock that has caught a bid, up almost 19% from the bottom. Part of the broader tech recovery the creator is observing.",
+            "when_to_buy": "Current levels",
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "RIO",
+            "company_name": "Rio Tinto (or Iron-related company reference \u2014 unclear from context)",
+            "reason": "The creator's view on this stock has totally changed. The stock is continuing to make lower highs and lower lows, has broken structure support levels, and the creator is consolidating the position out. Additionally, executive compensation issues have angered shareholders, with a $788 million compensation package announced while the company is spending $50 million annually to put its logo on the Golden State Warriors jerseys, suggesting poor capital allocation priorities.",
+            "risk": "Breaking down through support levels with lower highs and lower lows pattern indicating further downside risk"
+          },
+          {
+            "ticker": "LUMN",
+            "company_name": "Lumentum Holdings",
+            "reason": "Although the creator likes some of the fundamentals, the chart is showing a rounding top formation, which is a bearish technical pattern. The creator explicitly states 'you never want to see a stock rounding at the top like this,' indicating this is a stock to reduce exposure to during consolidation.",
+            "risk": "Rounding top formation suggests accumulation of selling pressure with potential significant downside"
+          },
+          {
+            "ticker": "AAOI",
+            "company_name": "Applied Optoelectronics Inc.",
+            "reason": "Like Lumentum, this photonics stock is displaying a rounding top formation on the chart, which the creator identifies as a bearish technical pattern. This is a stock the creator recommends consolidating out of in favor of better-positioned photonics plays like Coherent.",
+            "risk": "Rounding top formation indicates weakness; consolidation of holdings recommended away from this stock"
+          }
+        ],
+        "key_warnings": [
+          "The creator emphasizes this is NOT a true rotation out of AI stocks. Rotation calls are premature and stupid because recent pullbacks represent normal mean reversion to moving averages, not fundamental breakdown. The Mag 7 and mega cap tech catching a bid is a typical pattern within bull markets where SPY outperforms tech for 45+ days (averaging 77 days historically) before tech rallies hard again. No fundamental indicators have changed: earnings from hyperscalers remain strong, capex plans have not been cut, guidance has not been lowered.",
+          "Critical earnings dates coming: Microsoft, Google, and Meta all report earnings by July 28-29. If any of these companies announce capex reductions or slower spending plans, it will trigger a chain reaction crash in the entire AI buildout sector beyond just the mega caps. The creator believes markets are not prepared for this scenario but thinks it is unlikely.",
+          "High-beta AI buildout stocks are experiencing normal 20-35% pullbacks to moving averages, which is expected and healthy behavior. However, investors should completely separate their AI buildout portfolio (high risk, volatile) from their conservative portfolio (mega cap stable stocks, healthcare, consumer staples) to properly manage risk. If an investor YOLOs AI stocks at the top using options, pullbacks to moving averages will shred their portfolio.",
+          "Memory supply constraints from Chinese memory companies buying to avoid Korean suppliers' high costs and supply constraints caused the recent China-related scare in the memory sector (DRAM ETF down 27% from peaks). This is viewed as a temporary headline, not a structural change. Historical precedent (February-March pullback of 20%) shows memory stocks recover after these mean reversions.",
+          "Meta's announcement of potential compute sales spooked data center stocks, but the creator believes this threat is overblown because Meta lacks dedicated SLAs and cannot compete with pure-play data center providers like CoreWeave and Nevro. External customers will fear capacity throttling when Meta prioritizes internal workloads, making Meta compute uncompetitive.",
+          "The creator strongly advises investors to have a plan before buying stocks and to understand what they own. Do not buy random tickers and then ask 'are you still holding this' in comments. Understand the technical setup, fundamental thesis, and your risk tolerance before entering positions.",
+          "Many AI and semi-conductor stocks have technical setups that are not attractive for swing trading in the near term, including Broadcom and Qualcomm, despite strong long-term investment cases. Do not treat all stocks created equal; some are swing trades (Marvell) while others are 5-10 year holds (Broadcom, Qualcomm).",
+          "High-beta semiconductor and AI stocks should be hedged with 5-10% of portfolio in out-of-the-money puts expiring in 2-3 months to protect against violent pushdowns while still allowing portfolio to benefit from rallies. This is critical risk management for AI-heavy portfolios.",
+          "Tesla appears very overvalued using traditional metrics, but the investment thesis depends entirely on execution of robotics strategy and potential SpaceX collaboration catalysts. The stock may face a slow summer absent these catalysts, then break out if announcements emerge. The thesis is speculative."
+        ],
+        "tickers_mentioned": [
+          "MRVL",
+          "BROA",
+          "INTC",
+          "QCOM",
+          "DRAM",
+          "COHR",
+          "NOK",
+          "NBIS",
+          "CWEN",
+          "NVRO",
+          "WOLF",
+          "BE",
+          "VRT",
+          "TE",
+          "NVO",
+          "UNH",
+          "HOOD",
+          "MA",
+          "V",
+          "NFLX",
+          "COST",
+          "TSLA",
+          "MSFT",
+          "META",
+          "GOOGL",
+          "AMZN",
+          "NOW",
+          "LUMN",
+          "AAOI",
+          "RIO",
+          "KOSPI",
+          "SMH",
+          "QQQ",
+          "TQQQ",
+          "MAG7",
+          "SPY",
+          "NVDA",
+          "ORCL"
+        ]
+      },
+      "price_at_recommendation": {
+        "HOOD": 113.53,
+        "QCOM": 186.56,
+        "AMZN": 243.62,
+        "BE": 254.29,
+        "MSFT": 383.34,
+        "RIO": 88.8,
+        "TE": 7.35,
+        "WOLF": 35.86,
+        "INTC": 110.24,
+        "NBIS": 216.48,
+        "COHR": 317.05,
+        "DRAM": 62.04,
+        "MA": 519.86,
+        "VRT": 317.81,
+        "CWEN": 33.32,
+        "NFLX": 75.59,
+        "TSLA": 394.06,
+        "MRVL": 231.71,
+        "NVO": 48.89,
+        "NOW": 107.78,
+        "AAOI": 114.44,
+        "LUMN": 6.62,
+        "NOK": 11.95,
+        "V": 347.53,
+        "META": 603.12,
+        "COST": 953.13,
+        "UNH": 425.6,
+        "GOOGL": 361.92
+      }
     },
     "iSOJcKD5ow4": {
       "channel": "Jose Najarro Stocks",
@@ -7312,6 +7658,62 @@
         "MU": 948.8,
         "SIMO": 313.3,
         "RMBS": 109.64
+      }
+    },
+    "30n96HFwGq4": {
+      "channel": "FinTek",
+      "title": "Top Fin Tech Stock to BUY NOW (High Growth)",
+      "upload_date": "20260708",
+      "url": "https://www.youtube.com/watch?v=30n96HFwGq4",
+      "processed_at": "2026-07-09T11:43:23.192712",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NU",
+            "company_name": "Nubank",
+            "reason": "Nubank is a fintech company from Brazil that serves as the primary financial relationship for 30% of Brazil's market. The company has added 75 million new customers over the last 4 years and is increasing revenue per customer, which has reached $16, up 24% compounded since 2022. The investment thesis centers on continued customer base growth and increasing monetization per customer.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": [
+          "NU"
+        ]
+      },
+      "price_at_recommendation": {
+        "NU": 13.37
+      }
+    },
+    "i5j_xc4zoWs": {
+      "channel": "FinTek",
+      "title": "Top AI Memory Stock for 2026",
+      "upload_date": "20260706",
+      "url": "https://www.youtube.com/watch?v=i5j_xc4zoWs",
+      "processed_at": "2026-07-09T11:54:07.352066",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "SSNLF",
+            "company_name": "Samsung Electronics",
+            "reason": "Samsung touches on all areas of the computer hardware market, which is a big bottleneck right now for AI data center investment. The company recently launched their own HBM 4 product and is already pushing prices higher due to excess demand. Samsung tripled their profits in the most recent quarter, with the company expecting demand to continue rising throughout the year. The investment thesis centers on growth potential, with the stock looking cheap if the company can maintain its recent insane growth rate.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "If growth starts to slow at all, the stock price would still be on the more expensive side. The valuation is dependent on maintaining the recent exceptional growth trajectory."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Computer hardware remains a significant bottleneck for AI data center investment, suggesting that supply chain constraints and hardware availability could impact the entire AI infrastructure sector."
+        ],
+        "tickers_mentioned": [
+          "SSNLF"
+        ]
+      },
+      "price_at_recommendation": {
+        "SSNLF": 65.21
       }
     }
   },

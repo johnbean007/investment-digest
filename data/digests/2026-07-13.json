@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T11:39:56.592216",
+  "generated_at": "2026-07-13T12:44:30.871676",
   "video_count": 87,
   "stock_count": 188,
   "stocks": [
@@ -1850,8 +1850,8 @@
         "analyst_buy": 39,
         "analyst_hold": 2,
         "analyst_sell": 1,
-        "analyst_target": 190.11,
-        "analyst_upside_pct": 69.2,
+        "analyst_target": 190.43,
+        "analyst_upside_pct": 69.5,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -3121,8 +3121,8 @@
         "analyst_buy": 24,
         "analyst_hold": 4,
         "analyst_sell": 1,
-        "analyst_target": 93.66,
-        "analyst_upside_pct": 3.9,
+        "analyst_target": 93.73,
+        "analyst_upside_pct": 4.0,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -4247,7 +4247,7 @@
         "week52_high": 206.63,
         "week52_high_date": "10 Jul 2026",
         "week52_low": 146.97,
-        "week52_low_date": "29 Jul 2025",
+        "week52_low_date": "15 Jul 2025",
         "rsi": 69.6,
         "rsi_label": "neutral",
         "ma50": 202.65,
@@ -11824,7 +11824,7 @@
         "analyst_buy": 34,
         "analyst_hold": 7,
         "analyst_sell": 0,
-        "analyst_target": 598.32,
+        "analyst_target": 598.25,
         "analyst_upside_pct": 24.7,
         "earnings_date": null,
         "earnings_days": null
@@ -12051,8 +12051,8 @@
         "analyst_buy": 3,
         "analyst_hold": 0,
         "analyst_sell": 0,
-        "analyst_target": 97.55,
-        "analyst_upside_pct": 64.5,
+        "analyst_target": 97.71,
+        "analyst_upside_pct": 64.7,
         "earnings_date": null,
         "earnings_days": null
       },

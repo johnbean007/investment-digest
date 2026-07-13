@@ -433,7 +433,7 @@ def build_digest(all_video_analyses: list[dict]) -> dict:
         }
 
         for rec in analysis.get("buy_recommendations", []):
-            ticker = rec.get("ticker", "").upper()
+            ticker = (rec.get("ticker") or "").upper()
             if not ticker:
                 continue
             ticker_map.setdefault(ticker, {
@@ -451,7 +451,7 @@ def build_digest(all_video_analyses: list[dict]) -> dict:
             entry["buys"].append({**meta, **rec})
 
         for rec in analysis.get("stocks_to_avoid", []):
-            ticker = rec.get("ticker", "").upper()
+            ticker = (rec.get("ticker") or "").upper()
             if not ticker:
                 continue
             ticker_map.setdefault(ticker, {

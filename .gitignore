@@ -4,3 +4,4 @@ venv/
 .env
 data/monitor.log
 yt_cookies.txt
+.DS_Store

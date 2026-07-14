@@ -8,11 +8,16 @@
     <key>ProgramArguments</key>
     <array>
         <string>/bin/bash</string>
-        <string>/Users/johnbean/Documents/Claude/Investment Projects/investment-digest-v2/run.sh</string>
+        <string>/Users/johnbean/investment-digest/run.sh</string>
     </array>
 
+    <!-- Repo deliberately lives outside ~/Documents. That folder is TCC-protected,
+         so launchd agents get "Operation not permitted" on it without granting
+         /bin/bash Full Disk Access. Keeping the repo here avoids that entirely,
+         and keeps .git out of iCloud, where syncing partial writes to index/pack
+         files can corrupt the repo. GitHub is this repo's backup, not iCloud. -->
     <key>WorkingDirectory</key>
-    <string>/Users/johnbean/Documents/Claude/Investment Projects/investment-digest-v2</string>
+    <string>/Users/johnbean/investment-digest</string>
 
     <!-- Run hourly. If the Mac is asleep across scheduled times, launchd fires
          the job once on wake, then resumes the hourly cadence. Combined with the

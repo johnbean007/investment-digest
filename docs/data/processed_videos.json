@@ -9458,6 +9458,309 @@
         "TSM": 434.11,
         "AEHR": 72.6
       }
+    },
+    "nr0tf3KGM_A": {
+      "channel": "CouchInvestor",
+      "title": "Here's What I'm Buying If the Market Drops Again",
+      "upload_date": "20260714",
+      "url": "https://www.youtube.com/watch?v=nr0tf3KGM_A",
+      "processed_at": "2026-07-14T22:38:25.886755",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet Inc.",
+            "reason": "Google is one of the clearest winners in the AI race. The company is extremely profitable with revenue still expected to grow nicely (21.2% this fiscal year, then 19.4% and 17.4%), already generating close to half a trillion dollars in revenue. Google Cloud revenue shows excellent growth rates with 66.4 billion over the past 12 months and impressive quarterly numbers. The company is vertically integrated, owns the entire stack including distribution, YouTube, and Google Search which billions of people use daily. Even if there is a huge crash in the AI narrative and overbuilding, Google will survive and come out stronger because competitors burning money will face difficulty surviving, allowing Google to acquire them at steep discounts. The company trades at a reasonable valuation with P/E of 26.6x and forward P/E of 27.6x.",
+            "when_to_buy": "If it drops under $300, ideally under that level, described as 'a huge gift'",
+            "target_price": "under $300 is ideal",
+            "cautions": "The creator already owns quite a lot of Google and doesn't mind the current price to hold it, but would need to see a significant drop to add more shares given the size of the position."
+          },
+          {
+            "ticker": "RDDT",
+            "company_name": "Reddit Inc.",
+            "reason": "Reddit is growing very quickly on both top and bottom lines with margin-wise performance looking extremely good. The market misunderstands the company and its potential. The licensing deals with big AI companies are undervalued and conservative analyst projections will likely see surprises on the upside. The majority of revenue comes from advertising, but average revenue per user compared to Meta is still in very early days with significant room for optimization. AI is a huge tailwind for the platform as users will continue to visit Reddit to hear what other people have to say and discuss with others, distinct from AI chatbots. Even at $200 per share, it's not an expensive name. The company trades at forward P/E of 37.8x with strong growth, and price to free cash flow is way better than Google today.",
+            "when_to_buy": "A broader market pullback could see it back around $160-170, though the creator wouldn't mind buying at $200 to lower their average cost",
+            "target_price": "$160-170 in a broader pullback scenario",
+            "cautions": "The stock has already gone up quite quickly over the past 3 months (up close to 30%), and the creator opened this position more recently, so it's not at an ideal entry point currently."
+          },
+          {
+            "ticker": "AXON",
+            "company_name": "Axon Enterprise Inc.",
+            "reason": "Axon is expected to grow close to 30% for the next couple of years and could easily achieve this growth, especially if bullish on drones and defense. The company is expected to become more vertically integrated across the board with margins expected to recover. A $44 billion market cap company could potentially become a $100 billion company in the future, which would make the current valuation cheaper than it appears when accounting for the margin recovery and growth trajectory.",
+            "when_to_buy": "The creator would love to see it back under $500, even closer to $400, which would provide better margin of safety",
+            "target_price": "$400 is ideal, under $500 acceptable",
+            "cautions": "Currently trading at very high valuation multiples with P/E of 219x and forward P/E of 65.5x. Even in the bull case DCF model, the creator considers current valuation quite expensive. The stock already experienced a 50% run-up from $400 to $640 recently and is experiencing only an 11-12% pullback, suggesting limited downside near-term."
+          },
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices Inc.",
+            "reason": "AMD is a company with improving margins while still expected to grow quite rapidly. The current stock price reflects what's coming up, not just current performance. Revenue is expected to accelerate with 43% year-over-year growth this year, then 55.6% in fiscal 27, driven primarily by the MI400 series coming out soon and strong data center growth. The company is not yet showing its ultimate performance as CPUs are getting significant traction. At nearly $900 billion market cap, the valuation reflects the MI400 acceleration story and significant growth ahead.",
+            "when_to_buy": "The creator would love to see a nice pullback and would be interested in buying more under $500. Could potentially see it back in the $450s where it was just over a month ago",
+            "target_price": "under $500, potentially back to $450s",
+            "cautions": "Currently trading at very expensive valuations with forward P/E of 62.2x, quite elevated even compared to Nvidia. While margins are improving and growth is strong, much of the upside is already priced in. The creator already owns enough AMD and doesn't mind not buying more if the stock doesn't pull back."
+          },
+          {
+            "ticker": "PLTR",
+            "company_name": "Palantir Technologies Inc.",
+            "reason": "Palantir is expected to grow 72% this fiscal year, then 45% next fiscal year, then 42-43% in fiscal 2028, with management suggesting fiscal 27 could also see growth closer to 70%. When looking at what management said versus what actually happened over the last couple of years, they met their goals and then some, indicating reliable guidance. The forward multiples are based on analyst projections which have consistently been wrong on Palantir's growth projections, making the company appear more expensive than it actually is. If analyst projections are revised upside after earnings, the valuation will look significantly less expensive.",
+            "when_to_buy": "The creator bought at $107 per share and would love to see it closer to $100 per share for a better entry point",
+            "target_price": "closer to $100 per share is preferred",
+            "cautions": "Currently trades at very high valuation metrics with P/E of 144x and forward P/E of 80x. However, the creator notes this shouldn't scare investors when examining the DCF model and management commentary. The stock is up 20% already from the creator's recent purchase, suggesting limited immediate upside."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Earnings season is approaching and markets are currently shaky. The creator recommends raising cash to increase cash position in case the market overreacts to earnings. Even good earnings reports with good comments could result in pullbacks if too much was already priced in, affecting valuations across these names.",
+          "The AI narrative could experience a huge crash if there is significant overbuilding in AI infrastructure. While stronger profitable companies like Google will survive and potentially acquire failing competitors, mid-tier growth companies could face severe difficulties during such a correction.",
+          "Forward price-to-earnings multiples can be misleading as they are based on analyst projections that frequently move and are often wrong, particularly for high-growth companies. Investors should focus on DCF models and actual management execution rather than forward multiples alone."
+        ],
+        "tickers_mentioned": [
+          "GOOGL",
+          "META",
+          "ORCL",
+          "PLTR",
+          "NFLX",
+          "APPF",
+          "CRM",
+          "INTC",
+          "CSCO",
+          "DELL",
+          "TXN",
+          "MU",
+          "AMD",
+          "NVDA",
+          "SAND",
+          "MRVL",
+          "RDDT",
+          "AXON",
+          "SOFI",
+          "NEBS",
+          "RKLB"
+        ]
+      },
+      "price_at_recommendation": {
+        "PLTR": 133.72,
+        "AXON": 547.26,
+        "RDDT": 203.27,
+        "GOOGL": 359.51,
+        "AMD": 548.13
+      }
+    },
+    "0sN5BQzxozU": {
+      "channel": "The Traveling Trader",
+      "title": "\ud83d\udd34 Day Trading LIVE | CPI Inflation Report",
+      "upload_date": "20260714",
+      "url": "https://www.youtube.com/watch?v=0sN5BQzxozU",
+      "processed_at": "2026-07-14T22:39:21.798250",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "MSFT",
+            "company_name": "Microsoft Corporation",
+            "reason": "Microsoft is showing relative strength and recovery after falling in sympathy with IBM's earnings miss. The creator stated that fundamentally nothing has changed for Microsoft\u2014it's a software company that got caught in collateral damage from IBM's miss on hardware/capex spending. Microsoft is recovering from its morning decline and shows strength into the close. The creator explicitly said 'I really like Microsoft here' and indicated willingness to take a long trade if it closes with a full body candle and not a wick.",
+            "when_to_buy": "On a retest of the trend line with a full-bodied daily close; scalp opportunities exist on any pullback into support",
+            "target_price": null,
+            "cautions": "Watch for a wick close that would invalidate the setup; wait for confirmation of relative strength continuation"
+          },
+          {
+            "ticker": "PLTR",
+            "company_name": "Palantir Technologies",
+            "reason": "Palantir showed exceptional relative strength recovery after being down 6% in the pre-market following IBM's earnings miss. The stock is displaying strong momentum as it rebounds from the initial selloff. The creator highlighted Palantir's chart as showing 'relative strength on Palanteer' and noted it as a stock to focus on that is recovering from the IBM-driven collateral damage while showing genuine strength.",
+            "when_to_buy": "On any continued relative strength above the morning lows; momentum-based entry on break of near-term resistance",
+            "target_price": null,
+            "cautions": "Ensure the recovery holds above the morning lows; watch for reversal if broader market weakness returns"
+          },
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Nvidia is showing strength and momentum, with a bullish technical setup. The creator stated 'I do like Nvidia here' and noted that if it breaks above the $211 level (previous all-time highs), it could run to the $220s-$230s. Nvidia is benefiting from the IBM narrative shift emphasizing strong capex spending on servers, storage, and memory, which is positive for semiconductor/AI infrastructure demand.",
+            "when_to_buy": "On a break and retest above the $211 resistance level (previous all-time highs)",
+            "target_price": "$220\u2013$230 range if it clears $211 resistance",
+            "cautions": "Watch for rejection at the $211 level; do not chase parabolic moves; ensure confirmation with volume"
+          },
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet Inc.",
+            "reason": "Google is showing relative strength recovery and holding a key trend line after falling in sympathy with IBM. The creator noted that Google 'looks interesting' and is recovering from the morning decline. Google has earnings coming on July 22nd, which could be a catalyst. The chart shows a break-and-retest pattern of the trend line, which is a bullish setup.",
+            "when_to_buy": "On a hold of the trend line with confirmation of relative strength; potentially wait for a retest and bounce",
+            "target_price": null,
+            "cautions": "There is a chance Google comes down further before moving higher due to upcoming PPI tomorrow and potential for one more manipulative move; do not chase yet"
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms Inc.",
+            "reason": "Meta is showing strength and is testing a critical trend line that has been in place for an entire year (since August 2024). The creator noted the potential for the release of Muse Spark to reignite market interest. The stock is at a key technical level where a breakout could signal a major move. The creator disclosed a long position from the low $500s.",
+            "when_to_buy": "Only on a confirmed break and retest of the year-long trend line with fresh momentum; wait for confirmation\u2014do not buy prematurely",
+            "target_price": null,
+            "cautions": "Do not buy before confirmation; Meta has tested this breakout multiple times and failed; a premature entry is 'just a guess' and 'not a great trade' without confirmation; the setup lacks conviction until there is a clear break and retest"
+          },
+          {
+            "ticker": "QCOM",
+            "company_name": "Qualcomm Inc.",
+            "reason": "Qualcomm is trading at a reasonable valuation with a forward PE of 16, trailing PE of 19, and a strong return on invested capital of 20%. The creator assessed it as 'a good buy as an investment.' The stock has swept yesterday's low and has fundamental strength, though there is no immediate trade setup.",
+            "when_to_buy": "As a longer-term investment, not an immediate day/swing trade; wait for a break and retest of the trend line",
+            "target_price": null,
+            "cautions": "Currently consolidating at resistance with no clear trend line break; not a trade setup in the near term; only suitable for buy-and-hold investing, not active trading"
+          },
+          {
+            "ticker": "EWY",
+            "company_name": "iShares MSCI South Korea ETF",
+            "reason": "Korea's stock market (KOSPI) has pulled back 25% but visited the 100-day moving average for the first time since April 2024, presenting a potential buy-the-dip opportunity. The creator identified a 'resolved distribution pattern' and sees a 'great buy the dip opportunity in Korea right now.' The extreme selloff (900,000+ liquidations in Korea) mirrors the excessive speculation seen during the US dot-com boom, suggesting a capitulation bottom may be forming.",
+            "when_to_buy": "On the bounce off the 100-day moving average; after capitulation and mass liquidations suggest exhaustion",
+            "target_price": null,
+            "cautions": "Korea is the most concentrated market in the world, dominated by 3 mega-cap stocks (Samsung, SK Hynix, Micron); be aware that US exposure to Korea and Korean tech is already high through semiconductor holdings; this is not true diversification if you own memory ETFs like DRM"
+          },
+          {
+            "ticker": "DRM",
+            "company_name": "SPDR S&P Semiconductor ETF (Memory)",
+            "reason": "The creator closed a short position on memory yesterday and is now 'looking to position myself in memory longs from here.' Memory stocks (Samsung, Micron, SK Hynix) are benefiting from the IBM narrative shift showing continued strong capex on servers, storage, and memory. The creator noted DRAM is 'up a healthy amount pre-market' at +5.5%.",
+            "when_to_buy": "On the current bounce; the creator is actively positioning longs here",
+            "target_price": null,
+            "cautions": "There is a head-and-shoulders pattern that 'has not gone away'; be cautious of the technical bearish setup; monitor Korea's market strength to confirm demand thesis"
+          },
+          {
+            "ticker": "BE",
+            "company_name": "Bloom Energy Corporation",
+            "reason": "Bloom Energy is retesting the 21 EMA on the weekly chart and looks 'really good.' The technical setup shows strong momentum and a clean chart pattern. The creator highlighted it as one of the stocks with more momentum than comparable peers.",
+            "when_to_buy": "On a retest of the 21 EMA with confirmation of support holding",
+            "target_price": null,
+            "cautions": "Monitor the retest carefully; ensure support holds before committing"
+          },
+          {
+            "ticker": "COIN",
+            "company_name": "Coinbase Global Inc.",
+            "reason": "The creator noted that Coin 'still looks decent for a swing' setup. Bitcoin is up nearly 4% and forming an inverse head-and-shoulders pattern after sweeping the $60,260 low, suggesting potential for a run to $70k. Coinbase should benefit from Bitcoin strength.",
+            "when_to_buy": "On Bitcoin strength and confirmation of the inverse head-and-shoulders breakout",
+            "target_price": null,
+            "cautions": "Monitor Bitcoin's technical setup; ensure the inverse H&S breaks above neckline before committing"
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "IBM",
+            "company_name": "International Business Machines Corporation",
+            "reason": "IBM missed earnings and provided disappointing forward guidance, specifically stating they did not foresee the magnitude of capex shift toward servers, storage, and memory purchases. The stock is down 22% pre-market. While the creator acknowledged it 'could be a buy the dip,' he strongly cautioned against impulsively buying just because the stock is down. IBM's revenue has been flat to slightly negative over the last 10 years, showing no meaningful growth. The stock is trading at a 214 PE on forward basis with a weak ROIC of 6% and no revenue growth trajectory. The creator stated: 'Just because something is down 22% doesn't mean it's a good buy' and 'Don't buy the first discount.' IBM had a parabolic run-up of 56% in a couple weeks before the earnings miss, which is now reversing.",
+            "risk": "Further downside if guidance misses persist; fundamentally weak growth profile makes recovery uncertain; stock is down 73% from highs"
+          },
+          {
+            "ticker": "ORCL",
+            "company_name": "Oracle Corporation",
+            "reason": "Oracle has one of 'the ugliest looking charts on planet Earth' according to the creator. The company has a 400% debt-to-equity ratio, meaning it is 'leveraged to the tits.' The chart displays a massive head-and-shoulders pattern and is in a poor long-term trend. The creator explicitly stated: 'There's no way I'm buying a company that has a 400% debt to equity ratio. No way.' The technical setup suggests further downside before any recovery becomes viable.",
+            "risk": "Major downside risk below the 2024 low; extreme leverage makes it vulnerable to rising rates or demand shocks; wait for a break below 2024 lows and a retest of the long-term trend line before considering any position"
+          },
+          {
+            "ticker": "QRVO",
+            "company_name": "Qorvo Inc.",
+            "reason": "Although not explicitly recommended against, the creator implied caution by noting Qrvo's relative weakness compared to other chip/semiconductor names. As software and non-infrastructure plays underperformed post-IBM, Qrvo (a RF semiconductor company with exposure to handset and infrastructure) may face similar headwinds if capex remains focused on data center and AI infrastructure rather than broader semiconductor demand.",
+            "risk": "Relative weakness versus memory and data center infrastructure plays; monitor for sustained underperformance"
+          },
+          {
+            "ticker": "ADBE",
+            "company_name": "Adobe Inc.",
+            "reason": "Adobe, as a software company, fell sharply in sympathy with IBM's earnings miss and disappointed guidance on software spending. The creator's point was that software stocks are taking a hit because IBM's capex narrative shift emphasizes hardware and infrastructure over software spending. Adobe is part of the broad software sector weakness and should be avoided until clarity emerges on software demand.",
+            "risk": "Continued sector weakness if capex allocation favors hardware/infrastructure over software; wait for stabilization signals"
+          },
+          {
+            "ticker": "NOW",
+            "company_name": "ServiceNow Inc.",
+            "reason": "ServiceNow is a software stock that fell $7 pre-market in sympathy with IBM's miss, despite no fundamental change to ServiceNow itself. The creator asked rhetorically: 'What does this have to do with IBM earnings?' as a way to point out the irrational selloff. The stock may have room to recover, but the creator did not recommend it and warned against buying into sympathy weakness without fundamental analysis.",
+            "risk": "Sympathy selloff may offer opportunity, but near-term volatility and sector headwinds remain; wait for stabilization"
+          }
+        ],
+        "key_warnings": [
+          "IBM's miss on hardware/infrastructure capex expectations is creating a narrative shift in the market: capex is NOT slowing down, but it IS shifting away from traditional software toward AI data center infrastructure (servers, storage, memory). This is benefiting semiconductor and memory stocks while damaging broad software holdings. Be aware of this sector rotation and the relative strength/weakness it creates.",
+          "CPI came in much better than expected (headline -0.1% vs. -0.4% expected, core 0% month-over-month), reducing inflation concerns in the near term. However, the creator warned this is just one data point and not to overreact. Fed Chair Worsh testified that the Fed is committed to price stability and there is no tolerance for elevated inflation, but avoided giving forward rate guidance. Do not expect imminent rate cuts; the Fed is holding at 3.5-3.75% for now.",
+          "The market is experiencing choppy, range-bound price action with limited intraday trending. The creator called it 'a scalping day' with 'no quality longs' and noted indices are 'just barcoding' sideways. There is significant gamma (options risk) concentrated at the highs, which could cap upside. Tomorrow brings PPI data and another Fed testimony, which may create more volatility but also more sideways consolidation until clearer directional catalysts emerge.",
+          "The Korean market's 25% crash and 900,000+ liquidations mirror the excessive leverage and speculation of the US dot-com bubble. This is a warning sign of systemic leverage in global markets. While a bottom may be forming in Korea, the cascading liquidations suggest potential contagion risks if liquidations spread to other markets.",
+          "Do NOT fall into 'Target shopper mentality' where you buy stocks just because they are down big or short them just because they hit an all-time high. IBM is down 22%\u2014but the creator warned that 'just because something is down a lot doesn't mean it's a good buy.' Similarly, Apple hit an all-time high\u2014but shorting it is equally misguided. Always analyze WHY a stock is moving before entering a position. Overshooting (both up and down) is common, but impulsive reaction trades based on price alone lead to losses.",
+          "Forward guidance and expected future earnings matter more than one-quarter miss. IBM's miss revealed a structural shift in capex allocation, not just a quarter of underperformance. Always dig into the reason for earnings misses or outperformance; surface-level price reactions can lead to poor decisions.",
+          "The Fed's new Chair Worsh emphasizes independence and price stability as the top priority. He has appointed task forces to review Fed communications, balance sheet policy, inflation frameworks, and other areas. The Fed is NOT providing forward guidance on interest rates anymore and may reduce forward guidance overall. Do not expect the Fed to telegraph rate cuts in advance; stay flexible.",
+          "Meta is at a critical year-long trend line but has broken out multiple times and failed. Do NOT buy prematurely into a breakout that lacks confirmation. Wait for a clear break AND retest before entering. 'Buying Meta prematurely here is just a guess' and 'not a great trade' without confirmation.",
+          "Software stocks are experiencing relative weakness due to the IBM capex shift narrative (toward hardware/infrastructure, away from software). However, some software stocks like Microsoft and Palantir are showing relative strength and recovery. Focus on stocks showing relative strength WITHIN the weakness, not the entire sector. Sympathy weakness often creates better entries than the initial panic.",
+          "The creator is using aggressive hedging strategies (short QQQ, short AOI, short memory) and notes that every hedge from the past two months has paid off. This suggests the creator sees elevated risk ahead and is protecting against downside. Individual investors should consider their own risk tolerance and consider hedges or reduced leverage if appropriate."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "IBM",
+          "ORCL",
+          "MSFT",
+          "GOOGL",
+          "META",
+          "PLTR",
+          "NOW",
+          "ADBE",
+          "QCOM",
+          "EWY",
+          "DRM",
+          "DRAM",
+          "SKH",
+          "SXYL",
+          "CEG",
+          "VRT",
+          "BE",
+          "CG",
+          "HOD",
+          "COIN",
+          "BTC",
+          "QQQ",
+          "ES",
+          "NQ",
+          "ENQ",
+          "SPY",
+          "GC",
+          "GLD",
+          "QRVO",
+          "DELL",
+          "AOI",
+          "IGV",
+          "SOXL"
+        ]
+      },
+      "price_at_recommendation": {
+        "PLTR": 133.72,
+        "META": 661.04,
+        "ADBE": 220.78,
+        "NVDA": 211.8,
+        "GOOGL": 359.51,
+        "ORCL": 127.94,
+        "NOW": 104.85,
+        "QRVO": 82.51,
+        "MSFT": 384.93,
+        "QCOM": 178.1,
+        "EWY": 176.98,
+        "IBM": 217.07,
+        "COIN": 161.5,
+        "BE": 243.4
+      }
+    },
+    "S1suUMCbbEE": {
+      "channel": "FinTek",
+      "title": "Top AI Energy Stock ETF to BUY NOW",
+      "upload_date": "20260714",
+      "url": "https://www.youtube.com/watch?v=S1suUMCbbEE",
+      "processed_at": "2026-07-14T22:39:32.198119",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NLR",
+            "company_name": "VanEck Uranium & Nuclear ETF",
+            "reason": "NLR is a nuclear energy ETF that provides a basket of stocks across the nuclear ecosystem, allowing diversified exposure to the sector. The holdings are concentrated in the US with international exposure as well, with the majority of investments split between large-cap and mid-cap companies. In recent years, nuclear energy has far outpaced the broader S&P 500 for returns, and AI is improving demand in the short term.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "This is a long-term investment and it will take a while before a nuclear renaissance occurs in the US, despite short-term AI-driven demand improvements."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Nuclear energy sector recovery is a long-term thesis and should not be expected to deliver rapid returns. While AI is improving demand in the short term, a full nuclear renaissance in the US will take considerable time to materialize."
+        ],
+        "tickers_mentioned": [
+          "NLR"
+        ]
+      },
+      "price_at_recommendation": {
+        "NLR": 111.37
+      }
     }
   },
   "channel_ids": {

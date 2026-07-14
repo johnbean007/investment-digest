@@ -10,7 +10,8 @@ Daily pipeline that monitors 7 YouTube investment channels, extracts transcripts
 | Venv | `~/.venvs/investment-digest` | Deliberately not in iCloud either. Same reason. |
 | launchd job | `~/Library/LaunchAgents/com.johnbean.investment-digest.plist` | Copied from `ops/`. |
 | Logs | `~/Library/Logs/investment-digest.{out,err}.log` | |
-| Secrets | `.env`, `yt_cookies.txt` | Gitignored. Never committed. |
+| API keys | macOS login keychain | Services `investment-digest-anthropic` and `investment-digest-youtube`. No plaintext `.env`. |
+| Cookies | `yt_cookies.txt` | Gitignored. Still plaintext, see known issues. |
 
 ## How it works
 
@@ -56,8 +57,15 @@ python3.12 -m venv ~/.venvs/investment-digest
 gh auth login          # GitHub.com, HTTPS, browser
 gh auth setup-git
 
-# 5. Secrets: create .env with ANTHROPIC_API_KEY and YOUTUBE_API_KEY,
-#    and export a fresh yt_cookies.txt. Neither is in the repo.
+# 5. Secrets into the login keychain. -T /usr/bin/security puts the security
+#    binary on the item ACL, so run.sh reads without an interactive prompt.
+#    A launchd agent cannot answer a keychain prompt, so this flag is required.
+security add-generic-password -U -a "$USER" -s investment-digest-anthropic \
+    -w "<anthropic-key>" -T /usr/bin/security
+security add-generic-password -U -a "$USER" -s investment-digest-youtube \
+    -w "<youtube-key>" -T /usr/bin/security
+
+#    Then export a fresh yt_cookies.txt into the repo root. Not in the repo.
 
 # 6. Schedule
 cp ~/investment-digest/ops/com.johnbean.investment-digest.plist ~/Library/LaunchAgents/
@@ -74,7 +82,7 @@ Running normally. Restored end to end after a laptop theft: new machine, new Hom
 ## Known issues and next steps
 
 - **YouTube cookies are stale and were on the stolen laptop.** `yt_cookies.txt` has not been re-exported. Recent runs succeeded only because every transcript came via the `youtube-transcript-api` primary path, which does not use cookies. The `yt-dlp` cookie fallback is therefore untested since the rebuild and will likely fail when next needed. Re-export.
-- **Secrets sit in plaintext in `.env`.** This is what turned a stolen laptop into a credential rotation exercise. Worth moving to the macOS Keychain and having `run.sh` read from there.
+- **Cookies are still plaintext on disk.** The API keys moved to the keychain on 14 July 2026, but `yt_cookies.txt` did not, because yt-dlp wants a file path. It is the more sensitive of the two, being live Google session access. Options if this matters: write the cookie file to a temp path from a keychain blob at run time and delete it afterwards, or accept the risk given the repo is no longer in a sync folder.
 - **Ticker mismatches from Claude.** yfinance 404s on `SPACEX`, `VERTIV`, `T1ENERGY`, `TOONE`, `NEBIUS` and similar. Claude sometimes returns company names or near-misses instead of real tickers. Cosmetic data-quality issue, worth a prompt tweak in `analysis_prompt.md`.
 - **No alerting on credential expiry.** Both the YouTube cookies and `ANTHROPIC_API_KEY` silently expired in July 2026 and nothing noticed until digest freshness visibly degraded. Still true.
 - **Output quality not independently validated.** Use `data/eval_transcripts/` (one video per week, transcript plus Claude's analysis side by side) to spot-check accuracy.
@@ -85,7 +93,7 @@ Running normally. Restored end to end after a laptop theft: new machine, new Hom
 
 ### 14 July 2026, rebuild after laptop theft
 
-Restored from iCloud onto a replacement Mac. Rotated the Anthropic and YouTube API keys, both of which had been sitting in plaintext on the stolen machine. Rebuilt the venv outside iCloud after the in-iCloud one hung on a bare import. Hit `Operation not permitted` from launchd, diagnosed it as TCC protection on `~/Documents`, and moved the repo to `~/investment-digest` rather than grant `/bin/bash` Full Disk Access. Confirmed a clean scheduled run end to end.
+Restored from iCloud onto a replacement Mac. Rotated the Anthropic and YouTube API keys, both of which had been sitting in plaintext on the stolen machine. Rebuilt the venv outside iCloud after the in-iCloud one hung on a bare import. Hit `Operation not permitted` from launchd, diagnosed it as TCC protection on `~/Documents`, and moved the repo to `~/investment-digest` rather than grant `/bin/bash` Full Disk Access. Moved both API keys into the login keychain and deleted `.env`, verified by running the job through launchd with no plaintext file present. Confirmed a clean scheduled run end to end.
 
 ### 6 July 2026
 

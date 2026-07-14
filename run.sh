@@ -10,10 +10,23 @@ SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 VENV_PYTHON="/Users/johnbean/.venvs/investment-digest/bin/python3"
 cd "$SCRIPT_DIR"
 
-# Load secrets (ANTHROPIC_API_KEY, YOUTUBE_API_KEY) from .env
-if [ -f "$SCRIPT_DIR/.env" ]; then
-    set -a && source "$SCRIPT_DIR/.env" && set +a
+# Secrets come from the login keychain, not a plaintext .env. Items were created
+# with -T /usr/bin/security so this reads without an interactive prompt, which a
+# launchd agent could not answer. To rotate a key:
+#   security add-generic-password -U -a "$USER" -s investment-digest-anthropic \
+#       -w "<new-key>" -T /usr/bin/security
+keychain_secret() {
+    security find-generic-password -a "$USER" -s "$1" -w 2>/dev/null
+}
+
+ANTHROPIC_API_KEY="$(keychain_secret investment-digest-anthropic)"
+YOUTUBE_API_KEY="$(keychain_secret investment-digest-youtube)"
+
+if [ -z "$ANTHROPIC_API_KEY" ] || [ -z "$YOUTUBE_API_KEY" ]; then
+    echo "FATAL: could not read API keys from keychain. Is the login keychain unlocked?" >&2
+    exit 1
 fi
+export ANTHROPIC_API_KEY YOUTUBE_API_KEY
 
 COOKIES="$SCRIPT_DIR/yt_cookies.txt"
 if [ -f "$COOKIES" ]; then

@@ -7,7 +7,7 @@ set -euo pipefail
 export PATH="/opt/homebrew/bin:/usr/bin:/bin:/usr/sbin:/sbin:$PATH"
 
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
-VENV_PYTHON="/Users/johnbean/Documents/Claude/Investment Projects/youtube-digest/venv/bin/python3"
+VENV_PYTHON="/Users/johnbean/.venvs/investment-digest/bin/python3"
 cd "$SCRIPT_DIR"
 
 # Load secrets (ANTHROPIC_API_KEY, YOUTUBE_API_KEY) from .env

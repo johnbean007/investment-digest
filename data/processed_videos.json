@@ -9870,6 +9870,69 @@
         "NVDA": 211.8,
         "AMD": 548.13
       }
+    },
+    "W9TAubhJFI0": {
+      "channel": "CouchInvestor",
+      "title": "PayPal Might Be Getting Acquired. Here's My Honest Take",
+      "upload_date": "20260715",
+      "url": "https://www.youtube.com/watch?v=W9TAubhJFI0",
+      "processed_at": "2026-07-15T14:58:55.655567",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NEBU",
+            "company_name": "Nebulus (inferred from context)",
+            "reason": "Mentioned as an alternative investment option the creator would consider buying if cutting bull spreads on PayPal and taking cash proceeds. Listed alongside SoFi as a potential deployment of capital.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "SOFI",
+            "company_name": "SoFi Technologies",
+            "reason": "Mentioned as an alternative investment option the creator would consider buying if cutting bull spreads on PayPal and taking cash proceeds. Listed alongside Nebulus as a potential deployment of capital.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "ASML",
+            "company_name": "ASML Holding N.V.",
+            "reason": "Delivered a blowout quarter with beats across the board on net sales (\u20ac9.3B vs \u20ac8.85B estimate), gross margin (54% vs 52% estimate), and EPS (\u20ac7.59 vs \u20ac6.90 estimate). Raised full-year fiscal 2026 guidance to \u20ac43-45B in net sales (from \u20ac38-39.3B). Strong order bookings through H1 2026 and nearly secured all EUV orders needed for 2027. Expected to benefit from Elon Musk's Terrafab project and the broader AI semiconductor cycle. Creator views the AI semiconductor story as far from over with major innovation needed to address AI power consumption and cost.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "PayPal acquisition by Stripe at $53 billion ($60.50 per share) is only an initial offer and likely not the final bid. The creator believes PayPal should command $70+ billion or $70+ per share given its $6B free cash flow generation, Venmo's monetization potential, 400M user base, and valuable assets like Braintree and PayPal checkout. However, management acceptance of this initial bid would signal weakness and inability to turn the company around. Shareholders should monitor for higher competing bids, though the deal timeline is uncertain and could take considerable time to close.",
+          "PayPal option holders who are significantly underwater (down 80-90%) should consider taking recovery gains if the acquisition offer drives short-term relief, as time decay will erode option value over the months before any deal completion, and higher bids may not provide enough additional upside to offset continued deterioration of option contracts.",
+          "While the AI semiconductor cycle appears strong based on ASML and other semiconductor equipment earnings, the creator cautioned that weaker companies in the AI and semiconductor space will likely be pulled up alongside quality names, creating potential overvaluation traps. Investors should be selective about which companies they hold in this sector."
+        ],
+        "tickers_mentioned": [
+          "PYPL",
+          "NEBU",
+          "SOFI",
+          "ASML",
+          "TSMC"
+        ]
+      },
+      "price_at_recommendation": {
+        "SOFI": 18.23,
+        "ASML": 1782.47
+      }
+    },
+    "Oex0NK33rxw": {
+      "channel": "The Traveling Trader",
+      "title": "\ud83d\udd34 Day Trading LIVE | PPI Inflation Report",
+      "upload_date": "20260715",
+      "url": "https://www.youtube.com/watch?v=Oex0NK33rxw",
+      "processed_at": "2026-07-15T14:59:06.272432",
+      "transcript_fails": 1,
+      "last_reason": "unavailable",
+      "terminal": true,
+      "skipped": "no transcript"
     }
   },
   "channel_ids": {

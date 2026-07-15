@@ -9761,6 +9761,33 @@
       "price_at_recommendation": {
         "NLR": 111.37
       }
+    },
+    "FmPXf0YhTyo": {
+      "channel": "Daniel Pronk",
+      "title": "I Just Bought $50,000 of this NEW Stock",
+      "upload_date": "20260714",
+      "url": "https://www.youtube.com/watch?v=FmPXf0YhTyo",
+      "processed_at": "2026-07-15T02:10:26.227845",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "ROAD",
+            "company_name": "Construction Partners, Inc.",
+            "reason": "Construction Partners is a road maintenance and construction company operating across eight states in the Southeast with a simple, proven, repeatable business model. The company has strong organic growth of 8% annually since IPO, with recurring revenue streams as roads need maintenance every 10-15 years. They are the main consolidator in a highly fragmented industry with 325 identified acquisition targets in existing states and up to 1,000 including vertical integration opportunities. Management projects 15% revenue CAGR to 2030 (reaching $6 billion) and 18% EBITDA CAGR (reaching $1.03 billion), achieving their 2027 guidance two years early in 2025 and historically sandbagging guidance. The stock is trading at 12.4x trailing twelve-month EBITDA, below its historical median of 15.1x, and at 16.8x free cash flow before growth expenses. The company operates local duopolies in its markets as either the #1 or #2 player, providing competitive moats. Management believes they can double the business size without leaving existing states, and there is potential for additional transformational acquisitions not modeled in current guidance.",
+            "when_to_buy": "After a 30% correction over the past month",
+            "target_price": "$310 by 2030 (optimistic DCF assuming 23% annual EBITDA growth and 15x exit multiple); $228 by 2030 (conservative DCF assuming 19% EBITDA growth and 13x exit multiple)",
+            "cautions": "The more conservative DCF still assumes the company will beat their guidance, which while historically true, is not guaranteed. The valuation relies heavily on management's guidance being sandbagged. Company is focused only on the Sunbelt region and has not disclosed specific expansion timelines into other US states or international markets."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": [
+          "ROAD"
+        ]
+      },
+      "price_at_recommendation": {
+        "ROAD": 97.35
+      }
     }
   },
   "channel_ids": {

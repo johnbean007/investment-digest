@@ -9788,6 +9788,88 @@
       "price_at_recommendation": {
         "ROAD": 97.35
       }
+    },
+    "hhVvBoX68Eg": {
+      "channel": "Jose Najarro Stocks",
+      "title": "IBM JUST GAVE AMAZING NEWS TO AI CHIP STOCK INVESTORS",
+      "upload_date": "20260715",
+      "url": "https://www.youtube.com/watch?v=hhVvBoX68Eg",
+      "processed_at": "2026-07-15T06:24:52.011077",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "ACLS",
+            "company_name": "Accelis Technologies (Air Test Systems)",
+            "reason": "Stock is up 30% after earnings and sitting at $93.90. The company has demonstrated strong execution by pivoting from weak EV/silicon carbide markets to AI accelerator testing, photonics, and memory markets. Bookings increased to $100 million from sub-$20 million just a few quarters ago. For fiscal 2027, the company expects 160-200% year-over-year growth based on current backlog and anticipated customer demand, not including new orders from prospective customers. The company completed successful benchmarks with leading AI accelerator suppliers and has moved to pilot production phase. Silicon carbide market is showing signs of recovery in Asia and new opportunities in energy storage and 800-volt data center platforms. The creator is 'super excited' about this stock and plans to do a deeper dive.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Stock is still down from its 52-week peak. Growth depends on execution of backlog conversion and continued demand from AI accelerator and photonics customers."
+          },
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Stock is up roughly 4% on the day. China has finally received clearance for H200 chip shipments to limited players, which opens a new market that Nvidia has not been able to serve for a while. This could represent an additional opportunity worth hundreds of millions to potentially over a billion dollars, expanding Nvidia's market reach significantly. The broader semiconductor industry is seeing bullish sentiment from IBM's preliminary earnings showing strong capex prioritization toward AI servers and hardware infrastructure. Additional bullish catalyst expected from TSMC earnings later in the week if they confirm increased capex for equipment players.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "China H200 shipments are currently limited to a few players, so initial impact may be modest. Full details expected during earnings call."
+          },
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices",
+            "reason": "Stock is up roughly 2% on the day. The creator expects AMD will likely benefit similarly to Nvidia from China's clearance for advanced chip shipments. AMD should be able to ship either the MI325 or MI350 chips, which are comparable to Nvidia's H200. The broader semiconductor industry is experiencing bullish sentiment from capex reallocation toward AI servers and infrastructure.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "IBM",
+            "company_name": "International Business Machines",
+            "reason": "Stock crashed 25% on preliminary earnings results. IBM provided significantly weaker guidance than expected, driven by product shortfalls in their software stack. Management explicitly stated 'we did not adapt, we did not move quickly enough' and acknowledged that 'numerous large deals failed to close on the timelines they expected.' Clients are prioritizing capex toward hardware (servers, storage, memory) over software deals due to supply constraint concerns and anticipated price increases. The CEO's specific mention of Claude's Mythos model as a driver for launching the Lightwell initiative suggests rapid AI evolution is forcing major business pivots. The creator found it 'insane' that a $200 billion company got hit this hard and noted the market may interpret this as early indication of SaaS apocalypse rather than just timeline shifts.",
+            "risk": "Stock currently trading around $217 after 25% single-day decline from a market cap of approximately $200 billion. While up 63% in the past year, the sharp decline suggests market confidence has been significantly shaken."
+          },
+          {
+            "ticker": "NOW",
+            "company_name": "ServiceNow",
+            "reason": "Stock was down approximately 5% on the day following IBM's disappointing earnings. Broader software sector weakness driven by capex prioritization toward hardware/AI infrastructure rather than software deals. The creator indicates this is likely a short-to-medium term pressure as major deals are being delayed or shifted out in timelines.",
+            "risk": null
+          },
+          {
+            "ticker": "ADBE",
+            "company_name": "Adobe",
+            "reason": "Stock was down approximately 4% on the day following IBM's disappointing earnings. Part of broader software sector weakness as clients redirect capex toward hardware infrastructure and AI server purchases rather than software solutions.",
+            "risk": null
+          }
+        ],
+        "key_warnings": [
+          "Short-term volatility expected in software stocks. IBM's earnings revealed that enterprise capex is being prioritized heavily toward hardware (AI servers, storage, memory) to secure supply and hedge against price increases, while software deals are being delayed or pushed out in timeline. The market is uncertain whether this represents temporary capex reprioritization or early signs of SaaS apocalypse as AI makes traditional enterprise software less valuable. IBM stock down 25% on one day demonstrates extreme downside risk in software when this narrative emerges.",
+          "Semiconductor equipment companies may see significant upside if TSMC confirms increased capex commitments in their upcoming earnings. Conversely, if TSMC does not signal continued strong capex, this removes a major near-term catalyst for equipment players like Air Test Systems.",
+          "Rapid AI model evolution (creator cites Claude Mythos as example) is forcing major business pivots even at $200+ billion companies like IBM. Future model releases from OpenAI and others could rapidly shift competitive dynamics and business models across the software and hardware ecosystem."
+        ],
+        "tickers_mentioned": [
+          "IBM",
+          "NOW",
+          "ADBE",
+          "PLTR",
+          "CrowdStrike",
+          "CRWD",
+          "PALO",
+          "FORT",
+          "AMD",
+          "NVDA",
+          "ACLS",
+          "TSMC"
+        ]
+      },
+      "price_at_recommendation": {
+        "ADBE": 220.78,
+        "NOW": 104.85,
+        "IBM": 217.07,
+        "ACLS": 142.24,
+        "NVDA": 211.8,
+        "AMD": 548.13
+      }
     }
   },
   "channel_ids": {

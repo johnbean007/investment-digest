@@ -9933,6 +9933,24 @@
       "last_reason": "unavailable",
       "terminal": true,
       "skipped": "no transcript"
+    },
+    "dD_sNQa-DIA": {
+      "channel": "Mr. FIRED Up Wealth",
+      "title": "The simplest way to build wealth actually works #VOO #money",
+      "upload_date": "20260715",
+      "url": "https://www.youtube.com/watch?v=dD_sNQa-DIA",
+      "processed_at": "2026-07-16T02:04:55.015541",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "The creator emphasizes that most people should simply buy and hold the S&P 500 (VOO) rather than attempt to pick individual stocks, as the average person cannot reliably outperform the index. The video warns against the mindset of expecting quick returns from individual stock picks, particularly those based on short-term momentum or tips from peers, which often leads to poor financial decisions driven by desperation rather than discipline."
+        ],
+        "tickers_mentioned": [
+          "VOO"
+        ]
+      },
+      "price_at_recommendation": {}
     }
   },
   "channel_ids": {

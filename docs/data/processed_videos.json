@@ -9951,6 +9951,43 @@
         ]
       },
       "price_at_recommendation": {}
+    },
+    "Y-TwHiHOQEM": {
+      "channel": "Jose Najarro Stocks",
+      "title": "Why Memory Stocks Are Selling Off Tonight!!",
+      "upload_date": "20260716",
+      "url": "https://www.youtube.com/watch?v=Y-TwHiHOQEM",
+      "processed_at": "2026-07-16T08:43:49.497844",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "ASML",
+            "company_name": "ASML Holding N.V.",
+            "reason": "ASML reported strong earnings with increased 4-year guidance and expects EUV and DUV equipment capacity to increase by 30% next year and 30% the year after. For 2027, equipment is already sold out, and 2028 is expected to follow suit. The creator views ASML as a critical bottleneck in the semiconductor supply chain that will extend the AI cycle longer. Because ASML can only produce a limited number of lithography machines per year while demand for AI chips is massive, supply will always remain constrained relative to demand. This supply constraint is bullish because it forces capital deployment to spread over multiple years, allowing time for AI innovation and new product development rather than immediate build-out completion. The creator believes this structure creates a sustained multiyear cycle.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "South Korea's Bank of Korea raised base rates by 25 basis points from 2.5% to 2.75%, the first hike in 3.5 years. This creates near-term volatility in memory and semiconductor stocks, particularly SK Hynix (down 11%) and Samsung Electronics (down 8%). However, the creator emphasizes this is primarily a short-term concern. Long-term impact should be minimal for non-Korea-based semiconductor companies, though SK Hynix and Samsung may face higher borrowing costs if they have variable-rate financing for fab construction.",
+          "Memory stocks and semiconductors are experiencing elevated volatility. SK Hynix is down nearly 20% from its year-to-date high (down 36% from peak) and Samsung Electronics is down nearly 12% from peak (down 30% from overall peak), though both are significantly up on a year-to-date basis depending on entry point.",
+          "While short-term bearish sentiment persists in the semiconductor sector due to the Korean rate hike and data center concerns, the creator notes that actual equipment players like ASML are delivering bullish guidance and earnings, suggesting opposite reactions from industry fundamentals versus market sentiment."
+        ],
+        "tickers_mentioned": [
+          "KOSPI",
+          "005930",
+          "000660",
+          "MU",
+          "ASML",
+          "NVDA",
+          "TSM"
+        ]
+      },
+      "price_at_recommendation": {
+        "ASML": 1815.27
+      }
     }
   },
   "channel_ids": {

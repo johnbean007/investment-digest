@@ -66,6 +66,21 @@ security add-generic-password -U -a "$USER" -s investment-digest-youtube \
     -w "<youtube-key>" -T /usr/bin/security
 
 #    Then export a fresh yt_cookies.txt into the repo root. Not in the repo.
+#    Export with the "Get cookies.txt LOCALLY" extension, Netscape format.
+#    Two traps, both hit on 16 July 2026:
+#      - Export FROM www.youtube.com, not google.com. The extension exports the
+#        current tab's domain. A google.com export looks plausible (it carries
+#        SID/HSID/SAPISID) but is useless: cookie domain matching means
+#        .google.com cookies are never sent to youtube.com.
+#      - The extension names the file www.yt_cookies.txt. Rename it.
+#    Verify before trusting it, rather than waiting for a silent fallback failure:
+#      python3 - <<'EOF'
+#      rows=[l.split("\t") for l in open("yt_cookies.txt") if not l.startswith("#") and l.strip()]
+#      names={p[5] for p in rows if len(p)>=7}
+#      print("domains:", {p[0] for p in rows if len(p)>=7})
+#      print("LOGIN_INFO present:", "LOGIN_INFO" in names)
+#      EOF
+#    Want: every domain .youtube.com, and LOGIN_INFO present.
 
 # 6. Schedule
 cp ~/investment-digest/ops/com.johnbean.investment-digest.plist ~/Library/LaunchAgents/
@@ -75,13 +90,15 @@ launchctl list | grep investment    # second column is last exit code, want 0
 
 `requirements.txt` pins `youtube-transcript-api==1.2.4`. Do not unpin it. The code uses the 1.x instance API (`YouTubeTranscriptApi(http_client=...)`). A 0.6.x install fails 100% of the time, silently.
 
-## Status as of 14 July 2026
+## Status as of 16 July 2026
 
-Running normally. Restored end to end after a laptop theft: new machine, new Homebrew, rebuilt venv, rotated Anthropic and YouTube API keys, re-authed GitHub, repo relocated out of iCloud, launchd job reinstalled and confirmed green (exit 0, pulled, analysed, committed, pushed).
+Fully restored and running. Rebuild after a laptop theft: new machine, new Homebrew, rebuilt venv, rotated Anthropic and YouTube API keys into the keychain, re-authed GitHub, repo relocated out of iCloud, launchd job reinstalled and confirmed green (exit 0, pulled, analysed, committed, pushed).
+
+Cookies re-exported 16 July and the `yt-dlp` fallback verified end to end for the first time since the rebuild: it pulled real subtitles using the cookie file. Every credential from the stolen laptop has now been rotated or invalidated.
 
 ## Known issues and next steps
 
-- **YouTube cookies are stale and were on the stolen laptop.** `yt_cookies.txt` has not been re-exported. Recent runs succeeded only because every transcript came via the `youtube-transcript-api` primary path, which does not use cookies. The `yt-dlp` cookie fallback is therefore untested since the rebuild and will likely fail when next needed. Re-export.
+- **The cookie fallback fails silently, and has broken three separate ways.** Expired cookies (6 July), invalidated by a Google "sign out all sessions" (14 July), and an export from the wrong domain (16 July). None of these surfaced in normal operation, because transcripts come via the `youtube-transcript-api` primary path, which does not touch cookies. The pipeline looks perfectly healthy with a dead fallback. This is the real issue, not any individual breakage: **`fetch_transcript_ytdlp` logs a warning and moves on**, so the only symptom is a slow decline in coverage. Worth failing loudly, or asserting cookie validity on startup.
 - **Cookies are still plaintext on disk.** The API keys moved to the keychain on 14 July 2026, but `yt_cookies.txt` did not, because yt-dlp wants a file path. It is the more sensitive of the two, being live Google session access. Options if this matters: write the cookie file to a temp path from a keychain blob at run time and delete it afterwards, or accept the risk given the repo is no longer in a sync folder.
 - **Ticker mismatches from Claude.** yfinance 404s on `SPACEX`, `VERTIV`, `T1ENERGY`, `TOONE`, `NEBIUS` and similar. Claude sometimes returns company names or near-misses instead of real tickers. Cosmetic data-quality issue, worth a prompt tweak in `analysis_prompt.md`.
 - **No alerting on credential expiry.** Both the YouTube cookies and `ANTHROPIC_API_KEY` silently expired in July 2026 and nothing noticed until digest freshness visibly degraded. Still true.
@@ -94,6 +111,10 @@ Running normally. Restored end to end after a laptop theft: new machine, new Hom
 ### 14 July 2026, rebuild after laptop theft
 
 Restored from iCloud onto a replacement Mac. Rotated the Anthropic and YouTube API keys, both of which had been sitting in plaintext on the stolen machine. Rebuilt the venv outside iCloud after the in-iCloud one hung on a bare import. Hit `Operation not permitted` from launchd, diagnosed it as TCC protection on `~/Documents`, and moved the repo to `~/investment-digest` rather than grant `/bin/bash` Full Disk Access. Moved both API keys into the login keychain and deleted `.env`, verified by running the job through launchd with no plaintext file present. Confirmed a clean scheduled run end to end.
+
+### 16 July 2026, cookies re-exported
+
+Google sign-out (closing the theft exposure) also invalidated the local cookie file, as expected. First re-export was taken from google.com rather than youtube.com: it carried real Google auth cookies but every entry was `.google.com`, so none would ever be sent to youtube.com. Second export from youtube.com was correct, 21 cookies with `LOGIN_INFO`. Verified by fetching an account-only page (`LOGGED_IN:true`) and then by replicating the pipeline's exact yt-dlp call, which pulled real subtitles. A `429` appeared when the test requested a dozen subtitle languages, which is the documented burst limit and not a fault; the pipeline requests one.
 
 ### 6 July 2026
 

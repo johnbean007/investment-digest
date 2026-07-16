@@ -9988,6 +9988,54 @@
       "price_at_recommendation": {
         "ASML": 1815.27
       }
+    },
+    "CzoZBFFeIwQ": {
+      "channel": "CouchInvestor",
+      "title": "Chip Stocks Are Crashing After the Best Earnings Report I've Seen",
+      "upload_date": "20260716",
+      "url": "https://www.youtube.com/watch?v=CzoZBFFeIwQ",
+      "processed_at": "2026-07-16T16:22:16.124901",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NEBU",
+            "company_name": "Nebius",
+            "reason": "The creator views Nebius as a company exceeding expectations and executing extremely well. The new asset-light infrastructure partnership model is not a pivot but an acceleration of their core business, allowing them to scale much faster by partnering with existing data center operators who need their software stack. The creator believes this positions them to generate tens of billions in revenue over the next 12-13 months. The company brings proven demand to infrastructure partners, allowing partners to generate returns immediately as capacity goes live. This is bullish because it diversifies revenue streams while maintaining their core software-centric thesis that has already proven successful.",
+            "when_to_buy": "on dips, specifically mentioned around $190 per share",
+            "target_price": null,
+            "cautions": "The creator already has a huge position in Nebius but still sees opportunity to buy more. Current market sentiment is negative due to headline-driven moves, so patience may be required."
+          },
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices",
+            "reason": "The creator is willing to buy the dip on AMD based on the company's huge market cap potential and strong positioning in the AI infrastructure space. With excellent earnings expected across the semiconductor space due to continued AI demand and capex increases from key players like TSMC, AMD is positioned to benefit. The creator notes that if AMD drops way below $500 per share, it would be an attractive entry point given the company's potential.",
+            "when_to_buy": "if it drops significantly below $500 per share",
+            "target_price": null,
+            "cautions": "The creator does not currently appear to be adding to AMD positions at current prices, suggesting some caution despite the bullish thesis."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Memory pricing euphoria may be peaking - Coreweave is exploring hedging strategies (put options) against future memory price declines, suggesting industry players expect memory and DRAM pricing to normalize after current spikes. However, Evercore ISI data indicates memory supply will remain tight through 2027, so this is a longer-term concern rather than immediate bearish signal.",
+          "Sentiment-driven selloff despite strong fundamentals - Chip stocks are experiencing significant pre-market declines (5%+ daily moves) despite excellent earnings reports from TSMC, ASML, and other key players. This appears to be headline-driven (Coreweave hedging, post-Nvidia narratives) rather than fundamentals-based, suggesting volatility will continue during earnings season.",
+          "Post-Nvidia narrative creating false bearish sentiment - Headlines about Japanese firms testing alternative chips (Rebellion NPUs) and Penguin Solutions offering memory optimization are being framed as threats to Nvidia dominance. However, these solutions work on top of Nvidia's stack and are complementary rather than replacements, suggesting headlines may be misleading investors into selling."
+        ],
+        "tickers_mentioned": [
+          "ASML",
+          "TSMC",
+          "MU",
+          "INTC",
+          "NEBU",
+          "CRVW",
+          "NVDA",
+          "AMD",
+          "DELL",
+          "PNGW"
+        ]
+      },
+      "price_at_recommendation": {
+        "AMD": 507.17
+      }
     }
   },
   "channel_ids": {

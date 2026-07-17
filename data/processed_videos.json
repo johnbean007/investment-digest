@@ -10350,6 +10350,83 @@
         "COST": 946.59,
         "VZ": 44.46
       }
+    },
+    "0HNPPi9HZTg": {
+      "channel": "Daniel Pronk",
+      "title": "Why I Don't Invest in the S&P 500 #ad #customindexing #stocks",
+      "upload_date": "20260717",
+      "url": "https://www.youtube.com/watch?v=0HNPPi9HZTg",
+      "processed_at": "2026-07-17T17:30:11.835831",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon",
+            "reason": "Included in the creator's Fortress Index, which is an equally weighted index of 33 durable companies with wide moats that have a high likelihood of growing for decades. Amazon was explicitly listed as one of the stocks the creator has chosen to own.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "COST",
+            "company_name": "Costco Wholesale Corporation",
+            "reason": "Included in the creator's Fortress Index, which is an equally weighted index of 33 durable companies with wide moats that have a high likelihood of growing for decades. Costco was explicitly listed as one of the stocks the creator has chosen to own.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet Inc. (Google)",
+            "reason": "Included in the creator's Fortress Index, which is an equally weighted index of 33 durable companies with wide moats that have a high likelihood of growing for decades. Google was explicitly listed as one of the stocks the creator has chosen to own.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "CP",
+            "company_name": "Canadian Pacific Railway Limited",
+            "reason": "Included in the creator's Fortress Index, which is an equally weighted index of 33 durable companies with wide moats that have a high likelihood of growing for decades. CP Rail was explicitly listed as one of the stocks the creator has chosen to own.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "VZ",
+            "company_name": "Verizon Communications Inc.",
+            "reason": "The creator explicitly stated there are companies in the S&P 500 that they do not want to own in their portfolio, specifically naming Verizon as an example of a stock they are avoiding.",
+            "risk": null
+          },
+          {
+            "ticker": "TSLA",
+            "company_name": "Tesla Inc.",
+            "reason": "The creator explicitly stated there are companies in the S&P 500 that they do not want to own in their portfolio, specifically naming Tesla as an example of a stock they are avoiding.",
+            "risk": null
+          }
+        ],
+        "key_warnings": [
+          "The S&P 500 is becoming increasingly concentrated, with the Magnificent 7 stocks now representing 33% of the index, meaning it is no longer the diversified index it once was.",
+          "The semiconductor industry now comprises 19% of the S&P 500, creating significant sector concentration risk within the broader index."
+        ],
+        "tickers_mentioned": [
+          "AMZN",
+          "COST",
+          "GOOGL",
+          "CP",
+          "VZ",
+          "TSLA"
+        ]
+      },
+      "price_at_recommendation": {
+        "AMZN": 248.31,
+        "TSLA": 382.64,
+        "CP": 93.38,
+        "COST": 936.79,
+        "GOOGL": 347.06,
+        "VZ": 43.91
+      }
     }
   },
   "channel_ids": {

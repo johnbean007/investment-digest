@@ -10273,6 +10273,83 @@
         ]
       },
       "price_at_recommendation": {}
+    },
+    "F0hC9Bow6Do": {
+      "channel": "Daniel Pronk",
+      "title": "Why I Don't Invest in the S&P 500 #ad #customindexing #stocks",
+      "upload_date": "20260717",
+      "url": "https://www.youtube.com/watch?v=F0hC9Bow6Do",
+      "processed_at": "2026-07-17T16:24:16.396184",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon",
+            "reason": "Included in the creator's Fortress Index, which is an equally weighted index of 33 durable companies with wide moats that have a high likelihood of growing for decades. Amazon is presented as a company the creator wants to own in their portfolio.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "COST",
+            "company_name": "Costco",
+            "reason": "Included in the creator's Fortress Index, which is an equally weighted index of 33 durable companies with wide moats that have a high likelihood of growing for decades. Costco is presented as a company the creator wants to own in their portfolio.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "GOOGL",
+            "company_name": "Google/Alphabet",
+            "reason": "Included in the creator's Fortress Index, which is an equally weighted index of 33 durable companies with wide moats that have a high likelihood of growing for decades. Google is presented as a company the creator wants to own in their portfolio.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "CP",
+            "company_name": "Canadian Pacific Railway",
+            "reason": "Included in the creator's Fortress Index, which is an equally weighted index of 33 durable companies with wide moats that have a high likelihood of growing for decades. CP Rail is presented as a company the creator wants to own in their portfolio.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "VZ",
+            "company_name": "Verizon",
+            "reason": "The creator explicitly stated that Verizon is a company they do not want to own in their portfolio, which is why they prefer custom indexing that allows them to remove stocks they do not wish to hold.",
+            "risk": null
+          },
+          {
+            "ticker": "TSLA",
+            "company_name": "Tesla",
+            "reason": "The creator explicitly stated that Tesla is a company they do not want to own in their portfolio, which is why they prefer custom indexing that allows them to remove stocks they do not wish to hold.",
+            "risk": null
+          }
+        ],
+        "key_warnings": [
+          "The S&P 500 is becoming dangerously concentrated with the Magnificent Seven now representing 33% of the index and the semiconductor industry alone at 19%. This concentration means the S&P 500 is no longer the diversified index it once was, presenting significant concentration risk to investors seeking broad diversification.",
+          "High concentration in a handful of companies and industries within the S&P 500 creates systematic risk, as the performance of the index becomes increasingly dependent on the performance of a small number of mega-cap stocks rather than being spread across diverse holdings."
+        ],
+        "tickers_mentioned": [
+          "AMZN",
+          "COST",
+          "GOOGL",
+          "CP",
+          "VZ",
+          "TSLA"
+        ]
+      },
+      "price_at_recommendation": {
+        "CP": 93.34,
+        "AMZN": 248.38,
+        "GOOGL": 346.2,
+        "TSLA": 379.12,
+        "COST": 946.59,
+        "VZ": 44.46
+      }
     }
   },
   "channel_ids": {

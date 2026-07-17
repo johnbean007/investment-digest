@@ -10036,6 +10036,243 @@
       "price_at_recommendation": {
         "AMD": 507.17
       }
+    },
+    "AbblEI8Uwdk": {
+      "channel": "Mr. FIRED Up Wealth",
+      "title": "25+ Years Investing Through Every Crash \u2014 Here's My Honest Take on the Sell-Off!",
+      "upload_date": "20260716",
+      "url": "https://www.youtube.com/watch?v=AbblEI8Uwdk",
+      "processed_at": "2026-07-17T09:32:00.863825",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "ORCL",
+            "company_name": "Oracle Corporation",
+            "reason": "The creator is looking to buy more Oracle and wants to increase the position from 1.43% to around 3% of the portfolio. Oracle is down and presents a better buying opportunity at current prices compared to higher valuations.",
+            "when_to_buy": "at current depressed prices; creator is actively looking to accumulate",
+            "target_price": null,
+            "cautions": "Currently down 11.96% in the portfolio; creator is in a taxable brokerage account managing tax implications"
+          },
+          {
+            "ticker": "MICRON",
+            "company_name": "Micron Technology",
+            "reason": "The creator believes the fundamentals support Micron at higher prices and is in the camp that there is a good chance earnings will be solid with the stock going higher with time. The 200-day simple moving average is around $475, and the stock could present an opportunity depending on risk profile and time horizon. The creator thinks there is a decent chance to see it pull back to the 200-day moving average level around $473.",
+            "when_to_buy": "potentially near the 200-day simple moving average around $473",
+            "target_price": null,
+            "cautions": "No guarantees; dependent on whether the HBM cycle continues; currently overweight at 6.39% of portfolio; already up substantially at 1,000%"
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "AQST",
+            "company_name": "Aqua Metals",
+            "reason": "Listed as one of the top 20 hype stocks with extreme momentum that was due for a pullback. The stock is down 75% and exemplifies the type of speculative momentum names the creator warns against.",
+            "risk": "Down 75% from recent highs; extreme volatility and speculative nature"
+          },
+          {
+            "ticker": "AAOI",
+            "company_name": "Applied Optoelectronics",
+            "reason": "Described as a very speculative, high-risk stock that is down 50% overall and down another 9.78% on the day. While the creator notes risk-reward is better than at $233 per share, it remains a speculative play that the creator is not actively recommending.",
+            "risk": "Down 50% from highs; still speculative; could potentially fall further to support levels around $88 or the 200-day moving average around $86"
+          },
+          {
+            "ticker": "OLO",
+            "company_name": "Olo Inc.",
+            "reason": "The creator explicitly stated 'Olo has no revenue, so I'm not buying the stock. It doesn't really make sense for how I invest.' This stock is down 76-79% and exemplifies the type of unprofitable hype stocks the creator avoids.",
+            "risk": "Down 76-79% from highs; no revenue generation; high-risk speculative play"
+          },
+          {
+            "ticker": "COREWEAVE",
+            "company_name": "CoreWeave",
+            "reason": "While acknowledging people can own this stock, the creator explicitly did not recommend it when it was $150 per share and is not covering it as a best stock to buy. The creator avoids recommending hype stocks at all-time highs that are being FOMO chased by retail investors.",
+            "risk": "Down 50% from $150 per share to $74; the creator prefers to buy against the grain before hype, not chase momentum"
+          },
+          {
+            "ticker": "RKLB",
+            "company_name": "Rocket Lab USA Inc.",
+            "reason": "Despite the creator owning this stock and being up significantly, the stock is still expensive and the creator would not chase it at $150 per share. Rocket Lab exemplifies a hype stock that had massive momentum, pulled back 50% from highs, but remains speculative and expensive relative to fundamentals.",
+            "risk": "Down 53% from all-time highs; still trading at $66 with the 200-day moving average at $45; the creator explicitly states buying closer to $50 makes more sense than at $150"
+          },
+          {
+            "ticker": "SOUNDHOUND",
+            "company_name": "SoundHound AI",
+            "reason": "Listed among the top 20 hype stocks that experienced extreme pullbacks. Down approximately 70% from recent highs, exemplifying the type of momentum-driven speculative plays the creator warns against.",
+            "risk": "Down approximately 70% from highs; extreme volatility"
+          },
+          {
+            "ticker": "HIMS",
+            "company_name": "Hims & Hers Health Inc.",
+            "reason": "Listed as one of the top 20 hype stocks the creator warned about being due for a pullback. Down 49% from highs, representing the type of momentum stocks that experienced excessive valuations.",
+            "risk": "Down 49% from highs; was over-hyped at peak valuations"
+          },
+          {
+            "ticker": "PALANTIR",
+            "company_name": "Palantir Technologies",
+            "reason": "Despite the creator buying at $10 and recommending it when it went to $200, the creator explicitly told investors it was overvalued and it came back down. The creator does not like chasing Palantir at $200 per share when fundamentals and technicals don't justify the price. It demonstrates chasing hype at all-time highs is poor strategy.",
+            "risk": "Down from $200 per share highs; the creator warned it was overvalued; while it could return to all-time highs, it represents poor entry point for new buyers"
+          }
+        ],
+        "key_warnings": [
+          "The creator warns against FOMO chasing momentum stocks and hype stocks with massive run-ups. Most people on social media should just buy an S&P 500 fund rather than chase individual hype stocks like those in the top 20 that have fallen 40-79%. The creator emphasizes most people are traders (99%) on social media, and this speculative approach rarely works long-term.",
+          "The creator cautions against buying high-quality companies when they are at all-time highs with air pockets in technicals and when valuations don't make fundamental sense. Examples include Rocket Lab at $150, Palantir at $200, and Coreweave at $150. The proper investment approach is to buy before the masses with low cost basis, not chase after dramatic run-ups.",
+          "Technology stocks are constantly disrupted, meaning investment theses and narratives can change rapidly. The creator emphasizes this is 'very hard' and that buy-and-hold must be coupled with continuous monitoring. The narrative that justified a purchase at one price point may no longer apply at higher prices.",
+          "The creator notes that as of the video date (July 16th), many of the top 20 hype stocks from July 12th have experienced severe selloffs (down 42-79%), indicating these momentum plays are extremely risky for retail investors who buy near peaks."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "AMD",
+          "ORCL",
+          "SNOW",
+          "TTD",
+          "RKLB",
+          "AAOI",
+          "AQST",
+          "NAVT",
+          "ALAB",
+          "MRVL",
+          "MU",
+          "PAYC",
+          "CELH",
+          "GITL",
+          "OLO",
+          "SOUNDHOUND",
+          "ONDS",
+          "HIMS",
+          "INQ",
+          "IR",
+          "ESTC",
+          "TE",
+          "FCEL",
+          "SFI",
+          "COREWEAVE",
+          "PALANTIR",
+          "SMH"
+        ]
+      },
+      "price_at_recommendation": {
+        "RKLB": 67.35,
+        "AAOI": 100.24,
+        "AQST": 3.94,
+        "HIMS": 33.68,
+        "ORCL": 124.21
+      }
+    },
+    "kV3PypeqOoM": {
+      "channel": "Daniel Pronk",
+      "title": "Netflix Stock is Crashing - What You Need to know #NFLX #Stocks",
+      "upload_date": "20260716",
+      "url": "https://www.youtube.com/watch?v=kV3PypeqOoM",
+      "processed_at": "2026-07-17T09:32:11.106140",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [
+          {
+            "ticker": "NFLX",
+            "company_name": "Netflix Inc.",
+            "reason": "Netflix stock is down roughly 9% in after-hours trading following second quarter earnings results and is down approximately 50% from its all-time highs. The company reported continued decelerated revenue growth, and competitors appear to be doing a better job growing their business. Investors are clearly not excited about the stock and the most recent earnings report.",
+            "risk": "Stock is down 50% from all-time highs; continued revenue growth deceleration indicates potential further downside."
+          }
+        ],
+        "key_warnings": [
+          "Streaming industry facing competitive pressures with Netflix losing market share to competitors who are executing better growth strategies. Decelerated revenue growth across the sector suggests potential market saturation or shifting consumer preferences."
+        ],
+        "tickers_mentioned": [
+          "NFLX"
+        ]
+      },
+      "price_at_recommendation": {
+        "NFLX": 74.35
+      }
+    },
+    "q7nb3BbMMXA": {
+      "channel": "Daniel Pronk",
+      "title": "Netflix Stock is Crashing - What You Need to Know",
+      "upload_date": "20260716",
+      "url": "https://www.youtube.com/watch?v=q7nb3BbMMXA",
+      "processed_at": "2026-07-17T09:32:30.015562",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms Inc.",
+            "reason": "The creator states Meta is trading for under 20 times forward earnings, growing faster than Netflix, much more diversified, has higher growth potential, and possesses much stronger moats. In the DCF analysis, if Meta can grow its operating cash flows by at least 15% annually and trade for 14 price to operating cash flow (below historical averages), it could produce a 16.4% compounded annual growth rate. The creator explicitly states Meta is much higher quality than Netflix and has chosen to purchase Meta in their portfolio instead of Netflix.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "MSFT",
+            "company_name": "Microsoft Corporation",
+            "reason": "The creator states Microsoft is trading for under 20 times forward earnings, growing faster than Netflix, much more diversified, has higher quality business, and possesses stronger moats. In the DCF analysis, if Microsoft grows its operating cash flow by about 13% annually and trades for 20 times operating cash flow (below historical averages and below analyst guidance), it could produce a 19% compounded annual growth rate. The creator explicitly compares it favorably to Netflix across multiple dimensions and considers it a higher quality investment.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon.com Inc.",
+            "reason": "The creator states Amazon is currently very cheap in the market and has chosen to purchase Amazon in their portfolio. Amazon is outperforming Netflix in streaming market share gains (0.4% gain versus Netflix's 0.2%), and the creator considers it a better quality business with stronger moats compared to Netflix.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "NFLX",
+            "company_name": "Netflix Inc.",
+            "reason": "The creator identifies that Netflix's business is consistently decelerating across all regions and metrics. Revenue growth has fallen from 17.6% four quarters ago to a forecasted 11.7%, representing a 5.5% deceleration. The stock has already fallen 50% from all-time highs and is down 9% in after-hours trading. While the creator believes the stock may be fairly to undervalued based on DCF analysis (potentially trading at $68 versus fair value of $75-$85), they explicitly state they would not own it because Meta, Microsoft, and Amazon are much higher quality, growing faster, more diversified, and offering better prices and future return potential. The creator does not personally own Netflix and sees no compelling reason to own it over superior alternatives.",
+            "risk": "The creator values the stock at $75-$85 per share in fair value scenarios, suggesting it may decline further if growth continues to decelerate below 10-12% annually or if multiple compression accelerates. Current trading at $68 in after-hours."
+          }
+        ],
+        "key_warnings": [
+          "Netflix's business is experiencing deceleration across all geographic regions (Europe down to 11% from 16%, Latin America down to 16% from 23%, Asia Pacific down to 18% from 23%), indicating a company-wide growth slowdown rather than isolated to specific markets. This suggests the streaming market is maturing globally.",
+          "The streaming market is becoming increasingly competitive with Amazon and YouTube outperforming Netflix in market share gains. YouTube gained 1.7% market share and Amazon gained 0.4% while Netflix gained only 0.2% in the past year, suggesting competitors are executing better strategies.",
+          "Netflix's valuation multiples are compressing as growth decelerates. The creator states that multiples above 25-30x earnings no longer seem justified for Netflix, and the business should trade at 20-23x PE, reflecting its transition from high-growth to mature, slower-growth company.",
+          "Watch time metrics are concerning with only 2% year-over-year growth while the company is presumably adding members, suggesting either slowing membership growth or declining per-person watch time. Netflix has stopped reporting detailed membership metrics, which the creator views as a negative signal.",
+          "Free cash flow declined roughly $700 million year-over-year in Q2, a concerning trend despite strong operating margins, indicating potential cash generation challenges ahead."
+        ],
+        "tickers_mentioned": [
+          "NFLX",
+          "META",
+          "MSFT",
+          "AMZN",
+          "GOOGL"
+        ]
+      },
+      "price_at_recommendation": {
+        "AMZN": 249.89,
+        "META": 664.54,
+        "MSFT": 401.1,
+        "NFLX": 74.35
+      }
+    },
+    "GZxvTI5Sf3E": {
+      "channel": "Jose Najarro Stocks",
+      "title": "TSMC JUST SAVED AI STOCKS (And The Market Missed It)!",
+      "upload_date": "20260717",
+      "url": "https://www.youtube.com/watch?v=GZxvTI5Sf3E",
+      "processed_at": "2026-07-17T09:32:41.497738",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Market sell-off in semiconductor stocks (TSMC down 2%, Nvidia 2%, AMD and Broadcom and Intel down over 5%, CoreWeave 5%, Nebia 13%, Micron down nearly 6%) despite bullish TSMC earnings, driven by Netflix earnings miss and fears about overall earnings quality. However, creator views this as a buying opportunity rather than a reason to avoid the sector.",
+          "TSMC CEO warns that not all customer demand claims are truthful \u2014 customers may claim they need infinite supply when actual requirements are less. TSMC is now verifying customer capex plans and data center construction to prevent building on phantom demand. This disciplined approach protects against inventory buildup but also means the company will only supply X amount of chips, constraining downstream spending."
+        ],
+        "tickers_mentioned": [
+          "TSMC",
+          "NVDA",
+          "AMD",
+          "BROADCOM",
+          "INTC",
+          "CORW",
+          "NEBU",
+          "MU",
+          "NFLX"
+        ]
+      },
+      "price_at_recommendation": {}
     }
   },
   "channel_ids": {

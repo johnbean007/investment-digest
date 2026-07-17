@@ -11,7 +11,9 @@ Daily pipeline that monitors 7 YouTube investment channels, extracts transcripts
 | launchd job | `~/Library/LaunchAgents/com.johnbean.investment-digest.plist` | Copied from `ops/`. |
 | Logs | `~/Library/Logs/investment-digest.{out,err}.log` | |
 | API keys | macOS login keychain | Services `investment-digest-anthropic` and `investment-digest-youtube`. No plaintext `.env`. |
-| Cookies | `yt_cookies.txt` | Gitignored. Still plaintext, see known issues. |
+| Cookies | `yt_cookies.txt` (repo root) | Gitignored. Re-exported and fallback verified 16 July 2026. Still plaintext, see known issues. |
+
+Note for future sessions: the repo is **not** under `~/Documents/Claude/Investment Projects` any more. It moved on 14 July 2026 and only the Obsidian notes (`Daily Digests`, `Private investing`) remain there. Reasons below.
 
 ## How it works
 
@@ -96,25 +98,48 @@ Fully restored and running. Rebuild after a laptop theft: new machine, new Homeb
 
 Cookies re-exported 16 July and the `yt-dlp` fallback verified end to end for the first time since the rebuild: it pulled real subtitles using the cookie file. Every credential from the stolen laptop has now been rotated or invalidated.
 
+12 digests published unattended between 14 and 16 July, across sleeps and reboots, with no gaps in `data/digests/`.
+
+### Quick health check
+
+Run this first in a new session. It answers "is it actually working" in one go.
+
+```bash
+launchctl list | grep investment          # want second column (last exit) = 0
+git -C ~/investment-digest status --short # want empty
+git -C ~/investment-digest fetch -q origin && \
+  git -C ~/investment-digest rev-list --left-right --count origin/main...main   # want 0 0
+tail -3 ~/Library/Logs/investment-digest.out.log
+```
+
+`data/latest.json` should be under ~1 hour old. If it is stale but launchd says exit 0, the pipeline is running and finding nothing new, which is normal outside the channels' posting hours. If launchd shows a non-zero exit, read `~/Library/Logs/investment-digest.err.log` first.
+
 ## Known issues and next steps
 
 - **The cookie fallback fails silently, and has broken three separate ways.** Expired cookies (6 July), invalidated by a Google "sign out all sessions" (14 July), and an export from the wrong domain (16 July). None of these surfaced in normal operation, because transcripts come via the `youtube-transcript-api` primary path, which does not touch cookies. The pipeline looks perfectly healthy with a dead fallback. This is the real issue, not any individual breakage: **`fetch_transcript_ytdlp` logs a warning and moves on**, so the only symptom is a slow decline in coverage. Worth failing loudly, or asserting cookie validity on startup.
 - **Cookies are still plaintext on disk.** The API keys moved to the keychain on 14 July 2026, but `yt_cookies.txt` did not, because yt-dlp wants a file path. It is the more sensitive of the two, being live Google session access. Options if this matters: write the cookie file to a temp path from a keychain blob at run time and delete it afterwards, or accept the risk given the repo is no longer in a sync folder.
 - **Ticker mismatches from Claude.** yfinance 404s on `SPACEX`, `VERTIV`, `T1ENERGY`, `TOONE`, `NEBIUS` and similar. Claude sometimes returns company names or near-misses instead of real tickers. Cosmetic data-quality issue, worth a prompt tweak in `analysis_prompt.md`.
-- **No alerting on credential expiry.** Both the YouTube cookies and `ANTHROPIC_API_KEY` silently expired in July 2026 and nothing noticed until digest freshness visibly degraded. Still true.
+- **No alerting on credential expiry.** Both the YouTube cookies and `ANTHROPIC_API_KEY` silently expired in July 2026 and nothing noticed until digest freshness visibly degraded. Still true. Same root cause as the cookie item above: nothing in this pipeline fails loudly.
+- **`generated_at` is naive local time.** `data/latest.json` writes `generated_at` with no UTC offset while `run.sh` logs in UTC, so on BST the timestamp reads an hour ahead of the run that produced it. Harmless now, confusing later: the field is served to the browser, and when BST ends in October the apparent offset changes. Write it as UTC with an offset, or as ISO-8601 with `Z`.
 - **Output quality not independently validated.** Use `data/eval_transcripts/` (one video per week, transcript plus Claude's analysis side by side) to spot-check accuracy.
 - **Re-check the three "no transcript" channels** (CouchInvestor, The Traveling Trader, Mr FIRED Up Wealth). The original diagnosis (creators do not enable captions) predates the version-mismatch fix, so it may not have been the real cause.
-- **`BATCH_SIZE=5` and the hourly cadence may need tuning** once there are a few days of steady-state data.
+- **`BATCH_SIZE=5` and the hourly cadence are now tunable.** This was blocked on having steady-state data. Three days now exist (14 to 16 July, 12 runs). Nobody has looked at it yet. The question is whether 5 per hour is leaving throughput on the table or still occasionally tripping the burst limit; `data/monitor.log` has the evidence.
 
 ## Session log
 
-### 14 July 2026, rebuild after laptop theft
-
-Restored from iCloud onto a replacement Mac. Rotated the Anthropic and YouTube API keys, both of which had been sitting in plaintext on the stolen machine. Rebuilt the venv outside iCloud after the in-iCloud one hung on a bare import. Hit `Operation not permitted` from launchd, diagnosed it as TCC protection on `~/Documents`, and moved the repo to `~/investment-digest` rather than grant `/bin/bash` Full Disk Access. Moved both API keys into the login keychain and deleted `.env`, verified by running the job through launchd with no plaintext file present. Confirmed a clean scheduled run end to end.
+Newest first.
 
 ### 16 July 2026, cookies re-exported
 
 Google sign-out (closing the theft exposure) also invalidated the local cookie file, as expected. First re-export was taken from google.com rather than youtube.com: it carried real Google auth cookies but every entry was `.google.com`, so none would ever be sent to youtube.com. Second export from youtube.com was correct, 21 cookies with `LOGIN_INFO`. Verified by fetching an account-only page (`LOGGED_IN:true`) and then by replicating the pipeline's exact yt-dlp call, which pulled real subtitles. A `429` appeared when the test requested a dozen subtitle languages, which is the documented burst limit and not a fault; the pipeline requests one.
+
+### 14 July 2026, rebuild after laptop theft
+
+Laptop stolen; everything survived because `~/Documents` was iCloud-synced, but the replacement Mac had "Desktop & Documents" sync off, so `~/Documents` looked empty. Turning sync on restored the lot.
+
+Rotated the Anthropic and YouTube API keys, both of which had been sitting in plaintext on the stolen machine. Rebuilt the venv outside iCloud after the in-iCloud one hung on a bare import for over 120s. Hit `Operation not permitted` from launchd, diagnosed it as TCC protection on `~/Documents`, and moved the repo to `~/investment-digest` rather than grant `/bin/bash` Full Disk Access. Moved both API keys into the login keychain and deleted `.env`, verified by running the job through launchd with no plaintext file present. Deleted the superseded `youtube-digest` v1 folder (checked first: all 5 of its processed videos were already among v2's 145, and nothing referenced it) which also removed a second stale cookie file.
+
+Also corrected the README, which still claimed GitHub Actions ran every 2 hours. That had been reversed in `c5208b9` on 8 July, two days after the 6 July entry below was written. Worth noting as a pattern: the doc drifted within 48 hours of being written.
 
 ### 6 July 2026
 

@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """
 Investment Digest Pipeline
-Runs daily via GitHub Actions. Checks configured YouTube channels for new videos,
-extracts transcripts, analyses for stock recommendations, enriches with market data,
-and writes structured JSON for the web frontend.
+Runs hourly via launchd on the Mac (see ops/ and README). Checks configured YouTube
+channels for new videos, extracts transcripts, analyses for stock recommendations,
+enriches with market data, and writes structured JSON for the web frontend.
 """
 
 import json
@@ -13,6 +13,7 @@ import re
 import sys
 import time
 import logging
+import shutil
 import subprocess
 import glob
 from datetime import datetime, timedelta
@@ -41,6 +42,133 @@ logging.basicConfig(
 log = logging.getLogger(__name__)
 
 PROMPT_FILE = Path(__file__).parent / "analysis_prompt.md"
+
+BROWSER_UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
+              "(KHTML, like Gecko) Chrome/120.0 Safari/537.36")
+
+# Re-alert at most this often while a problem persists, so an hourly job doesn't
+# train us to swipe the notification away without reading it.
+ALERT_COOLDOWN_HOURS = 6
+
+# Whether the yt-dlp fallback actually worked this run. The primary API path masks
+# a dead fallback completely: the pipeline looks healthy while coverage quietly
+# declines. Counting attempts vs successes is what makes that visible.
+FALLBACK = {"attempted": 0, "succeeded": 0}
+
+
+# ---------------------------------------------------------------------------
+# Alerting
+# ---------------------------------------------------------------------------
+
+def notify(title: str, message: str) -> None:
+    """Raise a macOS notification. Best-effort by design: this is the alerting
+    path, so it must never be capable of taking the pipeline down with it."""
+    try:
+        subprocess.run(
+            ["osascript", "-e",
+             f"display notification {json.dumps(message)} with title {json.dumps(title)}"],
+            capture_output=True, timeout=10,
+        )
+    except Exception as e:
+        log.warning(f"Could not raise notification: {type(e).__name__}: {e}")
+
+
+def alert(state: dict, key: str, title: str, message: str) -> None:
+    """Log an error and notify, rate-limited per key via `state`."""
+    log.error(message)
+    last = state.get("alerts", {}).get(key)
+    if last:
+        try:
+            age_h = (datetime.now() - datetime.fromisoformat(last)).total_seconds() / 3600
+            if age_h < ALERT_COOLDOWN_HOURS:
+                log.info(f"  (notification suppressed, last sent {age_h:.1f}h ago)")
+                return
+        except ValueError:
+            pass
+    notify(title, message)
+    state.setdefault("alerts", {})[key] = datetime.now().isoformat()
+
+
+# ---------------------------------------------------------------------------
+# Cookie validation
+# ---------------------------------------------------------------------------
+
+def _live_session_state(path: str) -> bool | None:
+    """True = signed in, False = signed out, None = couldn't tell.
+
+    Fetches an account-only page and reads YouTube's own LOGGED_IN flag. From a UK
+    IP this redirects to the consent interstitial unless a consent cookie is sent,
+    and the interstitial contains no LOGGED_IN flag at all, which reads as "couldn't
+    tell" and silently defeats the check. Browser exports don't reliably include
+    SOCS, so inject a minimal one; it only dismisses the consent page.
+    """
+    try:
+        import http.cookiejar
+        jar = http.cookiejar.MozillaCookieJar()
+        jar.load(path, ignore_discard=True, ignore_expires=True)
+        session = requests.Session()
+        session.cookies.update(jar)
+        session.cookies.set("SOCS", "CAI", domain=".youtube.com", path="/")
+        r = session.get("https://www.youtube.com/feed/library",
+                        headers={"User-Agent": BROWSER_UA}, timeout=15)
+        if "consent.youtube.com" in r.url:
+            log.warning("  Cookie live check hit the consent wall; cannot read login state.")
+            return None
+        if '"LOGGED_IN":true' in r.text:
+            return True
+        if '"LOGGED_IN":false' in r.text:
+            return False
+    except Exception as e:
+        log.warning(f"  Cookie live check could not run: {type(e).__name__}: {e}")
+    return None
+
+
+def validate_cookies(path: str) -> list[str]:
+    """Return a list of problems with the cookie file; empty means usable.
+
+    Checking the file merely exists is what let this fail silently three times in
+    ten days: an expired file, a session killed by a Google sign-out, and an
+    export taken from google.com (whose cookies can never be sent to youtube.com
+    at all, because of cookie domain matching).
+
+    Structural checks are authoritative. The live check is advisory: an ambiguous
+    answer means "unknown", never "broken", so a change to YouTube's HTML can't
+    produce a false alarm that teaches us to ignore this.
+    """
+    try:
+        rows = [l.split("\t") for l in Path(path).read_text().splitlines()
+                if l.strip() and not l.startswith("#")]
+        rows = [r for r in rows if len(r) >= 7]
+    except Exception as e:
+        return [f"cannot read cookie file: {type(e).__name__}: {e}"]
+
+    if not rows:
+        return ["cookie file contains no cookies"]
+
+    problems = []
+    domains = {r[0] for r in rows}
+    names = {r[5] for r in rows}
+
+    if not any("youtube.com" in d for d in domains):
+        problems.append(f"no youtube.com cookies (file has: {', '.join(sorted(domains))}). "
+                        "Re-export from www.youtube.com, not google.com.")
+    if "LOGIN_INFO" not in names:
+        problems.append("LOGIN_INFO cookie missing: not a signed-in YouTube export.")
+
+    expiries = [int(r[4]) for r in rows if r[4].isdigit() and int(r[4]) > 0]
+    if expiries and all(e < time.time() for e in expiries):
+        problems.append("every cookie in the file has expired.")
+
+    if not problems:
+        live = _live_session_state(path)
+        if live is False:
+            problems.append("YouTube reports this session as signed out. Re-export.")
+        elif live is None:
+            log.info("  Cookie live check inconclusive; structural checks passed.")
+        else:
+            log.info("  Cookie live check: session is signed in.")
+
+    return problems
 
 
 # ---------------------------------------------------------------------------
@@ -163,6 +291,14 @@ def get_transcript(video_id: str, cookies_path: str | None = None) -> tuple[str 
         log.warning(f"  Transcript API error for {video_id}: {type(e).__name__}: {e}")
 
     # Fallback: yt-dlp VTT
+    if captions_unavailable:
+        # Captions are genuinely off. yt-dlp can't conjure them, and counting this
+        # as a fallback failure would cry wolf about perfectly healthy cookies.
+        log.warning(f"  No transcript obtained for {video_id}")
+        return None, "unavailable"
+
+    FALLBACK["attempted"] += 1
+    scratch_cookies = None
     try:
         cmd = [
             "yt-dlp", "--write-auto-subs", "--write-subs",
@@ -172,7 +308,16 @@ def get_transcript(video_id: str, cookies_path: str | None = None) -> tuple[str 
             f"https://www.youtube.com/watch?v={video_id}",
         ]
         if cookies_path:
-            cmd[1:1] = ["--cookies", cookies_path]
+            # Hand yt-dlp a throwaway copy, never the real export. yt-dlp rewrites
+            # whatever file --cookies points at ("This file is generated by yt-dlp"),
+            # so pointing it at the canonical export means every run overwrites it
+            # with YouTube's current response. When that response is a rotated or
+            # signed-out session, the good export is destroyed in place and the next
+            # run starts from the wreckage. Found on 17 July 2026 after the file lost
+            # LOGIN_INFO and shrank from 3447 to 2037 bytes with nobody touching it.
+            scratch_cookies = f"/tmp/yt_cookies_{video_id}.txt"
+            shutil.copyfile(cookies_path, scratch_cookies)
+            cmd[1:1] = ["--cookies", scratch_cookies]
         result = subprocess.run(cmd, capture_output=True, text=True, timeout=60)
         vtt_files = glob.glob(f"/tmp/yt_transcript_{video_id}*.vtt")
         if not vtt_files:
@@ -192,10 +337,14 @@ def get_transcript(video_id: str, cookies_path: str | None = None) -> tuple[str 
                     lines.append(line)
             transcript = " ".join(lines)
             if transcript:
+                FALLBACK["succeeded"] += 1
                 log.info(f"  Transcript via yt-dlp VTT: {len(transcript):,} chars")
                 return transcript, None
     except Exception as e:
         log.warning(f"  yt-dlp VTT fallback failed for {video_id}: {type(e).__name__}: {e}")
+    finally:
+        if scratch_cookies:
+            Path(scratch_cookies).unlink(missing_ok=True)
 
     log.warning(f"  No transcript obtained for {video_id}")
     return None, ("unavailable" if captions_unavailable else "error")
@@ -562,12 +711,33 @@ def run():
         log.error("YOUTUBE_API_KEY not set — cannot fetch channel videos")
         return
 
+    # Validate, don't just detect. Existence was the only test here until 17 July
+    # 2026, which is precisely why three separate cookie failures were invisible:
+    # a dead file passes an existence check and then logs "Using YouTube cookies".
     _cookies_env = os.environ.get("YOUTUBE_COOKIES_FILE", "")
     cookies_path = _cookies_env if (_cookies_env and Path(_cookies_env).exists() and Path(_cookies_env).stat().st_size > 10) else None
     if cookies_path:
-        log.info(f"Using YouTube cookies from {cookies_path}")
+        log.info(f"Checking YouTube cookies: {cookies_path}")
+        problems = validate_cookies(cookies_path)
+        if problems:
+            alert(state, "cookies",
+                  "Investment Digest: YouTube cookies need re-export",
+                  "Cookie file is present but unusable, so the yt-dlp fallback is dead: "
+                  + " ".join(problems)
+                  + " Digests still publish via the primary API path, so nothing looks broken. "
+                    "See README, 'Setup on a new machine' step 5.")
+            save_state(state)
+        else:
+            log.info(f"Using YouTube cookies from {cookies_path}")
+            # Clear on recovery, so a fixed problem can't sit in the cooldown and
+            # swallow the notification for the next, different one.
+            state.get("alerts", {}).pop("cookies", None)
     else:
-        log.warning("No valid YOUTUBE_COOKIES_FILE — transcript fetching may be blocked by YouTube")
+        alert(state, "cookies",
+              "Investment Digest: YouTube cookies missing",
+              f"No usable YOUTUBE_COOKIES_FILE (got: {_cookies_env or 'unset'}). "
+              "The yt-dlp transcript fallback cannot run.")
+        save_state(state)
 
     attempts = 0
     for channel in CHANNELS:
@@ -679,6 +849,21 @@ def run():
             save_state(state)
             new_count += 1
             time.sleep(3)
+
+    # Report on the fallback before anything can return early. Cookies passing
+    # validation doesn't prove yt-dlp works: rate limits, format errors and
+    # yt-dlp version drift have all broken it independently of the cookies.
+    if FALLBACK["attempted"] and not FALLBACK["succeeded"]:
+        alert(state, "fallback",
+              "Investment Digest: transcript fallback failing",
+              f"yt-dlp fallback ran {FALLBACK['attempted']} time(s) this run and failed every "
+              "time, despite the cookies validating. Digests still publish via the primary "
+              "API path. Check ~/Library/Logs/investment-digest.out.log for the yt-dlp errors.")
+        save_state(state)
+    elif FALLBACK["attempted"]:
+        log.info(f"yt-dlp fallback: {FALLBACK['succeeded']}/{FALLBACK['attempted']} succeeded")
+        state.get("alerts", {}).pop("fallback", None)
+        save_state(state)
 
     # Collect all videos in the 30-day window with analysis
     all_video_analyses = [

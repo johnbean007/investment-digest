@@ -11,7 +11,7 @@ Daily pipeline that monitors 7 YouTube investment channels, extracts transcripts
 | launchd job | `~/Library/LaunchAgents/com.johnbean.investment-digest.plist` | Copied from `ops/`. |
 | Logs | `~/Library/Logs/investment-digest.{out,err}.log` | |
 | API keys | macOS login keychain | Services `investment-digest-anthropic` and `investment-digest-youtube`. No plaintext `.env`. |
-| Cookies | `yt_cookies.txt` (repo root) | Gitignored. Re-exported and fallback verified 16 July 2026. Still plaintext, see known issues. |
+| Cookies | `yt_cookies.txt` (repo root) | Gitignored, plaintext. Never passed to yt-dlp directly: it rewrites the file. Validated at startup; a bad file raises a macOS notification. |
 
 Note for future sessions: the repo is **not** under `~/Documents/Claude/Investment Projects` any more. It moved on 14 July 2026 and only the Obsidian notes (`Daily Digests`, `Private investing`) remain there. Reasons below.
 
@@ -20,7 +20,7 @@ Note for future sessions: the repo is **not** under `~/Documents/Claude/Investme
 1. **launchd runs `run.sh` hourly on this Mac**, plus once on login (`ops/com.johnbean.investment-digest.plist`, `StartInterval 3600`, `RunAtLoad`). If the Mac is asleep across a scheduled time, launchd fires once on wake and resumes the hourly cadence. Combined with the pipeline's 30 day lookback, a weekend gap catches itself up.
 2. `run.sh` pulls latest `main`, runs the pipeline, copies output to `docs/data/`, then commits and pushes only if something changed.
 3. YouTube Data API fetches each channel's recent videos.
-4. Transcripts come from `youtube-transcript-api`, falling back to `yt-dlp` (with cookies) if that fails.
+4. Transcripts come from `youtube-transcript-api`, falling back to `yt-dlp` (with cookies) if that fails. Cookies are validated first, and yt-dlp is only ever given a throwaway copy of the file. Both failure paths raise a macOS notification rather than a log line nobody reads.
 5. Claude (`claude-haiku-4-5`) analyses each transcript against `pipeline/analysis_prompt.md`, returning structured JSON (buy recommendations, stocks to avoid, tickers).
 6. `yfinance` enriches every mentioned ticker with live price and fundamentals data.
 7. Output is written to `data/latest.json` and `data/digests/YYYY-MM-DD.json`, copied to `docs/data/` for the frontend, committed and pushed.
@@ -69,7 +69,15 @@ security add-generic-password -U -a "$USER" -s investment-digest-youtube \
 
 #    Then export a fresh yt_cookies.txt into the repo root. Not in the repo.
 #    Export with the "Get cookies.txt LOCALLY" extension, Netscape format.
-#    Two traps, both hit on 16 July 2026:
+#
+#    Export from a PRIVATE/INCOGNITO window, then close it WITHOUT signing out:
+#    sign in, export, close. A normal browser session keeps rotating its cookies,
+#    and each rotation invalidates the copy you exported, which is why these kept
+#    dying within days. Closing an incognito window without signing out leaves the
+#    session un-rotated, so the export stays valid until natural expiry. Signing
+#    out inside that window kills the export too (learned 14 July).
+#
+#    Two further traps, both hit on 16 July 2026:
 #      - Export FROM www.youtube.com, not google.com. The extension exports the
 #        current tab's domain. A google.com export looks plausible (it carries
 #        SID/HSID/SAPISID) but is useless: cookie domain matching means
@@ -116,7 +124,7 @@ tail -3 ~/Library/Logs/investment-digest.out.log
 
 ## Known issues and next steps
 
-- **The cookie fallback fails silently, and has broken three separate ways.** Expired cookies (6 July), invalidated by a Google "sign out all sessions" (14 July), and an export from the wrong domain (16 July). None of these surfaced in normal operation, because transcripts come via the `youtube-transcript-api` primary path, which does not touch cookies. The pipeline looks perfectly healthy with a dead fallback. This is the real issue, not any individual breakage: **`fetch_transcript_ytdlp` logs a warning and moves on**, so the only symptom is a slow decline in coverage. Worth failing loudly, or asserting cookie validity on startup.
+- **RESOLVED 17 July 2026: the cookie fallback no longer fails silently.** It had broken four ways in ten days (expired 6 July; killed by a Google sign-out 14 July; exported from the wrong domain 16 July; and destroyed in place by yt-dlp's writeback, found 17 July). None surfaced in normal operation, because transcripts come via the `youtube-transcript-api` primary path, which never touches cookies, so the pipeline looked perfectly healthy with a dead fallback. Now: `validate_cookies()` gates every run and `FALLBACK` counts attempts vs successes, both raising a macOS notification via `alert()`. Notifications are rate-limited to one per 6 hours per problem and cleared on recovery; the log still records every occurrence.
 - **Cookies are still plaintext on disk.** The API keys moved to the keychain on 14 July 2026, but `yt_cookies.txt` did not, because yt-dlp wants a file path. It is the more sensitive of the two, being live Google session access. Options if this matters: write the cookie file to a temp path from a keychain blob at run time and delete it afterwards, or accept the risk given the repo is no longer in a sync folder.
 - **Ticker mismatches from Claude.** yfinance 404s on `SPACEX`, `VERTIV`, `T1ENERGY`, `TOONE`, `NEBIUS` and similar. Claude sometimes returns company names or near-misses instead of real tickers. Cosmetic data-quality issue, worth a prompt tweak in `analysis_prompt.md`.
 - **No alerting on credential expiry.** Both the YouTube cookies and `ANTHROPIC_API_KEY` silently expired in July 2026 and nothing noticed until digest freshness visibly degraded. Still true. Same root cause as the cookie item above: nothing in this pipeline fails loudly.
@@ -128,6 +136,18 @@ tail -3 ~/Library/Logs/investment-digest.out.log
 ## Session log
 
 Newest first.
+
+### 17 July 2026, silent failure fixed, and the actual root cause found
+
+Set out to make the cookie fallback fail loudly. Found why it kept needing to.
+
+**yt-dlp rewrites whatever file you pass to `--cookies`.** The finished file carries the header "This file is generated by yt-dlp. Do not edit." The pipeline was handing it the canonical export, so every fallback invocation overwrote that export with YouTube's current response. When the response reflected a rotated or signed-out session, the good export was destroyed in place and the next run started from the wreckage. Caught it because the file lost `LOGIN_INFO` and shrank from 3447 to 2037 bytes with nobody having touched it. Fixed by copying to `/tmp` per call and never letting yt-dlp near the original. Verified by hashing the file before and after: rewritten when passed directly, byte-identical through the fix.
+
+That is the recurring cookie death. Combined with browser-side rotation invalidating exports taken from a normal window (hence the incognito guidance in setup), it explains every prior "the cookies expired again".
+
+Added `validate_cookies()`: existence was the only test before, which is exactly why a google.com export, an expired file, and a dead session all sailed through and logged "Using YouTube cookies". Structural checks (youtube.com domains, `LOGIN_INFO`, expiry) are authoritative. The live check is advisory: it needs an injected `SOCS=CAI` to clear the UK consent interstitial, which otherwise returns a page with no login flag and reads as "unknown". Ambiguity never raises an alarm, so YouTube changing its HTML cannot train us to ignore this.
+
+The alarm caught a real failure on its first run: the cookies were already dead again, confirmed independently by `yt-dlp :ytsubscriptions`, which requires a genuine login and reported them "no longer valid".
 
 ### 16 July 2026, cookies re-exported
 

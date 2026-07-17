@@ -10284,5 +10284,8 @@
     "JoseNajarroStocks": "UC5cEHfCr6WOE1R1zcohd1IA",
     "FinTek": "UCxdWHEhEPiYhCADMrn4PdhQ"
   },
-  "last_eval_week": "2026-W29"
+  "last_eval_week": "2026-W29",
+  "alerts": {
+    "cookies": "2026-07-17T10:25:02.288969"
+  }
 }

@@ -92,13 +92,13 @@ launchctl list | grep investment    # second column is last exit code, want 0
 
 `requirements.txt` pins `youtube-transcript-api==1.2.4`. Do not unpin it. The code uses the 1.x instance API (`YouTubeTranscriptApi(http_client=...)`). A 0.6.x install fails 100% of the time, silently.
 
-## Status as of 16 July 2026
+## Status as of 17 July 2026
 
 Fully restored and running. Rebuild after a laptop theft: new machine, new Homebrew, rebuilt venv, rotated Anthropic and YouTube API keys into the keychain, re-authed GitHub, repo relocated out of iCloud, launchd job reinstalled and confirmed green (exit 0, pulled, analysed, committed, pushed).
 
 Cookies re-exported 16 July and the `yt-dlp` fallback verified end to end for the first time since the rebuild: it pulled real subtitles using the cookie file. Every credential from the stolen laptop has now been rotated or invalidated.
 
-12 digests published unattended between 14 and 16 July, across sleeps and reboots, with no gaps in `data/digests/`.
+**19 digests published unattended 14 to 17 July** (3, 6, 9, 1 per day), across sleeps and reboots, with a digest file for every day and no gaps. The automation is proven, not just configured.
 
 ### Quick health check
 
@@ -123,7 +123,7 @@ tail -3 ~/Library/Logs/investment-digest.out.log
 - **`generated_at` is naive local time.** `data/latest.json` writes `generated_at` with no UTC offset while `run.sh` logs in UTC, so on BST the timestamp reads an hour ahead of the run that produced it. Harmless now, confusing later: the field is served to the browser, and when BST ends in October the apparent offset changes. Write it as UTC with an offset, or as ISO-8601 with `Z`.
 - **Output quality not independently validated.** Use `data/eval_transcripts/` (one video per week, transcript plus Claude's analysis side by side) to spot-check accuracy.
 - **Re-check the three "no transcript" channels** (CouchInvestor, The Traveling Trader, Mr FIRED Up Wealth). The original diagnosis (creators do not enable captions) predates the version-mismatch fix, so it may not have been the real cause.
-- **`BATCH_SIZE=5` and the hourly cadence are now tunable.** This was blocked on having steady-state data. Three days now exist (14 to 16 July, 12 runs). Nobody has looked at it yet. The question is whether 5 per hour is leaving throughput on the table or still occasionally tripping the burst limit; `data/monitor.log` has the evidence.
+- **`BATCH_SIZE=5` and the hourly cadence are now tunable.** This was blocked on having steady-state data. Four days now exist (14 to 17 July, 19 runs). Nobody has looked at it yet. The question is whether 5 per hour is leaving throughput on the table or still occasionally tripping the burst limit; `data/monitor.log` has the evidence.
 
 ## Session log
 

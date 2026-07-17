@@ -149,6 +149,8 @@ Added `validate_cookies()`: existence was the only test before, which is exactly
 
 The alarm caught a real failure on its first run: the cookies were already dead again, confirmed independently by `yt-dlp :ytsubscriptions`, which requires a genuine login and reported them "no longer valid".
 
+Notification delivery is confirmed working from the launchd agent on this Mac, observed on screen, not merely accepted by `osascript`. Worth knowing because a LaunchAgent runs in the GUI session and `display notification` can silently do nothing without notification permission; if alerts ever stop appearing, check System Settings, Notifications, Script Editor before assuming the pipeline is at fault.
+
 ### 16 July 2026, cookies re-exported
 
 Google sign-out (closing the theft exposure) also invalidated the local cookie file, as expected. First re-export was taken from google.com rather than youtube.com: it carried real Google auth cookies but every entry was `.google.com`, so none would ever be sent to youtube.com. Second export from youtube.com was correct, 21 cookies with `LOGIN_INFO`. Verified by fetching an account-only page (`LOGGED_IN:true`) and then by replicating the pipeline's exact yt-dlp call, which pulled real subtitles. A `429` appeared when the test requested a dozen subtitle languages, which is the documented burst limit and not a fault; the pipeline requests one.

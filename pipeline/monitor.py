@@ -730,8 +730,12 @@ def run():
         else:
             log.info(f"Using YouTube cookies from {cookies_path}")
             # Clear on recovery, so a fixed problem can't sit in the cooldown and
-            # swallow the notification for the next, different one.
-            state.get("alerts", {}).pop("cookies", None)
+            # swallow the notification for the next, different one. Persist it here:
+            # a run where the primary path serves every video never calls
+            # save_state() otherwise, and the clear would be lost in memory.
+            if state.get("alerts", {}).pop("cookies", None):
+                save_state(state)
+                log.info("  Cookie alert cleared.")
     else:
         alert(state, "cookies",
               "Investment Digest: YouTube cookies missing",

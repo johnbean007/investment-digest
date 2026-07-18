@@ -27,8 +27,8 @@ from youtube_transcript_api import YouTubeTranscriptApi, TranscriptsDisabled, No
 
 from config import (
     CHANNELS, MAX_VIDEO_AGE_DAYS, ANTHROPIC_MODEL, BATCH_SIZE,
-    MAX_TRANSCRIPT_RETRIES, MAX_ANALYSIS_RETRIES,
-    DATA_DIR, DIGEST_DIR, STATE_FILE, LOG_FILE, EVAL_DIR,
+    MAX_TRANSCRIPT_RETRIES, MAX_ANALYSIS_RETRIES, DESCRIPTION_BATCH_SIZE,
+    DATA_DIR, DIGEST_DIR, STATE_FILE, LOG_FILE, EVAL_DIR, DESCRIPTIONS_FILE,
 )
 
 logging.basicConfig(
@@ -42,6 +42,7 @@ logging.basicConfig(
 log = logging.getLogger(__name__)
 
 PROMPT_FILE = Path(__file__).parent / "analysis_prompt.md"
+DESCRIPTION_PROMPT_FILE = Path(__file__).parent / "description_prompt.md"
 
 BROWSER_UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
               "(KHTML, like Gecko) Chrome/120.0 Safari/537.36")
@@ -516,6 +517,10 @@ def get_stock_data(ticker: str) -> dict | None:
             "ticker":             ticker.upper(),
             "name":               name,
             "currency":           currency,
+            # Grounding for the one-line company description. Stripped in
+            # build_digest before output: it runs to ~2000 chars per ticker and
+            # would add megabytes to a file the browser downloads on every load.
+            "_business_summary":  info.get("longBusinessSummary"),
             "sector":             info.get("sector"),
             "industry":           info.get("industry"),
             "market_cap":         info.get("marketCap"),
@@ -558,6 +563,92 @@ def get_stock_data(ticker: str) -> dict | None:
 # ---------------------------------------------------------------------------
 # Digest builder
 # ---------------------------------------------------------------------------
+
+def load_descriptions() -> dict:
+    if DESCRIPTIONS_FILE.exists():
+        try:
+            with open(DESCRIPTIONS_FILE) as f:
+                return json.load(f)
+        except (json.JSONDecodeError, OSError) as e:
+            # A corrupt cache must not take the run down: descriptions are a
+            # presentation nicety, the digest itself is the product.
+            log.error(f"  Description cache unreadable, regenerating: {e}")
+    return {}
+
+
+def save_descriptions(descriptions: dict):
+    DESCRIPTIONS_FILE.parent.mkdir(parents=True, exist_ok=True)
+    with open(DESCRIPTIONS_FILE, "w") as f:
+        json.dump(descriptions, f, indent=2, sort_keys=True)
+
+
+def _describe_batch(entries: list[dict]) -> dict:
+    """Ask Claude for one-line descriptions of a batch of tickers. Returns
+    {ticker: description|None}. Raises on API failure so the caller can leave the
+    batch uncached and retry it on the next run rather than poisoning the cache
+    with nulls that would never be revisited."""
+    client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
+
+    lines = []
+    for e in entries:
+        line = f"- {e['ticker']} (mentioned as: {e['company_name']})"
+        summary = e.get("business_summary")
+        if summary:
+            line += f"\n  Official summary: {summary[:600]}"
+        lines.append(line)
+
+    prompt = DESCRIPTION_PROMPT_FILE.read_text().replace("{entries}", "\n".join(lines))
+
+    message = client.messages.create(
+        model=ANTHROPIC_MODEL,
+        max_tokens=4096,
+        messages=[{"role": "user", "content": prompt}],
+    )
+    raw = message.content[0].text.strip()
+    raw = re.sub(r"^```(?:json)?\s*", "", raw)
+    raw = re.sub(r"\s*```$", "", raw)
+    parsed = json.loads(raw)
+
+    # Only keep tickers we actually asked about: a model that invents extra keys
+    # must not be able to write them into the cache.
+    asked = {e["ticker"] for e in entries}
+    return {k: v for k, v in parsed.items() if k in asked}
+
+
+def resolve_descriptions(stocks: list[dict]) -> dict:
+    """Return {ticker: description|None} for every stock, generating and caching
+    any that are missing. Cached tickers (including cached nulls) are never
+    re-requested, so a steady-state run makes no API calls at all."""
+    cache = load_descriptions()
+
+    missing = [s for s in stocks if s["ticker"] not in cache]
+    if not missing:
+        return cache
+
+    if not os.environ.get("ANTHROPIC_API_KEY"):
+        log.error("  ANTHROPIC_API_KEY not set, skipping company descriptions")
+        return cache
+
+    log.info(f"  Generating company descriptions for {len(missing)} new ticker(s)")
+    for i in range(0, len(missing), DESCRIPTION_BATCH_SIZE):
+        chunk = missing[i:i + DESCRIPTION_BATCH_SIZE]
+        entries = [{
+            "ticker":          s["ticker"],
+            "company_name":    s["company_name"],
+            "business_summary": (s.get("market") or {}).get("_business_summary"),
+        } for s in chunk]
+        try:
+            cache.update(_describe_batch(entries))
+        except Exception as e:
+            # Leave this chunk uncached so the next run retries it. Better a
+            # missing description for an hour than a permanent wrong one.
+            log.error(f"  Description batch failed, will retry next run: {type(e).__name__}: {e}")
+
+    save_descriptions(cache)
+    named = sum(1 for s in missing if cache.get(s["ticker"]))
+    log.info(f"  Described {named}/{len(missing)} new ticker(s)")
+    return cache
+
 
 def build_digest(all_video_analyses: list[dict]) -> dict:
     """
@@ -642,6 +733,12 @@ def build_digest(all_video_analyses: list[dict]) -> dict:
             "buys":                entry["buys"],
             "avoids":              entry["avoids"],
         })
+
+    descriptions = resolve_descriptions(stocks)
+    for s in stocks:
+        s["description"] = descriptions.get(s["ticker"])
+        if s.get("market"):
+            s["market"].pop("_business_summary", None)
 
     return {
         "generated_at": datetime.now().isoformat(),

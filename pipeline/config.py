@@ -27,9 +27,16 @@ BATCH_SIZE = 8
 MAX_TRANSCRIPT_RETRIES = 4
 MAX_ANALYSIS_RETRIES   = 3
 
+# Company descriptions are generated once per ticker then cached indefinitely:
+# what a company does does not change run to run, so only genuinely new tickers
+# cost an API call and the steady state is zero. Tickers Claude cannot identify
+# are cached as null so they are not retried every hour.
+DESCRIPTION_BATCH_SIZE = 40
+
 ROOT = Path(__file__).parent.parent
 DATA_DIR   = ROOT / "data"
 DIGEST_DIR = DATA_DIR / "digests"
 STATE_FILE = DATA_DIR / "processed_videos.json"
 LOG_FILE   = DATA_DIR / "monitor.log"
 EVAL_DIR   = DATA_DIR / "eval_transcripts"
+DESCRIPTIONS_FILE = DATA_DIR / "company_descriptions.json"

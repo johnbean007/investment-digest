@@ -122,6 +122,8 @@ tail -3 ~/Library/Logs/investment-digest.out.log
 
 `data/latest.json` should be under ~1 hour old. If it is stale but launchd says exit 0, the pipeline is running and finding nothing new, which is normal outside the channels' posting hours. If launchd shows a non-zero exit, read `~/Library/Logs/investment-digest.err.log` first.
 
+One more stale-but-green cause since 18 July: **`run.sh` now skips entirely when the working tree is dirty** (it would otherwise run uncommitted code and push it live), logging "Working tree dirty, skipping run" and raising a notification. So if `git status --short` is not empty, the automation is paused by design, not broken. Commit or stash to resume.
+
 ## Known issues and next steps
 
 - **RESOLVED 17 July 2026: the cookie fallback no longer fails silently.** It had broken four ways in ten days (expired 6 July; killed by a Google sign-out 14 July; exported from the wrong domain 16 July; and destroyed in place by yt-dlp's writeback, found 17 July). None surfaced in normal operation, because transcripts come via the `youtube-transcript-api` primary path, which never touches cookies, so the pipeline looked perfectly healthy with a dead fallback. Now: `validate_cookies()` gates every run and `FALLBACK` counts attempts vs successes, both raising a macOS notification via `alert()`. Notifications are rate-limited to one per 6 hours per problem and cleared on recovery; the log still records every occurrence.
@@ -136,6 +138,16 @@ tail -3 ~/Library/Logs/investment-digest.out.log
 ## Session log
 
 Newest first.
+
+### 18 to 19 July 2026, dashboard enhancements, sort defects, and a dirty-tree guard
+
+Worked through the eight on-site feedback issues (#1 to #8, all now closed). Shipped in `57f9a21`: title click resets to the default view; company descriptions on both the summary row and the detail card; enlarged timeline dots carrying a visible dd/mm on the six most recent with a "+N earlier" expander; default sort by last-mentioned newest-first; price, daily change, one-month change and a 52-week range bar added to the summary table, grouped so it does not scroll sideways; alternating detail-card tint; and the detail card's buys and avoids merged into one chronological list, newest first, each tagged BUY or AVOID instead of grouped into sections.
+
+**Three live sort/date defects surfaced while building, all pre-existing.** The summary table sorted every column backwards: `sortDir = -1` was labelled "desc" and drew a down arrow, but the comparator returned ascending order, so the default view had been showing the *fewest* buys first under a down arrow. The "Last mentioned" column showed the wrong date on eight stocks (AAOI read 28 Jun against a true 16 Jul) because it took the head of two separately-sorted lists concatenated, which is not itself sorted. And the avoid table's sort headers were wired to the wrong columns through a parallel index-matched key array, so clicking "Avoids" sorted by buy count. Restructured the table so each column owns its label, sort key and cell renderer, which makes that last class of bug unrepresentable.
+
+**Company descriptions are a cached one-liner per ticker** (`data/company_descriptions.json`, prompt in `pipeline/description_prompt.md`). Generated once and cached forever including nulls, so steady-state runs make zero extra API calls; only genuinely new tickers cost a call. Grounded on the yfinance `longBusinessSummary` where it exists, which is captured into the market dict and stripped before output so the ~2000-char summaries never reach the browser. 183 of 192 tickers describe; the nulls are transcription junk with hedged names (`'Iran (likely CoreWeave... ticker unclear)'`, `'Fintech Sector (General)'`) where the prompt is told to return null rather than invent or copy a neighbour. This softens the "ticker mismatches" issue below but does not fix it: the mismatched tickers still 404 on yfinance for price data.
+
+**Added a dirty-tree guard to `run.sh`.** The runner shares its working directory with hand editing, and `git pull --rebase --autostash` pops uncommitted changes back before the pipeline runs. During this session that meant two hourly launchd cycles executed uncommitted `monitor.py` and pushed its output to the live site. It worked, but it is fragile: a run landing mid-edit would ship half-finished code, and an autostash pop conflict would wedge the tree. The guard now aborts with a macOS notification when `git status --porcelain` is non-empty, exiting 0 (you are editing, not broken) and resuming the moment you commit. Consequence to know: **while the tree is dirty, the hourly digest pauses.** The 30-day lookback catches it up on the next clean run.
 
 ### 17 July 2026, silent failure fixed, and the actual root cause found
 

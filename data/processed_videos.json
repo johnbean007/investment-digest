@@ -10654,6 +10654,17 @@
         "MSFT": 393.82,
         "AMZN": 247.23
       }
+    },
+    "HmtysltVC1w": {
+      "channel": "CouchInvestor",
+      "title": "THE 2026 EPIC STOCK DRAFT! w/ Special Guests",
+      "upload_date": "20260718",
+      "url": "https://www.youtube.com/watch?v=HmtysltVC1w",
+      "processed_at": "2026-07-18T23:36:23.790965",
+      "transcript_fails": 1,
+      "last_reason": "unavailable",
+      "terminal": true,
+      "skipped": "no transcript"
     }
   },
   "channel_ids": {

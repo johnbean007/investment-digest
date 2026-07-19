@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-19T23:11:37.833805",
-  "video_count": 87,
-  "stock_count": 155,
+  "generated_at": "2026-07-20T00:29:44.346891",
+  "video_count": 81,
+  "stock_count": 149,
   "stocks": [
     {
       "ticker": "AAOI",
@@ -607,10 +607,10 @@
     },
     {
       "ticker": "AMZN",
-      "company_name": "Amazon",
-      "buy_count": 22,
+      "company_name": "Amazon.com Inc.",
+      "buy_count": 20,
       "avoid_count": 1,
-      "first_mention_date": "19 Jun 2026",
+      "first_mention_date": "23 Jun 2026",
       "price_at_first_mention": 232.69,
       "pct_change_since_rec": 6.2,
       "market": {
@@ -653,19 +653,6 @@
       },
       "buys": [
         {
-          "channel": "Daniel Pronk",
-          "title": "5 Undervalued Stocks to Buy Now",
-          "url": "https://www.youtube.com/watch?v=tkzycFHW7Lc",
-          "upload_date": "20260619",
-          "date_label": "19 Jun 2026",
-          "ticker": "AMZN",
-          "company_name": "Amazon",
-          "reason": "Amazon is directly exposed to chips, robotics, cloud computing, artificial intelligence, and advertising\u2014functioning like an ETF across multiple high-quality industries. The market is not giving Amazon sufficient credit despite underlying fundamentals growing very well. Amazon has a massive chips business that could be worth $50 billion in annualized revenue if sold to third parties (currently at $20 billion run rate), making it potentially the third-largest chips company in the world, larger than AMD. The company's advertising business is growing over 20% annually with acceleration, third-party seller services growing 18% annually, subscriptions growing 15% annually, and AWS growing nearly 30% with $137 billion in trailing 12-month revenue. Despite recent news about exploring chip sales to third parties, the stock sold off 11% over the past month, creating a buying opportunity.",
-          "when_to_buy": "Current price (implied to be opportune based on recent 11% selloff)",
-          "target_price": "$309 per share (based on creator's DCF assuming 16% operating cash flow growth annually over 3 years and 20x operating cash flow multiple)",
-          "cautions": "Creator's DCF is conservative relative to analyst expectations of 28% operating cash flow growth. The stock has not produced much returns over the past 5 years despite fundamental growth, indicating a prolonged wait for multiple expansion may be required."
-        },
-        {
           "channel": "The Traveling Trader",
           "title": "What the HELL Just Happened to the Stock Market?",
           "url": "https://www.youtube.com/watch?v=HkQ2sotw9yQ",
@@ -701,19 +688,6 @@
           "company_name": "Amazon",
           "reason": "Amazon, along with other hyperscalers, purchased massive quantities of GPUs and AI accelerators approximately 12 months ago at significantly lower prices before memory costs increased 60% quarter-over-quarter. These companies can now charge premium prices for GPU compute hours due to supply-demand imbalance while maintaining superior margins from their earlier lower-cost GPU purchases. As GPU per-hour pricing increases due to memory shortages and compute constraints, hyperscalers with large existing GPU fleets benefit substantially.",
           "when_to_buy": null,
-          "target_price": null,
-          "cautions": null
-        },
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "5 Stocks to Buy After AMAZON Said This!!",
-          "url": "https://www.youtube.com/watch?v=1CBpjSFfVOM",
-          "upload_date": "20260619",
-          "date_label": "19 Jun 2026",
-          "ticker": "AMZN",
-          "company_name": "Amazon",
-          "reason": "AWS is going to continue to grow with acceleration in growth as the largest cloud service provider. Amazon is really good at standing up energy and building data centers. Now adding another segment with the AI chip market (Trainium chips) with potential $50 billion annual run rate if sold as a standalone business. The creator has been purchasing Amazon in the low 200s and took aggressive positions at that price point.",
-          "when_to_buy": "Low 200s (historical entry point mentioned)",
           "target_price": null,
           "cautions": null
         },
@@ -1019,70 +993,6 @@
       "description": "Develops networking software and solutions for data centers and cloud"
     },
     {
-      "ticker": "APH",
-      "company_name": "Amphenol",
-      "buy_count": 1,
-      "avoid_count": 0,
-      "first_mention_date": "19 Jun 2026",
-      "price_at_first_mention": 163.72,
-      "pct_change_since_rec": -7.6,
-      "market": {
-        "ticker": "APH",
-        "name": "Amphenol Corporation",
-        "currency": "USD",
-        "sector": "Technology",
-        "industry": "Electronic Components",
-        "market_cap": 186011451392,
-        "current_price": 151.2,
-        "daily_change_pct": -1.27,
-        "month_change_pct": -7.64,
-        "week52_high": 178.52,
-        "week52_high_date": "30 Jun 2026",
-        "week52_low": 95.19,
-        "week52_low_date": "23 Jul 2025",
-        "rsi": 43.7,
-        "rsi_label": "neutral",
-        "ma50": 148.45,
-        "ma200": 140.21,
-        "ma_signal": "golden_cross",
-        "pe_trailing": 43.448277,
-        "pe_forward": 25.885712,
-        "peg_ratio": 1.31,
-        "revenue_growth": 0.584,
-        "earnings_growth": 0.241,
-        "free_cashflow": 3563725056,
-        "profit_margins": 0.17239,
-        "debt_to_equity": 133.051,
-        "beta": 1.243,
-        "short_percent": 0.0147,
-        "dividend_yield": 0.66,
-        "analyst_buy": 15,
-        "analyst_hold": 3,
-        "analyst_sell": 0,
-        "analyst_target": 189.39,
-        "analyst_upside_pct": 25.3,
-        "earnings_date": null,
-        "earnings_days": null
-      },
-      "buys": [
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "5 Stocks to Buy After AMAZON Said This!!",
-          "url": "https://www.youtube.com/watch?v=1CBpjSFfVOM",
-          "upload_date": "20260619",
-          "date_label": "19 Jun 2026",
-          "ticker": "APH",
-          "company_name": "Amphenol",
-          "reason": "Amphenol creates interconnect solutions including backplane connectors, high-speed cables, cable backplanes, and active copper cables. These are essential components as AI chip demand expands and more infrastructure is built.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": "The creator notes there has not been too much coverage on this stock and recommends investors do more research."
-        }
-      ],
-      "avoids": [],
-      "description": "Manufactures electrical, electronic, and fiber optic connectors"
-    },
-    {
       "ticker": "APPL",
       "company_name": "AppLovin Corporation",
       "buy_count": 0,
@@ -1222,7 +1132,7 @@
         "ma200": 1354.29,
         "ma_signal": "golden_cross",
         "pe_trailing": 60.240604,
-        "pe_forward": 30.32463,
+        "pe_forward": 30.327284,
         "peg_ratio": 2.19,
         "revenue_growth": 0.213,
         "earnings_growth": 0.285,
@@ -1235,8 +1145,8 @@
         "analyst_buy": 38,
         "analyst_hold": 5,
         "analyst_sell": 1,
-        "analyst_target": 2121.1,
-        "analyst_upside_pct": 21.4,
+        "analyst_target": 2120.37,
+        "analyst_upside_pct": 21.3,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -1322,70 +1232,6 @@
       ],
       "avoids": [],
       "description": "Manufactures lithography systems for semiconductor chip production"
-    },
-    {
-      "ticker": "ASTL",
-      "company_name": "Astera Labs",
-      "buy_count": 1,
-      "avoid_count": 0,
-      "first_mention_date": "19 Jun 2026",
-      "price_at_first_mention": 4.18,
-      "pct_change_since_rec": -8.4,
-      "market": {
-        "ticker": "ASTL",
-        "name": "Algoma Steel Group Inc.",
-        "currency": "USD",
-        "sector": "Basic Materials",
-        "industry": "Steel",
-        "market_cap": 403638400,
-        "current_price": 3.83,
-        "daily_change_pct": 3.51,
-        "month_change_pct": -15.27,
-        "week52_high": 7.19,
-        "week52_high_date": "18 Jul 2025",
-        "week52_low": 3.02,
-        "week52_low_date": "02 Oct 2025",
-        "rsi": 40.6,
-        "rsi_label": "neutral",
-        "ma50": 4.62,
-        "ma200": 4.33,
-        "ma_signal": "golden_cross",
-        "pe_trailing": null,
-        "pe_forward": -13.433732,
-        "peg_ratio": null,
-        "revenue_growth": -0.426,
-        "earnings_growth": null,
-        "free_cashflow": -270312512,
-        "profit_margins": -0.60027003,
-        "debt_to_equity": 272.304,
-        "beta": 1.64,
-        "short_percent": 0.0208,
-        "dividend_yield": null,
-        "analyst_buy": 1,
-        "analyst_hold": 3,
-        "analyst_sell": 0,
-        "analyst_target": null,
-        "analyst_upside_pct": null,
-        "earnings_date": null,
-        "earnings_days": null
-      },
-      "buys": [
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "5 Stocks to Buy After AMAZON Said This!!",
-          "url": "https://www.youtube.com/watch?v=1CBpjSFfVOM",
-          "upload_date": "20260619",
-          "date_label": "19 Jun 2026",
-          "ticker": "ASTL",
-          "company_name": "Astera Labs",
-          "reason": "Astera Labs helps with chip-to-chip communication and is a major customer for Amazon's training chips, enabling communication between training chips and providing connectivity solutions with PCIe and other solutions. Amazon actually has warrants for Astera Labs with pricing reduction incentives on higher volumes, showing Amazon's investment in these players winning. The company has continued to grow on revenue, is adding new customers, and entering various markets.",
-          "when_to_buy": "Sub 100s (historical entry point mentioned)",
-          "target_price": null,
-          "cautions": "Valuation is a big risk, similar to Marvell. The stock has performed as a multi-bagger but has appreciated significantly."
-        }
-      ],
-      "avoids": [],
-      "description": "Designs and develops satellite constellation for cellular broadband coverage"
     },
     {
       "ticker": "AVGO",
@@ -1797,9 +1643,9 @@
     {
       "ticker": "BAM",
       "company_name": "Brookfield Asset Management",
-      "buy_count": 4,
+      "buy_count": 3,
       "avoid_count": 0,
-      "first_mention_date": "19 Jun 2026",
+      "first_mention_date": "23 Jun 2026",
       "price_at_first_mention": 44.62,
       "pct_change_since_rec": 8.3,
       "market": {
@@ -1841,19 +1687,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "Daniel Pronk",
-          "title": "5 Undervalued Stocks to Buy Now",
-          "url": "https://www.youtube.com/watch?v=tkzycFHW7Lc",
-          "upload_date": "20260619",
-          "date_label": "19 Jun 2026",
-          "ticker": "BAM",
-          "company_name": "Brookfield Asset Management",
-          "reason": "Brookfield's business centers on owning physical assets that make up the backbone of the global economy\u2014data centers, terminals, railroads, oil pipelines, natural gas facilities\u2014which are becoming increasingly valuable in today's world. CEO stated this will be a record year for the company and projects 20% annual earnings growth through 2030 with decades of runway ahead. The company also offers a rare combination of over 4% dividend yield with projected 15% annual dividend growth, which is uncommon in the market. Infrastructure build-out globally provides significant tailwinds and more capital deployment opportunities.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": null
-        },
         {
           "channel": "Daniel Pronk",
           "title": "Netflix Stock is Crashing - Is It A Buy Now?",
@@ -2911,8 +2744,8 @@
         "analyst_buy": 24,
         "analyst_hold": 4,
         "analyst_sell": 1,
-        "analyst_target": 97.9,
-        "analyst_upside_pct": 4.5,
+        "analyst_target": 97.86,
+        "analyst_upside_pct": 4.4,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -3103,26 +2936,13 @@
     {
       "ticker": "CSU",
       "company_name": "Constellation Software",
-      "buy_count": 2,
+      "buy_count": 1,
       "avoid_count": 0,
-      "first_mention_date": "19 Jun 2026",
+      "first_mention_date": "10 Jul 2026",
       "price_at_first_mention": null,
       "pct_change_since_rec": null,
       "market": null,
       "buys": [
-        {
-          "channel": "Daniel Pronk",
-          "title": "5 Undervalued Stocks to Buy Now",
-          "url": "https://www.youtube.com/watch?v=tkzycFHW7Lc",
-          "upload_date": "20260619",
-          "date_label": "19 Jun 2026",
-          "ticker": "CSU",
-          "company_name": "Constellation Software",
-          "reason": "Constellation owns over 1,000 vertical market software companies operating in small niche industries (typically $1-10 million revenue each) that are largely ignored by private equity and larger firms. The software is sticky because it represents less than 1% of customers' annual expenses, is mission-critical to operations, employees are trained on it, and replacing it is risky and not cost-effective. AGM discussion (4 hours) revealed customers are not leaving, not building their own software, and are actually going to Constellation to build new AI features, with organic growth accelerating. The company is a serial acquirer deploying record capital at higher returns due to software sector being out of favor (prices down, less competition). Stock has fallen over 50% from highs but still trades at only 15x free cash flow while growing over 20% annually. Management has zero dilution, zero stock-based compensation, and massive shareholder alignment. Creator believes Constellation will be a net beneficiary of AI (not disrupted), and the market will eventually differentiate between software companies being disrupted versus those not being disrupted.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": "Canadian stock not available on many platforms like Robinhood; requires Interactive Brokers or similar for access. AI sentiment has negatively impacted software stocks broadly, but creator believes this is temporary market confusion specific to certain software segments."
-        },
         {
           "channel": "Daniel Pronk",
           "title": "5 Stocks Offering Value in an Expensive Market",
@@ -4023,11 +3843,11 @@
     {
       "ticker": "GOOGL",
       "company_name": "Google (Alphabet Inc.)",
-      "buy_count": 19,
+      "buy_count": 18,
       "avoid_count": 0,
-      "first_mention_date": "19 Jun 2026",
-      "price_at_first_mention": 356.64,
-      "pct_change_since_rec": -2.8,
+      "first_mention_date": "21 Jun 2026",
+      "price_at_first_mention": 337.39,
+      "pct_change_since_rec": 2.8,
       "market": {
         "ticker": "GOOGL",
         "name": "Alphabet Inc.",
@@ -4118,19 +3938,6 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": null
-        },
-        {
-          "channel": "FinTek",
-          "title": "Warren Buffett Just Bought This Stock",
-          "url": "https://www.youtube.com/watch?v=YnllKWyCNTg",
-          "upload_date": "20260619",
-          "date_label": "19 Jun 2026",
-          "ticker": "GOOGL",
-          "company_name": "Alphabet Inc.",
-          "reason": "Berkshire Hathaway bought another $10 billion worth of Alphabet stock, nearly tripling their stake in Google's parent company. This makes Google Berkshire's seventh largest position overall and their second biggest tech position behind Apple. The purchase may signal that new CEO Greg Abel is more willing to engage in the latest tech compared to Warren Buffett's previous approach.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": "The video suggests this may be more of a Greg Abel move as the new CEO rather than a Buffett conviction, which could indicate some uncertainty about whether this aligns with traditional Berkshire investment philosophy."
         },
         {
           "channel": "CouchInvestor",
@@ -4383,11 +4190,11 @@
     {
       "ticker": "HOOD",
       "company_name": "Robinhood Markets Inc.",
-      "buy_count": 4,
+      "buy_count": 3,
       "avoid_count": 0,
-      "first_mention_date": "19 Jun 2026",
-      "price_at_first_mention": 98.69,
-      "pct_change_since_rec": 1.3,
+      "first_mention_date": "22 Jun 2026",
+      "price_at_first_mention": 109.86,
+      "pct_change_since_rec": -9.0,
       "market": {
         "ticker": "HOOD",
         "name": "Robinhood Markets, Inc.",
@@ -4452,19 +4259,6 @@
           "when_to_buy": "Already up 46% from entry at $74",
           "target_price": "All-time highs within the next couple of years",
           "cautions": null
-        },
-        {
-          "channel": "CouchInvestor",
-          "title": "Robinhood's CFO Just Explained Why This Stock Is More Valuable Than You Think",
-          "url": "https://www.youtube.com/watch?v=kzUUsvQXhiQ",
-          "upload_date": "20260619",
-          "date_label": "19 Jun 2026",
-          "ticker": "HOOD",
-          "company_name": "Robinhood Markets",
-          "reason": "The CFO Sheila Verma explained that Robinhood is transitioning from a pure trading platform to a financial super app with three distinct growth arcs: (1) becoming the #1 platform for active traders through continuous product innovation, (2) increasing wallet share by offering banking, credit cards, robo-advisory, and other financial products, and (3) building a global financial ecosystem across retail, B2B, and institutional clients. The company achieved 60+ billion in net deposits in 2024 with 35% annualized growth, and maintained 20% net deposit growth even during Q1 2025's difficult macro environment (government shutdown, software sell-off, global conflict). The addressable market is massive: $20 trillion in US retail brokerage, $20 trillion in US retirement, and $7-10 trillion in US advisory, with Robinhood at only $350 billion in assets under management. The company is gaining market share in options (recently #1), gaining in equities (#2 and compounding), and has new high-growth products (banking already at $2 billion deposits with 100,000+ customers; credit card at $10+ billion annualized GMV with 800,000 customers and millions on waitlist; prediction markets as fastest-growing product ever). Banking is macro-agnostic and direct deposit penetration is at healthy 40%. The company maintains profitable growth (revenues growing faster than expenses), is vertically integrating by owning prediction market exchange (Rhombus JV with Susquehanna), and is deploying aggressive buybacks ($1.5 billion program authorized, $300M+ executed in Q1 2025 alone) while still investing in organic growth and M&A. International expansion is beginning with UK, EU, Canada, Indonesia, and Singapore markets, with early UK cohorts looking similar to early US cohorts suggesting 10+ year runway for international growth.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": "Execution risk is significant given the number of concurrent product launches and international expansions. Credit card delinquency and unit economics must be monitored carefully\u2014the CFO emphasized deliberate and cautious rollout, comparing to Nubank and Upgrade (on pace) but noting Apple Card grew too fast and 'blew themselves up.' Banking and credit card products are still in early scaling phases and must achieve profitability at scale. Prediction markets pricing structure has been completely redesigned to be more competitive, which could impact near-term take rates. The company is dependent on continued net deposit growth and customer trust, which could be disrupted by market downturns or competitive threats. Regulatory risks exist especially internationally across multiple jurisdictions."
         },
         {
           "channel": "The Traveling Trader",
@@ -5634,9 +5428,9 @@
     {
       "ticker": "MELI",
       "company_name": "Mercado Libre",
-      "buy_count": 6,
+      "buy_count": 5,
       "avoid_count": 0,
-      "first_mention_date": "19 Jun 2026",
+      "first_mention_date": "23 Jun 2026",
       "price_at_first_mention": 1675.1,
       "pct_change_since_rec": 8.3,
       "market": {
@@ -5678,19 +5472,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "Daniel Pronk",
-          "title": "5 Undervalued Stocks to Buy Now",
-          "url": "https://www.youtube.com/watch?v=tkzycFHW7Lc",
-          "upload_date": "20260619",
-          "date_label": "19 Jun 2026",
-          "ticker": "MELI",
-          "company_name": "Mercado Libre",
-          "reason": "Mercado Libre is in a 40% correction from all-time highs while revenue has grown 8x since 2020 at a 49% compounded annual growth rate and is still growing 49% year-over-year despite $32 billion in annual revenue\u2014the most consistent high-growth company in the market. The company has evolved from e-commerce to a comprehensive ecosystem including advertising (growing 65-73% annually, reaching $1.7 billion in trailing 12 months, gaining market share from 2% in 2020 to 10%), digital banking (83 million monthly active users compounding 31% annually), credit portfolio ($15 billion doubling annually), fintech acquiring ($204 billion growing 36% annually with 9% market share across Latin America), and top-three digital ads platform. Gross merchandise volume is growing faster than Latin America market, indicating consistent market share gains. New YouTube partnership in Mexico and Argentina allows direct purchases through Mercado Libre due to their most reliable and largest logistics network. Insiders are actively buying (recent $200k, $1M+ purchases), historically signaling belief stock is cheap. Mexico represents massive runway as only 54% have bank accounts and 85% use cash for small purchases.",
-          "when_to_buy": "Current price (down 40% from highs); creator has been buying since 2024 at $1,800 per share",
-          "target_price": null,
-          "cautions": "Stock price has been flat over past 5 years despite tremendous business growth, indicating prolonged disconnect between share price and fundamentals. Creator acknowledges losses from 2024 purchases at $1,800 when current price is $1,600, emphasizing this is a long-term investment that may take years for appreciation."
-        },
         {
           "channel": "Daniel Pronk",
           "title": "Netflix Stock is Crashing - Is It A Buy Now?",
@@ -5762,10 +5543,10 @@
     },
     {
       "ticker": "META",
-      "company_name": "Meta Platforms",
-      "buy_count": 24,
+      "company_name": "Meta Platforms Inc.",
+      "buy_count": 22,
       "avoid_count": 1,
-      "first_mention_date": "19 Jun 2026",
+      "first_mention_date": "21 Jun 2026",
       "price_at_first_mention": 550.25,
       "pct_change_since_rec": 17.4,
       "market": {
@@ -5808,19 +5589,6 @@
       },
       "buys": [
         {
-          "channel": "Daniel Pronk",
-          "title": "5 Undervalued Stocks to Buy Now",
-          "url": "https://www.youtube.com/watch?v=tkzycFHW7Lc",
-          "upload_date": "20260619",
-          "date_label": "19 Jun 2026",
-          "ticker": "META",
-          "company_name": "Meta Platforms",
-          "reason": "Meta is one of the highest-quality businesses in the world with one of the strongest moats and access to vast resources, producing over $100 billion in annual operating cash flow. Despite negative sentiment around employee morale (CTO reports it's at a 20-year low comparable to Cambridge Analytica period) and recent layoffs, the underlying fundamentals continue to accelerate with top-line revenue growing over 30%, advertising business firing on all cylinders, and operating cash flow reaching an all-time high and growing over 20% per year. The negative sentiment and risks are already priced into the stock, which trades at only 18x forward earnings and 11.8x operating cash flow\u2014well below historical averages and S&P 500 multiples\u2014despite Meta being the fastest-growing hyperscaler. From current depressed valuations, if sentiment improves, the stock will benefit from both multiple expansion and continued fundamental growth.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": "Significant employee morale issues with repeated layoffs since 2022 (most recent: 8,000 employees or 10% of workforce in May 2026). CTO acknowledged company did 'atrocious job' explaining vision and supporting employees. However, creator believes this is a solvable short-term headwind, not a permanent impairment to fundamentals."
-        },
-        {
           "channel": "The Traveling Trader",
           "title": "What the HELL Just Happened to the Stock Market?",
           "url": "https://www.youtube.com/watch?v=HkQ2sotw9yQ",
@@ -5858,19 +5626,6 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": null
-        },
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "The 2 Most Obvious Buys in This Market Right Now",
-          "url": "https://www.youtube.com/watch?v=CZlyusyVp0c",
-          "upload_date": "20260619",
-          "date_label": "19 Jun 2026",
-          "ticker": "META",
-          "company_name": "Meta Platforms Inc.",
-          "reason": "Meta operates as a world-scale advertising platform reaching over 3.5 billion people daily through Facebook, Instagram, WhatsApp, Messenger, and Threads. The Family of Apps segment generated $55.9 billion in Q1 2026, with advertising revenue of $55B up 33% YoY. The core investment thesis is that AI is the engine making every single ad more valuable. Meta's $20 billion plus annual run rate from the value optimization suite more than doubled year-over-year\u2014this is Meta's AI-powered tool that helps advertisers prioritize highest-value conversions. This represents AI directly translating into revenue on top of a base where impressions grew 19% and average price per ad grew 12% in the same quarter. Q1 2026 revenue was up 33% YoY with operating income of $22.9 billion. AI improvements to recommendation and ad systems are compounding at scale: Instagram Reels time spent increased 10% from ranking improvements; Facebook video time increased 8% globally (largest quarter-over-quarter gains in four years); ad modeling drove 6% plus increase in conversion rates; LLM-scale ad system expanded to offsite conversion, driving 1.6% increase in conversion rates across Facebook and Instagram. Over 8 million advertisers now use at least one generative AI creative tool. Additionally, Meta is building a massive B2B AI distribution network through WhatsApp, Messenger, and Instagram at zero marginal cost. Business AI conversations grew from 1 million weekly conversions at start of 2026 to 10 million weekly conversions by Q1 2026\u2014a 10x increase in roughly one quarter. Influence commerce and partnership ads hit a revenue run rate that more than doubled YoY, reaching $10 billion. The monetization playbook including commission structures, premium agent tiers, and paid business AI tools has not yet been fully activated. Meta trades at a forward P/E ratio of 18, cheaper than market average, with a business of 3.5 billion daily users and monetization opportunity still in early innings.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": "Meta faces significant regulatory and legal headwinds, including EU and US scrutiny. The CFO noted they continue to monitor active legal and regulatory matters that could significantly impact business and financial results. Specific risks include youth-related scrutiny with additional trials scheduled in the US that may result in material loss, EU data privacy rules, youth safety litigations, and potential antitrust actions. Any adverse ruling, particularly in the EU where Meta's data practices are under intense scrutiny, could force costly operational changes or result in significant fines. Additionally, the company is spending substantial capital, though the creator notes the investment is justified by business growth. These regulatory risks have not yet slowed the business, but warrant monitoring of courtroom developments."
         },
         {
           "channel": "Mr. FIRED Up Wealth",
@@ -6177,11 +5932,11 @@
     {
       "ticker": "MRVL",
       "company_name": "Marvell Technology Inc.",
-      "buy_count": 8,
+      "buy_count": 7,
       "avoid_count": 0,
-      "first_mention_date": "19 Jun 2026",
-      "price_at_first_mention": 266.77,
-      "pct_change_since_rec": -29.3,
+      "first_mention_date": "22 Jun 2026",
+      "price_at_first_mention": 227.97,
+      "pct_change_since_rec": -17.2,
       "market": {
         "ticker": "MRVL",
         "name": "Marvell Technology, Inc.",
@@ -6246,19 +6001,6 @@
           "when_to_buy": null,
           "target_price": "Potential to double or triple; eventual trillion-dollar market cap",
           "cautions": "More expensive valuation than Broadcom; traditional fundamental metrics are not as strong; higher volatility expected"
-        },
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "5 Stocks to Buy After AMAZON Said This!!",
-          "url": "https://www.youtube.com/watch?v=1CBpjSFfVOM",
-          "upload_date": "20260619",
-          "date_label": "19 Jun 2026",
-          "ticker": "MRVL",
-          "company_name": "Marvell Technology",
-          "reason": "Marvell is the key partner that helps Amazon design its AI chips (Trainium 2, Trainium 3), similar to how Broadcom works with Google on TPUs. The company is expected to continue as a key player in future generations (Trainium 4 and beyond). Data center revenue continues to grow with expectations for even more customers. The company is also playing heavily in networking and optics, providing multiple growth opportunities.",
-          "when_to_buy": "Since $60 (historical reference point)",
-          "target_price": null,
-          "cautions": "Valuation is the biggest risk as the stock has jumped dramatically, up almost 100% in the past month and nearly 300% in the past 6 months. The creator mentions this is a concern despite the strong fundamentals."
         },
         {
           "channel": "The Traveling Trader",
@@ -6332,9 +6074,9 @@
     {
       "ticker": "MSFT",
       "company_name": "Microsoft Corporation",
-      "buy_count": 20,
+      "buy_count": 19,
       "avoid_count": 0,
-      "first_mention_date": "19 Jun 2026",
+      "first_mention_date": "23 Jun 2026",
       "price_at_first_mention": 372.97,
       "pct_change_since_rec": 5.6,
       "market": {
@@ -6427,19 +6169,6 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": null
-        },
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "The 2 Most Obvious Buys in This Market Right Now",
-          "url": "https://www.youtube.com/watch?v=CZlyusyVp0c",
-          "upload_date": "20260619",
-          "date_label": "19 Jun 2026",
-          "ticker": "MSFT",
-          "company_name": "Microsoft Corporation",
-          "reason": "Microsoft is one of the largest technology companies operating across three core segments: Productivity and Business Process (Microsoft 365 suite generating $35B in Q3 FY2026, up 17% YoY), Intelligent Cloud (Azure growing 40% YoY with $34.7B revenue, up 30% YoY), and Personal Computing ($13.2B). The core investment thesis centers on Microsoft's $37 billion AI annual revenue run rate, which grew 123% year-over-year\u2014essentially doubling the AI business in one year. This AI business is growing at 123% YoY while the stock trades at a forward P/E of just 20X, which the creator describes as a disconnect the market has not fully priced in. The company has embedded AI directly into tools used by 1.6 billion Windows devices and 95 million Microsoft 365 consumer subscribers. Microsoft 365 Copilot paid seats exceed 20 million with 250% YoY growth, representing the fastest growth since launch. Enterprise adoption is accelerating with nearly 90% of Fortune 500 companies having active agents built with Microsoft tools. Azure demand structurally outpaces supply\u2014Microsoft is struggling to build fast enough to meet demand rather than struggling to find customers. The commercial remaining performance obligation (revenue backlog) grew to $627 billion, up nearly 100% YoY, representing over half a trillion dollars of contracted future revenue.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": "Key risks include the significant capex spending ($190 billion expected for calendar year 2026) and the ability to deploy that infrastructure quickly to generate returns. The relationship with OpenAI presents a dependency to monitor, particularly following recent restructuring of their partnership agreement. However, Microsoft is mitigating this risk by diversifying across multiple AI models including Anthropic, open source models, and first-party Microsoft AI models."
         },
         {
           "channel": "FinTek",
@@ -6707,9 +6436,9 @@
     {
       "ticker": "MU",
       "company_name": "Micron Technology Inc.",
-      "buy_count": 12,
+      "buy_count": 11,
       "avoid_count": 1,
-      "first_mention_date": "19 Jun 2026",
+      "first_mention_date": "24 Jun 2026",
       "price_at_first_mention": 1132.33,
       "pct_change_since_rec": -25.0,
       "market": {
@@ -6776,19 +6505,6 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": "A 14% stock price move is already priced in via options, meaning any beat on Q3 results will not move the stock significantly\u2014only guidance matters. The beat is considered the base case. Gross margin may have peaked at 81%, though the creator notes even flat margins would be bullish. HBM4 carries lower margins than standard DRAM, creating a headwind as HBM ramps and mix shifts. Management previously flagged that at current margin levels, each incremental dollar of pricing adds less to margins. The company must maintain balance between standard DRAM and HBM solutions or risk creating supply imbalances that hurt future execution."
-        },
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "5 Stocks to Buy After AMAZON Said This!!",
-          "url": "https://www.youtube.com/watch?v=1CBpjSFfVOM",
-          "upload_date": "20260619",
-          "date_label": "19 Jun 2026",
-          "ticker": "MU",
-          "company_name": "Micron Technology",
-          "reason": "With more AI chips being sold and demand expanding, significantly more memory will be needed. Micron is expected to grow revenues massively. The creator mentions Apple's recent moves were extremely bullish for sentiment in memory players, and any expansion in AI chip production will require substantially more memory.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": null
         },
         {
           "channel": "Mr. FIRED Up Wealth",
@@ -8331,8 +8047,8 @@
         "analyst_buy": 5,
         "analyst_hold": 9,
         "analyst_sell": 0,
-        "analyst_target": 47.53,
-        "analyst_upside_pct": -5.5,
+        "analyst_target": 47.5,
+        "analyst_upside_pct": -5.6,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -9762,33 +9478,6 @@
       "description": "Designs and manufactures small-lift launch vehicles for satellites"
     },
     {
-      "ticker": "SGY",
-      "company_name": "Signity (Constellation Software subsidiary)",
-      "buy_count": 1,
-      "avoid_count": 0,
-      "first_mention_date": "19 Jun 2026",
-      "price_at_first_mention": null,
-      "pct_change_since_rec": null,
-      "market": null,
-      "buys": [
-        {
-          "channel": "Daniel Pronk",
-          "title": "5 Undervalued Stocks to Buy Now",
-          "url": "https://www.youtube.com/watch?v=tkzycFHW7Lc",
-          "upload_date": "20260619",
-          "date_label": "19 Jun 2026",
-          "ticker": "SGY",
-          "company_name": "Signity (Constellation Software subsidiary)",
-          "reason": "Signity is Constellation's smallest public subsidiary, operating in Poland and growing at 40% per year while trading at approximately 12x cash flows. It is hidden in the market due to its small size and Polish listing but is executing extremely well with growth significantly outpacing its valuation multiple.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": "Very small subsidiary with limited market awareness and liquidity; Polish listing makes it accessible only through international brokers."
-        }
-      ],
-      "avoids": [],
-      "description": "Software company providing mission-critical systems to enterprises"
-    },
-    {
       "ticker": "SHYF",
       "company_name": "Shift4 Payments",
       "buy_count": 0,
@@ -10378,198 +10067,6 @@
       "description": "Manufactures photovoltaic solar modules and cells"
     },
     {
-      "ticker": "TEL",
-      "company_name": "TE Connectivity",
-      "buy_count": 1,
-      "avoid_count": 0,
-      "first_mention_date": "19 Jun 2026",
-      "price_at_first_mention": 197.74,
-      "pct_change_since_rec": 2.8,
-      "market": {
-        "ticker": "TEL",
-        "name": "TE Connectivity plc",
-        "currency": "USD",
-        "sector": "Technology",
-        "industry": "Electronic Components",
-        "market_cap": 59345334272,
-        "current_price": 203.31,
-        "daily_change_pct": 0.37,
-        "month_change_pct": -6.58,
-        "week52_high": 252.56,
-        "week52_high_date": "21 Apr 2026",
-        "week52_low": 177.21,
-        "week52_low_date": "22 Jul 2025",
-        "rsi": 50.2,
-        "rsi_label": "neutral",
-        "ma50": 205.89,
-        "ma200": 219.42,
-        "ma_signal": "death_cross",
-        "pe_trailing": 20.745918,
-        "pe_forward": 16.105421,
-        "peg_ratio": 0.93,
-        "revenue_growth": 0.145,
-        "earnings_growth": 71.5,
-        "free_cashflow": 2322249984,
-        "profit_margins": 0.15543,
-        "debt_to_equity": 43.798,
-        "beta": 1.169,
-        "short_percent": 0.0353,
-        "dividend_yield": 1.47,
-        "analyst_buy": 13,
-        "analyst_hold": 6,
-        "analyst_sell": 0,
-        "analyst_target": 257.4,
-        "analyst_upside_pct": 26.6,
-        "earnings_date": null,
-        "earnings_days": null
-      },
-      "buys": [
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "5 Stocks to Buy After AMAZON Said This!!",
-          "url": "https://www.youtube.com/watch?v=1CBpjSFfVOM",
-          "upload_date": "20260619",
-          "date_label": "19 Jun 2026",
-          "ticker": "TEL",
-          "company_name": "TE Connectivity",
-          "reason": "TE Connectivity focuses on backplane connectors, high-speed data cables, power solutions, over-the-board and mid-board interconnects, and is emerging in the optical market. These components are critical infrastructure for expanding AI chip production and deployment.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": "The creator notes there has not been too much coverage on this stock and recommends investors do more research before investing."
-        }
-      ],
-      "avoids": [],
-      "description": "Manufactures connectivity and sensor solutions for transportation and industrial applications"
-    },
-    {
-      "ticker": "TER",
-      "company_name": "Teradyne",
-      "buy_count": 1,
-      "avoid_count": 0,
-      "first_mention_date": "19 Jun 2026",
-      "price_at_first_mention": 371.77,
-      "pct_change_since_rec": -13.3,
-      "market": {
-        "ticker": "TER",
-        "name": "Teradyne, Inc.",
-        "currency": "USD",
-        "sector": "Technology",
-        "industry": "Semiconductor Equipment & Materials",
-        "market_cap": 50462150656,
-        "current_price": 322.36,
-        "daily_change_pct": 0.02,
-        "month_change_pct": -26.39,
-        "week52_high": 487.91,
-        "week52_high_date": "30 Jun 2026",
-        "week52_low": 89.18,
-        "week52_low_date": "29 Jul 2025",
-        "rsi": 39.3,
-        "rsi_label": "neutral",
-        "ma50": 380.67,
-        "ma200": 278.81,
-        "ma_signal": "golden_cross",
-        "pe_trailing": 59.917286,
-        "pe_forward": 32.770447,
-        "peg_ratio": 1.28,
-        "revenue_growth": 0.87,
-        "earnings_growth": 3.148,
-        "free_cashflow": 298311264,
-        "profit_margins": 0.22553,
-        "debt_to_equity": 2.621,
-        "beta": 1.742,
-        "short_percent": 0.0674,
-        "dividend_yield": 0.16,
-        "analyst_buy": 12,
-        "analyst_hold": 5,
-        "analyst_sell": 1,
-        "analyst_target": 426.35,
-        "analyst_upside_pct": 32.3,
-        "earnings_date": null,
-        "earnings_days": null
-      },
-      "buys": [
-        {
-          "channel": "FinTek",
-          "title": "Top Robotics Stock to BUY NOW",
-          "url": "https://www.youtube.com/watch?v=4EDq12k6yQM",
-          "upload_date": "20260619",
-          "date_label": "19 Jun 2026",
-          "ticker": "TER",
-          "company_name": "Teradyne",
-          "reason": "Teradyne builds the testing and automation systems that ensure AI hardware works reliably and can scale to meet growing demand. Revenue rose 87% over the past year, and management is expecting strong free cash flow in the coming quarters. The market may not be fully valuing the robotics part of their business, presenting a long-term investment opportunity.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": "The company is pretty expensive by most valuation metrics, and the market is pricing this stock as if it is going to grow from here. This is characterized as a long-term play rather than a near-term opportunity."
-        }
-      ],
-      "avoids": [],
-      "description": "Designs and manufactures automated test systems and robotics products"
-    },
-    {
-      "ticker": "TOI",
-      "company_name": "Topicus (Constellation Software subsidiary)",
-      "buy_count": 1,
-      "avoid_count": 0,
-      "first_mention_date": "19 Jun 2026",
-      "price_at_first_mention": 5.39,
-      "pct_change_since_rec": -0.7,
-      "market": {
-        "ticker": "TOI",
-        "name": "The Oncology Institute, Inc.",
-        "currency": "USD",
-        "sector": "Healthcare",
-        "industry": "Medical Care Facilities",
-        "market_cap": 534908704,
-        "current_price": 5.35,
-        "daily_change_pct": 1.71,
-        "month_change_pct": 1.71,
-        "week52_high": 6.67,
-        "week52_high_date": "14 Jul 2026",
-        "week52_low": 2.32,
-        "week52_low_date": "13 Feb 2026",
-        "rsi": 49.5,
-        "rsi_label": "neutral",
-        "ma50": 4.92,
-        "ma200": 3.78,
-        "ma_signal": "golden_cross",
-        "pe_trailing": null,
-        "pe_forward": -33.4375,
-        "peg_ratio": null,
-        "revenue_growth": 0.412,
-        "earnings_growth": null,
-        "free_cashflow": -15312625,
-        "profit_margins": -0.079730004,
-        "debt_to_equity": null,
-        "beta": 0.388,
-        "short_percent": 0.078099996,
-        "dividend_yield": null,
-        "analyst_buy": 4,
-        "analyst_hold": 0,
-        "analyst_sell": 0,
-        "analyst_target": 8.4,
-        "analyst_upside_pct": 57.0,
-        "earnings_date": null,
-        "earnings_days": null
-      },
-      "buys": [
-        {
-          "channel": "Daniel Pronk",
-          "title": "5 Undervalued Stocks to Buy Now",
-          "url": "https://www.youtube.com/watch?v=tkzycFHW7Lc",
-          "upload_date": "20260619",
-          "date_label": "19 Jun 2026",
-          "ticker": "TOI",
-          "company_name": "Topicus (Constellation Software subsidiary)",
-          "reason": "Topicus is a smaller Constellation Software subsidiary focused on Europe. It operates under the same thesis, business playbook, and culture as the parent company, offering exposure to vertical market software with strong competitive moats at attractive valuations.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": "Smaller subsidiary with less liquidity than parent company."
-        }
-      ],
-      "avoids": [],
-      "description": "Provides oncology services including infusion, specialty pharmacy and clinical trials"
-    },
-    {
       "ticker": "TOONE",
       "company_name": "Tonergy Global (1414.HK) / T One Energy",
       "buy_count": 1,
@@ -10774,9 +10271,9 @@
     {
       "ticker": "TSM",
       "company_name": "Taiwan Semiconductor Manufacturing Company",
-      "buy_count": 4,
+      "buy_count": 3,
       "avoid_count": 0,
-      "first_mention_date": "19 Jun 2026",
+      "first_mention_date": "22 Jun 2026",
       "price_at_first_mention": 432.35,
       "pct_change_since_rec": -7.9,
       "market": {
@@ -10830,19 +10327,6 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": "Geographic concentration risk\u2014Taiwan is where the overwhelming majority of TSMC's most advanced manufacturing happens, making any geopolitical escalations involving Taiwan an existential risk to the global AI hardware supply chain and the stock. The Q1 2026 call also surfaced a near-term supply chain vulnerability with situations in the Middle East creating uncertainty around specialty chemicals and gases essential to chip fabrication, though management said they don't anticipate near-term disruption but acknowledged it was too early to quantify any potential impact on profitability."
-        },
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "5 Stocks to Buy After AMAZON Said This!!",
-          "url": "https://www.youtube.com/watch?v=1CBpjSFfVOM",
-          "upload_date": "20260619",
-          "date_label": "19 Jun 2026",
-          "ticker": "TSM",
-          "company_name": "Taiwan Semiconductor Manufacturing Company",
-          "reason": "No matter who the best AI chip player is or who is designing AI chips, they will manufacture at TSMC. Currently trading at a forward PE ratio of 22.9-23, which the creator believes analysts are not fully appreciating for margin growth TSMC could see in the current cycle. The stock offers both growth and safety valuation characteristics.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": null
         },
         {
           "channel": "Ticker Symbol: YOU",

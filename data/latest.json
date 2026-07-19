@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-19T02:40:51.283087",
-  "video_count": 86,
-  "stock_count": 154,
+  "generated_at": "2026-07-19T09:55:36.357134",
+  "video_count": 87,
+  "stock_count": 155,
   "stocks": [
     {
       "ticker": "AAOI",
@@ -5141,8 +5141,8 @@
         "analyst_buy": 11,
         "analyst_hold": 14,
         "analyst_sell": 3,
-        "analyst_target": 18.31,
-        "analyst_upside_pct": 47.8,
+        "analyst_target": 18.29,
+        "analyst_upside_pct": 47.6,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -7290,6 +7290,33 @@
       "description": "Generates and distributes electric power from renewable and nuclear sources"
     },
     {
+      "ticker": "NEOCLOUD SECTOR",
+      "company_name": "Neocloud Companies (including Coreweave, Nebius, and others)",
+      "buy_count": 1,
+      "avoid_count": 0,
+      "first_mention_date": "19 Jul 2026",
+      "price_at_first_mention": null,
+      "pct_change_since_rec": null,
+      "market": null,
+      "buys": [
+        {
+          "channel": "Jose Najarro Stocks",
+          "title": "The Next 5 Days Are Crucial For My Portfolio!!",
+          "url": "https://www.youtube.com/watch?v=T8-cw6LFmGk",
+          "upload_date": "20260719",
+          "date_label": "19 Jul 2026",
+          "ticker": "NEOCLOUD sector",
+          "company_name": "Neocloud Companies (including Coreweave, Nebius, and others)",
+          "reason": "The creator states the Neocloud space will be one of his biggest growers in his overall investment life. He emphasizes that regardless of which AI model wins, Neocloud companies will benefit because they provide the infrastructure and computing power that all AI models must run on. The creator notes these companies are down 15-16% in the past 5 days due to negative sentiment around Chinese AI models, creating what he views as a buying opportunity. He plans to be very aggressive in entering Neocloud names and may sell lower beta holdings to increase exposure if the dip continues.",
+          "when_to_buy": "Current dip presents buying opportunity; creator willing to sell lower beta names and become more aggressive if dip continues",
+          "target_price": null,
+          "cautions": "These are high beta names with short-term volatility; creator acknowledges growth may not materialize next quarter but is confident in long-term thesis"
+        }
+      ],
+      "avoids": [],
+      "description": null
+    },
+    {
       "ticker": "NET",
       "company_name": "Cloudflare Inc.",
       "buy_count": 2,
@@ -7994,7 +8021,7 @@
     {
       "ticker": "NVDA",
       "company_name": "Nvidia Corporation",
-      "buy_count": 16,
+      "buy_count": 17,
       "avoid_count": 0,
       "first_mention_date": "21 Jun 2026",
       "price_at_first_mention": 192.53,
@@ -8245,6 +8272,19 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": "China H200 shipments are currently limited to a few players, so initial impact may be modest. Full details expected during earnings call."
+        },
+        {
+          "channel": "Jose Najarro Stocks",
+          "title": "The Next 5 Days Are Crucial For My Portfolio!!",
+          "url": "https://www.youtube.com/watch?v=T8-cw6LFmGk",
+          "upload_date": "20260719",
+          "date_label": "19 Jul 2026",
+          "ticker": "NVDA",
+          "company_name": "Nvidia Corporation",
+          "reason": "The creator believes Nvidia will continue to dominate AI infrastructure regardless of which AI model wins in the market. He argues that Chinese models like Kimi K3 still require large-scale infrastructure to run, and Nvidia's GPUs are the primary chips used for inference at scale. The creator points out that Nvidia is actively reducing token costs themselves (from $4.20 to $0.12 per million tokens, a ~97% reduction, and upcoming Vera Rubin will be one-tenth the cost of Blackwell), demonstrating that lower token costs are not bearish for Nvidia. He has owned Nvidia for a very long time and states it has completely changed his life. The creator is a net buyer during this dip and views it as a buying opportunity.",
+          "when_to_buy": "During current market dip caused by Chinese AI model concerns; creator is using available cash to buy on this weakness",
+          "target_price": null,
+          "cautions": "Short-term pullback possible depending on backlog changes for specific AI companies like OpenAI and Anthropic, though creator believes long-term thesis remains intact"
         }
       ],
       "avoids": [],
@@ -10365,7 +10405,7 @@
         "ma200": 219.42,
         "ma_signal": "death_cross",
         "pe_trailing": 20.745918,
-        "pe_forward": 16.097324,
+        "pe_forward": 16.105421,
         "peg_ratio": 0.93,
         "revenue_growth": 0.145,
         "earnings_growth": 71.5,

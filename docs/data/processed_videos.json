@@ -10665,6 +10665,55 @@
       "last_reason": "unavailable",
       "terminal": true,
       "skipped": "no transcript"
+    },
+    "T8-cw6LFmGk": {
+      "channel": "Jose Najarro Stocks",
+      "title": "The Next 5 Days Are Crucial For My Portfolio!!",
+      "upload_date": "20260719",
+      "url": "https://www.youtube.com/watch?v=T8-cw6LFmGk",
+      "processed_at": "2026-07-19T08:39:04.317697",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "The creator believes Nvidia will continue to dominate AI infrastructure regardless of which AI model wins in the market. He argues that Chinese models like Kimi K3 still require large-scale infrastructure to run, and Nvidia's GPUs are the primary chips used for inference at scale. The creator points out that Nvidia is actively reducing token costs themselves (from $4.20 to $0.12 per million tokens, a ~97% reduction, and upcoming Vera Rubin will be one-tenth the cost of Blackwell), demonstrating that lower token costs are not bearish for Nvidia. He has owned Nvidia for a very long time and states it has completely changed his life. The creator is a net buyer during this dip and views it as a buying opportunity.",
+            "when_to_buy": "During current market dip caused by Chinese AI model concerns; creator is using available cash to buy on this weakness",
+            "target_price": null,
+            "cautions": "Short-term pullback possible depending on backlog changes for specific AI companies like OpenAI and Anthropic, though creator believes long-term thesis remains intact"
+          },
+          {
+            "ticker": "NEOCLOUD sector",
+            "company_name": "Neocloud Companies (including Coreweave, Nebius, and others)",
+            "reason": "The creator states the Neocloud space will be one of his biggest growers in his overall investment life. He emphasizes that regardless of which AI model wins, Neocloud companies will benefit because they provide the infrastructure and computing power that all AI models must run on. The creator notes these companies are down 15-16% in the past 5 days due to negative sentiment around Chinese AI models, creating what he views as a buying opportunity. He plans to be very aggressive in entering Neocloud names and may sell lower beta holdings to increase exposure if the dip continues.",
+            "when_to_buy": "Current dip presents buying opportunity; creator willing to sell lower beta names and become more aggressive if dip continues",
+            "target_price": null,
+            "cautions": "These are high beta names with short-term volatility; creator acknowledges growth may not materialize next quarter but is confident in long-term thesis"
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Market is overreacting to Chinese AI model (Kimi K3) release by Moonshot. While the model is impressive and cheap, the creator argues this does not invalidate AI capex spending because: (1) these models still require US-based chip infrastructure to run at scale, (2) competition will force innovation faster rather than ending AI demand, and (3) token cost reduction is not bearish\u2014Nvidia itself is driving 97% cost reductions and Nvidia's stock performance proves this. Investors should not panic sell based on narratives that cheaper Chinese AI models kill the entire AI capex thesis.",
+          "Bears are using lower token costs as a bearish argument, but this contradicts Nvidia's own strategy of continuously reducing costs while maintaining strong growth. The creator finds this logic inconsistent and views it as a market panic opportunity rather than a fundamental problem.",
+          "Reports of Meta leasing compute to Anthropic ($10B potential deal) being interpreted as excess compute signal. Creator argues this does not indicate lower overall AI demand\u2014it simply means Meta's own AI models are less popular than expected, so they are selling excess capacity to companies winning market share (Anthropic). This is bullish for infrastructure providers, not bearish for AI capex.",
+          "Critical week ahead: Alphabet earnings on Wednesday (first hyperscaler to report on AI capex and demand), Intel earnings Thursday (CPU market state), and AMD AI event Thursday. These will heavily influence market sentiment for upcoming months. Creator believes bullish cycle will last another 2-3 years based on recent ASML and TSMC earnings, but market sentiment could shift based on these upcoming catalysts."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "ASML",
+          "TSMC",
+          "CRWD",
+          "NEBI",
+          "MU",
+          "GOOGL",
+          "INTC",
+          "AMD",
+          "META"
+        ]
+      },
+      "price_at_recommendation": {
+        "NVDA": 202.81
+      }
     }
   },
   "channel_ids": {

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-20T00:29:44.346891",
-  "video_count": 81,
-  "stock_count": 149,
+  "generated_at": "2026-07-20T08:17:08.345488",
+  "video_count": 83,
+  "stock_count": 156,
   "stocks": [
     {
       "ticker": "AAOI",
@@ -258,7 +258,7 @@
         "ma200": 281.95,
         "ma_signal": "death_cross",
         "pe_trailing": 13.564895,
-        "pe_forward": 8.618228,
+        "pe_forward": 8.628951,
         "peg_ratio": 0.65,
         "revenue_growth": 0.127,
         "earnings_growth": 0.079,
@@ -608,7 +608,7 @@
     {
       "ticker": "AMZN",
       "company_name": "Amazon.com Inc.",
-      "buy_count": 20,
+      "buy_count": 21,
       "avoid_count": 1,
       "first_mention_date": "23 Jun 2026",
       "price_at_first_mention": 232.69,
@@ -911,6 +911,19 @@
           "when_to_buy": "On dips in the market when investors panic about AI ROI and capex spending",
           "target_price": null,
           "cautions": "The market is currently questioning the AWS business model due to high capital intensity, though the creator disagrees with this bearish thesis."
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "A Once in a Decade Opportunity is Here [The AI Reset]",
+          "url": "https://www.youtube.com/watch?v=VmD9DscdkaA",
+          "upload_date": "20260720",
+          "date_label": "20 Jul 2026",
+          "ticker": "AMZN",
+          "company_name": "Amazon Inc.",
+          "reason": "Listed as part of MAG7 with Meta and Microsoft as a hyperscaler with significant capex plans. Expected to report higher capex in earnings, supporting the thesis that capex will continue accelerating rather than slowing.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": null
         }
       ],
       "avoids": [
@@ -1145,8 +1158,8 @@
         "analyst_buy": 38,
         "analyst_hold": 5,
         "analyst_sell": 1,
-        "analyst_target": 2120.37,
-        "analyst_upside_pct": 21.3,
+        "analyst_target": 2122.07,
+        "analyst_upside_pct": 21.4,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -1232,6 +1245,68 @@
       ],
       "avoids": [],
       "description": "Manufactures lithography systems for semiconductor chip production"
+    },
+    {
+      "ticker": "ASND",
+      "company_name": "Axiom Space (or similar space company referenced as ASND/Asnd in context)",
+      "buy_count": 0,
+      "avoid_count": 1,
+      "first_mention_date": "20 Jul 2026",
+      "price_at_first_mention": 261.0,
+      "pct_change_since_rec": 0.0,
+      "market": {
+        "ticker": "ASND",
+        "name": "Ascendis Pharma A/S",
+        "currency": "USD",
+        "sector": "Healthcare",
+        "industry": "Biotechnology",
+        "market_cap": 17119729664,
+        "current_price": 261.0,
+        "daily_change_pct": 0.46,
+        "month_change_pct": 13.07,
+        "week52_high": 282.15,
+        "week52_high_date": "09 Jul 2026",
+        "week52_low": 160.86,
+        "week52_low_date": "29 Jul 2025",
+        "rsi": 55.2,
+        "rsi_label": "neutral",
+        "ma50": 242.26,
+        "ma200": 223.97,
+        "ma_signal": "golden_cross",
+        "pe_trailing": 30.313591,
+        "pe_forward": 24.840637,
+        "peg_ratio": null,
+        "revenue_growth": 1.443,
+        "earnings_growth": null,
+        "free_cashflow": 118230128,
+        "profit_margins": 0.57281,
+        "debt_to_equity": 183.753,
+        "beta": null,
+        "short_percent": 0.0592,
+        "dividend_yield": null,
+        "analyst_buy": 4,
+        "analyst_hold": 0,
+        "analyst_sell": 0,
+        "analyst_target": 302.0,
+        "analyst_upside_pct": 15.7,
+        "earnings_date": null,
+        "earnings_days": null
+      },
+      "buys": [],
+      "avoids": [
+        {
+          "channel": "CouchInvestor",
+          "title": "I Bought These 2 Stocks Again During the Crash. Here's Why",
+          "url": "https://www.youtube.com/watch?v=Mo-a1KqTWBE",
+          "upload_date": "20260720",
+          "date_label": "20 Jul 2026",
+          "ticker": "ASND",
+          "company_name": "Axiom Space (or similar space company referenced as ASND/Asnd in context)",
+          "reason": "The creator argues that space companies with inflated valuations like Asnd should never have commanded such high valuations this early in their development. The example given is a company that was valued at $50 billion+ at some point. The creator criticizes the flawed logic of '60 partners and three billion subscribers potential'\u2014noting that three billion subscriber potential means nothing if nobody will pay extra for the service. In the context of satellite internet, the creator points out that most urban dwellers don't need satellite connectivity, making the addressable market much smaller than implied by such projections. Even today, according to the creator, such valuations 'just don't make any sense.'",
+          "risk": "Extreme overvaluation relative to addressable market; likely to experience significant crashes"
+        }
+      ],
+      "description": null
     },
     {
       "ticker": "AVGO",
@@ -1391,7 +1466,7 @@
     {
       "ticker": "AXON",
       "company_name": "Axon Enterprise",
-      "buy_count": 5,
+      "buy_count": 6,
       "avoid_count": 1,
       "first_mention_date": "21 Jun 2026",
       "price_at_first_mention": 464.83,
@@ -1499,6 +1574,19 @@
           "when_to_buy": "The creator would prefer re-entry in the $400s rather than at $500, suggesting it's not a strong buy at current levels relative to other opportunities",
           "target_price": null,
           "cautions": "The creator believes Axon became very expensive at $600-640 levels. Other names like Meta, Nebius, and Sofi are more attractive at current prices relative to Axon at $500."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Bought These 2 Stocks Again During the Crash. Here's Why",
+          "url": "https://www.youtube.com/watch?v=Mo-a1KqTWBE",
+          "upload_date": "20260720",
+          "date_label": "20 Jul 2026",
+          "ticker": "AXON",
+          "company_name": "Axon Enterprise Inc.",
+          "reason": "The creator mentions wanting to increase exposure to Axon but does not provide detailed reasoning in this video segment.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": null
         }
       ],
       "avoids": [
@@ -1544,7 +1632,7 @@
         "ma200": 218.62,
         "ma_signal": "golden_cross",
         "pe_trailing": 84.59684,
-        "pe_forward": 52.671085,
+        "pe_forward": 52.153847,
         "peg_ratio": 23.22,
         "revenue_growth": 0.14,
         "earnings_growth": null,
@@ -2744,8 +2832,8 @@
         "analyst_buy": 24,
         "analyst_hold": 4,
         "analyst_sell": 1,
-        "analyst_target": 97.86,
-        "analyst_upside_pct": 4.4,
+        "analyst_target": 97.94,
+        "analyst_upside_pct": 4.5,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -3151,7 +3239,7 @@
     {
       "ticker": "DRAM",
       "company_name": "DRAM ETF (semiconductor memory)",
-      "buy_count": 2,
+      "buy_count": 3,
       "avoid_count": 0,
       "first_mention_date": "06 Jul 2026",
       "price_at_first_mention": 62.04,
@@ -3220,6 +3308,19 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": "DRAM is forming a head and shoulders pattern. SKHEX listing could trigger a sell-the-news event in memory stocks. Creator is hedging DRAM position by selling calls against shares and using proceeds to buy puts, creating a cost-free or profitable hedge. Worst case if DRAM hits $70 before August 21st expiration, forced to sell shares at profit."
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "A Once in a Decade Opportunity is Here [The AI Reset]",
+          "url": "https://www.youtube.com/watch?v=VmD9DscdkaA",
+          "upload_date": "20260720",
+          "date_label": "20 Jul 2026",
+          "ticker": "DRAM",
+          "company_name": "SK Hynix or general DRAM stocks",
+          "reason": "Memory stocks have pulled back significantly as Korea (which is memory-heavy) corrected 30%. The creator is comfortable dollar-cost-averaging in memory stocks at current levels. Korea is now at a 'golden pocket' \u2014 the same level as a previous all-time high, which is a historically attractive buying level.",
+          "when_to_buy": "Dollar-cost-averaging at current levels near golden pocket support",
+          "target_price": null,
+          "cautions": "The creator explicitly states 'It doesn't mean I think this is the bottom, but I think this is a great point to start adding.' This is not a recommendation to buy all at once."
         }
       ],
       "avoids": [],
@@ -3328,6 +3429,70 @@
       ],
       "avoids": [],
       "description": "Generates and distributes electricity and natural gas to customers"
+    },
+    {
+      "ticker": "EWI",
+      "company_name": "iShares MSCI South Korea ETF",
+      "buy_count": 1,
+      "avoid_count": 0,
+      "first_mention_date": "20 Jul 2026",
+      "price_at_first_mention": 60.26,
+      "pct_change_since_rec": 0.0,
+      "market": {
+        "ticker": "EWI",
+        "name": "iShares MSCI Italy ETF",
+        "currency": "USD",
+        "sector": null,
+        "industry": null,
+        "market_cap": null,
+        "current_price": 60.26,
+        "daily_change_pct": -0.5,
+        "month_change_pct": -0.56,
+        "week52_high": 61.2,
+        "week52_high_date": "14 Jul 2026",
+        "week52_low": 47.52,
+        "week52_low_date": "01 Aug 2025",
+        "rsi": 54.8,
+        "rsi_label": "neutral",
+        "ma50": 58.85,
+        "ma200": 54.37,
+        "ma_signal": "golden_cross",
+        "pe_trailing": 15.234595,
+        "pe_forward": null,
+        "peg_ratio": null,
+        "revenue_growth": null,
+        "earnings_growth": null,
+        "free_cashflow": null,
+        "profit_margins": null,
+        "debt_to_equity": null,
+        "beta": null,
+        "short_percent": null,
+        "dividend_yield": 3.16,
+        "analyst_buy": null,
+        "analyst_hold": null,
+        "analyst_sell": null,
+        "analyst_target": null,
+        "analyst_upside_pct": null,
+        "earnings_date": null,
+        "earnings_days": null
+      },
+      "buys": [
+        {
+          "channel": "The Traveling Trader",
+          "title": "A Once in a Decade Opportunity is Here [The AI Reset]",
+          "url": "https://www.youtube.com/watch?v=VmD9DscdkaA",
+          "upload_date": "20260720",
+          "date_label": "20 Jul 2026",
+          "ticker": "EWI",
+          "company_name": "iShares MSCI South Korea ETF",
+          "reason": "South Korea ETF exposure to memory stocks. Korea has corrected 30% from all-time highs and is now at golden pocket levels (previous all-time high). The creator is comfortable buying memory stocks through this ETF vehicle.",
+          "when_to_buy": "Dollar-cost-averaging at current levels",
+          "target_price": null,
+          "cautions": "Dependent on Korean memory stock recovery; Korea is prone to 10%+ corrections."
+        }
+      ],
+      "avoids": [],
+      "description": "Tracks large and mid-cap Italian equities through index fund"
     },
     {
       "ticker": "EWY",
@@ -3599,7 +3764,7 @@
         "ma200": 53.81,
         "ma_signal": "golden_cross",
         "pe_trailing": 24.594141,
-        "pe_forward": 20.987385,
+        "pe_forward": 21.025372,
         "peg_ratio": 2.9,
         "revenue_growth": 0.019,
         "earnings_growth": -0.012,
@@ -3634,6 +3799,70 @@
       ],
       "avoids": [],
       "description": "Generates, transmits, and distributes electricity and natural gas"
+    },
+    {
+      "ticker": "GDDY",
+      "company_name": "GoDaddy or AI energy stock",
+      "buy_count": 1,
+      "avoid_count": 0,
+      "first_mention_date": "20 Jul 2026",
+      "price_at_first_mention": 94.35,
+      "pct_change_since_rec": 0.0,
+      "market": {
+        "ticker": "GDDY",
+        "name": "GoDaddy Inc.",
+        "currency": "USD",
+        "sector": "Technology",
+        "industry": "Software - Infrastructure",
+        "market_cap": 12492868608,
+        "current_price": 94.35,
+        "daily_change_pct": -1.93,
+        "month_change_pct": 22.47,
+        "week52_high": 171.42,
+        "week52_high_date": "22 Jul 2025",
+        "week52_low": 71.59,
+        "week52_low_date": "12 Jun 2026",
+        "rsi": 63.7,
+        "rsi_label": "neutral",
+        "ma50": 85.7,
+        "ma200": 102.59,
+        "ma_signal": "death_cross",
+        "pe_trailing": 14.952456,
+        "pe_forward": 8.757738,
+        "peg_ratio": 0.68,
+        "revenue_growth": 0.061,
+        "earnings_growth": 0.06,
+        "free_cashflow": 1347612544,
+        "profit_margins": 0.1732,
+        "debt_to_equity": 1621.618,
+        "beta": 0.888,
+        "short_percent": 0.070199996,
+        "dividend_yield": null,
+        "analyst_buy": 9,
+        "analyst_hold": 8,
+        "analyst_sell": 0,
+        "analyst_target": 111.93,
+        "analyst_upside_pct": 18.6,
+        "earnings_date": null,
+        "earnings_days": null
+      },
+      "buys": [
+        {
+          "channel": "The Traveling Trader",
+          "title": "A Once in a Decade Opportunity is Here [The AI Reset]",
+          "url": "https://www.youtube.com/watch?v=VmD9DscdkaA",
+          "upload_date": "20260720",
+          "date_label": "20 Jul 2026",
+          "ticker": "GDDY",
+          "company_name": "GoDaddy or AI energy stock",
+          "reason": "Creator mentions TE Energy T1 and Vertive as AI-related energy stocks. TE Energy (T1) is sitting at the 48 EMA testing a trend line. Vertive is at the 21 EMA weekly, a level it 'loves' going back a full year. GE Verova is also at the 21 weekly EMA. These energy stocks support AI infrastructure power demands.",
+          "when_to_buy": "TE Energy at 48 EMA; Vertive and GE Verova at 21 weekly EMA (support levels with historical relevance)",
+          "target_price": null,
+          "cautions": "Creator mentions a 'penny stock' that he's holding a 'small position' in \u2014 these are speculative and not core holdings."
+        }
+      ],
+      "avoids": [],
+      "description": "Cloud-based website building, e-commerce, and business services platform"
     },
     {
       "ticker": "GEV",
@@ -3843,7 +4072,7 @@
     {
       "ticker": "GOOGL",
       "company_name": "Google (Alphabet Inc.)",
-      "buy_count": 18,
+      "buy_count": 20,
       "avoid_count": 0,
       "first_mention_date": "21 Jun 2026",
       "price_at_first_mention": 337.39,
@@ -4120,6 +4349,32 @@
           "when_to_buy": "Heading into earnings season",
           "target_price": null,
           "cautions": null
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Bought These 2 Stocks Again During the Crash. Here's Why",
+          "url": "https://www.youtube.com/watch?v=Mo-a1KqTWBE",
+          "upload_date": "20260720",
+          "date_label": "20 Jul 2026",
+          "ticker": "GOOGL",
+          "company_name": "Alphabet Inc.",
+          "reason": "The creator still likes Alphabet and believes it can become the biggest and most valuable company on the planet. The investment case is based on: (1) Google Cloud revenue accelerating with improving margins; (2) operating margin of 32.7% over the last 12 months is excellent; (3) the backlog nearly doubled to $467.6 billion last quarter, with potential to reach $500-600 billion or higher this quarter, which the creator finds insane and insists they trust Google more than competitors like Oracle; (4) strong free cash flow generation despite current capex investments; (5) expected revenue growth of 21% year-over-year this fiscal year, then 18.7%, then 18% in fiscal 2028 to reach ~$682.8 billion (creator expects it could be closer to $700 billion); (6) the creator expects record-breaking quarterly results. The company is investing heavily due to insane demand for cloud compute, which is very good for the AI cycle.",
+          "when_to_buy": "During the current market dip; creator did not mention adding during crash but expressed continued conviction",
+          "target_price": null,
+          "cautions": "The creator emphasizes the need to wait and see what the capex update will be. Free cash flow margin has been coming down, which investors should monitor. The forward P/E of 27.2x is quite high, though this is partly due to heavy capex investments in data centers and TPUs."
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "A Once in a Decade Opportunity is Here [The AI Reset]",
+          "url": "https://www.youtube.com/watch?v=VmD9DscdkaA",
+          "upload_date": "20260720",
+          "date_label": "20 Jul 2026",
+          "ticker": "GOOGL",
+          "company_name": "Alphabet Inc.",
+          "reason": "Listed as one of the 'obvious ones' among MAG7 stocks offering insane value. Google has a $462 billion backlog that can only be unlocked by scaling compute and getting more infrastructure. The company has stated it doesn't have enough compute for its own engineers, let alone customers, directly contradicting Meta's 'excess compute' narrative and reinforcing the bullish case for continued capex spending.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": null
         }
       ],
       "avoids": [],
@@ -4190,7 +4445,7 @@
     {
       "ticker": "HOOD",
       "company_name": "Robinhood Markets Inc.",
-      "buy_count": 3,
+      "buy_count": 4,
       "avoid_count": 0,
       "first_mention_date": "22 Jun 2026",
       "price_at_first_mention": 109.86,
@@ -4272,6 +4527,19 @@
           "when_to_buy": "On any technical pullbacks, as the creator does",
           "target_price": null,
           "cautions": "Traditional valuation metrics like forward PE and price-to-sales may appear high, but growth-adjusted metrics (Rule of 40) explain the premium valuation."
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "A Once in a Decade Opportunity is Here [The AI Reset]",
+          "url": "https://www.youtube.com/watch?v=VmD9DscdkaA",
+          "upload_date": "20260720",
+          "date_label": "20 Jul 2026",
+          "ticker": "HOOD",
+          "company_name": "Robinhood Markets Inc.",
+          "reason": "Recently pulled back to the 48 EMA around $100. The creator has been holding this since the $7s. Hood is described as a 'rule of 40 beast' \u2014 a high-quality SaaS/software company that scores exceptionally well on the Rule of 40 metric (growth rate plus operating margin). It is one of the best stocks in this category and represents good value at current levels.",
+          "when_to_buy": "Currently at the 48 EMA around $100, which is presented as an attractive entry point",
+          "target_price": null,
+          "cautions": null
         }
       ],
       "avoids": [],
@@ -4394,7 +4662,7 @@
     {
       "ticker": "INTC",
       "company_name": "Intel Corporation",
-      "buy_count": 4,
+      "buy_count": 5,
       "avoid_count": 1,
       "first_mention_date": "22 Jun 2026",
       "price_at_first_mention": 105.12,
@@ -4489,6 +4757,19 @@
           "when_to_buy": "On bull flag breakout and retest",
           "target_price": null,
           "cautions": "Despite the positive setup, Intel does have a high current valuation. The success of the foundry strategy is critical to validating the valuation."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Bought These 2 Stocks Again During the Crash. Here's Why",
+          "url": "https://www.youtube.com/watch?v=Mo-a1KqTWBE",
+          "upload_date": "20260720",
+          "date_label": "20 Jul 2026",
+          "ticker": "INTC",
+          "company_name": "Intel Corporation",
+          "reason": "The creator picked Intel in a stock draft, calling it a good opportunity. The thesis is that a good Intel could be worth a trillion dollars. Specific positives cited include: (1) Intel has had a tremendous revival, up 306% over the past 12 months; (2) the CPU story is still going very well; (3) Intel Foundry Services (18A and 14A processes) represent important upcoming developments; (4) data center business remains strong; (5) momentum is building; (6) the company has been beating expectations more recently. The creator notes the company is moving in the right direction.",
+          "when_to_buy": "During the current 33% drawdown from June 22nd highs; no specific entry point given",
+          "target_price": "Creator suggests a good Intel could be worth $1 trillion, though acknowledges a $500 billion valuation may also be far-fetched currently",
+          "cautions": "The creator notes that a lot of things need to go Intel's way for the high valuation to be justified, and results haven't yet justified even a $500 billion valuation. The creator does not feel the need to own Intel personally, suggesting it may be more speculative. Currently trading at 33% drawdown, so still showing weakness."
         }
       ],
       "avoids": [
@@ -4935,8 +5216,8 @@
         "analyst_buy": 11,
         "analyst_hold": 14,
         "analyst_sell": 3,
-        "analyst_target": 18.31,
-        "analyst_upside_pct": 47.8,
+        "analyst_target": 18.3,
+        "analyst_upside_pct": 47.7,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -5544,7 +5825,7 @@
     {
       "ticker": "META",
       "company_name": "Meta Platforms Inc.",
-      "buy_count": 22,
+      "buy_count": 23,
       "avoid_count": 1,
       "first_mention_date": "21 Jun 2026",
       "price_at_first_mention": 550.25,
@@ -5873,6 +6154,19 @@
           "when_to_buy": "Heading into earnings season; on market dips driven by AI capex concerns",
           "target_price": null,
           "cautions": "Like other hyperscalers, Meta faces questions about whether capex spending will generate adequate returns, though the creator dismisses this concern."
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "A Once in a Decade Opportunity is Here [The AI Reset]",
+          "url": "https://www.youtube.com/watch?v=VmD9DscdkaA",
+          "upload_date": "20260720",
+          "date_label": "20 Jul 2026",
+          "ticker": "META",
+          "company_name": "Meta Platforms Inc.",
+          "reason": "Super interesting to the creator because it has a long trend line since August 2025. The potential new business of becoming a NEO cloud operator competing with data center providers could be transformational. If Meta actually enters the data center game to compete with Nebius and Coreweave, this provides a new revenue path and could drive the stock to new all-time highs within the next year or two. The creator expects more details during earnings.",
+          "when_to_buy": "Currently at a trend line resistance; breakout above this level would be a bullish signal",
+          "target_price": "Could reach new all-time highs past previous peaks within the next year or two if data center business materializes",
+          "cautions": "The 'excess compute to sell' narrative may have been Meta justifying capex spending or telegraphing a new business announcement. This is speculative and depends on earnings confirmation."
         }
       ],
       "avoids": [
@@ -6074,7 +6368,7 @@
     {
       "ticker": "MSFT",
       "company_name": "Microsoft Corporation",
-      "buy_count": 19,
+      "buy_count": 20,
       "avoid_count": 0,
       "first_mention_date": "23 Jun 2026",
       "price_at_first_mention": 372.97,
@@ -6364,6 +6658,19 @@
           "when_to_buy": "Heading into earnings season",
           "target_price": null,
           "cautions": null
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "A Once in a Decade Opportunity is Here [The AI Reset]",
+          "url": "https://www.youtube.com/watch?v=VmD9DscdkaA",
+          "upload_date": "20260720",
+          "date_label": "20 Jul 2026",
+          "ticker": "MSFT",
+          "company_name": "Microsoft Corporation",
+          "reason": "Trading at a forward PE of 20, which the creator considers insane value for a MAG7 stock. Currently up 6% in July and has bounced off a major level (2021 all-time high) that has tested as support three times in the last couple of years. The creator views Microsoft as one of the best value opportunities among high-quality large-cap tech stocks during this correction.",
+          "when_to_buy": "Currently at support levels near 2021 all-time highs; no specific entry price given but implied to be near current levels",
+          "target_price": null,
+          "cautions": null
         }
       ],
       "avoids": [],
@@ -6436,7 +6743,7 @@
     {
       "ticker": "MU",
       "company_name": "Micron Technology Inc.",
-      "buy_count": 11,
+      "buy_count": 12,
       "avoid_count": 1,
       "first_mention_date": "24 Jun 2026",
       "price_at_first_mention": 1132.33,
@@ -6622,6 +6929,19 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": null
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "A Once in a Decade Opportunity is Here [The AI Reset]",
+          "url": "https://www.youtube.com/watch?v=VmD9DscdkaA",
+          "upload_date": "20260720",
+          "date_label": "20 Jul 2026",
+          "ticker": "MU",
+          "company_name": "Micron Technology Inc.",
+          "reason": "Memory stock that has pulled back with the broader memory correction. The creator mentions it as a specific play to consider for dollar-cost-averaging given the pullback to golden pocket levels.",
+          "when_to_buy": "Dollar-cost-averaging at current levels",
+          "target_price": null,
+          "cautions": null
         }
       ],
       "avoids": [
@@ -6756,6 +7076,33 @@
       "description": "Provides full-stack GPU cloud infrastructure for AI applications"
     },
     {
+      "ticker": "NBLX",
+      "company_name": "Nebius AI Limited",
+      "buy_count": 1,
+      "avoid_count": 0,
+      "first_mention_date": "20 Jul 2026",
+      "price_at_first_mention": null,
+      "pct_change_since_rec": null,
+      "market": null,
+      "buys": [
+        {
+          "channel": "The Traveling Trader",
+          "title": "A Once in a Decade Opportunity is Here [The AI Reset]",
+          "url": "https://www.youtube.com/watch?v=VmD9DscdkaA",
+          "upload_date": "20260720",
+          "date_label": "20 Jul 2026",
+          "ticker": "NBLX",
+          "company_name": "Nebius AI Limited",
+          "reason": "Data center stock down 45% and sitting on the 21 weekly EMA, a level it 'loves' going back a full year. The creator is most bullish on data center stocks because compute will be the number one constraint on AI buildout. Nebius has a $50 billion backlog with Meta and Microsoft as two biggest customers (ironically, Meta's 'excess compute' claim is viewed as BS). Revenue backlog ($50B) is bigger than entire company market cap ($42B), representing extraordinary value.",
+          "when_to_buy": "At the 21 weekly EMA; creator states 'these are levels that I definitely want to be a buyer at for my long-term portfolio'",
+          "target_price": null,
+          "cautions": "Creator explicitly states 'I'm not saying that this is the bottom' but it is an attractive long-term entry point. Depends on capex continuing from hyperscalers."
+        }
+      ],
+      "avoids": [],
+      "description": "Cloud infrastructure and AI computing services provider"
+    },
+    {
       "ticker": "NBUS",
       "company_name": "Nebius",
       "buy_count": 1,
@@ -6878,7 +7225,7 @@
     {
       "ticker": "NEBU",
       "company_name": "Nebius",
-      "buy_count": 4,
+      "buy_count": 5,
       "avoid_count": 0,
       "first_mention_date": "12 Jul 2026",
       "price_at_first_mention": null,
@@ -6936,6 +7283,19 @@
           "when_to_buy": "On any dips; the creator mentioned if Nebius drops another 40%, he would consider reallocating other positions to buy more",
           "target_price": "$300 (potentially this year); $100+ billion market cap valuation",
           "cautions": "The company still needs to demonstrate sustained execution. Despite being called expensive today at $50 billion market cap, the creator is still willing to buy on weakness given the long-term potential."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Bought These 2 Stocks Again During the Crash. Here's Why",
+          "url": "https://www.youtube.com/watch?v=Mo-a1KqTWBE",
+          "upload_date": "20260720",
+          "date_label": "20 Jul 2026",
+          "ticker": "NEBU",
+          "company_name": "Nebeus",
+          "reason": "The creator describes this as their highest conviction name and believes it will become a gigantic company in the future. The investment thesis is based on the premise that there will not be one AI model that wins everything; instead, there will be multiple AI models (OpenAI, Anthropic, Google Gemini, open source models, etc.) competing. As more AI models and companies enter the ecosystem, demand for compute tokens increases. Nebeus benefits from this token generation regardless of which model or company is winning at any given time. The creator notes that cheaper tokens and more efficient models actually expand the total addressable market for AI compute, driving ecosystem growth and increasing overall demand for compute\u2014benefiting Nebeus. The creator expects to be very surprised by Nebeus's results, guidance, and management comments, and believes the current market dip presents a buying opportunity.",
+          "when_to_buy": "During market dips; creator added 10 shares at $181 during the crash",
+          "target_price": "The creator believes Nebeus will be a $100+ billion company",
+          "cautions": "None explicitly stated, though the creator acknowledges that understanding this thesis is important and 'may not be for everyone'"
         }
       ],
       "avoids": [],
@@ -7167,7 +7527,7 @@
       "ticker": "NFLX",
       "company_name": "Netflix Inc.",
       "buy_count": 7,
-      "avoid_count": 4,
+      "avoid_count": 5,
       "first_mention_date": "21 Jun 2026",
       "price_at_first_mention": 73.81,
       "pct_change_since_rec": -6.6,
@@ -7346,6 +7706,17 @@
           "company_name": "Netflix Inc.",
           "reason": "The creator identifies that Netflix's business is consistently decelerating across all regions and metrics. Revenue growth has fallen from 17.6% four quarters ago to a forecasted 11.7%, representing a 5.5% deceleration. The stock has already fallen 50% from all-time highs and is down 9% in after-hours trading. While the creator believes the stock may be fairly to undervalued based on DCF analysis (potentially trading at $68 versus fair value of $75-$85), they explicitly state they would not own it because Meta, Microsoft, and Amazon are much higher quality, growing faster, more diversified, and offering better prices and future return potential. The creator does not personally own Netflix and sees no compelling reason to own it over superior alternatives.",
           "risk": "The creator values the stock at $75-$85 per share in fair value scenarios, suggesting it may decline further if growth continues to decelerate below 10-12% annually or if multiple compression accelerates. Current trading at $68 in after-hours."
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "A Once in a Decade Opportunity is Here [The AI Reset]",
+          "url": "https://www.youtube.com/watch?v=VmD9DscdkaA",
+          "upload_date": "20260720",
+          "date_label": "20 Jul 2026",
+          "ticker": "NFLX",
+          "company_name": "Netflix Inc.",
+          "reason": "Creator owns Netflix but is 'increasingly becoming a little bit frustrated' with it. The company delivered a 'pretty lackluster earnings report' with Q3 guidance coming in lower than expected for both revenue and EPS. Q2 also missed on revenue. More concerning, Netflix is reducing transparency by stopping sharing viewing hours engagement reports (moving from twice a year to once a year). The creator warns that when a company is not beating expectations AND reduces transparency, it warrants skepticism. While the stock trades at reasonable valuations (21 PE, 18 forward PE, strong ROIC and KAGER), the creator doubts whether Netflix will grow at a rate with 'blowout earnings' or 'blowout revenue,' particularly fighting TikTok and YouTube for younger generation eyeballs.",
+          "risk": "Continued underperformance of guidance; margin compression; loss of subscribers or engagement; potential multiple compression if growth disappoints further"
         }
       ],
       "description": "Produces and streams television series, films, and games"
@@ -7532,7 +7903,7 @@
         "ma200": 128.8,
         "ma_signal": "death_cross",
         "pe_trailing": 61.45238,
-        "pe_forward": 20.557055,
+        "pe_forward": 20.518284,
         "peg_ratio": 0.9,
         "revenue_growth": 0.221,
         "earnings_growth": 0.023,
@@ -8047,8 +8418,8 @@
         "analyst_buy": 5,
         "analyst_hold": 9,
         "analyst_sell": 0,
-        "analyst_target": 47.5,
-        "analyst_upside_pct": -5.6,
+        "analyst_target": 47.54,
+        "analyst_upside_pct": -5.5,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -8109,6 +8480,31 @@
       ],
       "avoids": [],
       "description": "Manufactures implantable neuromodulation devices for pain management"
+    },
+    {
+      "ticker": "NVTA",
+      "company_name": "Navitas Semiconductor Corporation",
+      "buy_count": 0,
+      "avoid_count": 1,
+      "first_mention_date": "20 Jul 2026",
+      "price_at_first_mention": null,
+      "pct_change_since_rec": null,
+      "market": null,
+      "buys": [],
+      "avoids": [
+        {
+          "channel": "CouchInvestor",
+          "title": "I Bought These 2 Stocks Again During the Crash. Here's Why",
+          "url": "https://www.youtube.com/watch?v=Mo-a1KqTWBE",
+          "upload_date": "20260720",
+          "date_label": "20 Jul 2026",
+          "ticker": "NVTA",
+          "company_name": "Navitas Semiconductor Corporation",
+          "reason": "The creator uses Navitas as an example of a 'trash company' that has gone up significantly and is now down 60% from highs. The creator argues that Navitas should have never been valued so highly in the first place. The hype was driven by Nvidia's involvement and a blog post, but the creator states that right now Navitas has nothing to show on paper. While the stock will likely go up when everything else goes up, the creator questions whether investors should own such companies given the risk of flash crashes and lack of real business fundamentals to justify billions in valuation.",
+          "risk": "Down 60% from highs; creator suggests it will experience similar flash crashes in the future"
+        }
+      ],
+      "description": "Designs power management semiconductors for mobile and computing"
     },
     {
       "ticker": "NYT",
@@ -9134,6 +9530,33 @@
       "description": "Online community and discussion platform"
     },
     {
+      "ticker": "REDDIT",
+      "company_name": "Reddit Inc.",
+      "buy_count": 1,
+      "avoid_count": 0,
+      "first_mention_date": "20 Jul 2026",
+      "price_at_first_mention": null,
+      "pct_change_since_rec": null,
+      "market": null,
+      "buys": [
+        {
+          "channel": "CouchInvestor",
+          "title": "I Bought These 2 Stocks Again During the Crash. Here's Why",
+          "url": "https://www.youtube.com/watch?v=Mo-a1KqTWBE",
+          "upload_date": "20260720",
+          "date_label": "20 Jul 2026",
+          "ticker": "REDDIT",
+          "company_name": "Reddit Inc.",
+          "reason": "The creator mentions wanting to increase Reddit position but does not provide detailed reasoning in this video segment.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": null
+        }
+      ],
+      "avoids": [],
+      "description": "Online discussion platform and community forum aggregator"
+    },
+    {
       "ticker": "RIO",
       "company_name": "Rio Tinto (or Iron-related company reference \u2014 unclear from context)",
       "buy_count": 0,
@@ -9198,7 +9621,7 @@
     {
       "ticker": "RKLB",
       "company_name": "Rocket Lab",
-      "buy_count": 2,
+      "buy_count": 3,
       "avoid_count": 1,
       "first_mention_date": "21 Jun 2026",
       "price_at_first_mention": 84.54,
@@ -9267,6 +9690,19 @@
           "when_to_buy": "Under $100 per share is attractive; creator suggests pullbacks may provide additional entry opportunities in this headline-driven market",
           "target_price": "$100+ company in the making; potential for 10x or greater returns from current levels, though timeframe is extended (not 1-5 years)",
           "cautions": "Stock is not currently profitable and is expensive at current valuations ($53 billion market cap). Rocket Lab development costs remain substantial, including Neutron rocket development which has experienced delays. Stock is currently down 39% from highs despite being up 156% over the past year. Creator advises this is not a cheap entry and recommends knowing what you're buying. Risk of pullbacks in a headline-driven market exists."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Bought These 2 Stocks Again During the Crash. Here's Why",
+          "url": "https://www.youtube.com/watch?v=Mo-a1KqTWBE",
+          "upload_date": "20260720",
+          "date_label": "20 Jul 2026",
+          "ticker": "RKLB",
+          "company_name": "Rocket Lab USA Inc.",
+          "reason": "The creator has been accumulating shares at lower prices after taking significant profits earlier (sold 45 shares at $114 and 100 shares near $87). The strategy is to buy back shares at lower valuations. The creator stated earlier they would continue to accumulate below $80, and since the stock fell below that target into the low $70s, this presented a buying opportunity. The creator added 30 shares at $68.36 during the crash.",
+          "when_to_buy": "Under $80, ideally in the low $70s; creator bought at $68.36",
+          "target_price": null,
+          "cautions": "The creator notes that Rocket Lab should never have been at $150 per share this early in its development. While the creator likes the company, they acknowledge it was overvalued at those heights."
         }
       ],
       "avoids": [
@@ -9721,7 +10157,7 @@
     {
       "ticker": "SOFI",
       "company_name": "SoFi Technologies",
-      "buy_count": 7,
+      "buy_count": 8,
       "avoid_count": 0,
       "first_mention_date": "21 Jun 2026",
       "price_at_first_mention": 17.85,
@@ -9855,6 +10291,19 @@
           "when_to_buy": "Current market dip",
           "target_price": null,
           "cautions": null
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Bought These 2 Stocks Again During the Crash. Here's Why",
+          "url": "https://www.youtube.com/watch?v=Mo-a1KqTWBE",
+          "upload_date": "20260720",
+          "date_label": "20 Jul 2026",
+          "ticker": "SOFI",
+          "company_name": "SoFi Technologies Inc.",
+          "reason": "The creator mentions potentially buying more SoFi if it comes down in price but does not provide detailed investment reasoning.",
+          "when_to_buy": "If the stock price comes down",
+          "target_price": null,
+          "cautions": "The creator is monitoring this as a potential addition but is not currently committed to adding to the position."
         }
       ],
       "avoids": [],
@@ -9884,6 +10333,68 @@
         }
       ],
       "description": "Voice AI recognition and natural language processing"
+    },
+    {
+      "ticker": "SOXL",
+      "company_name": "Direxion Daily Semiconductor Bull 3X Shares",
+      "buy_count": 0,
+      "avoid_count": 1,
+      "first_mention_date": "20 Jul 2026",
+      "price_at_first_mention": 135.47,
+      "pct_change_since_rec": 0.0,
+      "market": {
+        "ticker": "SOXL",
+        "name": "Direxion Daily Semiconductor Bu",
+        "currency": "USD",
+        "sector": null,
+        "industry": null,
+        "market_cap": null,
+        "current_price": 135.47,
+        "daily_change_pct": -4.92,
+        "month_change_pct": -51.49,
+        "week52_high": 302.0,
+        "week52_high_date": "22 Jun 2026",
+        "week52_low": 22.57,
+        "week52_low_date": "01 Aug 2025",
+        "rsi": 39.4,
+        "rsi_label": "neutral",
+        "ma50": 205.03,
+        "ma200": 93.92,
+        "ma_signal": "golden_cross",
+        "pe_trailing": 23.024933,
+        "pe_forward": null,
+        "peg_ratio": null,
+        "revenue_growth": null,
+        "earnings_growth": null,
+        "free_cashflow": null,
+        "profit_margins": null,
+        "debt_to_equity": null,
+        "beta": null,
+        "short_percent": null,
+        "dividend_yield": 0.0,
+        "analyst_buy": null,
+        "analyst_hold": null,
+        "analyst_sell": null,
+        "analyst_target": null,
+        "analyst_upside_pct": null,
+        "earnings_date": null,
+        "earnings_days": null
+      },
+      "buys": [],
+      "avoids": [
+        {
+          "channel": "The Traveling Trader",
+          "title": "A Once in a Decade Opportunity is Here [The AI Reset]",
+          "url": "https://www.youtube.com/watch?v=VmD9DscdkaA",
+          "upload_date": "20260720",
+          "date_label": "20 Jul 2026",
+          "ticker": "SOXL",
+          "company_name": "Direxion Daily Semiconductor Bull 3X Shares",
+          "reason": "Creator is personally hedged with a semiconductor short and believes semiconductors (and the leveraged semiconductor ETF) still have room to fall. There is a 'huge head and shoulders' pattern on the semiconductor ETF that has not yet reached the 100-day moving average. Nvidia, AMD, and Intel do not report earnings at the same time as MAG7 hyperscalers, and creator is waiting to see those reports before committing. Creator sold SOXL at $70 (10x from $7 entry) and it went to $300, but still expects it could 'potentially get below 100 once again.'",
+          "risk": "Further downside to potentially below 100; semiconductor weakness continuing; technical breakdown below support levels"
+        }
+      ],
+      "description": "Leveraged ETF providing 3x daily exposure to semiconductor stocks"
     },
     {
       "ticker": "SSNLF",
@@ -10160,7 +10671,7 @@
     {
       "ticker": "TSLA",
       "company_name": "Tesla Inc.",
-      "buy_count": 2,
+      "buy_count": 3,
       "avoid_count": 3,
       "first_mention_date": "26 Jun 2026",
       "price_at_first_mention": 379.71,
@@ -10229,6 +10740,19 @@
           "when_to_buy": "On breakout from consolidation, particularly on announcement catalysts",
           "target_price": null,
           "cautions": "The stock appears very overvalued using traditional metrics. The investment thesis relies heavily on execution of robotics strategy and potential SpaceX collaboration. Summer may be slow with limited catalysts."
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "A Once in a Decade Opportunity is Here [The AI Reset]",
+          "url": "https://www.youtube.com/watch?v=VmD9DscdkaA",
+          "upload_date": "20260720",
+          "date_label": "20 Jul 2026",
+          "ticker": "TSLA",
+          "company_name": "Tesla Inc.",
+          "reason": "Listed as part of MAG7/Mag 7 earnings this week. Implied to be worth monitoring for earnings results, though no specific thesis is provided for Tesla in the video beyond it being part of the major tech earnings cycle.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": null
         }
       ],
       "avoids": [
@@ -10361,7 +10885,7 @@
     {
       "ticker": "UBER",
       "company_name": "Uber Technologies Inc.",
-      "buy_count": 5,
+      "buy_count": 6,
       "avoid_count": 0,
       "first_mention_date": "21 Jun 2026",
       "price_at_first_mention": 76.2,
@@ -10469,6 +10993,19 @@
           "when_to_buy": "Current levels around $70s, sitting at the 50-day moving average",
           "target_price": null,
           "cautions": "The deal will take significant time to close (expected second half of 2027) and full integration between 2028-2029, subject to regulatory approval. Stock is down $1.57 at time of video, but integration timeline is multi-year."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Bought These 2 Stocks Again During the Crash. Here's Why",
+          "url": "https://www.youtube.com/watch?v=Mo-a1KqTWBE",
+          "upload_date": "20260720",
+          "date_label": "20 Jul 2026",
+          "ticker": "UBER",
+          "company_name": "Uber Technologies Inc.",
+          "reason": "The creator views Uber's acquisition of Delivery Hero as a very good strategic move that keeps the company super competitive while making it even stronger. The investment case is based on Uber having tremendous leadership that 'does all the right moves.' The creator has added significantly to Uber.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": "The creator stated they do not plan to add more right now, as they want to prioritize increasing exposure to other positions like Nebeus and Rocket Lab."
         }
       ],
       "avoids": [],
@@ -10502,7 +11039,7 @@
         "ma200": 337.85,
         "ma_signal": "golden_cross",
         "pe_trailing": 32.060947,
-        "pe_forward": 19.240608,
+        "pe_forward": 19.195015,
         "peg_ratio": 1.42,
         "revenue_growth": 0.004,
         "earnings_growth": 0.615,
@@ -10784,8 +11321,8 @@
         "analyst_buy": 1,
         "analyst_hold": 5,
         "analyst_sell": 1,
-        "analyst_target": 15.07,
-        "analyst_upside_pct": 8.0,
+        "analyst_target": 15.06,
+        "analyst_upside_pct": 7.9,
         "earnings_date": null,
         "earnings_days": null
       },

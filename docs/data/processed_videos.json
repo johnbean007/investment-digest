@@ -11008,6 +11008,48 @@
         "AMZN": 247.23,
         "EWI": 60.26
       }
+    },
+    "AEQRtzbKIeg": {
+      "channel": "Jose Najarro Stocks",
+      "title": "IF YOU OWN AMD IREN NEBIUS... GET READY!!",
+      "upload_date": "20260721",
+      "url": "https://www.youtube.com/watch?v=AEQRtzbKIeg",
+      "processed_at": "2026-07-21T09:04:02.196790",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "IREN",
+            "company_name": "Iren (AI Infrastructure Company)",
+            "reason": "Iren signed $2.8 billion in new customer contracts with leading AI developers and raised their 2026 AI cloud annualized run rate revenue from $3.7 billion to more than $4 billion, representing at least a 10% increase on the floor. The creator highlights that 85% of this revenue is already under contract, providing strong visibility. Most importantly, the company is expanding beyond bare metal solutions to include managed cloud services, which is a higher margin business. The customer base is expanding significantly to include Microsoft, Nvidia, Perplexity, Figure AI, Together AI, Fluidstack, Fireworks AI, and others, demonstrating ecosystem growth. Additionally, recent contracts include customer prepayments representing approximately 45% of associated GPU capital expenditure, reducing Iren's net funding requirement. By end of 2026, Iren expects 480 MW of AI cloud capacity and 1.2 GW by end of 2027. The creator explicitly states they are a shareholder of Iren.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Any delays in meeting power capacity expansion targets (480 MW by end of 2026 and 1.2 GW by end of 2027) could create stock volatility, as such delays have been observed in the AI infrastructure market. These fluctuations could push off some customer contracts."
+          },
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices",
+            "reason": "AMD announced an expanded long-term partnership with Microsoft to deploy next-gen AMD Instinct and AMD Epic processors. Microsoft will deploy the AMD Helios Rex scale solution to power Frontier model AI inference and will start shipping Helios to customers including Microsoft in the second half of 2026. The creator notes this represents strong supply chain execution, as the original plan was to ship only to OpenAI, then expanded to OpenAI and Meta, and now includes Microsoft. This demonstrates the potential for significant revenue growth in the second half of 2026 and removes market fears regarding potential delays. Additionally, there are rumors that Anthropic may become an AMD customer and is still in evaluation phase, with potential announcement at AMD's upcoming AI conference on Thursday, which creates near-term catalyst expectations. The creator expects AMD to announce something significant at its AI event given the stock is already up 125% year-to-date.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "With the stock already up 125% year-to-date, there are high expectations for AMD to announce major partnerships or expansions at its upcoming AI conference. The Anthropic rumor is still in evaluation phase and failure to announce clarity could disappoint the market. The partnership expansion news, while positive, has been partially in development since March 11, 2026."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "The creator cautions that Nvidia's disclosed 9.3% stake in Nebius announced in a recent form filing is not new news but rather part of an existing partnership announced on March 11, 2026 when Nvidia had warrants of approximately 21-22 million shares valued at around $2 billion (representing roughly 10% of Nebius at that time). Investors should not treat this as a recent bullish development indicating new Nvidia investment, as the market initially reacted positively to this disclosure without recognizing it as old news being formally documented.",
+          "The broader AI infrastructure market is experiencing extreme capacity constraints, as evidenced by Kimi pausing new subscriptions due to GPU demand exceeding capacity over 48 hours. While this demonstrates strong AI adoption, any supply-demand imbalances could create temporary volatility or redirect demand rather than being bearish for the sector."
+        ],
+        "tickers_mentioned": [
+          "IREN",
+          "AMD",
+          "NVDA",
+          "NEBIUS"
+        ]
+      },
+      "price_at_recommendation": {
+        "IREN": 40.2,
+        "AMD": 503.57
+      }
     }
   },
   "channel_ids": {

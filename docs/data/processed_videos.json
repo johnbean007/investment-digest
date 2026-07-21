@@ -11050,6 +11050,41 @@
         "IREN": 40.2,
         "AMD": 503.57
       }
+    },
+    "Sq0NAs731Lk": {
+      "channel": "CouchInvestor",
+      "title": "This Stock Could Be a Multibagger. Here's the Case",
+      "upload_date": "20260721",
+      "url": "https://www.youtube.com/watch?v=Sq0NAs731Lk",
+      "processed_at": "2026-07-21T19:37:39.868071",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "VT",
+            "company_name": "Voyager Technologies",
+            "reason": "Voyager Technologies operates in defense technology and space solutions with three business segments: defense and national security, space solutions, and StarLab space stations. The defense business provides immediate guaranteed revenue driven by the US missile defense build-up through multi-year hardware supply contracts, including a critical monopoly-like position in rocket motor ignition materials (black powder supply for weapons like Javelin and Patriot), providing high profit margins and pricing power. The StarLab space station represents a call option on the space economy, projected to launch in 2029 aboard SpaceX's Starship as a replacement for the International Space Station at a fraction of the cost ($3 billion vs $450 billion for ISS). Starlab is 67% controlled by Voyager with revenue consolidating directly into financial statements, has 130% pre-sold commercial launch capacity, and will generate recurring subscription and rental fees from global researchers. At $1.7 billion market cap, the company is still very small, and even if it reaches $5-10 billion in valuation, this represents significant multibagger potential. The creator's DCF analysis shows a base case of $54.20 per share (54.4% upside) with 45% probability, a bull case of $87.75 with 25% probability, and acknowledges a bear case of $0 with 30% probability.",
+            "when_to_buy": "On technical support at the 50-week moving average; stock is currently hovering at this level which could provide a good rebound opportunity if sector momentum returns",
+            "target_price": "$54.20 (base case), $87.75 (bull case)",
+            "cautions": "This is an extremely risky space company dependent on SpaceX's Starship flying successfully by 2029; any delays prevent revenue recognition and destroy profitability projections. The company is still unprofitable with negative free cash flow expected through fiscal 2028, and operating profit and net income remain negative through fiscal 2028. The bear case assumes complete failure of StarLab and defense business, resulting in zero value. Space sector moves are highly correlated\u2014all space stocks crashed together when SpaceX momentum faded. The creator explicitly states he has no position and does not intend to buy at this time, and notes that Starlab timeline risk is substantial. Unlike established companies, if a rocket blows up, the entire project and associated revenue recognition blow up with it."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Space sector correlation risk: The entire space industry moves together despite fundamental differences between businesses. When sector momentum shifts negative, all space stocks (Rocket Lab, AST Space Mobile, SpaceX, Voyager) decline together regardless of individual company quality. All space stocks have crashed approximately 42-48% since end of May due to sector-wide pullback following SpaceX momentum.",
+          "SpaceX valuation concern: Even at reduced prices around $136 per share (down from $225 peak), SpaceX is still considered quite expensive by the analyst, suggesting significant valuation risk remains across high-growth space stocks.",
+          "Execution risk in space industry: Space companies face binary outcomes\u2014rockets either launch successfully or they don't. Delays are common and prevent revenue recognition, destroying financial projections and profitability timelines. Starlab launch deadline of 2029 is critical; any delay cascades through all revenue and profitability forecasts.",
+          "Capital requirements: High-growth space companies typically cannot reach profitability without external funding or acquisitions. Voyager will likely need additional capital raises, diluting existing shareholders, especially if Starlab timeline slips or defense contracts underperform."
+        ],
+        "tickers_mentioned": [
+          "VT",
+          "RLBOT",
+          "ASTS",
+          "SPX"
+        ]
+      },
+      "price_at_recommendation": {
+        "VT": 156.14
+      }
     }
   },
   "channel_ids": {

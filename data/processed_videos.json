@@ -11085,6 +11085,82 @@
       "price_at_recommendation": {
         "VT": 156.14
       }
+    },
+    "oYL9n9A2keg": {
+      "channel": "Ticker Symbol: YOU",
+      "title": "Dips Never Last. I'm Buying These 5 Stocks Now.",
+      "upload_date": "20260721",
+      "url": "https://www.youtube.com/watch?v=oYL9n9A2keg",
+      "processed_at": "2026-07-21T22:30:33.028711",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "ASML",
+            "company_name": "ASML Holding N.V.",
+            "reason": "ASML is the only company on Earth that manufactures EUV lithography machines, which are essential for advanced chip production. The company has unlimited pricing power because customers cannot replace them, rush them, or negotiate down prices. ASML is expanding production capacity by about 30% per year, but demand is growing faster than that capacity expansion. As long as chipmakers need more machines than ASML can produce, ASML gets to set prices and maintain pricing power. The stock is down 10% over the last month, presenting a buying opportunity.",
+            "when_to_buy": "During market dips; stock currently down 10% over the last month",
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "TSM",
+            "company_name": "Taiwan Semiconductor Manufacturing Company",
+            "reason": "TSMC's chip-on-wafer-on-substrate (CoWoS) packaging nodes are running at maximum capacity and are sold out into 2027, which means the company can set its own prices and achieve exceptional margins. The company reported 67% gross margins and 77% earnings growth, demonstrating pricing power from supply constraints. TSMC benefits from a fundamental supply-demand imbalance that will persist in the near term. However, this is a long-term opportunity requiring patience as the company transitions to 2-nanometer production, which will initially drag margins down before ramping up.",
+            "when_to_buy": "During market dips; stock currently down almost 15% over the last month",
+            "target_price": null,
+            "cautions": "TSMC faces near-term margin pressure from expensive and risky transition to 2-nanometer chip production with lower initial yields. The company is exposed to supply chain shocks from the Strait of Hormuz closure, as Taiwan imports over 90% of its energy and keeps less than a month of reserves. 2-nanometer wafers cost around 50% more than current 3-nanometer wafers, so until 2nm fabs ramp up production over the next few quarters, margins will be temporarily depressed."
+          },
+          {
+            "ticker": "LRCX",
+            "company_name": "Lam Research Corporation",
+            "reason": "Lam Research is a critical supplier of deposition, etching, and wafer cleaning machines used by all major chipmakers (TSMC, Intel, Micron, Samsung, and SKHynix) when expanding their fabrication facilities. Deposition adds ultra-thin layers of materials to wafers while etching selectively removes material to create circuit patterns. These two processes are repeated hundreds of times layer by layer to build complete 3D circuits. When chipmakers expand fabs to meet AI chip demand, they do so with machines made by Lam Research. Buying LRCX is essentially a bet that AI chip demand and production will continue accelerating.",
+            "when_to_buy": "During market dips; stock currently down 25% over the last month",
+            "target_price": null,
+            "cautions": "If chipmakers begin expanding their fabs more slowly due to supply bottlenecks in packaging or rack limitations, Lam Research will feel the slowdown first as orders decline. The stock's 25% decline over the past month reflects market concern about this risk."
+          },
+          {
+            "ticker": "KLAC",
+            "company_name": "KLA Corporation",
+            "reason": "KLA manufactures inspection and measurement machines for quality control in semiconductor fabs, scanning each wafer for defects invisible to the naked eye and measuring whether each layer lands at the right thickness and aligns properly. KLA dominates the market with over 50% share of the overall semiconductor process control and inspection market and over 80% market share in optical wafer inspection. The company's next biggest competitor (Applied Materials) holds only 10% of the market. KLA's advanced packaging inspection business is expected to hit approximately $1 billion in revenue this year, representing over 50% year-over-year growth. Once chipmakers integrate KLA's machines into their processes, ripping them out becomes expensive and risky, increasing switching costs and customer lock-in, which further increases KLA's market share.",
+            "when_to_buy": "During market dips; stock currently down more than 20% over the last month",
+            "target_price": null,
+            "cautions": "KLA's growth depends on continued fab expansion by chipmakers. If expansion slows due to packaging bottlenecks or rack delays, demand for KLA's inspection equipment could decline."
+          },
+          {
+            "ticker": "VRT",
+            "company_name": "Vertiv Holdings Co.",
+            "reason": "Vertiv's core business is power and cooling solutions for data centers. Liquid cooling is now the default for new AI data centers, and Vertiv is one of Nvidia's key partners building new power architecture for next-generation systems. Vertiv's 800V DC power portfolio is set to roll out ahead of Nvidia's Kyber Racks and Ruben Ultra chips, positioning the company to benefit from the deployment of new high-density GPU clusters that draw 600 kW of power per rack.",
+            "when_to_buy": "Wait for earnings results at the end of this month before buying; stock currently down almost 20% over the last month",
+            "target_price": null,
+            "cautions": "If Nvidia's Kyber rack deployment is delayed beyond 2028, Vertiv will also feel the impact as orders and deployments slip. The stock is down 20% over the last month partly due to concerns about Kyber delay. The creator is specifically waiting for Vertiv's earnings at the end of the month before establishing a position."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "AI stock valuations are priced for unlimited compute scaling, but three major supply-side bottlenecks are hitting the market simultaneously: (1) ASML can only ship 65-85 EUV lithography machines per year, with each machine taking up to 2 years from delivery to full production; (2) TSMC's advanced chip packaging (CoWoS) capacity is maxed out and sold out into 2027, creating a hard ceiling on chip availability; (3) Nvidia's next-generation Kyber rack systems may be delayed to 2028 due to strain on the multi-layer circuit board backplane from packing 576 GPUs in a single rack. These constraints mean companies cannot simply spend more money to accelerate chip production in the near term.",
+          "Geopolitical supply chain risk: The Strait of Hormuz has been closed to shipping since the Iran war began earlier this year and was tightened again when President Trump reinstated a naval blockade of Iran's ports. Taiwan imports over 90% of its energy, keeps less than a month of gas reserves, and a third of the world's helium ships through this passage. All of these inputs are critical for TSMC to maintain full-volume chip production. Prolonged closure of this shipping passage could create severe supply chain disruptions.",
+          "TSMC faces elevated near-term execution risk transitioning to 2-nanometer production, which involves replacing finfet transistors with gate-all-around (GAA) structures for the first time in over a decade. New manufacturing nodes historically have low yields, meaning many wafers are scrapped at a cost TSMC must absorb. 2nm wafers cost 50% more than current 3nm wafers, so margins will be compressed until fabs ramp to full production over the next few quarters."
+        ],
+        "tickers_mentioned": [
+          "ASML",
+          "TSM",
+          "LRCX",
+          "KLAC",
+          "VRT",
+          "NVDA",
+          "AMAT",
+          "INTC",
+          "MU",
+          "SSNLF"
+        ]
+      },
+      "price_at_recommendation": {
+        "LRCX": 322.0,
+        "ASML": 1801.51,
+        "KLAC": 217.56,
+        "TSM": 424.61,
+        "VRT": 304.5
+      }
     }
   },
   "channel_ids": {

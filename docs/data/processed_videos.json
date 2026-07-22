@@ -11161,6 +11161,57 @@
         "TSM": 424.61,
         "VRT": 304.5
       }
+    },
+    "jEvMJmndSC4": {
+      "channel": "Daniel Pronk",
+      "title": "Which Stocks Are Cheap Before Earnings Tomorrow?",
+      "upload_date": "20260721",
+      "url": "https://www.youtube.com/watch?v=jEvMJmndSC4",
+      "processed_at": "2026-07-22T09:54:47.201362",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NOW",
+            "company_name": "ServiceNow Inc.",
+            "reason": "ServiceNow is trading at a price-to-free-cash-flow of 22.7x, which is low relative to its historical valuation range of 30-40x. The company is growing revenue consistently at approximately 20% annually and projects to double revenue to $30 billion by 2030. Free cash flow margins remain strong at 33%, above long-term averages, despite a 2.5% decline in gross margins due to AI/token costs. The analyst believes the stock is undervalued and that the SaaS sector will eventually see multiple reexpansion as investors recognize that companies like ServiceNow are not being disrupted by AI but can actually benefit from it. A DCF model assuming no multiple expansion shows 18% annual returns, but if the multiple reexpands to 25x (historically conservative), returns could reach 20% annually.",
+            "when_to_buy": null,
+            "target_price": "$234 over 5 years (130% total return if multiples stay at 23x FCF); higher returns possible if multiple reexpands to 25-30x",
+            "cautions": "Revenue growth has been decelerating from 23-25% to 19-20%, though the creator views this as normal for a maturing business. Net retention rate fell 1% to 97%, which warrants monitoring; further declines to 96-95% would be concerning. The creator personally is not buying despite seeing value because he already has significant software exposure through Constellation Software, Tick it Systems, and Signity. Investors should wait for multiples to reexpand before seeing significant returns."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet Inc.",
+            "reason": "Google is trading at a trailing price-to-earnings ratio of 35.4x (excluding one-time investment gains), which matches its historical high from 2021 and is on the high end of its 6-year range. Forward PE is 26x, also on the high end. While the company fundamentals are strong with 22% revenue growth, 30% operating income growth, and cloud revenue up 63% year-over-year, the valuation is not offering a margin of safety. The creator's DCF model shows a 13% compounded annual growth rate over 5 years with fair value of $397 (15% upside) and future price of $635 (84% total returns over 5 years). The creator explicitly states he prefers more than a 13% CAGR and believes there is more value elsewhere in the market despite Google being a high-quality business.",
+            "risk": "Near historical valuation highs; limited upside at current multiples"
+          },
+          {
+            "ticker": "TSLA",
+            "company_name": "Tesla Inc.",
+            "reason": "Tesla's fundamentals have been underwhelming for the past 3-4 years. Revenue has been flat on a trailing 12-month basis since Q3 2023, while gross profits, operating income, and net income have all declined significantly. Gross profits topped in Q4 2022 and have trended down, though recently starting to recover. Operating income has fallen from $14 billion in Q4 2022 to $4.8-5.3 billion currently\u2014a decline of about $9 billion. Net income has fallen from $15 billion in Q4 2023 to $4 billion in trailing 12 months. Despite these declines, Tesla trades at extreme multiples: 14.5x price-to-sales (higher than many software companies), 367x trailing PE, 85.9x price-to-operating-cash-flow, 170x forward PE, 122x price-to-EBITDA, and 203x price-to-free-cash-flow. The creator argues that investors are paying for future success in robotics and AI that has not yet materialized, with no guarantee of execution. The valuation reflects unrealized future business lines rather than current fundamentals.",
+            "risk": "Massive overvaluation relative to fundamentals; stock highly dependent on Elon Musk's ability to generate hype rather than financial performance; significant downside if future business lines (robotics, AI) do not materialize as promised"
+          }
+        ],
+        "key_warnings": [
+          "Hyperscaler capex cycle impact on free cash flow: All hyperscalers (Google, Amazon, Microsoft, etc.) are experiencing massive increases in capital expenditure (Google's capex up 107% year-over-year) to capture AI demand, which is causing free cash flow to decline despite strong operating cash flow and revenue growth. Many hyperscalers are projected to have negative free cash flow next year. However, this should be viewed as temporary and strategic rather than a sign of deteriorating profitability, as long as revenue and operating cash flow continue to accelerate, which they are.",
+          "SaaS sector valuation reset: Software companies have been sold off indiscriminately over the past year with many down 50%+, but the market may be pricing in disruption too heavily. Not all software companies will be disrupted by AI; some like ServiceNow could benefit from it. As fundamentals continue to prove out and companies demonstrate resilience, multiple reexpansion is likely to occur.",
+          "Earnings season narrative risk: Tesla's stock movement will be determined primarily by what Elon Musk says on the earnings call and the hype he generates rather than actual financial performance, indicating the stock is disconnected from fundamental valuation."
+        ],
+        "tickers_mentioned": [
+          "GOOGL",
+          "NOW",
+          "TSLA",
+          "CSU",
+          "TSI",
+          "SIG"
+        ]
+      },
+      "price_at_recommendation": {
+        "NOW": 102.06,
+        "GOOGL": 347.15,
+        "TSLA": 378.93
+      }
     }
   },
   "channel_ids": {

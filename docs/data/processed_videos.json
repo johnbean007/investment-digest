@@ -11212,6 +11212,189 @@
         "GOOGL": 347.15,
         "TSLA": 378.93
       }
+    },
+    "jFSBGEb-90M": {
+      "channel": "Daniel Pronk",
+      "title": "Google Stock is Falling After Earnings - Here's What You Need to Know",
+      "upload_date": "20260722",
+      "url": "https://www.youtube.com/watch?v=jFSBGEb-90M",
+      "processed_at": "2026-07-23T10:02:40.383140",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms Inc.",
+            "reason": "The creator chose to purchase Meta over Google based on comparative DCF analysis. Meta's DCF with 15% annual operating cash flow growth and a 14 price-to-operating cash flow multiple yields a 19% compounded annual growth rate, which is significantly higher than Google's 12.5% CAGR. The creator views Meta's valuation as more attractive relative to available opportunities in the market and considers it a more conservative and better opportunity than Google despite Google's strong earnings.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon Inc.",
+            "reason": "The creator explicitly stated they have chosen to purchase Amazon over Google as part of their portfolio allocation. The creator views Amazon as a more attractive stock opportunity relative to Google in the current market environment, though specific detailed valuation reasoning for Amazon was not provided in the video.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "GOOGL",
+            "company_name": "Google (Alphabet Inc.)",
+            "reason": "Despite acknowledging an incredible quarter with strong revenue growth (24% overall, 82% for Google Cloud), accelerating operating income (up 30%), and excellent business fundamentals, the creator is not a buyer of Google shares. The creator's DCF analysis shows Google is fairly valued at current prices if it hits analyst estimates, offering only 12.5% compounded annual growth rate over three years with a 42% total return by 2029. This margin of safety is insufficient for the creator's investment criteria, especially when comparing to other opportunities. Additionally, Google is facing significant headwinds: free cash flow turned negative this quarter for the first time, the company has stopped share buybacks, is now diluting shareholders by issuing $30.5 billion in new shares, has raised $56 billion in debt year-to-date, and management guided that Google search revenue growth should slow next quarter and capex will significantly increase in 2027, likely keeping free cash flow negative for the foreseeable future.",
+            "risk": "The creator's DCF shows a fair value of $366 per share with a future stock price of $484 by 2029, implying limited upside from current levels. Additionally, if Google fails to achieve analyst estimates or if capex spending does not generate adequate returns, the stock could face significant downside pressure. The valuation at 22.6x operating cash flow is already at the high end of historical ranges (compared to a 10-year median of 18x), leaving little room for multiple compression."
+          }
+        ],
+        "key_warnings": [
+          "Google's capital expenditure trajectory is unsustainable without positive free cash flow generation. Capex has doubled year-over-year to $44.9 billion in Q2 and management has raised guidance to $195-205 billion for 2026 with expectations of significant further increases in 2027. This requires the company to fund growth through share dilution ($30.5 billion issued in Q2) and debt ($56 billion raised year-to-date) rather than organic cash flows. If Google's massive capex investments in AI infrastructure and Google Cloud do not deliver sufficient returns, this could represent a significant destruction of shareholder value.",
+          "Hyperscaler earnings reports show a common pattern where phenomenal operational performance is being priced into stock valuations in advance. Google's stock sold off 4.2% in after-hours trading despite beating on most metrics because the market had already priced in the strong results, and the guidance on slowing search growth and rising capex created disappointment despite the quarter's fundamental strength.",
+          "Free cash flow deterioration across the hyperscaler complex is a critical metric to monitor. Google's trailing 12-month free cash flow declined 20% to $53.3 billion and is now negative on a quarterly basis, which fundamentally changes the valuation framework and makes price-to-free-cash-flow multiples (currently 80x) unreliable for valuation purposes. This trend is likely to continue as capex grows faster than operating cash flows."
+        ],
+        "tickers_mentioned": [
+          "GOOGL",
+          "META",
+          "AMZN",
+          "NOW"
+        ]
+      },
+      "price_at_recommendation": {
+        "META": 627.17,
+        "GOOGL": 342.09,
+        "AMZN": 244.85
+      }
+    },
+    "5UNzXTVWIyw": {
+      "channel": "Jose Najarro Stocks",
+      "title": "GOOGLE GAVE AMAZING NEWS TO AI CHIP STOCK INVESTORS!!",
+      "upload_date": "20260723",
+      "url": "https://www.youtube.com/watch?v=5UNzXTVWIyw",
+      "processed_at": "2026-07-23T10:03:00.501145",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet Inc.",
+            "reason": "Google Cloud revenue grew 82% year-over-year to $24.8 billion, showing acceleration from 63% growth last quarter, indicating the AI story is still very early with significant runway ahead. The company has a $514 billion backlog with over 50% expected to convert to revenue in the next 24 months (approximately $250-260 billion), implying Google Cloud revenue could reach $120-140 billion annually within two years\u2014nearly 100% year-over-year growth compared to the last 12 months. Tokens per minute increased from 16 billion to 22 billion, and Gemini has 950 million monthly active users, demonstrating strong AI adoption. The capex increase to $195-205 billion for the full year is driven primarily by acceleration of compute capacity to meet growing demand, not just memory pricing, which is bullish for sustained AI infrastructure buildout.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Free cash flow has turned negative at approximately -$6 billion this quarter for the first time in a long time due to heavy capex spending. Bears will likely scrutinize the sustainability of negative free cash flow, though the creator believes an inflection point will occur when revenue growth becomes strong enough to offset capex. Google's stock was down 3% in after-hours trading following the earnings announcement despite bullish fundamentals."
+          },
+          {
+            "ticker": "CRWD",
+            "company_name": "CrowdStrike Holdings",
+            "reason": "The creator identified cybersecurity as a massive emerging growth driver for the AI space, particularly following recent cybersecurity incidents with OpenAI and Hugging Face. Google mentioned they are launching new cyber models and code renderer to help customers defend against AI threats. The creator foresees a future where data centers will be dedicated to hosting compute for AI agents in the cybersecurity space, for both business IP/data protection and for cyber warfare between nations and threat actors. The creator explicitly states: 'I believe cybersecurity is going to be a massive growth driver for the AI space' and views this as a potential major investment theme.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The creator cautioned against relying only on 'typical plays like CrowdStrike' and emphasized interest in companies with 'unique cyber angle or unique cyber solution,' suggesting that not all traditional cybersecurity plays may benefit equally. This is an emerging theme requiring further research."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Hyperscalers (Microsoft, Amazon) are experiencing negative sentiment due to expectations that they will follow Google's capex acceleration strategy, which will pressure near-term free cash flow. This suggests broader margin compression across cloud providers as they race to build AI infrastructure capacity.",
+          "Capex competition and supply constraints are creating a two-tiered market: traditional cloud providers facing free cash flow headwinds, while alternative capacity providers (neo-cloud players) benefit from short-term, high-margin bridging contracts. Investors should monitor whether legacy cloud providers can sustain negative free cash flow and when profitability inflection occurs.",
+          "Google expects capex to 'increase significantly in 2027' even after raising guidance by $13-15 billion in 2024. Some analysts are modeling $200-300+ billion in annual capex, suggesting the AI buildout cycle is far from complete and capex intensity will remain elevated for years."
+        ],
+        "tickers_mentioned": [
+          "GOOGL",
+          "NVDA",
+          "AVGO",
+          "MSFT",
+          "AMZN",
+          "IRAN",
+          "CRWD",
+          "QUIN",
+          "NTAP",
+          "AMD",
+          "ORCL",
+          "CORE",
+          "NBIS"
+        ]
+      },
+      "price_at_recommendation": {
+        "GOOGL": 342.09,
+        "CRWD": 188.42
+      }
+    },
+    "mctgvxrogK4": {
+      "channel": "Jose Najarro Stocks",
+      "title": "LIVE GOOGLE Q2 EARNINGS CALL -- $TSLA $NOW ( WILL MY AI PORTFOLIO BE SAVED)",
+      "upload_date": "20260722",
+      "url": "https://www.youtube.com/watch?v=mctgvxrogK4",
+      "processed_at": "2026-07-23T10:03:34.940589",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet Inc.",
+            "reason": "Google delivered strong Q2 earnings with 24% revenue growth and exceptional Google Cloud growth of 82% year-over-year, driven by AI infrastructure demand. Cloud operating margin expanded to 35.6%, the highest ever posted. The company is seeing massive demand for Gemini enterprise with 90% of Fortune 100 using it, 950 million MAU on Gemini app, and 22 billion tokens per minute processing. Management is confident in continued capex increases for 2027 described as 'significant' to meet demand. The full-stack AI approach (chips, models, data, security, agents) is differentiated and creating moats. Free cash flow turned negative at -$5.9B due to capex investments, but this is expected and necessary to capitalize on secular AI opportunity.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Free cash flow is now negative and expected to remain under pressure. Stock was relatively flat after earnings despite strong numbers, suggesting market may be pricing in high expectations. Capex increase to $205B for 2026 (up from $190B) and 'significant' 2027 increases will continue to pressure FCF. Margin expansion from third-party capacity deals may be temporary headwind in near term."
+          },
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Nvidia is a major beneficiary of Google's massive capex spending and the broader hyperscaler buildout. Google disclosed capex of $44.9B for Q2 and increased full-year 2026 guidance to $195-205B. Industry analysts project Google's 2027 capex could double to 350B+, similar to Meta's capex trajectory. Google is using both Nvidia GPUs and its own TPUs across infrastructure. The entire semiconductor supply chain and Nvidia specifically benefit when hyperscalers are in capex acceleration mode, not maintenance mode. Nvidia had its best day in weeks during the call at $215, up from $212 post-earnings.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Stock took a $2 hit from $214 to $212 immediately after Google's capex guidance, showing some market concern about how much capex spending is sustainable. The supply constraint environment benefits all semis but high capex spending by cloud providers may eventually face pushback from investors concerned about returns on invested capital."
+          },
+          {
+            "ticker": "NOW",
+            "company_name": "ServiceNow Inc.",
+            "reason": "ServiceNow beat Q2 guidance on both revenue and EPS, raised full-year 2026 subscription revenue guidance (unlike most software peers), and reported strong operational metrics. Subscription revenue grew 23%, total revenue grew 24%, gross margin on subscriptions at 81%, and free cash flow margin at 35%. CEO Bill McDermott emphasized ServiceNow is now the 'eighth largest cybersecurity company in enterprise software' and the fastest-growing cybersecurity company globally, capitalizing on the OpenAI/Hugging Face security incident discussion. The company controls AI spend for enterprises ('control tower' that would have prevented the HuggingFace breach), positioning it to benefit from the emerging AI security market. Stock recovered from -6% during the day to +4-6% after hours on strong execution.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The broader software sector was hit hard during earnings (down 6%+), and ServiceNow initially fell with it despite good numbers. The cybersecurity tailwind is still nascent and not yet proven at scale. Stock needs to maintain above $100 level or risks reverting to $85 range as seen in prior weakness."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "IBM",
+            "company_name": "International Business Machines",
+            "reason": "IBM pre-announced bad results a week prior to earnings, revealing weakness and delays in software spending due to IT budgets being redirected toward AI infrastructure capex. The stock had already crashed 40% from the pre-announcement. Even after the formal earnings release with in-line numbers (EPS $2.93 vs $2.93 expected), the stock only recovered modestly to +4% after hours, indicating limited upside once bad news is priced in. IBM is a clear victim of enterprise spending shifting away from traditional software toward AI infrastructure.",
+            "risk": "Stock down 40% prior to earnings call with minimal recovery potential; represents a secular headwind for legacy enterprise software companies losing budget share to AI capex."
+          },
+          {
+            "ticker": "TSLA",
+            "company_name": "Tesla Inc.",
+            "reason": "Tesla missed on EPS guidance badly, with adjusted EPS of 33 cents vs. street expectation of 54 cents (40% miss). Despite beating revenue at $28.2B vs. $26.3B expected, gross margin came in at 16.8% vs. street expectation of 19.4%, a significant miss. More concerning, EPS is down 18% year-over-year despite 26% revenue growth, indicating severe margin compression. Over 50% of Tesla's reported EPS (22 cents of 33 cents) came from the SpaceX equity stake, not core operations, suggesting the core business is struggling. Free cash flow was negative $1.09B. Energy storage revenue came in at $3.12B vs. $3.5B expected.",
+            "risk": "Stock down 2.3% after hours. The margin story is deteriorating with no clear path to improvement. Heavy reliance on non-core SpaceX gains to support EPS suggests operational challenges. Robo-taxi timeline and Optimus production remain uncertain despite management's ambitious statements."
+          }
+        ],
+        "key_warnings": [
+          "Hyperscaler capex is entering acceleration mode, not maintenance mode. Google guided to $195-205B capex for 2026 (up from $190B) with 'significant' increases expected for 2027. Buy-side analysts project 2027 capex could reach $325-375B, potentially 90-100% growth YoY. This is similar to Meta's $7B-to-$14B capex trajectory. Investors must understand this capex super-cycle will persist for multiple years and continue to pressure free cash flow across all major cloud providers (Google, Microsoft, Amazon). This is a structural shift, not a temporary cycle.",
+          "Free cash flow deterioration is now the norm for AI-focused tech companies. Google went from $24B in FCF two quarters ago to $10B to negative $5.9B. Each quarter is declining by roughly $15B. This trend will accelerate if capex grows as expected in 2027. Investors focused on buybacks and dividends should recalibrate expectations; capital will be directed to infrastructure buildout, not shareholder returns.",
+          "The OpenAI/Hugging Face security incident is opening a new market for cybersecurity AI infrastructure. Speakers highlighted that this creates demand for 'selected data centers or AI infrastructure just used by AI companies to protect national security and trade secrets.' This is nascent but could become a major market driver for both cloud infrastructure providers and cybersecurity software vendors over the next 1-2 years.",
+          "Software-as-a-service companies are experiencing budget deflection to AI infrastructure capex. IBM already warned of weakness; other SaaS names like Palo Alto (down 6.5%), Adobe, and others were hit during this earnings cycle. Until enterprises complete their AI infrastructure buildout phase, traditional software spending will remain under pressure. ServiceNow is an exception because it sells the control tower for managing AI spend, making it a beneficiary rather than a victim.",
+          "The semiconductor supply constraint is real and persistent. Google, Meta, and other hyperscalers continue to operate under severe GPU/TPU supply constraints despite massive capex. This keeps prices elevated and demand insatiable for foundries (TSMC) and chip designers (Nvidia). Companies like Google are pursuing third-party capacity as a bridging strategy while building internal capacity, but this will continue to prop up semiconductor demand for years.",
+          "Chinese AI model distillation of American models is becoming a policy concern. Trump administration officials have signaled intent to protect American AI innovation from Chinese IP theft, potentially leading to new regulations or restrictions. This could create uncertainty around open-source AI model distribution and international AI business strategies."
+        ],
+        "tickers_mentioned": [
+          "GOOGL",
+          "TSLA",
+          "NOW",
+          "NVDA",
+          "IBM",
+          "SBUX",
+          "META",
+          "MSFT",
+          "PLTR",
+          "PSTG",
+          "NEBS",
+          "MU",
+          "TXN",
+          "RSPACE"
+        ]
+      },
+      "price_at_recommendation": {
+        "GOOGL": 342.09,
+        "TSLA": 374.01,
+        "NOW": 95.46,
+        "IBM": 205.77,
+        "NVDA": 212.06
+      }
     }
   },
   "channel_ids": {

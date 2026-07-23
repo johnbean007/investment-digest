@@ -11395,6 +11395,54 @@
         "IBM": 205.77,
         "NVDA": 212.06
       }
+    },
+    "OB7tGeIsv-g": {
+      "channel": "CouchInvestor",
+      "title": "The One Number That Tanked Google's Stock Today",
+      "upload_date": "20260723",
+      "url": "https://www.youtube.com/watch?v=OB7tGeIsv-g",
+      "processed_at": "2026-07-23T15:16:52.366045",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet Inc.",
+            "reason": "Google reported an excellent quarter with revenue up 24% year-over-year (beat), Google Cloud growth accelerating to 81.8% with margin expansion from 33% to 36%, and strong AI adoption metrics including over 1 billion AI mode monthly active users and 22 billion Gemini API tokens processed per minute. The company is one of the best exposure vehicles for AI, robotics, and autonomous vehicles. Despite negative free cash flow due to heavy capex investment in AI infrastructure, the creator believes this is a justified investment cycle similar to Amazon's past strategy. The company fundamentals remain strong with very profitable core business that can easily return to high free cash flow generation once the AI investment cycle moderates.",
+            "when_to_buy": "The creator would prefer entry points around $300, $310, or ideally under $300 as current drawdown of 18.4% from highs makes valuations more attractive. Currently trading near the 200-day moving average on daily and approaching the 50-week moving average around $139.",
+            "target_price": null,
+            "cautions": "Stock is currently down 5% due to market penalizing negative free cash flow and rising capex guidance (increased to $19.5-$25 billion with expectations for significant further increases in 2027). Free cash flow expected to remain under pressure. Forward price-to-free cash flow metrics will look unfavorable in near term. The creator expressed disappointment with Gemini release pace and features compared to competitors like Claude and ChatGPT, though believes Google is working on acceleration with Gemini 4 in development. Google will use external third-party compute capacity in Q3 as a bridging strategy expected to create modest margin pressure near-term and benefit competitors like Nebius and Core Scientific."
+          },
+          {
+            "ticker": "NOW",
+            "company_name": "ServiceNow Inc.",
+            "reason": "ServiceNow delivered strong Q2 results with revenue up 24% year-over-year (beat), subscription revenue up 24.5% with constant currency growth of 23%, and adjusted EPS of $0.90 beating estimates of $0.86. The company achieved AACV (Annual Agreed Contract Value) surpassing $1 billion threshold in Q2. Current RPO of $13.2 billion beat expectations and is growing at 20% for Q3 (beating internal expectations of 18-19%). The company demonstrated strong AI monetization with over $1 billion AI ACV and Agentic AI customer deployments increasing ninefold in 9 months. Management commentary indicates the company is delivering return on investment for AI unlike most enterprises. Maintains 98% renewal rate with 658 customers generating over $5 million in ACV (up 23% year-over-year) and average ACV within this cohort at $15.2 million. Raised guidance for fiscal 2026 subscription revenue growth. Operating margin maintained at 31.5% and free cash flow margin at 35%. The creator states this demonstrates the 'SaaS apocalypse' does not affect ServiceNow.",
+            "when_to_buy": "Stock up 5% on earnings but still experiencing 50% drawdown from 12-month highs. Currently trading around $100-$104 per share and attempting to reclaim the 50 and 100-day moving averages. The creator did not specify entry timing.",
+            "target_price": null,
+            "cautions": "Stock is in a drawdown of approximately 50% from recent highs, though this is not positioned as a negative given strong fundamental execution. No specific cautions were stated by the creator regarding ServiceNow's business or valuation."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "The AI capex investment cycle is creating pressure on free cash flow across major tech companies like Google. While justified by strong business results and adoption metrics, this is causing near-term stock market penalties as investors focus on negative free cash flow rather than long-term return on invested capital potential.",
+          "Google's use of external third-party compute capacity in Q3 as a bridging strategy due to supply constraints will create near-term margin pressure and likely benefit competitor cloud infrastructure providers like Nebius and Core Scientific, potentially creating relative outperformance dynamics in the sector."
+        ],
+        "tickers_mentioned": [
+          "GOOGL",
+          "META",
+          "AMZN",
+          "NVDA",
+          "AAPL",
+          "MSFT",
+          "CORF",
+          "CIFR",
+          "NBU",
+          "NOW"
+        ]
+      },
+      "price_at_recommendation": {
+        "GOOGL": 319.01,
+        "NOW": 97.33
+      }
     }
   },
   "channel_ids": {

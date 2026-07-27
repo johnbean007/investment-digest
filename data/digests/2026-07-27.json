@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-27T10:14:10.096499",
-  "video_count": 81,
-  "stock_count": 147,
+  "generated_at": "2026-07-27T11:24:03.879110",
+  "video_count": 86,
+  "stock_count": 156,
   "stocks": [
     {
       "ticker": "AAOI",
@@ -93,7 +93,7 @@
     {
       "ticker": "AAPL",
       "company_name": "Apple",
-      "buy_count": 0,
+      "buy_count": 1,
       "avoid_count": 1,
       "first_mention_date": "25 Jul 2026",
       "price_at_first_mention": 333.02,
@@ -136,7 +136,21 @@
         "earnings_date": null,
         "earnings_days": null
       },
-      "buys": [],
+      "buys": [
+        {
+          "channel": "The Traveling Trader",
+          "title": "\ud83d\udea8 The Stock Market is About to Go Crazy",
+          "url": "https://www.youtube.com/watch?v=PQJzaR7ayGw",
+          "upload_date": "20260726",
+          "date_label": "26 Jul 2026",
+          "ticker": "AAPL",
+          "company_name": "Apple Inc.",
+          "reason": "Apple is highlighted as the one Mag 7 company that is not spending cash in the same aggressive way as other hyperscalers on AI infrastructure. Apple is reporting earnings on July 28th. The creator uses Apple as a model of what other tech giants could do if they moderate their CapEx spending\u2014continue generating positive free cash flows while still investing in technology.",
+          "when_to_buy": "On any S&P 500 or Nasdaq drop of minus 10% or more from highs, with specific interest in the Nasdaq 100-day moving average as a buying opportunity",
+          "target_price": null,
+          "cautions": "Apple's more conservative CapEx approach may limit its AI infrastructure capabilities relative to competitors like Microsoft, Meta, and Amazon who are spending more aggressively."
+        }
+      ],
       "avoids": [
         {
           "channel": "CouchInvestor",
@@ -403,7 +417,7 @@
     {
       "ticker": "AMD",
       "company_name": "Advanced Micro Devices",
-      "buy_count": 8,
+      "buy_count": 9,
       "avoid_count": 1,
       "first_mention_date": "01 Jul 2026",
       "price_at_first_mention": 517.4,
@@ -550,6 +564,19 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": "At $886 billion market cap, AMD stock is already significantly repriced higher and creator does not recommend buying specifically before upcoming earnings. Current valuation reflects expectations for 2027+ execution rather than near-term earnings. Stock is valued on future potential delivery, not current quarter results."
+        },
+        {
+          "channel": "Jose Najarro Stocks",
+          "title": "If You Own AMD Stock... Get READY!!",
+          "url": "https://www.youtube.com/watch?v=aU9VwsurQjk",
+          "upload_date": "20260725",
+          "date_label": "25 Jul 2026",
+          "ticker": "AMD",
+          "company_name": "Advanced Micro Devices",
+          "reason": "AMD has dramatically expanded its CPU total addressable market (TAM) from $60 billion in November 2025 to $220 billion by 2030, representing nearly 100% growth in 3 months. This explosive growth is driven by agentic AI, which requires significant CPU orchestration. AMD is gaining market share (46% currently) in the server CPU space while the overall market expands. The company has secured major partnerships including a deployment of up to 2 gigawatts of MI250 GPUs with Anthropic, representing north of $20-30 billion in revenue from a single customer by 2027. Additionally, AMD's partnership with Cerebras for ultra-low latency solutions and open-source software stack is making it easier for AI companies to adopt AMD solutions, weakening NVIDIA's historical CUDA moat. The creator believes AMD's earnings per share guidance of $20 is now a floor rather than a ceiling given the expanded TAM and multiple revenue streams from AI accelerators, CPUs, and strategic partnerships.",
+          "when_to_buy": "The creator is not buying at current levels (stock at $521 at time of recording) but would dollar-cost average at lower levels. Not selling current position.",
+          "target_price": "The creator believes AMD is north of a trillion-dollar company based on recent announcements, implying significant upside from $521 current price.",
+          "cautions": "The creator notes that certain semiconductor stocks have been overstretched and acknowledges overall market volatility. The Anthropic partnership is 'up to' 2 gigawatts, not a guaranteed 2 gigawatts, with the first gigawatt likely not arriving until 2027. Software remains a historical weakness for AMD compared to NVIDIA, though this is improving."
         }
       ],
       "avoids": [
@@ -570,7 +597,7 @@
     {
       "ticker": "AMZN",
       "company_name": "Amazon",
-      "buy_count": 18,
+      "buy_count": 19,
       "avoid_count": 1,
       "first_mention_date": "27 Jun 2026",
       "price_at_first_mention": 232.69,
@@ -847,6 +874,19 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": null
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "\ud83d\udea8 The Stock Market is About to Go Crazy",
+          "url": "https://www.youtube.com/watch?v=PQJzaR7ayGw",
+          "upload_date": "20260726",
+          "date_label": "26 Jul 2026",
+          "ticker": "AMZN",
+          "company_name": "Amazon.com Inc.",
+          "reason": "Amazon is included in the Mag 7 group and is being monitored for its July 28th earnings report. The creator views Amazon as representing good long-term value at current levels, though the creator is uncertain about whether Amazon will increase CapEx in ways that could push it into negative free cash flows similar to Google. Amazon is expected to be a key indicator of broader hyperscaler capital expenditure trends in AI infrastructure.",
+          "when_to_buy": "On any S&P 500 or Nasdaq drop of minus 10% or more from highs, with specific interest in the Nasdaq 100-day moving average as a buying opportunity",
+          "target_price": null,
+          "cautions": "Significant uncertainty about Amazon's CapEx guidance and whether the company will follow Google's path into negative free cash flows. Earnings on July 28th could trigger significant volatility. Creator explicitly states he does not know how the company will guide on CapEx."
         }
       ],
       "avoids": [
@@ -1118,7 +1158,7 @@
         "analyst_buy": 38,
         "analyst_hold": 5,
         "analyst_sell": 1,
-        "analyst_target": 2115.5,
+        "analyst_target": 2115.02,
         "analyst_upside_pct": 20.4,
         "earnings_date": null,
         "earnings_days": null
@@ -1247,8 +1287,8 @@
         "analyst_buy": 4,
         "analyst_hold": 0,
         "analyst_sell": 0,
-        "analyst_target": 305.32,
-        "analyst_upside_pct": 20.3,
+        "analyst_target": 305.25,
+        "analyst_upside_pct": 20.2,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -1716,7 +1756,7 @@
     {
       "ticker": "BE",
       "company_name": "Bloom Energy Corporation",
-      "buy_count": 4,
+      "buy_count": 5,
       "avoid_count": 0,
       "first_mention_date": "28 Jun 2026",
       "price_at_first_mention": 252.02,
@@ -1811,6 +1851,19 @@
           "when_to_buy": "On a retest of the 21 EMA with confirmation of support holding",
           "target_price": null,
           "cautions": "Monitor the retest carefully; ensure support holds before committing"
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "The UNTHINKABLE is About to Happen to Stocks.",
+          "url": "https://www.youtube.com/watch?v=4Fbjx_H7VlM",
+          "upload_date": "20260724",
+          "date_label": "24 Jul 2026",
+          "ticker": "BE",
+          "company_name": "Bloom Energy Corporation",
+          "reason": "The AI buildout requires enormous power generation. Bloom Energy provides clean energy solutions and is positioned to benefit from increased power demands for data centers. The creator likes it from a technical perspective with its own pattern off the 100 day moving average.",
+          "when_to_buy": "The creator would be interested if it can trade above the 100 day moving average. The company reports earnings next week, which could be a catalyst.",
+          "target_price": null,
+          "cautions": "Currently below the 100 day moving average. Needs to break above it for the creator to be confident. Earnings report coming next week presents potential volatility."
         }
       ],
       "avoids": [],
@@ -1871,7 +1924,7 @@
     {
       "ticker": "BROADCOM",
       "company_name": "Broadcom Inc.",
-      "buy_count": 3,
+      "buy_count": 4,
       "avoid_count": 0,
       "first_mention_date": "03 Jul 2026",
       "price_at_first_mention": null,
@@ -1916,6 +1969,19 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": "Stock already worth almost $2 trillion market cap. Earnings coming up this week."
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "The UNTHINKABLE is About to Happen to Stocks.",
+          "url": "https://www.youtube.com/watch?v=4Fbjx_H7VlM",
+          "upload_date": "20260724",
+          "date_label": "24 Jul 2026",
+          "ticker": "BROADCOM",
+          "company_name": "Broadcom Inc.",
+          "reason": "78% of Broadcom's ASIC revenue comes from Google and they co-design the TPUs (Tensor chips) with Alphabet. The single biggest dollar flow out of Google's capex is to Broadcom. Broadcom is a company being spent on rather than doing the spending itself. It has a forward PE of 20, return on invested capital of almost 20%, 10-year CAGR of 25% revenue, PEG of less than one at 0.5, and debt to equity less than one. Everything is trending in the right direction with excellent free cash flow generation.",
+          "when_to_buy": "The creator bought it in February when it dipped just under 300 at the 200 day moving average. It revisited the 200 day moving average again, presenting a potential entry point.",
+          "target_price": null,
+          "cautions": null
         }
       ],
       "avoids": [],
@@ -1924,7 +1990,7 @@
     {
       "ticker": "CEG",
       "company_name": "Constellation Energy Corporation",
-      "buy_count": 3,
+      "buy_count": 5,
       "avoid_count": 0,
       "first_mention_date": "28 Jun 2026",
       "price_at_first_mention": 264.02,
@@ -2006,10 +2072,191 @@
           "when_to_buy": "$250 or less with dollar cost averaging. Lower entry is better.",
           "target_price": "Wall Street average price target of $366 (per TipRanks), with highest target at $516 and lowest at $296, implying 52.79% upside from current levels",
           "cautions": "Stock was in air pocket at $411 ahead of itself and has since pulled back to $239. Could see further downside with S3 Fibonacci support around $214. Nuclear energy story is still developing and not certain. Creator does not claim to be an energy expert."
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "The UNTHINKABLE is About to Happen to Stocks.",
+          "url": "https://www.youtube.com/watch?v=4Fbjx_H7VlM",
+          "upload_date": "20260724",
+          "date_label": "24 Jul 2026",
+          "ticker": "CEG",
+          "company_name": "Constellation Energy Corporation",
+          "reason": "The AI buildout is dependent on power generation. Constellation Energy is positioned to benefit from increased power demand for data centers and AI infrastructure. The creator is watching to see if it can break above its current trend.",
+          "when_to_buy": "The creator wants to see it break above its trend before entry.",
+          "target_price": null,
+          "cautions": "Currently not breaking trend. Needs to demonstrate technical strength before entry."
+        },
+        {
+          "channel": "FinTek",
+          "title": "Top Nuclear Stock to BUY NOW (Ai energy play)",
+          "url": "https://www.youtube.com/watch?v=APYiQ-x-WUk",
+          "upload_date": "20260725",
+          "date_label": "25 Jul 2026",
+          "ticker": "CEG",
+          "company_name": "Constellation Energy",
+          "reason": "Constellation Energy is the biggest nuclear provider in the US. After acquiring natural gas giant Calpine in 2025, they became one of the biggest natural gas providers as well. Microsoft has signed a deal with Constellation Energy to reactivate the Three Mile Island nuclear facility to power their data centers. Meta has similarly signed a nuclear energy deal to power their new Prometheus AI supercluster. These high-profile partnerships with major tech companies position Constellation Energy to become dominant in the energy space, particularly as AI data centers require significant power infrastructure.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": null
         }
       ],
       "avoids": [],
       "description": "Produces and sells electricity from nuclear, wind, solar, and gas plants"
+    },
+    {
+      "ticker": "CELC",
+      "company_name": "Celestica Inc.",
+      "buy_count": 1,
+      "avoid_count": 0,
+      "first_mention_date": "24 Jul 2026",
+      "price_at_first_mention": 82.62,
+      "pct_change_since_rec": 0.0,
+      "market": {
+        "ticker": "CELC",
+        "name": "Celcuity Inc.",
+        "currency": "USD",
+        "sector": "Healthcare",
+        "industry": "Biotechnology",
+        "market_cap": 4029070848,
+        "current_price": 82.62,
+        "daily_change_pct": -6.47,
+        "month_change_pct": -13.87,
+        "week52_high": 151.02,
+        "week52_high_date": "04 May 2026",
+        "week52_low": 34.3,
+        "week52_low_date": "25 Jul 2025",
+        "rsi": 39.5,
+        "rsi_label": "neutral",
+        "ma50": 106.14,
+        "ma200": 102.65,
+        "ma_signal": "golden_cross",
+        "pe_trailing": null,
+        "pe_forward": 86.06251,
+        "peg_ratio": null,
+        "revenue_growth": null,
+        "earnings_growth": null,
+        "free_cashflow": -110841000,
+        "profit_margins": 0.0,
+        "debt_to_equity": 604.28,
+        "beta": 0.164,
+        "short_percent": 0.3436,
+        "dividend_yield": null,
+        "analyst_buy": 11,
+        "analyst_hold": 1,
+        "analyst_sell": 0,
+        "analyst_target": 163.54,
+        "analyst_upside_pct": 97.9,
+        "earnings_date": null,
+        "earnings_days": null
+      },
+      "buys": [
+        {
+          "channel": "The Traveling Trader",
+          "title": "The UNTHINKABLE is About to Happen to Stocks.",
+          "url": "https://www.youtube.com/watch?v=4Fbjx_H7VlM",
+          "upload_date": "20260724",
+          "date_label": "24 Jul 2026",
+          "ticker": "CELC",
+          "company_name": "Celestica Inc.",
+          "reason": "Google is Celestica's largest customer representing 32% of its revenue from Alphabet. The company integrates the racks, OCS switches and TPU systems, representing the last mile of Google's AI servers. Celestica is also the preferred partner for TPUs. As a connectivity stock dependent on Google's capex spending, it benefits from the massive AI infrastructure buildout.",
+          "when_to_buy": "The stock is sitting at the 200 day moving average but the creator would prefer to see a break and retest before entering.",
+          "target_price": null,
+          "cautions": "From a technical perspective, the creator prefers to see a break and retest of the 200 day moving average before committing."
+        }
+      ],
+      "avoids": [],
+      "description": "Develops targeted cancer therapies including Gedatolisib for breast cancer"
+    },
+    {
+      "ticker": "CEREBRAS",
+      "company_name": "Cerebras Systems",
+      "buy_count": 1,
+      "avoid_count": 0,
+      "first_mention_date": "25 Jul 2026",
+      "price_at_first_mention": null,
+      "pct_change_since_rec": null,
+      "market": null,
+      "buys": [
+        {
+          "channel": "Jose Najarro Stocks",
+          "title": "If You Own AMD Stock... Get READY!!",
+          "url": "https://www.youtube.com/watch?v=aU9VwsurQjk",
+          "upload_date": "20260725",
+          "date_label": "25 Jul 2026",
+          "ticker": "CEREBRAS",
+          "company_name": "Cerebras Systems",
+          "reason": "Cerebras has secured partnerships with multiple major technology companies including AMD, Amazon, OpenAI, and CrowdStrike. The company's pre-filled decode segment partnership with AMD addresses ultra-low latency AI inference, similar to recent partnerships by NVIDIA with Grok and Amazon with Cerebras for training. With a market cap under $50 billion and working with leading AI companies on cutting-edge solutions, Cerebras represents a high-growth opportunity in the AI infrastructure space.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": "The creator explicitly describes Cerebras as a 'very high-risk, high-growth opportunity' and notes it is less than $50 billion in market cap. The creator owns it in their portfolio but characterizes it as speculative. Success is dependent on these partnerships translating to meaningful revenue."
+        }
+      ],
+      "avoids": [],
+      "description": "Designs processors and systems for AI and high-performance computing"
+    },
+    {
+      "ticker": "CIFR",
+      "company_name": "Cipher Mining Inc.",
+      "buy_count": 1,
+      "avoid_count": 0,
+      "first_mention_date": "24 Jul 2026",
+      "price_at_first_mention": 23.15,
+      "pct_change_since_rec": 0.0,
+      "market": {
+        "ticker": "CIFR",
+        "name": "Cipher Digital Inc.",
+        "currency": "USD",
+        "sector": "Technology",
+        "industry": "Information Technology Services",
+        "market_cap": 9469488128,
+        "current_price": 23.15,
+        "daily_change_pct": -10.34,
+        "month_change_pct": -9.85,
+        "week52_high": 30.14,
+        "week52_high_date": "22 Jun 2026",
+        "week52_low": 4.55,
+        "week52_low_date": "08 Aug 2025",
+        "rsi": 59.6,
+        "rsi_label": "neutral",
+        "ma50": 23.06,
+        "ma200": 18.52,
+        "ma_signal": "golden_cross",
+        "pe_trailing": null,
+        "pe_forward": 48.229168,
+        "peg_ratio": null,
+        "revenue_growth": -0.288,
+        "earnings_growth": null,
+        "free_cashflow": -2948059648,
+        "profit_margins": 0.0,
+        "debt_to_equity": 641.56,
+        "beta": 3.196,
+        "short_percent": 0.1674,
+        "dividend_yield": null,
+        "analyst_buy": 14,
+        "analyst_hold": 0,
+        "analyst_sell": 0,
+        "analyst_target": 32.53,
+        "analyst_upside_pct": 40.5,
+        "earnings_date": null,
+        "earnings_days": null
+      },
+      "buys": [
+        {
+          "channel": "The Traveling Trader",
+          "title": "The UNTHINKABLE is About to Happen to Stocks.",
+          "url": "https://www.youtube.com/watch?v=4Fbjx_H7VlM",
+          "upload_date": "20260724",
+          "date_label": "24 Jul 2026",
+          "ticker": "CIFR",
+          "company_name": "Cipher Mining Inc.",
+          "reason": "Google has a 5.4% stake in Cipher Mining as a backstop. The company had a massive day, up 60% in 5 days as of the recording, directly benefiting from Google's AI infrastructure spending.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": null
+        }
+      ],
+      "avoids": [],
+      "description": "Operates data centres for bitcoin mining and high-performance compute hosting"
     },
     {
       "ticker": "CNR",
@@ -2244,7 +2491,7 @@
     {
       "ticker": "COREWEAVE",
       "company_name": "CoreWeave Inc.",
-      "buy_count": 8,
+      "buy_count": 9,
       "avoid_count": 1,
       "first_mention_date": "28 Jun 2026",
       "price_at_first_mention": null,
@@ -2354,6 +2601,19 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": "Data center stocks recently dropped on false reports about Meta, but creator sees this as opportunity. Must monitor backlog conversion to revenue."
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "The UNTHINKABLE is About to Happen to Stocks.",
+          "url": "https://www.youtube.com/watch?v=4Fbjx_H7VlM",
+          "upload_date": "20260724",
+          "date_label": "24 Jul 2026",
+          "ticker": "COREWEAVE",
+          "company_name": "CoreWeave Inc.",
+          "reason": "A data center company that just entered the NASDAQ with a $100 billion backlog against a $44 billion market cap, meaning revenue backlog is twice the entire company valuation. This suggests asymmetric growth in the very short term. The company is in hyperrowth stage similar to early Amazon, not yet generating net profit but with exceptional revenue and EBIT growth. The creator consolidated data center holdings into CoreWeave and Nebus, currently up almost 24% on the position representing 14% of the AI portfolio.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": "Cannot be valued by traditional metrics as it is an emerging technology company in hypergrowth stage spending heavily and taking on debt. Must monitor backlog conversion to revenue."
         }
       ],
       "avoids": [
@@ -2960,7 +3220,7 @@
     {
       "ticker": "DRAM",
       "company_name": "DRAM ETF (semiconductor memory)",
-      "buy_count": 3,
+      "buy_count": 4,
       "avoid_count": 0,
       "first_mention_date": "06 Jul 2026",
       "price_at_first_mention": 62.04,
@@ -3042,6 +3302,19 @@
           "when_to_buy": "Dollar-cost-averaging at current levels near golden pocket support",
           "target_price": null,
           "cautions": "The creator explicitly states 'It doesn't mean I think this is the bottom, but I think this is a great point to start adding.' This is not a recommendation to buy all at once."
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "The UNTHINKABLE is About to Happen to Stocks.",
+          "url": "https://www.youtube.com/watch?v=4Fbjx_H7VlM",
+          "upload_date": "20260724",
+          "date_label": "24 Jul 2026",
+          "ticker": "DRAM",
+          "company_name": "DRAM (Memory Chip Sector)",
+          "reason": "The creator bought the dip on DRAM, which was already up 19% in three to four days as of the recording. Memory is essential for AI infrastructure buildout and will benefit from continued capex spending.",
+          "when_to_buy": "The creator bought the dip, suggesting market weakness presents entry opportunities.",
+          "target_price": null,
+          "cautions": null
         }
       ],
       "avoids": [],
@@ -3305,6 +3578,70 @@
       ],
       "avoids": [],
       "description": "Manufactures test and inspection equipment for semiconductor manufacturing"
+    },
+    {
+      "ticker": "FICO",
+      "company_name": "Fair Isaac Corporation",
+      "buy_count": 1,
+      "avoid_count": 0,
+      "first_mention_date": "24 Jul 2026",
+      "price_at_first_mention": 1237.37,
+      "pct_change_since_rec": 0.0,
+      "market": {
+        "ticker": "FICO",
+        "name": "Fair Isaac Corporation",
+        "currency": "USD",
+        "sector": "Technology",
+        "industry": "Software - Application",
+        "market_cap": 28695732224,
+        "current_price": 1237.37,
+        "daily_change_pct": 2.58,
+        "month_change_pct": 8.21,
+        "week52_high": 1998.01,
+        "week52_high_date": "02 Oct 2025",
+        "week52_low": 870.01,
+        "week52_low_date": "22 Apr 2026",
+        "rsi": 47.9,
+        "rsi_label": "neutral",
+        "ma50": 1202.05,
+        "ma200": 1390.56,
+        "ma_signal": "death_cross",
+        "pe_trailing": 39.219334,
+        "pe_forward": 22.682985,
+        "peg_ratio": 0.83,
+        "revenue_growth": 0.387,
+        "earnings_growth": 0.69,
+        "free_cashflow": 730540992,
+        "profit_margins": 0.33675,
+        "debt_to_equity": null,
+        "beta": 1.29,
+        "short_percent": 0.1144,
+        "dividend_yield": null,
+        "analyst_buy": 15,
+        "analyst_hold": 5,
+        "analyst_sell": 1,
+        "analyst_target": 1534.55,
+        "analyst_upside_pct": 24.0,
+        "earnings_date": null,
+        "earnings_days": null
+      },
+      "buys": [
+        {
+          "channel": "The Traveling Trader",
+          "title": "The UNTHINKABLE is About to Happen to Stocks.",
+          "url": "https://www.youtube.com/watch?v=4Fbjx_H7VlM",
+          "upload_date": "20260724",
+          "date_label": "24 Jul 2026",
+          "ticker": "FICO",
+          "company_name": "Fair Isaac Corporation",
+          "reason": "A near monopoly company with steady growth going back to the 1980s that the creator recommends for long-term passive investors. It operates a near monopoly in its business with minimal competition. The company has a 224 PE, 53% return on invested capital (exceptional), and importantly has no capex requirements, which is attractive during the capex apocalypse. Revenue, gross profit, EBITDA, and free cash flows are all growing while price and PE are tanking.",
+          "when_to_buy": "The creator recommends buying during market dips, particularly when indices drop 10% or more.",
+          "target_price": null,
+          "cautions": "There are unfounded fears that AI will take over FICO's business model, but the creator views these as unlikely given FICO's near monopoly position."
+        }
+      ],
+      "avoids": [],
+      "description": "Provides credit scoring analytics and decision management software"
     },
     {
       "ticker": "FINTECH",
@@ -3714,10 +4051,72 @@
       "description": "Manufactures optical communications fiber, glass, and specialty materials"
     },
     {
+      "ticker": "GOOG",
+      "company_name": "Alphabet Inc.",
+      "buy_count": 0,
+      "avoid_count": 1,
+      "first_mention_date": "24 Jul 2026",
+      "price_at_first_mention": 319.09,
+      "pct_change_since_rec": 0.0,
+      "market": {
+        "ticker": "GOOG",
+        "name": "Alphabet Inc.",
+        "currency": "USD",
+        "sector": "Communication Services",
+        "industry": "Internet Content & Information",
+        "market_cap": 3902449909760,
+        "current_price": 319.09,
+        "daily_change_pct": 0.24,
+        "month_change_pct": -6.75,
+        "week52_high": 404.47,
+        "week52_high_date": "18 May 2026",
+        "week52_low": 188.7,
+        "week52_low_date": "01 Aug 2025",
+        "rsi": 32.3,
+        "rsi_label": "neutral",
+        "ma50": 363.56,
+        "ma200": 322.52,
+        "ma_signal": "golden_cross",
+        "pe_trailing": 16.002506,
+        "pe_forward": 21.655361,
+        "peg_ratio": 1.26,
+        "revenue_growth": 0.242,
+        "earnings_growth": 2.94,
+        "free_cashflow": 22665000960,
+        "profit_margins": 0.54771,
+        "debt_to_equity": 18.859,
+        "beta": 1.247,
+        "short_percent": null,
+        "dividend_yield": 0.28,
+        "analyst_buy": 60,
+        "analyst_hold": 6,
+        "analyst_sell": 0,
+        "analyst_target": 421.79,
+        "analyst_upside_pct": 32.2,
+        "earnings_date": null,
+        "earnings_days": null
+      },
+      "buys": [],
+      "avoids": [
+        {
+          "channel": "The Traveling Trader",
+          "title": "The UNTHINKABLE is About to Happen to Stocks.",
+          "url": "https://www.youtube.com/watch?v=4Fbjx_H7VlM",
+          "upload_date": "20260724",
+          "date_label": "24 Jul 2026",
+          "ticker": "GOOG",
+          "company_name": "Alphabet Inc.",
+          "reason": "Although Alphabet beat revenue by 24% with Google Cloud revenues up 82% and Google Cloud operating income up 3x, the company reported negative free cash flows for the first time ever at negative $5.9 billion. Capex doubled year-over-year and management raised guidance from $180-190 billion to $195-205 billion for full year 2026, with the CFO stating it will rise significantly and is only expected to go up. This marks a structural shift where even the best cash-generating company is willing to accept negative free cash flows indefinitely.",
+          "risk": "Negative free cash flows are unsustainable long-term. Stock took a 7% dive on the earnings. If Alphabet is willing to do this, all hyperscalers likely will follow, raising concerns about return on investment for massive capex spending and the durability of cash returns to shareholders."
+        }
+      ],
+      "description": "Operates search engine, advertising platform, cloud services, and YouTube"
+    },
+    {
       "ticker": "GOOGL",
       "company_name": "Alphabet Inc. (Google)",
       "buy_count": 19,
-      "avoid_count": 2,
+      "avoid_count": 3,
       "first_mention_date": "27 Jun 2026",
       "price_at_first_mention": 337.39,
       "pct_change_since_rec": -5.2,
@@ -4030,6 +4429,17 @@
           "company_name": "Google (Alphabet Inc.)",
           "reason": "Despite acknowledging an incredible quarter with strong revenue growth (24% overall, 82% for Google Cloud), accelerating operating income (up 30%), and excellent business fundamentals, the creator is not a buyer of Google shares. The creator's DCF analysis shows Google is fairly valued at current prices if it hits analyst estimates, offering only 12.5% compounded annual growth rate over three years with a 42% total return by 2029. This margin of safety is insufficient for the creator's investment criteria, especially when comparing to other opportunities. Additionally, Google is facing significant headwinds: free cash flow turned negative this quarter for the first time, the company has stopped share buybacks, is now diluting shareholders by issuing $30.5 billion in new shares, has raised $56 billion in debt year-to-date, and management guided that Google search revenue growth should slow next quarter and capex will significantly increase in 2027, likely keeping free cash flow negative for the foreseeable future.",
           "risk": "The creator's DCF shows a fair value of $366 per share with a future stock price of $484 by 2029, implying limited upside from current levels. Additionally, if Google fails to achieve analyst estimates or if capex spending does not generate adequate returns, the stock could face significant downside pressure. The valuation at 22.6x operating cash flow is already at the high end of historical ranges (compared to a 10-year median of 18x), leaving little room for multiple compression."
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "\ud83d\udea8 The Stock Market is About to Go Crazy",
+          "url": "https://www.youtube.com/watch?v=PQJzaR7ayGw",
+          "upload_date": "20260726",
+          "date_label": "26 Jul 2026",
+          "ticker": "GOOGL",
+          "company_name": "Alphabet Inc.",
+          "reason": "Google has reported negative free cash flows for the first time in its history as it digs itself into negative FCF to continue scaling its AI build-out and complete its AI objectives. This is a critical warning sign that other hyperscalers may follow suit, and the creator is monitoring whether Microsoft, Meta, Amazon, and Apple will report similar negative FCF trends. Google's willingness to sacrifice free cash flow generation to fund AI infrastructure is the primary concern driving uncertainty about the entire Mag 7.",
+          "risk": "If other Mag 7 stocks follow Google into negative free cash flows, the sector could face significant multiple compression and further downside beyond the current weakness."
         }
       ],
       "description": "Operates search engine, advertising platform, cloud services, and devices"
@@ -5167,7 +5577,7 @@
     {
       "ticker": "LUMN",
       "company_name": "Lumentum Holdings",
-      "buy_count": 0,
+      "buy_count": 1,
       "avoid_count": 1,
       "first_mention_date": "06 Jul 2026",
       "price_at_first_mention": 6.62,
@@ -5210,7 +5620,21 @@
         "earnings_date": null,
         "earnings_days": null
       },
-      "buys": [],
+      "buys": [
+        {
+          "channel": "The Traveling Trader",
+          "title": "The UNTHINKABLE is About to Happen to Stocks.",
+          "url": "https://www.youtube.com/watch?v=4Fbjx_H7VlM",
+          "upload_date": "20260724",
+          "date_label": "24 Jul 2026",
+          "ticker": "LUMN",
+          "company_name": "Lumenum Inc.",
+          "reason": "A photonic stock dependent on Google's capex spending. Photonics are essential components for the AI infrastructure buildout that Google and other hyperscalers are undertaking.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": "Photonics stocks are currently in a distribution phase. The creator needs them to break trend for him to be interested again."
+        }
+      ],
       "avoids": [
         {
           "channel": "The Traveling Trader",
@@ -5485,7 +5909,7 @@
     {
       "ticker": "META",
       "company_name": "Meta Platforms",
-      "buy_count": 20,
+      "buy_count": 21,
       "avoid_count": 1,
       "first_mention_date": "27 Jun 2026",
       "price_at_first_mention": 550.25,
@@ -5788,6 +6212,19 @@
           "when_to_buy": null,
           "target_price": "$800-900 per share",
           "cautions": "Market is expecting negative free cash flow that could persist for multiple quarters, though creator believes estimates are 'completely wrong' and FCF will flip positive faster than expected if business continues to accelerate. Stock reaction to good earnings is unpredictable and can be negative despite strong fundamentals."
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "\ud83d\udea8 The Stock Market is About to Go Crazy",
+          "url": "https://www.youtube.com/watch?v=PQJzaR7ayGw",
+          "upload_date": "20260726",
+          "date_label": "26 Jul 2026",
+          "ticker": "META",
+          "company_name": "Meta Platforms Inc.",
+          "reason": "Meta is highlighted as a cash-generating machine currently trading at very attractive valuations with a PE ratio of 21 and forward PE of under 17. The creator is monitoring Meta's July 27th earnings report to assess whether the company will incur negative free cash flows similar to Google's recent results due to AI infrastructure investments. Meta represents significant long-term value, though the creator acknowledges uncertainty about near-term returns as the company may increase CapEx spending.",
+          "when_to_buy": "On any S&P 500 or Nasdaq drop of minus 10% or more from highs, with specific interest in the Nasdaq 100-day moving average as a buying opportunity",
+          "target_price": null,
+          "cautions": "Risk that Meta follows Google into negative free cash flows due to increased AI CapEx. The creator has no certainty about Meta's CapEx guidance and whether it will affect free cash flow negatively. Short-term performance may lag before long-term value materializes."
         }
       ],
       "avoids": [
@@ -5847,7 +6284,7 @@
     {
       "ticker": "MRVL",
       "company_name": "Marvell Technology Inc.",
-      "buy_count": 5,
+      "buy_count": 6,
       "avoid_count": 0,
       "first_mention_date": "28 Jun 2026",
       "price_at_first_mention": 266.77,
@@ -5955,6 +6392,19 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": "Earnings coming up this week. Much smaller market cap means higher volatility and risk."
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "The UNTHINKABLE is About to Happen to Stocks.",
+          "url": "https://www.youtube.com/watch?v=4Fbjx_H7VlM",
+          "upload_date": "20260724",
+          "date_label": "24 Jul 2026",
+          "ticker": "MRVL",
+          "company_name": "Marvell Technology Inc.",
+          "reason": "Listed as a semiconductor company dependent on Google's capex spending, though graded as relatively low dependency. However, it is one of two companies in the semiconductor industry that the creator is really bullish on, along with Broadcom.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": null
         }
       ],
       "avoids": [],
@@ -5963,7 +6413,7 @@
     {
       "ticker": "MSFT",
       "company_name": "Microsoft Corporation",
-      "buy_count": 16,
+      "buy_count": 18,
       "avoid_count": 0,
       "first_mention_date": "27 Jun 2026",
       "price_at_first_mention": 372.97,
@@ -6214,6 +6664,32 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": "Stock may drop even with great earnings due to market concerns about rising CAPEX and declining free cash flow trajectory (negative FCF expected two quarters forward). Free cash flow estimates may decline further but creator notes this pattern is temporary and reversible once investment phase moderates."
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "\ud83d\udea8 The Stock Market is About to Go Crazy",
+          "url": "https://www.youtube.com/watch?v=PQJzaR7ayGw",
+          "upload_date": "20260726",
+          "date_label": "26 Jul 2026",
+          "ticker": "MSFT",
+          "company_name": "Microsoft Corporation",
+          "reason": "Microsoft is identified as a cash-generating machine trading at attractive valuations with a PE ratio of 22 and forward PE of 19. The creator expects Microsoft to report earnings on July 27th and is monitoring whether the company will follow Google's path into negative free cash flows due to AI CapEx spending, or maintain positive FCF generation. The creator views these hyperscalers as great long-term value plays despite potential short-term weakness, as they will eventually grow into their cash-generating potential once the AI infrastructure buildout runway becomes clearer.",
+          "when_to_buy": "On any S&P 500 or Nasdaq drop of minus 10% or more from highs, with specific interest in the Nasdaq 100-day moving average as a buying opportunity",
+          "target_price": null,
+          "cautions": "Risk that Microsoft follows Google into negative free cash flows due to increased AI CapEx spending, which could disappoint markets. Short-term returns may be weak even if long-term value is present. Earnings report on July 27th could trigger volatility."
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "The UNTHINKABLE is About to Happen to Stocks.",
+          "url": "https://www.youtube.com/watch?v=4Fbjx_H7VlM",
+          "upload_date": "20260724",
+          "date_label": "24 Jul 2026",
+          "ticker": "MSFT",
+          "company_name": "Microsoft Corporation",
+          "reason": "For long-term passive investors looking at traditional metrics, Microsoft is an excellent choice. It has a forward PE of 19 lower than its current PE (sign of expected earnings growth), PEG below one at 0.76, exceptional ROIC of 21%, steady gross profit margins between 70-80% for 20 years, debt to equity less than 0.5, and has never reported negative free cash flows in at least 20 years. These are the characteristics of a high-quality monopolistic company.",
+          "when_to_buy": "The creator recommends buying during broad market dips of 10% or more on the indices.",
+          "target_price": null,
+          "cautions": "Microsoft is one of the companies likely to report negative free cash flows next week (as of the recording), which could spike volatility. However, this does not change the fundamental quality of the business."
         }
       ],
       "avoids": [],
@@ -6587,7 +7063,7 @@
     {
       "ticker": "NEBS",
       "company_name": "Nebius (formerly Yandex Cloud)",
-      "buy_count": 2,
+      "buy_count": 3,
       "avoid_count": 0,
       "first_mention_date": "07 Jul 2026",
       "price_at_first_mention": null,
@@ -6619,6 +7095,19 @@
           "when_to_buy": "After the 34-35% drop from June peak (stock at $200 level as of video)",
           "target_price": null,
           "cautions": "The stock has experienced extreme volatility, dropping significantly from peak. Nebulis is a high-growth, likely unprofitable company in the neo-cloud/AI infrastructure space, making it inherently riskier than established names."
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "The UNTHINKABLE is About to Happen to Stocks.",
+          "url": "https://www.youtube.com/watch?v=4Fbjx_H7VlM",
+          "upload_date": "20260724",
+          "date_label": "24 Jul 2026",
+          "ticker": "NEBS",
+          "company_name": "Nebius Inc.",
+          "reason": "A data center company in hyperrowth stage dependent on AI infrastructure buildout. Similar to CoreWeave, it is generating exceptional revenue and EBIT growth despite not yet generating net income, mirroring early Amazon's hyperrowth phase. The creator consolidated data center holdings into Nebus and CoreWeave, currently up almost 24% on the position representing 14% of the AI portfolio.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": "Cannot be valued by traditional metrics. Must understand backlog and conversion dynamics. Extremely high beta and volatile."
         }
       ],
       "avoids": [],
@@ -7176,7 +7665,7 @@
         "ma200": 9.05,
         "ma_signal": "golden_cross",
         "pe_trailing": 65.0,
-        "pe_forward": 18.418816,
+        "pe_forward": 18.465534,
         "peg_ratio": 0.89,
         "revenue_growth": 0.084,
         "earnings_growth": -0.979,
@@ -7510,7 +7999,7 @@
     {
       "ticker": "NVDA",
       "company_name": "Nvidia Corporation",
-      "buy_count": 16,
+      "buy_count": 17,
       "avoid_count": 0,
       "first_mention_date": "27 Jun 2026",
       "price_at_first_mention": 192.53,
@@ -7761,6 +8250,19 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": null
+        },
+        {
+          "channel": "Jose Najarro Stocks",
+          "title": "Nvidia Just Changed The AI Market AGAIN!!",
+          "url": "https://www.youtube.com/watch?v=xo0ICN71obI",
+          "upload_date": "20260727",
+          "date_label": "27 Jul 2026",
+          "ticker": "NVDA",
+          "company_name": "Nvidia Corporation",
+          "reason": "Nvidia is guaranteeing $250 billion in financing for OpenAI's 10-gigawatt data center project, which signals massive conviction in the AI market's scale and sustainability. The creator believes Nvidia wouldn't take on this level of financial risk unless they have absolute confidence that the AI market will need enormous amounts of compute for years to come, and that this commitment extends well beyond typical circular financing concerns seen in smaller deals. Additionally, Nvidia's $500+ billion partnership with SK Hynix to secure next-generation AI memory supply demonstrates the company is locking in critical supply chains at scale, indicating the AI cycle will continue through 2027 and beyond, contrary to market pessimism.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": "The $250 billion backstop guarantee is an existential risk if OpenAI defaults\u2014it could destroy investor perception of Nvidia even if the company doesn't go bankrupt. The creator notes this is such a massive commitment that if Nvidia is wrong about the AI market's scale, it could be 'wrong pretty hard.' Investors should monitor whether Nvidia has contingency clauses allowing them to seize and repurpose the data center if OpenAI fails to pay."
         }
       ],
       "avoids": [],
@@ -8596,6 +9098,70 @@
       "description": "Wireless semiconductors and connectivity technology"
     },
     {
+      "ticker": "QQQ",
+      "company_name": "Nasdaq 100 ETF",
+      "buy_count": 1,
+      "avoid_count": 0,
+      "first_mention_date": "26 Jul 2026",
+      "price_at_first_mention": 684.23,
+      "pct_change_since_rec": 0.0,
+      "market": {
+        "ticker": "QQQ",
+        "name": "Invesco QQQ Trust, Series 1",
+        "currency": "USD",
+        "sector": null,
+        "industry": null,
+        "market_cap": null,
+        "current_price": 684.23,
+        "daily_change_pct": -1.12,
+        "month_change_pct": -4.49,
+        "week52_high": 748.65,
+        "week52_high_date": "03 Jun 2026",
+        "week52_low": 551.68,
+        "week52_low_date": "01 Aug 2025",
+        "rsi": 41.9,
+        "rsi_label": "neutral",
+        "ma50": 718.32,
+        "ma200": 641.52,
+        "ma_signal": "golden_cross",
+        "pe_trailing": 30.362904,
+        "pe_forward": null,
+        "peg_ratio": null,
+        "revenue_growth": null,
+        "earnings_growth": null,
+        "free_cashflow": null,
+        "profit_margins": null,
+        "debt_to_equity": null,
+        "beta": null,
+        "short_percent": null,
+        "dividend_yield": 0.41,
+        "analyst_buy": null,
+        "analyst_hold": null,
+        "analyst_sell": null,
+        "analyst_target": null,
+        "analyst_upside_pct": null,
+        "earnings_date": null,
+        "earnings_days": null
+      },
+      "buys": [
+        {
+          "channel": "The Traveling Trader",
+          "title": "\ud83d\udea8 The Stock Market is About to Go Crazy",
+          "url": "https://www.youtube.com/watch?v=PQJzaR7ayGw",
+          "upload_date": "20260726",
+          "date_label": "26 Jul 2026",
+          "ticker": "QQQ",
+          "company_name": "Nasdaq 100 ETF",
+          "reason": "Creator plans to buy the Nasdaq on any drop of minus 10% or more. The Nasdaq 100 at a PE ratio of 24x is viewed as historically cheap compared to dot-com bubble levels of 86x. When the Nasdaq reaches its 100-day moving average, it will be down approximately 10%, which the creator identifies as a major buying opportunity.",
+          "when_to_buy": "On any drop of minus 10% or more from highs. Specifically, when Nasdaq reaches the 100-day moving average, it will trigger a minus 10% decline from recent highs.",
+          "target_price": null,
+          "cautions": "Further downside to 7,300 SPX is possible if geopolitical or bond market conditions deteriorate. Creator views this as a rough trading environment and recommends limiting swing trades."
+        }
+      ],
+      "avoids": [],
+      "description": "Exchange-traded fund tracking the Nasdaq-100 Index of large-cap technology stocks"
+    },
+    {
       "ticker": "QRVO",
       "company_name": "Qorvo Inc.",
       "buy_count": 0,
@@ -9407,6 +9973,70 @@
       "description": "NAND flash storage controllers for devices"
     },
     {
+      "ticker": "SK",
+      "company_name": "SK Hynix",
+      "buy_count": 1,
+      "avoid_count": 0,
+      "first_mention_date": "27 Jul 2026",
+      "price_at_first_mention": 22.93,
+      "pct_change_since_rec": 0.0,
+      "market": {
+        "ticker": "SK",
+        "name": "Corgi SK hynix 2x Daily ETF",
+        "currency": "USD",
+        "sector": null,
+        "industry": null,
+        "market_cap": null,
+        "current_price": 22.93,
+        "daily_change_pct": -17.44,
+        "month_change_pct": -40.41,
+        "week52_high": 38.6,
+        "week52_high_date": "14 Jul 2026",
+        "week52_low": 21.0,
+        "week52_low_date": "17 Jul 2026",
+        "rsi": null,
+        "rsi_label": null,
+        "ma50": null,
+        "ma200": null,
+        "ma_signal": null,
+        "pe_trailing": null,
+        "pe_forward": null,
+        "peg_ratio": null,
+        "revenue_growth": null,
+        "earnings_growth": null,
+        "free_cashflow": null,
+        "profit_margins": null,
+        "debt_to_equity": null,
+        "beta": null,
+        "short_percent": null,
+        "dividend_yield": null,
+        "analyst_buy": null,
+        "analyst_hold": null,
+        "analyst_sell": null,
+        "analyst_target": null,
+        "analyst_upside_pct": null,
+        "earnings_date": null,
+        "earnings_days": null
+      },
+      "buys": [
+        {
+          "channel": "Jose Najarro Stocks",
+          "title": "Nvidia Just Changed The AI Market AGAIN!!",
+          "url": "https://www.youtube.com/watch?v=xo0ICN71obI",
+          "upload_date": "20260727",
+          "date_label": "27 Jul 2026",
+          "ticker": "SK",
+          "company_name": "SK Hynix",
+          "reason": "SK Hynix announced a $500+ billion long-term partnership with Nvidia to co-develop next-generation AI memory including HBM, with hundreds of billions allocated to memory supply alone. This demonstrates Nvidia's confidence in massive future demand and locks SK Hynix into a critical supplier role. Additionally, SK Hynix is building a new cloud AI infrastructure business using Nvidia's DSSX platform to create gigawatt-scale data centers launching in 2027, which diversifies their revenue beyond commodity memory into high-margin AI infrastructure services.",
+          "when_to_buy": "SK Hynix earnings on Tuesday, July 28th at 8:00 p.m. EST should be a critical catalyst; the stock is down 20% from its peak despite these announcements, creating a potential opportunity.",
+          "target_price": null,
+          "cautions": "The circular financing dynamic is concerning\u2014SK Hynix sells memory to Nvidia, buys chips back, then builds data centers to resell those chips, perpetuating the cycle. The creator acknowledges this looks like artificial demand creation, though they defend it as legitimate diversification. Year-to-date performance has been weak despite positive developments."
+        }
+      ],
+      "avoids": [],
+      "description": "Semiconductor manufacturer producing memory chips and displays"
+    },
+    {
       "ticker": "SKHY",
       "company_name": "SK Hynix",
       "buy_count": 2,
@@ -9801,9 +10431,73 @@
       "description": "Leveraged ETF providing 3x daily exposure to semiconductor stocks"
     },
     {
+      "ticker": "SPY",
+      "company_name": "S&P 500 ETF",
+      "buy_count": 1,
+      "avoid_count": 0,
+      "first_mention_date": "26 Jul 2026",
+      "price_at_first_mention": 738.93,
+      "pct_change_since_rec": 0.0,
+      "market": {
+        "ticker": "SPY",
+        "name": "State Street SPDR S&P 500 ETF T",
+        "currency": "USD",
+        "sector": null,
+        "industry": null,
+        "market_cap": null,
+        "current_price": 738.93,
+        "daily_change_pct": 0.1,
+        "month_change_pct": 0.63,
+        "week52_high": 760.4,
+        "week52_high_date": "02 Jun 2026",
+        "week52_low": 619.29,
+        "week52_low_date": "01 Aug 2025",
+        "rsi": 44.8,
+        "rsi_label": "neutral",
+        "ma50": 744.06,
+        "ma200": 695.06,
+        "ma_signal": "golden_cross",
+        "pe_trailing": 26.579433,
+        "pe_forward": null,
+        "peg_ratio": null,
+        "revenue_growth": null,
+        "earnings_growth": null,
+        "free_cashflow": null,
+        "profit_margins": null,
+        "debt_to_equity": null,
+        "beta": null,
+        "short_percent": null,
+        "dividend_yield": 1.01,
+        "analyst_buy": null,
+        "analyst_hold": null,
+        "analyst_sell": null,
+        "analyst_target": null,
+        "analyst_upside_pct": null,
+        "earnings_date": null,
+        "earnings_days": null
+      },
+      "buys": [
+        {
+          "channel": "The Traveling Trader",
+          "title": "\ud83d\udea8 The Stock Market is About to Go Crazy",
+          "url": "https://www.youtube.com/watch?v=PQJzaR7ayGw",
+          "upload_date": "20260726",
+          "date_label": "26 Jul 2026",
+          "ticker": "SPY",
+          "company_name": "S&P 500 ETF",
+          "reason": "The creator explicitly states a strategy to buy the S&P 500 indices anytime they drop minus 10% or more from highs. The creator is not a fortune teller but views major market corrections as buying opportunities, particularly in midterm election years which historically show average corrections of minus 17.5% before the election low.",
+          "when_to_buy": "On any drop of minus 10% or more from current highs. Creator expects deeper corrections given historical midterm patterns and suggests the S&P 500 is currently only down 3% from highs.",
+          "target_price": null,
+          "cautions": "Creator acknowledges this is not a certain prediction and that further downside could occur depending on geopolitical developments (Iran escalation), bond market dynamics, and Fed policy decisions."
+        }
+      ],
+      "avoids": [],
+      "description": "Exchange-traded fund tracking the S&P 500 Index of large-cap US stocks"
+    },
+    {
       "ticker": "SSNLF",
       "company_name": "SilverSun Technologies (specialty semiconductor)",
-      "buy_count": 2,
+      "buy_count": 3,
       "avoid_count": 0,
       "first_mention_date": "28 Jun 2026",
       "price_at_first_mention": 65.21,
@@ -9872,6 +10566,19 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": "If growth starts to slow at all, the stock price would still be on the more expensive side. The valuation is dependent on maintaining the recent exceptional growth trajectory."
+        },
+        {
+          "channel": "Jose Najarro Stocks",
+          "title": "Nvidia Just Changed The AI Market AGAIN!!",
+          "url": "https://www.youtube.com/watch?v=xo0ICN71obI",
+          "upload_date": "20260727",
+          "date_label": "27 Jul 2026",
+          "ticker": "SSNLF",
+          "company_name": "Samsung",
+          "reason": "Samsung signed a $200 billion partnership with Broadcom spanning memory and foundry services, leveraging Samsung's control of scarce manufacturing capacity (2-nanometer foundry and advanced packaging) to force customers to commit to both memory and manufacturing. The creator sees this as a 'big big win' for Samsung because they're using memory demand as leverage to lock in high-margin foundry business, capitalizing on global semiconductor supply chain shortages in both front-end and especially advanced packaging.",
+          "when_to_buy": "Samsung earnings on Wednesday, July 29th should provide more detail; the creator does not personally own Samsung but acknowledges the investment merit.",
+          "target_price": null,
+          "cautions": "The creator does not personally invest in Samsung, only analyzing it as a market development. The deal is dependent on continued supply chain tightness."
         }
       ],
       "avoids": [],
@@ -9982,6 +10689,33 @@
       "description": "Manufactures photovoltaic solar modules and cells"
     },
     {
+      "ticker": "TERN",
+      "company_name": "Ternium Inc.",
+      "buy_count": 1,
+      "avoid_count": 0,
+      "first_mention_date": "24 Jul 2026",
+      "price_at_first_mention": null,
+      "pct_change_since_rec": null,
+      "market": null,
+      "buys": [
+        {
+          "channel": "The Traveling Trader",
+          "title": "The UNTHINKABLE is About to Happen to Stocks.",
+          "url": "https://www.youtube.com/watch?v=4Fbjx_H7VlM",
+          "upload_date": "20260724",
+          "date_label": "24 Jul 2026",
+          "ticker": "TERN",
+          "company_name": "Ternium Inc.",
+          "reason": "$3.2 billion Alphabet backs Ternium and Alphabet has a 14% stake in the company, indicating significant confidence. Ternium is a data center company that converted from Bitcoin mining, directly benefiting from Google's massive capex spending on AI infrastructure.",
+          "when_to_buy": "From a technical perspective, the stock is sitting at the 200 day moving average, but the creator would prefer to see a break and retest before entry.",
+          "target_price": null,
+          "cautions": "From a technical perspective, the creator prefers to see a break and retest of the 200 day moving average before committing."
+        }
+      ],
+      "avoids": [],
+      "description": "Produces and distributes steel products including flat and long steel"
+    },
+    {
       "ticker": "TQQQ",
       "company_name": "Invesco QQQ Trust Series 1 3x (Leveraged)",
       "buy_count": 1,
@@ -10049,7 +10783,7 @@
       "ticker": "TSLA",
       "company_name": "Tesla Inc.",
       "buy_count": 2,
-      "avoid_count": 5,
+      "avoid_count": 6,
       "first_mention_date": "02 Jul 2026",
       "price_at_first_mention": 402.9,
       "pct_change_since_rec": -22.3,
@@ -10174,6 +10908,17 @@
           "company_name": "Tesla Inc.",
           "reason": "Tesla missed on EPS guidance badly, with adjusted EPS of 33 cents vs. street expectation of 54 cents (40% miss). Despite beating revenue at $28.2B vs. $26.3B expected, gross margin came in at 16.8% vs. street expectation of 19.4%, a significant miss. More concerning, EPS is down 18% year-over-year despite 26% revenue growth, indicating severe margin compression. Over 50% of Tesla's reported EPS (22 cents of 33 cents) came from the SpaceX equity stake, not core operations, suggesting the core business is struggling. Free cash flow was negative $1.09B. Energy storage revenue came in at $3.12B vs. $3.5B expected.",
           "risk": "Stock down 2.3% after hours. The margin story is deteriorating with no clear path to improvement. Heavy reliance on non-core SpaceX gains to support EPS suggests operational challenges. Robo-taxi timeline and Optimus production remain uncertain despite management's ambitious statements."
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "The UNTHINKABLE is About to Happen to Stocks.",
+          "url": "https://www.youtube.com/watch?v=4Fbjx_H7VlM",
+          "upload_date": "20260724",
+          "date_label": "24 Jul 2026",
+          "ticker": "TSLA",
+          "company_name": "Tesla Inc.",
+          "reason": "Tesla recorded record revenue of $28.2 billion with 26% growth and record deliveries, but earnings per share missed heavily. Two-thirds of the earnings came from unrealized paper gains on SpaceX shares at $170 per share, but SpaceX has since tanked 50% from those highs, meaning the paper gain is no longer valid. GAAP operating income came in 57% lower year-over-year, operating margins continue to deteriorate, and free cash flows were negative. While Tesla is spending on pivoting to robotics, robo taxi, and autonomous driving, the current fundamentals are weak.",
+          "risk": "Earnings deterioration, margin compression, negative free cash flows, and reliance on non-operational paper gains for reported profits. The unrealized gains backing the earnings will evaporate further if SpaceX continues to decline."
         }
       ],
       "description": "Designs and manufactures electric vehicles and energy storage systems"
@@ -10690,7 +11435,7 @@
     {
       "ticker": "VRT",
       "company_name": "Vertu Holdings",
-      "buy_count": 3,
+      "buy_count": 4,
       "avoid_count": 0,
       "first_mention_date": "06 Jul 2026",
       "price_at_first_mention": 317.81,
@@ -10772,6 +11517,19 @@
           "when_to_buy": "Wait for earnings results at the end of this month before buying; stock currently down almost 20% over the last month",
           "target_price": null,
           "cautions": "If Nvidia's Kyber rack deployment is delayed beyond 2028, Vertiv will also feel the impact as orders and deployments slip. The stock is down 20% over the last month partly due to concerns about Kyber delay. The creator is specifically waiting for Vertiv's earnings at the end of the month before establishing a position."
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "The UNTHINKABLE is About to Happen to Stocks.",
+          "url": "https://www.youtube.com/watch?v=4Fbjx_H7VlM",
+          "upload_date": "20260724",
+          "date_label": "24 Jul 2026",
+          "ticker": "VRT",
+          "company_name": "Vertiv Holdings Inc.",
+          "reason": "The AI buildout is dependent on power and cooling infrastructure. Vertiv is positioned to benefit from the massive capex spending on AI infrastructure, particularly data center cooling and power management.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": null
         }
       ],
       "avoids": [],

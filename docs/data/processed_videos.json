@@ -12493,6 +12493,33 @@
       "price_at_recommendation": {
         "CEG": 274.35
       }
+    },
+    "bFfj4ONrPnY": {
+      "channel": "FinTek",
+      "title": "Warren Buffett Bought This AI Company",
+      "upload_date": "20260727",
+      "url": "https://www.youtube.com/watch?v=bFfj4ONrPnY",
+      "processed_at": "2026-07-27T16:36:28.068709",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet Inc.",
+            "reason": "Warren Buffett's Berkshire Hathaway bought another $10 billion worth of Alphabet stock, nearly tripling their stake in Google's parent company. The investment aligns with classic Buffett principles: Alphabet has arguably the best technology development team in the country, and Google was named the world's most valuable brand. Strong brands represent one of Buffett's favorite economic moats because they set companies apart from competitors, creating durable competitive advantages.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": [
+          "GOOGL"
+        ]
+      },
+      "price_at_recommendation": {
+        "GOOGL": 327.32
+      }
     }
   },
   "channel_ids": {

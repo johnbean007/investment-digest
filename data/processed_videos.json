@@ -11443,6 +11443,619 @@
         "GOOGL": 319.01,
         "NOW": 97.33
       }
+    },
+    "8yZ_b0yxip0": {
+      "channel": "Mr. FIRED Up Wealth",
+      "title": "My Golden Rule: Don't Chase, Find Opportunity Early!",
+      "upload_date": "20260725",
+      "url": "https://www.youtube.com/watch?v=8yZ_b0yxip0",
+      "processed_at": "2026-07-27T10:08:09.395409",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "PLTR",
+            "company_name": "Palantir Technologies",
+            "reason": "The creator bought Palantir at $10 and recommended it on the channel. The investment thesis centers on finding opportunities early before the masses and holding them long term with a low cost basis. The creator demonstrated patience through the stock's rise to $200, even though they acknowledged it became overvalued at that peak.",
+            "when_to_buy": "Early entry before mass adoption; creator bought at $10",
+            "target_price": null,
+            "cautions": "Creator stated the stock was overvalued at $200 and does not recommend chasing it at elevated prices. While the creator believes it could reach new all-time highs, they explicitly stated they do not like chasing stocks when fundamentals don't make sense and technicals show air pockets."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "RKLB",
+            "company_name": "Rocket Lab USA Inc.",
+            "reason": "The creator specifically mentioned not liking to chase Rocket Lab at $150, using it as an example of a stock trading at prices where the fundamentals don't make sense and technicals show air pockets. This represents the type of investment behavior the creator actively avoids.",
+            "risk": null
+          }
+        ],
+        "key_warnings": [
+          "Do not chase stocks that have already experienced significant rallies when fundamentals no longer justify valuations and technical indicators show air pockets. The creator emphasizes finding opportunities early before the masses rather than entering after parabolic moves.",
+          "As a seasoned investor, the creator advises against chasing 'Rocket' moves in stocks like Rocket Lab at $150 or Palantir at $200, recommending instead a strategy of identifying opportunities with low cost basis and holding long term."
+        ],
+        "tickers_mentioned": [
+          "PLTR",
+          "RKLB"
+        ]
+      },
+      "price_at_recommendation": {
+        "PLTR": 122.92,
+        "RKLB": 63.91
+      }
+    },
+    "AKnoaDzH4q4": {
+      "channel": "Mr. FIRED Up Wealth",
+      "title": "ServiceNow Stock Looks Strong On Paper | Here's The Catch!",
+      "upload_date": "20260723",
+      "url": "https://www.youtube.com/watch?v=AKnoaDzH4q4",
+      "processed_at": "2026-07-27T10:08:44.948792",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NOW",
+            "company_name": "ServiceNow Inc.",
+            "reason": "ServiceNow just beat earnings across the board with strong subscription growth (23% guided), AI momentum building, and cybersecurity momentum building. The company raised guidance. Subscription revenue is trending in the right direction. Net base dollar retention and churn rates are healthy, with 18 of the top 20 deals including eight or more products, showing successful platform expansion. The cybersecurity business is already a $1 billion+ revenue segment and is the fastest growing of the top 10 cyber companies in the enterprise. The company trades at 5.5X EV/NMR, down from historical multiples of 15X median and 18-22X peaks, suggesting the market has re-rated the stock lower. Core cash economics and free cash flow generation are excellent. The creator personally owns NOW in multiple portfolios and bought shares on the day of this video, though with the caveat that most retail investors should avoid it unless they understand SaaS metrics.",
+            "when_to_buy": "The creator bought shares on the day of this video at approximately $95 per share but emphasizes timing depends on understanding SaaS valuations and risk tolerance",
+            "target_price": null,
+            "cautions": "The creator explicitly warns that most highly casual retail investors and traders should avoid ServiceNow and all SaaS stocks because they are hard to understand, unique, and carry high beta. SaaS stocks cannot be evaluated using standard PE ratios like traditional stocks. The stock must prove that software stocks can survive independently, which will take time. Short-term sentiment drives 50-70% of price movements, and sentiment toward SaaS stocks is currently negative. The creator notes that if sentiment remains poor on software stocks, the stock may not move despite solid fundamentals. High stock-based compensation and margin pressure from AI and cloud investments are typical for this sector but may concern value investors. The remaining performance obligations of $13.2 billion are not guaranteed. The creator owns only 0.4% of their main portfolio in NOW (cost basis $51.87, up 82%) and 3.85% of community portfolio (down 23.5%), indicating even the creator sizes this as a higher-risk position."
+          },
+          {
+            "ticker": "MSFT",
+            "company_name": "Microsoft Corporation",
+            "reason": "Microsoft is one of the creator's highest conviction picks for the next decade, included in a top 10 high conviction stocks video. It is classified as a DGIF (dividend growth income focus) stock, representing a much more mature business than ServiceNow. Microsoft pays a dividend and is less volatile, making it suitable for different risk tolerances and portfolio construction purposes.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "While Microsoft is a great company, the creator notes it will not generate massive returns compared to higher-growth stocks like ServiceNow. Microsoft should be compared to other mature businesses, not directly to growth stocks using PE ratios alone, as they serve different portfolio purposes. For investors seeking to accumulate wealth with high risk tolerance, Microsoft may be less suitable than growth alternatives."
+          },
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon.com Inc.",
+            "reason": "Amazon is mentioned as an example of a core holding and highest conviction stock that could serve as 'the captain of the ship' in a diversified portfolio, representing a major institutional position.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet Inc.",
+            "reason": "Google is mentioned as an example of a core holding and highest conviction stock that could serve as 'the captain of the ship' in a diversified portfolio, representing a major institutional position.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Nvidia is mentioned as an example of a core holding and highest conviction stock that could serve as 'the captain of the ship' in a diversified portfolio, representing a major institutional position.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "LCID",
+            "company_name": "Lucid Group Inc.",
+            "reason": "Lucid is used as a cautionary example of a pandemic-era darling where short-term sentiment and momentum drove the stock to unsustainable levels ($552 peak in 2021) before fundamentals reasserted themselves. The stock is now down 99%+ from its peak and down 97% from $242. This exemplifies how retail hype stocks can collapse when fundamentals do not support valuations and sentiment reverses.",
+            "risk": "Down 99%+ from peak of $552; currently trading near all-time lows. Investors who bought at the top would need a 1,000%+ return just to break even."
+          },
+          {
+            "ticker": "UPST",
+            "company_name": "Upstart Holdings Inc.",
+            "reason": "Upstart is presented as another example of a popular retail-favorite stock from the pandemic era that failed to deliver on its hype. The stock peaked at $390 and is now trading at $27, down 76% over the past 5 years. This serves as a warning about investing based on sentiment and popularity rather than sustainable fundamentals.",
+            "risk": "Down 93% from peak of $390; now at $27. Down 76% over past 5 years."
+          },
+          {
+            "ticker": "ROKU",
+            "company_name": "Roku Inc.",
+            "reason": "Roku is cited as another example of a previously popular stock that has significantly underperformed, down 70% over the past 5 years. It represents the broader category of hype stocks that may look attractive short-term but fail to deliver long-term value.",
+            "risk": "Down 70% over the past 5 years."
+          },
+          {
+            "ticker": "AKAO",
+            "company_name": "Akao (company name not fully provided in transcript)",
+            "reason": "Akao is highlighted as an extreme example of a pure 'story stock' or speculation play with zero profitability, zero growth, and zero earnings-based valuation, trading at a $7.74 billion market cap despite having no financial fundamentals. The creator explicitly states this is not suitable for most investors and should only be held in tiny speculative positions if at all.",
+            "risk": "Pure speculation with no earnings, no revenue, and no profitability. If the story does not pan out, the stock could go to zero. The creator suggests these types of stocks can look 'like one of these charts where it is down big' if the narrative fails."
+          }
+        ],
+        "key_warnings": [
+          "Most casual retail investors should avoid all SaaS (Software-as-a-Service) stocks unless they deeply understand the sector. SaaS stocks cannot be evaluated using standard PE ratio analysis and require understanding of unique metrics like EV/NMR, Magic Number, Rule of 40, net dollar retention, and churn rates. These metrics were invented by venture capital and differ fundamentally from traditional valuation methods.",
+          "Lack of financial education and understanding of risk management creates dangerous investment conditions. Most retail investors do not understand portfolio blueprint design, the difference between stock types (dividend stocks, growth stocks, DGIFs, etc.), and why different stocks serve different portfolio purposes. Investors should not use a single metric like PE ratio across all stock types.",
+          "In 2024-2026, sentiment drives 50-70% of short-term stock price movements (days and months), particularly in retail-heavy tech names. Over longer horizons (1+ years), fundamentals explain 60-80% of returns as sentiment-driven mispricings revert. However, for ServiceNow and software stocks specifically, negative sentiment must reverse and the market must be convinced software stocks can survive independently before prices will reflect fundamental strength.",
+          "Portfolio diversification is essential. Do not construct a portfolio of only high-beta SaaS stocks thinking they are diversified just because they operate in different niches (e.g., CrowdStrike and Samsara). A properly constructed portfolio should be like a football team with different positions serving different roles: core holdings (captains), stalwarts (linemen), and high-growth positions (wide receivers).",
+          "High stock-based compensation, decreasing non-GAAP gross margins, and low ROIC are typical sector characteristics for high-growth SaaS leaders, not warning signs. These companies must spend heavily on R&D, AI, cloud infrastructure, and acquisitions to maintain growth. Investors comparing these metrics to traditional stocks will misunderstand the business model.",
+          "Many popular retail stocks from 2020-2021 (pandemic-era hype stocks) have declined 70-99% from peaks as sentiment reversed and fundamentals did not support valuations. Similar dynamics may occur with current hype stocks if their stories do not materialize. Over a 5-year horizon, many popular retail stocks today will likely look like Lucid, Upstart, or Roku."
+        ],
+        "tickers_mentioned": [
+          "NOW",
+          "MSFT",
+          "AMZN",
+          "GOOGL",
+          "NVDA",
+          "AMD",
+          "QCOM",
+          "AAOI",
+          "LUMN",
+          "LCID",
+          "UPST",
+          "ROKU",
+          "AKAO",
+          "SCHD",
+          "QQQ",
+          "QQQM",
+          "VOO",
+          "CrowdStrike",
+          "Samsara"
+        ]
+      },
+      "price_at_recommendation": {
+        "MSFT": 381.7,
+        "NOW": 98.78,
+        "LCID": 6.3,
+        "UPST": 26.93,
+        "ROKU": 141.97,
+        "GOOGL": 319.74,
+        "AMZN": 232.11,
+        "NVDA": 206.84
+      }
+    },
+    "a0l7VDnN1bg": {
+      "channel": "CouchInvestor",
+      "title": "I Just Bought $2,500 More of This Stock. Here's Why",
+      "upload_date": "20260726",
+      "url": "https://www.youtube.com/watch?v=a0l7VDnN1bg",
+      "processed_at": "2026-07-27T10:09:23.356749",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NBIS",
+            "company_name": "Nebius",
+            "reason": "The creator has a 19% portfolio position with an average cost of $52.50 across 540 shares. He is highly convinced this is a company that will win and is better than the rest. Nebius is benefiting from the push towards open-source and open models, evidenced by their quick launch on the Nebius Token Factory for Kimi. The creator views the recent stock decline as an opportunity, noting that pullbacks before earnings are preferable to price-to-perfection scenarios. Despite the stock trading at $187-$205 on volatile trading days, he remains bullish and wouldn't mind buying more, though he prefers to wait for earnings clarity given the company's momentum in the AI infrastructure space.",
+            "when_to_buy": "After earnings report clarity, as creator prefers to wait until earnings are released given upcoming guidance",
+            "target_price": null,
+            "cautions": "Stock experienced significant volatility on Friday, dropping from $205 to $187 in the last two hours of trading. Creator acknowledges the stock has pulled back significantly but still considers it expensive relative to some peers, though fundamental research contradicts this view in his opinion."
+          },
+          {
+            "ticker": "RDDT",
+            "company_name": "Reddit",
+            "reason": "The creator bought more Reddit this week during a dip following headlines about a potential $60 million Google data deal cancellation. He believes the real value is in Reddit's data being extremely valuable and worth far more than $60 million, positioning the company to renegotiate for a much larger deal. Reddit is expected to report 71% year-over-year revenue growth to $729.4 million and 409% year-over-year EPS growth to 96 cents. The company has improving margins, strong growth trajectory, and at a $32 billion valuation, the creator views it as very cheap. Free cash flow is expected to increase with $254 million projected.",
+            "when_to_buy": "On dips/pullbacks, creator already added this week",
+            "target_price": null,
+            "cautions": "Headline risk around Google partnership; creator expects company to renegotiate rather than lose the deal entirely, but market sentiment may remain volatile around partnership uncertainty."
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms",
+            "reason": "Meta is expected to report strong numbers with revenue just over $6.2 billion and free cash flow expected to be negative $841 million (potentially close to $1 billion). The creator views Meta as undervalued and believes the key will be internal commentary around recommendation systems, advertising, Meta Cloud business, and subscription business developments. Capital expenditure is critical\u2014market expects $33.2 billion for the quarter and $135.2 billion annually, but creator believes fiscal 2027 capex could approach $200 billion. The recent pullback has removed the price-to-perfection risk, making it a better entry point going into earnings.",
+            "when_to_buy": "Before Wednesday earnings report at current levels after pullback",
+            "target_price": null,
+            "cautions": "Earnings on same day as FOMC meeting, creating macro uncertainty. Market reaction may be driven more by macro factors and geopolitical issues than by fundamental performance. High capex expectations could concern some investors despite long-term AI infrastructure benefits."
+          },
+          {
+            "ticker": "HOOD",
+            "company_name": "Robinhood Markets",
+            "reason": "Market expects EPS of 43 cents (38% year-over-year growth) and revenue around $1.2-1.3 billion (40% year-over-year growth). The creator views the crypto business as close to dead and no longer material, but prediction markets is positioned to be the star of the show and represents a huge growth driver. The prediction markets business arrived at the perfect time, as without it Robinhood would be worth significantly less than the current $95 valuation. Creator considers the stock undervalued going into earnings.",
+            "when_to_buy": "Before Wednesday earnings report at current levels",
+            "target_price": null,
+            "cautions": "Crypto business weakness; prediction markets is new and unproven at scale. Creator's thesis depends heavily on prediction markets success and growth trajectory."
+          },
+          {
+            "ticker": "SOFI",
+            "company_name": "SoFi Technologies",
+            "reason": "Creator has SoFi as the #3 position in portfolio and considers it a lot undervalued. The company is expected to report on Wednesday with good quarterly results, but timing challenges exist due to simultaneous FOMC meeting. Creator believes SoFi may play it safe with guidance given the macro uncertainty and changing interest rate assumptions, but even conservative guidance would be considered good given the current valuation. The pullback in the stock has removed price-to-perfection risk.",
+            "when_to_buy": "On pullbacks; currently at reduced valuation levels",
+            "target_price": null,
+            "cautions": "FOMC meeting on same day as earnings (Wednesday) creates guidance uncertainty. Company may not raise guidance despite good quarterly results if they're uncertain about rate cut assumptions, which could disappoint markets despite fundamental strength."
+          },
+          {
+            "ticker": "UBER",
+            "company_name": "Uber Technologies",
+            "reason": "Despite Waymo partnership uncertainty and headlines about potential separation post-2028, creator remains bullish on Uber's long-term autonomous vehicle platform economics. Creator argues that Waymo and Tesla licensing FSD technology will create multiple AV players in the market, and when there are multiple suppliers, platforms like Uber with established networks win. By 2028, multiple AV players will enter the market, making it unlikely Waymo or Tesla take 90%+ market share. Uber's network effects and distribution infrastructure create a durable competitive advantage. The stock is currently under $70, down on Waymo headlines, presenting an opportunity for patient investors.",
+            "when_to_buy": "On dips like current Waymo headline decline; creator awaits earnings in ~2 weeks",
+            "target_price": null,
+            "cautions": "Waymo partnership uncertainty through 2028; optics of potential partnership end are not great. Market may overreact to AV competition headlines. Creator acknowledges this is a contrarian view against Tesla bull thesis that automation eliminates Uber's need."
+          },
+          {
+            "ticker": "RKLB",
+            "company_name": "Rocket Lab",
+            "reason": "Rocket Lab is down more than 50% from highs, removing price-to-perfection risk. Creator views the pullback as creating a better entry point going into the earnings period. At current levels around $60, the valuation is more reasonable.",
+            "when_to_buy": "At current pullback levels around $60",
+            "target_price": null,
+            "cautions": "Stock has declined significantly (50%+), suggesting market concerns that creator believes are overdone. Fundamentals would need to be confirmed in upcoming earnings."
+          },
+          {
+            "ticker": "PLTR",
+            "company_name": "Palantir Technologies",
+            "reason": "At current levels around $122-123, creator views Palantir as a very good price to enter going into earnings. Despite being one of the more expensive names in the portfolio, the recent pullback has created better risk-reward. Palantir has signed the open models letter alongside other major tech companies.",
+            "when_to_buy": "At current levels around $122-123 before earnings",
+            "target_price": null,
+            "cautions": "Creator acknowledges Palantir was trading at much higher levels ($640), suggesting significant valuation compression. Still considers it more expensive than other positions but acceptable at current levels."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "FOMC meeting on Wednesday creates significant macro uncertainty affecting all earnings reports that day (SoFi, Microsoft, Meta). Creator warns that regardless of fundamental performance, stock reactions will be heavily influenced by macro factors, geopolitical issues, and inflation data rather than company-specific earnings beats.",
+          "Market valuations remain elevated despite recent pullbacks. Creator cites S&P 500 PEG ratio as low, but notes the metric should be taken with grains of salt. Average retail portfolio is down 12.7% year-to-date, and retail net flows have dropped to near pandemic lows, suggesting investors may be running out of cash after continuously buying dips.",
+          "High capex requirements for AI infrastructure pose ongoing cash burn concerns for Meta and Microsoft. Both companies are expected to increase capex significantly into 2027, potentially approaching $200 billion+ annually. This impacts free cash flow and requires sustained revenue growth to justify.",
+          "Geopolitical and macro factors will override fundamental strength in near term. Creator explicitly states: 'I do believe that whatever these companies report this week...is all going to be affected by macro. I don't think that these companies will report bad quarters...but that doesn't mean that the stock will react positively.'",
+          "Portfolio concentration risk in growth and AI names. Creator's portfolio is heavily weighted toward high-growth AI infrastructure and fintech names (Nebius 19%, plus large positions in AMD, SoFi, Meta, Rocket Lab). This creates significant volatility as evidenced by 8% monthly decline despite 26% annual gains."
+        ],
+        "tickers_mentioned": [
+          "NBIS",
+          "AMD",
+          "SOFI",
+          "GOOGL",
+          "RKLB",
+          "OSCR",
+          "META",
+          "DLOCW",
+          "RBK",
+          "MU",
+          "HOOD",
+          "UBER",
+          "MSTR",
+          "SHYF",
+          "RDDT",
+          "XOM",
+          "PLTR",
+          "NFLX",
+          "NVDA",
+          "PYPL",
+          "MSFT",
+          "ARM",
+          "QCOM",
+          "LRCX",
+          "AAPL",
+          "AMZN",
+          "RBL",
+          "MC",
+          "CRWD",
+          "SQ",
+          "TSLA",
+          "KO",
+          "PFE"
+        ]
+      },
+      "price_at_recommendation": {
+        "RKLB": 63.91,
+        "PLTR": 122.92,
+        "SOFI": 16.46,
+        "META": 595.19,
+        "RDDT": 168.73,
+        "UBER": 65.94,
+        "HOOD": 94.91,
+        "NBIS": 187.77
+      }
+    },
+    "3c9iLgtDdKM": {
+      "channel": "CouchInvestor",
+      "title": "Time to CASH OUT! 4 Stocks to SELL Before Earnings!",
+      "upload_date": "20260725",
+      "url": "https://www.youtube.com/watch?v=3c9iLgtDdKM",
+      "processed_at": "2026-07-27T10:09:58.736779",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [
+          {
+            "ticker": "UBER",
+            "company_name": "Uber Technologies",
+            "reason": "While the creator owns a position and acknowledges Uber is cheap and profitable, he recommends waiting before the earnings report rather than buying now. The stock has zero momentum, down 27.3% over the past 12 months and experiencing a 33.7% year-to-date drawdown. The creator suggests sentiment isn't there despite attractive valuation, and it's better to wait for the earnings report and call to get information and confirmation before deploying capital, even though this may cost 5-10% of upside.",
+            "risk": "Stock may remain flat for extended periods despite cheap valuation; sentiment weakness suggests limited near-term catalyst"
+          },
+          {
+            "ticker": "NFLX",
+            "company_name": "Netflix",
+            "reason": "The creator owns Netflix but has placed it in a 'penalty box' as a wait-and-see story. Despite being cheap on paper and a good company, he is not willing to add to the position because the market is waiting for confirmation from the company that things are moving in the right direction. He prefers to wait a quarter or two for confirmation before committing capital, as buying now may result in the stock staying flat for 6 months.",
+            "risk": "Stock may trade flat for extended periods; market requires multiple quarters of confirmation before re-rating"
+          },
+          {
+            "ticker": "SHYF",
+            "company_name": "Shift4 Payments",
+            "reason": "The creator owns this position but has placed it on the sidelines. While the company is clearly very cheap, year-to-date it's down close to 22%. The market is waiting for confirmation on the Global Blue acquisition integration, guidance improvement, and acceleration of growth. The creator acknowledges that 'cheap can be cheaper' and 'low can go lower,' preferring to wait for confirmation before adding capital rather than catching a falling knife.",
+            "risk": "Stock down 22% year-to-date; may continue lower before recovery; market requires confirmation on acquisition integration and growth acceleration"
+          },
+          {
+            "ticker": "AAPL",
+            "company_name": "Apple",
+            "reason": "Despite being up 56% year-to-date and near all-time highs, Apple is trading at a significant premium that doesn't match fundamentals. Trailing PE is 40.3x versus historical average of 30.5x, forward PE is 36.5x versus average of 27.7x. Price-to-free-cash-flow is 34.3x versus average 26.5x. The creator questions why Apple deserves this premium when revenue growth is expected to be under 10% for the next two consecutive years and free cash flow growth is only 8-9%. He argues that much is already priced in and the stock will come back down if the company doesn't show strong growth across China, iPhone sales, and other segments.",
+            "risk": "Significant downside risk if company doesn't demonstrate strong growth across all segments given 40x+ trailing PE valuation; trading at premium vs Microsoft, Nvidia, Meta, and Google despite slower growth"
+          },
+          {
+            "ticker": "CRWD",
+            "company_name": "CrowdStrike",
+            "reason": "The creator acknowledges CrowdStrike is a super high-quality, profitable business with 29.5% free cash flow margin, but questions the valuation at a forward PE of 140x. While still growing over 20%, the company needs to maintain above 20% growth for many years to justify today's valuation. The operating margin is -4.3% and net margin is essentially 0%, yet the market has assigned an extremely high multiple. The creator expresses skepticism with each earnings report, questioning whether the company can continue justifying such a premium despite excellent business quality.",
+            "risk": "Forward PE of 140x requires sustained growth above 20% indefinitely; negative operating margins despite profitability; vulnerable to derating if growth disappoints"
+          },
+          {
+            "ticker": "PYPL",
+            "company_name": "PayPal",
+            "reason": "The creator explicitly states it makes no sense to buy PayPal before earnings. With acquisition rumors and an upcoming earnings report, there is no reason to chase the name. If there is good news, the stock will go up without needing to buy beforehand. If there is bad news, the stock will drop and the buyer will regret the purchase.",
+            "risk": "Upcoming earnings and acquisition rumors create unpredictable volatility; better risk/reward to wait for results"
+          },
+          {
+            "ticker": "ARM",
+            "company_name": "Arm Holdings",
+            "reason": "Despite being up 126% year-to-date, ARM is extremely expensive with valuation not justified by growth. Trading at 45x PE and 120x price-to-free-cash-flow, the company is generating just under $5 billion in revenue with a $276 billion market cap. While the business is amazing with excellent margins, growth of 22-35% does not justify the valuation. The creator questions why pay such a premium when Microsoft and Meta are available at more reasonable valuations with faster core business growth. Even with forward expectations of $10.6 billion in revenue by fiscal 2029, the company will still trade at 26x sales.",
+            "risk": "Trading at 45x PE and 120x price-to-free-cash-flow; 40.9% drawdown from highs; growth doesn't justify valuation unless it accelerates to 50-60%+ range like Palantir"
+          },
+          {
+            "ticker": "NVTA",
+            "company_name": "Navitas Semiconductor",
+            "reason": "Navitas is a $2.5 billion company generating only $40.5 million in revenue and losing significant money. It's down 65% from highs near $31 per share in late May. The creator argues that paying billions for a business not generating $100 million in annual revenue doesn't make sense unless there is confirmed knowledge of a huge deal worth hundreds of millions or billions in the future. This is pure gambling on future potential without current business fundamentals to support the valuation.",
+            "risk": "Down 65% from recent highs; market cap vastly exceeds revenue base; highly speculative with no current earnings support; vulnerable to major dilution"
+          },
+          {
+            "ticker": "BLOOM",
+            "company_name": "Bloom Energy",
+            "reason": "The creator lists Bloom Energy among high-growth companies that have increased substantially on momentum without earnings impact, relying on announcements and partnerships rather than profitability. These are the names most likely to be hit hardest during earnings season when the market realizes they aren't actually making money or are not as profitable as believed. The creator cautions that these momentum-driven rallies often reverse when earnings and guidance disappoint.",
+            "risk": "High-flying momentum stock vulnerable to major declines during earnings season; growth without profitability; likely dilution ahead"
+          },
+          {
+            "ticker": "ADBE",
+            "company_name": "Applied Digital",
+            "reason": "The creator groups Applied Digital with other high-growth AI names that have risen substantially on sector momentum without proportional earnings growth. These stocks are vulnerable during earnings season when the market reassesses actual business traction versus future hype.",
+            "risk": "Momentum-driven stock in AI sector vulnerable to earnings disappointment; growth outpaced by valuation expansion"
+          }
+        ],
+        "key_warnings": [
+          "High-growth companies without profitability or earnings are extremely vulnerable during earnings season. Companies that have risen purely on momentum and sector tailwinds (such as many AI and photonics names) face major selloffs when earnings reports reveal lack of actual revenue and profitability. Investors should be extremely cautious with companies like Navitas, Bloom Energy, and Enavitas, which trade at billions in market cap while generating minimal revenues.",
+          "Even 'cheap' high-quality companies may not be suitable purchases before earnings if they lack momentum and market sentiment. Waiting for earnings confirmation is often worth paying 5-10% in foregone upside if it allows you to buy when momentum has returned and the market has clarity on the company's direction.",
+          "Premium valuations (40x+ PE, 100x+ price-to-free-cash-flow) require flawless execution and sustained growth. Companies trading at these multiples will experience severe drawdowns if growth falters even slightly. Investors should compare valuations across peer companies in the sector before committing capital to premium-priced names.",
+          "Memory chip sector (Micron, SK Hynix, Samsung) may face pressure as large customers optimize to reduce memory ordering and negotiate lower prices. While revenue may continue growing, margins could compress as companies cannot maintain current pricing power. Stocks in this space may face headwinds despite positive momentum."
+        ],
+        "tickers_mentioned": [
+          "UBER",
+          "NFLX",
+          "SHYF",
+          "AAPL",
+          "CRWD",
+          "PYPL",
+          "ADBE",
+          "NVTA",
+          "BLOOM",
+          "ARM",
+          "MU",
+          "SK Hynix",
+          "PLTR",
+          "SOFI",
+          "RUBRIK",
+          "MSFT",
+          "NVDA",
+          "META",
+          "GOOGL",
+          "AMZN"
+        ]
+      },
+      "price_at_recommendation": {
+        "PYPL": 56.15,
+        "AAPL": 333.02,
+        "ARM": 260.01,
+        "ADBE": 225.11,
+        "UBER": 65.94,
+        "CRWD": 183.28,
+        "NFLX": 70.09
+      }
+    },
+    "pVaKoDHW9iY": {
+      "channel": "CouchInvestor",
+      "title": "4 Undervalued Stocks to Load Up on Before Earnings",
+      "upload_date": "20260724",
+      "url": "https://www.youtube.com/watch?v=pVaKoDHW9iY",
+      "processed_at": "2026-07-27T10:10:40.446851",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "INTC",
+            "company_name": "Intel Corporation",
+            "reason": "Intel delivered strongest revenue growth in more than 15 years with Q2 results exceeding financial guidance on robust demand and improved execution including higher factory yields and improved cycle times. The company is raising CAPEX to $20 billion for fiscal year 2026 from $18 billion, signaling confidence in sustained demand through 2026-2028. Despite current valuation around $400-500 billion, if revenue continues to grow and margins expand while foundry business becomes bigger, the company will grow into its valuation. The demand signal is clear and consistent with expectations for growth in '26, '27, and into 2028.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Current valuation at $400-500 billion means numbers do not yet represent full business value, though trajectory appears positive if execution continues."
+          },
+          {
+            "ticker": "NEBU",
+            "company_name": "Nebius",
+            "reason": "Nebius is positioned to benefit from major cloud providers shifting to third-party data center solutions as confirmed by Google's recent earnings commentary. The company has historical connection to Google founders as evidenced by CEO Arkady Volozh's relationship with Sergey Brin and Larry Page. Even at $220 per share, the stock is considered quite attractive for the long run, with expectations for a blowout quarter and great guidance ahead of earnings.",
+            "when_to_buy": "Stock recently pulled back under $200 which was more attractive entry, but creator still views $220 as reasonable for long-term investors despite recent run-up",
+            "target_price": null,
+            "cautions": "Stock is volatile and even good earnings reports do not guarantee positive stock reaction in near term. Creator notes 'great report does not mean stock going up' and stock performance is 'a coin toss right now.'"
+          },
+          {
+            "ticker": "MSFT",
+            "company_name": "Microsoft Corporation",
+            "reason": "Microsoft is very attractive at current prices trading at P/E of 23 and forward P/E of 20-21x as a highly profitable business. Stock is down 24.5% over past 12 months, creating valuation opportunity. Company is expected to report strong demand and continued high investment in CAPEX similar to Google's message. If Azure continues growing and surpasses expectations, the beaten-down stock could benefit. Market expects Q2 revenue of $87.67 billion and EPS of $4.24, with free cash flow expected at $17.44 billion despite temporary CAPEX pressures.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Stock may drop even with great earnings due to market concerns about rising CAPEX and declining free cash flow trajectory (negative FCF expected two quarters forward). Free cash flow estimates may decline further but creator notes this pattern is temporary and reversible once investment phase moderates."
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms",
+            "reason": "Meta is cheap and only needs to send the right message to Wall Street about its monetization strategy. The company is already executing well with Spark 1.1, new subscription format, and showing strong business acceleration. Subscription model will generate billions of dollars annually in high-margin revenue over time, justifying current heavy investments. Creator believes Meta should be an $800-900 stock but trades at $600 due to Mr. Market's short-term thinking, creating a significant opportunity for long-term investors. Market expects Q2 revenue of $60.25 billion and EPS of $7.39 with negative free cash flow of $841 million.",
+            "when_to_buy": null,
+            "target_price": "$800-900 per share",
+            "cautions": "Market is expecting negative free cash flow that could persist for multiple quarters, though creator believes estimates are 'completely wrong' and FCF will flip positive faster than expected if business continues to accelerate. Stock reaction to good earnings is unpredictable and can be negative despite strong fundamentals."
+          },
+          {
+            "ticker": "SOFI",
+            "company_name": "SoFi Technologies",
+            "reason": "SoFi is down 39% year-to-date despite the business being arguably 40% better than it was at the start of the year. The company is growing rapidly with 41-43% year-over-year revenue growth over past four quarters and becoming increasingly profitable. Last quarter showed acceleration in growth and guidance remained steady despite assumptions becoming worse, which equals a positive. Market expects Q2 revenue of $1.12 billion, EPS around 12-13 cents, and EBITDA of $332 million. This is a fast-growing fintech company with strong tailwinds that is undervalued relative to its business quality and growth trajectory.",
+            "when_to_buy": "Back under $17 per share; even with 11-14% implied move on earnings, limited upside to previous levels making current entry point only slightly attractive",
+            "target_price": null,
+            "cautions": "SoFi has become a 'meme stock' where good numbers do not translate to positive stock reactions; stock can trade down during the day despite pre-market strength of 5-8%. If company beats estimates and guidance but doesn't raise full-year guidance, Wall Street may react negatively. Most important is focusing on underlying business fundamentals rather than near-term stock price movements."
+          },
+          {
+            "ticker": "RDDT",
+            "company_name": "Reddit Inc.",
+            "reason": "Reddit is down 30% year-to-date despite strong underlying business fundamentals showing no deterioration from AI-related concerns. The company grew nearly 70% for three consecutive quarters (68-69%) and is becoming more profitable with free cash flow trending up and to the right. Market expects Q2 revenue of $731 million (71% YoY growth), EPS of 96 cents (over 400% YoY growth), and free cash flow of $255 million (over 2x YoY). The reported concern about Google licensing deal walking away (worth $60 million) is overblown; if data is truly valuable, Reddit should command much more and will likely negotiate better deals with other AI companies.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Recent headline about potential loss of Google licensing deal ($60 million) has spooked the market, causing uncertainty about renegotiation prospects and potential traffic loss from AI overviews. However, so far these concerns have not materialized in financials. Creator notes the licensing deal is likely not the core reason for market cap loss; rather, market is concerned about ability to renegotiate better terms."
+          },
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices",
+            "reason": "AMD's true value will be realized in 2027 and beyond when MI400 and MI500 series GPUs reach production and deployment at scale. The company announced major wins with Anthropic (2 GW of Helios capacity with first gigawatt deployments in H1 2027), alongside existing commitments from OpenAI and Meta. AMD's EPYC CPUs gaining significant traction with 46% record server market revenue share last quarter, with 1.8x more performance versus prior generation and 2.8x more agents per watt versus leading ARM CPUs. Venice CPUs in full production with broadest EPYC launch to date coming in Q4 2026. MI500 series projected to deliver over 2,000x higher inference throughput than MI355. AMD is becoming competitive with Nvidia while also capturing share from ARM in an expanding total addressable market.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "At $886 billion market cap, AMD stock is already significantly repriced higher and creator does not recommend buying specifically before upcoming earnings. Current valuation reflects expectations for 2027+ execution rather than near-term earnings. Stock is valued on future potential delivery, not current quarter results."
+          },
+          {
+            "ticker": "PALANTIR",
+            "company_name": "Palantir Technologies",
+            "reason": "Palantir at $120-123 per share is positioned to 'absolutely crush' upcoming earnings and continue demonstrating why it is one of the biggest winners in the AI/software space. Creator views Palantir as a high-quality business that will show strong results.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "PYPL",
+            "company_name": "PayPal Holdings",
+            "reason": "While PayPal reports earnings next week, creator explicitly states 'I'm not going to put PayPal here' when discussing quality companies to own before earnings. The company is facing structural headwinds with Stripe reportedly acquiring Open Router for $10 billion, suggesting stronger companies are being preferred by investors over PayPal. Even if PayPal shows recovery signs and stock moves from $50-55 toward $60, creator is 'not getting hopes up at all' and views it as lacking the quality of other opportunities.",
+            "risk": null
+          }
+        ],
+        "key_warnings": [
+          "Big tech companies (Google, Microsoft, Meta, Amazon, AMD) are all significantly raising CAPEX investments in 2027 and beyond, creating short-term pressure on free cash flow and margins even as earnings are strong. However, this investment is necessary to maintain competitive advantage and will eventually yield returns; investors should focus on long-term business trajectory rather than near-term FCF deterioration.",
+          "Great earnings reports do not guarantee positive stock price reactions. Multiple quality companies with excellent fundamentals have delivered beats and strong guidance only to see stock decline (Google -7%, Meta -3.3%, SoFi pattern). This is especially true for high-growth or recently beaten-down stocks. Recommended strategy: buy half before earnings, half after, to average entry and mitigate timing risk.",
+          "Market appears to be in a cycle where any indication of high CAPEX spending triggers immediate selloffs across the sector, even when demand signals are strong and ROI is expected. This creates opportunities for long-term investors but means near-term volatility is likely regardless of earnings quality.",
+          "Free cash flow estimates for high-growth tech companies may be unreliable and overly pessimistic; management can flip FCF from negative to positive 'with a flip of the switch' once they believe sufficient investment has been made, making forward FCF guidance less predictive than revenue and profitability metrics."
+        ],
+        "tickers_mentioned": [
+          "INTC",
+          "GOOGL",
+          "META",
+          "ORCL",
+          "MSFT",
+          "AMD",
+          "AMZN",
+          "NEBU",
+          "VISA",
+          "KO",
+          "CLX",
+          "BA",
+          "ARM",
+          "QCOM",
+          "PYPL",
+          "SOFI",
+          "RDDT",
+          "UBER",
+          "MELI",
+          "PALANTIR",
+          "NVDA"
+        ]
+      },
+      "price_at_recommendation": {
+        "INTC": 92.32,
+        "MSFT": 381.7,
+        "PYPL": 56.15,
+        "SOFI": 16.46,
+        "META": 595.19,
+        "AMD": 521.95,
+        "RDDT": 168.73
+      }
+    },
+    "4Ry3Jv_U8I8": {
+      "channel": "Ticker Symbol: YOU",
+      "title": "Forget NVIDIA. This Is The New King of AI.",
+      "upload_date": "20260726",
+      "url": "https://www.youtube.com/watch?v=4Ry3Jv_U8I8",
+      "processed_at": "2026-07-27T10:10:57.531559",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet Inc.",
+            "reason": "Google is the only company on Earth that owns every single layer of the AI stack: the models (Gemini), custom chips (TPUs), data centers, fiber optic networks including undersea cables, and the browser (Chrome). This vertical integration allows Google to optimize across all layers, reduce serving costs by 78% last year and another 30% since Gemini 3 launch, and achieve economies of scale competitors cannot match. Google Cloud is growing at 82% year-over-year with operating margins expanding from 21% to 36% in a single year, and they just started selling TPU chips directly to other companies for the first time. With a $514 billion backlog, Gemini powering 13 products with over a billion users each, and 3.2 quadrillion tokens processed monthly (300x growth over 2 years), Google is uniquely positioned to capitalize on AI infrastructure demand. The creator states: 'I see the only company on Earth that can actually justify this level of spending, exactly because they own every single layer of their AI stack' and 'Google isn't burning money. They're investing in themselves, and to me, that's the best way to get rich without getting lucky.'",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Google is spending at an unsustainable rate: $45 billion in Q2 2024 (double year-over-year), with capex budget increased from $185 billion to $200 billion for 2026, and management stating 2027 spending will be much higher. Free cash flow turned negative at -$5.9 billion in the latest quarter versus +$24.6 billion two quarters prior. Long-term debt more than doubled in 6 months and interest bills increased 5x. The company has stopped share buybacks for the first time since 2017 and is issuing new shares and selling long-term bonds. Additionally, $80 billion of their $94 billion SpaceX stake value is still in lockup period (releasing through December 8th) and SpaceX is down 25% in recent weeks, meaning this paper gain is volatile and declining. Google signed $811 billion in future purchase commitments including electricity contracts running until 2054 for data centers that don't exist yet, representing massive contractual obligations."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "The AI infrastructure spending race is becoming unsustainable even for the largest technology companies. Alphabet signed $811 billion in future purchase agreements for chips, equipment, data centers, and electricity with $200 billion due in the next year and commitments extending to 2054. This represents a systemic risk across the entire AI sector if demand growth slows or capital efficiency doesn't improve, as companies have locked in massive long-term obligations. Free cash flow deterioration at the market leader (Google turning cash flow negative) suggests that the current capex spending levels may not be sustainable without significant revenue acceleration or margin expansion."
+        ],
+        "tickers_mentioned": [
+          "GOOGL",
+          "NVDA",
+          "TSLA",
+          "PLTR",
+          "AMD",
+          "BROADCOM",
+          "TSMC",
+          "INTC",
+          "MSFT",
+          "AMZN"
+        ]
+      },
+      "price_at_recommendation": {
+        "GOOGL": 319.74
+      }
+    },
+    "KWvIf7iL2PI": {
+      "channel": "Daniel Pronk",
+      "title": "Guidelines For Defensive Investing - The Intelligent Investor Chapter 5 Summary",
+      "upload_date": "20260725",
+      "url": "https://www.youtube.com/watch?v=KWvIf7iL2PI",
+      "processed_at": "2026-07-27T10:11:14.757220",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Defensive investors should avoid growth stocks due to high valuation multiples and speculative risk. Growth stocks trade at high prices relative to current earnings and historical profits, introducing considerable speculative elements. Example: Texas Instruments rose from $5 to $256 (50x increase) while earnings only increased 10x (from $0.40 to $3.91 per share), meaning the stock traded at 12.5x earnings initially but 64x earnings at peak. Two years later, when earnings fell 50%, the stock price fell 80%, demonstrating the danger of multiple expansion and investor sentiment dependency.",
+          "Stock valuations must be evaluated relative to the risk-free rate. In 1971, the S&P 500 had a P/E ratio of 19.5 (5.1% earnings yield) while US government bonds yielded 6.73%, making stocks unattractive because they offered lower returns for higher risk. Stock valuations are fluid and relative to what government bonds offer; when bonds offer higher risk-free returns than stock yields, stocks are expensive.",
+          "Investor psychology creates dangerous biases: recency bias causes investors to view stocks as risky after they fall and attractive after they rise, opposite to fundamental reality. When stocks fall, their risk actually decreases as prices become more reasonable, assuming underlying fundamentals remain intact. Past stock performance over 3-5 years is not an indicator of future returns and can actually mask attractive opportunities when prices have fallen significantly.",
+          "Paying too high a price for stocks eliminates their advantages over bonds and can introduce substantial risk. Even quality, profitable businesses become risky investments if purchased at exuberant valuations. A 25-year market recovery (1929-1954) demonstrates that overpaying for stocks can result in zero or negative returns over extended periods.",
+          "Defensive investors should focus on buying dividend-paying stocks with long track records of continuous dividend payments, large and prominent companies with conservative balance sheets, adequate diversification (10-30 stocks), and impose price limits (Benjamin Graham suggested no more than 20x trailing twelve-month earnings, though adjusted to 25x for today's environment with lower bond yields). Growth stocks should be avoided entirely by defensive investors."
+        ],
+        "tickers_mentioned": [
+          "SPY",
+          "AAPL",
+          "AMZN",
+          "MELI",
+          "KO",
+          "PEP",
+          "MCD",
+          "PG"
+        ]
+      },
+      "price_at_recommendation": {}
+    },
+    "_rlQqYI0zC0": {
+      "channel": "Daniel Pronk",
+      "title": "ServiceNow Stock Could Produce 200%+ Returns - Here's How",
+      "upload_date": "20260724",
+      "url": "https://www.youtube.com/watch?v=_rlQqYI0zC0",
+      "processed_at": "2026-07-27T10:11:30.052173",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NOW",
+            "company_name": "ServiceNow Inc.",
+            "reason": "ServiceNow beat all guidance across Q2 2026 with subscription revenue growth of 23% year-over-year (constant currency) and total revenue growth of 22%. The company maintains a 98% retention rate, has 658 customers with over $5 million in annual contract value (up 23% YoY), and ServiceNow AI crossed $1 billion in annual contract value. The stock trades at approximately 22x trailing twelve-month free cash flow, the lowest multiple in the company's history, down from 95x in 2021 and 70x in 2024. The creator's DCF analysis projects a fair value of $183 per share with a potential upside to $295 per share (200% return) over 5 years if the company achieves its $30 billion revenue target by 2030 and maintains 23x free cash flow multiple. Even under more conservative assumptions (18% annual FCF growth, 22x multiple), the stock could generate 18.6% compounded annual returns with a fair value of $140. The business shows re-acceleration in revenue growth recently after years of deceleration, suggesting AI is acting as a tailwind. The cybersecurity business is growing faster than peers and positioned to benefit from increasing demand for AI agent tracking and oversight.",
+            "when_to_buy": null,
+            "target_price": "$295 (base case), $140 (conservative case)",
+            "cautions": "The creator personally is not buying ServiceNow despite the positive analysis, as he prefers the Constellation family of software stocks where he has higher conviction. Investors should be aware of potential margin headwinds from using hyperscaler data centers and the 2% free cash flow margin impact from the Armis acquisition. The company is projecting slight deceleration in growth rates through 2032, though from elevated levels above 20%."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "General SaaS sector concern: There is pervasive 'SaaS apocalypse' fear in the market that AI will disrupt every software company. However, the creator argues this fear is being disproven by companies like ServiceNow that continue growing at 15-22% annually, suggesting the narrative will eventually reverse and allow multiple expansion."
+        ],
+        "tickers_mentioned": [
+          "NOW",
+          "META",
+          "MSFT",
+          "AMZN",
+          "CSU"
+        ]
+      },
+      "price_at_recommendation": {
+        "NOW": 98.78
+      }
     }
   },
   "channel_ids": {
@@ -11454,6 +12067,6 @@
     "JoseNajarroStocks": "UC5cEHfCr6WOE1R1zcohd1IA",
     "FinTek": "UCxdWHEhEPiYhCADMrn4PdhQ"
   },
-  "last_eval_week": "2026-W30",
+  "last_eval_week": "2026-W31",
   "alerts": {}
 }

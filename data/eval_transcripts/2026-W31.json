@@ -1,0 +1,37 @@
+{
+  "video_id": "8yZ_b0yxip0",
+  "channel": "Mr. FIRED Up Wealth",
+  "title": "My Golden Rule: Don't Chase, Find Opportunity Early!",
+  "url": "https://www.youtube.com/watch?v=8yZ_b0yxip0",
+  "upload_date": "20260725",
+  "captured_at": "2026-07-27T10:08:08.712087",
+  "transcript": "But even a Palantir, which I bought at $10 that I recommend on the channel, that went to $200 this year, I told you it was overvalued and it came back. Can it go back to a new all-time high? It can, right? It could. But I don't like chasing a Rocket Lab at 150, a Palantir at 200. I want to try to find these opportunities before the masses and have low cost basis and hold them long term. I don't like to chase things when the fundamentals don't make sense, when the technicals show air pockets. That's just not my thing. I'm a seasoned investor. I've made the mistakes along the way and if you're watching this, maybe you are going through that same process. Know that I'm only here to try to help you and nothing more.",
+  "analysis": {
+    "buy_recommendations": [
+      {
+        "ticker": "PLTR",
+        "company_name": "Palantir Technologies",
+        "reason": "The creator bought Palantir at $10 and recommended it on the channel. The investment thesis centers on finding opportunities early before the masses and holding them long term with a low cost basis. The creator demonstrated patience through the stock's rise to $200, even though they acknowledged it became overvalued at that peak.",
+        "when_to_buy": "Early entry before mass adoption; creator bought at $10",
+        "target_price": null,
+        "cautions": "Creator stated the stock was overvalued at $200 and does not recommend chasing it at elevated prices. While the creator believes it could reach new all-time highs, they explicitly stated they do not like chasing stocks when fundamentals don't make sense and technicals show air pockets."
+      }
+    ],
+    "stocks_to_avoid": [
+      {
+        "ticker": "RKLB",
+        "company_name": "Rocket Lab USA Inc.",
+        "reason": "The creator specifically mentioned not liking to chase Rocket Lab at $150, using it as an example of a stock trading at prices where the fundamentals don't make sense and technicals show air pockets. This represents the type of investment behavior the creator actively avoids.",
+        "risk": null
+      }
+    ],
+    "key_warnings": [
+      "Do not chase stocks that have already experienced significant rallies when fundamentals no longer justify valuations and technical indicators show air pockets. The creator emphasizes finding opportunities early before the masses rather than entering after parabolic moves.",
+      "As a seasoned investor, the creator advises against chasing 'Rocket' moves in stocks like Rocket Lab at $150 or Palantir at $200, recommending instead a strategy of identifying opportunities with low cost basis and holding long term."
+    ],
+    "tickers_mentioned": [
+      "PLTR",
+      "RKLB"
+    ]
+  }
+}

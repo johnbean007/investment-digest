@@ -12520,6 +12520,39 @@
       "price_at_recommendation": {
         "GOOGL": 327.32
       }
+    },
+    "OcXcgIlJGRw": {
+      "channel": "CouchInvestor",
+      "title": "Should You Buy SoFi Stock Before Wednesday?",
+      "upload_date": "20260727",
+      "url": "https://www.youtube.com/watch?v=OcXcgIlJGRw",
+      "processed_at": "2026-07-28T09:51:16.465900",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "SOFI",
+            "company_name": "SoFi Technologies Inc.",
+            "reason": "The creator believes SoFi is extremely undervalued at the moment, with the stock down 39% year-to-date and 20% over 12 months despite exceptional business performance. The company is a fast-growing fintech with 37-43% year-over-year revenue growth, improving profitability, a low forward PE ratio, and strong fundamentals including 100% tangible book value growth since 2023. The creator's DCF analysis with 30% bull, 50% base, and 20% bear case probabilities yields a weighted fair value of $23.45, representing 42.4% upside from the current price of $16.70. The analyst attributes the stock's weakness purely to sentiment rather than business performance, noting that SoFi can remain profitable even in a high interest rate environment while positioned to benefit significantly if rates decline.",
+            "when_to_buy": "Before Wednesday earnings announcement (timing of video suggests imminent earnings report). Current price approximately $16.70.",
+            "target_price": "$23.45 (probability-weighted DCF fair value); upside of 11% would bring stock to $18.40; downside of 11% would bring stock to $14.60",
+            "cautions": "Stock performance has been weak despite strong business results. Timing risk: SoFi reports earnings before market open on Wednesday, immediately followed by FOMC meeting with Fed Chair Kevin Warsh commentary, which could create significant volatility regardless of earnings quality. Interest rate environment is a key variable; company previously guided conservatively assuming no rate cuts when they initially expected two, and may maintain guidance even if revising rate assumptions downward. A macro breakdown, sustained high rates, or execution issues could trigger a 30.3% downside to bear case valuation. Financial services segment margin may compress if company chooses balance sheet lending over loan platform business."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Interest rate outlook is critical to SoFi valuation and business model. Company originally guided for the year assuming two rate cuts but has since factored in no rate cuts. The implied market expectation is highly uncertain heading into the FOMC meeting on the same day as earnings, creating event risk.",
+          "FOMC meeting scheduled for the same day as SoFi earnings (Wednesday) represents a macro wildcard that could overshadow company-specific results. Fed communications from Chair Kevin Warsh may impact SoFi's assumptions and guidance independent of earnings quality.",
+          "Fintech and lending businesses may face headwinds if macroeconomic conditions deteriorate. However, the creator notes that high interest rates have provided some positive tailwinds for net interest margin (currently above 5%) that offset some headwinds, so the relationship is not purely negative."
+        ],
+        "tickers_mentioned": [
+          "SOFI",
+          "NVDA",
+          "HOOD"
+        ]
+      },
+      "price_at_recommendation": {
+        "SOFI": 16.88
+      }
     }
   },
   "channel_ids": {

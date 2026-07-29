@@ -12775,9 +12775,11 @@
       "title": "META MICROSOFT EARNINGS CALL LIVE REACTION!! YOU ARE MY ONLY HOPE",
       "upload_date": "20260729",
       "url": "https://www.youtube.com/watch?v=4qEFEE5DRRM",
-      "processed_at": "2026-07-29T16:04:04.454618",
-      "transcript_fails": 1,
-      "last_reason": "error"
+      "processed_at": "2026-07-29T20:50:28.930118",
+      "transcript_fails": 2,
+      "last_reason": "unavailable",
+      "terminal": true,
+      "skipped": "no transcript"
     },
     "yJsR_Lt7a_k": {
       "channel": "FinTek",
@@ -12830,6 +12832,17 @@
         "BABA": 114.62,
         "TMUS": 180.65
       }
+    },
+    "H5F1Wf6z98Q": {
+      "channel": "The Traveling Trader",
+      "title": "\ud83d\udea8 FED RATES! Live Trading | Will Kevin Warsh Hike Today?",
+      "upload_date": "20260729",
+      "url": "https://www.youtube.com/watch?v=H5F1Wf6z98Q",
+      "processed_at": "2026-07-29T20:50:24.655404",
+      "transcript_fails": 1,
+      "last_reason": "unavailable",
+      "terminal": true,
+      "skipped": "no transcript"
     }
   },
   "channel_ids": {

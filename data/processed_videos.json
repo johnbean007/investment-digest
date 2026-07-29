@@ -12553,6 +12553,180 @@
       "price_at_recommendation": {
         "SOFI": 16.88
       }
+    },
+    "JW7Fozy2Ets": {
+      "channel": "CouchInvestor",
+      "title": "META & MICROSOFT EARNINGS REPORT/ CALL BREAKDOWN",
+      "upload_date": "20260728",
+      "url": "https://www.youtube.com/watch?v=JW7Fozy2Ets",
+      "processed_at": "2026-07-29T01:53:20.671549",
+      "transcript_fails": 1,
+      "last_reason": "error"
+    },
+    "JrjKNPetCNY": {
+      "channel": "CouchInvestor",
+      "title": "SOFI Q2 EARNINGS REPORT/CALL | GUIDANCE RAISED?",
+      "upload_date": "20260728",
+      "url": "https://www.youtube.com/watch?v=JrjKNPetCNY",
+      "processed_at": "2026-07-29T01:53:25.364648",
+      "transcript_fails": 1,
+      "last_reason": "error"
+    },
+    "65IABPxBJ9M": {
+      "channel": "CouchInvestor",
+      "title": "This AI Selloff Is a Bloodbath. Here's What's Going On",
+      "upload_date": "20260728",
+      "url": "https://www.youtube.com/watch?v=65IABPxBJ9M",
+      "processed_at": "2026-07-29T09:03:38.018164",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NIO",
+            "company_name": "NIO Inc.",
+            "reason": "The creator describes Nio as one of their highest conviction names, if not the highest conviction name right now. Despite being down 42% from end of June highs, the stock is still up 268% year-to-date. The creator argues that rapid pullbacks are normal after such fast appreciation, and the fundamental business has not deteriorated 42% in a month. The creator believes that if the business was worth $400 per share by end of 2025, the current pullback from that valuation perspective is less significant. The creator expects comments from hyperscalers to help support the stock and wants to see it get back above $181 for momentum confirmation.",
+            "when_to_buy": "Current levels attractive after 42% pullback; needs to get back above $181 for momentum confirmation",
+            "target_price": null,
+            "cautions": "Stock is extremely volatile and down 42% in one month; requires conviction in long-term thesis and comfort with significant drawdowns; dependent on hyperscaler demand comments"
+          },
+          {
+            "ticker": "ROCKET",
+            "company_name": "Rocket Lab USA Inc.",
+            "reason": "The creator indicates this is a long-term holding with conviction, noting they have been with the stock since $4-$20 levels and know what they own. The stock is down 57% from peaks but the creator emphasizes the business has not fundamentally deteriorated; the spike was driven by SpaceX IPO speculation. The creator is waiting for the Neutron launch as the big game-changing catalyst. For long-term investors willing to hold, the creator finds it very interesting at $50-$60 price levels, seeing this as an opportunity to buy back shares sold at higher prices.",
+            "when_to_buy": "$50-$60 becomes very interesting for long-term investors; current level around $60; broader support potential at $55-$50",
+            "target_price": null,
+            "cautions": "Stock is down 57% from peaks and support at $81 did not hold; creator explicitly states stock was overvalued at $150, expensive at $100 and $80, and is less expensive (not cheap) at $60-$50; stock is still waiting for Neutron launch catalyst which has not yet occurred"
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "UBER",
+            "company_name": "Uber Technologies Inc.",
+            "reason": "The creator states explicitly: 'it is not worth touching this right now.' The recommendation is to wait for earnings report and management commentary before considering entry. Current price around $70 is not attractive relative to the creator's timeline.",
+            "risk": "Low $60s would be ideal accumulation zone, implying downside to current $70 level; creator recommends waiting for earnings catalysts before entry"
+          }
+        ],
+        "key_warnings": [
+          "China's reported development of DUV lithography machines poses a long-term competitive threat to ASML and global semiconductor suppliers. An unnamed Chinese company is manufacturing immersion DUV machines expected to be delivered this year to SMIC and other Chinese manufacturers. While the creator downplays near-term impact citing yield concerns and small production capacity (5 units this year vs ASML's 130 planned for 2026), the development signals China's advancing domestic semiconductor capabilities and represents potential market share erosion for Western semiconductor equipment and chip manufacturers over time.",
+          "Massive volatility and pullbacks are occurring in high-flying AI and semiconductor names that had experienced explosive appreciation. Nvidia is down 16-20% since May despite strong fundamentals; Micron down 34% from end-June peaks; semiconductor names broadly under pressure. The creator warns investors must understand whether they own these stocks based on fundamentals or hype, as pullbacks of 30-60% can occur even with solid businesses, and investors who don't know what they own will panic sell.",
+          "Memory chip suppliers (Micron, SK Hynix, Samsung) face headwinds as hyperscalers optimize for memory usage to reduce premium pricing. The creator notes this is driving some of the recent pullback in memory stocks and represents a fundamental demand adjustment in the market.",
+          "Upcoming earnings reports and FOMC meeting this week (Wednesday-Thursday) for Meta, Microsoft, Apple, and Amazon will create significant volatility. Expect major stock moves based on CapEx guidance and demand signals from hyperscalers.",
+          "Many high-conviction semiconductor and AI stocks remain expensive at current levels despite recent pullbacks. Cybersecurity names are noted as super expensive with substantial gains over past 2 months. Investors should question whether current valuations make sense and maintain discipline on entry points."
+        ],
+        "tickers_mentioned": [
+          "PALANTIR",
+          "NETFLIX",
+          "PAYPAL",
+          "AMD",
+          "MICRON",
+          "INTEL",
+          "DELL",
+          "APPLIED DIGITAL",
+          "NVIDIA",
+          "TESLA",
+          "AMAZON",
+          "META",
+          "TSMC",
+          "ASML",
+          "NEWB",
+          "ROCKET LAB",
+          "AST",
+          "SK HYNIX",
+          "SANDISK",
+          "ALPHABET",
+          "SOFI",
+          "NIO",
+          "REDDIT",
+          "AXON",
+          "MERCADO LIBRE",
+          "UBER"
+        ]
+      },
+      "price_at_recommendation": {
+        "NIO": 4.68,
+        "UBER": 70.74
+      }
+    },
+    "l89WFpMmWck": {
+      "channel": "Jose Najarro Stocks",
+      "title": "Chip and AI Stocks Are Crashing. Here's What I'm Doing RIGHT NOW!",
+      "upload_date": "20260728",
+      "url": "https://www.youtube.com/watch?v=l89WFpMmWck",
+      "processed_at": "2026-07-29T09:04:01.154808",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "COREWEAVE",
+            "company_name": "CoreWeave",
+            "reason": "CoreWeave is one of the biggest neo cloud players with over 1 gigawatt of active power and a market cap of $36.7 billion. The creator explicitly stated 'Yes, 100%' when asked if he is still bullish on CoreWeave. He is continuing to buy the stock over time during this market dip, viewing it as an opportunity given the strong demand for cloud infrastructure supporting AI workloads.",
+            "when_to_buy": "During current market downturn; creator is buying on dips",
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "LRCX",
+            "company_name": "Lam Research",
+            "reason": "The creator bought Lam Research (I ran) today during the sell-off. He is using this dip as an opportunity to rotate from lower beta semiconductor names into higher beta names like Lam Research, which is a key equipment player in the semiconductor supply chain that benefits from AI chip demand.",
+            "when_to_buy": "Current market downturn; creator bought today",
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "AIRM",
+            "company_name": "AirTest Systems",
+            "reason": "The creator bought AirTest Systems today. He is acquiring high beta semiconductor and AI-adjacent names during the current sell-off, viewing this as an opportunity to enter names that he believes will benefit from the continued AI cycle.",
+            "when_to_buy": "Current market downturn; creator bought today",
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "MRVL",
+            "company_name": "Marvell Technology",
+            "reason": "Marvell is mentioned as down 7% but within the broader semiconductor ecosystem benefiting from AI demand. The creator is discussing it in context of the AI and semiconductor complex opportunity, buying high-beta names during this dip.",
+            "when_to_buy": "Current market downturn",
+            "target_price": "174 (approximate current price mentioned)",
+            "cautions": null
+          },
+          {
+            "ticker": "MU",
+            "company_name": "Micron Technology",
+            "reason": "Micron is a key memory play in the AI infrastructure buildout. The creator mentions it as down 8% and part of the semiconductor complex that benefits from AI capex spending by hyperscalers, as evidenced by earnings calls and capex guidance from TSMC, Google, Intel, and others.",
+            "when_to_buy": "Current market downturn",
+            "target_price": "820 (approximate current price mentioned)",
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Anthropic ARR (Annual Recurring Revenue) may be misleading: companies calculate ARR by taking last month's revenue multiplied by 12, which does not necessarily reflect actual recurring revenue if customers practice token budgeting or reduce spending in subsequent months. A single month of high spending can artificially inflate ARR projections.",
+          "Potential AI model market saturation risks: Some bearish interpretations of Anthropic's growth plateau suggest compute constraint may not be the only issue; OpenAI could be winning back market share, Chinese AI models gaining traction, or companies scaling back AI spending due to poor ROI and overcapacity concerns.",
+          "Semiconductor and AI stock valuations are highly volatile: The sector is down 15-18% from highs in ETF form while individual stocks are down 50%, creating significant downside risk if the AI investment cycle slows or capex guidance is reduced by hyperscalers.",
+          "Visibility and capex commitments are not guaranteed to materialize: While TSMC has visibility through 2029-2030 and companies like Google and Intel have raised capex guidance, these projections could change if demand weakens, ROI underperforms, or macroeconomic conditions deteriorate."
+        ],
+        "tickers_mentioned": [
+          "LUMN",
+          "MU",
+          "COREWEAVE",
+          "AMT",
+          "MRVL",
+          "CAMT",
+          "GOOGL",
+          "TSM",
+          "ASML",
+          "AMD",
+          "INTC",
+          "META",
+          "MSFT",
+          "AMZN",
+          "SEAG",
+          "BE",
+          "LRCX"
+        ]
+      },
+      "price_at_recommendation": {
+        "MRVL": 174.47,
+        "LRCX": 269.61,
+        "MU": 820.53
+      }
     }
   },
   "channel_ids": {
@@ -12565,5 +12739,7 @@
     "FinTek": "UCxdWHEhEPiYhCADMrn4PdhQ"
   },
   "last_eval_week": "2026-W31",
-  "alerts": {}
+  "alerts": {
+    "fallback": "2026-07-29T09:04:04.656964"
+  }
 }

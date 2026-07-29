@@ -12731,6 +12731,105 @@
         "LRCX": 269.61,
         "MU": 820.53
       }
+    },
+    "MsNPz0dBYDw": {
+      "channel": "CouchInvestor",
+      "title": "SoFi Crushed Earnings Again. Here's the Truth About Why It's Down",
+      "upload_date": "20260729",
+      "url": "https://www.youtube.com/watch?v=MsNPz0dBYDw",
+      "processed_at": "2026-07-29T16:03:50.762024",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "SOFI",
+            "company_name": "SoFi Technologies Inc.",
+            "reason": "SoFi crushed earnings with triple beats despite stock decline. The company is experiencing excellent growth across the board: 43% year-over-year revenue growth, 44% adjusted EBITDA growth, and 61% net income growth. The lending segment is performing extremely well with net interest income up 54% year-over-year on a larger balance sheet and cheaper funding. Financial services is growing with brokerage fee revenue up 2.5x year-over-year and interchange fee revenue up 55% year-over-year. New initiatives including SoFi Plus (200,000+ paid subscribers with $24 million annualized revenue run rate), SMB loans, big business banking, and SoFi crypto are all showing early traction. The company is investing heavily in growth rather than maximizing near-term profitability. Credit quality is improving with personal loan net charge-offs declining even as origination volumes hit new records. SoFi maintains a strong capital position with total capital ratio at 18.8% versus 10.5% regulatory minimum. The creator believes SoFi is a legitimate growth company that should compound at 20% annually for many years, trading at a discount to comparable growth companies while maintaining profitability and safety as a regulated bank.",
+            "when_to_buy": "Current price approximately $15.10 after earnings decline; implied move was 11% which brought stock down from approximately $16.80. Creator suggests this is a macro-driven decline, not company-driven, and expects rapid upside movement once macro clarity emerges.",
+            "target_price": "Upside scenario of 11% would bring stock to approximately $18.40; creator references prior rapid moves from $10 to $20 and beyond",
+            "cautions": "Stock is currently down despite strong earnings due to macro concerns around FOMC meeting and interest rate expectations. Company is choosing to reinvest revenue gains into growth initiatives rather than maximize near-term EPS, which depressed guidance for adjusted EPS despite raising revenue guidance. Tax rate increased to 22% from original 15% assumption, reducing EPS by 5 cents. Macro environment remains uncertain with potential for rate hikes instead of cuts, though company guidance still improved. Stock is unpopular and trading at a significant discount to AI and other growth companies, creating valuation risk if market sentiment does not shift."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Macro environment is the primary driver of market weakness, not company fundamentals. FOMC meeting on the day of video creates 50/50 uncertainty around rate hikes versus steady rates, which is creating broad market weakness across fintech, neo-cloud, and other sectors. Multiple rate cut assumptions built into original 2026 guidance have been reduced from two expected cuts to zero, now expecting one to two rate hikes instead, yet SoFi still raised guidance showing company resilience. Market is broadly red today across fintech, cybersecurity, and most sectors except select software names, indicating macro-driven selloff rather than company-specific issues.",
+          "Valuation disconnect between growth stocks: SoFi trades at a significant discount to AI and other trendy growth companies despite showing 40%+ year-over-year growth and strong profitability. Creator notes SoFi does not get valuation multiples like OpenRouter or Stripe despite superior fundamentals, suggesting market sentiment and narrative drive valuations more than growth metrics."
+        ],
+        "tickers_mentioned": [
+          "SOFI",
+          "NEBU",
+          "SNOW",
+          "ADBE",
+          "NOW",
+          "RDDT",
+          "ZETA",
+          "AXON",
+          "PYPL"
+        ]
+      },
+      "price_at_recommendation": {
+        "SOFI": 15.29
+      }
+    },
+    "4qEFEE5DRRM": {
+      "channel": "Jose Najarro Stocks",
+      "title": "META MICROSOFT EARNINGS CALL LIVE REACTION!! YOU ARE MY ONLY HOPE",
+      "upload_date": "20260729",
+      "url": "https://www.youtube.com/watch?v=4qEFEE5DRRM",
+      "processed_at": "2026-07-29T16:04:04.454618",
+      "transcript_fails": 1,
+      "last_reason": "error"
+    },
+    "yJsR_Lt7a_k": {
+      "channel": "FinTek",
+      "title": "Top 3 Cheap Stocks to BUY NOW",
+      "upload_date": "20260729",
+      "url": "https://www.youtube.com/watch?v=yJsR_Lt7a_k",
+      "processed_at": "2026-07-29T16:04:16.047870",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "TMUS",
+            "company_name": "T-Mobile",
+            "reason": "T-Mobile is described as a telecom giant that has been stealing market share from Verizon and AT&T. The company has invested $200 million into their network to become the largest in the US. WeBull's Vega AI analyst puts the stock at 30% undervalued at the time of the video.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "BRK.B",
+            "company_name": "Berkshire Hathaway",
+            "reason": "Berkshire Hathaway is trading at a P/E ratio below 15, which is presented as attractive valuation. The stock was previously held back because chairman Warren Buffett was holding a lot of cash, but new CEO Greg Abel has started deploying more funds, which represents a positive catalyst for capital allocation and potential value creation.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Fractional shares are required to invest with less than $500, implying the stock price is above $500 per share and may be difficult for retail investors to access without fractional share capability."
+          },
+          {
+            "ticker": "BABA",
+            "company_name": "Alibaba",
+            "reason": "Alibaba is a Chinese tech company that competes directly with Google and Amazon but is valued at around half as much as those companies per dollar of profit, suggesting significant valuation discount relative to comparable global competitors.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Alibaba stock cannot be bought everywhere, with limited availability. The video notes it is available on WeBull, implying potential geographic or regulatory restrictions on accessibility."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "The stock market has been volatile recently, as noted at the beginning of the video, suggesting general market instability as a backdrop for these stock recommendations."
+        ],
+        "tickers_mentioned": [
+          "TMUS",
+          "VZ",
+          "T",
+          "BRK.B",
+          "BABA",
+          "GOOGL",
+          "AMZN"
+        ]
+      },
+      "price_at_recommendation": {
+        "BABA": 114.62,
+        "TMUS": 180.65
+      }
     }
   },
   "channel_ids": {
@@ -12744,6 +12843,6 @@
   },
   "last_eval_week": "2026-W31",
   "alerts": {
-    "fallback": "2026-07-29T09:04:04.656964"
+    "fallback": "2026-07-29T16:04:19.241048"
   }
 }

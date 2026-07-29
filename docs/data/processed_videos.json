@@ -12559,18 +12559,22 @@
       "title": "META & MICROSOFT EARNINGS REPORT/ CALL BREAKDOWN",
       "upload_date": "20260728",
       "url": "https://www.youtube.com/watch?v=JW7Fozy2Ets",
-      "processed_at": "2026-07-29T11:20:30.598333",
-      "transcript_fails": 3,
-      "last_reason": "error"
+      "processed_at": "2026-07-29T13:31:48.145956",
+      "transcript_fails": 4,
+      "last_reason": "error",
+      "terminal": true,
+      "skipped": "no transcript"
     },
     "JrjKNPetCNY": {
       "channel": "CouchInvestor",
       "title": "SOFI Q2 EARNINGS REPORT/CALL | GUIDANCE RAISED?",
-      "upload_date": "20260728",
+      "upload_date": "20260729",
       "url": "https://www.youtube.com/watch?v=JrjKNPetCNY",
-      "processed_at": "2026-07-29T11:20:35.123403",
-      "transcript_fails": 3,
-      "last_reason": "error"
+      "processed_at": "2026-07-29T13:31:39.978851",
+      "transcript_fails": 4,
+      "last_reason": "unavailable",
+      "terminal": true,
+      "skipped": "no transcript"
     },
     "65IABPxBJ9M": {
       "channel": "CouchInvestor",

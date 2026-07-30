@@ -12843,6 +12843,74 @@
       "last_reason": "unavailable",
       "terminal": true,
       "skipped": "no transcript"
+    },
+    "J0SyJxYOZzM": {
+      "channel": "Mr. FIRED Up Wealth",
+      "title": "META Stock is CRASHING After Earnings | BUY NOW?",
+      "upload_date": "20260729",
+      "url": "https://www.youtube.com/watch?v=J0SyJxYOZzM",
+      "processed_at": "2026-07-30T09:57:24.019806",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms Inc.",
+            "reason": "The creator views Meta as a good company with solid fundamentals. Revenue grew 27.9% year-over-year, profitability is at 81.9% with an A+ rating on Seeking Alpha. The valuation appears attractive with a forward GAAP P/E ratio of 17.96 and PEG ratio of 0.03, especially after the 11% post-earnings decline. The stock is down from its $800 peak to $529, creating a potential buying opportunity for long-term investors using dollar-cost averaging. The creator notes the current pullback is a healthy correction and believes the stock will recover over time if the company's AI CapEx investments deliver ROI.",
+            "when_to_buy": "The creator suggests dollar-cost averaging into support levels at $450, $475, $480, $518.95, and psychological support at $500. Currently trading at $529, the creator would consider buying multiple lots as the stock moves down through these support zones rather than all at once.",
+            "target_price": "Not explicitly stated. The creator discusses potential downside to $450-$480 range as attractive buying zones but does not provide an upside price target.",
+            "cautions": "The creator acknowledges Meta is not their highest conviction stock. The EPS miss of $1.04 versus estimates ($6.18 vs $7.22 expected) reflects CapEx spending on AI infrastructure. Market narrative is currently punishing companies with high CapEx and declining free cash flow. The Fed may raise rates this year to combat inflation, which could pressure growth stocks. The creator maintains only a 1.4% position in their community portfolio despite seeing opportunity, indicating measured conviction."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Federal Reserve may raise rates in 2024 to combat inflation driven by geopolitical tensions and higher oil prices. This is a significant macro headwind similar to 2022 when rate hikes caused major market declines. Rate raises could prevent the typical V-shaped recovery in growth stocks.",
+          "Broad market narrative is punishing any company spending heavily on CapEx (especially AI infrastructure) while seeing free cash flow decline, even if investments are strategically sound. This creates indiscriminate selling pressure across the Mag 7 and semiconductor names benefiting from AI buildout.",
+          "Market broken key technical support at S&P 500 7,400 level, closing at 7,316. Next support levels are 7,235 with potential downside to 6,900-7,000. Market requires capturing 7,480-7,500 resistance to confirm bullish momentum.",
+          "Leverage and margin abuse in retail trading is exacerbating downside moves. Triple leveraged bullish ETFs and margin usage create cascading margin calls that accelerate declines beyond fundamental justification. This suggests volatility and lower lows are likely as leverage unwinds.",
+          "Geopolitical tensions (Middle East, South Korea market instability with 50% of Kospi concentrated in two stocks) are adding uncertainty. Mid-summer through November elections expected to create continued volatility.",
+          "Seasonal weakness typically occurs in August, September, and October. Combined with macro headwinds, this period historically sees more downside pressure."
+        ],
+        "tickers_mentioned": [
+          "META",
+          "MICRON"
+        ]
+      },
+      "price_at_recommendation": {
+        "META": 585.61
+      }
+    },
+    "F6nxPeUnPpk": {
+      "channel": "Daniel Pronk",
+      "title": "META Stock is Crashing After Earnings - Here's What You Need to Know",
+      "upload_date": "20260729",
+      "url": "https://www.youtube.com/watch?v=F6nxPeUnPpk",
+      "processed_at": "2026-07-30T09:57:44.393024",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms Inc.",
+            "reason": "Revenue growth is strong at 28% year-over-year, demonstrating that Meta's underlying business is accelerating despite near-term margin compression. The company is expected to grow operating cash flow from $130 billion (trailing 12 months) to $170 billion in 2027 and $308 billion by 2030, providing substantial cash generation to support CapEx obligations. Operating income is growing year-to-date and would have grown 5% excluding one-time legal and severance costs of $3.6 billion. Meta's advertising business is firing on all cylinders with ad impressions up 14% and price per ad up 12%, with regional growth rates of 31.3% in US/Canada and 34.8% in rest of world. The company is gaining operational efficiencies with revenue growing ~30% while headcount declines 10%, indicating strong AI-driven productivity improvements. At a forward P/E of 16x and price-to-operating-cash-flow of 10.5x, the valuation is cheap for a high-quality business still growing revenues 25% annually. The analyst's DCF model projects a fair value of $1,100 per share by 2039 with a 25-26% compounded annual growth rate from the post-earnings price of $585.",
+            "when_to_buy": "After-hours trading post-earnings, following an 11% decline",
+            "target_price": "$1,100 by 2039 based on DCF analysis assuming 15%+ annual operating cash flow growth and 14x price-to-operating-cash-flow multiple",
+            "cautions": "Revenue growth expected to decelerate to 19-25% in Q3 (from 28% in Q2). Margins compressed by CapEx investments totaling $130-145 billion in 2026, with potential for further increases in 2027. Legal proceedings related to youth-related issues could result in material losses beyond the $2.4 billion charge already recorded. Mark Zuckerberg acknowledged difficulty predicting long-term usage scaling curves and compute demand, creating uncertainty about whether current CapEx spending will generate positive ROI. Risk that off-balance-sheet commitments totaling ~$68 billion annually (through 2031) do not produce returns. Free cash flow compressed to $784 million despite $31.86 billion in operating cash flow due to aggressive CapEx spending. Stock is highly dependent on CapEx investments proving out and business continuing to grow."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Broader market sell-off in AI and semiconductor stocks on the day of Meta's earnings created poor market sentiment that amplified the stock's decline, suggesting timing and macro conditions are unfavorable for tech/AI stocks despite company-specific strength.",
+          "Hyperscaler balance sheet concerns: Off-balance-sheet commitments for data centers, cloud capacity, and infrastructure totaling $183 billion in lease obligations (over next decade), $238 billion in non-cancelable contractual commitments, and $14.7 billion in contingent cloud capacity obligations are not reflected on balance sheets under GAAP rules but represent material future cash outflows (~$68 billion annually through 2031). While justified by GAAP accounting, these represent significant leverage not fully visible to investors.",
+          "CapEx arms race risk: Meta and other hyperscalers are in a competitive race to build AI compute capacity with massive capital requirements. Success is predicated on the ability to monetize this compute and achieve positive ROI, but long-term demand curves are uncertain. If compute capacity becomes oversupplied or demand disappoints, billions in CapEx could be stranded."
+        ],
+        "tickers_mentioned": [
+          "META",
+          "GOOGL",
+          "NVDA"
+        ]
+      },
+      "price_at_recommendation": {
+        "META": 585.61
+      }
     }
   },
   "channel_ids": {

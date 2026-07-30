@@ -12911,6 +12911,33 @@
       "price_at_recommendation": {
         "META": 585.61
       }
+    },
+    "crZP_csCuOI": {
+      "channel": "FinTek",
+      "title": "Top Ai Infrastructure Stock to BUY NOW",
+      "upload_date": "20260730",
+      "url": "https://www.youtube.com/watch?v=crZP_csCuOI",
+      "processed_at": "2026-07-30T14:43:23.494105",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NET",
+            "company_name": "Cloudflare",
+            "reason": "Cloudflare is the backbone of the modern internet with 34% revenue growth in the most recent quarter. The company has massively outsized influence over the internet relative to their market cap. The creator's investment thesis centers on second-order effects of AI spending potentially boosting Cloudflare's margins, which could have a huge effect on the company's bottom line given their current negative profitability as they reinvest in growth. The creator personally owns 172 shares valued at around $37,000, which is up approximately $25,000 overall.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Company currently has negative profits as it reinvests in growth. The margin expansion thesis depends on second-order effects of AI spending materializing."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": [
+          "NET"
+        ]
+      },
+      "price_at_recommendation": {
+        "NET": 273.87
+      }
     }
   },
   "channel_ids": {

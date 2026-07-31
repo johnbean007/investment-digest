@@ -13588,6 +13588,81 @@
         "ORCL": 127.56,
         "NLR": 108.36
       }
+    },
+    "DNlb0PrAdro": {
+      "channel": "CouchInvestor",
+      "title": "I'm Buying the Dip on a Stock Everyone Else Is Selling Today",
+      "upload_date": "20260731",
+      "url": "https://www.youtube.com/watch?v=DNlb0PrAdro",
+      "processed_at": "2026-07-31T16:51:52.717477",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon",
+            "reason": "AWS accelerated growth to 36.7% year-over-year with margin expansion to 39.3%, demonstrating both top-line acceleration and profitability improvements. The core online retail business is accelerating (14.5% growth) and advertising revenue is growing fast at 26.2% year-over-year. Amazon's custom silicon business (Trainium AI chips and Graviton CPUs) independently crossed $25 billion annual revenue run rate growing at triple-digit percentages. The data center ROI story is compelling: 5-year customer contracts break even in less than 3 years, generating massive free cash flow in years 3-6. The creator expects the margin profile and profitability of these businesses to change significantly in 2027 as the initial capex buildout is behind them. AWS backlog surged 100% year-over-year to close to half a trillion, signaling strong long-term demand. The creator has owned Amazon since 2018 and considers it one of the best businesses to own ever.",
+            "when_to_buy": "Stock was around the 200-day moving average before earnings and has gapped up significantly; current price approximately $267 per share",
+            "target_price": "$318 per share (base case probability-weighted price target representing 19.3% upside from $267)",
+            "cautions": "Forward PE of 31.3x is elevated; free cash flow currently does not really exist due to heavy capex investments; the data center buildout ROI thesis depends on achieving the projected 30-year lifespans and 4-6 year server cycles as modeled; capex spending increasing to $220 billion in 2026 with capacity constraints through 2027"
+          },
+          {
+            "ticker": "RDDT",
+            "company_name": "Reddit",
+            "reason": "Reddit delivered 61% revenue growth year-over-year for the eighth consecutive quarter over 60%, with operating cash flow doubling to $262 million and crossing $1 billion on a 12-month basis. Net income is up 183% year-over-year and adjusted EBITDA is up 106%. The company has achieved $1 million in revenue per employee. Reddit's data is valuable for AI training, and licensing deals with Google, OpenAI, and Anthropic provide a revenue stream independent of user growth. The creator notes Reddit has a gross margin of 91.3% and is a fast-growing, highly profitable business. The stock is down 40% year-to-date and trading at lowest levels since May 2026, providing an entry opportunity. The PEG ratio is under 1, indicating undervaluation. Reddit's 2027 targets of 100 million US daily active users and 1 billion global daily active users represent significant long-term growth runway.",
+            "when_to_buy": "Stock down approximately 18% in one day; RSI is very close to being oversold on the daily chart; trading at lowest levels since mid-April 2026",
+            "target_price": "$212 per share (probability-weighted DCF price target representing 41% upside); bull case $331 per share",
+            "cautions": "US logged-in daily active users only grew 1% year-over-year, essentially flat, which disappointed the market. Google AI Overviews are cannibalizing direct linked clicks and causing choppier search referrals, reducing organic traffic. The company is discontinuing the logged-in versus logged-out daily active user breakdown reporting starting Q3, which the market dislikes when metrics are removed. Weekly active users grew faster than daily active users, which is the opposite of the desired trend\u2014you want to convert weekly users to daily, not just add more weekly users. Q3 guidance shows deceleration to 48% growth year-over-year from prior quarters. User acquisition growth is slowing, making the company more reliant on monetization efficiency (ARPU increased 51%) rather than user growth."
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms",
+            "reason": "The creator describes Meta as a 'no-brainer' at current levels, trading at $550 per share when the creator believes it is an '$800+ stock.' Meta is positioned to benefit significantly from the 2027 inflection point when AI infrastructure investments become highly efficient and profitable. The creator has been adding to Meta positions when valuations were lower and it currently represents nearly 30% of the retirement account. The creator expects that in 2027, all major tech players including Meta will demonstrate how profitable they really are across the board, leading to rapid stock appreciation. Meta, like Amazon and Google, is investing heavily in AI infrastructure with strong returns on investment expected.",
+            "when_to_buy": "Current price approximately $550 per share, down from $700 per share a couple of weeks prior",
+            "target_price": null,
+            "cautions": "The creator acknowledges it is frustrating that despite believing the stock is significantly undervalued, it has not moved upward recently and has instead declined or gone back down 2 months' worth of gains. The entire investment thesis is dependent on 2027 being the inflection year where capex buildout stops and margins expand significantly. If this thesis is wrong, the stock could underperform. The creator speculates this may be 'the last time you can buy Meta under $600,' implying significant downside risk if the thesis fails, though specific downside targets are not provided."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "AAPL",
+            "company_name": "Apple",
+            "reason": "Apple stock is down over 8% following its earnings report. The creator argues Apple does not deserve its current valuation, trading at a 40x trailing PE and 36x forward PE despite not growing 20% or more year-over-year. While the creator acknowledges Apple is very profitable and a very good company, the premium valuation is not justified given the growth rate. The stock reached $5 trillion market cap a couple of days ago, and the creator is not surprised to see it pull back given the excessive valuation.",
+            "risk": "Stock already down 8% following earnings; elevated valuation multiple at 40x trailing PE and 36x forward PE not justified by growth rate"
+          }
+        ],
+        "key_warnings": [
+          "South Korea's KOSPI index was down over 30% in a month (not a single stock, but an entire index), which the creator believes caused a huge crash in many high-flying tech names globally. This macro shock triggered significant pullbacks across semiconductor and tech stocks.",
+          "Google AI Overviews are cannibalizing web traffic for content publishers including Reddit, reducing direct traffic referrals. The creator notes that 'traditional 10 blue links historically built web traffic, [but] Google AI overviews have yet to deliver a positive net traffic impact for publishers.' This is a structural risk to advertising-dependent platforms that rely on organic search traffic.",
+          "Memory chip prices are currently elevated, and companies like Amazon are paying a significant premium on memory costs for their AI infrastructure. However, the creator expects memory prices to peak and decline, with more efficient memory usage going forward, which should improve margins starting in 2027.",
+          "The entire positive thesis for mega-cap tech stocks (Amazon, Meta, Google, Microsoft) depends on the 2027 inflection point where data center buildout capex reaches maturity and margins expand dramatically. If this inflection does not occur, or is delayed, valuations could face pressure.",
+          "Leopold Feucht's hedge fund experienced a 67% portfolio decline in July alone (despite being up 80% year-to-date), which the creator uses as a cautionary tale about the risks of using leverage. The creator signals that excessive leverage amplifying positions, despite strong year-to-date gains, is a sign of greed and can lead to sudden large losses."
+        ],
+        "tickers_mentioned": [
+          "AMZN",
+          "RDDT",
+          "AAPL",
+          "GOOG",
+          "MSFT",
+          "META",
+          "NVDA",
+          "MRVL",
+          "AMD",
+          "COR",
+          "ORCL",
+          "MU",
+          "PG",
+          "MMM",
+          "AEO",
+          "SHOP",
+          "SOFI"
+        ]
+      },
+      "price_at_recommendation": {
+        "META": 546.34,
+        "RDDT": 137.66,
+        "AAPL": 300.67,
+        "AMZN": 268.23
+      }
     }
   },
   "channel_ids": {

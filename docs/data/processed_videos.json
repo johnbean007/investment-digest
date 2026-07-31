@@ -12938,6 +12938,656 @@
       "price_at_recommendation": {
         "NET": 273.87
       }
+    },
+    "yi1rj-lYZVE": {
+      "channel": "Mr. FIRED Up Wealth",
+      "title": "The Stock Market Just Ripped - What's Next? 25-Year Investor Shares His Thoughts!",
+      "upload_date": "20260730",
+      "url": "https://www.youtube.com/watch?v=yi1rj-lYZVE",
+      "processed_at": "2026-07-31T08:19:21.067990",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "MSFT",
+            "company_name": "Microsoft Corporation",
+            "reason": "Microsoft reached a major adoption milestone with 30 million paid seats for Copilot, with net seat additions nearly doubling sequentially. The company demonstrated it can make ROI on AI investments through its enterprise offerings. Agent 365 has nearly 40 million agents registered in just 2 months since general availability in May, establishing it as the essential backbone/control plane for enterprise AI agents. Bernstein raised price target to $647. The creator emphasized that Microsoft helped save the market and proved that you can make money in AI, which shifted market sentiment positively.",
+            "when_to_buy": "Under $400",
+            "target_price": "$647 (Bernstein)",
+            "cautions": null
+          },
+          {
+            "ticker": "SNOW",
+            "company_name": "Snowflake",
+            "reason": "Snowflake is up 98% in 3 months and has returned over 111% on the creator's position. The AI story is finally baking out and coming to fruition for this company. The creator stated nobody is laughing now about this investment and expressed satisfaction with the returns despite it not being a stellar long-term performer historically.",
+            "when_to_buy": "At current levels around $300, consider trimming some shares",
+            "target_price": "$319 (R3 Fibonacci), with analyst price targets ranging from $250 to $370 with a median of $302",
+            "cautions": "The creator plans to trim some shares in this range. The stock has already had a significant run and may face resistance. No guaranteed continuation upward."
+          },
+          {
+            "ticker": "AAOI",
+            "company_name": "Applied Optoelectronics",
+            "reason": "This is a photonics/AI optics company that the creator personally bought in the community portfolio as a speculative position. The stock came down from massive highs ($233) to $75 after hours, presenting a risk-reward opportunity in the red zone. The creator created a detailed deep dive on photonics companies and sees opportunity in this sector as part of the AI buildout infrastructure.",
+            "when_to_buy": "$150 or less via dollar cost averaging. The creator bought around $80 and $76 after hours. Currently showing early gains at $90.",
+            "target_price": "Previous highs around $233 if the long-term thesis plays out, though no guarantee",
+            "cautions": "This is a speculative SPAC-type position, not suitable for conservative investors. Do not FOMO chase at higher prices. Only dollar cost average in the support zone. The creator explicitly warns against buying this stock over $150."
+          },
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon",
+            "reason": "Amazon delivered solid earnings with EPS of $5.75 beating expectations, revenue beat, AWS revenue of $42.2 billion versus $40.54 billion expected, and advertising revenue of $19.81 billion versus $19.43 billion expected. Amazon Web Services and Azure are the two largest cloud services providers where enterprise money is flowing. The company has proven it can make money off AI investments similar to Microsoft.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "MXL",
+            "company_name": "Maxlinear (Photonics Company)",
+            "reason": "As part of the photonics/AI optics infrastructure play, the creator did a deep dive write-up on Patreon analyzing MXL among other photonics companies. This is part of the secular growth trend in AI infrastructure and optical components needed for AI buildout.",
+            "when_to_buy": "If prices come lower, the creator indicated potential buying interest based on chart support levels",
+            "target_price": null,
+            "cautions": "The creator warned to wait for better entry points rather than chasing current prices."
+          },
+          {
+            "ticker": "LUMN",
+            "company_name": "Lumentum",
+            "reason": "Included in the creator's deep dive on photonics/AI optics companies as part of the infrastructure play supporting AI expansion. This sector is positioned to benefit from enterprise AI adoption and data center buildout.",
+            "when_to_buy": "If prices come lower, similar to other photonics names",
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "COHR",
+            "company_name": "Coherent",
+            "reason": "Included in the deep dive analysis on photonics/AI optics companies that could benefit from the broader AI infrastructure buildout and enterprise adoption trends.",
+            "when_to_buy": "If prices come lower",
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "GLW",
+            "company_name": "Corning",
+            "reason": "Listed as one of the key photonics companies in the creator's deep dive on AI optics infrastructure plays that stand to benefit from AI adoption and data center expansion.",
+            "when_to_buy": "If prices come lower",
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms",
+            "reason": "Meta reported earnings but the market was disappointed because the company did not signal it would become a neo cloud provider competing with MVIS and CoreWeave and Oracle. Instead, Zuck said they are happy with their CapEx investments and believe they can make ROI with their core business, but did not commit to aggressive cloud infrastructure expansion like the market wanted. Free cash flow is dwindling relative to CapEx spending. The stock closed down 8% and could have been down 15% if the timing of the report had been different. The creator expects there could be further downside.",
+            "risk": "Could have declined 15% in worse market conditions. Further drift lower expected."
+          },
+          {
+            "ticker": "PLTR",
+            "company_name": "Palantir Technologies",
+            "reason": "The creator explicitly warned against buying this stock at $200, citing it as an example of FOMO chasing that should be avoided. The stock had already run up significantly.",
+            "risk": "Significant downside risk if bought after large run-up. Creator recommends avoiding FOMO purchases at elevated levels."
+          },
+          {
+            "ticker": "RKLB",
+            "company_name": "Rocket Lab",
+            "reason": "The creator specifically warned against buying this stock at $150, using it as an example of FOMO chasing that leads to poor investment outcomes.",
+            "risk": "High risk of buying near local tops. Creator explicitly recommends avoiding purchases at these elevated levels."
+          },
+          {
+            "ticker": "ASTS",
+            "company_name": "Astra Space (Astera Labs reference)",
+            "reason": "The creator warned against buying Astera Labs at $499 after it ripped to that level and then pulled back hard. Using this as an example of FOMO chasing behavior to avoid.",
+            "risk": "Ripped to $499 then pulled back hard. Creator recommends $150 or less as target entry price via DCA, not chasing at peaks."
+          }
+        ],
+        "key_warnings": [
+          "Market experienced a significant unwind from the Situational Awareness hedge fund (down 50% from $20B to $10B in AUM) which was using excessive leverage and FOMO-driven strategy. This created margin call cascades that caused extreme volatility. The creator warned that this type of overleveraged positioning is unhealthy, though the market reset is ultimately good.",
+          "Macroeconomic headwinds remain: Oil prices still inflated, 30-year Treasury yield at highest since 2007, GDP came in light at 1.5% versus 1.8% forecast. The creator noted the market should have been down but was already down so much that it snapped back on inflation data (0.1% vs 0.2% forecast). However, the Fed may still need to raise rates despite lower inflation readings.",
+          "Expect continued volatility between now and November 3rd (midterms) and during traditionally weaker summer months (August, September, October). The creator explicitly stated 'I hate this market all year. It's a very difficult market to navigate, especially for new investors.'",
+          "Short squeeze risk: Heavy short positioning from institutions and traders after Fed concerns led to significant margin calls in the opposite direction when the market ripped. This creates artificial price movements that may not be sustainable.",
+          "Long-term risk of market retest: While breaking above $7400, the S&P 500 needs to capture $7480-$7500 to confirm bullish bias. The creator stated there could be another retest of support, potentially seeing $7000 or $6900 at some point in the year.",
+          "Avoid FOMO chasing: The creator strongly emphasized multiple times not to chase stocks after large moves (Micron at $1200, Microsoft over $400, Astera Labs at $499, Palantir at $200, Rocket Lab at $150). This is a primary risk for new investors in this volatile market environment."
+        ],
+        "tickers_mentioned": [
+          "MSFT",
+          "AMD",
+          "NVDA",
+          "MU",
+          "SDSK",
+          "STX",
+          "NOW",
+          "SNOW",
+          "AAOI",
+          "AMZN",
+          "META",
+          "LRCX",
+          "IONQ",
+          "PLTR",
+          "RKLB",
+          "ASTS",
+          "VOO",
+          "SMH",
+          "QQQ",
+          "MXL",
+          "LUMN",
+          "COHR",
+          "GLW",
+          "SPX",
+          "GOOG",
+          "GOOGL"
+        ]
+      },
+      "price_at_recommendation": {
+        "COHR": 249.06,
+        "SNOW": 298.1,
+        "ASTS": 58.44,
+        "RKLB": 64.68,
+        "AAOI": 90.11,
+        "MSFT": 451.1,
+        "LUMN": 6.56,
+        "PLTR": 122.26,
+        "MXL": 66.92,
+        "META": 539.03,
+        "GLW": 135.22,
+        "AMZN": 235.5
+      }
+    },
+    "zmT-h4FKdI0": {
+      "channel": "CouchInvestor",
+      "title": "AMAZON REDDIT APPLE Q2 EARNINGS BREAKDOWN",
+      "upload_date": "20260730",
+      "url": "https://www.youtube.com/watch?v=zmT-h4FKdI0",
+      "processed_at": "2026-07-31T08:20:04.054622",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon",
+            "reason": "Amazon reported AWS revenue growth of 36.7% year-over-year, beating whisper numbers of 36% and street expectations of 32%, accelerating for the fifth straight quarter. Operating margins expanded significantly to 13.7% from 5% a year ago, demonstrating operating leverage as the company scales. AWS is now a $169 billion annualized revenue run rate business with a $496 billion backlog growing triple digits year-over-year. Management stated AWS could become a trillion dollar annual revenue business. The company's custom chips business (Tranium and Graviton) is at a $25 billion annual run rate growing triple digits. AI revenue is also at $25 billion annual run rate growing triple digits. Despite increasing capex guidance to $220 billion for 2026 (up from $200 billion), the stock traded up 6-7% after hours as the market validated the ROI equation and free cash flow expansion trajectory over the next few years.",
+            "when_to_buy": "After earnings announcement when stock stabilizes following capex commentary",
+            "target_price": null,
+            "cautions": "Free cash flow came in negative at -$7.6 billion versus analyst expectations of -$3.8 billion, though consensus range was -$20.9 billion to +$40 billion showing analyst uncertainty. Capex will remain elevated through at least 2027, creating near-term cash flow headwinds. Company guided Q3 net sales to $197-202 billion, which missed street expectations of $203 billion, though this was partially attributable to Prime Day timing shift from Q3 to Q2."
+          },
+          {
+            "ticker": "REDDIT",
+            "company_name": "Reddit",
+            "reason": "Reddit beat expectations significantly with EPS up 178% year-over-year and revenue up 61% year-over-year. The company reported $804 million in revenue versus $731 million expected, a 10% beat. EPS came in at $1.25 versus $0.96 expected, a 30% beat. Daily active unique users grew 18% year-over-year to 130 million per day. The company has demonstrated eight consecutive quarters of 60%+ growth rates. Gross margins remain above 90%. Despite an initial after-hours dump to $174 from $190, the fundamentals remain strong with consistent beats on both top and bottom lines.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Stock dumped 4-10% after hours despite strong earnings, likely due to US-specific daily active users being flat quarter-over-quarter and only up 5.7% year-over-year in logged-in US DAUs. Since average revenue per user in the US is much higher than rest of world, this US segment slowdown concerned investors. Data licensing deals commentary from management was anticipated to be addressed but may not have satisfied the street. The stock remains in a trading range having recovered modestly from recent losses but has not achieved meaningful upside despite strong growth metrics."
+          },
+          {
+            "ticker": "MPWR",
+            "company_name": "Monolithic Power Systems",
+            "reason": "Monolithic Power Systems beat earnings significantly with EPS up 11% and revenue up 9% year-over-year. The company is a $64 billion market cap pure-play on power management for data centers and AI infrastructure. The results prove that energy demand for data center buildout continues to be incredibly strong, as enterprises rapidly deploy AI compute infrastructure. Stock was up 5% during the day and an additional 12% after hours, demonstrating strong momentum.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "AAPL",
+            "company_name": "Apple",
+            "reason": "Apple delivered a blockbuster quarter with EPS beating by 7% and revenue beating by a small amount. iPhone revenue surged 22% year-over-year to $54.25 billion, marking the third straight quarter of 20%+ growth driven by the iPhone 17 family described as the most popular lineup in company history. China revenues grew 22% year-over-year to $18.8 billion for a third straight quarter of 20%+ growth, showing strong emerging market momentum. Mac segment was a blowout with $10.35 billion in revenue versus $8.74 billion expected. Services grew 12% year-over-year. Gross margins remained strong at 50.1%. The company is positioning itself as an anti-capex AI bet by licensing technology from Google/Gemini rather than training its own frontier models, which the street appears to favor.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Stock is down 1.6-2% after hours despite blockbuster results, suggesting the market has priced in expectations and may be giving back gains. The stock had already rallied significantly heading into earnings and may lack near-term momentum despite strong fundamentals. The stock is trading at 30+ PE multiple while growing in the low single digits (not the 20% growth rate of Amazon or other cloud/AI names), which represents premium valuation with lower growth."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "COIN",
+            "company_name": "Coinbase",
+            "reason": "Coinbase missed earnings significantly with EPS coming in at -$1.36 versus -$0.42 expected, representing a 224% miss. Revenue of $1.2 billion missed expectations of $1.28 billion, an 5% miss. Total revenue is down 20% year-over-year with EPS down 126% year-over-year. Transaction revenues missed expectations and subscription services revenue missed expectations. The company appears to be struggling with lower trading volumes and lacks the momentum of competitors like Robinhood which beat on crypto metrics. The business is heavily dependent on crypto market cycles and lacks diversification.",
+            "risk": "Stock is down after reporting and likely to face further downside if Bitcoin momentum reverses or trading volumes remain depressed."
+          },
+          {
+            "ticker": "RBLX",
+            "company_name": "Roblox",
+            "reason": "Roblox missed revenue expectations by 8%, coming in at $1.47 billion versus $1.6 billion expected. Daily active users missed by 5 million, coming in at 123 million versus 128 million expected. While the company did beat on EPS (though with a 156% beat on a negative number indicating it was their first gap profitable quarter), the deceleration in DAU growth is concerning as user engagement is critical to the platform's value proposition.",
+            "risk": "Stock down 10-11% after hours. The DAU miss suggests potential slowdown in user growth which is the key driver of monetization for the platform. High beta momentum stock vulnerable to further downside if gaming engagement trends deteriorate."
+          },
+          {
+            "ticker": "MSTR",
+            "company_name": "MicroStrategy",
+            "reason": "MicroStrategy missed earnings by 900% on EPS and 2% on revenue. However, the stock's valuation and performance is entirely levered to Bitcoin price movements rather than operating performance. The company's earnings have zero relevance to its stock performance\u2014what matters is Bitcoin price and the company's strategy of using corporate treasury to accumulate Bitcoin. This makes it a crypto speculation vehicle rather than a business investment.",
+            "risk": "Stock is essentially a Bitcoin leveraged play. The recent collapse of Citadel-associated fund Liupold liquidation at unfavorable terms demonstrates the dangers of leverage in crypto-correlated assets. MicroStrategy founder keeps raising capital to buy Bitcoin but the business fundamentals are irrelevant to stock performance."
+          },
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet/Google",
+            "reason": "While Google beat earnings, the company went free cash flow negative this quarter contrary to market expectations, increased capex guidance substantially, and the stock initially dumped following earnings. Management guidance was less clear than Amazon's on capex trajectory for 2027. The company increased capex by approximately 15% while only growing revenue modestly, creating a mismatch between investment and return that concerned the street.",
+            "risk": "Stock initially dumped following earnings and while it has recovered partially, it remains below pre-earnings levels near $315-340 range. The free cash flow deterioration and heavy capex cycle create uncertainty about near-term cash generation."
+          }
+        ],
+        "key_warnings": [
+          "Leverage is extremely dangerous\u2014Liupold's hedge fund liquidation showed how 4x leverage combined with a 25% portfolio drawdown wipes out the entire equity base. Liupold went from managing $45 billion in assets (with $10 billion in Anthropic stake) to complete liquidation in a matter of days when his prime broker forced asset sales. This happened to a highly intelligent person who worked at OpenAI and made mostly correct stock picks, proving that leverage can destroy even expert investors. Retail and institutional investors should exercise extreme caution with leverage.",
+          "The market is deeply unpredictable following major dislocations\u2014After Liupold liquidation, semiconductors, photonics names, and high-beta AI plays experienced a 30-50% drawdown peak-to-trough in a single month, then recovered 20-30% in a single day when the liquidation was resolved. Small cap photonics names like AXTI experienced 70% declines followed by 50%+ rallies. This volatility is too extreme for most investors to navigate successfully.",
+          "Small-cap leverage plays are extremely risky\u2014Companies with market caps of just a few billion dollars (like AXTI, Coherent, and various photonics plays) represent bottlenecks in the AI infrastructure build-out but are susceptible to violent drawdowns when leverage unwinds market-wide. While they can deliver 50-100%+ rallies, they are equally likely to drop 50-70% in a matter of weeks.",
+          "Capex spending by hyperscalers does not guarantee stock outperformance\u2014Google, Meta, and Amazon all increased capex guidance, yet their stock reactions were mixed. Google went negative on free cash flow and dumped. Meta increased capex guidance and dumped. Amazon increased capex guidance but held value due to strong margins and AWS growth. The market cares about returns on invested capital (ROIC) and free cash flow sustainability, not just investment levels.",
+          "The AI capex cycle may be hitting an inflection point\u2014OpenAI just cut prices dramatically on its models. If price cuts spread across frontier model providers (which is likely given competitive dynamics), this could compress margins on inference spending and reduce the total addressable market for cloud infrastructure spending, even if usage volumes grow. This could impact the long-term ROIC trajectory of hyperscaler investments."
+        ],
+        "tickers_mentioned": [
+          "AMZN",
+          "AAPL",
+          "GOOGL",
+          "MSFT",
+          "META",
+          "NVDA",
+          "AMD",
+          "TSM",
+          "SANDISK",
+          "INTEL",
+          "MSTR",
+          "RBLX",
+          "REDDIT",
+          "AXTI",
+          "MPWR",
+          "COIN",
+          "NXTC",
+          "ORCL",
+          "UPS",
+          "ELF",
+          "SMCI",
+          "MRVL",
+          "DELL",
+          "BMR",
+          "BTC",
+          "QQQ",
+          "SOXX",
+          "RIVN",
+          "SQ",
+          "TLT",
+          "CRWD",
+          "NEBS",
+          "CORW",
+          "ALAB",
+          "CREDO",
+          "SKH",
+          "SFI",
+          "CXMT"
+        ]
+      },
+      "price_at_recommendation": {
+        "GOOGL": 333.66,
+        "MSTR": 97.74,
+        "RBLX": 48.67,
+        "COIN": 163.58,
+        "AAPL": 333.43,
+        "AMZN": 235.5,
+        "MPWR": 1316.18
+      }
+    },
+    "DeI6oqdIePA": {
+      "channel": "CouchInvestor",
+      "title": "The Most Obvious Buy in the Market Right Now",
+      "upload_date": "20260730",
+      "url": "https://www.youtube.com/watch?v=DeI6oqdIePA",
+      "processed_at": "2026-07-31T08:20:23.589461",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "MSFT",
+            "company_name": "Microsoft Corporation",
+            "reason": "Microsoft is executing exceptionally well with Azure accelerating to 43% year-over-year growth, Microsoft cloud revenue up 27% to $59.3 billion, and commercial remaining performance obligations up 84% to $678 billion. The company is generating strong profitability with GAAP net income up 31% and operating income up 18%, while still maintaining free cash flow positivity despite heavy AI investment. Critically, 90% of Microsoft's $214 billion full-year cloud revenue comes from customers outside of frontier model companies, reducing concentration risk. The creator views this as a tremendously undervalued high-quality business currently down 9.3% year-to-date and 16.4% over 12 months despite excellent fundamentals.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Stock has been underperforming and declined from $350 peak in October 2025. Heavy capex spending of over $50 billion per quarter expected, though company commits to remaining free cash flow positive."
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms Inc.",
+            "reason": "Meta's core business is performing extremely well with revenue up 28% year-over-year, family daily active people at 3.6 billion up 3.4%, and ad impression growth of 14% with price per ad growth of 12%. The creator emphasizes Meta is the biggest ad revenue generating company on the planet and is currently extremely undervalued. Despite near-term capex headwinds of $31.1 billion (83% increase), the creator believes this investment will be justified in 1-2 years. Monetization of AI features is still in early days\u2014WhatsApp business AI agents have 1 million weekly active customers, Meta AI saw 60% daily user boost, and Advantage Plus (AI ad tool) has $75 billion annualized run rate up from $60 billion three months prior. The stock was $700 just 2 weeks ago and is now down 18.3% year-to-date, presenting a significant valuation disconnect.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Stock is experiencing significant near-term profitability pressure: GAAP operating margin down from 43% to 30.9%, GAAP EPS missed estimates by $1.04, and free cash flow margin near zero or negative expected. Heavy capex spending in 2026 and notably higher spending in 2027 will continue to pressure near-term profits. Meta only provided directional guidance for 2027 with no formal numbers. In 2028, Meta will hold off on buying expensive chips until demand signals are clearer, suggesting more cautious posture ahead."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Leopold's apparent blow-up or liquidation of positions (including 50% of Entropic exposure) suggests retail/hedge fund risk in concentrated AI positions. The creator sarcastically notes that having $200 million and insider information doesn't guarantee investment success.",
+          "Capex growth is moderating across mega-cap tech: While Microsoft, Google, Meta, and others still expect capex to grow in fiscal 2027, the rate of growth is decelerating. This has caused some market commentary to suggest capex spending is slowing, though the creator disputes this interpretation as misguided.",
+          "Short-term vs. long-term infrastructure monetization trade-off: Meta is holding back from aggressively monetizing compute capacity to third parties (like Anthropic) in the short term, betting that 70-80% of compute will be needed for their own business long-term. This leaves near-term revenue on the table and creates execution risk around the timing of monetization decisions."
+        ],
+        "tickers_mentioned": [
+          "MSFT",
+          "META",
+          "ORCL",
+          "AMZN",
+          "INTC",
+          "MU",
+          "AMD",
+          "NVDA",
+          "GOOGL",
+          "NEBS",
+          "CORE",
+          "SK Hynix",
+          "SanDisk",
+          "AAPL"
+        ]
+      },
+      "price_at_recommendation": {
+        "MSFT": 451.1,
+        "META": 539.03
+      }
+    },
+    "1amJxUZbHoI": {
+      "channel": "Daniel Pronk",
+      "title": "Microsoft Stock is Skyrocketing - Here's What You Need to Know",
+      "upload_date": "20260730",
+      "url": "https://www.youtube.com/watch?v=1amJxUZbHoI",
+      "processed_at": "2026-07-31T08:20:48.504342",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "MSFT",
+            "company_name": "Microsoft Corporation",
+            "reason": "Microsoft demonstrated exceptional earnings with revenue at $90 billion (up 18%), non-GAAP EPS up 23%, and Azure accelerating to 43% growth on a $100+ billion revenue base. The company successfully scaled AI Copilot to over 30 million paid seats with 60% quarter-over-quarter revenue growth, proving it can monetize AI within its existing customer base without disruption. Operating cash flow grew 34.4% year-over-year to record levels of $183 billion trailing twelve months, with management expecting to maintain free cash flow positivity while continuing capex investment\u2014a standout commitment among hyperscalers. Unlike peers, Microsoft is not increasing capex guidance and maintains strategic flexibility to cut spending quickly since two-thirds of capex is on short-lived GPU/CPU assets. The company is deliberately emphasizing diversified growth outside frontier model companies, demonstrating reduced dependency on any single AI model. Microsoft's forward P/E of 23.2x remains below historical medians and comparable to 2020 and 2022 lows despite the 17% single-day rally, while price-to-operating-cash-flow sits at 18.53x, also near historical lows.",
+            "when_to_buy": null,
+            "target_price": "$756 (66% upside from current levels based on creator's DCF model with 19% CAGR over 3 years; fair value $578)",
+            "cautions": "The creator's DCF assumes conservative 15% annual operating cash flow growth and 20x price-to-operating-cash-flow multiple, whereas Microsoft is currently growing OCF at 30% YoY. Microsoft 365 commercial has been decelerating, Dynamics 365 is consistently decelerating, and consumer cloud is slowing. Windows OEM/devices revenue down 7% and Xbox content down 10%. Management acknowledges potential for demand fluctuations and cycles in the AI buildout. The frontier model business (OpenAI investment) remains volatile and is deliberately excluded from non-GAAP metrics due to unpredictability."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet Inc. (Google)",
+            "reason": "Google announced an increase to capital expenditure guidance and the market sold off the stock in response. The creator notes the market is becoming increasingly concerned that hyperscaler capex buildout is not producing positive ROI, and Google is being punished for raising capex guidance whereas Microsoft is being rewarded for holding capex guidance flat.",
+            "risk": "Market is currently negative on capex increases from hyperscalers; continued capex guidance raises risk further deterioration in stock price"
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms Inc.",
+            "reason": "Meta is projected to produce negative $10.5 billion in free cash flow out into 2027, meaning the business is expected to lose money over the next year. Unlike Microsoft, Meta is not maintaining profitability and free cash flow positivity while investing in capex, making it a risky long-term capital allocation.",
+            "risk": "Negative free cash flow projected through 2027; not expected to turn FCF positive until 2030 with only $80 billion annual FCF projected by then, significantly lagging Microsoft's $224 billion projected FCF by 2031"
+          },
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon",
+            "reason": "Amazon, like Meta and Google, is expected to go free cash flow negative over the next year as it continues to spend a significant amount on capex. The creator positions this as a negative divergence from Microsoft's approach.",
+            "risk": "Expected to turn free cash flow negative in coming year due to aggressive capex spending; loses financial flexibility vs. Microsoft"
+          }
+        ],
+        "key_warnings": [
+          "AI frontier models (OpenAI, Anthropic) are becoming commoditized with no strong differentiation. The creator is 'more bearish on frontier labs' because Copilot and Microsoft's architecture allow customers to swap models freely, reducing moat and pricing power for any single model provider. Models are increasingly viewed as commodities rather than defensible businesses.",
+          "Potential AI/datacenter overbuild bubble risk. CEO Satya cited the book '1873' (about the railroad bubble) on the earnings call to signal Microsoft is thinking deeply about overbuild scenarios. Management explicitly acknowledges 'there will be ups and downs in the cycle' and emphasizes the need for a diversified portfolio to weather corrections.",
+          "Hyperscaler capex ROI concerns are depressing valuations across the sector. The market is skeptical that massive AI capex buildout will generate adequate returns, as evidenced by negative reactions to capex guidance increases from Google and others. This creates execution risk for all hyperscalers regardless of individual merit.",
+          "Free cash flow deterioration is a sector-wide problem. Meta and Amazon are both projected to go FCF negative while investing heavily in capex, reducing financial flexibility and balance sheet strength. Only Microsoft is committing to remain FCF positive, making it a relative safety play in the hyperscaler group."
+        ],
+        "tickers_mentioned": [
+          "MSFT",
+          "GOOGL",
+          "META",
+          "AMZN"
+        ]
+      },
+      "price_at_recommendation": {
+        "GOOGL": 333.66,
+        "AMZN": 235.5,
+        "MSFT": 451.1,
+        "META": 539.03
+      }
+    },
+    "gP-R7mVdZCo": {
+      "channel": "Jose Najarro Stocks",
+      "title": "AI RALLY SAVED MY STOCK MARKET PORTFOLIO!!",
+      "upload_date": "20260731",
+      "url": "https://www.youtube.com/watch?v=gP-R7mVdZCo",
+      "processed_at": "2026-07-31T08:21:10.251484",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon",
+            "reason": "Amazon demonstrated extreme confidence in AI investments with no plan B, committing to heavy CapEx for the next several years. They increased CapEx by $20 billion for the calendar year and explicitly stated they lack capacity to meet all demand in 2026 and 2027, with strong demand signals already visible for 2028. Management guided that AWS could become a one-trillion dollar annual revenue business in time with appealing free cash flow and return on invested capital. Unlike Microsoft and Meta which mentioned contingency plans if AI demand slows, Amazon is in pure investment mode with full conviction, making it the preferred pick among cloud players for the AI cycle.",
+            "when_to_buy": "Dollar cost average approach; heavier buying if fear/extreme volatility returns",
+            "target_price": null,
+            "cautions": "Expect volatility and potential near-term pullbacks despite strong fundamentals; creator suggests against buying aggressively after a 27% single-day rally"
+          },
+          {
+            "ticker": "MSFT",
+            "company_name": "Microsoft",
+            "reason": "Microsoft reported strong earnings with Azure growing 43% year-over-year, representing accelerated growth compared to historical 39% levels. The company maintains free cash flow positive status despite heavy AI investments. While Microsoft showed some hesitation by not increasing 2026 calendar year CapEx guidance, they did indicate fiscal 2027 CapEx will grow. Azure's acceleration and strong compute demand justify continued bullishness, though slightly less conviction than Amazon due to the lack of proprietary AI chip customization and reliance on GPU purchasing.",
+            "when_to_buy": null,
+            "target_price": "$451 (recent level post-earnings, stock up 15.5%)",
+            "cautions": "Creator noted reduced bullishness compared to Amazon due to hesitation on CapEx acceleration. Microsoft lacks proprietary customized AI chips like Amazon and Google, limiting their ability to scale independently."
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms",
+            "reason": "Meta increased the bottom end of their CapEx guidance and emphasized that the industry has historically underbuilt for the AI adoption wave, making existing compute capacity extremely valuable. Management stated that supply chains need significant build-out to support anticipated AI capacity needs across the industry. This positions Meta favorably in a compute-constrained environment where whoever has compute now is sitting on valuable assets.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Meta's positioning is less aggressive than Amazon's; they mentioned optionality to sell compute if oversupplied, suggesting less absolute conviction in the scale of AI opportunity"
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Short-term volatility expected: After a massive single-day rally (some stocks up 27%), a near-term pullback or cool-off is likely. Do not chase after extreme daily gains.",
+          "Compute shortage will persist through 2027-2028: Four major cloud players (Amazon, Microsoft, Meta, Google) plus semiconductor companies (TSMC, Intel, AMD) have all confirmed ongoing compute constraints. This supports the bullish thesis but also indicates any weakness in demand signals could trigger significant corrections.",
+          "Not all CapEx growth is demand-driven: Bears argue near-term CapEx increases are due to memory price inflation rather than pure demand acceleration. While the creator believes long-term CapEx is demand-driven, acknowledge this debate exists.",
+          "Leverage risks in AI sector: Leopold's blow-up serves as a cautionary tale about over-leveraging in AI semiconductor positions. Even with bullish conviction, position sizing and leverage management are critical.",
+          "Valuation after strong rally: Stocks have rallied significantly but remain below some recent peaks (NVDA down 13% week-over-week despite individual rallies; Marvell down 10%). Creator advises against FOMO-driven buying and recommends dollar-cost averaging instead of lump-sum purchasing after rallies."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "NTNP",
+          "QCOM",
+          "MRVL",
+          "AMD",
+          "MU",
+          "AMZN",
+          "MSFT",
+          "META",
+          "GOOGL",
+          "TSM",
+          "INTC",
+          "CORE"
+        ]
+      },
+      "price_at_recommendation": {
+        "MSFT": 451.1,
+        "AMZN": 235.5,
+        "META": 539.03
+      }
+    },
+    "B5h11jyuBMM": {
+      "channel": "Jose Najarro Stocks",
+      "title": "AMAZON Q2 EARNINGS CALL LIVE (DON'T MESS IT UP)",
+      "upload_date": "20260730",
+      "url": "https://www.youtube.com/watch?v=B5h11jyuBMM",
+      "processed_at": "2026-07-31T08:21:47.218364",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon",
+            "reason": "Amazon delivered strong Q2 earnings with AWS revenue growth of 36.7% year-over-year, accelerating for the fifth consecutive quarter and representing the fastest growth in 18 quarters. Operating margins expanded significantly to 13.7% from 5% a year ago, demonstrating the company's ability to convert massive revenue into profitability. AWS revenue beat expectations at $42.2 billion versus street estimate of $40 billion. The company's AI business reached a $25 billion annual run rate growing triple digits year-over-year, and custom chips business also achieved $25 billion run rate with triple-digit growth. CEO Andy Jasse provided confidence on capex ROI, explaining that despite increasing capex to $220 billion in 2026, the company has clear line of sight to strong financial returns with data centers monetizing over 30+ years and servers breaking even in less than 3 years. Jasse stated AWS could become a trillion dollar annual revenue business in time. The stock demonstrated strength holding gains after the capex increase was announced, suggesting market acceptance of the investment thesis.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Free cash flow turned negative at -$7.6 billion versus street expectation of -$3.8 billion, indicating heavy cash burn from capex investments. Q3 guidance shows net sales deceleration to $197-202 billion range due to Prime Day timing shift. Capex spending is substantial and execution risk exists on achieving projected returns. Stock valuation already reflects strong growth expectations."
+          },
+          {
+            "ticker": "RDDT",
+            "company_name": "Reddit",
+            "reason": "Reddit delivered exceptional Q2 earnings with EPS beat of 30% ($1.25 versus $0.96 expected) and revenue beat of 10% ($804 million versus $731 million expected). EPS grew 178% year-over-year and revenue grew 61% year-over-year, demonstrating consistent ability to beat Wall Street expectations by double digits across multiple quarters. Daily active unique users grew 18% year-over-year to 130 million per day. The company is experiencing momentum from AI-driven monetization and data licensing opportunities. Gross margins remain above 90%, indicating pricing power. Despite near-term pullback in after-hours trading, the fundamental growth metrics and margin profile suggest the market reaction is temporary.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Stock initially pumped to $190 after-hours then dumped to $174, indicating volatile reception. Logged-in US quarterly average daily active users only grew 1% quarter-over-quarter, which is a concern since US users generate higher average revenue per user than international users. Data licensing deal specifics and sustainability were not addressed in earnings, which may be creating uncertainty. The stock has been stuck in a range despite strong growth metrics."
+          },
+          {
+            "ticker": "AAPL",
+            "company_name": "Apple",
+            "reason": "Apple delivered a blockbuster quarter with revenue beat of $109.42 billion versus $108.65 billion expected, up 16% year-over-year. iPhone revenues surged 22% year-over-year to $54.25 billion, marking the third consecutive quarter of 20%+ growth in this segment, with iPhone 17 family described as the most popular lineup in company history. China revenues grew 22% year-over-year to $18.8 billion for the third consecutive quarter of 20%+ growth, representing a major bright spot. The Mac segment delivered a blowout with $10.35 billion versus $8.74 billion expected. Services segment grew 12% year-over-year despite slight miss. Gross margin came in at 50.1% (excluding tariff benefits). The stock has already pumped significantly heading into earnings but the fundamental strength, particularly in iPhone and China, suggests continued momentum.",
+            "when_to_buy": null,
+            "target_price": "$327",
+            "cautions": "Stock was priced for perfection heading into earnings with significant run-up, and down 1.6% after reporting despite blockbuster results. Services revenue came in light at $30.74 billion versus $31.22 billion expected. The company lacks meaningful capex spend relative to peers like Amazon and Microsoft, which may limit long-term AI competitiveness. Stock struggles to move higher despite beating on every metric, suggesting valuation already reflects expectations. Single-digit growth rate despite strong momentum suggests maturity limitations."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "COIN",
+            "company_name": "Coinbase",
+            "reason": "Coinbase reported disappointing Q2 results with massive EPS miss of 224% ($-1.36 versus $-0.42 expected), indicating significant underperformance relative to expectations. Revenue missed by 5% at $1.2 billion versus $1.28 billion expected, with revenue declining 20% year-over-year. EPS declined 126% year-over-year. The fundamental business metrics deteriorated significantly with declining trading volumes and revenue headwinds. This is in sharp contrast to peers like Robinhood which beat on every metric with strong crypto revenue growth.",
+            "risk": "The combination of negative earnings surprise, declining year-over-year revenue, and deteriorating fundamental metrics suggests further downside risk. Street is clearly unhappy with the results and trading volumes appear to be the key driver of near-term pressure."
+          },
+          {
+            "ticker": "RBLX",
+            "company_name": "Roblox Corporation",
+            "reason": "Roblox reported mixed results with revenue miss of 8% at $1.47 billion versus $1.6 billion expected. While the company achieved profitability for the first time (EPS beat by 156%), daily active users missed by 5 million at 123 million versus 128 million expected. DAU miss is a critical red flag for a platform business where user growth is the primary driver of long-term value. The stock declined 10% after hours on this miss, indicating market concern about slowing user engagement.",
+            "risk": "User growth deceleration is problematic for a platform business. Despite profitability, the fundamental metric of user growth is deteriorating. Stock down 10% after hours suggests significant downside momentum."
+          }
+        ],
+        "key_warnings": [
+          "Leverage and over-leverage risk: The Leopold fund collapse (45 billion AUM) serves as a critical cautionary tale about leverage. With 4x leverage, a 25% market decline results in complete equity wipeout (from $35 billion to $5 billion equity). Prime brokers have authority to liquidate positions when equity dips below zero, creating forced selling in positions like semiconductors, photonics, and high-beta AI names. This cascading deleveraging impacted names like Coherent, Micron, and Sandisk which experienced 60%+ declines peak-to-trough. The message is clear: leverage amplifies both gains and losses, and forced liquidations can create multi-day selling pressure across correlated portfolios.",
+          "Semiconductor and high-beta AI names face significant volatility: Names like Sandisk, Micron, and photonics plays (AXTI) experienced 50-70% declines in a matter of weeks during the Leopold liquidation, then bounced 25-50% in subsequent days. This creates a false sense of recovery when the underlying demand dynamics remain uncertain. These highly volatile names should only be held with appropriate position sizing and risk management. AXTI is still down 30% on the month despite rallying 50% in one day.",
+          "Capex spending by hyperscalers may not drive proportional margin expansion: While Amazon increased capex to $220 billion (up from $200 billion estimate) and maintained AWS margins at 39.5%, Google increased capex and saw stock dump, and Meta increased capex and was hit by market. The relationship between capex and stock performance is not linear. Microsoft's flat capex guidance was well-received, but this may reflect timing and market sentiment rather than fundamental capital allocation wisdom. Companies should be cautious about assuming capex increases will be rewarded by the market.",
+          "Free cash flow deterioration during AI capex buildout phase: Amazon's free cash flow turned significantly negative at -$7.6 billion versus street expectation of -$3.8 billion. This is a meaningful deterioration and suggests the capex buildout is more aggressive than consensus expected. While management provided detailed ROIC justification, the near-term cash flow pain is real. Investors should monitor FCF trends closely and ensure capex investments are actually generating revenue traction (which they appear to be for AWS, but should be monitored).",
+          "China market risk and macro uncertainty: While Apple saw strong China growth (22% YoY) and Amazon indicated general demand strength, broader macro indicators suggest uncertainty. Foreign exchange headwinds cost Amazon 80 basis points of Q3 guidance. Global geopolitical tensions, potential recession concerns, and inflation remain backdrop risks. The market is pricing out rate hikes for 2024 (66% probability down from 78%), which may be optimistic.",
+          "Valuation and momentum risk at inflection points: Apple pumped 13% heading into earnings but is already down 2% after reporting blockbuster numbers, suggesting the stock was priced for perfection and lacks near-term upside. Amazon rallied 7% after-hours but this could reverse if the earnings call Q&A session reveals any concerns. High-growth stocks at inflection points are vulnerable to valuation compression even with excellent results."
+        ],
+        "tickers_mentioned": [
+          "AMZN",
+          "AAPL",
+          "RDDT",
+          "RBLX",
+          "MSFT",
+          "GOOGL",
+          "META",
+          "TSM",
+          "AMD",
+          "NVDA",
+          "SAND",
+          "INTC",
+          "MU",
+          "MPWR",
+          "COIN",
+          "RH",
+          "RIVI",
+          "AXTI",
+          "NXST",
+          "ORCL",
+          "MSTR",
+          "UBER",
+          "QQQ",
+          "SPY",
+          "SOXX",
+          "TLT",
+          "BTC",
+          "SMCI",
+          "DELL",
+          "UPS",
+          "ELF",
+          "CRWD",
+          "ALAB",
+          "MRVL",
+          "CREDO",
+          "NEBIUS",
+          "CORWEAVE",
+          "SK",
+          "SOFI",
+          "CXMT"
+        ]
+      },
+      "price_at_recommendation": {
+        "RDDT": 178.04,
+        "RBLX": 48.67,
+        "COIN": 163.58,
+        "AAPL": 333.43,
+        "AMZN": 235.5
+      }
+    },
+    "p-rxzvgUaTE": {
+      "channel": "FinTek",
+      "title": "Top 7 Stocks to BUY NOW (High Growth Stocks)",
+      "upload_date": "20260730",
+      "url": "https://www.youtube.com/watch?v=p-rxzvgUaTE",
+      "processed_at": "2026-07-31T08:22:27.645935",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "CEG",
+            "company_name": "Constellation Energy",
+            "reason": "Constellation Energy is the biggest nuclear power provider in the US and one of the biggest natural gas providers after acquiring Kalpine, positioning them to capitalize on increased energy spending for AI data centers. The company produces 88.6% clean energy, making them the largest carbon-free energy provider in the country, which is why major tech companies like Meta are signing 20-year multi-billion dollar deals with them. The company beat earnings estimates and is forecasting 20+ percent growth through 2029, with a PE ratio of 23.8 (in line with the S&P 500 despite growing much faster). Two key catalysts exist: strong future earnings growth relative to current price, and potential rerating driven by regulatory changes from the current administration facilitating nuclear deployment rather than just regulating it.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The biggest risk is timeline uncertainty - nuclear buildouts are hard to predict and investments may not pay off for 10-15 years. Energy demand will realistically come from multiple sources including natural gas and renewables, not just nuclear."
+          },
+          {
+            "ticker": "ORCL",
+            "company_name": "Oracle Corporation",
+            "reason": "Oracle's stock price has dropped over 50% in the past year to a PE ratio of 19.5, which is below the S&P 500 average despite the company being one of the biggest tech companies on the planet. The company saw revenue growth of 21% year-over-year with cloud revenue up 39%, and their remaining performance obligations grew $85 billion in just the most recent quarter. The company is currently trading at about 30% cheaper than other big tech peers, meaning even a reversion to mean valuation would represent a 30% price rise. The business fundamentals look healthy despite heavy data center investments for AI.",
+            "when_to_buy": null,
+            "target_price": "Potential 30% upside to peer valuation levels",
+            "cautions": "Oracle has a net gearing ratio of 247%, indicating high leverage and debt risk relative to shareholder equity. The company is at $130 billion in debt and lost $24 billion in free cash flow, creating bankruptcy risk if AI spending demand slows. Investors need to believe the company won't go bankrupt or issue dilutive shares, which is a significant risk given the leverage."
+          },
+          {
+            "ticker": "NEWM",
+            "company_name": "Nu Holdings (Nubank)",
+            "reason": "Nu is a Brazilian fintech super app that has grown dramatically, with 31.5 million customers (20% of Brazil's entire population) and is now the leading Brazilian financial institution. The company has grown net income at 84% compounded over the past 5 years, going from negative $45 million to $871 million in their most recent quarter. The company is expanding aggressively into Latin America where the unbanked population is massive - Mexico is 50% unbanked and Nu's Mexico operations grew from 2.1 million customers in 2022 to 15 million in 2026. In July 2026, their Mexico branch received authorization to operate as a full bank, not just a fintech, and has partnered with Amazon for custom checkout experiences. Despite all this exceptional growth, the stock is valued in line with other traditional fintech companies, not as the high-growth company it actually is.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The biggest risks are competition - multiple banking and fintech apps have emerged in Latin America - and country-specific risks including Brazil-based operations exposure to local economy conditions, exchange rates, and international politics. Company will likely never trade at the same valuation as equivalent US fintech stocks due to geographic risk. The creator owns 1,300 shares worth $20,000, up 50% from initial entry."
+          },
+          {
+            "ticker": "LEU",
+            "company_name": "Centrus Energy Corp",
+            "reason": "Centrus Energy specializes in nuclear fuel for small modular reactors (SMRs), specifically HALEU (high assay low-enriched uranium), and currently has a borderline monopoly as the only US-based company capable of producing this fuel. The company recently signed a $900 million contract with the Department of Energy that could be valued at over $1 billion in total. The US administration is investing $2.7 billion in restoring uranium enrichment domestically to reduce reliance on Russian imports (currently 73% of US uranium is imported). SMRs solve timeline problems that larger nuclear plants face by being deployable much more quickly for AI data center power needs. The company was recently invited to join the S&P Small Cap 600 index, and after recent sell-offs the stock offers better value than it has historically despite improving earnings.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "This is a niche within a niche investment - the company operates in a relatively small market (SMR fuel). Currently a $3.5 billion market cap company with only $76 million in revenue and about $2 billion in cash, so the stock price is almost entirely dependent on future execution and contract wins. The company is listed as slightly overvalued and is not recommended as a core holding, but rather as a watch list addition or moonshot bet."
+          },
+          {
+            "ticker": "CRWD",
+            "company_name": "CrowdStrike Holdings",
+            "reason": "CrowdStrike is a leader in unified cloud-native cybersecurity and has been the leader in the Gartner Magic Quadrant for endpoint protection for seven consecutive years. The company has risen 184% over the past 5 years and is well-positioned to benefit from AI-driven cybersecurity threats - AI tools are creating new vulnerabilities (as shown by Anthropic's AI revealing security flaws in major companies) while also being used unsafely by employees, driving increased cybersecurity spending. The company's annual recurring revenue hit $5.5 billion (up 24% YoY) with operating income growing even faster at 62% YoY, showing both customer acquisition and revenue expansion per customer. Both PaloAlto and CrowdStrike had their best quarters ever, and the CrowdStrike CEO called out that AI security threats will be an even bigger tailwind in coming quarters. The company has strong financial health metrics (good F-score and Zcore indicating low bankruptcy risk).",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The company is currently listed as 35% overvalued by investing.com. While much of this premium is justified by the company's growth rate being significantly faster than the rest of the industry, valuation remains the primary risk and investors should be aware they are paying a premium."
+          },
+          {
+            "ticker": "VSAX",
+            "company_name": "Vanguard Small Cap Value Index Fund",
+            "reason": "This ETF provides exposure to small cap US value stocks that appear temporarily undervalued. It has returned 16.4% year-to-date and offers diversification away from the mega-cap tech stocks that currently dominate the S&P 500. Historically, small and mid-cap stocks have outperformed large caps - from 1989-2024, mid-caps returned $3,000 on $100 invested versus $1,700 for large caps, though with higher volatility. However, this risk/reward dynamic has changed: large cap valuations are now at historically high levels (as high as after the dot-com bubble) while volatility has actually reversed, with large caps now more volatile than small caps. The market value concentration in large caps is at its highest since the dot-com era due to mega-cap companies going public at trillion-dollar valuations rather than growing over time.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Small cap investing is more aggressive and risky long-term due to inherent volatility of smaller companies. This should not be a core holding like an S&P 500 index fund, but rather a diversification satellite position to reduce concentration in mega-cap tech stocks."
+          },
+          {
+            "ticker": "NLR",
+            "company_name": "Vaneck Nuclear Energy ETF",
+            "reason": "This ETF tracks the MVIS Global Uranium and Nuclear Energy Index and provides broad exposure to nuclear energy without betting on a single company. It has had fairly strong returns and is a way to play the long-term growth of nuclear power across multiple companies. The ETF has about 50% US allocation with the rest spread internationally, providing geographic diversification in the nuclear space.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "This is a risky, non-core holding with an expense ratio of 0.5% (much higher than typical Vanguard index funds). The top holding is Constellation Energy at nearly 10% of assets, so buying this ETF along with individual CEG shares would create overconcentration. This is a targeted bet on nuclear energy's future that may not pay off for 10-15 years and should not be treated as a core portfolio holding."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "The market is experiencing significant rotation out of highly valued AI/chip stocks into cheaper sectors. While chip companies like AMD and others continue growing, growth rates have slowed from their peaks despite being historically strong.",
+          "Mega-cap tech stocks are at historically high valuations and concentration levels in the S&P 500 - currently as concentrated as during the dot-com bubble period. Large cap stocks are now more volatile than small caps while trading at premium valuations, making the traditional risk/reward calculus inverted.",
+          "Energy demand is a critical bottleneck for AI growth - data centers require massive power in small spaces, and it's unclear whether renewable sources (wind, solar) alone can meet this demand, creating strategic importance for nuclear and natural gas providers.",
+          "Technology company capital expenditures in 2025 reached nearly 2% of entire US GDP - comparable to total infrastructure spending for the entire 20th century happening in a single year. This creates massive financial risk if AI spending demand suddenly slows or fails to materialize as expected.",
+          "Many stocks in the nuclear and uranium sectors experienced massive 2025 sell-offs despite improving earnings, suggesting investor sentiment shifts rapidly. Recovery depends heavily on continued federal support and successful execution by companies.",
+          "AI threatens cybersecurity in multiple ways - AI tools are being used to discover new vulnerabilities, and employees are using AI unsafely, creating new breach risks that are driving cybersecurity spending but also suggesting rapidly evolving threat landscape."
+        ],
+        "tickers_mentioned": [
+          "AMD",
+          "PLTR",
+          "CEG",
+          "NLR",
+          "ORCL",
+          "VSAX",
+          "NEWM",
+          "LEU",
+          "CRWD",
+          "SNAP"
+        ]
+      },
+      "price_at_recommendation": {
+        "CRWD": 185.22,
+        "LEU": 176.75,
+        "CEG": 263.56,
+        "ORCL": 127.56,
+        "NLR": 108.36
+      }
     }
   },
   "channel_ids": {

@@ -13663,6 +13663,159 @@
         "AAPL": 300.67,
         "AMZN": 268.23
       }
+    },
+    "AEClm2Inh-M": {
+      "channel": "Ticker Symbol: YOU",
+      "title": "The Only AI Stocks I'm Buying (Before It's Too Late)",
+      "upload_date": "20260731",
+      "url": "https://www.youtube.com/watch?v=AEClm2Inh-M",
+      "processed_at": "2026-08-01T02:20:59.580983",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "SK Hynix",
+            "company_name": "SK Hynix Inc.",
+            "reason": "SK Hynix stock is down 25% on NASDAQ and 50% on Korea exchange over the last month, but the creator believes this is an oversold opportunity. The company has long-term contracts (3-5 years) with fixed prices that protect it from falling memory prices caused by potential Chinese competition. Memory prices have actually risen 30% for DRAM and 50% for NAND flash quarter-over-quarter, meaning SK Hynix locked in contracts before these price increases occurred. The market is pricing in risk from Chinese DUV lithography competition years too early, while the company is hitting major milestones and has pricing protection from long-term contracts.",
+            "when_to_buy": "dollar cost average into positions; creator keeps money on side in case prices go lower",
+            "target_price": null,
+            "cautions": "China may eventually compete in memory production using homegrown DUV lithography machines, though this is still years away at scale. Stock is volatile with 10-20% daily swings. Creator notes this is early-stage quantum-like investment with bumpy near-term price action."
+          },
+          {
+            "ticker": "MU",
+            "company_name": "Micron Technology Inc.",
+            "reason": "Micron is down 35% over the last month and 25% in the last week, but creator views this as oversold. The company has 16 strategic customer agreements representing over $100 billion in minimum contract value, covering roughly 20% of DRAM and a third of NAND flash volume. These contracts protect Micron from falling prices due to potential Chinese competition. The market is pricing in memory supply competition years too early, while Micron has contractual protections and is executing on major customer agreements.",
+            "when_to_buy": "dollar cost average into positions; creator keeps money on side in case prices go lower",
+            "target_price": null,
+            "cautions": "Potential Chinese DUV lithography competition could eventually increase memory supply, though this is still years away at scale. Current drawdown is severe, and creator acknowledges timing near the bottom is difficult."
+          },
+          {
+            "ticker": "SNDK",
+            "company_name": "SanDisk (Kioxia Holdings)",
+            "reason": "SanDisk stock has been cut in half over the last 30 days, but creator believes this is an overreaction. The company disclosed roughly $42 billion in minimum contract value signed last quarter, covering over a third of memory by bits expected to be made this fiscal year. These long-term contracts protect SanDisk from falling memory prices caused by potential Chinese competition. The market is pricing in risk years too early while SanDisk has significant contractual protections securing revenue.",
+            "when_to_buy": "dollar cost average into positions; creator keeps money on side in case prices go lower",
+            "target_price": null,
+            "cautions": "Stock has already fallen 50% in one month, indicating severe market pessimism. Potential Chinese competition in memory is a long-term risk, though still years away at competitive scale."
+          },
+          {
+            "ticker": "COREWEAVE",
+            "company_name": "CoreWeave Inc.",
+            "reason": "CoreWeave is down over 35% this month despite strong fundamentals. Creator believes the selloff is based on misplaced fear that Meta will compete away the neocloudcompute business. However, Meta just reported that they are using all their AI servers internally with no excess compute to rent out, making Meta a net buyer of neocloudcompute through $35 billion in committed contracts with CoreWeave. CoreWeave's business model of renting GPU capacity is still sound because Meta needs their services rather than competing with them.",
+            "when_to_buy": "as prices continue to fall; creator is buying on the dip",
+            "target_price": null,
+            "cautions": "Neocloudcompanies carry upfront infrastructure risk and capital intensity. Meta competition remains a theoretical long-term risk, though current reporting shows Meta will be a buyer not seller."
+          },
+          {
+            "ticker": "IRON",
+            "company_name": "Lambda Labs (Iron)",
+            "reason": "Iron is down over 35% on fears that Meta will cannibalize the neocloudcompute market. However, creator notes that Iron signed $2.8 billion in new multi-year AI cloud contracts after the Meta report came out and raised their year-end revenue run rate target. This demonstrates that enterprise demand for neocloudcompute is strong and Meta's cloud business is not happening soon. Creator emphasizes that Meta is actually a net buyer of neocloudcompute, not a competitor.",
+            "when_to_buy": "as prices continue to fall; creator is buying as stock declines",
+            "target_price": null,
+            "cautions": "Neocloudcompanies carry significant upfront capital requirements and infrastructure risk. Must execute on securing power, building data centers, and achieving utilization targets."
+          },
+          {
+            "ticker": "NBIS",
+            "company_name": "Nebius AI",
+            "reason": "Nebius is down over 40%, marking some of the sharpest declines the company has ever seen, but creator believes this is oversold. The company signed a $1+ billion contract with Reflection AI through 2029 for Nvidia GB300 Blackwell Ultra chips after the Meta report spooked the market. Creator notes that Nvidia owns 22 million shares (9.3%) of Nebius, signaling that Nvidia believes in neoclouds as an investment category. Nebius had revenue growth of 453% and Meta has $27 billion in committed additional contracts with them, making Meta a net buyer not seller.",
+            "when_to_buy": "especially as prices continue to fall; creator is buying the dip",
+            "target_price": null,
+            "cautions": "Neocloudcompanies carry significant upfront infrastructure capital requirements and execution risk. Competition from Meta remains a theoretical longer-term risk despite near-term evidence of demand."
+          },
+          {
+            "ticker": "IONQ",
+            "company_name": "IonQ Inc.",
+            "reason": "IonQ is down 30-40% over the last few weeks despite major developments completely unrelated to the Korea semiconductor selloff. The company cleared the final regulatory hurdle to acquire Skywater Technology, an American semiconductor foundry, to secure a fully domestic supply chain and accelerate its quantum roadmap. The deal was expected to close as the video was published. IonQ had triple-digit revenue growth (335%) and is making significant strategic progress while its stock crashed.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Quantum computing is an early-stage, highly volatile market with spiky revenue patterns due to system sales rather than recurring revenue. Stock experienced 30-40% decline with little fundamental reason, suggesting high volatility ahead."
+          },
+          {
+            "ticker": "DWVP",
+            "company_name": "D-Wave Systems Inc.",
+            "reason": "D-Wave is down 30-40% with no news or earnings misses, but creator views this as oversold. On July 27th, AT&T signed an agreement to expand use of D-Wave's quantum systems for network outage detection, technician routing, network traffic management, and build planning. In one early application, AT&T cut a network optimization workload from one hour down to under 15 seconds\u2014a 240x speedup. This demonstrates practical commercial applications and validates D-Wave's quantum technology while the stock is depressed.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Quantum computing is highly experimental and volatile. Early applications are limited. Stock showed no fundamental deterioration before the selloff, suggesting panic selling."
+          },
+          {
+            "ticker": "RGTI",
+            "company_name": "Rigetti Computing Inc.",
+            "reason": "Rigetti is down 30-40% despite announcing major milestones. The company expanded its collaboration with HPE to build a hybrid quantum-classical test bed at the Pittsburgh Supercomputing Center with construction starting September 1st. Creator notes that while trailing 12-month revenue is down 34% year-over-year, the most recent quarter was actually up 199% driven by on-premises system sales and government contracts. Early-stage quantum revenue is inherently spiky due to individual system sales rather than recurring revenue, so quarterly declines can mask strong underlying momentum.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Quantum computing revenue is highly volatile quarter-to-quarter due to large system sales and research awards. Long-term investment will be bumpy. Must tolerate significant near-term price swings."
+          },
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Creator references Nvidia as one of the great stocks they profited from over 10 years but does not explicitly recommend buying it in this video. However, creator notes that Nvidia filed an SEC disclosure showing ownership of over 22 million shares of Nebius (9.3% stake), demonstrating that Nvidia is betting on neoclouds as an investment category and validating the creator's thesis on those companies.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Not explicitly recommended to buy in this video. Mentioned as historical winner and as validator of neocloudcompute thesis through Nebius stake."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "AI stocks have lost over $1 trillion in combined value in the last two weeks. South Korea's Kospi index fell so hard it triggered market-wide circuit breakers at least 8 times this year. This indicates widespread panic selling disconnected from fundamental company performance.",
+          "Market is pricing in long-term competitive risks from Chinese DUV lithography machines years too early. China still needs to recreate entire production processes with high yields, not just one machine. This is years away from competitive scale, yet memory stocks (SK Hynix, Micron, SanDisk) have crashed 30-55% in one month despite contractual protections.",
+          "Meta compute competition fears are overblown. Market misread Meta earnings call\u2014Mark Zuckerberg explicitly stated Meta will NOT rent excess capacity but instead use all servers internally to sell finished AI services. Meta is a net buyer of neocloudcompute ($35B+ committed), not a seller, yet neocloudstocks (CoreWeave, Iron, Nebius) crashed 35-40% on the false premise.",
+          "Quantum computing stocks (IonQ, D-Wave, Rigetti) crashed 30-40% with zero connection to Korean memory crisis and zero negative news. All three companies announced major milestones during the selloff, indicating panic selling unrelated to fundamentals. Early-stage quantum revenue is inherently spiky quarter-to-quarter, so near-term price volatility will continue.",
+          "Timing the bottom is difficult. Stock prices are experiencing 10-20% daily swings with rallies that feel like reversals but are followed by new lows. Creator recommends dollar-cost averaging and keeping cash reserves rather than trying to catch the exact bottom."
+        ],
+        "tickers_mentioned": [
+          "SK Hynix",
+          "SNDK",
+          "MU",
+          "NVDA",
+          "TSMC",
+          "ASML",
+          "META",
+          "COREWEAVE",
+          "IONQ",
+          "DWVP",
+          "RGTI",
+          "IRON",
+          "NBIS"
+        ]
+      },
+      "price_at_recommendation": {
+        "IRON": 77.0,
+        "MU": 823.03,
+        "NVDA": 200.75,
+        "NBIS": 190.41,
+        "IONQ": 36.44,
+        "SNDK": 1214.83
+      }
+    },
+    "Seu2cC5jbuo": {
+      "channel": "Daniel Pronk",
+      "title": "Why I'm Buying More Amazon - Full Earnings Analysis",
+      "upload_date": "20260731",
+      "url": "https://www.youtube.com/watch?v=Seu2cC5jbuo",
+      "processed_at": "2026-08-01T08:42:50.567267",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon.com, Inc.",
+            "reason": "Daniel Pronk believes Amazon is undervalued despite being near all-time highs. The company has multiple accelerating growth drivers: AWS is at a $169 billion annualized revenue run rate (would rank 24th on Fortune 500 standalone), growing 27.5% in trailing twelve months with significant acceleration. AWS's AI and chips businesses each exceed $25 billion annual run rates, both growing triple-digit percentages year-over-year. The advertising business is accelerating to 26% growth on an $80 billion run rate. Amazon's capex investments are generating estimated 20-28% annual returns with clear visibility to ROI: servers break even in under 3 years with 5-6 year useful lives, and most AI capacity is contracted for 5-year terms. Operating cash flow grew 40% year-over-year to $161.4 billion in trailing twelve months, while gross margins hit an all-time high of 50.8% and operating margins reached 12.1%. The Remaining Performance Obligations (RPOs) exploded from $200 billion to $496 billion (2.5x increase), indicating strong future revenue backlog. All major business segments are accelerating simultaneously while headcount grew only 3% year-over-year, demonstrating significant operational leverage. The analyst uses a conservative DCF assuming 20% annual operating cash flow growth (vs. current 40% growth) and 20x price-to-operating cash flow valuation (vs. 25.3 historical median), yet still arrives at 22% compounded annual return and $500 price target by end of 2028.",
+            "when_to_buy": "Analyst states he is actively buying despite stock near all-time highs; no specific entry point mentioned as he believes it remains undervalued at current levels",
+            "target_price": "$500 by end of 2028; Fair value $371",
+            "cautions": "Amazon is currently producing negative $7.6 billion in trailing twelve month free cash flow due to massive $173 billion annual capex spend, though analyst is not concerned given high ROI expectations. The company has raised $82 billion in debt in trailing twelve months to fund capex. Returns on capex depend on achieving the stated 20-28% returns and extending useful life of equipment beyond standard timelines. AWS growth rate acceleration needs to continue at current pace for valuation thesis to hold."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Amazon's massive capex program ($200 billion planned for 2026) creates execution risk: if customer demand for AI/cloud capacity does not materialize as expected, or if AWS cannot achieve break-even timelines under 3 years and extend equipment useful life to 5-6 years, free cash flow generation will be significantly impaired. The valuation thesis depends entirely on high ROI assumptions that have not yet been fully realized in cash generation."
+        ],
+        "tickers_mentioned": [
+          "AMZN",
+          "MELI",
+          "GOOGL"
+        ]
+      },
+      "price_at_recommendation": {
+        "AMZN": 271.58
+      }
     }
   },
   "channel_ids": {

@@ -13816,6 +13816,411 @@
       "price_at_recommendation": {
         "AMZN": 271.58
       }
+    },
+    "MSfaIeQ0eq8": {
+      "channel": "CouchInvestor",
+      "title": "I Just Bought $5,200 of These 3 Stocks. Here's Why",
+      "upload_date": "20260802",
+      "url": "https://www.youtube.com/watch?v=MSfaIeQ0eq8",
+      "processed_at": "2026-08-03T09:39:44.038133",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "SOFI",
+            "company_name": "SoFi Technologies Inc.",
+            "reason": "The creator increased their SoFi position by 3.2% (100 additional shares) because it is a triple-B rated company that is extremely undervalued. Despite worse assumptions for the year, the company raised guidance, demonstrating excellent execution and operational efficiency. The company is doing what it should be doing and represents significant value.",
+            "when_to_buy": "Buy dips; creator bought at market prices during the week",
+            "target_price": "Needs to go back above $17 and challenge $18 per share for momentum confirmation",
+            "cautions": null
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms Inc.",
+            "reason": "The creator increased their Meta position by 6.2% (3 additional shares) because Meta is a severely misunderstood company. The core business is doing extremely well with ads up and ad impression pricing up. AI investments are already translating into better results. Meta agents for WhatsApp Business have launched and are already gaining traction with approximately 1 million users. The creator expects Meta to announce short-term AI compute deals and monetize AI services through WhatsApp Business, Messenger, and Instagram toward 2026-2027, which should drive significant upside. The business is winning despite negative sentiment around the stock.",
+            "when_to_buy": "Buy dips; creator accumulated additional shares during the week",
+            "target_price": null,
+            "cautions": "Market sentiment is currently negative despite strong business fundamentals. Stock sentiment is likely to remain under pressure until the market recognizes the value of Meta's AI monetization strategy. Stock is currently at similar prices to March lows, indicating weak forward momentum."
+          },
+          {
+            "ticker": "RDDT",
+            "company_name": "Reddit Inc.",
+            "reason": "The creator bought more Reddit despite being down 16% at $148 per share, believing it is undervalued. Reddit is a $27 billion company with a trailing PE of 32.7x and forward PE of 23.7x with excellent margins and a PEG ratio under 1. Analyst expectations call for 52.8% growth this fiscal year, 30% next year, and 24-25% in fiscal 2028. The issue is not monetization\u2014Reddit is doing an excellent job monetizing current users\u2014but user base growth. The creator believes Reddit's valuable data should command better licensing deals with Google, OpenAI, and Anthropic. The stock dropped on concerns that Google AI Overviews will reduce Reddit traffic, but this creates an opportunity for Reddit to renegotiate better data licensing agreements.",
+            "when_to_buy": "Creator bought at $148, though timing was poor as stock dropped further to $140; implied support at $145-146",
+            "target_price": null,
+            "cautions": "Primary risk is whether Reddit can grow its logged-in user base, particularly in the US where growth is barely year-over-year. The core concern is data licensing threat from Google AI Overviews reducing organic traffic. User growth must accelerate to justify current valuations. Position size is modest at 2.3% of portfolio to manage risk."
+          },
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices Inc.",
+            "reason": "The creator expects AMD to absolutely crush its upcoming earnings report on Tuesday after hours. AMD is expected to report $11.3 billion in revenue representing 52% year-over-year growth with acceleration expected to 42.8%, 62%, 69.8%, and 64% in subsequent quarters. The growth driver is the MI 500 series GPU line and acceleration in server CPU business. AMD has a trailing PE of 154x and forward PE of 53.4x but a favorable PEG ratio of 1.3, suggesting the valuation is reasonable for expected growth. The creator is not concerned about the near-term results but rather commentary on 2026-2027 guidance.",
+            "when_to_buy": "Earnings report Tuesday; creator notes stock is down 17.7% after being up 113% year-to-date, suggesting potential entry on weakness",
+            "target_price": "Stock dropped below $500; creator would have added more at those levels",
+            "cautions": "Stock has run significantly year-to-date (up 113%) and is now in a modest drawdown. Forward guidance commentary for 2026-2027 will be critical; stock sentiment is likely pricing in much of the good news. This is a $776 billion company with extremely high forward valuations on analyst estimates."
+          },
+          {
+            "ticker": "PALANTIR",
+            "company_name": "Palantir Technologies Inc.",
+            "reason": "The creator predicts Palantir will absolutely crush earnings on Monday after hours with no doubt. The stock is down quite significantly, meaning it is not going into the earnings report with a price-to-perfection dynamic, which provides downside protection.",
+            "when_to_buy": "Earnings Monday after hours; stock is down substantially providing a favorable risk/reward",
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "REDDIT",
+            "company_name": "Reddit Inc.",
+            "reason": "While the creator did buy Reddit, they also acknowledge significant bear thesis risks. The primary concern is that Google AI Overviews are already taking traffic from Reddit, which threatens user growth. If Reddit cannot negotiate better data licensing deals with Google, OpenAI, and Anthropic, the reduced traffic will hurt the user base growth on which valuation depends. The US market growth is barely positive year-over-year, and while rest-of-world is growing, ARPU (average revenue per user) is much lower internationally.",
+            "risk": "If Google AI Overviews continue reducing traffic and Reddit fails to secure premium data licensing deals, user growth could deteriorate significantly, potentially driving the stock toward the low $1,600s or lower."
+          }
+        ],
+        "key_warnings": [
+          "Leverage and margin debt are extremely dangerous in concentrated portfolios. The Leopold fund case study shows that 3-4x leverage can completely wipe out positions during rapid market corrections in volatile growth stocks. The Leopold fund was up 1,000% since inception and 270% year-to-date in May, but lost 67% in July when semiconductor names dropped 30-60% in weeks due to Kimi K3 and Chinese DUV machine news. Do not use excessive leverage.",
+          "Using weekly options on earnings reports or making leveraged bets on single events is gambling, not investing, regardless of research hours spent. Stock performance on earnings announcements is unpredictable and can move down even on good earnings. The Chris Camillo Amazon options bet and the Leopold fund liquidation demonstrate this risk. Macro events, geopolitical issues, and tweets can negate all research.",
+          "Good earnings reports do not guarantee positive stock movement. Google, SoFi, Meta, and Reddit all reported excellent quarters but experienced stock declines or sideways movement. Stock sentiment and price momentum matter more in the short term than fundamental business quality.",
+          "AI infrastructure capital expenditure ($1.4 trillion cumulative through 2028 for 120 gigawatts) carries significant ROIC uncertainty. Token pricing per million tokens is the key unknown\u2014if pricing drops materially, the profitability thesis for model API businesses deteriorates significantly. The three frameworks (GPU leasing at 31% ROIC, proprietary model API at 46% ROIC, third-party model API at 25% ROIC) assume token pricing holds at $1-2.50 per million tokens. If pricing compresses to $1 or below per million tokens, base case becomes bear case.",
+          "Sentiment can suppress quality businesses for extended periods. Meta and Reddit are high-quality businesses with strong fundamentals, yet market sentiment remains negative. This creates opportunity but also requires patience and conviction."
+        ],
+        "tickers_mentioned": [
+          "GOOGL",
+          "RKLB",
+          "SOFI",
+          "AMZN",
+          "META",
+          "NFLX",
+          "NBIS",
+          "RDDT",
+          "AXON",
+          "MELI",
+          "UBER",
+          "CRSR",
+          "PYPL",
+          "AMD",
+          "PLTR",
+          "GRAB",
+          "SNAP",
+          "SNOW",
+          "ARISTA",
+          "AST",
+          "ZTA",
+          "OPDR",
+          "BKNG",
+          "LILY",
+          "SHOP",
+          "DIS",
+          "U",
+          "NVO",
+          "SNDK",
+          "WDC",
+          "APPN",
+          "ELF",
+          "COAL",
+          "DDOG",
+          "CELH",
+          "DKNG",
+          "ABG",
+          "RGTI",
+          "TTD",
+          "COP",
+          "QCOM",
+          "SMCI",
+          "COWR",
+          "NTAP",
+          "BE",
+          "SKX",
+          "MICRON",
+          "SANDISK",
+          "CORE_WEAVE",
+          "NEPTUS",
+          "BLOOM_ENERGY",
+          "NUBANK",
+          "DLOCAL",
+          "RUBRIK",
+          "SHIFT4",
+          "ROBINHOOD",
+          "NVDA",
+          "INTEL",
+          "ANTHROPIC",
+          "OPENAI"
+        ]
+      },
+      "price_at_recommendation": {
+        "RDDT": 140.67,
+        "SOFI": 16.31,
+        "AMD": 476.15,
+        "META": 556.71
+      }
+    },
+    "MqU4-gEdi-s": {
+      "channel": "The Traveling Trader",
+      "title": "Is the AI Trade BACK?! The next move will shock investors",
+      "upload_date": "20260802",
+      "url": "https://www.youtube.com/watch?v=MqU4-gEdi-s",
+      "processed_at": "2026-08-03T09:40:43.189071",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "SMH",
+            "company_name": "Semiconductor ETF",
+            "reason": "Chip stocks hit an official bear market down 25% from highs. The creator identified that historically, when SMH rejects the 50-day moving average and closes below it significantly, it visits the 100-day moving average, which occurred. The creator bought SMH as part of an asymmetric bet, stating that buying a bear market in mega-cap chips is asymmetric regardless of whether it's the bottom. The creator makes a habit of buying indices and sector ETFs when they are down significantly, viewing this as an asymmetric opportunity where the risk-reward is skewed in their favor.",
+            "when_to_buy": "At bear market levels (down 25% from highs). Creator also dollar cost averaged in the chips bear market.",
+            "target_price": null,
+            "cautions": "The creator notes that these broken charts will take time to recover and confirmation is needed before swing trading. These stocks did not become better businesses overnight; the bounce was due to forced selling pressure being over, hitting a local bottom."
+          },
+          {
+            "ticker": "QQQ",
+            "company_name": "Invesco QQQ Trust (Nasdaq-100 ETF)",
+            "reason": "QQQ hit an official correction of 11.5% from top to bottom. The creator makes a habit of buying indices every time they drop 10%, viewing this as an asymmetric bet. The creator states that historically, you have never lost money buying an index when it's down 10%. The creator bought QQQ during this correction.",
+            "when_to_buy": "At minus 10% from highs, which QQQ achieved with an 11.5% decline",
+            "target_price": null,
+            "cautions": "The Nasdaq is still down about 8% from all-time highs and broken charts need time and confirmation. The creator is not swing trading long at this time and waiting for confirmation from the charts."
+          },
+          {
+            "ticker": "SOXX",
+            "company_name": "Invesco Semiconductor ETF",
+            "reason": "Semiconductor stocks are in a bear market down 25% from highs, presenting an asymmetric opportunity. The creator recommends SOXX as an alternative to the leveraged SOXL or the lower-priced SOXQ, tracking the same semiconductor index.",
+            "when_to_buy": "During bear market conditions in semiconductors",
+            "target_price": null,
+            "cautions": "Charts have extreme distribution patterns and will take quite a while to break out and recover. Not ready to swing trade yet; confirmation needed."
+          },
+          {
+            "ticker": "SOXQ",
+            "company_name": "Invesco Semiconductor ETF",
+            "reason": "The creator recommends SOXQ as a good middle ground ETF for those who don't want the triple leverage of SOXL but want exposure to the semiconductor sector without a leverage strategy. It's a smaller, lower-priced version that tracks the same sector as SOXX and SMH.",
+            "when_to_buy": "During semiconductor bear market conditions",
+            "target_price": null,
+            "cautions": "Like the broader semiconductor sector, SOXQ requires time for broken charts to recover and confirmation before aggressively trading."
+          },
+          {
+            "ticker": "AVGO",
+            "company_name": "Broadcom Corporation",
+            "reason": "Broadcom holds a near monopoly in AI custom accelerators and high-speed networking. From a fundamental perspective, Broadcom has a 10-year CAGR of 25%, almost 20% return on invested capital, and is trading at a 20 forward PE. The creator favors monopolies or near-monopolies and sees this as an asymmetric opportunity at current levels.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The stock has an extreme distribution pattern that will take quite a while to break out of. The creator wants to see a breakout and confirmation on these types of stocks before aggressively buying."
+          },
+          {
+            "ticker": "INTC",
+            "company_name": "Intel Corporation",
+            "reason": "Intel has government backing to become the TSM (Taiwan Semiconductor Manufacturing Company) of the US. The creator views this as a long-term bullish bet, noting that if TSM is a monopoly and there's nothing like that in the US or outside of Taiwan, then the government initiative to push Intel toward that role is worth backing from an investment perspective. The government backing and strategic importance make this an asymmetric opportunity.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "This process will take a long time to build out. The stock has distribution patterns requiring time and confirmation before entry."
+          },
+          {
+            "ticker": "ARM",
+            "company_name": "ARM Holdings",
+            "reason": "ARM has a near monopoly in phone chip design. The company has a gross profit margin of 97% (because they only design and don't manufacture), highest cash from operations ever, highest free cash flows ever, and barely any debt. The stock is currently down 50% from highs, presenting an asymmetric opportunity. The creator likes monopolies and near-monopolies, and ARM's cash generation and low debt make it attractive.",
+            "when_to_buy": "At current depressed levels (down 50% from highs)",
+            "target_price": null,
+            "cautions": "The stock has an extreme distribution pattern that will take quite a while to recover. The creator wants to see a breakout and confirmation before aggressively trading."
+          },
+          {
+            "ticker": "ASML",
+            "company_name": "ASML Holding N.V.",
+            "reason": "ASML is one of two monopolies the creator is already invested in. The company provided a nice 23% discount from highs. ASML is a critical supplier in the AI buildout infrastructure and its fundamental metrics (revenue, EBITDA, gross profit, net income, cash from operations, free cash flow, earnings per share) are very strong.",
+            "when_to_buy": "At the 23% discount from highs mentioned in the video",
+            "target_price": null,
+            "cautions": "Like other stocks in the AI space, ASML has been impacted by the recent market correction and may require time for recovery."
+          },
+          {
+            "ticker": "TSM",
+            "company_name": "Taiwan Semiconductor Manufacturing Company",
+            "reason": "TSM is one of two monopolies the creator is already invested in. The company's revenue, EBITDA, gross profit, net income, cash from operations, free cash flow, and earnings per share are all very strong. TSM is the world's leading chip manufacturer and essential to the AI buildout. The creator sees it as a monopoly position worth holding long-term.",
+            "when_to_buy": "At current levels (similar discount to highs as ASML mentioned)",
+            "target_price": null,
+            "cautions": "TSM, like other semiconductor stocks, has been impacted by recent market volatility and may require time for recovery."
+          },
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "The creator states that Nvidia needs no introduction, indicating it's a core holding. Nvidia is central to the AI buildout and is held by major hyperscalers (Microsoft, Meta, Amazon, Google). It's an essential component of any AI infrastructure play and benefits from the demand for compute that the creator describes as being unable to be satisfied by hyperscalers.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Nvidia's chart and position require confirmation before the creator begins swing trading again. The creator is waiting for broken charts to recover."
+          },
+          {
+            "ticker": "NEBIUS",
+            "company_name": "Nebius N.V.",
+            "reason": "Nebius is a data center play where the backlog ($50 billion) is nearly equal to its market cap ($45 billion). This means the company has future revenue essentially equal to its current valuation. Nebius has deals with Microsoft, Meta, and Nvidia, providing visibility into demand. The creator describes this as an asymmetric opportunity in the AI buildout where compute demand vastly exceeds supply.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "These stocks are going to be volatile both on the way up and on the way down. The creator views them as higher-risk/higher-reward plays where the backlog creates upside potential but volatility is a feature."
+          },
+          {
+            "ticker": "CWEB",
+            "company_name": "CoreWeave Inc.",
+            "reason": "CoreWeave is a data center play where the backlog ($100 billion) far exceeds its current market cap ($39 billion), making it an extreme asymmetric opportunity. CoreWeave has deals with major hyperscalers (Microsoft, Meta, Nvidia). The creator explicitly states regarding CoreWeave: 'yes, I do think that this is an opportunity here.' The massive backlog relative to market cap creates significant upside potential.",
+            "when_to_buy": "At current levels; the creator views it as hitting a major support/demand level",
+            "target_price": null,
+            "cautions": "CoreWeave shows a big distribution pattern and will require some time to break out. These stocks are volatile both on the way up and down. The creator is not ready to swing trade yet and wants confirmation."
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms Inc.",
+            "reason": "Meta crashed 8% after earnings due to raising CapEx and almost going negative on free cash flows. However, the creator argues this is an opportunity for long-term investors. Meta lacks a cloud business like Microsoft and Amazon, but the creator believes once Meta stops massive spending or shows spending is in line with expectations, the stock will be rewarded heavily. Google has recovered nicely from its post-earnings drop, and Meta is at the same price as March 2026 when the Iran war kicked off, representing a significant opportunity. The creator states: 'My opinion, obvious opportunity.'",
+            "when_to_buy": "Current levels after post-earnings decline",
+            "target_price": null,
+            "cautions": "Meta does not have the cloud business that Amazon, Google, and Microsoft do, making it less diversified. The CapEx raise was unexpected and spooked the market, creating the opportunity."
+          },
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet Inc. (Google)",
+            "reason": "Google crashed 7% after earnings due to going negative on free cash flows when raising CapEx. However, the creator states that Google has recovered very nicely from that post-earnings drop and should never be abandoned as it generates cash so easily. The creator argues that once Google shows its spending is in line with expectations (like Microsoft has done), the stock will be rewarded heavily. The creator views Google as a still-attractive long-term buy despite the earnings miss.",
+            "when_to_buy": "Current levels after recovery from post-earnings lows",
+            "target_price": null,
+            "cautions": "Google's CapEx raise was unexpected and punished the stock. The creator is waiting to see if the company can control spending to match expectations before more aggressively deploying capital."
+          },
+          {
+            "ticker": "MSFT",
+            "company_name": "Microsoft Corporation",
+            "reason": "Microsoft was rewarded with a 15.5% up day after earnings followed by another 3% the next day because they reduced CapEx expectations by $20 billion (the only hyperscaler to cut CapEx so far). Microsoft's free cash flows came in healthy at almost $20 billion, and Azure cloud revenue grew 43% YoY (beating the 40% expected) and surpassed $100 billion in revenue for the first time. The creator states this proves companies can monetize AI while controlling capital expenditure. The creator asks if Microsoft turns into one of their largest holdings. Microsoft demonstrates that lowering or controlling CapEx while growing revenue is the optimal outcome the market rewards.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Microsoft has already had a massive run-up post-earnings. The creator's enthusiasm is more about the strategic positioning and proof of concept for AI monetization rather than immediate entry."
+          },
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon Corporation",
+            "reason": "Amazon was rewarded post-earnings because, while it has a heavy retail presence creating cyclical free cash flows (unlike Microsoft and Google), it did not significantly increase CapEx and achieved highest-ever EBITDA, net income, gross profit, and EPS. Cloud revenue grew 37% YoY. The creator states that Amazon's results, combined with Microsoft's, prove that companies monetizing AI while not raising CapEx significantly will be rewarded by the market. Amazon is presented as proof that hyperscalers can deliver AI results without destroying free cash flows.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Amazon's retail business creates more cyclical free cash flows, so it routinely has negative free cash flows quarter to quarter (very different from Microsoft, Meta, and Google). This makes it less comparable to pure hyperscalers."
+          },
+          {
+            "ticker": "NOW",
+            "company_name": "ServiceNow Inc.",
+            "reason": "ServiceNow is an AI beneficiary stock in the software sector where AI will act as a beneficial layer rather than a threat to the business. The creator has talked about ServiceNow as a software stock that will improve due to AI integration rather than be disrupted by it.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The creator has not specified entry points or urgency for ServiceNow, suggesting it's on a watchlist rather than an immediate buy."
+          },
+          {
+            "ticker": "PANW",
+            "company_name": "Palo Alto Networks Inc.",
+            "reason": "Palo Alto Networks is a cybersecurity stock that the creator views as an AI beneficiary where AI will make their products better rather than disrupt them. Cybersecurity stocks have seen a nice discount in the recent correction. The creator states that 'at some point these are stocks that will get to a level where in my opinion they'll be discounted too heavily and become asymmetric opportunities' and 'these stocks are not going away, and AI is just going to make their products better.'",
+            "when_to_buy": "At deeper discounts; the creator is not quite ready to pull the trigger yet but sees future opportunity",
+            "target_price": null,
+            "cautions": "Not ready to buy yet; waiting for a deeper discount to create an asymmetric opportunity."
+          },
+          {
+            "ticker": "CRWD",
+            "company_name": "CrowdStrike Inc.",
+            "reason": "CrowdStrike is a cybersecurity stock that the creator views as an AI beneficiary where AI will enhance their products rather than disrupt them. Cybersecurity stocks have seen discounts in the recent correction. The creator sees these as long-term opportunities since AI will improve cybersecurity products and these stocks are not going away.",
+            "when_to_buy": "At deeper discounts; the creator is not quite ready to pull the trigger yet",
+            "target_price": null,
+            "cautions": "Not ready to buy yet at current levels; waiting for deeper discounts to create asymmetric risk-reward."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet Inc. (Google)",
+            "reason": "While not technically avoided, Google went negative on free cash flows when raising CapEx significantly, causing a 7% drop the day after earnings. The creator notes that the market punished this capital intensity despite Google's strong fundamentals. However, the creator views it as recoverable once CapEx discipline improves.",
+            "risk": "Continued CapEx disappointment and negative free cash flows could cause further downside. Market is currently punishing hyperscalers that raise CapEx unexpectedly."
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms Inc.",
+            "reason": "Meta almost went negative on free cash flows while raising CapEx, causing an 8% drop after earnings. Additionally, Meta lacks a cloud business like Microsoft, Amazon, and Google, making it less diversified for monetizing AI. It is at the same price as March 2026, suggesting a prolonged period of flat to negative returns. However, the creator views it as an opportunity once CapEx concerns are addressed.",
+            "risk": "Continued negative free cash flow deterioration and lack of cloud revenue diversification are risks. The creator wants to see evidence of CapEx discipline before aggressively buying."
+          }
+        ],
+        "key_warnings": [
+          "Forced deleveraging and margin calls are creating downside pressure. A major AI hedge fund (Leopold Aschenbrenner's fund) was forced to liquidate after using 4x leverage and losing $35 billion of $45 billion in assets when markets declined. This was facilitated by prime brokers like Goldman Sachs, JP Morgan, and Bank of America. Continued forced deleveraging could perpetuate downside.",
+          "The market may still be testing the new Federal Reserve leadership. Kevin Warsh opened hawkish, saying inflation is still extremely high and the Fed's main goal remains inflation control. He welcomed rising bond yields, suggesting the market will do tightening work for the Fed. Long-term rates have hit 4.74% (new 2026 high) and are at levels not seen since 2007, creating potential headwinds.",
+          "Market is severely lopsided. The S&P 500 is less than 2% from all-time highs while the Nasdaq is down 11.5%. Pre-midterm seasonality suggests an average 17% drop in the S&P 500 before midterms. This disparity creates risk of an S&P 500 breakdown.",
+          "Chip stocks and AI buildout stocks have extreme distribution patterns that will take time to recover. Nothing fundamentally changed on the way down or on the bounce. The recent 40%+ bounce in data center stocks and 47% three-day bounce in SOXL represents forced buying to cover shorts and shorts being covered, not fundamental improvement. These charts need confirmation before aggressively trading.",
+          "The AI trade has been damaged by forced liquidations and margin unwinding. AI hedge fund failures, Korean market topping, SK Hynix missing earnings, and general slowdown in AI buildout created a perfect storm. While the creator believes AI is still on long-term, these sectors need time to rebuild credibility.",
+          "Not a good time to swing trade. The creator explicitly states this is not the time to bottom hunt or swing trade long. Charts are broken and need confirmation. Asymmetric opportunities are primarily in long-duration bets, not short-term trades.",
+          "Hyperscaler earnings show divergence in capital allocation success. Only Microsoft has successfully reduced CapEx while growing revenue. Amazon avoided raising CapEx significantly. But Google and Meta raised CapEx unexpectedly, which markets are punishing. This divergence suggests winners and losers among hyperscalers until others prove they can control spending."
+        ],
+        "tickers_mentioned": [
+          "QQQ",
+          "NASDAQ",
+          "SPX",
+          "SMH",
+          "SOXL",
+          "SOXX",
+          "SOXQ",
+          "NVDA",
+          "GOOGL",
+          "META",
+          "AMZN",
+          "MSFT",
+          "AVGO",
+          "INTC",
+          "ARM",
+          "ASML",
+          "TSM",
+          "NEBIUS",
+          "CWEB",
+          "NOW",
+          "PANW",
+          "CRWD"
+        ]
+      },
+      "price_at_recommendation": {
+        "QQQ": 687.99,
+        "SMH": 540.53,
+        "CWEB": 25.32,
+        "MSFT": 464.72,
+        "CRWD": 190.86,
+        "SOXX": 504.89,
+        "ARM": 239.69,
+        "AVGO": 389.28,
+        "SOXQ": 89.05,
+        "INTC": 90.2,
+        "ASML": 1629.0,
+        "NOW": 111.23,
+        "NVDA": 200.75,
+        "PANW": 331.83,
+        "AMZN": 271.58,
+        "TSM": 404.25,
+        "META": 556.71,
+        "GOOGL": 356.13
+      }
+    },
+    "Ze0qxgxE3rI": {
+      "channel": "Jose Najarro Stocks",
+      "title": "AMD Earnings Are 48 Hours Away \u2014 Here\u2019s Why I\u2019m Excited",
+      "upload_date": "20260802",
+      "url": "https://www.youtube.com/watch?v=Ze0qxgxE3rI",
+      "processed_at": "2026-08-03T09:41:04.917570",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices",
+            "reason": "AMD is positioned to capitalize on the AI boom with sequential growth starting Q2 2024 and continuing through foreseeable future. The creator believes Q2 marks the start of AMD's true AI story with the release of MI Helios and MI 450 in late Q3, ramping in Q4, and additional solutions in 2026. AMD is winning 46% EPYC CPU market share with massive demand from agentic AI applications, which the creator believes will be the biggest CPU growth driver through 2027-2030. Additionally, AMD secured a 530 MW power contract with Core Scientific (extensible to 2 GW) providing turnkey solutions for data centers\u2014a critical competitive advantage as power becomes the limiting constraint in AI infrastructure. AMD's GPU accelerator business is ramping with new customers including OpenAI, Meta, Anthropic, Microsoft, and Oracle. The creator also emphasized that even though AMD is not yet a $1 trillion company, he believes it will reach $1 trillion and potentially $2 trillion in the future given the scale of the AI market opportunity.",
+            "when_to_buy": "The creator suggests that market sell-offs, depending on the stock, represent opportunities to add to positions. Earnings are due Tuesday, August 4th.",
+            "target_price": "North of $1 trillion market cap in the future; the creator also stated belief that AMD will reach $2 trillion valuation eventually, though he does not attempt to time the market.",
+            "cautions": "The creator notes this is his number three position after Nvidia and Corey, indicating significant but not maximum conviction. The creator also acknowledges that Nvidia remains his #1 position and will continue to dominate the AI market, suggesting AMD's gains may be limited relative to Nvidia despite the massive TAM."
+          },
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Nvidia is the creator's largest position and biggest winner to date. The creator explicitly states 'Nvidia, you are my baby' and maintains conviction that Nvidia will continue to dominate the AI market. While AMD is gaining share, the creator emphasizes that the AI market is so massive that multiple players can win, but Nvidia's leadership position remains unquestioned in his view.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The creator acknowledges that while Nvidia will dominate, AMD and other competitors will also capture significant gains. The creator cautions that AMD's strength does not diminish Nvidia's prospects, and he is not advocating to reduce Nvidia positions in favor of AMD."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Market narrative around 'open-source models closing the gap with frontier models' poses a risk of creating unnecessary fear about AI compute demand destruction. The creator, citing Elon Musk's response, emphasizes that frontier models and open-source models remain 'a world of difference' for hard multi-step reasoning, long-horizon agents used in healthcare, math, and software solutions. This narrative risks creating fear of overcapacity and slowing compute demand, which the creator views as unfounded. Advanced agentic AI with tool-using and reasoning capabilities will continue to drive massive compute demand growth.",
+          "Power availability is becoming a critical bottleneck constraint for AI infrastructure expansion. Major players including Nvidia, Google, and Broadcom are locking up power contracts, making it essential for semiconductor companies to secure power partnerships (as AMD did with Core Scientific). Investors should monitor power availability as a potential limiting factor for AI capex growth and data center expansion.",
+          "Analyst expectations for AMD may underestimate the magnitude of the upcoming AI ramp. While analysts project 11.3 billion in Q2 revenue with typical accuracy, the creator believes one of the next three quarters (June 26, September 26, or December 26) will see actual results double-digit percentage higher than analyst estimates as the full AI story materializes, suggesting current consensus may be too conservative."
+        ],
+        "tickers_mentioned": [
+          "AMD",
+          "NVDA"
+        ]
+      },
+      "price_at_recommendation": {
+        "AMD": 476.15,
+        "NVDA": 200.75
+      }
     }
   },
   "channel_ids": {
@@ -13827,7 +14232,7 @@
     "JoseNajarroStocks": "UC5cEHfCr6WOE1R1zcohd1IA",
     "FinTek": "UCxdWHEhEPiYhCADMrn4PdhQ"
   },
-  "last_eval_week": "2026-W31",
+  "last_eval_week": "2026-W32",
   "alerts": {
     "fallback": "2026-07-29T16:04:19.241048"
   }

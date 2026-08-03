@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-02T19:26:39.624378",
-  "video_count": 87,
-  "stock_count": 154,
+  "generated_at": "2026-08-03T09:43:45.279845",
+  "video_count": 88,
+  "stock_count": 157,
   "stocks": [
     {
       "ticker": "AAOI",
@@ -470,7 +470,7 @@
     {
       "ticker": "AMD",
       "company_name": "Advanced Micro Devices",
-      "buy_count": 8,
+      "buy_count": 10,
       "avoid_count": 1,
       "first_mention_date": "07 Jul 2026",
       "price_at_first_mention": 505.37,
@@ -495,7 +495,7 @@
         "ma200": 311.82,
         "ma_signal": "golden_cross",
         "pe_trailing": 158.71666,
-        "pe_forward": 34.45045,
+        "pe_forward": 34.325676,
         "peg_ratio": 1.12,
         "revenue_growth": 0.378,
         "earnings_growth": 0.912,
@@ -617,6 +617,32 @@
           "when_to_buy": "The creator is not buying at current levels (stock at $521 at time of recording) but would dollar-cost average at lower levels. Not selling current position.",
           "target_price": "The creator believes AMD is north of a trillion-dollar company based on recent announcements, implying significant upside from $521 current price.",
           "cautions": "The creator notes that certain semiconductor stocks have been overstretched and acknowledges overall market volatility. The Anthropic partnership is 'up to' 2 gigawatts, not a guaranteed 2 gigawatts, with the first gigawatt likely not arriving until 2027. Software remains a historical weakness for AMD compared to NVIDIA, though this is improving."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Just Bought $5,200 of These 3 Stocks. Here's Why",
+          "url": "https://www.youtube.com/watch?v=MSfaIeQ0eq8",
+          "upload_date": "20260802",
+          "date_label": "02 Aug 2026",
+          "ticker": "AMD",
+          "company_name": "Advanced Micro Devices Inc.",
+          "reason": "The creator expects AMD to absolutely crush its upcoming earnings report on Tuesday after hours. AMD is expected to report $11.3 billion in revenue representing 52% year-over-year growth with acceleration expected to 42.8%, 62%, 69.8%, and 64% in subsequent quarters. The growth driver is the MI 500 series GPU line and acceleration in server CPU business. AMD has a trailing PE of 154x and forward PE of 53.4x but a favorable PEG ratio of 1.3, suggesting the valuation is reasonable for expected growth. The creator is not concerned about the near-term results but rather commentary on 2026-2027 guidance.",
+          "when_to_buy": "Earnings report Tuesday; creator notes stock is down 17.7% after being up 113% year-to-date, suggesting potential entry on weakness",
+          "target_price": "Stock dropped below $500; creator would have added more at those levels",
+          "cautions": "Stock has run significantly year-to-date (up 113%) and is now in a modest drawdown. Forward guidance commentary for 2026-2027 will be critical; stock sentiment is likely pricing in much of the good news. This is a $776 billion company with extremely high forward valuations on analyst estimates."
+        },
+        {
+          "channel": "Jose Najarro Stocks",
+          "title": "AMD Earnings Are 48 Hours Away \u2014 Here\u2019s Why I\u2019m Excited",
+          "url": "https://www.youtube.com/watch?v=Ze0qxgxE3rI",
+          "upload_date": "20260802",
+          "date_label": "02 Aug 2026",
+          "ticker": "AMD",
+          "company_name": "Advanced Micro Devices",
+          "reason": "AMD is positioned to capitalize on the AI boom with sequential growth starting Q2 2024 and continuing through foreseeable future. The creator believes Q2 marks the start of AMD's true AI story with the release of MI Helios and MI 450 in late Q3, ramping in Q4, and additional solutions in 2026. AMD is winning 46% EPYC CPU market share with massive demand from agentic AI applications, which the creator believes will be the biggest CPU growth driver through 2027-2030. Additionally, AMD secured a 530 MW power contract with Core Scientific (extensible to 2 GW) providing turnkey solutions for data centers\u2014a critical competitive advantage as power becomes the limiting constraint in AI infrastructure. AMD's GPU accelerator business is ramping with new customers including OpenAI, Meta, Anthropic, Microsoft, and Oracle. The creator also emphasized that even though AMD is not yet a $1 trillion company, he believes it will reach $1 trillion and potentially $2 trillion in the future given the scale of the AI market opportunity.",
+          "when_to_buy": "The creator suggests that market sell-offs, depending on the stock, represent opportunities to add to positions. Earnings are due Tuesday, August 4th.",
+          "target_price": "North of $1 trillion market cap in the future; the creator also stated belief that AMD will reach $2 trillion valuation eventually, though he does not attempt to time the market.",
+          "cautions": "The creator notes this is his number three position after Nvidia and Corey, indicating significant but not maximum conviction. The creator also acknowledges that Nvidia remains his #1 position and will continue to dominate the AI market, suggesting AMD's gains may be limited relative to Nvidia despite the massive TAM."
         }
       ],
       "avoids": [
@@ -637,7 +663,7 @@
     {
       "ticker": "AMZN",
       "company_name": "Amazon Inc.",
-      "buy_count": 20,
+      "buy_count": 21,
       "avoid_count": 1,
       "first_mention_date": "06 Jul 2026",
       "price_at_first_mention": 243.62,
@@ -940,6 +966,19 @@
           "when_to_buy": "Analyst states he is actively buying despite stock near all-time highs; no specific entry point mentioned as he believes it remains undervalued at current levels",
           "target_price": "$500 by end of 2028; Fair value $371",
           "cautions": "Amazon is currently producing negative $7.6 billion in trailing twelve month free cash flow due to massive $173 billion annual capex spend, though analyst is not concerned given high ROI expectations. The company has raised $82 billion in debt in trailing twelve months to fund capex. Returns on capex depend on achieving the stated 20-28% returns and extending useful life of equipment beyond standard timelines. AWS growth rate acceleration needs to continue at current pace for valuation thesis to hold."
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "Is the AI Trade BACK?! The next move will shock investors",
+          "url": "https://www.youtube.com/watch?v=MqU4-gEdi-s",
+          "upload_date": "20260802",
+          "date_label": "02 Aug 2026",
+          "ticker": "AMZN",
+          "company_name": "Amazon Corporation",
+          "reason": "Amazon was rewarded post-earnings because, while it has a heavy retail presence creating cyclical free cash flows (unlike Microsoft and Google), it did not significantly increase CapEx and achieved highest-ever EBITDA, net income, gross profit, and EPS. Cloud revenue grew 37% YoY. The creator states that Amazon's results, combined with Microsoft's, prove that companies monetizing AI while not raising CapEx significantly will be rewarded by the market. Amazon is presented as proof that hyperscalers can deliver AI results without destroying free cash flows.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": "Amazon's retail business creates more cyclical free cash flows, so it routinely has negative free cash flows quarter to quarter (very different from Microsoft, Meta, and Google). This makes it less comparable to pure hyperscalers."
         }
       ],
       "avoids": [
@@ -1086,7 +1125,7 @@
     {
       "ticker": "ARM",
       "company_name": "Arm Holdings",
-      "buy_count": 0,
+      "buy_count": 1,
       "avoid_count": 1,
       "first_mention_date": "25 Jul 2026",
       "price_at_first_mention": 260.01,
@@ -1129,7 +1168,21 @@
         "earnings_date": null,
         "earnings_days": null
       },
-      "buys": [],
+      "buys": [
+        {
+          "channel": "The Traveling Trader",
+          "title": "Is the AI Trade BACK?! The next move will shock investors",
+          "url": "https://www.youtube.com/watch?v=MqU4-gEdi-s",
+          "upload_date": "20260802",
+          "date_label": "02 Aug 2026",
+          "ticker": "ARM",
+          "company_name": "ARM Holdings",
+          "reason": "ARM has a near monopoly in phone chip design. The company has a gross profit margin of 97% (because they only design and don't manufacture), highest cash from operations ever, highest free cash flows ever, and barely any debt. The stock is currently down 50% from highs, presenting an asymmetric opportunity. The creator likes monopolies and near-monopolies, and ARM's cash generation and low debt make it attractive.",
+          "when_to_buy": "At current depressed levels (down 50% from highs)",
+          "target_price": null,
+          "cautions": "The stock has an extreme distribution pattern that will take quite a while to recover. The creator wants to see a breakout and confirmation before aggressively trading."
+        }
+      ],
       "avoids": [
         {
           "channel": "CouchInvestor",
@@ -1173,7 +1226,7 @@
     {
       "ticker": "ASML",
       "company_name": "ASML",
-      "buy_count": 4,
+      "buy_count": 5,
       "avoid_count": 0,
       "first_mention_date": "13 Jul 2026",
       "price_at_first_mention": 1797.32,
@@ -1268,6 +1321,19 @@
           "when_to_buy": "During market dips; stock currently down 10% over the last month",
           "target_price": null,
           "cautions": null
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "Is the AI Trade BACK?! The next move will shock investors",
+          "url": "https://www.youtube.com/watch?v=MqU4-gEdi-s",
+          "upload_date": "20260802",
+          "date_label": "02 Aug 2026",
+          "ticker": "ASML",
+          "company_name": "ASML Holding N.V.",
+          "reason": "ASML is one of two monopolies the creator is already invested in. The company provided a nice 23% discount from highs. ASML is a critical supplier in the AI buildout infrastructure and its fundamental metrics (revenue, EBITDA, gross profit, net income, cash from operations, free cash flow, earnings per share) are very strong.",
+          "when_to_buy": "At the 23% discount from highs mentioned in the video",
+          "target_price": null,
+          "cautions": "Like other stocks in the AI space, ASML has been impacted by the recent market correction and may require time for recovery."
         }
       ],
       "avoids": [],
@@ -1301,7 +1367,7 @@
         "ma200": 226.22,
         "ma_signal": "golden_cross",
         "pe_trailing": 28.10023,
-        "pe_forward": 22.79662,
+        "pe_forward": 22.772903,
         "peg_ratio": null,
         "revenue_growth": 1.443,
         "earnings_growth": null,
@@ -1400,7 +1466,7 @@
     {
       "ticker": "AVGO",
       "company_name": "Broadcom",
-      "buy_count": 2,
+      "buy_count": 3,
       "avoid_count": 0,
       "first_mention_date": "05 Jul 2026",
       "price_at_first_mention": 385.64,
@@ -1469,6 +1535,19 @@
           "when_to_buy": "during current market weakness and price declines of 20%+",
           "target_price": null,
           "cautions": "Market sentiment has turned fearful on concerns about hyperscalers' returns on AI infrastructure spending. Broadcom's earnings guidance disappointed the market, triggering a 10% single-day decline. However, the creator views this as temporary market weakness rather than a fundamental problem."
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "Is the AI Trade BACK?! The next move will shock investors",
+          "url": "https://www.youtube.com/watch?v=MqU4-gEdi-s",
+          "upload_date": "20260802",
+          "date_label": "02 Aug 2026",
+          "ticker": "AVGO",
+          "company_name": "Broadcom Corporation",
+          "reason": "Broadcom holds a near monopoly in AI custom accelerators and high-speed networking. From a fundamental perspective, Broadcom has a 10-year CAGR of 25%, almost 20% return on invested capital, and is trading at a 20 forward PE. The creator favors monopolies or near-monopolies and sees this as an asymmetric opportunity at current levels.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": "The stock has an extreme distribution pattern that will take quite a while to break out of. The creator wants to see a breakout and confirmation on these types of stocks before aggressively buying."
         }
       ],
       "avoids": [],
@@ -1630,8 +1709,8 @@
         "analyst_buy": 38,
         "analyst_hold": 2,
         "analyst_sell": 1,
-        "analyst_target": 189.86,
-        "analyst_upside_pct": 55.3,
+        "analyst_target": 189.77,
+        "analyst_upside_pct": 55.2,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -1915,26 +1994,13 @@
     {
       "ticker": "BROADCOM",
       "company_name": "Broadcom Inc.",
-      "buy_count": 4,
+      "buy_count": 3,
       "avoid_count": 0,
-      "first_mention_date": "03 Jul 2026",
+      "first_mention_date": "07 Jul 2026",
       "price_at_first_mention": null,
       "pct_change_since_rec": null,
       "market": null,
       "buys": [
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "The AI STOCK Selloff WILL MAKE MILLIONAIRES!!",
-          "url": "https://www.youtube.com/watch?v=qnIKiwrx9kc",
-          "upload_date": "20260703",
-          "date_label": "03 Jul 2026",
-          "ticker": "BROADCOM",
-          "company_name": "Broadcom Inc.",
-          "reason": "Creator is bullish on Broadcom as a semiconductor company benefiting from AI compute demand. The stock is down 25% in the past month, which the creator views as an attractive entry point during the current market selloff. Creator believes the long-term demand for AI infrastructure and chips will continue to grow, making this a buying opportunity when the market is bearish and pricing is attractive.",
-          "when_to_buy": "During current market selloff; creator mentions prices are 'super attractive'",
-          "target_price": null,
-          "cautions": "Stock currently trading at 360 forward PE ratio (low 20s), indicating significant valuation uncertainty during this correction period"
-        },
         {
           "channel": "Jose Najarro Stocks",
           "title": "I AM BUYING THIS DIP AGAIN !! WISH ME LUCK!!",
@@ -2166,8 +2232,45 @@
       "avoid_count": 0,
       "first_mention_date": "24 Jul 2026",
       "price_at_first_mention": 23.15,
-      "pct_change_since_rec": null,
-      "market": null,
+      "pct_change_since_rec": -3.6,
+      "market": {
+        "ticker": "CIFR",
+        "name": "Cipher Digital Inc.",
+        "currency": "USD",
+        "sector": "Technology",
+        "industry": "Information Technology Services",
+        "market_cap": 9129977856,
+        "current_price": 22.32,
+        "daily_change_pct": -1.48,
+        "month_change_pct": -2.28,
+        "week52_high": 30.14,
+        "week52_high_date": "22 Jun 2026",
+        "week52_low": 4.55,
+        "week52_low_date": "08 Aug 2025",
+        "rsi": 50.7,
+        "rsi_label": "neutral",
+        "ma50": 23.18,
+        "ma200": 18.64,
+        "ma_signal": "golden_cross",
+        "pe_trailing": null,
+        "pe_forward": 43.130436,
+        "peg_ratio": null,
+        "revenue_growth": -0.288,
+        "earnings_growth": null,
+        "free_cashflow": -2948059648,
+        "profit_margins": 0.0,
+        "debt_to_equity": 641.56,
+        "beta": 3.196,
+        "short_percent": 0.1674,
+        "dividend_yield": null,
+        "analyst_buy": 15,
+        "analyst_hold": 0,
+        "analyst_sell": 0,
+        "analyst_target": 32.79,
+        "analyst_upside_pct": 46.9,
+        "earnings_date": null,
+        "earnings_days": null
+      },
       "buys": [
         {
           "channel": "The Traveling Trader",
@@ -2193,8 +2296,45 @@
       "avoid_count": 1,
       "first_mention_date": "06 Jul 2026",
       "price_at_first_mention": 317.05,
-      "pct_change_since_rec": null,
-      "market": null,
+      "pct_change_since_rec": -17.1,
+      "market": {
+        "ticker": "COHR",
+        "name": "Coherent Corp.",
+        "currency": "USD",
+        "sector": "Technology",
+        "industry": "Scientific & Technical Instruments",
+        "market_cap": 51431624704,
+        "current_price": 262.89,
+        "daily_change_pct": 5.55,
+        "month_change_pct": -28.69,
+        "week52_high": 440.0,
+        "week52_high_date": "03 Jun 2026",
+        "week52_low": 84.35,
+        "week52_low_date": "20 Aug 2025",
+        "rsi": 40.4,
+        "rsi_label": "neutral",
+        "ma50": 347.42,
+        "ma200": 254.95,
+        "ma_signal": "golden_cross",
+        "pe_trailing": 125.18573,
+        "pe_forward": 31.710747,
+        "peg_ratio": 0.92,
+        "revenue_growth": 0.205,
+        "earnings_growth": null,
+        "free_cashflow": -197631744,
+        "profit_margins": 0.07102,
+        "debt_to_equity": 31.093,
+        "beta": 2.037,
+        "short_percent": 0.0521,
+        "dividend_yield": null,
+        "analyst_buy": 16,
+        "analyst_hold": 5,
+        "analyst_sell": 0,
+        "analyst_target": 391.45,
+        "analyst_upside_pct": 48.9,
+        "earnings_date": null,
+        "earnings_days": null
+      },
       "buys": [
         {
           "channel": "The Traveling Trader",
@@ -2279,7 +2419,7 @@
         "ma200": 212.43,
         "ma_signal": "death_cross",
         "pe_trailing": null,
-        "pe_forward": 41.01123,
+        "pe_forward": 43.13843,
         "peg_ratio": 1.4,
         "revenue_growth": -0.173,
         "earnings_growth": null,
@@ -2340,27 +2480,14 @@
     },
     {
       "ticker": "COREWEAVE",
-      "company_name": "CoreWeave",
-      "buy_count": 8,
+      "company_name": "Coreweave",
+      "buy_count": 7,
       "avoid_count": 1,
-      "first_mention_date": "03 Jul 2026",
+      "first_mention_date": "07 Jul 2026",
       "price_at_first_mention": null,
       "pct_change_since_rec": null,
       "market": null,
       "buys": [
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "The AI STOCK Selloff WILL MAKE MILLIONAIRES!!",
-          "url": "https://www.youtube.com/watch?v=qnIKiwrx9kc",
-          "upload_date": "20260703",
-          "date_label": "03 Jul 2026",
-          "ticker": "COREWEAVE",
-          "company_name": "CoreWeave",
-          "reason": "Creator explicitly states 'I am very bullish in the neo cloud space' and specifically names Coreweave as one of the neo cloud companies he has been bullish on. The company operates in the AI infrastructure space providing compute services, which the creator believes will continue to see strong demand as AI develops and the market realizes the current selloff is a mispricing.",
-          "when_to_buy": "During current market correction when neo cloud stocks are heavily discounted",
-          "target_price": null,
-          "cautions": null
-        },
         {
           "channel": "Ticker Symbol: YOU",
           "title": "Top Stocks I'm Buying For Massive Growth In July 2026",
@@ -2626,8 +2753,8 @@
         "analyst_buy": 23,
         "analyst_hold": 4,
         "analyst_sell": 1,
-        "analyst_target": 100.18,
-        "analyst_upside_pct": 12.7,
+        "analyst_target": 100.01,
+        "analyst_upside_pct": 12.5,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -2665,7 +2792,7 @@
     {
       "ticker": "CRWD",
       "company_name": "CrowdStrike Holdings Inc.",
-      "buy_count": 2,
+      "buy_count": 3,
       "avoid_count": 2,
       "first_mention_date": "09 Jul 2026",
       "price_at_first_mention": 198.4,
@@ -2734,6 +2861,19 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": "The company is currently listed as 35% overvalued by investing.com. While much of this premium is justified by the company's growth rate being significantly faster than the rest of the industry, valuation remains the primary risk and investors should be aware they are paying a premium."
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "Is the AI Trade BACK?! The next move will shock investors",
+          "url": "https://www.youtube.com/watch?v=MqU4-gEdi-s",
+          "upload_date": "20260802",
+          "date_label": "02 Aug 2026",
+          "ticker": "CRWD",
+          "company_name": "CrowdStrike Inc.",
+          "reason": "CrowdStrike is a cybersecurity stock that the creator views as an AI beneficiary where AI will enhance their products rather than disrupt them. Cybersecurity stocks have seen discounts in the recent correction. The creator sees these as long-term opportunities since AI will improve cybersecurity products and these stocks are not going away.",
+          "when_to_buy": "At deeper discounts; the creator is not quite ready to pull the trigger yet",
+          "target_price": null,
+          "cautions": "Not ready to buy yet at current levels; waiting for deeper discounts to create asymmetric risk-reward."
         }
       ],
       "avoids": [
@@ -2852,6 +2992,70 @@
       ],
       "avoids": [],
       "description": "Develops and acquires vertical market software for niche industries"
+    },
+    {
+      "ticker": "CWEB",
+      "company_name": "CoreWeave Inc.",
+      "buy_count": 1,
+      "avoid_count": 0,
+      "first_mention_date": "02 Aug 2026",
+      "price_at_first_mention": 25.32,
+      "pct_change_since_rec": 0.0,
+      "market": {
+        "ticker": "CWEB",
+        "name": "Direxion Daily CSI China Intern",
+        "currency": "USD",
+        "sector": null,
+        "industry": null,
+        "market_cap": null,
+        "current_price": 25.32,
+        "daily_change_pct": 3.09,
+        "month_change_pct": 27.04,
+        "week52_high": 61.24,
+        "week52_high_date": "02 Oct 2025",
+        "week52_low": 17.09,
+        "week52_low_date": "26 Jun 2026",
+        "rsi": 66.0,
+        "rsi_label": "neutral",
+        "ma50": 22.03,
+        "ma200": 33.51,
+        "ma_signal": "death_cross",
+        "pe_trailing": 15.910489,
+        "pe_forward": null,
+        "peg_ratio": null,
+        "revenue_growth": null,
+        "earnings_growth": null,
+        "free_cashflow": null,
+        "profit_margins": null,
+        "debt_to_equity": null,
+        "beta": null,
+        "short_percent": null,
+        "dividend_yield": 7.61,
+        "analyst_buy": null,
+        "analyst_hold": null,
+        "analyst_sell": null,
+        "analyst_target": null,
+        "analyst_upside_pct": null,
+        "earnings_date": null,
+        "earnings_days": null
+      },
+      "buys": [
+        {
+          "channel": "The Traveling Trader",
+          "title": "Is the AI Trade BACK?! The next move will shock investors",
+          "url": "https://www.youtube.com/watch?v=MqU4-gEdi-s",
+          "upload_date": "20260802",
+          "date_label": "02 Aug 2026",
+          "ticker": "CWEB",
+          "company_name": "CoreWeave Inc.",
+          "reason": "CoreWeave is a data center play where the backlog ($100 billion) far exceeds its current market cap ($39 billion), making it an extreme asymmetric opportunity. CoreWeave has deals with major hyperscalers (Microsoft, Meta, Nvidia). The creator explicitly states regarding CoreWeave: 'yes, I do think that this is an opportunity here.' The massive backlog relative to market cap creates significant upside potential.",
+          "when_to_buy": "At current levels; the creator views it as hitting a major support/demand level",
+          "target_price": null,
+          "cautions": "CoreWeave shows a big distribution pattern and will require some time to break out. These stocks are volatile both on the way up and down. The creator is not ready to swing trade yet and wants confirmation."
+        }
+      ],
+      "avoids": [],
+      "description": null
     },
     {
       "ticker": "CWEN",
@@ -3588,8 +3792,8 @@
     {
       "ticker": "GOOGL",
       "company_name": "Alphabet Inc.",
-      "buy_count": 17,
-      "avoid_count": 5,
+      "buy_count": 18,
+      "avoid_count": 6,
       "first_mention_date": "06 Jul 2026",
       "price_at_first_mention": 361.92,
       "pct_change_since_rec": -1.6,
@@ -3852,6 +4056,19 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": null
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "Is the AI Trade BACK?! The next move will shock investors",
+          "url": "https://www.youtube.com/watch?v=MqU4-gEdi-s",
+          "upload_date": "20260802",
+          "date_label": "02 Aug 2026",
+          "ticker": "GOOGL",
+          "company_name": "Alphabet Inc. (Google)",
+          "reason": "Google crashed 7% after earnings due to going negative on free cash flows when raising CapEx. However, the creator states that Google has recovered very nicely from that post-earnings drop and should never be abandoned as it generates cash so easily. The creator argues that once Google shows its spending is in line with expectations (like Microsoft has done), the stock will be rewarded heavily. The creator views Google as a still-attractive long-term buy despite the earnings miss.",
+          "when_to_buy": "Current levels after recovery from post-earnings lows",
+          "target_price": null,
+          "cautions": "Google's CapEx raise was unexpected and punished the stock. The creator is waiting to see if the company can control spending to match expectations before more aggressively deploying capital."
         }
       ],
       "avoids": [
@@ -3909,6 +4126,17 @@
           "company_name": "Alphabet Inc. (Google)",
           "reason": "Google announced an increase to capital expenditure guidance and the market sold off the stock in response. The creator notes the market is becoming increasingly concerned that hyperscaler capex buildout is not producing positive ROI, and Google is being punished for raising capex guidance whereas Microsoft is being rewarded for holding capex guidance flat.",
           "risk": "Market is currently negative on capex increases from hyperscalers; continued capex guidance raises risk further deterioration in stock price"
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "Is the AI Trade BACK?! The next move will shock investors",
+          "url": "https://www.youtube.com/watch?v=MqU4-gEdi-s",
+          "upload_date": "20260802",
+          "date_label": "02 Aug 2026",
+          "ticker": "GOOGL",
+          "company_name": "Alphabet Inc. (Google)",
+          "reason": "While not technically avoided, Google went negative on free cash flows when raising CapEx significantly, causing a 7% drop the day after earnings. The creator notes that the market punished this capital intensity despite Google's strong fundamentals. However, the creator views it as recoverable once CapEx discipline improves.",
+          "risk": "Continued CapEx disappointment and negative free cash flows could cause further downside. Market is currently punishing hyperscalers that raise CapEx unexpectedly."
         }
       ],
       "description": "Operates search engine, advertising platform, cloud services, and devices"
@@ -4152,7 +4380,7 @@
     {
       "ticker": "INTC",
       "company_name": "Intel Corporation",
-      "buy_count": 3,
+      "buy_count": 4,
       "avoid_count": 1,
       "first_mention_date": "06 Jul 2026",
       "price_at_first_mention": 110.24,
@@ -4234,6 +4462,19 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": "Current valuation at $400-500 billion means numbers do not yet represent full business value, though trajectory appears positive if execution continues."
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "Is the AI Trade BACK?! The next move will shock investors",
+          "url": "https://www.youtube.com/watch?v=MqU4-gEdi-s",
+          "upload_date": "20260802",
+          "date_label": "02 Aug 2026",
+          "ticker": "INTC",
+          "company_name": "Intel Corporation",
+          "reason": "Intel has government backing to become the TSM (Taiwan Semiconductor Manufacturing Company) of the US. The creator views this as a long-term bullish bet, noting that if TSM is a monopoly and there's nothing like that in the US or outside of Taiwan, then the government initiative to push Intel toward that role is worth backing from an investment perspective. The government backing and strategic importance make this an asymmetric opportunity.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": "This process will take a long time to build out. The stock has distribution patterns requiring time and confirmation before entry."
         }
       ],
       "avoids": [
@@ -4482,33 +4723,6 @@
       "description": "Owns and operates data centers and mines Bitcoin cryptocurrency"
     },
     {
-      "ticker": "IRENT",
-      "company_name": "iRent (or similar neo cloud provider)",
-      "buy_count": 1,
-      "avoid_count": 0,
-      "first_mention_date": "03 Jul 2026",
-      "price_at_first_mention": null,
-      "pct_change_since_rec": null,
-      "market": null,
-      "buys": [
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "The AI STOCK Selloff WILL MAKE MILLIONAIRES!!",
-          "url": "https://www.youtube.com/watch?v=qnIKiwrx9kc",
-          "upload_date": "20260703",
-          "date_label": "03 Jul 2026",
-          "ticker": "IRENT",
-          "company_name": "iRent (or similar neo cloud provider)",
-          "reason": "Creator explicitly mentions being bullish on iRent within the neo cloud space. This company is positioned to benefit from the continued demand for AI compute infrastructure despite the current market pessimism about Meta and SpaceX's excess capacity.",
-          "when_to_buy": "During current market selloff",
-          "target_price": null,
-          "cautions": null
-        }
-      ],
-      "avoids": [],
-      "description": null
-    },
-    {
       "ticker": "IRON",
       "company_name": "CoreWeave (Iron)",
       "buy_count": 2,
@@ -4536,7 +4750,7 @@
         "ma200": 74.77,
         "ma_signal": "death_cross",
         "pe_trailing": null,
-        "pe_forward": -10.549549,
+        "pe_forward": -10.650069,
         "peg_ratio": null,
         "revenue_growth": null,
         "earnings_growth": null,
@@ -4640,7 +4854,7 @@
         "ma200": 162.3,
         "ma_signal": "golden_cross",
         "pe_trailing": 49.95082,
-        "pe_forward": 27.961226,
+        "pe_forward": 27.914518,
         "peg_ratio": 1.75,
         "revenue_growth": 0.152,
         "earnings_growth": 0.147,
@@ -4843,8 +5057,8 @@
         "analyst_buy": 11,
         "analyst_hold": 15,
         "analyst_sell": 2,
-        "analyst_target": 18.32,
-        "analyst_upside_pct": 34.4,
+        "analyst_target": 18.3,
+        "analyst_upside_pct": 34.2,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -5135,7 +5349,7 @@
         "ma200": 526.33,
         "ma_signal": "death_cross",
         "pe_trailing": 31.541,
-        "pe_forward": 24.987518,
+        "pe_forward": 24.956495,
         "peg_ratio": 1.76,
         "revenue_growth": 0.141,
         "earnings_growth": 0.221,
@@ -5264,8 +5478,8 @@
     {
       "ticker": "META",
       "company_name": "Meta Platforms",
-      "buy_count": 23,
-      "avoid_count": 2,
+      "buy_count": 25,
+      "avoid_count": 3,
       "first_mention_date": "05 Jul 2026",
       "price_at_first_mention": 582.9,
       "pct_change_since_rec": -4.5,
@@ -5606,6 +5820,32 @@
           "when_to_buy": "Current price approximately $550 per share, down from $700 per share a couple of weeks prior",
           "target_price": null,
           "cautions": "The creator acknowledges it is frustrating that despite believing the stock is significantly undervalued, it has not moved upward recently and has instead declined or gone back down 2 months' worth of gains. The entire investment thesis is dependent on 2027 being the inflection year where capex buildout stops and margins expand significantly. If this thesis is wrong, the stock could underperform. The creator speculates this may be 'the last time you can buy Meta under $600,' implying significant downside risk if the thesis fails, though specific downside targets are not provided."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Just Bought $5,200 of These 3 Stocks. Here's Why",
+          "url": "https://www.youtube.com/watch?v=MSfaIeQ0eq8",
+          "upload_date": "20260802",
+          "date_label": "02 Aug 2026",
+          "ticker": "META",
+          "company_name": "Meta Platforms Inc.",
+          "reason": "The creator increased their Meta position by 6.2% (3 additional shares) because Meta is a severely misunderstood company. The core business is doing extremely well with ads up and ad impression pricing up. AI investments are already translating into better results. Meta agents for WhatsApp Business have launched and are already gaining traction with approximately 1 million users. The creator expects Meta to announce short-term AI compute deals and monetize AI services through WhatsApp Business, Messenger, and Instagram toward 2026-2027, which should drive significant upside. The business is winning despite negative sentiment around the stock.",
+          "when_to_buy": "Buy dips; creator accumulated additional shares during the week",
+          "target_price": null,
+          "cautions": "Market sentiment is currently negative despite strong business fundamentals. Stock sentiment is likely to remain under pressure until the market recognizes the value of Meta's AI monetization strategy. Stock is currently at similar prices to March lows, indicating weak forward momentum."
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "Is the AI Trade BACK?! The next move will shock investors",
+          "url": "https://www.youtube.com/watch?v=MqU4-gEdi-s",
+          "upload_date": "20260802",
+          "date_label": "02 Aug 2026",
+          "ticker": "META",
+          "company_name": "Meta Platforms Inc.",
+          "reason": "Meta crashed 8% after earnings due to raising CapEx and almost going negative on free cash flows. However, the creator argues this is an opportunity for long-term investors. Meta lacks a cloud business like Microsoft and Amazon, but the creator believes once Meta stops massive spending or shows spending is in line with expectations, the stock will be rewarded heavily. Google has recovered nicely from its post-earnings drop, and Meta is at the same price as March 2026 when the Iran war kicked off, representing a significant opportunity. The creator states: 'My opinion, obvious opportunity.'",
+          "when_to_buy": "Current levels after post-earnings decline",
+          "target_price": null,
+          "cautions": "Meta does not have the cloud business that Amazon, Google, and Microsoft do, making it less diversified. The CapEx raise was unexpected and spooked the market, creating the opportunity."
         }
       ],
       "avoids": [
@@ -5630,6 +5870,17 @@
           "company_name": "Meta Platforms Inc.",
           "reason": "Meta is projected to produce negative $10.5 billion in free cash flow out into 2027, meaning the business is expected to lose money over the next year. Unlike Microsoft, Meta is not maintaining profitability and free cash flow positivity while investing in capex, making it a risky long-term capital allocation.",
           "risk": "Negative free cash flow projected through 2027; not expected to turn FCF positive until 2030 with only $80 billion annual FCF projected by then, significantly lagging Microsoft's $224 billion projected FCF by 2031"
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "Is the AI Trade BACK?! The next move will shock investors",
+          "url": "https://www.youtube.com/watch?v=MqU4-gEdi-s",
+          "upload_date": "20260802",
+          "date_label": "02 Aug 2026",
+          "ticker": "META",
+          "company_name": "Meta Platforms Inc.",
+          "reason": "Meta almost went negative on free cash flows while raising CapEx, causing an 8% drop after earnings. Additionally, Meta lacks a cloud business like Microsoft, Amazon, and Google, making it less diversified for monetizing AI. It is at the same price as March 2026, suggesting a prolonged period of flat to negative returns. However, the creator views it as an opportunity once CapEx concerns are addressed.",
+          "risk": "Continued negative free cash flow deterioration and lack of cloud revenue diversification are risks. The creator wants to see evidence of CapEx discipline before aggressively buying."
         }
       ],
       "description": "Operates social media platforms and develops virtual reality devices"
@@ -5740,11 +5991,11 @@
     {
       "ticker": "MRVL",
       "company_name": "Marvell Technology",
-      "buy_count": 6,
+      "buy_count": 5,
       "avoid_count": 0,
-      "first_mention_date": "03 Jul 2026",
-      "price_at_first_mention": 228.03,
-      "pct_change_since_rec": -17.7,
+      "first_mention_date": "06 Jul 2026",
+      "price_at_first_mention": 231.71,
+      "pct_change_since_rec": -19.1,
       "market": {
         "ticker": "MRVL",
         "name": "Marvell Technology, Inc.",
@@ -5784,19 +6035,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "The AI STOCK Selloff WILL MAKE MILLIONAIRES!!",
-          "url": "https://www.youtube.com/watch?v=qnIKiwrx9kc",
-          "upload_date": "20260703",
-          "date_label": "03 Jul 2026",
-          "ticker": "MRVL",
-          "company_name": "Marvell Technology",
-          "reason": "Creator mentions entering a position in the optics space and references Marvell specifically. Creator states 'there's still massive demand for ASIC solutions' and views this as a time to be buying more of companies in this space. Optics stocks like Marvell are down significantly and represent an entry opportunity based on the creator's bullish AI infrastructure thesis.",
-          "when_to_buy": "Current market selloff; creator has recently entered positions",
-          "target_price": null,
-          "cautions": "Creator mentions not following the optics space as closely as semiconductors, indicating less conviction on this specific sector"
-        },
         {
           "channel": "The Traveling Trader",
           "title": "The Rotation Out of AI Stocks Just Started [A WARNING to All Investors]",
@@ -5869,7 +6107,7 @@
     {
       "ticker": "MSFT",
       "company_name": "Microsoft Corporation",
-      "buy_count": 16,
+      "buy_count": 17,
       "avoid_count": 0,
       "first_mention_date": "06 Jul 2026",
       "price_at_first_mention": 383.34,
@@ -6120,6 +6358,19 @@
           "when_to_buy": null,
           "target_price": "$451 (recent level post-earnings, stock up 15.5%)",
           "cautions": "Creator noted reduced bullishness compared to Amazon due to hesitation on CapEx acceleration. Microsoft lacks proprietary customized AI chips like Amazon and Google, limiting their ability to scale independently."
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "Is the AI Trade BACK?! The next move will shock investors",
+          "url": "https://www.youtube.com/watch?v=MqU4-gEdi-s",
+          "upload_date": "20260802",
+          "date_label": "02 Aug 2026",
+          "ticker": "MSFT",
+          "company_name": "Microsoft Corporation",
+          "reason": "Microsoft was rewarded with a 15.5% up day after earnings followed by another 3% the next day because they reduced CapEx expectations by $20 billion (the only hyperscaler to cut CapEx so far). Microsoft's free cash flows came in healthy at almost $20 billion, and Azure cloud revenue grew 43% YoY (beating the 40% expected) and surpassed $100 billion in revenue for the first time. The creator states this proves companies can monetize AI while controlling capital expenditure. The creator asks if Microsoft turns into one of their largest holdings. Microsoft demonstrates that lowering or controlling CapEx while growing revenue is the optimal outcome the market rewards.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": "Microsoft has already had a massive run-up post-earnings. The creator's enthusiasm is more about the strategic positioning and proof of concept for AI monetization rather than immediate entry."
         }
       ],
       "avoids": [],
@@ -6215,7 +6466,7 @@
         "ma200": 517.94,
         "ma_signal": "golden_cross",
         "pe_trailing": 18.586948,
-        "pe_forward": 5.3534055,
+        "pe_forward": 5.290652,
         "peg_ratio": 0.12,
         "revenue_growth": 3.457,
         "earnings_growth": 13.685,
@@ -6566,7 +6817,7 @@
     {
       "ticker": "NEBIUS",
       "company_name": "Nebius",
-      "buy_count": 2,
+      "buy_count": 3,
       "avoid_count": 0,
       "first_mention_date": "07 Jul 2026",
       "price_at_first_mention": null,
@@ -6598,6 +6849,19 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": "Data center stocks recently dropped on false reports that Meta was selling excess compute, but creator views this as providing opportunity in quality data center stocks."
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "Is the AI Trade BACK?! The next move will shock investors",
+          "url": "https://www.youtube.com/watch?v=MqU4-gEdi-s",
+          "upload_date": "20260802",
+          "date_label": "02 Aug 2026",
+          "ticker": "NEBIUS",
+          "company_name": "Nebius N.V.",
+          "reason": "Nebius is a data center play where the backlog ($50 billion) is nearly equal to its market cap ($45 billion). This means the company has future revenue essentially equal to its current valuation. Nebius has deals with Microsoft, Meta, and Nvidia, providing visibility into demand. The creator describes this as an asymmetric opportunity in the AI buildout where compute demand vastly exceeds supply.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": "These stocks are going to be volatile both on the way up and on the way down. The creator views them as higher-risk/higher-reward plays where the backlog creates upside potential but volatility is a feature."
         }
       ],
       "avoids": [],
@@ -7120,8 +7384,8 @@
         "analyst_buy": 18,
         "analyst_hold": 6,
         "analyst_sell": 2,
-        "analyst_target": 7.38,
-        "analyst_upside_pct": 51.2,
+        "analyst_target": 7.37,
+        "analyst_upside_pct": 51.1,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -7287,7 +7551,7 @@
     {
       "ticker": "NOW",
       "company_name": "ServiceNow Inc.",
-      "buy_count": 6,
+      "buy_count": 7,
       "avoid_count": 2,
       "first_mention_date": "06 Jul 2026",
       "price_at_first_mention": 107.78,
@@ -7408,6 +7672,19 @@
           "when_to_buy": null,
           "target_price": "$295 (base case), $140 (conservative case)",
           "cautions": "The creator personally is not buying ServiceNow despite the positive analysis, as he prefers the Constellation family of software stocks where he has higher conviction. Investors should be aware of potential margin headwinds from using hyperscaler data centers and the 2% free cash flow margin impact from the Armis acquisition. The company is projecting slight deceleration in growth rates through 2032, though from elevated levels above 20%."
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "Is the AI Trade BACK?! The next move will shock investors",
+          "url": "https://www.youtube.com/watch?v=MqU4-gEdi-s",
+          "upload_date": "20260802",
+          "date_label": "02 Aug 2026",
+          "ticker": "NOW",
+          "company_name": "ServiceNow Inc.",
+          "reason": "ServiceNow is an AI beneficiary stock in the software sector where AI will act as a beneficial layer rather than a threat to the business. The creator has talked about ServiceNow as a software stock that will improve due to AI integration rather than be disrupted by it.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": "The creator has not specified entry points or urgency for ServiceNow, suggesting it's on a watchlist rather than an immediate buy."
         }
       ],
       "avoids": [
@@ -7556,7 +7833,7 @@
     {
       "ticker": "NVDA",
       "company_name": "Nvidia Corporation",
-      "buy_count": 12,
+      "buy_count": 14,
       "avoid_count": 0,
       "first_mention_date": "07 Jul 2026",
       "price_at_first_mention": 196.93,
@@ -7755,6 +8032,32 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": "Not explicitly recommended to buy in this video. Mentioned as historical winner and as validator of neocloudcompute thesis through Nebius stake."
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "Is the AI Trade BACK?! The next move will shock investors",
+          "url": "https://www.youtube.com/watch?v=MqU4-gEdi-s",
+          "upload_date": "20260802",
+          "date_label": "02 Aug 2026",
+          "ticker": "NVDA",
+          "company_name": "Nvidia Corporation",
+          "reason": "The creator states that Nvidia needs no introduction, indicating it's a core holding. Nvidia is central to the AI buildout and is held by major hyperscalers (Microsoft, Meta, Amazon, Google). It's an essential component of any AI infrastructure play and benefits from the demand for compute that the creator describes as being unable to be satisfied by hyperscalers.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": "Nvidia's chart and position require confirmation before the creator begins swing trading again. The creator is waiting for broken charts to recover."
+        },
+        {
+          "channel": "Jose Najarro Stocks",
+          "title": "AMD Earnings Are 48 Hours Away \u2014 Here\u2019s Why I\u2019m Excited",
+          "url": "https://www.youtube.com/watch?v=Ze0qxgxE3rI",
+          "upload_date": "20260802",
+          "date_label": "02 Aug 2026",
+          "ticker": "NVDA",
+          "company_name": "Nvidia Corporation",
+          "reason": "Nvidia is the creator's largest position and biggest winner to date. The creator explicitly states 'Nvidia, you are my baby' and maintains conviction that Nvidia will continue to dominate the AI market. While AMD is gaining share, the creator emphasizes that the AI market is so massive that multiple players can win, but Nvidia's leadership position remains unquestioned in his view.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": "The creator acknowledges that while Nvidia will dominate, AMD and other competitors will also capture significant gains. The creator cautions that AMD's strength does not diminish Nvidia's prospects, and he is not advocating to reduce Nvidia positions in favor of AMD."
         }
       ],
       "avoids": [],
@@ -7801,7 +8104,7 @@
         "analyst_buy": 5,
         "analyst_hold": 9,
         "analyst_sell": 0,
-        "analyst_target": 47.84,
+        "analyst_target": 47.82,
         "analyst_upside_pct": 1.6,
         "earnings_date": null,
         "earnings_days": null
@@ -7915,11 +8218,11 @@
     {
       "ticker": "ORCL",
       "company_name": "Oracle Corporation",
-      "buy_count": 3,
+      "buy_count": 2,
       "avoid_count": 1,
-      "first_mention_date": "03 Jul 2026",
-      "price_at_first_mention": 138.12,
-      "pct_change_since_rec": -6.0,
+      "first_mention_date": "14 Jul 2026",
+      "price_at_first_mention": 127.94,
+      "pct_change_since_rec": 1.5,
       "market": {
         "ticker": "ORCL",
         "name": "Oracle Corporation",
@@ -7959,19 +8262,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "The AI STOCK Selloff WILL MAKE MILLIONAIRES!!",
-          "url": "https://www.youtube.com/watch?v=qnIKiwrx9kc",
-          "upload_date": "20260703",
-          "date_label": "03 Jul 2026",
-          "ticker": "ORCL",
-          "company_name": "Oracle Corporation",
-          "reason": "Creator identifies Oracle as one of only a few companies capable of executing large-scale neo cloud compute deals at premium pricing, alongside SpaceX and Meta. The creator states this 'could actually be a bullish sign for Oracle as well' noting the stock 'has been down a nice amount' and suggests 'we'd love to just kind of start thinking about that one as well,' indicating Oracle benefits from the structural AI compute opportunity.",
-          "when_to_buy": "Current market selloff when stock is down",
-          "target_price": null,
-          "cautions": null
-        },
         {
           "channel": "Mr. FIRED Up Wealth",
           "title": "25+ Years Investing Through Every Crash \u2014 Here's My Honest Take on the Sell-Off!",
@@ -8017,7 +8307,7 @@
     {
       "ticker": "PALANTIR",
       "company_name": "Palantir Technologies",
-      "buy_count": 1,
+      "buy_count": 2,
       "avoid_count": 1,
       "first_mention_date": "16 Jul 2026",
       "price_at_first_mention": null,
@@ -8034,6 +8324,19 @@
           "company_name": "Palantir Technologies",
           "reason": "Palantir at $120-123 per share is positioned to 'absolutely crush' upcoming earnings and continue demonstrating why it is one of the biggest winners in the AI/software space. Creator views Palantir as a high-quality business that will show strong results.",
           "when_to_buy": null,
+          "target_price": null,
+          "cautions": null
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Just Bought $5,200 of These 3 Stocks. Here's Why",
+          "url": "https://www.youtube.com/watch?v=MSfaIeQ0eq8",
+          "upload_date": "20260802",
+          "date_label": "02 Aug 2026",
+          "ticker": "PALANTIR",
+          "company_name": "Palantir Technologies Inc.",
+          "reason": "The creator predicts Palantir will absolutely crush earnings on Monday after hours with no doubt. The stock is down quite significantly, meaning it is not going into the earnings report with a price-to-perfection dynamic, which provides downside protection.",
+          "when_to_buy": "Earnings Monday after hours; stock is down substantially providing a favorable risk/reward",
           "target_price": null,
           "cautions": null
         }
@@ -8056,7 +8359,7 @@
     {
       "ticker": "PANW",
       "company_name": "Palo Alto Networks Inc.",
-      "buy_count": 1,
+      "buy_count": 2,
       "avoid_count": 0,
       "first_mention_date": "09 Jul 2026",
       "price_at_first_mention": 338.31,
@@ -8112,6 +8415,19 @@
           "when_to_buy": "Creator bought in the community portfolio in the current range and previously started buying in 2015 when he said there was huge potential for agentic AI. Creator bought Palo Alto at lower prices but acknowledges current levels are elevated.",
           "target_price": "$400 (R3 resistance level)",
           "cautions": "Stock is trading at $335 with R3 at $400, putting it at elevated risk-reward levels. The 50-day simple moving average is at $263, meaning the stock is significantly above short-term moving averages. Creator explicitly states he is not a buyer at $335 and recommends waiting for dips. This is an expensive stock and creator warns against FOMO chasing. The stock has already ripped significantly as the market has caught on to the agentic AI thesis. Valuation is 19.5x EV/NTR (compared to CrowdStrike at 31x EV/NTR, which has higher recurring revenue at 95% vs 80%)."
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "Is the AI Trade BACK?! The next move will shock investors",
+          "url": "https://www.youtube.com/watch?v=MqU4-gEdi-s",
+          "upload_date": "20260802",
+          "date_label": "02 Aug 2026",
+          "ticker": "PANW",
+          "company_name": "Palo Alto Networks Inc.",
+          "reason": "Palo Alto Networks is a cybersecurity stock that the creator views as an AI beneficiary where AI will make their products better rather than disrupt them. Cybersecurity stocks have seen a nice discount in the recent correction. The creator states that 'at some point these are stocks that will get to a level where in my opinion they'll be discounted too heavily and become asymmetric opportunities' and 'these stocks are not going away, and AI is just going to make their products better.'",
+          "when_to_buy": "At deeper discounts; the creator is not quite ready to pull the trigger yet but sees future opportunity",
+          "target_price": null,
+          "cautions": "Not ready to buy yet; waiting for a deeper discount to create an asymmetric opportunity."
         }
       ],
       "avoids": [],
@@ -8450,7 +8766,7 @@
     {
       "ticker": "QQQ",
       "company_name": "Nasdaq 100 ETF",
-      "buy_count": 1,
+      "buy_count": 2,
       "avoid_count": 0,
       "first_mention_date": "26 Jul 2026",
       "price_at_first_mention": 684.23,
@@ -8506,6 +8822,19 @@
           "when_to_buy": "On any drop of minus 10% or more from highs. Specifically, when Nasdaq reaches the 100-day moving average, it will trigger a minus 10% decline from recent highs.",
           "target_price": null,
           "cautions": "Further downside to 7,300 SPX is possible if geopolitical or bond market conditions deteriorate. Creator views this as a rough trading environment and recommends limiting swing trades."
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "Is the AI Trade BACK?! The next move will shock investors",
+          "url": "https://www.youtube.com/watch?v=MqU4-gEdi-s",
+          "upload_date": "20260802",
+          "date_label": "02 Aug 2026",
+          "ticker": "QQQ",
+          "company_name": "Invesco QQQ Trust (Nasdaq-100 ETF)",
+          "reason": "QQQ hit an official correction of 11.5% from top to bottom. The creator makes a habit of buying indices every time they drop 10%, viewing this as an asymmetric bet. The creator states that historically, you have never lost money buying an index when it's down 10%. The creator bought QQQ during this correction.",
+          "when_to_buy": "At minus 10% from highs, which QQQ achieved with an 11.5% decline",
+          "target_price": null,
+          "cautions": "The Nasdaq is still down about 8% from all-time highs and broken charts need time and confirmation. The creator is not swing trading long at this time and waiting for confirmation from the charts."
         }
       ],
       "avoids": [],
@@ -8674,7 +9003,7 @@
     {
       "ticker": "RDDT",
       "company_name": "Reddit",
-      "buy_count": 6,
+      "buy_count": 7,
       "avoid_count": 0,
       "first_mention_date": "05 Jul 2026",
       "price_at_first_mention": 194.67,
@@ -8699,7 +9028,7 @@
         "ma200": 180.08,
         "ma_signal": "death_cross",
         "pe_trailing": 32.71395,
-        "pe_forward": 14.8741455,
+        "pe_forward": 14.607719,
         "peg_ratio": 1.01,
         "revenue_growth": 0.611,
         "earnings_growth": 1.778,
@@ -8795,6 +9124,19 @@
           "when_to_buy": "Stock down approximately 18% in one day; RSI is very close to being oversold on the daily chart; trading at lowest levels since mid-April 2026",
           "target_price": "$212 per share (probability-weighted DCF price target representing 41% upside); bull case $331 per share",
           "cautions": "US logged-in daily active users only grew 1% year-over-year, essentially flat, which disappointed the market. Google AI Overviews are cannibalizing direct linked clicks and causing choppier search referrals, reducing organic traffic. The company is discontinuing the logged-in versus logged-out daily active user breakdown reporting starting Q3, which the market dislikes when metrics are removed. Weekly active users grew faster than daily active users, which is the opposite of the desired trend\u2014you want to convert weekly users to daily, not just add more weekly users. Q3 guidance shows deceleration to 48% growth year-over-year from prior quarters. User acquisition growth is slowing, making the company more reliant on monetization efficiency (ARPU increased 51%) rather than user growth."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Just Bought $5,200 of These 3 Stocks. Here's Why",
+          "url": "https://www.youtube.com/watch?v=MSfaIeQ0eq8",
+          "upload_date": "20260802",
+          "date_label": "02 Aug 2026",
+          "ticker": "RDDT",
+          "company_name": "Reddit Inc.",
+          "reason": "The creator bought more Reddit despite being down 16% at $148 per share, believing it is undervalued. Reddit is a $27 billion company with a trailing PE of 32.7x and forward PE of 23.7x with excellent margins and a PEG ratio under 1. Analyst expectations call for 52.8% growth this fiscal year, 30% next year, and 24-25% in fiscal 2028. The issue is not monetization\u2014Reddit is doing an excellent job monetizing current users\u2014but user base growth. The creator believes Reddit's valuable data should command better licensing deals with Google, OpenAI, and Anthropic. The stock dropped on concerns that Google AI Overviews will reduce Reddit traffic, but this creates an opportunity for Reddit to renegotiate better data licensing agreements.",
+          "when_to_buy": "Creator bought at $148, though timing was poor as stock dropped further to $140; implied support at $145-146",
+          "target_price": null,
+          "cautions": "Primary risk is whether Reddit can grow its logged-in user base, particularly in the US where growth is barely year-over-year. The core concern is data licensing threat from Google AI Overviews reducing organic traffic. User growth must accelerate to justify current valuations. Position size is modest at 2.3% of portfolio to manage risk."
         }
       ],
       "avoids": [],
@@ -8804,7 +9146,7 @@
       "ticker": "REDDIT",
       "company_name": "Reddit Inc.",
       "buy_count": 2,
-      "avoid_count": 0,
+      "avoid_count": 1,
       "first_mention_date": "20 Jul 2026",
       "price_at_first_mention": null,
       "pct_change_since_rec": null,
@@ -8837,7 +9179,19 @@
           "cautions": "Stock dumped 4-10% after hours despite strong earnings, likely due to US-specific daily active users being flat quarter-over-quarter and only up 5.7% year-over-year in logged-in US DAUs. Since average revenue per user in the US is much higher than rest of world, this US segment slowdown concerned investors. Data licensing deals commentary from management was anticipated to be addressed but may not have satisfied the street. The stock remains in a trading range having recovered modestly from recent losses but has not achieved meaningful upside despite strong growth metrics."
         }
       ],
-      "avoids": [],
+      "avoids": [
+        {
+          "channel": "CouchInvestor",
+          "title": "I Just Bought $5,200 of These 3 Stocks. Here's Why",
+          "url": "https://www.youtube.com/watch?v=MSfaIeQ0eq8",
+          "upload_date": "20260802",
+          "date_label": "02 Aug 2026",
+          "ticker": "REDDIT",
+          "company_name": "Reddit Inc.",
+          "reason": "While the creator did buy Reddit, they also acknowledge significant bear thesis risks. The primary concern is that Google AI Overviews are already taking traffic from Reddit, which threatens user growth. If Reddit cannot negotiate better data licensing deals with Google, OpenAI, and Anthropic, the reduced traffic will hurt the user base growth on which valuation depends. The US market growth is barely positive year-over-year, and while rest-of-world is growing, ARPU (average revenue per user) is much lower internationally.",
+          "risk": "If Google AI Overviews continue reducing traffic and Reddit fails to secure premium data licensing deals, user growth could deteriorate significantly, potentially driving the stock toward the low $1,600s or lower."
+        }
+      ],
       "description": "Online discussion platform and community forum aggregator"
     },
     {
@@ -8994,7 +9348,7 @@
         "ma200": 77.78,
         "ma_signal": "golden_cross",
         "pe_trailing": null,
-        "pe_forward": 1249.0383,
+        "pe_forward": 7797.1187,
         "peg_ratio": null,
         "revenue_growth": 0.635,
         "earnings_growth": null,
@@ -9628,6 +9982,70 @@
       "description": "DRAM, NAND flash memory, and semiconductor foundry"
     },
     {
+      "ticker": "SMH",
+      "company_name": "Semiconductor ETF",
+      "buy_count": 1,
+      "avoid_count": 0,
+      "first_mention_date": "02 Aug 2026",
+      "price_at_first_mention": 540.53,
+      "pct_change_since_rec": 0.0,
+      "market": {
+        "ticker": "SMH",
+        "name": "VanEck Semiconductor ETF",
+        "currency": "USD",
+        "sector": null,
+        "industry": null,
+        "market_cap": null,
+        "current_price": 540.53,
+        "daily_change_pct": 0.3,
+        "month_change_pct": -12.88,
+        "week52_high": 671.83,
+        "week52_high_date": "22 Jun 2026",
+        "week52_low": 281.15,
+        "week52_low_date": "01 Aug 2025",
+        "rsi": 42.7,
+        "rsi_label": "neutral",
+        "ma50": 596.17,
+        "ma200": 450.27,
+        "ma_signal": "golden_cross",
+        "pe_trailing": 34.99208,
+        "pe_forward": null,
+        "peg_ratio": null,
+        "revenue_growth": null,
+        "earnings_growth": null,
+        "free_cashflow": null,
+        "profit_margins": null,
+        "debt_to_equity": null,
+        "beta": null,
+        "short_percent": null,
+        "dividend_yield": 0.17,
+        "analyst_buy": null,
+        "analyst_hold": null,
+        "analyst_sell": null,
+        "analyst_target": null,
+        "analyst_upside_pct": null,
+        "earnings_date": null,
+        "earnings_days": null
+      },
+      "buys": [
+        {
+          "channel": "The Traveling Trader",
+          "title": "Is the AI Trade BACK?! The next move will shock investors",
+          "url": "https://www.youtube.com/watch?v=MqU4-gEdi-s",
+          "upload_date": "20260802",
+          "date_label": "02 Aug 2026",
+          "ticker": "SMH",
+          "company_name": "Semiconductor ETF",
+          "reason": "Chip stocks hit an official bear market down 25% from highs. The creator identified that historically, when SMH rejects the 50-day moving average and closes below it significantly, it visits the 100-day moving average, which occurred. The creator bought SMH as part of an asymmetric bet, stating that buying a bear market in mega-cap chips is asymmetric regardless of whether it's the bottom. The creator makes a habit of buying indices and sector ETFs when they are down significantly, viewing this as an asymmetric opportunity where the risk-reward is skewed in their favor.",
+          "when_to_buy": "At bear market levels (down 25% from highs). Creator also dollar cost averaged in the chips bear market.",
+          "target_price": null,
+          "cautions": "The creator notes that these broken charts will take time to recover and confirmation is needed before swing trading. These stocks did not become better businesses overnight; the bounce was due to forced selling pressure being over, hitting a local bottom."
+        }
+      ],
+      "avoids": [],
+      "description": "ETF tracking US-listed semiconductor companies"
+    },
+    {
       "ticker": "SNDK",
       "company_name": "SanDisk (Kioxia Holdings)",
       "buy_count": 1,
@@ -9758,7 +10176,7 @@
     {
       "ticker": "SOFI",
       "company_name": "SoFi Technologies",
-      "buy_count": 10,
+      "buy_count": 11,
       "avoid_count": 0,
       "first_mention_date": "05 Jul 2026",
       "price_at_first_mention": 18.24,
@@ -9931,6 +10349,19 @@
           "when_to_buy": "Current price approximately $15.10 after earnings decline; implied move was 11% which brought stock down from approximately $16.80. Creator suggests this is a macro-driven decline, not company-driven, and expects rapid upside movement once macro clarity emerges.",
           "target_price": "Upside scenario of 11% would bring stock to approximately $18.40; creator references prior rapid moves from $10 to $20 and beyond",
           "cautions": "Stock is currently down despite strong earnings due to macro concerns around FOMC meeting and interest rate expectations. Company is choosing to reinvest revenue gains into growth initiatives rather than maximize near-term EPS, which depressed guidance for adjusted EPS despite raising revenue guidance. Tax rate increased to 22% from original 15% assumption, reducing EPS by 5 cents. Macro environment remains uncertain with potential for rate hikes instead of cuts, though company guidance still improved. Stock is unpopular and trading at a significant discount to AI and other growth companies, creating valuation risk if market sentiment does not shift."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Just Bought $5,200 of These 3 Stocks. Here's Why",
+          "url": "https://www.youtube.com/watch?v=MSfaIeQ0eq8",
+          "upload_date": "20260802",
+          "date_label": "02 Aug 2026",
+          "ticker": "SOFI",
+          "company_name": "SoFi Technologies Inc.",
+          "reason": "The creator increased their SoFi position by 3.2% (100 additional shares) because it is a triple-B rated company that is extremely undervalued. Despite worse assumptions for the year, the company raised guidance, demonstrating excellent execution and operational efficiency. The company is doing what it should be doing and represents significant value.",
+          "when_to_buy": "Buy dips; creator bought at market prices during the week",
+          "target_price": "Needs to go back above $17 and challenge $18 per share for momentum confirmation",
+          "cautions": null
         }
       ],
       "avoids": [],
@@ -10022,6 +10453,134 @@
         }
       ],
       "description": "Leveraged ETF providing 3x daily exposure to semiconductor stocks"
+    },
+    {
+      "ticker": "SOXQ",
+      "company_name": "Invesco Semiconductor ETF",
+      "buy_count": 1,
+      "avoid_count": 0,
+      "first_mention_date": "02 Aug 2026",
+      "price_at_first_mention": 89.05,
+      "pct_change_since_rec": 0.0,
+      "market": {
+        "ticker": "SOXQ",
+        "name": "Invesco PHLX Semiconductor ETF",
+        "currency": "USD",
+        "sector": null,
+        "industry": null,
+        "market_cap": null,
+        "current_price": 89.05,
+        "daily_change_pct": 0.15,
+        "month_change_pct": -15.28,
+        "week52_high": 115.33,
+        "week52_high_date": "22 Jun 2026",
+        "week52_low": 43.11,
+        "week52_low_date": "01 Aug 2025",
+        "rsi": 42.5,
+        "rsi_label": "neutral",
+        "ma50": 100.21,
+        "ma200": 72.58,
+        "ma_signal": "golden_cross",
+        "pe_trailing": 35.318325,
+        "pe_forward": null,
+        "peg_ratio": null,
+        "revenue_growth": null,
+        "earnings_growth": null,
+        "free_cashflow": null,
+        "profit_margins": null,
+        "debt_to_equity": null,
+        "beta": null,
+        "short_percent": null,
+        "dividend_yield": 0.25,
+        "analyst_buy": null,
+        "analyst_hold": null,
+        "analyst_sell": null,
+        "analyst_target": null,
+        "analyst_upside_pct": null,
+        "earnings_date": null,
+        "earnings_days": null
+      },
+      "buys": [
+        {
+          "channel": "The Traveling Trader",
+          "title": "Is the AI Trade BACK?! The next move will shock investors",
+          "url": "https://www.youtube.com/watch?v=MqU4-gEdi-s",
+          "upload_date": "20260802",
+          "date_label": "02 Aug 2026",
+          "ticker": "SOXQ",
+          "company_name": "Invesco Semiconductor ETF",
+          "reason": "The creator recommends SOXQ as a good middle ground ETF for those who don't want the triple leverage of SOXL but want exposure to the semiconductor sector without a leverage strategy. It's a smaller, lower-priced version that tracks the same sector as SOXX and SMH.",
+          "when_to_buy": "During semiconductor bear market conditions",
+          "target_price": null,
+          "cautions": "Like the broader semiconductor sector, SOXQ requires time for broken charts to recover and confirmation before aggressively trading."
+        }
+      ],
+      "avoids": [],
+      "description": "ETF tracking 30 largest US semiconductor companies"
+    },
+    {
+      "ticker": "SOXX",
+      "company_name": "Invesco Semiconductor ETF",
+      "buy_count": 1,
+      "avoid_count": 0,
+      "first_mention_date": "02 Aug 2026",
+      "price_at_first_mention": 504.89,
+      "pct_change_since_rec": 0.0,
+      "market": {
+        "ticker": "SOXX",
+        "name": "iShares PHLX SOX Semiconductor ",
+        "currency": "USD",
+        "sector": null,
+        "industry": null,
+        "market_cap": null,
+        "current_price": 504.89,
+        "daily_change_pct": 0.07,
+        "month_change_pct": -15.81,
+        "week52_high": 655.95,
+        "week52_high_date": "22 Jun 2026",
+        "week52_low": 233.67,
+        "week52_low_date": "01 Aug 2025",
+        "rsi": 42.6,
+        "rsi_label": "neutral",
+        "ma50": 567.58,
+        "ma200": 402.51,
+        "ma_signal": "golden_cross",
+        "pe_trailing": 35.692265,
+        "pe_forward": null,
+        "peg_ratio": null,
+        "revenue_growth": null,
+        "earnings_growth": null,
+        "free_cashflow": null,
+        "profit_margins": null,
+        "debt_to_equity": null,
+        "beta": null,
+        "short_percent": null,
+        "dividend_yield": 0.23,
+        "analyst_buy": null,
+        "analyst_hold": null,
+        "analyst_sell": null,
+        "analyst_target": null,
+        "analyst_upside_pct": null,
+        "earnings_date": null,
+        "earnings_days": null
+      },
+      "buys": [
+        {
+          "channel": "The Traveling Trader",
+          "title": "Is the AI Trade BACK?! The next move will shock investors",
+          "url": "https://www.youtube.com/watch?v=MqU4-gEdi-s",
+          "upload_date": "20260802",
+          "date_label": "02 Aug 2026",
+          "ticker": "SOXX",
+          "company_name": "Invesco Semiconductor ETF",
+          "reason": "Semiconductor stocks are in a bear market down 25% from highs, presenting an asymmetric opportunity. The creator recommends SOXX as an alternative to the leveraged SOXL or the lower-priced SOXQ, tracking the same semiconductor index.",
+          "when_to_buy": "During bear market conditions in semiconductors",
+          "target_price": null,
+          "cautions": "Charts have extreme distribution patterns and will take quite a while to break out and recover. Not ready to swing trade yet; confirmation needed."
+        }
+      ],
+      "avoids": [],
+      "description": "ETF tracking US semiconductor industry companies"
     },
     {
       "ticker": "SPY",
@@ -10546,7 +11105,7 @@
     {
       "ticker": "TSM",
       "company_name": "Taiwan Semiconductor Manufacturing Company",
-      "buy_count": 2,
+      "buy_count": 3,
       "avoid_count": 0,
       "first_mention_date": "13 Jul 2026",
       "price_at_first_mention": 434.11,
@@ -10615,6 +11174,19 @@
           "when_to_buy": "During market dips; stock currently down almost 15% over the last month",
           "target_price": null,
           "cautions": "TSMC faces near-term margin pressure from expensive and risky transition to 2-nanometer chip production with lower initial yields. The company is exposed to supply chain shocks from the Strait of Hormuz closure, as Taiwan imports over 90% of its energy and keeps less than a month of reserves. 2-nanometer wafers cost around 50% more than current 3-nanometer wafers, so until 2nm fabs ramp up production over the next few quarters, margins will be temporarily depressed."
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "Is the AI Trade BACK?! The next move will shock investors",
+          "url": "https://www.youtube.com/watch?v=MqU4-gEdi-s",
+          "upload_date": "20260802",
+          "date_label": "02 Aug 2026",
+          "ticker": "TSM",
+          "company_name": "Taiwan Semiconductor Manufacturing Company",
+          "reason": "TSM is one of two monopolies the creator is already invested in. The company's revenue, EBITDA, gross profit, net income, cash from operations, free cash flow, and earnings per share are all very strong. TSM is the world's leading chip manufacturer and essential to the AI buildout. The creator sees it as a monopoly position worth holding long-term.",
+          "when_to_buy": "At current levels (similar discount to highs as ASML mentioned)",
+          "target_price": null,
+          "cautions": "TSM, like other semiconductor stocks, has been impacted by recent market volatility and may require time for recovery."
         }
       ],
       "avoids": [],
@@ -11073,8 +11645,45 @@
       "avoid_count": 0,
       "first_mention_date": "21 Jul 2026",
       "price_at_first_mention": 156.14,
-      "pct_change_since_rec": null,
-      "market": null,
+      "pct_change_since_rec": -0.2,
+      "market": {
+        "ticker": "VT",
+        "name": "Vanguard Total World Stock Inde",
+        "currency": "USD",
+        "sector": null,
+        "industry": null,
+        "market_cap": null,
+        "current_price": 155.86,
+        "daily_change_pct": 0.26,
+        "month_change_pct": -0.17,
+        "week52_high": 159.41,
+        "week52_high_date": "02 Jun 2026",
+        "week52_low": 129.35,
+        "week52_low_date": "01 Aug 2025",
+        "rsi": 52.1,
+        "rsi_label": "neutral",
+        "ma50": 155.78,
+        "ma200": 145.91,
+        "ma_signal": "golden_cross",
+        "pe_trailing": 22.41945,
+        "pe_forward": null,
+        "peg_ratio": null,
+        "revenue_growth": null,
+        "earnings_growth": null,
+        "free_cashflow": null,
+        "profit_margins": null,
+        "debt_to_equity": null,
+        "beta": null,
+        "short_percent": null,
+        "dividend_yield": 1.58,
+        "analyst_buy": null,
+        "analyst_hold": null,
+        "analyst_sell": null,
+        "analyst_target": null,
+        "analyst_upside_pct": null,
+        "earnings_date": null,
+        "earnings_days": null
+      },
       "buys": [
         {
           "channel": "CouchInvestor",

@@ -14221,6 +14221,155 @@
         "AMD": 476.15,
         "NVDA": 200.75
       }
+    },
+    "1_XJTh-7JGM": {
+      "channel": "CouchInvestor",
+      "title": "PALANTIR Q2 EARNINGS REPORT BREAKDOWN",
+      "upload_date": "20260803",
+      "url": "https://www.youtube.com/watch?v=1_XJTh-7JGM",
+      "processed_at": "2026-08-04T09:58:52.366224",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "PLTR",
+            "company_name": "Palantir Technologies",
+            "reason": "Palantir delivered 93% year-over-year revenue growth, 149% US commercial revenue growth, and 155% Rule of 40 score in Q2 2026. The company achieved $1.22 billion in adjusted free cash flow with a 63% margin, surpassed $1 billion in both GAP net income and adjusted operating income, and demonstrated a net dollar retention rate of 157%. The creators believe the company is growing exceptionally fast at significant scale with expanding margins, making it one of the most spectacular companies they've seen. They view it as a potential multi-year hold where paying a slight premium for an exceptional business is justified, similar to Nvidia's historical valuation trends. CEO Alex Karp stated he is driving the entire business to grow at a rate equal to or above the 149% US commercial growth rate for the next 18 months.",
+            "when_to_buy": "Under $130 represents a strong entry point; creators were actively buying below $125, doubling positions at $118, and doubling again at $107. After-hours trading showed the stock at $139.99 following earnings.",
+            "target_price": "Creators believe the stock could potentially reach $200+ in the medium term if growth acceleration continues. One creator mentioned the stock's all-time high around $207.",
+            "cautions": "Stock is currently up significantly after earnings (12-13% after-hours), so initial momentum may not sustain. The company faces a temporary ban on share buybacks from the Trump administration, limiting capital allocation options. There is execution risk on the ambitious 18-month growth guidance at 149%+ rates. The company's accounts payable increased significantly from $8 million to $500 million quarter-over-quarter, which the creators investigated but did not fully resolve."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "SaaS sector rotation risk: Creators mentioned concern about potential SaaS sector sell-offs that could unfairly lump Palantir with weaker SaaS names like Salesforce, requiring conviction to buy into those dips.",
+          "Geopolitical risk: Creators noted that stock price momentum can flip with negative news (they specifically mentioned 'DT and the situation with Iran' as potential catalysts), suggesting investors should be prepared for sudden volatility regardless of fundamentals."
+        ],
+        "tickers_mentioned": [
+          "PLTR",
+          "VTX",
+          "AEIS",
+          "SLNG",
+          "SMCI",
+          "SNAP",
+          "ON",
+          "CWH",
+          "NBIS",
+          "RDDT",
+          "NVDA",
+          "SNOW",
+          "META",
+          "AMD"
+        ]
+      },
+      "price_at_recommendation": {
+        "PLTR": 125.65
+      }
+    },
+    "UryYddSqC30": {
+      "channel": "CouchInvestor",
+      "title": "The Stocks I'm Ready to Buy on the Next Dip (a new one)",
+      "upload_date": "20260803",
+      "url": "https://www.youtube.com/watch?v=UryYddSqC30",
+      "processed_at": "2026-08-04T09:59:23.423206",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "PLTR",
+            "company_name": "Palantir Technologies",
+            "reason": "The creator bought extra shares before earnings despite the position being small, believing the quarter will be pretty good. The strategy is to add more if the stock pulls back, as the creator's average cost is around $107 per share and they want to build the position opportunistically rather than chase higher prices.",
+            "when_to_buy": "On a pullback after earnings; creator bought 20 extra shares at $125",
+            "target_price": null,
+            "cautions": "Earnings reaction is unpredictable\u2014the creator noted that 3 months ago Palantir had an excellent quarter with acceleration across the board, but the stock was down 6% the day after. This is why the creator only added a small number of shares before earnings rather than a large position."
+          },
+          {
+            "ticker": "NEBS",
+            "company_name": "Nebeus",
+            "reason": "Nebeus is a $52 billion company expected to generate $3.3 billion in revenue this fiscal year, $11.4 billion next fiscal year, and over $21 billion by fiscal 2028, which the creator believes are conservative analyst estimates. The creator is working on a DCF valuation and believes even at current prices it is not expensive given growth trajectory and expected 20-30% EBIT margins in the medium to long term. The creator owns a large position at much lower prices and would add more on pullbacks.",
+            "when_to_buy": "If the stock revisits $150 per share (a few days ago it was trading around that level before rallying 30%)",
+            "target_price": null,
+            "cautions": "The creator expects earnings on August 12th and would prefer a pullback to add more shares rather than chase the recent 30% rally. The valuation thesis depends on achieving the high revenue and margin expectations outlined by the company."
+          },
+          {
+            "ticker": "MSFT",
+            "company_name": "Microsoft",
+            "reason": "Microsoft is expected to generate $971 billion in revenue by fiscal 2035 with free cash flow to firm of $387.5 billion in the base case, potentially over $1 trillion in the bull case. Despite being a $3.6 trillion company, it is trading at a forward P/E of 24.6x and PEG ratio of 1.5x, with revenue expected to grow 17.7% this fiscal year and accelerate to 19.1% and 20% in subsequent years. The creator's DCF model shows 18.3% upside to fair value, with the company likely doing better than market expectations despite the recent strong rally.",
+            "when_to_buy": "Closer to $400 per share (down from current ~$482)",
+            "target_price": null,
+            "cautions": "The creator does not currently own Microsoft shares despite viewing it as a quality company, suggesting they prefer to wait for a lower entry point. The valuation already incorporates significant growth expectations, so execution risk exists if growth disappoints."
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms",
+            "reason": "Meta's last 12 months revenue reached $228.2 billion, up from $120.5 billion in Q1 2023 (nearly doubling in 3 years), and operating profit exploded from $28.7 billion in Q2 2023 to $86.9 billion in Q2 2024 (203.1% profit growth, 44.7% CAGR). Despite capex tripling with a CAGR of 42.1%, the core business is extremely profitable and absorbing the infrastructure spend well. The creator's DCF shows 46.5% weighted upside with fair value around $861, and Meta is launching high-potential monetization opportunities like business agents on WhatsApp (1 million businesses using it in one quarter). The creator recently bought more shares last week.",
+            "when_to_buy": "The creator would like to see this as a sub-$600 consistently trading stock but already owns shares and has been buying",
+            "target_price": "$861 (fair value per creator's DCF); creator believes it should trade above $800",
+            "cautions": "Year-to-date the stock is down close to 9%, and the bare case shows 9.7% downside if the company cannot monetize its AI investments and infrastructure spending. The creator notes that once capex spending peaks and people realize how profitable the business is, sentiment will shift, but this is timing dependent."
+          },
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet Inc.",
+            "reason": "Google Cloud segment is accelerating with 81.8% growth and 35.5% operating margin expansion, now the fifth consecutive quarter of acceleration. Search still dominates at 52.8% of revenue but the rest of the business (Google Cloud primarily) is now 46.7% and growing much faster, reducing concentration risk. The creator expects Google Cloud to push the non-search business above 50% of revenue within a year. The base case DCF projects ~$900 billion in revenue by 2035 with bull case over $1 trillion, showing 13.3% upside to fair value.",
+            "when_to_buy": "Creator would prefer to add at prices closer to $300 or if valuation becomes cheaper, though they already own significant shares",
+            "target_price": null,
+            "cautions": "The creator already owns a large position and is not actively adding at current prices. The stock is up 17.2% year-to-date and any further upside may be limited in the near term. The creator is waiting for either a cheaper stock price or much cheaper valuation to add more."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "DWAVE",
+            "company_name": "D-Wave Systems",
+            "reason": "The creator explicitly warns against quantum computing companies like D-Wave, stating there are very few useful applications for quantum computing currently and likely for years. Most people promoting quantum computing either don't understand what they're talking about, are farming views, or are pumping stocks they own at higher prices. For quantum computing exposure, the creator recommends buying established tech companies like Google, Microsoft, or IBM that already generate billions in revenue and are investing in quantum as a long-term bet.",
+            "risk": "Overvaluation based on hype; limited near-term revenue opportunities"
+          },
+          {
+            "ticker": "IONQ",
+            "company_name": "IonQ",
+            "reason": "The creator groups IonQ with other quantum computing companies as part of a warning against quantum computing hype. There are insufficient commercial applications for quantum computing to justify standalone quantum companies as significant investments. The creator dismisses the quantum computing narrative as either misunderstanding or hype-driven.",
+            "risk": "Overvaluation based on hype; limited near-term revenue opportunities"
+          },
+          {
+            "ticker": "RGTI",
+            "company_name": "Rigetti Computing",
+            "reason": "The creator groups Rigetti with other quantum computing companies as part of a warning against quantum computing hype. There are insufficient commercial applications for quantum computing to justify standalone quantum companies as significant investments.",
+            "risk": "Overvaluation based on hype; limited near-term revenue opportunities"
+          }
+        ],
+        "key_warnings": [
+          "Quantum computing companies (D-Wave, IonQ, Rigetti, etc.) are being oversold as revolutionary investments, but there are very few useful applications currently and will be for years to come. Most promoters of these companies either misunderstand the technology, are farming views, or are pumping stocks they own at higher prices. For legitimate quantum computing exposure, invest in established tech giants like Google, Microsoft, or IBM that are working on quantum as a long-term research bet while generating billions from existing businesses.",
+          "Earnings reactions are unpredictable and can be counterintuitive\u2014even excellent quarters can result in stock declines (as seen with Palantir's 6% drop after a strong quarter 3 months ago). Exercise caution when buying into earnings and consider position size accordingly.",
+          "Multiple pullbacks have already occurred in 2024, exhausting available cash for many investors. Opportunities may continue but capital allocation becomes critical as dry powder diminishes."
+        ],
+        "tickers_mentioned": [
+          "PLTR",
+          "NEBS",
+          "MSFT",
+          "META",
+          "GOOGL",
+          "AMZN",
+          "NVDA",
+          "AMD",
+          "MU",
+          "UBER",
+          "SHOP",
+          "WDC",
+          "SNDK",
+          "SOFI",
+          "RDDT",
+          "AXON",
+          "DWAVE",
+          "IONQ",
+          "RGTI",
+          "IBM"
+        ]
+      },
+      "price_at_recommendation": {
+        "IONQ": 38.85,
+        "META": 590.24,
+        "MSFT": 487.65,
+        "RGTI": 16.02,
+        "GOOGL": 373.51,
+        "PLTR": 125.65
+      }
     }
   },
   "channel_ids": {

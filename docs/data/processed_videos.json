@@ -14370,6 +14370,37 @@
         "GOOGL": 373.51,
         "PLTR": 125.65
       }
+    },
+    "JEP4vi9pW9o": {
+      "channel": "CouchInvestor",
+      "title": "Palantir Just Proved Me Right. Here's What I'm Doing Now",
+      "upload_date": "20260804",
+      "url": "https://www.youtube.com/watch?v=JEP4vi9pW9o",
+      "processed_at": "2026-08-04T15:31:08.235923",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "PLTR",
+            "company_name": "Palantir Technologies",
+            "reason": "The creator bought additional shares before earnings as an earnings gamble, betting that the market would reward accelerated growth. Palantir crushed earnings with 92.8% total revenue growth that has been accelerating for multiple quarters (from 16.8% three years ago to 93% now), demonstrating true momentum. Commercial revenue grew 109% YoY with US commercial up 149% YoY. Free cash flow increased 126% YoY. The company has a 157% net dollar retention rate and $9.2 billion in cash with no debt, increasing by $1.2 billion quarter over quarter. Management guided for $8.15 billion in fiscal 2026 revenue versus analyst expectations of $7.7 billion. CEO Alex Karp stated he is driving the business to grow at a rate equal to or above US commercial (149% growth) for the next 18 months. The creator's DCF model shows 13.6% upside to fair value at $165 per share based on 85% revenue growth assumptions for the next two years declining gradually to 15% by 2035, with margin expansion to 50% by 2035. The creator believes this growth trajectory is achievable based on management's track record of beating analyst estimates consistently.",
+            "when_to_buy": "The creator noted the stock was at $145-$146 per share at the time of the video, with a key technical level at the 50-week moving average of $153 that needs to be broken for momentum continuation.",
+            "target_price": "$165 per share based on creator's DCF model",
+            "cautions": "Stock remains down 12.3% year-to-date and was trading at $181 at the start of the year, showing significant volatility. Trading at expensive valuations with a trailing P/E of 125x and forward P/E of 92.5x, which the creator acknowledges is very expensive. The creator notes this is a gamble on earnings and there is no scientific certainty the stock will continue upward. Customer count growth at 1,493 (up from 954 two quarters ago) is slower than desired, though the creator notes this may indicate Palantir is prioritizing larger contracts which leaves future growth potential. If growth rates decelerate significantly by fiscal 2029, valuations would need to be reassessed. The creator's bear case assumes slower growth not sufficient to justify current pricing."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "The token economy and frontier model (closed-source AI models like OpenAI's) may face disruption. The creator warns that companies using frontier models burn through credits and tokens on models that make mistakes and don't deliver desired outcomes, yet still have to pay. In contrast, Palantier's approach with open-source models offers better price-to-outcome metrics. This suggests investors should be cautious about companies relying on inefficient frontier AI model monetization.",
+          "Analyst estimates across the market are consistently too low. The creator repeatedly notes that Palantir beats analyst revenue estimates by 6.9% quarterly and full-year guidance exceeds analyst projections ($8.15 billion vs $7.7 billion), suggesting that forward P/E multiples based on analyst estimates significantly undervalue growth companies like Palantir."
+        ],
+        "tickers_mentioned": [
+          "PLTR",
+          "NVDA"
+        ]
+      },
+      "price_at_recommendation": {
+        "PLTR": 157.63
+      }
     }
   },
   "channel_ids": {

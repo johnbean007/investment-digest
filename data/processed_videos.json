@@ -14823,6 +14823,120 @@
         "AMD": 518.58,
         "UPST": 30.32
       }
+    },
+    "GxKra1L2TCY": {
+      "channel": "Ticker Symbol: YOU",
+      "title": "This Is A Historic Buying Opportunity (98% Will Miss It)",
+      "upload_date": "20260805",
+      "url": "https://www.youtube.com/watch?v=GxKra1L2TCY",
+      "processed_at": "2026-08-05T23:36:52.414820",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "QCOM",
+            "company_name": "Qualcomm Incorporated",
+            "reason": "Qualcomm is pivoting to data centers with their Dragonfly C1000 CPU and has signed major customers including Meta (multi-generation agreement) and Microsoft Azure (deployment starting 2027). Management targets over $15 billion in data center revenue by 2029, up from $300 million currently, representing roughly 50x growth in 3 years and accounting for over a third of their $44 billion trailing 12-month revenue. The creator views this as an early entry opportunity because the stock is priced at roughly zero for the C1000 CPU despite secured customer commitments, making it attractive for long-term investors willing to take risk on a brand new chip from a company pivoting to data centers.",
+            "when_to_buy": "Early entry for long-term investors; actual chips still 2 years out (C1000 production Q2 2028, Azure accelerators 2027)",
+            "target_price": null,
+            "cautions": "Qualcomm has never shipped a data center CPU before. Custom silicon revenue starts later this year but the money is already booked and priced at zero, creating execution risk. The actual C1000 CPU doesn't start production until second half of 2028, meaning a 2-year wait before meaningful revenue contribution."
+          },
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices",
+            "reason": "AMD's Helios rack-scale systems pairing Instinct MI455X GPUs with Epic Venice CPUs are being deployed at gigawatt scales by leading AI companies. Meta signed for 6 GW of Helios racks, OpenAI for 6 GW of GPUs, and Anthropic for 2 GW, totaling 14 GW under AMD. Most Wall Street analysts only model GPU sales but overlook the 18 powerful expensive CPUs shipping with every Helios rack, creating unpriced upside. AMD just reported $11.5 billion revenue (up 50% YoY) with data center revenues of $6.7 billion (up 107% YoY, now 58% of total), and guided next quarter to roughly $13 billion. CEO Lisa Su confirmed demand for accelerators and CPUs keeps growing faster than expected.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "AMD paid a serious sum to secure these deals, including warrants to OpenAI and Meta Platforms for up to 160 million shares each at one penny, potentially giving away up to 20% of the company. These gigawatt deals are not guaranteed\u2014performance milestones must be hit and customers must actually deploy the chips. All of this upside is already priced into AMD's stock. AMD trades at 5x more expensive PE ratio than Nvidia and 3x more expensive forward PE ratio, with multiples rising each earnings call while Nvidia's multiples fall. The creator explicitly states 'I'm not saying you shouldn't buy AMD stock, but I am saying you should understand what you're buying if you do.'"
+          },
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Nvidia is the current king of AI CPUs with their Grace and Vera CPU lines dominating data center infrastructure. They've already delivered the first Vera CPUs (88 custom Olympus cores, fully in-house design) last quarter to Anthropic, OpenAI, SpaceX, and Oracle. Nvidia reported over $75 billion in data center revenues for the quarter with the CFO stating expectations for $20 billion in CPU revenues this year alone, with AI CPUs representing a brand new $200 billion total addressable market. Vera maintains ARM instruction set compatibility so existing customer code runs without rewriting. The creator's historical example shows $10,000 invested in Nvidia when ChatGPT launched would be worth over $120,000 today.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Nvidia does not dominate the AI CPU market the same way they dominate GPUs, facing serious competition from ARM, Qualcomm, and AMD. The GPU business is already well-priced and understood by the market, so much of Nvidia's future growth depends on successful CPU adoption and royalty elimination through Vera."
+          },
+          {
+            "ticker": "ARM",
+            "company_name": "Arm Holdings",
+            "reason": "ARM ended a 35-year era by launching the AGI CPU, their first chip designed and sold by ARM themselves, marking a shift from 5% royalties to 100% of revenue. The AGI CPU has serious specs: up to 136 cores per chip, 300 watts, built on TSMC's 3 nanometer process with Meta as lead partner. ARM claims over double the performance per rack versus X86 chips and has over $2 billion of demand over the next 2 years. Data center royalties more than doubled, growing four times faster than the rest of the business. Initial AGI CPUs have already been delivered to multiple customers.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "ARM's AGI CPU is already priced to perfection with a price-to-sales ratio of nearly 50 (not earnings, sales)\u2014almost 10 times higher than semiconductor industry average and 39 forward P/S versus 4-14 for other stocks covered. ARM stopped reporting remaining performance obligations the same quarter they started shipping hardware, removing critical forward-looking visibility previously valued at $2.07 billion. The shift from high-margin royalties to hardware business introduces new risks: wafer costs, production capacity constraints, and lower hardware-like margins. Real revenues from AGI CPU won't appear until fiscal year 2028. Capacity is constrained by wafers, substrates, memory, and testing\u2014factors ARM never worried about as a blueprint seller."
+          },
+          {
+            "ticker": "TSMC",
+            "company_name": "Taiwan Semiconductor Manufacturing Company",
+            "reason": "TSMC is the critical chokepoint for all major data center CPU advancement. Every competitor's advanced CPU is manufactured on TSMC's most advanced nodes: AMD's Venice, Nvidia's Grayson and Vera, ARM's AGI CPU, and Qualcomm's Dragonfly C1000 all depend on TSMC. If TSMC experiences any delays, supply constraints, or falls behind technologically, every company discussed will feel the impact, making TSMC a core beneficiary of the AI CPU buildout.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "TSMC is not a direct bet on CPU technology but a foundational supplier with execution risk. Any geopolitical, manufacturing, or capacity issues at TSMC would ripple across the entire AI infrastructure ecosystem."
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms",
+            "reason": "Meta sits at the center of all major AI infrastructure buildouts as a lead partner and flagship customer across all CPU vendors. Meta is ARM's lead partner for AGI CPU co-development, a flagship customer for Qualcomm's Dragonfly C1000, signed for 6 GW of AMD Helios racks, and one of Nvidia's largest AI infrastructure customers. If AI infrastructure spending is slowing, Meta is the company to check first. The creator is betting that Meta's AI spending keeps growing as a proxy for overall AI agent infrastructure demand.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Meta is not a CPU vendor itself but rather a customer and co-developer. Its stock performance depends on overall AI adoption and infrastructure deployment, not direct CPU product success."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "The entire market pricing structure for semiconductor and AI infrastructure stocks is shifting from counting units (chips sold) to counting tokens and watts (AI power deployed and tokens per watt efficiency). Traditional Wall Street analyst models focus on GPU sales but completely overlook the massive CPU components shipping with every infrastructure rack, creating valuation blind spots.",
+          "Gigawatt-scale deals signed by major AI companies (Meta, OpenAI, Anthropic) are not guaranteed\u2014they contain performance milestones and customer deployment contingencies that may or may not materialize, yet are already fully priced into semiconductor stock valuations.",
+          "All advanced data center CPUs (AMD Venice, Nvidia Vera, ARM AGI, Qualcomm Dragonfly) are manufactured exclusively by TSMC on its most advanced nodes. Any TSMC supply constraint, manufacturing delay, or technological setback would simultaneously impact all competitors.",
+          "The shift from GPU-centric to AI agent-centric workloads fundamentally changes CPU demand economics. AI agents require significantly more CPU processing for decision-making, planning, and sequencing, while GPUs wait idle. This architectural shift is still being priced in across the sector."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "MU",
+          "AMD",
+          "ARM",
+          "QCOM",
+          "TSMC",
+          "META",
+          "ORCL",
+          "MSFT",
+          "APPL"
+        ]
+      },
+      "price_at_recommendation": {
+        "AMD": 482.05,
+        "META": 588.77,
+        "NVDA": 219.22,
+        "ARM": 274.58,
+        "QCOM": 157.53
+      }
+    },
+    "j8nJUbrkdY0": {
+      "channel": "FinTek",
+      "title": "Top AI Value Stock to BUY NOW",
+      "upload_date": "20260805",
+      "url": "https://www.youtube.com/watch?v=j8nJUbrkdY0",
+      "processed_at": "2026-08-05T23:37:02.591771",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "MSFT",
+            "company_name": "Microsoft Corporation",
+            "reason": "Microsoft is a big winner in AI and cloud services with consistent revenue growth and net income that has recently exceeded one hundred billion dollars per year in profit. Bill Ackman has been quietly building a position in Microsoft since February of this year, signaling institutional confidence. The stock has experienced a broad market selloff recently, creating a potentially attractive entry point at current prices despite the creator's stated lack of personal ownership.",
+            "when_to_buy": "at today's prices following the recent broad market selloff",
+            "target_price": null,
+            "cautions": "The creator notes they personally do not own Microsoft, suggesting this is based on technical and financial analysis rather than personal conviction."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "The market has been broadly selling off Microsoft recently, indicating broader market weakness or sector headwinds affecting even strong AI and cloud service companies."
+        ],
+        "tickers_mentioned": [
+          "MSFT"
+        ]
+      },
+      "price_at_recommendation": {
+        "MSFT": 487.46
+      }
     }
   },
   "channel_ids": {

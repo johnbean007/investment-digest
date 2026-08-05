@@ -14401,6 +14401,428 @@
       "price_at_recommendation": {
         "PLTR": 157.63
       }
+    },
+    "TnsS86TIQmM": {
+      "channel": "Mr. FIRED Up Wealth",
+      "title": "AMD, SpaceX, Palantir: What Beat, What Missed, What I'm Buying!",
+      "upload_date": "20260804",
+      "url": "https://www.youtube.com/watch?v=TnsS86TIQmM",
+      "processed_at": "2026-08-05T10:39:08.435510",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "ASTERA",
+            "company_name": "Astera Labs",
+            "reason": "The creator highlights strong earnings with 104.5% year-over-year revenue beat of $31.59 million and non-GAAP EPS beat of 11 cents at 80 cents. The stock demonstrated significant volatility with three 50% retracements that played out well for dollar-cost averaging opportunities. The community portfolio bought shares at $76-$82 last week and they are now at $131, showing strong momentum. The creator identifies this as a high-beta photonics player with long-term speculative appeal as part of the broader AI infrastructure buildout.",
+            "when_to_buy": "On dips to Fibonacci support levels around $150 and $177 being potential resistance areas. Last week's dip to $74.50 on July 29th was identified as a buying opportunity.",
+            "target_price": "Current R3 Fibonacci at $177, with previous R3 at $244 representing potential upside resistance levels. Previous all-time high was $233.",
+            "cautions": "This is an extremely high-beta, volatile stock that goes up fast and comes down fast. The creator emphasizes the need to build a portfolio blueprint, do thorough research, and treat this as a speculative long-term play rather than a momentum trade. Short interest is still elevated at 12.36% though down from 16%, indicating potential short squeeze dynamics that could add volatility."
+          },
+          {
+            "ticker": "PLTR",
+            "company_name": "Palantir Technologies",
+            "reason": "Palantir delivered impressive earnings with 94% year-over-year revenue beat. US revenue grew 115%, commercial revenue grew 149% quarter-over-quarter, and government revenue grew 90%. The company closed 220 deals of at least $1 million, 98 deals of $5 million, and 73 deals of $10 million. The stock is profitable with a GAAP forward PE of 92, 84% recurring revenue, and strong growth rates. The creator has owned this since $10 in the community Discord portfolio and describes it as a really good performer.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The stock is not cheap on a valuation basis with over 50x EV/revenue multiple and forward PE of 92. However, the creator notes that profitability and high recurring revenues are positive for a SaaS company. The stock jumped 29.45% in a single day after earnings, so chasing at current levels after such a move should be approached carefully."
+          },
+          {
+            "ticker": "ANET",
+            "company_name": "Arista Networks",
+            "reason": "Arista Networks is identified as a key beneficiary of the next AI cycle alongside Astera Labs, AOI, and SpaceX. The creator had featured this stock in a recent video titled 'The Next AI Cycle is Here.' The stock surged 13% to $215 after hours following earnings. The creator stated that even if they already owned the stock, this is one they would want to be buying on dips given its role in AI infrastructure.",
+            "when_to_buy": "On dips, as the creator mentioned dips to the 100-day moving average as a good buying opportunity. The stock recently pulled back from highs and rallied from $155 to $212 hard, so future dips would be entry points for those who missed earlier.",
+            "target_price": null,
+            "cautions": "The stock has experienced a hard rally from $155 to $212 recently, making it difficult to chase at current levels after such a sharp move. The creator warned against FOMO (fear of missing out) and noted that it is very hard to chase stocks after they have already run significantly."
+          },
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices",
+            "reason": "AMD delivered strong fundamentals with revenue of $11.54 billion up 50% year-over-year and non-GAAP EPS beat by 5 cents. The creator describes AMD as their second-largest holding and likes the company long-term. The stock has excellent growth rates at 45-50% and a 53% profit margin. The creator believes the stock could easily reverse from the 5-6% post-earnings decline and bounce significantly higher.",
+            "when_to_buy": "The creator would like to see the stock pull back to around $386 (a 50% retracement of the move from $188 to $584) or potentially even $450 as good buying opportunities for retail investors. The 200-day simple moving average is at $313. The creator suggests there is a decent possibility the stock dips and people pile in.",
+            "target_price": "Potential 50% retracement support around $386. The creator notes resistance at current levels and suggests upside potential exists, but does not provide a specific bullish target given current valuation.",
+            "cautions": "At $584, AMD is ahead of itself on valuation and is trading at an 89 forward PE ratio compared to Nvidia's 21.86. While Nvidia has higher profit margins (74% vs 53%), faster growth, and a lower valuation, AMD is trading like a cult stock driven primarily by retail sentiment. The creator owns a large position and wants AMD to succeed long-term, but acknowledges it is not a cheap stock at $845 billion market cap. Sentiment will drive 60-70% of short-term movement, making it more of a momentum trade than fundamentals-based. The stock was only $76 in April 2025, showing its extreme volatility."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "SPCX",
+            "company_name": "SpaceX",
+            "reason": "While SpaceX delivered strong earnings with revenue of $7.81 billion beating $6.93 billion expectations with 92% revenue growth, the creator identifies several concerns that make it not suitable for near-term traders. The company had a loss of 9 cents per share and is burning approximately $400,000 in cash per employee. More importantly, 95% of shares are still locked up, and over the course of the next year these shares will unlock, creating 'extreme wild volatility.' The stock has a very high 38x forward price-to-sales ratio despite not being profitable.",
+            "risk": "The creator projects the stock could decline from $1.65 trillion market cap to closer to $1 trillion, which would imply a price around $77-90 per share (from current $104.83). The creator explicitly states this is probably not a stock to buy 'if you're looking for a stock to buy now that goes up tomorrow.' The massive share unlock overhang combined with extreme valuation and negative earnings make this a very risky near-term investment despite long-term potential."
+          }
+        ],
+        "key_warnings": [
+          "Beware of FOMO (fear of missing out) when chasing stocks that have already had significant rallies. The creator repeatedly warned against chasing high-beta AI stocks like Astera Labs and Arista Networks after they have already moved significantly higher.",
+          "Never adopt a 'buy and hold forever' mentality with individual stocks. The creator emphasizes the philosophy of 'buy, hold, and monitor' - monitor the fundamentals and be willing to exit when fundamentals deteriorate. Examples cited include Toys R Us, Radio Shack, and Blockbuster which were once great companies that failed to adapt.",
+          "Sentiment drives 60-70% of short-term price movement in momentum stocks like AMD and SpaceX. As a trader trying to guess sentiment, odds of success are low. As a long-term investor using fundamentals, technical analysis, and discipline, odds improve significantly.",
+          "High-beta photonics and AI infrastructure stocks exhibit extreme volatility. While these stocks offer significant upside potential, they can reverse just as quickly. Proper portfolio construction and research are essential before allocating capital to these speculative positions.",
+          "Be cautious of stocks trading at extreme valuations relative to peers. AMD's 89 forward PE and 38x forward price-to-sales for SpaceX are significantly disconnected from fundamentals, suggesting these trades are sentiment-driven and vulnerable to sharp reversals."
+        ],
+        "tickers_mentioned": [
+          "SPCX",
+          "ASTERA",
+          "AMD",
+          "ANET",
+          "PLTR",
+          "AOI",
+          "LUMN",
+          "COHR",
+          "NVDA"
+        ]
+      },
+      "price_at_recommendation": {
+        "ANET": 190.51,
+        "PLTR": 162.66,
+        "AMD": 518.58,
+        "SPCX": 125.33
+      }
+    },
+    "sDDQ5Ueg1dk": {
+      "channel": "CouchInvestor",
+      "title": "AMD Stock Is Crashing After Earnings. Here's Everything You Need To Know",
+      "upload_date": "20260804",
+      "url": "https://www.youtube.com/watch?v=sDDQ5Ueg1dk",
+      "processed_at": "2026-08-05T10:39:30.144335",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices",
+            "reason": "Despite the stock crash post-earnings, the fundamentals remain strong with sixth consecutive quarter of over 30% year-over-year revenue growth. Data center segment grew 107% year-over-year driven by MI350 series demand. The company expects revenue growth substantially above its prior 35% target and to significantly exceed the $20 annual EPS target set at November analyst day. Key catalysts include Helios (MI450 series) initial shipments beginning this quarter with ramp through Q4 and into 2027, major customer wins including Entropix (2 GW deal), Microsoft Azure deployment, and continued multigeneration deals with OpenAI and Meta. Server CPU expected to deliver over 80% YOIY growth in H2 2026 and over 70% growth for full year 2027. The data center segment is expected to more than double year-over-year in 2027 as Helios and MI450 deployment scales. The creator acknowledges that while the stock may trade flat for a quarter or two, this allows the business to grow into its valuation, which is acceptable for long-term investors.",
+            "when_to_buy": "Creator not buying at current prices (~$470) but acknowledges dip may present opportunity if it falls further. Stock flat for 1-2 quarters acceptable for long-term holders.",
+            "target_price": null,
+            "cautions": "Stock trading at over 50x forward earnings with $800 billion market cap. Valuation premium versus Nvidia (trading at 32.5x trailing P/E, 21.2x forward P/E). Client PC segment facing headwinds with memory and component cost inflation industrywide; gaming revenue down 31% year-over-year. HBM allocation is well secured for 2027 but exposes AMD to memory pricing risk. Growth acceleration must materialize as guided or valuation will be at risk. Nvidia remains the safer choice as #1 player in the space despite premium valuation."
+          },
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Nvidia is growing faster than AMD with 60-70% growth rates for the full fiscal year while trading at lower multiples (32.5x trailing P/E, 21.2x forward P/E) compared to AMD's over 50x forward P/E. Despite being a $5 trillion company with massive absolute dollar growth, Nvidia can still produce huge year-over-year growth rates on a much larger revenue base. The creator argues that Nvidia, even at its massive scale, is undervalued relative to growth. Nvidia has demonstrated the ability to stay flat year-to-date while the business catches up to valuation, which is a sign of quality and investor confidence in the secular AI trend.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Nvidia is the clear #1 player in AI accelerators with best-in-class margins and growth, making it the safer choice relative to AMD. However, at $5 trillion market cap, any slowdown in AI spending or competition could impact valuation. The creator does not explicitly recommend buying at current levels, only that Nvidia is undervalued relative to AMD when comparing valuations."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "PC market facing industrywide headwinds in second half of 2026 with rising memory and component costs weighing on demand. AMD expects its client business to outperform the broader market, but this is a sector-wide issue not company-specific. Gaming segment particularly weak with 31% year-over-year revenue decline.",
+          "HBM (High Bandwidth Memory) allocation and pricing is a critical variable for 2027. While AMD says allocation is well secured, exposed to memory pricing inflation given Helios carries 50% more HBM than competing systems. Industry memory pricing to be monitored via Micron earnings in ~1 month.",
+          "AI accelerator market concentration risk: AMD's growth is dependent on successful Helios/MI450 ramp and competing against entrenched Nvidia. Total addressable market for AI accelerators estimated at $1.4 trillion by 2030 but Nvidia commands dominant share."
+        ],
+        "tickers_mentioned": [
+          "AMD",
+          "NVDA"
+        ]
+      },
+      "price_at_recommendation": {
+        "NVDA": 211.94,
+        "AMD": 518.58
+      }
+    },
+    "u_KHmLtKC1k": {
+      "channel": "CouchInvestor",
+      "title": "AMD Q2 EARNINGS REPORT BREAKDOWN | SPCX, ZETA, ALAB",
+      "upload_date": "20260804",
+      "url": "https://www.youtube.com/watch?v=u_KHmLtKC1k",
+      "processed_at": "2026-08-05T10:40:13.993351",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices",
+            "reason": "AMD delivered record revenue of $11.54 billion (beat consensus of $11.3B) and adjusted EPS of $1.66 (beat $1.62), with revenue up 50% year-over-year and EPS up 246% year-over-year. Data center revenue more than doubled year-over-year to $6.7B, now representing 58% of total revenue. The company is launching Helios rack-scale AI platform with strong customer pull tracking ahead of initial forecasts, with major deployments announced from OpenAI, Meta, Anthropic, and Microsoft. Management expects data center segment revenue to more than double year-over-year in 2027 with server CPU revenue growing over 70% year-over-year off a much higher base. The stock is up 150% year-to-date but the long-term story remains intact with the Helios ramp providing significant growth acceleration in the second half of 2026 and into 2027. Lisa Su's long-term EPS target of $20 by 2030 now appears achievable closer to 2028 based on current trajectory.",
+            "when_to_buy": "Pullback after earnings sell-off presents entry opportunity; stock initially down 9% after hours but fundamental thesis unchanged",
+            "target_price": "$20 EPS by 2028-2030 (strategic guidance)",
+            "cautions": "Stock trading at premium multiple with data center revenue and GPU growth already partially priced in. Capex increased 2.5x to $880M versus expected $298M, primarily for Helios infrastructure\u2014need clarity on whether this sustains profitability targets. Client segment revenue growth decelerating (23% YoY from 25.7% prior quarter) and gaming down 31% YoY. Success dependent on flawless Helios execution and customer deployment timelines in 2026-2027."
+          },
+          {
+            "ticker": "UPST",
+            "company_name": "Upstart Holdings",
+            "reason": "Upstart beat on both EPS and revenue with a double beat, increasing originations by 50% year-over-year and total revenue up 42% year-over-year. Notably, the company returned to net income positivity for the first time in a long period, signaling successful execution in the lending environment. Similar to SoFi, Upstart is capitalizing on strong opportunity to lend as consumer demand remains resilient despite earlier macro concerns in 2026. Stock up approximately 10% after hours on the earnings beat with strong momentum.",
+            "when_to_buy": "After positive earnings confirmation and double beat",
+            "target_price": null,
+            "cautions": "Consumer lending cycles are cyclical and macro sensitive; must monitor consumer health metrics and origination trends going forward."
+          },
+          {
+            "ticker": "ZETA",
+            "company_name": "Zeta Global Holdings",
+            "reason": "Zeta beat EPS by 200% with EPS of $0.03 versus expected loss of $0.03, and revenue of $443M up 44% year-over-year versus expected $420M. The company increased guidance across the entire board including topline revenue guidance for the year (increased to $1.78-1.824B, up $40M), adjusted EBITDA guidance, and full-year gap EPS guidance (increased from $0.07 to $0.11). Despite initial sell-off due to broader market weakness in high-beta names after hours, fundamentals remain strong with profitable growth and raised guidance.",
+            "when_to_buy": "After initial volatility following earnings announcement settles",
+            "target_price": null,
+            "cautions": "Stock was down 8-9% after hours despite positive earnings, indicating market may be focused on near-term multiple compression rather than fundamentals. High beta name exposed to broader market sentiment shifts."
+          },
+          {
+            "ticker": "ASTERA",
+            "company_name": "Astera Labs",
+            "reason": "Astera Labs beat on both EPS and revenue with adjusted EPS of $0.80 versus estimate of $0.69 and revenue of $392M versus $360M expected. The company is seeing strong demand in the data center networking space with its scaleup architecture focus, which is crucial as the industry builds out AI infrastructure at scale. Stock up 11% after hours with continued appreciation, and both Astera and Arista (also up significantly) showing that networking plays are benefiting from the broader data center buildout and Helios adoption.",
+            "when_to_buy": "On strength after earnings beat confirmation",
+            "target_price": null,
+            "cautions": "Valuation expansion in semiconductor/networking space creates risk if growth expectations disappoint; dependent on continued data center capex cycle."
+          },
+          {
+            "ticker": "ARISTA",
+            "company_name": "Arista Networks",
+            "reason": "Arista beat revenue by 7% ($3.03B versus $2.83B expected) and beat EPS by 15% (102 cents versus 89 cents estimate), with revenue up 38% year-over-year and EPS up 40% year-over-year. The stock had been hit hard last month but is showing strong recovery up 8% with continued networking strength. Arista's position as a leading data center networking solution provider positions it well as hyperscalers accelerate capex for AI infrastructure buildout.",
+            "when_to_buy": "After recovery from prior month's weakness; strong beat signals continued strength in data center cycle",
+            "target_price": null,
+            "cautions": "Valuation multiple expansion creates downside risk if data center capex cycle moderates; must monitor hyperscaler guidance and capex plans."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "SPACEX",
+            "company_name": "SpaceX (Public via SPCX)",
+            "reason": "While SpaceX reported revenue beat of $7.8B versus expected $6.8B and beat on operating loss (only $126M versus expected $239M), the initial 2.4% after-hours pop immediately reversed to down 6% by end of discussion. Stock ultimately closed down as market became concerned about valuation relative to backlog and multiple issues. SpaceX has only $47.5B in backlog despite $1.4 trillion valuation, which appears stretched relative to actual committed revenue. Additionally, 900 million shares are unlocking in next two days creating significant dilution pressure. Elon's exclusive Nvidia GPU commitment signals internal concerns about their own Grok AI strategy, potentially hinting at overcapacity in their xAI division or failed product adoption that forced them into Nvidia partnership.",
+            "risk": "Stock down 6-10% after initially positive earnings; severe overvaluation relative to backlog; massive share unlock dilution risk in next 48 hours; CEO's exclusive Nvidia pivot suggests internal AI strategy failure."
+          },
+          {
+            "ticker": "SNAP",
+            "company_name": "Snap Inc.",
+            "reason": "Snap beat EPS by 90% but stock down 5% after hours. Advertising names including Snap, Meta, Google, Reddit, and Pinterest all took hits after hours despite earnings beats, suggesting systematic weakness in the advertising category. Pinterest beat by 90% on EPS and 3% on revenue but was down 4% after hours, indicating no bid for advertising platforms regardless of earnings quality.",
+            "risk": "Advertising category under pressure; even strong earnings misses with market; structural headwinds in ad tech space not offset by beat."
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms",
+            "reason": "Meta was one of only two red stocks on the day (along with Amazon) despite broad market strength with S&P 500 up nearly 2%. Stock weakness partially attributed to Jeff Bezos selling $4B of Amazon stock yesterday at $271 exit price, creating selling pressure. Meta's underperformance relative to broader market and Palantir's 29% surge suggests rotation away from hyperscaler mega-cap positions.",
+            "risk": "Underperforming despite strong market day; likely experiencing tactical rotation to smaller-cap AI and data infrastructure plays; valuation may be viewed as stretched relative to growth."
+          },
+          {
+            "ticker": "TSLA",
+            "company_name": "Tesla",
+            "reason": "Tesla ended the day flat after hours despite S&P 500 being up nearly 2%, indicating relative weakness. As a mega-cap position held widely, Tesla is experiencing profit-taking and rotation out of mega-caps into more compelling growth opportunities in semiconductors and AI infrastructure.",
+            "risk": "Underperformance on strong market day suggests rotation; flat after hours performance vs. broad strength."
+          },
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon",
+            "reason": "Amazon was one of only two red stocks on the day despite broad market rally, likely due to Bezos's $4B stock sale yesterday which created overhang and selling pressure.",
+            "risk": "Negative price action despite strong market; insider selling pressure continues from Bezos sales."
+          }
+        ],
+        "key_warnings": [
+          "Semiconductor valuations appear stretched relative to near-term growth: AMD trading at triple the EPS multiple of Nvidia despite producing only 35x less free cash flow ($1.6B in Q2 versus Nvidia's $35B in Q1), indicating market expects AMD to close gap quickly but stock already priced for perfection. AMD was up 150% year-to-date before earnings, requiring exceptional guidance to move higher.",
+          "SpaceX $1.4 trillion valuation appears severely disconnected from business fundamentals: company has only $47.5B in backlog (less than half of Coreweave's backlog per Jose) despite $1.4T valuation, and 900 million shares unlocking in next 48 hours creates massive dilution risk. Elon's cryptic tweet about shorters being 'stomped' may indicate he knows negative catalysts are imminent.",
+          "Advertising technology faces systematic headwinds: Snap, Meta, Pinterest, Google, and Reddit all took hits after hours despite earnings beats, suggesting structural weakness in ad tech sector that's not solved by strong quarterly performance. Advertising category appears to have lost investor favor regardless of execution quality.",
+          "High-beta names experiencing sharp reversals after hours: SpaceX, Zeta, AMD, and other high-growth semiconductor/AI infrastructure plays all reversed from intra-day strength to after-hours weakness, suggesting momentum trading exhaustion and potential broader market pullback risk. S&P 500 had best day of 2026 but lacked sustained buying pressure into after-hours session.",
+          "Capex spending surge across semiconductor industry creating margin uncertainty: AMD increased capex 2.5x to $880M (majority going to Helios), and SpaceX burning $18.4B in capex with $15.8B from AI segment alone. Investors need clarity on whether aggressive infrastructure buildout sustains profitability targets or creates headwinds."
+        ],
+        "tickers_mentioned": [
+          "AMD",
+          "NVDA",
+          "SPCX",
+          "ZETA",
+          "UPST",
+          "ODFL",
+          "PLTR",
+          "ASTERA",
+          "ALAB",
+          "ARISTA",
+          "CRWD",
+          "ORCL",
+          "QQQ",
+          "META",
+          "AMZN",
+          "PINS",
+          "RBAC",
+          "NOW",
+          "AXON",
+          "TSLA",
+          "RVLV",
+          "RKLB",
+          "BOOT",
+          "WINA",
+          "WBD",
+          "PSTG",
+          "ALTR",
+          "AET",
+          "PSEC",
+          "CFLT",
+          "MORN",
+          "MRVL",
+          "MICR",
+          "LICI",
+          "TOST"
+        ]
+      },
+      "price_at_recommendation": {
+        "SNAP": 5.79,
+        "ZETA": 24.26,
+        "META": 587.94,
+        "AMZN": 277.42,
+        "TSLA": 327.35,
+        "AMD": 518.58,
+        "UPST": 30.32
+      }
+    },
+    "cop6_28KOs4": {
+      "channel": "Jose Najarro Stocks",
+      "title": "AMD Stock Crashes 9% After Strong Earnings \u2014 My New $750 Target",
+      "upload_date": "20260805",
+      "url": "https://www.youtube.com/watch?v=cop6_28KOs4",
+      "processed_at": "2026-08-05T10:40:32.545007",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices",
+            "reason": "Strong earnings with data center revenue up 107% year-over-year to $6.7 billion in Q1 2026. Management indicated data center segment revenue will more than double year-over-year in 2027, with server CPU revenue expected to grow more than 70% for full year 2027. The AMD Helios rack (full rack system) launching in second half of 2026 opens new market opportunities. Management is tracking materially ahead of long-term financial model and expects to significantly exceed the $20 annual earnings per share target within strategic timeframe. At current price of $472, the creator sees potential upside to $750 within 2-4 years based on projected $25 EPS with 30x forward PE multiple. The creator has been a long-term AMD investor and remains very bullish on the AI market opportunity.",
+            "when_to_buy": "On dips; creator not buying heavily given recent heavy purchases during previous downturn, but sees opportunity in pullbacks like the 9% post-earnings decline",
+            "target_price": "$750 within 2-4 years (revised from prior $600 target)",
+            "cautions": "Stock will be extremely volatile. Price will not hit $750 next quarter. Everything needs to fall in line with management's projections for this thesis to work. Risk that exclusive GPU partnerships (like SpaceX/Nvidia) become more common. XAI was previously a customer using AMD MI300 but has now switched to exclusive Nvidia usage, showing customer loyalty is not guaranteed. Target assumes management's aggressive growth projections materialize as planned."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Risk of increasing exclusive Nvidia partnerships limiting AMD's market share. SpaceX recently committed to using Nvidia GPUs exclusively despite previously being an AMD customer with MI300 and MI325/MI350 series products. If this exclusivity trend becomes the norm among AI/neocloud players, it could significantly constrain AMD's addressable market.",
+          "AMD management provides vague guidance that lacks transparency. When asked about revenue per gigawatt, Lisa Su gave only 'double-digit billions' (10-99 billion range) compared to Nvidia's specific guidance (40 billion previously, now 60 billion, targeting 80-100 billion). This ambiguity makes investor modeling difficult and suggests management may be deliberately sandbagging, creating risk of disappointment or missed expectations.",
+          "All projections depend on AI market continuing to evolve as expected and AMD maintaining or gaining market share. The $750 price target and growth thesis are contingent on multiple forward-looking assumptions that may not materialize."
+        ],
+        "tickers_mentioned": [
+          "AMD",
+          "NVDA"
+        ]
+      },
+      "price_at_recommendation": {
+        "AMD": 518.58
+      }
+    },
+    "4iZx8Os8Rvc": {
+      "channel": "Jose Najarro Stocks",
+      "title": "AMD Q2 EARNINGS CALL LIVE !! LISA SU GIVE US GUIDANCE!!",
+      "upload_date": "20260804",
+      "url": "https://www.youtube.com/watch?v=4iZx8Os8Rvc",
+      "processed_at": "2026-08-05T10:41:13.878414",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices",
+            "reason": "AMD delivered record revenue of $11.54 billion (beating $11.3B estimate) and record profitability with adjusted EPS of $1.66 (beating $1.62 estimate). Data center revenue more than doubled year-over-year to $6.7 billion, now representing 58% of total revenue. The company is in the early stages of a multi-year AI adoption cycle with strong momentum. Helios rack-scale platform is in production with initial shipments beginning in Q3 2026, tracking ahead of initial forecasts. Strategic partnerships announced with Anthropic (2 gigawatt MI450 deployment), Microsoft (Helios deployment on Azure), and Meta (multi-generational deployments). Server CPU business expected to grow over 80% in second half 2026 and over 70% for full year 2027. Long-term target is $20 EPS by 2030, with Lisa Su indicating they will exceed this target within their strategic timeframe. The company is tracking materially ahead of long-term financial models shared at analyst day last November.",
+            "when_to_buy": "Initial reaction showed stock down 9% after hours despite double beat and strong guidance, suggesting a potential entry point for long-term investors as the market appears to have priced in perfection. Stock was up 150% year-to-date at the time of the call.",
+            "target_price": "$20 EPS by 2030 (long-term target); creators suggest significant upside potential from current levels given Helios ramp in 2027",
+            "cautions": "Stock was trading at a high multiple requiring exceptional execution. Capex increased significantly to $988 million (vs $298M expected), a 2.5x increase which some analysts questioned. Data center AI gross margins are slightly below corporate average, though management expects to navigate the transition well. Client segment revenue only up 6% year-over-year with gaming down 31%, though management expects client to outperform market in second half 2026. Helios is described as Q4 2026 and 2027 story, not immediate Q3 catalyst. Gaming decline may continue to be a headwind. Competitive pressure from Nvidia's dominance remains a factor."
+          },
+          {
+            "ticker": "UPST",
+            "company_name": "Upstart Holdings",
+            "reason": "Upstart delivered a strong earnings beat with net income positive for the first time in a long time. The company increased originations by 50% year-over-year and total revenue up 42% year-over-year. The stock was up 10% after hours following earnings. Like SoFi, Upstart is seeing a real opportunity to lend and benefit from strong consumer demand, contrary to earlier 2026 fears about consumer stress.",
+            "when_to_buy": "After strong earnings beat and positive guidance increase",
+            "target_price": null,
+            "cautions": "Similar lending plays have shown volatility. Consumer lending is subject to macroeconomic cycles and potential deterioration in credit conditions."
+          },
+          {
+            "ticker": "ZETA",
+            "company_name": "Zeta Global Holdings",
+            "reason": "Zeta beat earnings with EPS of 3 cents versus estimate of losing 3 cents (200% beat) and revenue of $443 million versus expected $420 million, up 44% year-over-year. The company increased guidance across the entire board including topline revenue guidance increased by $40 million for the year, increased free cash flow guidance, and increased full-year GAAP EPS from 7 cents to 11 cents. This represents a profitable, high-growth data and AI-focused company.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Stock declined 9% after hours despite beating and raising guidance, possibly due to sell-the-news reaction following broader market rally and competition from larger cap names like AMD and SpaceX reporting on the same day."
+          },
+          {
+            "ticker": "ALAB",
+            "company_name": "Astera Labs",
+            "reason": "Astera Labs beat earnings with adjusted EPS of 80 cents versus 69 cents estimate and revenue of $392 million versus $360 million estimate. The company focuses on scaleup approach networking solutions which is crucial for the data center space. Stock was up 11% after hours. The networking space is seeing positive momentum as data center buildouts accelerate.",
+            "when_to_buy": "After strong earnings beat in networking/data center space",
+            "target_price": null,
+            "cautions": "Networking space is cyclical and dependent on continued data center capex spending. Stock recovered from prior weakness."
+          },
+          {
+            "ticker": "ANET",
+            "company_name": "Arista Networks",
+            "reason": "Arista beat EPS by 15% (102 cents versus 89 cents estimate) and beat revenue by 7% ($3.03 billion versus $2.83 billion). Revenue up 38% year-over-year and EPS up 40% year-over-year, representing double beats. The company provides crucial networking solutions for data centers and is benefiting from the infrastructure buildout cycle.",
+            "when_to_buy": "Stock was up 8% after hours following the strong double beat. Stock had been hit hard last month and is recovering.",
+            "target_price": null,
+            "cautions": "Networking infrastructure spending is tied to customer capex cycles which could fluctuate. Stock has shown volatility."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "OPEN",
+            "company_name": "OpenDoor",
+            "reason": "OpenDoor missed earnings by 143% on EPS and missed revenue by 3%. This double miss shows the company is struggling with profitability and top-line execution.",
+            "risk": "Stock down 7% after hours following double miss. Real estate market weakness could continue to impact the company."
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms",
+            "reason": "Meta was one of only two stocks that ended the day red on an otherwise extremely bullish day for the broad market (S&P 500 up 2%). Hyperscalers typically get pullbacks when everything else rallies. Additionally, CEO Mark Zuckerberg sold $4 billion worth of stock at $271 yesterday, creating selling pressure.",
+            "risk": "Underperformance on strong market days suggests weakness. Major insider selling by CEO indicates potential concerns."
+          },
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon",
+            "reason": "Amazon was one of only two stocks that ended the day red on an otherwise extremely bullish day for the broad market (S&P 500 up 2%). Hyperscalers typically underperform when smaller cap growth stocks rally.",
+            "risk": "Underperformance on strong market days. Rotation away from mega-cap names."
+          },
+          {
+            "ticker": "TSLA",
+            "company_name": "Tesla",
+            "reason": "While Tesla was up 1.64% on the day, it underperformed the S&P 500 which was up 1.79% during a day of exceptional breadth and momentum. SpaceX filing showed potential stock unlock of 900 million shares in the next two days, which could create selling pressure if Elon is using SpaceX equity to fund acquisitions.",
+            "risk": "Potential dilution from SpaceX stock unlock. Underperformance versus broader market. Macro concerns from Elon's tweets about potential conflicts with Iran."
+          }
+        ],
+        "key_warnings": [
+          "The S&P 500 had one of its best days of 2026, up 2% (773 basis points), which is extremely rare. While this created broad-based momentum, there are concerns about sustainability. Hosts noted they have 'had these green days before and then we got hit by a couple of red days.' Macro risks remain including potential Trump conflicts with Iran that could trigger selloffs.",
+          "Semiconductor stocks showed mixed reactions to earnings. Both AMD and SpaceX fell sharply after hours despite beating earnings, with AMD down 9% and SpaceX down up to 10%, suggesting the sector may be pricing in perfection and execution risk. This indicates caution is warranted on large valuation multiples in semis.",
+          "SpaceX reported an operating loss on its AI segment of $1.26 billion versus Street expectation of $2.39 billion loss, but the market was concerned about the massive $18.37 billion capex spend with $15.8 billion coming from AI segment. This raises questions about SpaceX's compute unit economics and whether the business model is sustainable at that burn rate.",
+          "AMD's capex spending increased 2.5x to $988 million versus $298 million expected, driven by Helios rack-scale solution R&D and production ramp. While management views this as necessary for growth, such large increases create uncertainty about near-term profitability and capital efficiency.",
+          "Gaming segment showing structural weakness across the industry, not just AMD. This is a multi-year console cycle decline impacting multiple semiconductor and semi-custom providers. Expect continued headwinds in this segment.",
+          "Multiple speakers noted that valuations are stretched. AMD is trading at 3x the multiple of Nvidia while generating 35x less free cash flow ($1.6B vs Nvidia's $35B in Q1). At 150% year-to-date gains, the stock needs flawless execution. Nvidia grew 85% on $81 billion revenue versus AMD growing 50% on $11.5B revenue, yet AMD carries a higher multiple.",
+          "Advertising stocks across the board took hits after hours (Meta, Reddit, Pinterest down 4-8%) despite Pinterest beating by 90% on EPS and 3% on revenue. This suggests investor skepticism about advertising market fundamentals despite strong quarterly results.",
+          "Memory cost inflation is a concern across the data center ecosystem. AMD's Helios uses significantly more HBM than competition, which could limit margin expansion if HBM prices remain elevated.",
+          "SpaceX's backlog of $47.5 billion is less than half of CoreWeave's backlog, yet SpaceX is worth $1.4 trillion. This valuation disconnect raises questions about fairness of pricing and competitive dynamics in the neo-cloud space.",
+          "The unlock of 900 million shares in SpaceX over the next two days creates potential selling pressure. Elon's comments about shorts 'doubling down' and saying 'I tried to warn them' may be setting up a squeeze, but this could also indicate dilution risk for current shareholders."
+        ],
+        "tickers_mentioned": [
+          "AMD",
+          "NVDA",
+          "TSLA",
+          "PALANTIR",
+          "SPACEX",
+          "ZETA",
+          "UPST",
+          "OPEN",
+          "META",
+          "AMZN",
+          "GOOG",
+          "MSFT",
+          "ORCL",
+          "QQQ",
+          "SPY",
+          "CRWD",
+          "SMCI",
+          "AVGO",
+          "BRKR",
+          "ALAB",
+          "ANET",
+          "KRTS",
+          "NOW",
+          "AVLR",
+          "MICR",
+          "PINS",
+          "TOAST",
+          "WIND",
+          "RKLB",
+          "SOFI",
+          "EMDT",
+          "AET",
+          "AXON",
+          "SNAP",
+          "MU",
+          "ASML"
+        ]
+      },
+      "price_at_recommendation": {
+        "ALAB": 361.67,
+        "ZETA": 24.26,
+        "ANET": 190.51,
+        "OPEN": 4.12,
+        "META": 587.94,
+        "AMZN": 277.42,
+        "TSLA": 327.35,
+        "AMD": 518.58,
+        "UPST": 30.32
+      }
     }
   },
   "channel_ids": {

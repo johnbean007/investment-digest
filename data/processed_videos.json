@@ -14937,6 +14937,66 @@
       "price_at_recommendation": {
         "MSFT": 487.46
       }
+    },
+    "3r7eYRk1dYg": {
+      "channel": "Jose Najarro Stocks",
+      "title": "If You Are an Nvidia Shareholder...Get READY!!",
+      "upload_date": "20260806",
+      "url": "https://www.youtube.com/watch?v=3r7eYRk1dYg",
+      "processed_at": "2026-08-06T16:59:43.935342",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "The creator believes Nvidia is the dominant winner in the AI compute infrastructure market with multiple bullish catalysts. SpaceX has committed to using Nvidia GPUs exclusively, planning to deploy 5 gawatts of additional AI compute by end of 2027, which at $50 billion per gawatt translates to $250 billion in annual revenue from a single customer. The broader AI ecosystem shows increasing demand (growing 200%+ annually) far outpacing memory/GPU supply growth (20% annually), creating pricing power and premium valuations. Multiple AI companies (Meta, Anthropic, OpenAI, Google, Amazon, Microsoft) and neocloud players are all competing for Nvidia's products, forcing continued innovation. The creator states Nvidia is his largest position and he is 'super super excited' about the company, believing the AI ecosystem will persist long-term with high probability of success.",
+            "when_to_buy": "The creator mentioned Nvidia in the sub-$200s as 'one of my favorite opportunities,' and at the time of recording Nvidia was at $220 pre-market. No specific forward entry point given.",
+            "target_price": null,
+            "cautions": "The creator warns that despite long-term bullish thesis, there will be 'high volatility in this space' and stock prices do not go up every day. He emphasizes not every day produces gains and valuation can stretch on both bullish and bearish sides. He also acknowledges 'I could be wrong' and 'everything happening in the industry right now' could change, though he believes probability of success is 'extremely high.'"
+          },
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices",
+            "reason": "The creator mentions AMD multiple times as part of his semiconductor and AI portfolio holdings. He states 'Nvidia continues to be my favorite semiconductor company' but separately mentions being bullish on 'my companies like AMD' and 'all the other networking and equipment semiconductor stocks.' He has covered AMD deep-dive earnings reports in his community. AMD is positioned to benefit from the same AI compute demand thesis driving Nvidia's growth, though Nvidia is his preferred play.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "While the creator holds AMD, he explicitly states Nvidia is his 'favorite semiconductor company' and his 'biggest position,' implying AMD is a secondary holding. No specific cautions about AMD itself, but the general volatility warning for AI stocks applies."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "High volatility expected in AI and semiconductor stocks despite long-term bullish thesis. Creator states 'it doesn't mean every day stock prices go up and it doesn't mean that there's not going to be a stretch in valuation on both sides.' Investors should expect significant drawdowns and not be surprised by daily or weekly declines even within a structurally bullish market.",
+          "Supply-demand imbalance in AI compute could lead to price increases and potential margin compression for AI service providers. While bullish for GPU manufacturers, this dynamic forces neocloud and AI companies to pay premium prices, which could compress their profitability if compute costs rise faster than pricing power.",
+          "Competition intensifying in AI models (Meta's Muse Code, DeepSeek, Anthropic, OpenAI, Grok) could accelerate innovation cycles and render hardware architectures obsolete faster than expected. The rapid pace of AI advancement means form factors and GPU designs could face shorter product lifecycles."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "AMD",
+          "GOOG",
+          "MSFT",
+          "META",
+          "AMZN",
+          "ORCL"
+        ]
+      },
+      "price_at_recommendation": {
+        "AMD": 482.05,
+        "NVDA": 219.22
+      }
+    },
+    "TDU_PmQC09A": {
+      "channel": "FinTek",
+      "title": "Warren Buffett is Selling Stocks",
+      "upload_date": "20260806",
+      "url": "https://www.youtube.com/watch?v=TDU_PmQC09A",
+      "processed_at": "2026-08-06T16:59:51.877599",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": []
+      },
+      "price_at_recommendation": {}
     }
   },
   "channel_ids": {

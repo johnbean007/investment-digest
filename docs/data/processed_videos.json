@@ -14997,6 +14997,284 @@
         "tickers_mentioned": []
       },
       "price_at_recommendation": {}
+    },
+    "mKWIerd0elE": {
+      "channel": "Mr. FIRED Up Wealth",
+      "title": "The Secret to Buying Stocks at All-Time Highs (It's Not What You Think)",
+      "upload_date": "20260806",
+      "url": "https://www.youtube.com/watch?v=mKWIerd0elE",
+      "processed_at": "2026-08-07T09:49:54.225703",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "MELI",
+            "company_name": "Mercado Libre",
+            "reason": "Strong earnings report with nearly 50% year-over-year revenue growth, hitting $10.17 billion in revenue (beat by $410 million), and non-GAAP EPS of $9.19 (beat by 25 cents). The creator believes management is deliberately prioritizing long-term competitive strength and investment in logistics infrastructure over near-term profitability, which is the right strategic choice for building out the Latin American market. The gross profit margin of approximately 50% (with e-commerce at ~40% and fintech at ~58-65%) demonstrates strong underlying unit economics. The creator views this as a 5-10 year hold with tremendous TAM (Total Addressable Market) opportunity and has personally added to their position after earnings. The stock was previously purchased at $75/share and is now at higher levels with strong momentum.",
+            "when_to_buy": "The creator bought more shares after earnings. Fibonacci support levels are S1 at $1,759, S2 at $713, and S3 at $640. The creator would 'love' to buy heavily if the stock reaches the $1,500 range or below.",
+            "target_price": "2035 hold target mentioned. Resistance at $2,645 (July 2025 high).",
+            "cautions": "The stock was not cheap to begin with on traditional valuation metrics. Wall Street disliked the low 6.7% operating EBIT margin this quarter, though the creator dismisses this as short-term thinking. This is explicitly not a stock for quick profits \u2014 it requires a 5-10 year investment horizon."
+          },
+          {
+            "ticker": "UBER",
+            "company_name": "Uber Technologies",
+            "reason": "The creator sees strong fundamental performance masked by an optical accounting headwind from UK VAT tax rule changes. Generated $10.1 billion in free cash flow, ended quarter with $5.4 billion unrestricted cash and $12.5 billion total cash/investments. Gross bookings grew 22-24%, trips rose 18%, mobility grew 20%, delivery 25%, and freight 25%. The creator views Uber as a potential beneficiary of the autonomous vehicle/robo-taxi transition, competing with Tesla and Waymo as a platform that connects users to self-driving vehicles. The strong ecosystem and user familiarity position it similarly to how AI ecosystem winners (Google, Apple, Microsoft) will dominate AI adoption. The creator notes the stock has held around $65-75 range and believes it's attractive at $65 or below.",
+            "when_to_buy": "$65 or less preferred; $59 is very attractive per the creator. Fibonacci support S2 at $63.97, S3 at $59.80.",
+            "target_price": null,
+            "cautions": "The 11.7% revenue growth on reported basis looks soft but is distorted by the UK VAT accounting change \u2014 this is purely optical and not reflective of actual business performance. The creator lacks high conviction and notes this would be a small 2% position, not a core holding. Not held in the main portfolio, only in community portfolio."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "WINGSTOP",
+            "company_name": "Wingstop Inc.",
+            "reason": "Fundamentals have broken down significantly. While the company beat EPS guidance by 16 cents, it missed on revenue with only 6.5% growth. Most critically, same-store sales declined 4-6% domestically, indicating the target demographic is being impacted by the K-shaped economy where lower-income consumers have reduced discretionary spending. The creator explicitly stated on August 4th that 'fundamentals are broken down' and does not have conviction in this stock. The creator is not adding to any position at current levels.",
+            "risk": "Fibonacci S3 support at $95. Could easily trade under $100. If purchased at $120, could decline to $95 without being shocking based on the chart setup. The technical setup is described as 'very bearish overall' and likely to fade lower."
+          },
+          {
+            "ticker": "CELSIUS",
+            "company_name": "Celsius Holdings",
+            "reason": "The company reported a double miss on earnings with non-GAAP EPS of 36 cents (missed by 6 cents) and revenue of $817.9 million (also missed). Growth is weak at only 10.6%, and guidance is not stellar. Management discussed 2027 on the earnings call and lacks confidence in the rest of 2024, suggesting no fast recovery without a catalyst. The creator described this as 'a brutal quarter.' The consumer is not doing well, and with high competition from Monster and Red Bull, plus the fickle nature of consumer spending (especially with higher oil/gas prices reducing disposable income for the target demographic), this is a high-risk speculative play. The creator is not adding shares at current levels.",
+            "risk": "Stock is down 16% and trading under $25. The stock parabolic run from $24 to $100 represents a classic boom-bust pattern. Fibonacci S3 at $22.33; could easily break below $20/share. Previous buyers at $100 who didn't trim positions experienced 76% losses. Could bottom anywhere or hold around $25, but downside to $19 is explicitly called a 'possibility.' The creator notes FOMO chasing doesn't end well with this stock."
+          },
+          {
+            "ticker": "PYPL",
+            "company_name": "PayPal Holdings",
+            "reason": "Referenced as an example of how negative sentiment can linger for years, even as business fundamentals may improve. Used to illustrate the risk of sentiment-driven underperformance in growth/fintech stocks.",
+            "risk": "Long-term sentiment overhang that can suppress stock price for extended periods despite fundamental recovery."
+          }
+        ],
+        "stocks_mentioned_but_neither_buy_nor_avoid": [
+          {
+            "ticker": "SIDE",
+            "company_name": "Siderite (semiconductor company)",
+            "status": "Previously recommended at $75, now $661 after strong earnings, up 21.74% today with 52-week high of $900. Creator congratulates past buyers but does not make new recommendation as this is a past winner."
+          },
+          {
+            "ticker": "APPF",
+            "company_name": "Apploving",
+            "reason": "Mixed signals from the creator. The company has exceptional metrics: 88% gross profit margin TTM (A+ on Seeking Alpha), net income per employee of $4.47 million (higher than Nvidia's $3.8M), 50-66% growth, 26 gap P/E ratio, PEG ratio of 0.39 (under 1 is good). However, the creator lacks high conviction due to sentiment concerns. Concerned it could be viewed as 'the next Trade Desk' \u2014 a stock that was great until it wasn't. The creator explicitly stated 'I'm not buying AppoLiving. Even if it comes down, I'm probably not going to buy any because I'm nervous about trade desk.' Stock is down 20% after earnings despite strong fundamentals, suggesting sentiment overhang.",
+            "status": "Numbers are strong but conviction is low due to sentiment risk. Risk/reward looks strong (R3 Fibonacci at $648 vs S3 at $251) but creator not loading the truck. Not a top conviction stock in the 'best of breed' list."
+          },
+          {
+            "ticker": "UBER",
+            "company_name": "Uber Technologies",
+            "status": "See buy_recommendations above"
+          },
+          {
+            "ticker": "DDOG",
+            "company_name": "Datadog Inc.",
+            "reason": "Stock down 15% after reporting strong earnings (non-GAAP EPS 65 cents beat by 7 cents, 35.4% growth, $1.12B revenue). The creator recently trimmed this position a few days ago, not at the perfect high but roughly 20% above current levels. This is a SaaS stock with high beta, highly volatile (10-20-30% daily swings), and should be avoided by new investors. Despite 80% gross profit margins and strong recurring revenue model, the creator was compelled to trim due to valuation concerns. Stock is up 74% in past year and 80% in past 5 years. The creator sees the AI observability angle (used by OpenAI, Claude) as a driver but overall finds the valuation stretched. Main portfolio cost basis was $71-79; community portfolio at $237. Creator has hard time paying even $237.",
+            "status": "Creator trimmed positions, indicating wariness at current levels despite strong business fundamentals. For new investors, should be avoided due to high volatility and SaaS complexity."
+          },
+          {
+            "ticker": "MSFT",
+            "company_name": "Microsoft Corporation",
+            "reason": "The creator mentioned buying Microsoft when it was below $400 (range $350-400). Viewed as part of the AI ecosystem winner thesis where companies with existing ecosystems (Google, Apple, Microsoft) will dominate AI adoption due to business and enterprise familiarity.",
+            "status": "Past purchases at lower prices; creator does not explicitly recommend buying at current levels."
+          },
+          {
+            "ticker": "ORCL",
+            "company_name": "Oracle Corporation",
+            "reason": "Recently purchased as opportunistic buy along with Microsoft and other names.",
+            "status": "Opportunistic purchase; not a primary recommendation at current levels."
+          },
+          {
+            "ticker": "ALAB",
+            "company_name": "Astera Labs",
+            "reason": "Recently purchased opportunistically.",
+            "status": "Not a primary recommendation; opportunistic purchase only."
+          },
+          {
+            "ticker": "MCD",
+            "company_name": "McDonald's Corporation",
+            "reason": "Referenced to show K-shaped economy impact. Comparable sales up 8% in US vs 0.9% consensus, but overall growth is modest. Bought primarily for 2.68-2.71% dividend yield by income-focused DJI-type investors, not growth investors. Different investor type than Wingstop.",
+            "status": "Illustrative example only; not a buy or sell recommendation."
+          },
+          {
+            "ticker": "MNST",
+            "company_name": "Monster Beverage Corporation",
+            "reason": "Referenced as a positive counter-example showing energy drink companies can succeed massively. Up 49,000% all-time, 93% over 5 years, very strong 10-year performance. Used to illustrate that there's a path to growth even in consumer discretionary, but also cautioned that Celsius is not guaranteed to be the next Monster given strong competition.",
+            "status": "Historical reference showing what's possible; not a current buy recommendation. Creator notes Celsius should not be expected to replicate Monster's success given competitive landscape with Red Bull and traditional Monster dominance."
+          },
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Referenced as benchmark for net income per employee ($3.8M) when analyzing Apploving's exceptional $4.47M per employee. Also mentioned in context of AI winners and the 2026 physical AI and robotics conference discussion.",
+            "status": "Illustrative comparison only; not a specific recommendation in this video."
+          },
+          {
+            "ticker": "TSLA",
+            "company_name": "Tesla Inc.",
+            "reason": "Mentioned in context of autonomous vehicle competition with Uber and Waymo in the robo-taxi space. Tesla building its own autonomous vehicle platform.",
+            "status": "Referenced for industry context; not a specific buy or sell recommendation in this video."
+          },
+          {
+            "ticker": "CRWD",
+            "company_name": "CrowdStrike Holdings",
+            "reason": "Referenced as a SaaS stock example that wasn't a household name when the creator was buying it at IPO stage. Used to illustrate the creator's long history of investing in software companies.",
+            "status": "Historical reference; not a current recommendation."
+          },
+          {
+            "ticker": "SNOW",
+            "company_name": "Snowflake Inc.",
+            "reason": "Referenced as an example of consumption-based SaaS model when explaining how to value SaaS companies like Datadog.",
+            "status": "Illustrative example; not a specific recommendation."
+          }
+        ],
+        "key_warnings": [
+          "K-shaped economy recovery: The market is experiencing economic bifurcation where high earners and asset owners are climbing the upward arm of the K through stock market gains while lower-income groups are sliding down the other arm due to persistent inflation, tighter budgets, and not benefiting from stock market gains. This is evidenced by declining same-store sales at Wingstop, weakness in Celsius, and pressure on consumer discretionary spending. Higher oil prices ($70 to fill up gas tank vs $50) reduce disposable income for consumers buying energy drinks, fast food, and other discretionary items. This creates opportunity in technology/software/retail but danger in consumer-dependent sectors.",
+          "Interest rate risk from sticky inflation: Oil prices have been accelerating higher due to Middle East tensions, putting pressure on inflation. The Fed cannot lower interest rates due to sticky inflation and may even have to raise rates, which would cause the stock market to gyrate negatively. This is a headwind for the broader market and consumer-focused stocks.",
+          "Wall Street short-term bias: Wall Street prioritizes short-term profits over long-term growth investment, as evidenced by the market's negative reaction to Mercado Libre's low operating EBIT margins despite strong revenue growth and deliberate strategic investments. This creates mispricings in quality growth companies that are investing for future dominance (similar to Amazon's AWS buildout strategy).",
+          "All-time highs are not necessarily dangerous: Despite conventional wisdom, historical data since 1950 shows that buying at new all-time highs produced smaller maximum drawdowns than buying on any random day, pullback, correction, or bear market. Time in the market beats perfect timing. Waiting for a dip does not necessarily reduce downside risk.",
+          "Sentiment can suppress stocks for years: The creator noted that PayPal and potentially Apploving suffer from long-term sentiment headwinds that can suppress stock prices for extended periods even as fundamentals improve. Sentiment accounts for 60-70% of short-term stock movement and can linger.",
+          "SaaS/high-beta stocks are volatile and risky for new investors: SaaS companies like Datadog have high beta and constantly move 10-20-30% per day. New investors should avoid these highly volatile stocks and stick to more stable growth companies or broad market index funds.",
+          "Consumer discretionary weakness: Evidence from Wingstop, Celsius, McDonald's comparable sales, and broader discretionary weakness indicates the lower-income consumer is under pressure and spending less. This impacts energy drinks, restaurant traffic, and other consumer-dependent sectors.",
+          "Valuation expansion risks in AI beneficiaries: While AI observability companies like Datadog benefit from the AI trade, valuations have expanded significantly. The creator trimmed Datadog despite strong fundamentals due to valuation concerns, suggesting caution even in quality AI-adjacent businesses.",
+          "Restaurant/consumer-focused business model risks: The creator emphasized that restaurant and consumer-focused businesses are generally poor investments due to fickle consumer preferences, tight margins, difficult industry dynamics, and the fad nature of consumer trends. These should generally be avoided by long-term investors."
+        ],
+        "tickers_mentioned": [
+          "SPY",
+          "VOO",
+          "SIDE",
+          "MELI",
+          "UBER",
+          "APPF",
+          "DDOG",
+          "CELSIUS",
+          "WINGSTOP",
+          "MCD",
+          "MNST",
+          "PYPL",
+          "NVDA",
+          "AMD",
+          "TSLA",
+          "WMO",
+          "MSFT",
+          "GOOG",
+          "AAPL",
+          "CRWD",
+          "SNOW",
+          "ORCL",
+          "ALAB"
+        ]
+      },
+      "price_at_recommendation": {
+        "MELI": 1830.0,
+        "UBER": 70.47,
+        "PYPL": 59.78
+      }
+    },
+    "sDA3wYsYjM8": {
+      "channel": "CouchInvestor",
+      "title": "This Stock Is in a League of Its Own. No Company Has Ever Done This",
+      "upload_date": "20260806",
+      "url": "https://www.youtube.com/watch?v=sDA3wYsYjM8",
+      "processed_at": "2026-08-07T09:50:27.142457",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "MELI",
+            "company_name": "Mercado Libre",
+            "reason": "This is a company in a league of its own with 30 consecutive quarters of over 30% year-over-year revenue growth and a compound annual growth rate of 52% over the past six years. Revenue increased almost 50% year-over-year with $10 billion in quarterly revenue, GMV up 43% year-over-year, and total payment volume up 56% year-over-year. The credit portfolio increased 75.2% year-over-year with disciplined underwriting shown by historic lows in credit card NPLs at 4.6%. Management has an incredible track record and is in an investment cycle to ensure long-term success rather than optimizing for short-term Wall Street expectations. This is one of the creator's biggest holdings in their retirement portfolio.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Stock is down 10% year to date. Gross margin is down 470 basis points year-over-year and missed analyst expectations. Forward PE is 44.3 times and trailing PE is 48.3 times. This is expensive valuation but justified by growth trajectory. Short-term traders may see margin compression as a negative, but long-term investors should understand management is investing in the business deliberately."
+          },
+          {
+            "ticker": "UBER",
+            "company_name": "Uber Technologies",
+            "reason": "Uber the business has been performing very well with gross bookings up 22% year-over-year for the fourth consecutive quarter of above 20% growth. Trading 12-month free cash flow is now above $10 billion, non-GAAP operating income at 40%, mobility segment up 20% year-over-year, and delivery operating income up 38% year-over-year at 38.8% margin. Q3 guidance expects gross bookings growth between 18 to 22% year-over-year and non-GAAP EPS growth between 28 to 35% year-over-year. The autonomous vehicle strategy is progressing with plans to be live in 15 cities by end of year, scaling to 28 cities globally by 2028, and a full stack hardware and software launch in San Francisco and Miami with Rivian by 2028. The creator believes autonomous vehicles will become a commodity and platforms with insane distribution will be winners, positioning Uber for significant long-term value.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The stock has been an underperformer despite good business performance, indicating a sentiment problem. The market may want to see more cities with autonomous vehicles and positive business impact sooner rather than later. The creator does not expect to see autonomous vehicle business impact Uber positively until 2027. Current sentiment may create near-term volatility despite strong fundamentals."
+          },
+          {
+            "ticker": "AXON",
+            "company_name": "Axon Enterprise",
+            "reason": "Excellent quarter with revenue up 35.3% year-over-year and cloud ARR up 38.5%, both beating estimates. Net retention rate of 126% and contracted bookings of $15.1 billion up 41.1% year-over-year demonstrate flawless execution. Their counter drone home (Dron) business revenue is up 123% year-over-year to $150 million and is now over $400 million in annual run rate, showing strong execution on an acquisition completed for around $500 million in 2024. Fiscal year 2026 revenue growth target was raised to 33% year-over-year from 31%, beating consensus. Free cash flow guidance of $450 million is expected with normalization as inventory accumulation completes by end of 2026.",
+            "when_to_buy": "$500 per share or lower for accumulation",
+            "target_price": null,
+            "cautions": "This is not a cheap name, currently trading at approximately 60 times forward earnings. Stock is down 10% from recent highs, though the creator anticipated this pullback. The only miss in the quarter was free cash flow due to aggressive multi-year hardware inventory build ahead of demand. This is a small position for the creator currently and is an expensive name, so position sizing should be considered."
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms",
+            "reason": "Meta is extremely undervalued and released new AI models including Llama Code in beta, a terminal coding agent that takes on complete software engineering tasks. Llama Spark 1.2, a coding-focused model update, cracked the top five on the LMSYS eval index at just 69 cents per test\u2014three times cheaper than Claude 3.5 Sonnet and 10 times cheaper than other frontier models like Claude Opus or GPT-4o. The big update will come with the watermelon model release. Meta has an insane amount of compute and if they can make models cheaper, they have distribution as a major advantage. Reports suggest Meta could have up to 400,000 GPUs available to sell to outside users, which could change sentiment quickly.",
+            "when_to_buy": "Stock is trying to go back to $600 per share",
+            "target_price": null,
+            "cautions": "The updates mentioned (Llama Spark 1.2 and Llama Code) are described as small updates. The bigger impact will depend on the watermelon model release and whether Meta can actually monetize and scale the 400,000 GPU capacity. Reports about GPU availability are still speculative."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "SFT",
+            "company_name": "Shift4 Payments",
+            "reason": "Q2 was a good quarter but guidance was disappointing. The business is underperforming its potential despite cheap valuation. Even though the stock is cheap valuation-wise, the stock itself will not be moving anytime soon in the creator's opinion. The creator took a loss and sold out of the position to redeploy capital to stronger opportunities.",
+            "risk": "Stock is underperforming with limited near-term upside catalyst despite cheap valuations. There is significant opportunity cost holding this position while better-performing companies offer better risk-reward."
+          },
+          {
+            "ticker": "SNDK",
+            "company_name": "SanDisk (Western Digital)",
+            "reason": "While the company is experiencing insane amount of growth, the market does not believe this growth and margins can be sustained for many years to come. The stock fell significantly after earnings, down 3.7% despite strong revenue growth metrics. The key question is whether the growth trajectory and margin expansion can be maintained long-term, and the market has expressed skepticism.",
+            "risk": "Down 3.7% immediately after earnings report. Market skepticism about sustainability of growth and margins creates headwind for the stock despite strong current results."
+          }
+        ],
+        "key_warnings": [
+          "Sentiment problems persist in the market despite strong fundamentals: Mercado Libre, Uber, and Axon all reported good quarters but their stocks went down, indicating that market sentiment and expectations are more important than actual business execution in the near term. Investors should be prepared for volatility even when companies deliver strong earnings.",
+          "Semiconductor sector volatility: After SanDisk reported, the entire semiconductor sector initially sold off heavily after hours and in pre-market, though some recovery occurred during regular trading. This suggests sentiment-driven selling rather than fundamentals-based moves.",
+          "AI researcher departures and model competition: Google's leadership changes in AI with Demis Sassabis stepping down and Jeff Dean leaving to start his own venture caused the stock to fall on headline risk. However, the creator notes that AI researchers leaving is not a true moat\u2014vertical integration, infrastructure, GPUs, TPUs, and compute power are the real competitive advantages. Investors should focus on infrastructure over individual talent departures."
+        ],
+        "tickers_mentioned": [
+          "GOOGL",
+          "META",
+          "MELI",
+          "AXON",
+          "UBER",
+          "SFT",
+          "SNDK",
+          "MU",
+          "NBES",
+          "CORE",
+          "DLOI",
+          "RKLB",
+          "OSCAR",
+          "MSFT"
+        ]
+      },
+      "price_at_recommendation": {
+        "SNDK": 1258.58,
+        "META": 589.9,
+        "MELI": 1830.0,
+        "AXON": 522.46,
+        "UBER": 70.47
+      }
+    },
+    "uD7MvOcg5qw": {
+      "channel": "Daniel Pronk",
+      "title": "I just Bought $5,000 More of This Stock",
+      "upload_date": "20260806",
+      "url": "https://www.youtube.com/watch?v=uD7MvOcg5qw",
+      "processed_at": "2026-08-07T09:50:48.390491",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "MELI",
+            "company_name": "Mercado Libre",
+            "reason": "The creator purchased $5,000 more shares after the earnings report, viewing the 7% sell-off as unwarranted. Revenue grew 50% YoY to $10.2 billion (fastest in 4 years), with GMV up 44% YoY and payment volume up 56% YoY. The company is sacrificing near-term margin expansion to invest aggressively in growth across e-commerce and fintech, with operating margins at 6.7% and net margins at 4.6%. The creator believes margins are bottoming and will expand significantly as the business scales. Ecosystem users (those using both marketplace and fintech) grew 37% YoY\u2014the fastest growth since Q4 2023\u2014and when users adopt both platforms, profitability multiplies rather than adds linearly. Brazil (largest market) is accelerating with 50% YoY revenue growth and 39% GMV growth. The fintech business is exploding with 88M MAUs (up 38% YoY), AUM of $23B (up 68% YoY), and credit portfolio at $16B (up 75% YoY) while maintaining NPL ratios near all-time lows at 4.6%. Advertising revenue hit $2B in TTM (up 62% YoY) while the Latin American digital ad market grew only 13% YoY, meaning MELI is taking 4x market share and is now the third-largest digital advertiser. The company has grown revenue 30%+ for 30+ consecutive quarters\u2014the only company in the stock market achieving this. Owner's free cash flow is at $7.45B TTM and up 35% YoY. Management stated every investment has a clear path to profitability and strict metrics are applied to all capital deployment. The creator believes Latin America's digital economy transformation will play out over decades, giving the business enormous runway. MELI is the third-largest position in the creator's portfolio.",
+            "when_to_buy": "Creator bought on the recent selloff; no specific price mentioned as entry point, but current stock price reflects market overreaction to margin compression",
+            "target_price": "Creator's DCF model suggests fair value of $3,700 and potential future stock price of $5,000 per share over next 3 years with 40.4% annual compounding, assuming 40% annual EBIT growth and 30x EBIT multiple. Based on analyst consensus revenue of $82B by 2029 and 12% operating margin, MELI could achieve $9.8B in operating income by 2029 (potentially higher given historical margins of 13-16%).",
+            "cautions": "Operating margins compressed to 6.7% this quarter (down 0.2% QoQ) and net margins at 4.6% (down 3.1% YoY), which has spooked analysts. Over 90-day NPL loans ticked up two quarters in a row and are up 0.2% YoY, though provisions coverage of 143% means losses are already written off. Credit card NEML compressed to -2.5% this quarter due to new card issuance (2.6M new cards vs 1.6M prior year), which dilutes margins short-term as new cohorts are naturally unprofitable initially. Argentina market showed deceleration in revenue and GMV growth. The creator acknowledges this is a growth-at-expense-of-profitability story and requires conviction in management's ability to eventually harvest profits."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": [
+          "MELI"
+        ]
+      },
+      "price_at_recommendation": {
+        "MELI": 1830.0
+      }
     }
   },
   "channel_ids": {

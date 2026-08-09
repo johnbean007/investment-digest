@@ -15275,6 +15275,153 @@
       "price_at_recommendation": {
         "MELI": 1830.0
       }
+    },
+    "Mey5z-pk5yQ": {
+      "channel": "CouchInvestor",
+      "title": "Could This Be The Most Controversial Multibagger Stock In The Making?",
+      "upload_date": "20260808",
+      "url": "https://www.youtube.com/watch?v=Mey5z-pk5yQ",
+      "processed_at": "2026-08-09T14:19:57.318519",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "SPACEX",
+            "company_name": "SpaceX",
+            "reason": "SpaceX could be a potential multi-bagger if it successfully executes its AI compute infrastructure business. The company is targeting 10 GW of compute capacity by end of 2027, which could generate a $300-500 billion run rate revenue by Q4 2027 according to Semianalysis models. SpaceX has secured major contracts including Google committing 110,000 Nvidia GPUs ($920 million/month potential revenue) and Anthropic committing $1.25 billion/month for dedicated compute capacity. If SpaceX achieves these milestones and the pure compute business scales to 10 GW with a 10x sales multiple applied to fiscal 2028 projections, the company could potentially double its current valuation. The creator notes that SpaceX controls the entire value chain for space-based data centers, positioning it as the primary beneficiary if data centers in space become reality over the next 5-10 years.",
+            "when_to_buy": "The creator would ideally like to buy around $1 trillion valuation or lower. Currently valued at $1.75 trillion (down 33% from peak). Creator may consider buying at higher prices if they see huge acceleration in revenue with tens of billions per quarter.",
+            "target_price": "Potentially $5 trillion valuation in future if data center in space becomes reality. At current trajectory with 10x sales multiple on projected fiscal 2028 revenues, could be valued significantly higher than current $1.75 trillion.",
+            "cautions": "SpaceX is currently overvalued in the creator's opinion. The 10 GW target by end of 2027 requires unprecedented capital deployment ($300-500B capex) and execution speed not seen elsewhere. Both Google and Anthropic contracts contain 90-day early termination clauses effective after December 31, 2026, meaning they could be cancelled with minimal notice. The creator admits they don't fully agree with themselves on SpaceX valuation and is simultaneously invested in competing cloud infrastructure providers (Google, Meta, Amazon, CoreWeave). Starship must work efficiently and scale execution for the thesis to play out. The $1 trillion revenue target by 2029-2030 should be taken with skepticism, similar to Tesla guidance. Execution risk is extremely high given the compressed timeline."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Memory chip sector (NANYA, SK Hynix, Samsung Memory) may be near peak pricing. Market sentiment suggests selling memory stocks to buy optics, despite memory names being down 30-50% from June peak while optics names are up, potentially indicating investors are selling bottoms and chasing tops. Supply is expected to increase mid to late 2027, though the creator believes impact will be less severe than feared.",
+          "Beware of 'next big thing' framing. Stocks marketed as 'next Apple,' 'next Nvidia,' or 'next Micron' are typically not the greatest investments. The creator uses such titles for clickthrough but warns against this investment pattern.",
+          "Whisper stocks with hypnotic stories and zero current earnings are dangerous. Current examples include Quantum stocks and Nuclear names, which lack fundamental earnings foundation.",
+          "Customer concentration risk above 25-50% of sales to single buyer is extremely risky and can destroy entire businesses with loss of one customer.",
+          "Beware of M&A-driven empire building. Peter Lynch preferred buybacks over acquisitions. Companies acquiring unrelated businesses for expansion sake rather than strategic fit tend to underperform.",
+          "If SpaceX fails to achieve rapid 10 GW scaling or major contracts terminate early, it could underperform significantly despite current high valuation, making it a significant downside risk if growth thesis does not materialize."
+        ],
+        "tickers_mentioned": [
+          "SPACEX",
+          "MSFT",
+          "GOOGL",
+          "AMZN",
+          "META",
+          "NVDA",
+          "ORCL",
+          "NANYA",
+          "TSMC",
+          "INTC"
+        ]
+      },
+      "price_at_recommendation": {}
+    },
+    "45flD5nvDac": {
+      "channel": "Daniel Pronk",
+      "title": "I Just Bought $17,000 More of This Stock",
+      "upload_date": "20260807",
+      "url": "https://www.youtube.com/watch?v=45flD5nvDac",
+      "processed_at": "2026-08-09T14:20:15.298531",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "ROAD",
+            "company_name": "Construction Partners, Inc.",
+            "reason": "Construction Partners reported Q3 2026 earnings with revenue up 28% year-over-year, net income up 34%, and EBITDA up 24%. The company has a record backlog of $3.36 billion and raised guidance for fiscal year 2026 for the third consecutive time to $3.66 billion in revenue and $565 million in adjusted EBITDA. Management is executing well with 8-10% organic growth annually plus strategic acquisitions, particularly benefiting from the generational transition in the construction industry. The company is well-positioned in the high-growth Sunbelt region with expansion into data center construction markets. The creator believes the company will beat its 2030 guidance targets of $6 billion in revenue and $1.03 billion in EBITDA (15% and 18% CAGR respectively), potentially achieving higher margins than the guided 17%. The debt-to-EBITDA ratio is elevated at 3.17x due to recent acquisitions but is being deleveraged with strong cash conversion of 80% of EBITDA to operating cash flow. The stock was trading at a significant discount (9x 2026 EBITDA at lows below $100) compared to its historical median of 16.5x, representing a buying opportunity.",
+            "when_to_buy": "The creator added $17,000 more shares after the 20% single-day spike following earnings; stock was trading below $100 per share at the bottom before the earnings rally",
+            "target_price": "Conservative DCF: $130 fair value / $210 future stock price (11.7% annual returns). Base case DCF: $178 fair value / $287 future stock price (19% annual returns, 138% total return by 2030). Bullish case DCF: $210 fair value / $340 future stock price (23% annual returns, 180% total return by 2030).",
+            "cautions": "Debt-to-EBITDA ratio is currently elevated at 3.17x (higher than historical comfort zone below 2.0x), though management plans to reduce it to 2.5x and target 1.5-2.5x by 2030. Data center/AI exposure represents approximately $200-300 million of backlog (about 10%), so weakness in the AI trade could impact results to some extent. The projections assume the company executes on guidance and potentially completes transformational acquisitions, which are not guaranteed. Company has a history of sandbagging guidance which the creator views positively but could result in execution misses."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Data center and AI market exposure: While only representing 10% of Construction Partners' backlog ($200-300 million), any significant slowdown in AI-related construction spending could negatively impact results. The creator noted this as a potential weakness point but does not view it as a material risk to the business fundamentals."
+        ],
+        "tickers_mentioned": [
+          "ROAD"
+        ]
+      },
+      "price_at_recommendation": {
+        "ROAD": 119.74
+      }
+    },
+    "qpb5dOWu6to": {
+      "channel": "FinTek",
+      "title": "Top 3 Nuclear Stocks to BUY NOW",
+      "upload_date": "20260808",
+      "url": "https://www.youtube.com/watch?v=qpb5dOWu6to",
+      "processed_at": "2026-08-09T14:25:19.927472",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "CNTG",
+            "company_name": "Centric Energy",
+            "reason": "The creator used an AI agent to pull latest energy demand numbers and found that for the first time in a decade, energy demand is starting to rise again. Centric Energy holds a near monopoly on US production of the type of fuel needed for small modular nuclear reactors, and the company is benefiting from the latest government contracts.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "CEG",
+            "company_name": "Constellation Energy",
+            "reason": "The creator built a spreadsheet and pulled all comparison numbers for these stocks, and Constellation Energy topped the list. The company beat expectations and yet the stock currently looks undervalued at today's prices. The company has several major new contracts underway including reopening Three Mile Island.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "NLR",
+            "company_name": "NLR Nuclear ETF",
+            "reason": "This is described as the creator's probably favorite way to invest in the nuclear market. It is a nuclear-focused ETF providing diversified exposure to the sector.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "The video mentions AI stocks have been dropping, suggesting potential overvaluation or market correction in the AI sector, though the creator does not explicitly recommend avoiding them."
+        ],
+        "tickers_mentioned": [
+          "CNTG",
+          "CEG",
+          "NLR"
+        ]
+      },
+      "price_at_recommendation": {
+        "CEG": 269.89,
+        "NLR": 117.82
+      }
+    },
+    "CoWLs0tZSJo": {
+      "channel": "FinTek",
+      "title": "Top Fintech Stock to BUY NOW",
+      "upload_date": "20260807",
+      "url": "https://www.youtube.com/watch?v=CoWLs0tZSJo",
+      "processed_at": "2026-08-09T14:25:29.876471",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "SOFI",
+            "company_name": "SoFi Technologies Inc.",
+            "reason": "SoFi is growing revenue at 30% compounded and scores a 72 on the investing rule of 40, indicating strong growth relative to profitability. The company has 3.8 billion dollars of personal and home loans as of Q1 2026, with a huge chunk of revenue and growth coming directly from the lending segment, which grew 53% year-over-year. The creator holds this as one of their biggest portfolio holdings and is willing to hold it for the long term based on this strong lending growth.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The stock experiences significant volatility and acts as a leading indicator for economic conditions. Economic downturns tend to hit SoFi first, so investors need to be ready for substantial swings if holding the stock long-term."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "SoFi and fintech lending stocks are cyclical and highly sensitive to economic conditions. The creator explicitly warns that whatever happens in the economy tends to hit SoFi first, suggesting these stocks amplify macroeconomic headwinds and may experience outsized downside during recessions."
+        ],
+        "tickers_mentioned": [
+          "SOFI"
+        ]
+      },
+      "price_at_recommendation": {
+        "SOFI": 18.38
+      }
     }
   },
   "channel_ids": {

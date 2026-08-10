@@ -15422,6 +15422,485 @@
       "price_at_recommendation": {
         "SOFI": 18.38
       }
+    },
+    "7lE_ewagWx4": {
+      "channel": "CouchInvestor",
+      "title": "I Just Sold Out of a Stock Completely. Here's What I Bought Instead",
+      "upload_date": "20260809",
+      "url": "https://www.youtube.com/watch?v=7lE_ewagWx4",
+      "processed_at": "2026-08-10T10:05:13.701918",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NEBS",
+            "company_name": "Nubeva Technologies",
+            "reason": "Nubeva is a core holding that has crushed it year-to-date, up 108%. The creator expects the company to meet its targets and potentially see guidance increases. The investment thesis centers on how fast Nubeva can bring data center clusters online to meet aggressive growth expectations of $3.3B revenue in fiscal 2026, $11.4B in fiscal 2027, and $21.4B in fiscal 2028. The company has a diversified portfolio of data center locations across the US and Europe, providing resilience against localized issues. Being Europe-based positions Nubeva as a big winner in Europe's push for local data center investment. The creator is not playing earnings despite this being a large position because conviction is high.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Stock is experiencing a 34.5% drawdown from highs. Potential delays in data center deployment in certain locations (Vinand) could impact revenue recognition timing. Legal issues in specific regions need monitoring. If guidance is not reaffirmed or delays are announced, the stock could decline further."
+          },
+          {
+            "ticker": "PLTR",
+            "company_name": "Palantir Technologies",
+            "reason": "The creator bought more Palantir at $125 before earnings as a gamble on positive earnings reaction, specifically betting on accelerated growth recognition by the market. The stock has delivered, now at $172 per share with a 55% gain on the second position. The creator has happy conviction at current levels and will not chase higher, but would add on any pullback if the market rewards accelerated growth.",
+            "when_to_buy": "On pullbacks from $172 if market corrects",
+            "target_price": null,
+            "cautions": "The creator will not chase the stock at current levels. Stock could experience earnings-related volatility. Past performance of 55% gains may not be indicative of future results."
+          },
+          {
+            "ticker": "SOFI",
+            "company_name": "SoFi Technologies",
+            "reason": "SoFi is the creator's second-largest position, currently above $18. The creator questions whether this level represents the last opportunity to buy SoFi below $18, suggesting conviction that the stock could move significantly higher from current levels.",
+            "when_to_buy": "Current levels above $18",
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices",
+            "reason": "AMD is the third-largest position in the portfolio, reflecting ongoing conviction in the semiconductor space despite recent volatility in memory stocks.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet Inc.",
+            "reason": "Google is held as a fourth-largest position in the creator's portfolio, representing exposure to large-cap tech.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "RKLB",
+            "company_name": "Rocket Lab USA Inc.",
+            "reason": "Rocket Lab is a core holding with significant upside potential centered on the Neutron launch, which the creator describes as a 'complete game changer' for the company. The investment thesis depends on Neutron's successful development to execute as a one-stop shop for launch services. Revenue is expected to grow from under $1B currently to $923M in fiscal 2026, $1.2B in fiscal 2027, and $1.7B in fiscal 2028. The Iridium acquisition closing mid-2027 is expected to add approximately $500M in free cash flow. The creator is watching Monday's earnings closely for Neutron timeline updates.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Stock has been repeatedly delayed on Neutron launch timeline and is currently expensive at $80+ per share (47-48x sales). The entire investment thesis breaks if Neutron does not succeed. The creator emphasizes that further delays push revenue recognition further out. If Neutron launch is delayed again, stock could face significant pressure. The creator expects Neutron to launch in 2026 and notes it is 'about time' after repeated historical delays."
+          },
+          {
+            "ticker": "CORE",
+            "company_name": "CoreWeave Inc.",
+            "reason": "CoreWeave is valued around one Rocket Lab but with significantly more revenue generation at $6.2B over the last 12 months. Revenue is expected to grow substantially to $12.6B in fiscal 2026, $25.1B in fiscal 2027, and close to $40B in fiscal 2028. The key investment thesis is margin stabilization and improvement. Management guided three months ago that margins should stabilize, and the creator is watching to confirm this is true. Success depends on getting GPUs online as quickly and efficiently as possible, adding software layers, and expanding monetization to reach growth targets and reduce debt/default risk. The company has a backstop from Nvidia, providing downside protection.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Margin stabilization and improvement is critical to the thesis \u2014 if margins deteriorate further, the investment case weakens. Any additional delays in bringing GPUs online reduce revenue recognition while fixed costs like interest payments continue. High capex expectations create execution risk. The stock has experienced a 34% drawdown from highs."
+          },
+          {
+            "ticker": "MU",
+            "company_name": "Micron Technology",
+            "reason": "Memory names including Micron are characterized as very cheap with strong growth in top and bottom lines expected for the next couple of quarters. The creator believes these companies will not peak despite recent sector rotation concerns toward optics. Micron is still growing aggressively with no real cracks in the business. Gross margins are around 85% and the key question is whether these margins can stay at 80-85% for the foreseeable future while revenue continues to grow. The creator notes they are holding 'house money' on memory positions after taking significant profits, so further upside potential exists. The creator would not be surprised if Micron and similar names return to all-time highs given current growth rates and business fundamentals.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Recent sector sentiment has turned negative with concerns about whether memory has peaked and rotation toward optics. The critical question is whether high gross margins (80-85%) can be maintained long-term as companies optimize memory usage. Sentiment is bearish in the near term, but the creator is contrarian on this view."
+          },
+          {
+            "ticker": "RDDT",
+            "company_name": "Reddit Inc.",
+            "reason": "Reddit is held in the portfolio and is almost back to pre-earnings prices. The creator covered the earnings positively in previous videos and sees an opportunity to increase the position at current levels.",
+            "when_to_buy": "Current levels, with potential to add more",
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "UBER",
+            "company_name": "Uber Technologies",
+            "reason": "Uber is held in the portfolio and has moved above pre-earnings prices due to positive quarterly results that the creator covered in previous videos. The market initially underreacted to the strong quarter, creating an opportunity.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms Inc.",
+            "reason": "Meta is held as part of the portfolio's large-cap tech exposure.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "AXON",
+            "company_name": "Axon Enterprise Inc.",
+            "reason": "Axon is held in the portfolio and has been covered previously by the creator.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "NFLX",
+            "company_name": "Netflix Inc.",
+            "reason": "Netflix is held in the portfolio as part of tech exposure.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "OSCR",
+            "company_name": "Oscar Health Inc.",
+            "reason": "Oscar Health had strong year-to-date performance with the business performing well. Q2 showed beats across the board with growth, improving medical loss ratio, and improving SGNA expense ratio. Earnings per operation are positive and full-year fiscal 2026 guidance reaffirmed strong performance with 71% year-over-year earnings growth expected, 90 basis points improvement in medical loss ratio, 20 basis points improvement in SGNA expense ratio, and $250M improvement in adjusted EBITDA. The company is still very small in a huge market and is executing exactly what it should be doing. An upcoming investor day in less than 1.5 months will outline long-term growth targets, technology monetization, and IRA expansion roadmap. The road is still very long for Oscar with significant upside potential.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Stock dropped after earnings despite strong fundamentals, likely due to warnings that second half monthly churn will double from 1-2% to 2-4% per month due to CMS eligibility verification and data sweeps. Market may be concerned about forward churn impact on future years despite current year guidance being reaffirmed. A significant portion of Q2 operating earnings ($164M out of total) came from backward-looking prior period reserve developments, so normalized margins are lower than reported."
+          },
+          {
+            "ticker": "RUB",
+            "company_name": "Rubric Inc.",
+            "reason": "Rubric is held in the portfolio and has made a 'very sneaky move' back to $90 per share. The creator notes that Rubric has not yet reported earnings, so there is still time for the story to develop further.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Stock has risen to $90 ahead of earnings, so entry points may be less attractive. Stock valuation may be extended ahead of earnings announcement."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "SFT",
+            "company_name": "Shift4 Payments Inc.",
+            "reason": "The creator completely exited Shift4 after holding through earnings, realizing a 35.6% loss on the position. Q2 was a good quarter with beats across the board including 34% gross revenue growth, 51% gross revenue less network fees growth, and 53% gross profit growth. However, guidance was revised down across the board which is not what investors want to see. The business faced headwinds from the Middle East conflict affecting lucrative, high-margin, tax-free shopping corridors into Europe. Additionally, the company added a $1B term loan B to refinance 2027 converts, raising quarterly interest expense to $65M and net leverage to 3.7x, creating debt burden concerns. Free cash flow compressed from 42% to 40% of adjusted EBITDA. The creator explicitly states the company had potential but execution was lacking and decided to take the loss to redeploy capital elsewhere rather than hold a troubled position.",
+            "risk": "Stock was trading at $55 before earnings and subsequently declined. Further downside risk exists if company continues to miss guidance or faces additional Middle East conflict impacts. Elevated debt levels create refinancing risk and interest burden concerns."
+          }
+        ],
+        "key_warnings": [
+          "Capex timing risk across infrastructure stocks: CoreWeave and Nubeva both have significant expected capex increases in coming quarters. Capex guidance misses (like CoreWeave missing on the upside recently at $7.6B vs estimated $5.9B) could indicate execution challenges and pressure on free cash flow. Capex variability is high with wide ranges in estimates, creating uncertainty.",
+          "Data center deployment delays could impact revenue recognition: Both CoreWeave and Nubeva depend on bringing GPU/AI clusters online quickly. Any delays in data center buildouts, whether due to legal issues (like Vinand facility concerns for Nubeva), supply chain, or permitting, push out revenue recognition while fixed costs continue, pressuring margins.",
+          "Margin stabilization is critical for AI infrastructure plays: CoreWeave explicitly depends on margin improvement from current levels per management guidance. If margins compress instead of stabilize, the investment thesis breaks. Similar dynamics apply to Nubeva.",
+          "Memory stock sentiment has turned negative despite strong fundamentals: While the creator believes memory names like Micron are cheap and growing, there is significant sector rotation toward optics and sentiment that memory has peaked. This creates near-term downside risk despite long-term fundamentals being sound.",
+          "Execution risk on next-generation products: Rocket Lab's entire thesis depends on Neutron launch success \u2014 if Neutron fails, the thesis breaks completely. The company has repeatedly delayed Neutron timeline, creating credibility concerns. CoreWeave and Nubeva similarly depend on flawless execution in bringing new capacity online.",
+          "Macro factors like rate policy create short-term noise but should not drive long-term investment decisions: The creator explicitly states that while macro developments (rate hikes, rate cuts, expectations changes) impact markets in the short term, they should not influence thesis-driven investing in great executing companies for long-term holding."
+        ],
+        "tickers_mentioned": [
+          "RKLB",
+          "SPACE",
+          "HIMS",
+          "C",
+          "SMCI",
+          "CSCO",
+          "COHR",
+          "CBAI",
+          "JD",
+          "AMAT",
+          "FIG",
+          "AVGO",
+          "PYPL",
+          "NEBS",
+          "SOFI",
+          "AMD",
+          "GOOGL",
+          "META",
+          "OSCR",
+          "RUB",
+          "LULU",
+          "MU",
+          "SNP",
+          "SMCI",
+          "PLTR",
+          "UBER",
+          "HOOD",
+          "COIN",
+          "RDDT",
+          "AXON",
+          "NFLX",
+          "NVDA",
+          "SFT",
+          "CORE",
+          "IRIDM"
+        ]
+      },
+      "price_at_recommendation": {
+        "AMD": 483.36,
+        "MU": 877.57,
+        "RKLB": 82.83,
+        "OSCR": 27.9,
+        "UBER": 75.02,
+        "PLTR": 172.01,
+        "AXON": 571.01,
+        "GOOGL": 354.3,
+        "NFLX": 74.14,
+        "SOFI": 18.38,
+        "META": 592.1,
+        "RDDT": 161.7
+      }
+    },
+    "s7cuJCZU0yY": {
+      "channel": "The Traveling Trader",
+      "title": "These 8 Stocks Are about to Explode (I'm Buying NOW)",
+      "upload_date": "20260810",
+      "url": "https://www.youtube.com/watch?v=s7cuJCZU0yY",
+      "processed_at": "2026-08-10T10:06:05.530706",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet Inc.",
+            "reason": "Trading at a 17.5 PE valuation while recording greatest revenue quarter ever, greatest EBIT ever, net income ever, earnings per share ever, and greatest gross profit ever. Free cash flows came in negative due to higher than expected capex, creating a discount opportunity. Berkshire Hathaway deployed $10 billion into Alphabet at class A price of $351.81 and class C at $348.20, with current class A trading around $354.30. Creator's core portfolio is up 254% on Google position since 2021 with cost basis of $100.61, and still considers it a no-brainer buy even down 13% from March 2024 highs.",
+            "when_to_buy": "Current levels near $354.30 (class A)",
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "NOW",
+            "company_name": "ServiceNow Inc.",
+            "reason": "Rule of 40 score of 52, indicating elite territory (40+ is elite). Forward PE of 24 with 10-year CAGR of 29%. Revenue, EBIT, gross profit, cash from operations, and free cash flow all demonstrate this is a beast of a company. Creator has been in position since low 90s and considers it a solid long-term investment. Stock is approaching a technical trend line resistance; breakout could lead to 160-190 range in midterm, while breakdown could return to demand levels.",
+            "when_to_buy": "Watch for breakout above current trend line resistance",
+            "target_price": "160-190 range in midterm if breakout occurs",
+            "cautions": "Currently coming up against trend line resistance from technical perspective. Could experience volatility if it breaks down below support."
+          },
+          {
+            "ticker": "HOOD",
+            "company_name": "Robinhood Markets Inc.",
+            "reason": "Rule of 40 score of 89, demonstrating exceptional quality. 5-year CAGR of 36%, 3-year CAGR of 49%. Delivered best quarter since IPO while trading 40% down from highs, creating asymmetrical opportunity. Bitcoin consolidation and potential breakout could provide short-term catalyst for Hood's price action.",
+            "when_to_buy": "Current levels with 40% discount from highs",
+            "target_price": null,
+            "cautions": "Bitcoin consolidation must break out to provide catalyst; otherwise may remain range-bound."
+          },
+          {
+            "ticker": "UBER",
+            "company_name": "Uber Technologies Inc.",
+            "reason": "Record revenue, record gross profit margin, record cash from operations, and record free cash flows of $5.08 billion. Bookings grew 24%. Achieved best quarter since IPO. Recently broke out of downtrend established in October 2025 after initial 5% post-earnings drop. Creator likes the price here long-term.",
+            "when_to_buy": "After recent breakout from October 2025 downtrend",
+            "target_price": null,
+            "cautions": "Would like to see sustained rally following breakout; initial post-earnings weakness of 5% shows typical volatility."
+          },
+          {
+            "ticker": "PLTR",
+            "company_name": "Palantir Technologies Inc.",
+            "reason": "Highlighted as AI beneficiary stock. Mentioned as having the highest rule of 40 score alongside AppLovin. Referenced in context of asymmetrical opportunity positioning in creator's portfolio.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "APPF",
+            "company_name": "AppLovin Corporation",
+            "reason": "Highest rule of 40 score in stock market at 84% alongside Palantir. 84% adjusted EBIT margin, 66% revenue growth, record revenue, record gross profit, record net income, record EBIT, with 53% year-over-year revenue jump. 45% return on invested capital at 63%. Forward PE of 16 with 5-year CAGR of 30.45%. Despite 20% post-earnings drop and revenue miss, creator considers this a great price for long-term investment.",
+            "when_to_buy": "Current levels around $346 after 20% gap down",
+            "target_price": null,
+            "cautions": "Currently down 20% after slight revenue miss and guidance miss. Creator personally avoids buying gap downs or falling knives, so this is marked as a definite watch rather than immediate buy. Stock will be volatile."
+          },
+          {
+            "ticker": "NBIS",
+            "company_name": "Nebius AI Inc.",
+            "reason": "Goldman Sachs increased stake to 10.5% and raised revenue and EBIT guidance. Reports earnings on Wednesday with rumors of potential Google deal. Short interest of 31% creates potential squeeze scenario. Nvidia also owns 9% of Nebius. Goldman's increased ownership and raised guidance suggest confidence in company trajectory. Trading at high beta AI name with asymmetrical upside.",
+            "when_to_buy": "Before Wednesday earnings report",
+            "target_price": null,
+            "cautions": "High beta volatility makes this a more volatile hold than typical core portfolio position. 31% short interest and pending earnings create significant price swing risk in either direction."
+          },
+          {
+            "ticker": "SMH",
+            "company_name": "Semiconductor ETF",
+            "reason": "Semiconductor sector was in bear market down 25% from highs, creating asymmetrical opportunity. Individual chip names like Marvell, Broadcom (duopoly), TSM (obvious monopoly down 22%), ASML (obvious monopoly down 23%), ARM (52% down from highs, also obvious monopoly), and Intel (looking to become TSMC of US, down 42% from highs then recovered to 29% down) all show significant value. Creator made case for investing in chips during bear market as no-brainer.",
+            "when_to_buy": "During sector bear market discount",
+            "target_price": null,
+            "cautions": "Sector was volatile during recent deleveraging. Individual names have varying risk profiles."
+          },
+          {
+            "ticker": "MRVL",
+            "company_name": "Marvell Technology Inc.",
+            "reason": "Chip sector name that has broken out. Part of asymmetrical chip sector opportunity discussed as Broadcom and Marvell operate as duopoly in their market.",
+            "when_to_buy": "After recent breakout",
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Already broke out and jumped 17.5% from end of July. Creator positioned himself in Nvidia as asymmetrical bet that paid off. Company is part of megacap tech that had monster earning season, bouncing from major demand areas.",
+            "when_to_buy": "Already broken out; entry point was lower",
+            "target_price": null,
+            "cautions": "Stock has already run significantly; fewer asymmetrical opportunities remain at current levels."
+          },
+          {
+            "ticker": "TSM",
+            "company_name": "Taiwan Semiconductor Manufacturing Company",
+            "reason": "Obvious monopoly down 22% from highs at time of discussion, creating asymmetrical buying opportunity. Critical infrastructure for chip manufacturing.",
+            "when_to_buy": "When down 22% from highs",
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "ASML",
+            "company_name": "ASML Holding N.V.",
+            "reason": "Obvious monopoly in semiconductor equipment manufacturing, down 23% from highs at time of discussion. Creator cited this as asymmetrical opportunity in chip sector.",
+            "when_to_buy": "When down 23% from highs",
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "ARM",
+            "company_name": "Arm Holdings PLC",
+            "reason": "Obvious monopoly in CPU architecture design, down 52% from highs. Significant asymmetrical opportunity given monopolistic position despite major drawdown.",
+            "when_to_buy": "Current depressed levels",
+            "target_price": null,
+            "cautions": "Significant volatility getting to 52% down; may indicate structural concerns requiring due diligence."
+          },
+          {
+            "ticker": "INTC",
+            "company_name": "Intel Corporation",
+            "reason": "Looking to become the TSMC of the US. Although far from that goal, stock was down 42% from highs and has recovered to 29% down. Creator sees significant value to love in chip sector including Intel.",
+            "when_to_buy": "Current levels around 29% off highs",
+            "target_price": null,
+            "cautions": "Company is in transition to become US chipmaker; execution risk remains. Still down 29% from highs suggesting market skepticism."
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms Inc.",
+            "reason": "In bear market, down 25% from highs. Part of asymmetrical opportunity set as large megacap tech name. Potential resurgence in Meta alongside Google and Palantir could drive S&P 500 toward 8,000.",
+            "when_to_buy": "Current depressed levels",
+            "target_price": null,
+            "cautions": "Still in bear market; not yet broken out. Waiting for sustained uptrend confirmation."
+          },
+          {
+            "ticker": "CEG",
+            "company_name": "Constellation Energy",
+            "reason": "Largest private sector power producer in the US and nation's largest clean energy producer. Capacity for 55 gigawatt from hydro, wind, solar, nuclear, natural gas, oil, and geothermal. Cash flow positive with highest cash from operations and highest gross profit margin ever. Forward PE of 20 at $96 billion market cap. Forecasting 17% annual earnings growth and 5.7% annual revenue growth. Strong defensive play with growth characteristics.",
+            "when_to_buy": "Current levels before potential election-year volatility",
+            "target_price": null,
+            "cautions": "Midterm election year may create jitters and volatility between now and election. Should monitor for macro political risks, though S&P 500 already dropped 9.5% into March which could have been peak-to-trough decline for election year."
+          },
+          {
+            "ticker": "IRON",
+            "company_name": "Ironnet Inc.",
+            "reason": "Data center infrastructure name that broke trend line after sweeping major demand level. Short float of 31% with 3 days to cover, indicating heavily shorted stock with potential squeeze opportunity. Part of data center sector setup identified as ready for potential breakout.",
+            "when_to_buy": "After recent trend line break",
+            "target_price": null,
+            "cautions": "Heavy short interest (31%) makes stock highly volatile; shortsqueeze dynamics could cause sharp moves in either direction."
+          },
+          {
+            "ticker": "AOI",
+            "company_name": "Iridian Spectral Technologies (AOI, likely Applied Optoelectronics)",
+            "reason": "Photonics/optical networking name that absolutely crushed earnings with record revenue and record profitability. Reaffirmed tracking of $1.1 billion total revenue for full year 2026. Part of photonics sector showing breakouts after violent deleveraging in AI high beta stocks.",
+            "when_to_buy": "After recent breakout",
+            "target_price": null,
+            "cautions": "Photonics and optical networking stocks can be violent; requires risk tolerance for significant intraday and swing swings."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "NOK",
+            "company_name": "Nokia Oyj",
+            "reason": "Optical networking stock that creator would love to see break out but has not yet demonstrated breakout. Unlike other optical/photonics names that have shown positive momentum, Nokia remains stalled without clear catalyst.",
+            "risk": null
+          },
+          {
+            "ticker": "SAND",
+            "company_name": "SanDisk (Western Digital)",
+            "reason": "Memory sector has structural headwinds. Creator closed short position in SanDisk for 43% profit, indicating bearish view. Memory demand is locked into long-term contracts with fixed price ceilings through 2028, meaning enthusiasm is already priced in. Apple testing Chinese memory chips from CXMT due to supply constraints further threatens demand. Hyperscalers have structural price ceilings limiting upside, making multi-thousand point rallies unlikely in memory sector.",
+            "risk": "Downside risk from structural price ceilings and weakening demand due to Chinese memory chip alternatives. Creator closed short with 43% profit."
+          },
+          {
+            "ticker": "MU",
+            "company_name": "Micron Technology",
+            "reason": "Memory sector faces structural headwinds similar to SanDisk. Long-term hyperscaler contracts contain fixed price ceilings and floors through 2028, meaning demand and pricing are well-projected and enthusiasm is already priced in. Apple diversifying to Chinese CXMT chips threatens demand. Creator believes memory will become too cheap at some point, but current structure prevents major rallies.",
+            "risk": "Limited upside due to contract price ceilings. Downside risk from Apple and others using cheaper Chinese alternatives."
+          }
+        ],
+        "key_warnings": [
+          "Inflation remains a significant problem despite strong earnings. CPI expected at 3.4% year-over-year with 0.1% month-over-month; report coming next week. Food inflation particularly concerning. Fed meeting scheduled for September.",
+          "Market valuation at forward PE of 20.57 for S&P 500 is historically cheap (vs 32.47 before 2008 crash, 26.83 before 2020 crash), but this may not guarantee continued upside.",
+          "Memory sector (Micron, SanDisk, etc.) has structural price ceilings locked into hyperscaler contracts through 2028, limiting upside potential despite recent volatility.",
+          "Iran war situation remains a day-to-day and week-to-week risk factor; Trump administration seeking war offramps but situation remains fluid and unpredictable.",
+          "Although creator is bullish and believes bull market continues until at least next year, he acknowledges would have preferred bigger pullback before current rally. Market could play out unexpectedly.",
+          "High-beta AI and photonics stocks can be violent and subject to significant drawdowns during deleveraging events, as recently experienced.",
+          "While S&P 500 only needs 3.25% gain to reach 8,000, this requires continuation of current momentum despite elevated valuations relative to historical bearish periods."
+        ],
+        "tickers_mentioned": [
+          "BRK.B",
+          "GOOGL",
+          "GOOG",
+          "NVDA",
+          "MSFT",
+          "PLTR",
+          "NET",
+          "PALO",
+          "CrowdStrike",
+          "META",
+          "IGV",
+          "IRON",
+          "NBIS",
+          "SMH",
+          "MRVL",
+          "TSM",
+          "ASML",
+          "ARM",
+          "INTC",
+          "NOW",
+          "HOOD",
+          "UBER",
+          "APPF",
+          "AOI",
+          "NOK",
+          "SAND",
+          "MU",
+          "CXMT",
+          "CEG",
+          "BTC"
+        ]
+      },
+      "price_at_recommendation": {
+        "NOW": 124.88,
+        "HOOD": 93.29,
+        "ASML": 1740.99,
+        "APPF": 198.74,
+        "NBIS": 187.97,
+        "MRVL": 218.72,
+        "SMH": 582.7,
+        "ARM": 282.57,
+        "INTC": 101.65,
+        "CEG": 269.89,
+        "NOK": 9.36,
+        "META": 592.1,
+        "MU": 877.57,
+        "NVDA": 223.96,
+        "UBER": 75.02,
+        "PLTR": 172.01,
+        "IRON": 77.44,
+        "GOOGL": 354.3,
+        "TSM": 420.04
+      }
+    },
+    "e65HdKk7Dk0": {
+      "channel": "Jose Najarro Stocks",
+      "title": "IF YOU OWN COREWEAVE NEBIUS STOCK... GET READY",
+      "upload_date": "20260810",
+      "url": "https://www.youtube.com/watch?v=e65HdKk7Dk0",
+      "processed_at": "2026-08-10T10:20:26.494237",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "COREWEAVE",
+            "company_name": "CoreWeave",
+            "reason": "CoreWeave is the creator's largest position with six figures in cost basis. The company is the largest NeoCloud player by operational size with over 1 gigawatt of active power (compared to Nebius' 310 megawatts), over $100 billion in backlog, and quarterly revenue of $2.1 billion. The creator expects massive sequential revenue growth with Q2 2026 expected at $2.5-2.6 billion, Q3 at $3.4 billion, and Q4 at $4.5 billion. CoreWeave is approaching escape velocity with expected annualized revenue run rate of $18-19 billion for 2026 (increased from prior guidance) and over $30 billion by 2027, with more than 75% already contracted. The company is expanding margins sequentially with Q1 being the lowest point, and operating margins expected to return to low double digits by Q4 2026. The creator is bullish on the entire NeoCloud space due to extreme demand-supply imbalance for GPU compute capacity with pricing power increasing.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "CoreWeave's massive debt load creates interest expenses of $650-730 million annually, though this was part of the planned model. Key risks include potential delays in capacity ramps in Q2 and Q3 that could cause the company to miss expectations. Year-to-date performance has been weak at 14% return compared to Nebius' 108% gain. The critical watch item for earnings is whether Q1 2026 truly represented the margin bottom\u2014if margins don't expand as expected, the market could react very negatively. Component pricing increases are also impacting capex expectations (now $31-35 billion for 2026)."
+          },
+          {
+            "ticker": "NEBIUS",
+            "company_name": "Nebius",
+            "reason": "Nebius is another major NeoCloud play benefiting from extreme demand for GPU compute capacity. The company reported Q1 2026 revenue of $400 million and expects Q2 revenue around $574-575 million. Analysts expect guidance increases due to pricing power\u2014Nebius has raised prices in the latest quarter and continues to see pricing strengthen across both old and new GPU generations as demand continues to exceed available capacity. The company is experiencing longer contract durations (increasingly bullish) and expects 2026 annual revenue run rate of $7-9 billion with potential upgrades to guidance. The creator expects to see an increase in guidance at minimum on the lower end due to pricing power and demand dynamics. Capacity is back-weighted with significant investments in Q2 that will drive revenue ramps in H2 2026 and H1 2027, with revenue expected to grow from $575 million in June to $900 million in September to $1.5 billion in December to $2.2 billion in March 2027.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Year-to-date performance has been strong at 108%, potentially limiting upside. Longer-term contracts, while providing revenue visibility, may lock in pricing at lower floors and ceilings compared to shorter-duration contracts, limiting pricing upside if market pricing continues to increase. Margins are expected to dip in Q2 2026 due to heavy investments in capacity, which could surprise investors negatively if not understood. Capex increased from $16-20 billion to $20-25 billion, and further increases may be expected."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Timing risk: Most major semiconductor and AI stocks have already reported earnings. While remaining earnings provide valuable information, the 'cool and popular' semiconductor and AI stocks have largely completed their reporting cycle.",
+          "Margin compression from capacity investments: Both CoreWeave and Nebius are experiencing margin pressure in H1 2026 due to massive capex investments (power, GPUs, infrastructure) that occur before revenue materializes. This is a structural feature of the NeoCloud space\u2014investors must understand that expanding companies will see margin dips before expansion in H2 2026.",
+          "Long-term contract risk for Nebius: Extending contract durations reduce quarterly pricing flexibility. While providing revenue visibility, longer contracts may cap upside if pricing continues to accelerate, making this a potential headwind versus shorter-contract models.",
+          "Execution risk on capacity ramps: CoreWeave's guidance depends on successful capacity ramps in Q2 and Q3 2026. Any delays or issues with powering up capacity could cause material misses on expectations.",
+          "NeoCloud demand sustainability: While creator is extremely bullish on current demand-supply dynamics and pricing power, this is described as 'a very innovative market that has a lot of changes here and there.' Commentary and market dynamics could change rapidly, particularly if AI compute supply catches up to demand or usage patterns shift."
+        ],
+        "tickers_mentioned": [
+          "COREWEAVE",
+          "NEBIUS",
+          "SMCI",
+          "CRBLF",
+          "COHR",
+          "AMAT"
+        ]
+      },
+      "price_at_recommendation": {}
     }
   },
   "channel_ids": {
@@ -15433,7 +15912,7 @@
     "JoseNajarroStocks": "UC5cEHfCr6WOE1R1zcohd1IA",
     "FinTek": "UCxdWHEhEPiYhCADMrn4PdhQ"
   },
-  "last_eval_week": "2026-W32",
+  "last_eval_week": "2026-W33",
   "alerts": {
     "fallback": "2026-07-29T16:04:19.241048"
   }

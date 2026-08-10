@@ -15901,6 +15901,33 @@
         ]
       },
       "price_at_recommendation": {}
+    },
+    "z5ZB2HxfMMU": {
+      "channel": "FinTek",
+      "title": "GET IN EARLY! Top Quantum Computing Stock to BUY NOW",
+      "upload_date": "20260810",
+      "url": "https://www.youtube.com/watch?v=z5ZB2HxfMMU",
+      "processed_at": "2026-08-10T14:07:47.882426",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "IBM",
+            "company_name": "International Business Machines Corporation",
+            "reason": "IBM has been one of the leaders in both quantum hardware and quantum software since 2019. By most value metrics, IBM is relatively cheap at their current price with a forward PE ratio putting them at a B rating, approximately 25% under the rest of the market. The company has received nearly half of the US investment in the quantum space. The creator is willing to buy and hold for a long enough period until quantum grows to a size where it can actually move the needle on the company's financial performance.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "This is a long-term hold dependent on quantum computing technology maturing and becoming economically significant enough to materially impact IBM's business."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": [
+          "IBM"
+        ]
+      },
+      "price_at_recommendation": {
+        "IBM": 237.28
+      }
     }
   },
   "channel_ids": {

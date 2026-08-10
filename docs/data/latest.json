@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T12:43:23.653879",
-  "video_count": 89,
+  "generated_at": "2026-08-10T14:10:27.103924",
+  "video_count": 90,
   "stock_count": 151,
   "stocks": [
     {
@@ -1497,7 +1497,7 @@
         "analyst_buy": 38,
         "analyst_hold": 5,
         "analyst_sell": 1,
-        "analyst_target": 2176.78,
+        "analyst_target": 2175.52,
         "analyst_upside_pct": 25.0,
         "earnings_date": null,
         "earnings_days": null
@@ -1626,8 +1626,8 @@
         "analyst_buy": 17,
         "analyst_hold": 0,
         "analyst_sell": 0,
-        "analyst_target": 308.71,
-        "analyst_upside_pct": 20.9,
+        "analyst_target": 308.53,
+        "analyst_upside_pct": 20.8,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -1983,8 +1983,8 @@
         "analyst_buy": 38,
         "analyst_hold": 2,
         "analyst_sell": 1,
-        "analyst_target": 190.25,
-        "analyst_upside_pct": 48.2,
+        "analyst_target": 189.93,
+        "analyst_upside_pct": 47.9,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -2962,8 +2962,8 @@
         "analyst_buy": 23,
         "analyst_hold": 4,
         "analyst_sell": 1,
-        "analyst_target": 100.55,
-        "analyst_upside_pct": 9.7,
+        "analyst_target": 100.43,
+        "analyst_upside_pct": 9.6,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -4248,7 +4248,7 @@
     {
       "ticker": "IBM",
       "company_name": "International Business Machines Corporation",
-      "buy_count": 0,
+      "buy_count": 1,
       "avoid_count": 3,
       "first_mention_date": "14 Jul 2026",
       "price_at_first_mention": 217.07,
@@ -4291,7 +4291,21 @@
         "earnings_date": null,
         "earnings_days": null
       },
-      "buys": [],
+      "buys": [
+        {
+          "channel": "FinTek",
+          "title": "GET IN EARLY! Top Quantum Computing Stock to BUY NOW",
+          "url": "https://www.youtube.com/watch?v=z5ZB2HxfMMU",
+          "upload_date": "20260810",
+          "date_label": "10 Aug 2026",
+          "ticker": "IBM",
+          "company_name": "International Business Machines Corporation",
+          "reason": "IBM has been one of the leaders in both quantum hardware and quantum software since 2019. By most value metrics, IBM is relatively cheap at their current price with a forward PE ratio putting them at a B rating, approximately 25% under the rest of the market. The company has received nearly half of the US investment in the quantum space. The creator is willing to buy and hold for a long enough period until quantum grows to a size where it can actually move the needle on the company's financial performance.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": "This is a long-term hold dependent on quantum computing technology maturing and becoming economically significant enough to materially impact IBM's business."
+        }
+      ],
       "avoids": [
         {
           "channel": "The Traveling Trader",

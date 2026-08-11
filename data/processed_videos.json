@@ -15981,6 +15981,87 @@
         "ASX": 38.89,
         "CWEN": 34.35
       }
+    },
+    "ucrXJlTbB_w": {
+      "channel": "CouchInvestor",
+      "title": "COREWEAVE Q2 EARNINGS REPORT BREAKDOWN",
+      "upload_date": "20260811",
+      "url": "https://www.youtube.com/watch?v=ucrXJlTbB_w",
+      "processed_at": "2026-08-11T22:41:39.408963",
+      "transcript_fails": 1,
+      "last_reason": "unavailable",
+      "terminal": true,
+      "skipped": "no transcript"
+    },
+    "Ru1hGYu5-JU": {
+      "channel": "CouchInvestor",
+      "title": "NEBIUS Q2 EARNINGS REPORT BREAKDOWN",
+      "upload_date": "20260811",
+      "url": "https://www.youtube.com/watch?v=Ru1hGYu5-JU",
+      "processed_at": "2026-08-11T22:41:46.110201",
+      "transcript_fails": 1,
+      "last_reason": "error"
+    },
+    "osSWqOI0yp4": {
+      "channel": "Ticker Symbol: YOU",
+      "title": "Top 3 Stocks Quietly Making Millionaires (98% Will Miss It)",
+      "upload_date": "20260811",
+      "url": "https://www.youtube.com/watch?v=osSWqOI0yp4",
+      "processed_at": "2026-08-11T22:42:07.666209",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "PANW",
+            "company_name": "Palo Alto Networks",
+            "reason": "Palo Alto Networks is positioned to capitalize on the massive AI security gap where for every $630 spent on AI, only $1 is spent securing it. The company operates an integrated 4-platform approach (Strata, Prisma, Cortex, and the newly launched Adira) that consolidates AI security across infrastructure deployment, cloud environments, threat detection/response, and identity management for humans, machines, and AI agents. The recent $25 billion acquisition of CyberArk adds critical identity security capabilities. With AI-enabled attack speeds increasing 40% year-over-year and the fastest breaches occurring in just 27 seconds, enterprises will increasingly shift budget toward integrated security platforms that can manage identities across the entire AI stack. The company reported $3 billion in revenue (up 31% YoY) with Next Generation Security ARR at $8.1 billion (up 60% YoY organically closer to 28%), and Adira's first full quarter on the market will be a key catalyst.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "NET",
+            "company_name": "Cloudflare",
+            "reason": "Cloudflare operates one of the largest networks on the planet and sits between users and websites, positioning it uniquely to capture the shift from human to AI agent web traffic. The company's three-part business model (application services for DDoS/bot protection, Cloudflare 1 zero-trust platform for identity validation, and Workers developer platform) are all directly applicable to securing and managing AI agents. The creator highlights that according to the CEO, bots have already surpassed humans in web traffic at 57%, and daily requests from AI agents grew 1,700% year-over-year. While gross margins declined from 74.9% to 71.8%, the creator views this as positive because it reflects both a shift from free to paid customers and the higher resource costs of servicing AI agents versus traditional websites. The company reported $696 million in revenue (up 36% YoY) and raised guidance to $2.87 billion for the year, making it a canary-in-the-coal-mine indicator of AI agent adoption costs across all industries.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Servicing AI agents is more expensive than servicing traditional websites; cost of revenue grew 53% YoY against 36% revenue growth, suggesting margin compression will continue as AI agent traffic scales. This cost structure will eventually affect all companies transitioning from serving humans to serving both humans and AI agents."
+          },
+          {
+            "ticker": "SAIL",
+            "company_name": "SailPoint Technologies",
+            "reason": "SailPoint is the largest standalone vendor focused purely on identity lifecycle management, a critical need as AI agents proliferate without traditional offboarding processes. In May, the company launched Agentic Fabric to inventory every AI agent and machine identity within organizations and map ownership\u2014solving the problem that only 37% of organizations can currently revoke an AI agent's credentials. Non-human identities now represent 40% of SailPoint's growth that quarter and comprise 14% of accounts managed on their cloud platform (one in seven accounts are machines, and four in ten new accounts are machines). With ARR of $1.16 billion (up 26% YoY), cloud ARR growing 36%, and quarterly revenue of $280 million (up 22%), all beating guidance, the company is well-positioned to benefit as the ratio of machine identities to humans continues to grow exponentially from 45:1 in 2024 to over 100:1 in 2026. Additionally, the creator notes SailPoint is a prime acquisition target given Palo Alto paid nearly 20x ARR for CyberArk at announcement and 15x at close, which would value SailPoint at approximately $20 billion, nearly double its current market cap.",
+            "when_to_buy": null,
+            "target_price": "Potential acquisition price around $20 billion (approximately double current market cap) based on Palo Alto's CyberArk acquisition multiples of 15-20x ARR",
+            "cautions": "SailPoint must compete with larger bundled competitors like Palo Alto Networks that can include identity management as part of comprehensive platforms. The creator clarifies no acquisition offer has been made at the time of recording."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "The creator explicitly states he is not buying stocks focused on protecting against viruses or malware. Instead, the focus is on identity management because 82% of threat detections last year were malware-free (hackers logging in with valid credentials) and AI-enabled break-in attempts rose 89% YoY. The security landscape is shifting from malware detection to identity validation as AI agents blur the line between legitimate users and attackers.",
+          "Most next-generation AI applications are not yet publicly traded, with companies waiting an average of 10+ years to go public (unlike Amazon and Google which went public early). This means investors can miss most returns from the next generation of dominant AI companies, which is why alternative vehicles like VCX (venture capital ETF) may be necessary for exposure.",
+          "The AI market shows a massive protection gap: for every $630 spent on AI in 2025, only $1 was spent securing it. This gap is hyperspecific to identity management and represents both the largest opportunity and the most critical vulnerability in the AI infrastructure buildout."
+        ],
+        "tickers_mentioned": [
+          "PANW",
+          "NET",
+          "SAIL",
+          "NVDA"
+        ]
+      },
+      "price_at_recommendation": {
+        "PANW": 383.8,
+        "SAIL": 19.06,
+        "NET": 306.97
+      }
+    },
+    "FS4ZRGzGl6Q": {
+      "channel": "Jose Najarro Stocks",
+      "title": "Coreweave Q2 Earnings Call Live CRWV (DID I JUST MAKE A HUGE MISTAKE?)",
+      "upload_date": "20260811",
+      "url": "https://www.youtube.com/watch?v=FS4ZRGzGl6Q",
+      "processed_at": "2026-08-11T23:16:12.212587",
+      "transcript_fails": 1,
+      "last_reason": "error"
     }
   },
   "channel_ids": {
@@ -15994,6 +16075,6 @@
   },
   "last_eval_week": "2026-W33",
   "alerts": {
-    "fallback": "2026-07-29T16:04:19.241048"
+    "fallback": "2026-08-11T23:16:12.781252"
   }
 }

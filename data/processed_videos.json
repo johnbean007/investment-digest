@@ -15928,6 +15928,59 @@
       "price_at_recommendation": {
         "IBM": 237.28
       }
+    },
+    "pMbb5BfWUCY": {
+      "channel": "CouchInvestor",
+      "title": "Sell These Stocks Before It's Too Late",
+      "upload_date": "20260811",
+      "url": "https://www.youtube.com/watch?v=pMbb5BfWUCY",
+      "processed_at": "2026-08-11T15:43:29.024073",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [
+          {
+            "ticker": "RKLB",
+            "company_name": "Rocket Lab USA Inc.",
+            "reason": "While the creator owns the stock and acknowledges the company's strong execution and backlog growth ($2.35 billion), the valuation is extremely stretched at $45 billion market cap generating only $700 million in revenue over the last 12 months. The stock is down 50% from all-time highs reached in May 2024. The entire investment thesis depends entirely on the successful execution and scaling of the Neutron rocket, which has been delayed multiple times and is not expected to launch until Q1 2027 at the earliest. Without Neutron working at scale, the thesis is broken. The creator explicitly stated he is not buying more at current prices.",
+            "risk": "Down 50% from all-time highs. Further downside if Neutron launch delays continue or fails to meet expectations. Extreme valuation risk relative to current revenue generation."
+          },
+          {
+            "ticker": "ASX",
+            "company_name": "ASX Space Mobile",
+            "reason": "The creator is skeptical about this company despite acknowledging it has many supporters. ASX Space Mobile is valued at approximately $26 billion while barely generating any revenue (only $30-34 million currently). The company does not own its own launch capability and must rely on others for launches, increasing execution risk significantly. The creator notes that when execution depends on third parties, execution risk becomes much larger.",
+            "risk": "Extreme valuation premium ($26 billion valuation on minimal revenue). High execution risk due to reliance on third-party launch providers. Unproven business model."
+          },
+          {
+            "ticker": "CWEN",
+            "company_name": "Coreweave",
+            "reason": "Despite having an impressive $100 billion backlog and generating multiple billions in revenue (larger than Rocket Lab), Coreweave is currently valued equivalently to Rocket Lab but trades down 50% from highs. The critical issue is that the company must prove to Wall Street that this is a sustainable business with margin control. The company carries significant debt with interest payments that cannot be delayed. If the company fails to demonstrate margin expansion and profitability improvement in earnings reported on the day of this video, investor skepticism will increase materially.",
+            "risk": "Down 50% from highs. Significant debt burden with mandatory interest payments. Dependent on demonstrating margin improvement and profitability to maintain investor confidence. Stock volatility risk around earnings reports."
+          }
+        ],
+        "key_warnings": [
+          "Many space and AI stocks are trading at valuations in bubble territory. Companies worth billions of dollars are barely generating revenue and are burning cash. Investors must understand the fundamental valuation metrics and business models before investing.",
+          "Do not buy stocks purely based on hype or price momentum. If a stock doubles from $50 to $100 and then drops back to $50 with no change to the underlying business, you must know whether you still want to own it. If you cannot answer this question, you do not truly know what you own.",
+          "Growth rate alone does not justify valuation. A 62% year-over-year revenue growth rate does not matter if the company is valued at a massive premium to current revenue generation and the growth rate is expected to decelerate significantly in future years.",
+          "Execution risk is critical, especially for companies dependent on unproven new products or reliant on third parties. Delays in product launches or capability milestones can materially impair investment theses.",
+          "Beware of social media influencers and YouTube personalities who claim large dollar gains without disclosing the percentage return or the capital deployed. This is often a marketing tactic to build credibility while hiding poor performance metrics.",
+          "Even high-quality companies like Amazon, Apple, Nvidia, Meta, and Google have experienced multiple 50% drawdowns throughout their history. Know what you own so you can distinguish between temporary market overreactions on excellent businesses versus deteriorating fundamentals requiring position exit."
+        ],
+        "tickers_mentioned": [
+          "RKLB",
+          "ASX",
+          "CWEN",
+          "AMZN",
+          "AAPL",
+          "NVDA",
+          "META",
+          "GOOGL"
+        ]
+      },
+      "price_at_recommendation": {
+        "RKLB": 79.12,
+        "ASX": 38.89,
+        "CWEN": 34.35
+      }
     }
   },
   "channel_ids": {

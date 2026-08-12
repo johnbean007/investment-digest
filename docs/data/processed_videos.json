@@ -15998,8 +15998,8 @@
       "title": "NEBIUS Q2 EARNINGS REPORT BREAKDOWN",
       "upload_date": "20260811",
       "url": "https://www.youtube.com/watch?v=Ru1hGYu5-JU",
-      "processed_at": "2026-08-11T22:41:46.110201",
-      "transcript_fails": 1,
+      "processed_at": "2026-08-12T01:25:26.371144",
+      "transcript_fails": 2,
       "last_reason": "error"
     },
     "osSWqOI0yp4": {
@@ -16059,9 +16059,48 @@
       "title": "Coreweave Q2 Earnings Call Live CRWV (DID I JUST MAKE A HUGE MISTAKE?)",
       "upload_date": "20260811",
       "url": "https://www.youtube.com/watch?v=FS4ZRGzGl6Q",
-      "processed_at": "2026-08-11T23:16:12.212587",
-      "transcript_fails": 1,
-      "last_reason": "error"
+      "processed_at": "2026-08-12T01:25:49.186115",
+      "transcript_fails": 2,
+      "last_reason": "unavailable",
+      "terminal": true,
+      "skipped": "no transcript"
+    },
+    "qfLxgNgA28U": {
+      "channel": "Daniel Pronk",
+      "title": "The Best Dividend Growth Stock to Buy Now",
+      "upload_date": "20260811",
+      "url": "https://www.youtube.com/watch?v=qfLxgNgA28U",
+      "processed_at": "2026-08-12T01:25:41.893288",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "BAM",
+            "company_name": "Brookfield Asset Management",
+            "reason": "Daniel Pronk identifies BAM as one of the best dividend growth stocks in the entire market. The company reported record fundraising of $98 billion year-to-date with fee-related earnings up 20% year-over-year and distributable earnings up 15% year-over-year. BAM has accumulated $1.9 billion in unrealized carried interest and carry-eligible capital has tripled to $187 billion since spin-off, representing future earnings streams. The company is positioned to benefit from the massive $10+ trillion AI infrastructure buildout, with management estimating $10 trillion in annual economic productivity potential for AI requiring $10 trillion in capex across the value chain. BAM owns approximately $85 billion of digital infrastructure and is one of the largest energy businesses globally. The stock announced a major partnership with Nvidia to mobilize $500 billion in third-party capital for AI infrastructure financing. Pronk personally loaded up over $100,000 in BAM shares during the dip and rotated capital from BN to BAM based on superior value and tailwinds. The stock is up approximately 30% since he aggressively bought back in, plus an additional 4.6% on the day after the Nvidia partnership announcement.",
+            "when_to_buy": "On dips in the market; Pronk views every dip as a buying opportunity given the fundamental strength of the AI buildout thesis",
+            "target_price": "$121 USD future share price over 5 years; Fair value of $83.65 USD based on DCF analysis",
+            "cautions": "The DCF model assumes 18% annual earnings growth (slightly below the company's 20% guidance) and a 30 PE ratio (below long-term average of 32-35). The model does not factor in realized carried interest, which could add volatility but also represents upside. Risk of overbuilding if AI demand does not materialize as expected, though management and peers express high conviction based on real-world efficiency gains within their own businesses."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "While Pronk is bullish on AI infrastructure buildout, he acknowledges that Jensen Huang (Nvidia CEO) noted supply constraints across the entire value chain including compute, chips, memories, packaging, systems, photonics, connectors, land, power, and construction workers. This suggests potential execution risks and timeline delays for the massive infrastructure buildout, though Pronk views these constraints as supporting higher stock prices for several years as demand outpaces supply.",
+          "Pronk warns against buying stocks if PE ratios get too high, cautioning that valuation discipline is necessary even during strong fundamental periods. He emphasizes viewing every dip as a buying opportunity only if PE multiples remain reasonable."
+        ],
+        "tickers_mentioned": [
+          "BAM",
+          "BN",
+          "NVDA",
+          "LXP",
+          "AMZN",
+          "META",
+          "MSFT",
+          "GOOGL"
+        ]
+      },
+      "price_at_recommendation": {
+        "BAM": 55.36
+      }
     }
   },
   "channel_ids": {

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-11T23:19:33.627390",
-  "video_count": 92,
-  "stock_count": 154,
+  "generated_at": "2026-08-12T01:33:57.119999",
+  "video_count": 90,
+  "stock_count": 146,
   "stocks": [
     {
       "ticker": "AAOI",
@@ -1357,7 +1357,7 @@
         "ma200": 193.47,
         "ma_signal": "golden_cross",
         "pe_trailing": 271.64645,
-        "pe_forward": 87.62047,
+        "pe_forward": 87.936485,
         "peg_ratio": 2.2,
         "revenue_growth": 0.224,
         "earnings_growth": 1.083,
@@ -1497,7 +1497,7 @@
         "analyst_buy": 38,
         "analyst_hold": 5,
         "analyst_sell": 1,
-        "analyst_target": 2172.82,
+        "analyst_target": 2173.32,
         "analyst_upside_pct": 20.8,
         "earnings_date": null,
         "earnings_days": null
@@ -1626,8 +1626,8 @@
         "analyst_buy": 17,
         "analyst_hold": 0,
         "analyst_sell": 0,
-        "analyst_target": 308.6,
-        "analyst_upside_pct": 21.2,
+        "analyst_target": 308.68,
+        "analyst_upside_pct": 21.3,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -1877,12 +1877,12 @@
     },
     {
       "ticker": "AXON",
-      "company_name": "Axon Enterprise",
-      "buy_count": 6,
+      "company_name": "Axon Enterprise Inc.",
+      "buy_count": 5,
       "avoid_count": 0,
-      "first_mention_date": "12 Jul 2026",
-      "price_at_first_mention": 565.8,
-      "pct_change_since_rec": 12.5,
+      "first_mention_date": "14 Jul 2026",
+      "price_at_first_mention": 547.26,
+      "pct_change_since_rec": 16.3,
       "market": {
         "ticker": "AXON",
         "name": "Axon Enterprise, Inc.",
@@ -1922,19 +1922,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "CouchInvestor",
-          "title": "I Just Bought $3,500 More of These 2 Stocks. Here's Why",
-          "url": "https://www.youtube.com/watch?v=fflmW-Y29UU",
-          "upload_date": "20260712",
-          "date_label": "12 Jul 2026",
-          "ticker": "AXON",
-          "company_name": "Axon Enterprise",
-          "reason": "Stock surged from $390-$400 to over $600 in record time, showing strong momentum and market confidence. Currently experiencing healthy pullback after significant run-up.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": "Creator views current valuation at $565+ as quite expensive even based on DCF analysis. Unwilling to add at current prices. Stock went up in straight line so pullback is healthy. Creator willing to wait for further cooldown before accumulating more shares."
-        },
         {
           "channel": "CouchInvestor",
           "title": "Here's What I'm Buying If the Market Drops Again",
@@ -2045,8 +2032,8 @@
         "analyst_buy": 38,
         "analyst_hold": 2,
         "analyst_sell": 1,
-        "analyst_target": 189.76,
-        "analyst_upside_pct": 48.4,
+        "analyst_target": 189.53,
+        "analyst_upside_pct": 48.2,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -2071,7 +2058,7 @@
     {
       "ticker": "BAM",
       "company_name": "Brookfield Asset Management",
-      "buy_count": 1,
+      "buy_count": 2,
       "avoid_count": 0,
       "first_mention_date": "18 Jul 2026",
       "price_at_first_mention": 48.33,
@@ -2127,6 +2114,19 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": "Energy infrastructure buildout depends on political will and policy changes to reduce red tape and accelerate permitting."
+        },
+        {
+          "channel": "Daniel Pronk",
+          "title": "The Best Dividend Growth Stock to Buy Now",
+          "url": "https://www.youtube.com/watch?v=qfLxgNgA28U",
+          "upload_date": "20260811",
+          "date_label": "11 Aug 2026",
+          "ticker": "BAM",
+          "company_name": "Brookfield Asset Management",
+          "reason": "Daniel Pronk identifies BAM as one of the best dividend growth stocks in the entire market. The company reported record fundraising of $98 billion year-to-date with fee-related earnings up 20% year-over-year and distributable earnings up 15% year-over-year. BAM has accumulated $1.9 billion in unrealized carried interest and carry-eligible capital has tripled to $187 billion since spin-off, representing future earnings streams. The company is positioned to benefit from the massive $10+ trillion AI infrastructure buildout, with management estimating $10 trillion in annual economic productivity potential for AI requiring $10 trillion in capex across the value chain. BAM owns approximately $85 billion of digital infrastructure and is one of the largest energy businesses globally. The stock announced a major partnership with Nvidia to mobilize $500 billion in third-party capital for AI infrastructure financing. Pronk personally loaded up over $100,000 in BAM shares during the dip and rotated capital from BN to BAM based on superior value and tailwinds. The stock is up approximately 30% since he aggressively bought back in, plus an additional 4.6% on the day after the Nvidia partnership announcement.",
+          "when_to_buy": "On dips in the market; Pronk views every dip as a buying opportunity given the fundamental strength of the AI buildout thesis",
+          "target_price": "$121 USD future share price over 5 years; Fair value of $83.65 USD based on DCF analysis",
+          "cautions": "The DCF model assumes 18% annual earnings growth (slightly below the company's 20% guidance) and a 30 PE ratio (below long-term average of 32-35). The model does not factor in realized carried interest, which could add volatility but also represents upside. Risk of overbuilding if AI demand does not materialize as expected, though management and peers express high conviction based on real-world efficiency gains within their own businesses."
         }
       ],
       "avoids": [],
@@ -2135,11 +2135,11 @@
     {
       "ticker": "BE",
       "company_name": "Bloom Energy Corporation",
-      "buy_count": 3,
+      "buy_count": 2,
       "avoid_count": 0,
-      "first_mention_date": "12 Jul 2026",
-      "price_at_first_mention": 244.61,
-      "pct_change_since_rec": -13.7,
+      "first_mention_date": "14 Jul 2026",
+      "price_at_first_mention": 243.4,
+      "pct_change_since_rec": -13.2,
       "market": {
         "ticker": "BE",
         "name": "Bloom Energy Corporation",
@@ -2179,19 +2179,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "The Traveling Trader",
-          "title": "These Beaten Down Stocks Are About to Explode",
-          "url": "https://www.youtube.com/watch?v=K8fUIXqYqQY",
-          "upload_date": "20260712",
-          "date_label": "12 Jul 2026",
-          "ticker": "BE",
-          "company_name": "Bloom Energy Corporation",
-          "reason": "Power infrastructure stock for AI buildout that is consolidating nicely on weekly chart, sitting at the 21 EMA weekly. Part of the power stocks needed for the infrastructure buildout through 2030.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": "Stock is in consolidation and consolidating. Creator notes Bloom Energy was $9 in 2024 and now trades at $22-24, so understand this stock's volatility history."
-        },
         {
           "channel": "The Traveling Trader",
           "title": "\ud83d\udd34 Day Trading LIVE | CPI Inflation Report",
@@ -2277,26 +2264,13 @@
     {
       "ticker": "BROADCOM",
       "company_name": "Broadcom Inc.",
-      "buy_count": 2,
+      "buy_count": 1,
       "avoid_count": 0,
-      "first_mention_date": "12 Jul 2026",
+      "first_mention_date": "24 Jul 2026",
       "price_at_first_mention": null,
       "pct_change_since_rec": null,
       "market": null,
       "buys": [
-        {
-          "channel": "The Traveling Trader",
-          "title": "These Beaten Down Stocks Are About to Explode",
-          "url": "https://www.youtube.com/watch?v=K8fUIXqYqQY",
-          "upload_date": "20260712",
-          "date_label": "12 Jul 2026",
-          "ticker": "BROADCOM",
-          "company_name": "Broadcom Inc.",
-          "reason": "Major chip stock that is part of the AI infrastructure buildout. Stock is up 9% in just a few days. Creator lists Broadcom among the big chip stocks that are all a buy at current moment. Company is involved in optical networking technology critical for AI scaling.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": "Stock already worth almost $2 trillion market cap. Earnings coming up this week."
-        },
         {
           "channel": "The Traveling Trader",
           "title": "The UNTHINKABLE is About to Happen to Stocks.",
@@ -2817,27 +2791,14 @@
     },
     {
       "ticker": "COREWEAVE",
-      "company_name": "CoreWeave Inc.",
-      "buy_count": 5,
+      "company_name": "CoreWeave",
+      "buy_count": 4,
       "avoid_count": 1,
-      "first_mention_date": "12 Jul 2026",
+      "first_mention_date": "16 Jul 2026",
       "price_at_first_mention": null,
       "pct_change_since_rec": null,
       "market": null,
       "buys": [
-        {
-          "channel": "The Traveling Trader",
-          "title": "These Beaten Down Stocks Are About to Explode",
-          "url": "https://www.youtube.com/watch?v=K8fUIXqYqQY",
-          "upload_date": "20260712",
-          "date_label": "12 Jul 2026",
-          "ticker": "COREWEAVE",
-          "company_name": "CoreWeave Inc.",
-          "reason": "Data center stock with almost $100 billion backlog trading at $48 billion market cap. Revenue grew 111% to $2.08 billion. Creator is currently invested in this data center stock as part of the AI infrastructure buildout secondary wave opportunity.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": "Data center stocks recently dropped on false reports about Meta, but creator sees this as opportunity. Must monitor backlog conversion to revenue."
-        },
         {
           "channel": "The Traveling Trader",
           "title": "The UNTHINKABLE is About to Happen to Stocks.",
@@ -3011,7 +2972,7 @@
         "ma200": 81.02,
         "ma_signal": "golden_cross",
         "pe_trailing": 29.844156,
-        "pe_forward": 21.421396,
+        "pe_forward": 21.39483,
         "peg_ratio": 2.22,
         "revenue_growth": 0.126,
         "earnings_growth": -0.135,
@@ -3290,12 +3251,12 @@
     },
     {
       "ticker": "DRAM",
-      "company_name": "DRAM (Memory ETF)",
-      "buy_count": 3,
+      "company_name": "SK Hynix or general DRAM stocks",
+      "buy_count": 2,
       "avoid_count": 0,
-      "first_mention_date": "12 Jul 2026",
-      "price_at_first_mention": 63.04,
-      "pct_change_since_rec": -19.3,
+      "first_mention_date": "20 Jul 2026",
+      "price_at_first_mention": 52.72,
+      "pct_change_since_rec": -3.5,
       "market": {
         "ticker": "DRAM",
         "name": "Roundhill Memory ETF",
@@ -3335,19 +3296,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "The Traveling Trader",
-          "title": "These Beaten Down Stocks Are About to Explode",
-          "url": "https://www.youtube.com/watch?v=K8fUIXqYqQY",
-          "upload_date": "20260712",
-          "date_label": "12 Jul 2026",
-          "ticker": "DRAM",
-          "company_name": "DRAM (Memory ETF)",
-          "reason": "Memory stocks are part of the AI infrastructure buildout. Creator is invested in DRAM ETF. Memory is a key component of the capex that hyperscalers will spend through 2030 on infrastructure including chips, power, data centers, and optical networking.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": "DRAM is forming a head and shoulders pattern. SKHEX listing could trigger a sell-the-news event in memory stocks. Creator is hedging DRAM position by selling calls against shares and using proceeds to buy puts, creating a cost-free or profitable hedge. Worst case if DRAM hits $70 before August 21st expiration, forced to sell shares at profit."
-        },
         {
           "channel": "The Traveling Trader",
           "title": "A Once in a Decade Opportunity is Here [The AI Reset]",
@@ -3842,11 +3790,11 @@
     {
       "ticker": "GOOGL",
       "company_name": "Alphabet Inc.",
-      "buy_count": 20,
+      "buy_count": 18,
       "avoid_count": 6,
-      "first_mention_date": "12 Jul 2026",
-      "price_at_first_mention": 357.18,
-      "pct_change_since_rec": -3.7,
+      "first_mention_date": "14 Jul 2026",
+      "price_at_first_mention": 359.51,
+      "pct_change_since_rec": -4.4,
       "market": {
         "ticker": "GOOGL",
         "name": "Alphabet Inc.",
@@ -3886,32 +3834,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "CouchInvestor",
-          "title": "I Just Bought $3,500 More of These 2 Stocks. Here's Why",
-          "url": "https://www.youtube.com/watch?v=fflmW-Y29UU",
-          "upload_date": "20260712",
-          "date_label": "12 Jul 2026",
-          "ticker": "GOOGL",
-          "company_name": "Alphabet Inc.",
-          "reason": "Closed week at $357, defending this structural support level. Technical analysis indicates constructive pause with rising 100-day moving average providing upside floor. Next trigger point is daily close above $360. Creator recommends accumulating on minor dips.",
-          "when_to_buy": "Accumulate on dips toward 100-day moving average. Target daily close above $360.",
-          "target_price": "Above $360 for next technical level.",
-          "cautions": null
-        },
-        {
-          "channel": "The Traveling Trader",
-          "title": "These Beaten Down Stocks Are About to Explode",
-          "url": "https://www.youtube.com/watch?v=K8fUIXqYqQY",
-          "upload_date": "20260712",
-          "date_label": "12 Jul 2026",
-          "ticker": "GOOGL",
-          "company_name": "Alphabet Inc.",
-          "reason": "Google is the fastest-growing AI cloud provider with record EBIT and record net income. It has a $462 billion backlog on Google Cloud that needs to be unlocked. The company was down 19% and is bouncing off the 100-day moving average. It broke its 1-day trend and is now retesting. Creator is super bullish on Google for the rest of the AI buildout cycle as it has significant revenue upside from cloud scaling.",
-          "when_to_buy": "Currently bouncing off support; creator will decide Monday if taking a trade. If falls below trend line on Monday, trade is off.",
-          "target_price": null,
-          "cautions": "Company did a capital raise to scale operations. Earnings coming up this week. Stock is still consolidating after breakout."
-        },
         {
           "channel": "CouchInvestor",
           "title": "Here's What I'm Buying If the Market Drops Again",
@@ -4571,68 +4493,6 @@
       "description": "Manufactures processors and semiconductors for computing and data centers"
     },
     {
-      "ticker": "ION",
-      "company_name": "Iridian Optical Networks (ION)",
-      "buy_count": 0,
-      "avoid_count": 1,
-      "first_mention_date": "12 Jul 2026",
-      "price_at_first_mention": 48.41,
-      "pct_change_since_rec": 6.8,
-      "market": {
-        "ticker": "ION",
-        "name": "ProShares S&P Global Core Batte",
-        "currency": "USD",
-        "sector": null,
-        "industry": null,
-        "market_cap": null,
-        "current_price": 51.72,
-        "daily_change_pct": -1.74,
-        "month_change_pct": 10.19,
-        "week52_high": 69.55,
-        "week52_high_date": "07 May 2026",
-        "week52_low": 33.64,
-        "week52_low_date": "14 Aug 2025",
-        "rsi": 58.9,
-        "rsi_label": "neutral",
-        "ma50": 51.29,
-        "ma200": 54.32,
-        "ma_signal": "death_cross",
-        "pe_trailing": 19.270725,
-        "pe_forward": null,
-        "peg_ratio": null,
-        "revenue_growth": null,
-        "earnings_growth": null,
-        "free_cashflow": null,
-        "profit_margins": null,
-        "debt_to_equity": null,
-        "beta": null,
-        "short_percent": null,
-        "dividend_yield": 1.61,
-        "analyst_buy": null,
-        "analyst_hold": null,
-        "analyst_sell": null,
-        "analyst_target": null,
-        "analyst_upside_pct": null,
-        "earnings_date": null,
-        "earnings_days": null
-      },
-      "buys": [],
-      "avoids": [
-        {
-          "channel": "The Traveling Trader",
-          "title": "These Beaten Down Stocks Are About to Explode",
-          "url": "https://www.youtube.com/watch?v=K8fUIXqYqQY",
-          "upload_date": "20260712",
-          "date_label": "12 Jul 2026",
-          "ticker": "ION",
-          "company_name": "Iridian Optical Networks (ION)",
-          "reason": "Creator fell out of favor with this stock based on the decision-making of the executives. While creator is not saying the stock can't run higher, he explicitly states 'just not my type of stock,' indicating he would not recommend it despite it being in the optical networking sector that benefits from AI buildout.",
-          "risk": null
-        }
-      ],
-      "description": "Exchange-traded fund investing in lithium, cobalt, and nickel miners"
-    },
-    {
       "ticker": "IONQ",
       "company_name": "IonQ Inc.",
       "buy_count": 1,
@@ -5196,11 +5056,11 @@
     {
       "ticker": "MELI",
       "company_name": "Mercado Libre",
-      "buy_count": 4,
+      "buy_count": 3,
       "avoid_count": 0,
-      "first_mention_date": "12 Jul 2026",
-      "price_at_first_mention": 1852.22,
-      "pct_change_since_rec": 4.7,
+      "first_mention_date": "06 Aug 2026",
+      "price_at_first_mention": 1830.0,
+      "pct_change_since_rec": 6.0,
       "market": {
         "ticker": "MELI",
         "name": "MercadoLibre, Inc.",
@@ -5240,19 +5100,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "CouchInvestor",
-          "title": "I Just Bought $3,500 More of These 2 Stocks. Here's Why",
-          "url": "https://www.youtube.com/watch?v=fflmW-Y29UU",
-          "upload_date": "20260712",
-          "date_label": "12 Jul 2026",
-          "ticker": "MELI",
-          "company_name": "Mercado Libre",
-          "reason": "Stock showing positive momentum week-over-week, now at $1,852. Potential to continue higher and break above key resistance at $1,926 (200-day simple moving average).",
-          "when_to_buy": "Continue accumulating above $1,852 toward $1,926 resistance.",
-          "target_price": "Above $1,926 (200-day moving average).",
-          "cautions": null
-        },
         {
           "channel": "Mr. FIRED Up Wealth",
           "title": "The Secret to Buying Stocks at All-Time Highs (It's Not What You Think)",
@@ -5298,12 +5145,12 @@
     },
     {
       "ticker": "META",
-      "company_name": "Meta Platforms",
-      "buy_count": 23,
+      "company_name": "Meta Platforms Inc.",
+      "buy_count": 21,
       "avoid_count": 5,
-      "first_mention_date": "12 Jul 2026",
-      "price_at_first_mention": 669.21,
-      "pct_change_since_rec": -10.5,
+      "first_mention_date": "14 Jul 2026",
+      "price_at_first_mention": 661.04,
+      "pct_change_since_rec": -9.4,
       "market": {
         "ticker": "META",
         "name": "Meta Platforms, Inc.",
@@ -5343,32 +5190,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "CouchInvestor",
-          "title": "I Just Bought $3,500 More of These 2 Stocks. Here's Why",
-          "url": "https://www.youtube.com/watch?v=fflmW-Y29UU",
-          "upload_date": "20260712",
-          "date_label": "12 Jul 2026",
-          "ticker": "META",
-          "company_name": "Meta Platforms",
-          "reason": "Stock surged from $550-$582 to $669, demonstrating strong momentum. Creator predicts stock will be up around 100% within 12-18 months. Meta plans to double compute capacity in 2027, indicating strong commitment to AI infrastructure rather than overbuilding concerns. The new Llama 3.1 model is performing well and provides pricing advantages. Meta's entry into public cloud business offers compelling high-margin services. By developing strong internal AI models, Meta reduces dependency on third-party models like OpenAI, potentially lowering costs while improving profitability. Meta has distribution advantages and can monetize better AI capabilities through advertisers, marketing agencies, and premium subscriptions.",
-          "when_to_buy": "Current levels around $669-$670 represent value. Creator suggests $635-$640 as potential support if pullback occurs.",
-          "target_price": "100% return expected within 12-18 months. Currently undervalued at $670 in creator's opinion.",
-          "cautions": "Stock has appreciated quickly. Creator notes even at current prices it is 'very much undervalued' but acknowledges possibility of pullback to $635-$640 range."
-        },
-        {
-          "channel": "The Traveling Trader",
-          "title": "These Beaten Down Stocks Are About to Explode",
-          "url": "https://www.youtube.com/watch?v=K8fUIXqYqQY",
-          "upload_date": "20260712",
-          "date_label": "12 Jul 2026",
-          "ticker": "META",
-          "company_name": "Meta Platforms Inc.",
-          "reason": "Meta is trading at 16x forward earnings and 19x forward earnings currently, which is cheap by traditional metrics. The company has a 20% return on invested capital. Zuckerberg tweeted for the first time in three years about releasing Llama Spark 1.1, a new Agentic LLM to compete with OpenAI and Anthropic. Meta is a cash-generating machine that can undercut competitors on pricing (like Uber did with taxis) and monetize its capex spending that has been a market concern. The announcement signals Meta can finally start making returns on its massive infrastructure investment by charging for AI services.",
-          "when_to_buy": "At current levels; creator warns against chasing the 24% move. Only buy if you have conviction on Meta's value and AI potential, not if you're chasing price momentum.",
-          "target_price": null,
-          "cautions": "Earnings coming July 29th. There is suspicion Meta may announce a capital offering similar to Google, which could cause short-term stock decline. Creator notes if an offering occurs, stock could drop significantly, referencing Google's 19% decline from highs to lows despite less than 2% dilution. Stock is still volatile and trading at 24x trailing earnings. Do not chase the recent 24% 9-day rally if you don't understand the company's value."
-        },
         {
           "channel": "The Traveling Trader",
           "title": "\ud83d\udd34 Day Trading LIVE | CPI Inflation Report",
@@ -5796,11 +5617,11 @@
     {
       "ticker": "MRVL",
       "company_name": "Marvell Technology Inc.",
-      "buy_count": 4,
+      "buy_count": 3,
       "avoid_count": 0,
-      "first_mention_date": "12 Jul 2026",
-      "price_at_first_mention": null,
-      "pct_change_since_rec": null,
+      "first_mention_date": "24 Jul 2026",
+      "price_at_first_mention": 194.23,
+      "pct_change_since_rec": 9.3,
       "market": {
         "ticker": "MRVL",
         "name": "Marvell Technology, Inc.",
@@ -5840,19 +5661,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "The Traveling Trader",
-          "title": "These Beaten Down Stocks Are About to Explode",
-          "url": "https://www.youtube.com/watch?v=K8fUIXqYqQY",
-          "upload_date": "20260712",
-          "date_label": "12 Jul 2026",
-          "ticker": "MRVL",
-          "company_name": "Marvell Technology Inc.",
-          "reason": "Marvell consolidated in its range while rest of market took a beating since beginning of June. Still sitting on the 48 EMA. Creator sees this as similar to AMD to Nvidia positioning, where Marvell at $26 billion market cap has more room for growth compared to Broadcom at nearly $2 trillion. Creator is bullish on Marvell as a chip stock benefiting from AI data center infrastructure buildout.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": "Earnings coming up this week. Much smaller market cap means higher volatility and risk."
-        },
         {
           "channel": "The Traveling Trader",
           "title": "The UNTHINKABLE is About to Happen to Stocks.",
@@ -6502,27 +6310,14 @@
     },
     {
       "ticker": "NEBIUS",
-      "company_name": "Nebius AI Limited",
-      "buy_count": 3,
+      "company_name": "Nebius N.V.",
+      "buy_count": 2,
       "avoid_count": 0,
-      "first_mention_date": "12 Jul 2026",
+      "first_mention_date": "02 Aug 2026",
       "price_at_first_mention": null,
       "pct_change_since_rec": null,
       "market": null,
       "buys": [
-        {
-          "channel": "The Traveling Trader",
-          "title": "These Beaten Down Stocks Are About to Explode",
-          "url": "https://www.youtube.com/watch?v=K8fUIXqYqQY",
-          "upload_date": "20260712",
-          "date_label": "12 Jul 2026",
-          "ticker": "NEBIUS",
-          "company_name": "Nebius AI Limited",
-          "reason": "Data center stock with a $50 billion backlog and deals in place with Microsoft and Meta. Projecting annual recurring revenue between $7-9 billion. Market cap is $52 billion, which is basically equal to its backlog. Creator is currently invested in this stock as part of the AI infrastructure buildout secondary wave opportunity.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": "Data center stocks recently dropped on false reports that Meta was selling excess compute, but creator views this as providing opportunity in quality data center stocks."
-        },
         {
           "channel": "The Traveling Trader",
           "title": "Is the AI Trade BACK?! The next move will shock investors",
@@ -6608,27 +6403,14 @@
     },
     {
       "ticker": "NEBU",
-      "company_name": "Nebius",
-      "buy_count": 6,
+      "company_name": "Nebulus (inferred from context)",
+      "buy_count": 5,
       "avoid_count": 0,
-      "first_mention_date": "12 Jul 2026",
+      "first_mention_date": "15 Jul 2026",
       "price_at_first_mention": null,
       "pct_change_since_rec": null,
       "market": null,
       "buys": [
-        {
-          "channel": "CouchInvestor",
-          "title": "I Just Bought $3,500 More of These 2 Stocks. Here's Why",
-          "url": "https://www.youtube.com/watch?v=fflmW-Y29UU",
-          "upload_date": "20260712",
-          "date_label": "12 Jul 2026",
-          "ticker": "NEBU",
-          "company_name": "Nebius",
-          "reason": "The creator has a super high conviction position and continues to accumulate. Currently trading at $195, down 35% from highs. The creator bought an additional 10 shares and states the company could grow from a $55.7 billion market cap to a $200 billion company (4x return) based on fiscal 2028 revenue projections of $21.8 billion at a 10x price-to-sales multiple. A Nebius CRO stated the company could generate 'tens of billions of dollars in revenue' in the next 12-13 months, which if referring to ARR could align with fiscal 2027 analyst projections of $11.4 billion revenue and fiscal 2028 of $21.8 billion. The creator believes execution has been excellent and this could be an even bigger winner despite already being up significantly.",
-          "when_to_buy": "Currently accumulating at $195. Creator willing to buy more if price falls to $180-$170.",
-          "target_price": "$200+ billion market cap valuation (approximately 4x from current levels), with potential for stock to reach much higher prices if company achieves projected growth.",
-          "cautions": "Execution is key. Valuation metrics are forward-looking 2.5 years out, which is aggressive. Creator is not married to the position and would sell if capital could be better allocated elsewhere."
-        },
         {
           "channel": "CouchInvestor",
           "title": "PayPal Might Be Getting Acquired. Here's My Honest Take",
@@ -6803,60 +6585,6 @@
       "description": "Provides cloud-based security and application performance services"
     },
     {
-      "ticker": "NETFLIX",
-      "company_name": "Netflix Inc.",
-      "buy_count": 1,
-      "avoid_count": 0,
-      "first_mention_date": "12 Jul 2026",
-      "price_at_first_mention": null,
-      "pct_change_since_rec": null,
-      "market": null,
-      "buys": [
-        {
-          "channel": "The Traveling Trader",
-          "title": "These Beaten Down Stocks Are About to Explode",
-          "url": "https://www.youtube.com/watch?v=K8fUIXqYqQY",
-          "upload_date": "20260712",
-          "date_label": "12 Jul 2026",
-          "ticker": "NETFLIX",
-          "company_name": "Netflix Inc.",
-          "reason": "Netflix finally broke out of its trend line. Creator owns this for an investment (not a trade). Stock is showing technical breakout.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": "Netflix is reporting earnings on July 16th (next week). Creator does not personally trade around earnings, so will avoid swing trading this into earnings. Not recommended for short-term trades around earnings announcement."
-        }
-      ],
-      "avoids": [],
-      "description": "Produces and streams television series, films, and games"
-    },
-    {
-      "ticker": "NEW",
-      "company_name": "Neurochem (or context unclear - likely referring to a fintech stock)",
-      "buy_count": 1,
-      "avoid_count": 0,
-      "first_mention_date": "12 Jul 2026",
-      "price_at_first_mention": null,
-      "pct_change_since_rec": null,
-      "market": null,
-      "buys": [
-        {
-          "channel": "CouchInvestor",
-          "title": "I Just Bought $3,500 More of These 2 Stocks. Here's Why",
-          "url": "https://www.youtube.com/watch?v=fflmW-Y29UU",
-          "upload_date": "20260712",
-          "date_label": "12 Jul 2026",
-          "ticker": "NEW",
-          "company_name": "Neurochem (or context unclear - likely referring to a fintech stock)",
-          "reason": "Creator would like to see stock back above $14 to generate more momentum toward $15.",
-          "when_to_buy": "Above $14 for momentum entry.",
-          "target_price": "$15+",
-          "cautions": null
-        }
-      ],
-      "avoids": [],
-      "description": null
-    },
-    {
       "ticker": "NEWM",
       "company_name": "Nu Holdings (Nubank)",
       "buy_count": 1,
@@ -6885,12 +6613,12 @@
     },
     {
       "ticker": "NFLX",
-      "company_name": "Netflix",
-      "buy_count": 3,
+      "company_name": "Netflix Inc.",
+      "buy_count": 2,
       "avoid_count": 4,
-      "first_mention_date": "12 Jul 2026",
-      "price_at_first_mention": 73.37,
-      "pct_change_since_rec": 1.9,
+      "first_mention_date": "16 Jul 2026",
+      "price_at_first_mention": 74.35,
+      "pct_change_since_rec": 0.6,
       "market": {
         "ticker": "NFLX",
         "name": "Netflix, Inc.",
@@ -6930,19 +6658,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "CouchInvestor",
-          "title": "I Just Bought $3,500 More of These 2 Stocks. Here's Why",
-          "url": "https://www.youtube.com/watch?v=fflmW-Y29UU",
-          "upload_date": "20260712",
-          "date_label": "12 Jul 2026",
-          "ticker": "NFLX",
-          "company_name": "Netflix",
-          "reason": "Netflix is a $39 billion company trading at a forward P/E of 22.1x and price-to-free cash flow of 26.3x. Company is still growing, extremely profitable, and in a strong market position. Ad-supported business is growing rapidly with $3 billion advertising revenue target for 2024 (2x YoY increase). Creator believes Netflix will appear cheap in hindsight in a couple of years. Stock is in 'low 70s' range which creator views as good accumulation zone. Despite market concerns about subscriber growth and content strategy rumors, creator views Netflix as trading at good prices with strong structural advantages.",
-          "when_to_buy": "Low-70s range represents good accumulation zone. Creator recommends waiting for earnings report before investing to get clarity on business fundamentals.",
-          "target_price": null,
-          "cautions": "Stock down 41.8% over past 12 months and 19.3% year-to-date due to concerns about content acquisition strategy and slower viewership growth. Direct TV viewership market share fell to 12-month low. Watch hours may be declining and churn may be rising. Wait for earnings report before buying to understand subscriber and revenue trends. Piracy is rising and account sharing continues, which could limit growth."
-        },
         {
           "channel": "CouchInvestor",
           "title": "The Best Buying Opportunity I've Seen in Months Is Hiding Here",
@@ -7059,8 +6774,8 @@
         "analyst_buy": 18,
         "analyst_hold": 6,
         "analyst_sell": 2,
-        "analyst_target": 7.35,
-        "analyst_upside_pct": 59.1,
+        "analyst_target": 7.34,
+        "analyst_upside_pct": 58.9,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -7400,40 +7115,13 @@
       "description": "Provides cloud-based workflow software for business operations"
     },
     {
-      "ticker": "NUVN",
-      "company_name": "Nubank",
-      "buy_count": 1,
-      "avoid_count": 0,
-      "first_mention_date": "12 Jul 2026",
-      "price_at_first_mention": null,
-      "pct_change_since_rec": null,
-      "market": null,
-      "buys": [
-        {
-          "channel": "CouchInvestor",
-          "title": "I Just Bought $3,500 More of These 2 Stocks. Here's Why",
-          "url": "https://www.youtube.com/watch?v=fflmW-Y29UU",
-          "upload_date": "20260712",
-          "date_label": "12 Jul 2026",
-          "ticker": "NUVN",
-          "company_name": "Nubank",
-          "reason": "Nubank received approval to operate as a multiple banking institution in Mexico with identical permissions as legacy incumbents. This regulatory parity unlocks cost and liquidity advantages while combining with Nubank's digital stack. The move deepens structural cost advantages and paves the way to replicate Nubank's highly profitable Brazilian growth engine in Mexico. Creator has been discussing Nubank expansion into United States, but this Mexico approval shows company remains focused on core markets while expanding efficiently.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": "Market concerns about U.S. expansion may have overshadowed core market opportunities. Creator clarifies company is not abandoning profitable Brazilian-like growth opportunities."
-        }
-      ],
-      "avoids": [],
-      "description": "Provides digital banking and fintech services"
-    },
-    {
       "ticker": "NVDA",
       "company_name": "Nvidia Corporation",
-      "buy_count": 14,
+      "buy_count": 13,
       "avoid_count": 0,
-      "first_mention_date": "12 Jul 2026",
-      "price_at_first_mention": 210.96,
-      "pct_change_since_rec": 3.1,
+      "first_mention_date": "14 Jul 2026",
+      "price_at_first_mention": 211.8,
+      "pct_change_since_rec": 2.7,
       "market": {
         "ticker": "NVDA",
         "name": "NVIDIA Corporation",
@@ -7473,19 +7161,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "The Traveling Trader",
-          "title": "These Beaten Down Stocks Are About to Explode",
-          "url": "https://www.youtube.com/watch?v=K8fUIXqYqQY",
-          "upload_date": "20260712",
-          "date_label": "12 Jul 2026",
-          "ticker": "NVDA",
-          "company_name": "Nvidia Corporation",
-          "reason": "Nvidia bounced off the 200-day moving average and is up 10% in 3 days. The company has a 63% return on invested capital and a 10-year compound annual revenue growth rate of 45.7%. Trading at 23.4 PE despite exceptional fundamentals. Creator states Nvidia is worth significantly more than current $210 level and needs to break above $211 to make a new all-time high (previous ATH from October 2025).",
-          "when_to_buy": "On pullbacks, looking for pattern confirmation near support levels. Creator mentions looking for specific pullback patterns if the stock consolidates.",
-          "target_price": "Above $211 to break previous all-time highs; creator implies further upside beyond that level",
-          "cautions": "Stock will have significant volatility. Creator mentions NVDA leaps were down before recent rally, but emphasizes understanding volatility is key to profiting. Not recommended for swing traders without conviction. Earnings coming up this week."
-        },
         {
           "channel": "The Traveling Trader",
           "title": "\ud83d\udd34 Day Trading LIVE | CPI Inflation Report",
@@ -8357,11 +8032,11 @@
     {
       "ticker": "QCOM",
       "company_name": "Qualcomm Inc.",
-      "buy_count": 3,
+      "buy_count": 2,
       "avoid_count": 0,
-      "first_mention_date": "12 Jul 2026",
-      "price_at_first_mention": 189.16,
-      "pct_change_since_rec": -14.0,
+      "first_mention_date": "14 Jul 2026",
+      "price_at_first_mention": 178.1,
+      "pct_change_since_rec": -8.7,
       "market": {
         "ticker": "QCOM",
         "name": "QUALCOMM Incorporated",
@@ -8401,19 +8076,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "The Traveling Trader",
-          "title": "These Beaten Down Stocks Are About to Explode",
-          "url": "https://www.youtube.com/watch?v=K8fUIXqYqQY",
-          "upload_date": "20260712",
-          "date_label": "12 Jul 2026",
-          "ticker": "QCOM",
-          "company_name": "Qualcomm Inc.",
-          "reason": "Qualcomm completed a head and shoulders pattern and is priced at 20x trailing PE and 17x forward PE with a $199 billion market cap. Company announced a massive pivot to AI data centers with a credible roadmap to capture over $15 billion in annual AI data center revenue. Qualcomm has a landmark contract with Meta for its Dragonfly C1000 CPUs. Creator lists this as a major chip stock that is a buy at current moment.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": "Earnings coming up this week."
-        },
         {
           "channel": "The Traveling Trader",
           "title": "\ud83d\udd34 Day Trading LIVE | CPI Inflation Report",
@@ -9087,33 +8749,6 @@
       "description": "Small and medium-class launch and spacecraft services"
     },
     {
-      "ticker": "RLCO",
-      "company_name": "Rocket Lab",
-      "buy_count": 1,
-      "avoid_count": 0,
-      "first_mention_date": "12 Jul 2026",
-      "price_at_first_mention": null,
-      "pct_change_since_rec": null,
-      "market": null,
-      "buys": [
-        {
-          "channel": "CouchInvestor",
-          "title": "I Just Bought $3,500 More of These 2 Stocks. Here's Why",
-          "url": "https://www.youtube.com/watch?v=fflmW-Y29UU",
-          "upload_date": "20260712",
-          "date_label": "12 Jul 2026",
-          "ticker": "RLCO",
-          "company_name": "Rocket Lab",
-          "reason": "The creator bought an additional 20 shares (4.4% increase) at around $80-$81 to accumulate more shares at lower prices after selling at higher prices previously. Technical analysis shows the stock crashed down from $100 and closed the week at $81. Creator is targeting the mid-70s to low-70s price range for further accumulation.",
-          "when_to_buy": "Mid-70s to low-70s range for optimal entry. Creator already bought small batch at $80-$81.",
-          "target_price": null,
-          "cautions": "Stock did not hold at $100 support level. Creator is willing to wait for further pullback to cool-off zone before adding more significantly."
-        }
-      ],
-      "avoids": [],
-      "description": "Small and medium-class launch and spacecraft services"
-    },
-    {
       "ticker": "ROAD",
       "company_name": "Construction Partners, Inc.",
       "buy_count": 2,
@@ -9460,24 +9095,13 @@
       "ticker": "SHYF",
       "company_name": "Shift4 Payments",
       "buy_count": 0,
-      "avoid_count": 2,
-      "first_mention_date": "12 Jul 2026",
+      "avoid_count": 1,
+      "first_mention_date": "25 Jul 2026",
       "price_at_first_mention": null,
       "pct_change_since_rec": null,
       "market": null,
       "buys": [],
       "avoids": [
-        {
-          "channel": "CouchInvestor",
-          "title": "I Just Bought $3,500 More of These 2 Stocks. Here's Why",
-          "url": "https://www.youtube.com/watch?v=fflmW-Y29UU",
-          "upload_date": "20260712",
-          "date_label": "12 Jul 2026",
-          "ticker": "SHYF",
-          "company_name": "Shift4 Payments",
-          "reason": "Creator is down 28% on position despite viewing it as 'extremely undervalued on paper' initially. While down 28%, creator demonstrates willingness to exit if capital can be better deployed elsewhere. Position holding around $50 but underperforming expectations.",
-          "risk": "Down 28% from entry. Creator may exit if better opportunities present themselves."
-        },
         {
           "channel": "CouchInvestor",
           "title": "Time to CASH OUT! 4 Stocks to SELL Before Earnings!",
@@ -9582,70 +9206,6 @@
       ],
       "avoids": [],
       "description": "Manufactures DRAM and NAND flash memory semiconductors"
-    },
-    {
-      "ticker": "SKHY",
-      "company_name": "SK Hynix (SKHY listing)",
-      "buy_count": 1,
-      "avoid_count": 0,
-      "first_mention_date": "12 Jul 2026",
-      "price_at_first_mention": null,
-      "pct_change_since_rec": null,
-      "market": {
-        "ticker": "SKHY",
-        "name": "SK hynix Inc.",
-        "currency": "USD",
-        "sector": "Technology",
-        "industry": "Semiconductors",
-        "market_cap": 1005509410816,
-        "current_price": 141.65,
-        "daily_change_pct": 4.7,
-        "month_change_pct": -7.02,
-        "week52_high": 194.8,
-        "week52_high_date": "14 Jul 2026",
-        "week52_low": 124.8,
-        "week52_low_date": "29 Jul 2026",
-        "rsi": 44.6,
-        "rsi_label": "neutral",
-        "ma50": null,
-        "ma200": null,
-        "ma_signal": null,
-        "pe_trailing": 18.886665,
-        "pe_forward": 4.4071994,
-        "peg_ratio": 0.27,
-        "revenue_growth": 2.568,
-        "earnings_growth": 12.736,
-        "free_cashflow": null,
-        "profit_margins": 0.85682,
-        "debt_to_equity": 7.075,
-        "beta": 2.413,
-        "short_percent": null,
-        "dividend_yield": null,
-        "analyst_buy": 5,
-        "analyst_hold": 1,
-        "analyst_sell": 0,
-        "analyst_target": 245.21,
-        "analyst_upside_pct": 73.1,
-        "earnings_date": null,
-        "earnings_days": null
-      },
-      "buys": [
-        {
-          "channel": "The Traveling Trader",
-          "title": "These Beaten Down Stocks Are About to Explode",
-          "url": "https://www.youtube.com/watch?v=K8fUIXqYqQY",
-          "upload_date": "20260712",
-          "date_label": "12 Jul 2026",
-          "ticker": "SKHY",
-          "company_name": "SK Hynix (SKHY listing)",
-          "reason": "SKHEX is the newly listed US NASDAQ cross-border listing (not IPO) of established Korean memory company. Listing closed 13% higher than $149 offer price with 7x oversubscription, indicating massive demand. Company worth over $1 trillion but did $26.5 billion capital raise (less than 2% dilution). This is the largest foreign listing ever. Important for the memory/semiconductor infrastructure buildout for AI.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": "Could experience sell-the-news event because US listing shares don't have lockup periods and Korean market shares may need to resolve arbitrage. If US listing shares were bought at $149 and closed at $168, arbitrage could force US listing down. No traditional lockup periods means anyone can sell anytime. Creator is hedging against this with DRAM puts."
-        }
-      ],
-      "avoids": [],
-      "description": "DRAM, NAND flash memory, and semiconductor foundry"
     },
     {
       "ticker": "SMH",
@@ -9929,11 +9489,11 @@
     {
       "ticker": "SOFI",
       "company_name": "SoFi Technologies",
-      "buy_count": 11,
+      "buy_count": 10,
       "avoid_count": 0,
-      "first_mention_date": "12 Jul 2026",
-      "price_at_first_mention": 18.78,
-      "pct_change_since_rec": -4.3,
+      "first_mention_date": "15 Jul 2026",
+      "price_at_first_mention": 18.23,
+      "pct_change_since_rec": -1.4,
       "market": {
         "ticker": "SOFI",
         "name": "SoFi Technologies, Inc.",
@@ -9973,19 +9533,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "CouchInvestor",
-          "title": "I Just Bought $3,500 More of These 2 Stocks. Here's Why",
-          "url": "https://www.youtube.com/watch?v=fflmW-Y29UU",
-          "upload_date": "20260712",
-          "date_label": "12 Jul 2026",
-          "ticker": "SOFI",
-          "company_name": "SoFi Technologies",
-          "reason": "Stock recovered to $18.78 this week from $18.24, breaking above important resistance points. Creator expects potential upside toward $19-$20 going into earnings report on July 28th based on macro and geopolitical events. If earnings print well with positive guidance, stock could reclaim $22 support and continue higher. Fed rate cut expectations may change guidance assumptions, potentially baking in zero rate cuts or even one to two rate hikes.",
-          "when_to_buy": "$18-$20 range going into July 28th earnings report.",
-          "target_price": "$22 resistance level and above if earnings are positive.",
-          "cautions": "Macro and geopolitical events could prevent stock from reaching $19-$20 before earnings. Earnings report is critical catalyst and stock could move significantly in either direction."
-        },
         {
           "channel": "CouchInvestor",
           "title": "PayPal Might Be Getting Acquired. Here's My Honest Take",
@@ -10565,33 +10112,6 @@
       "description": "Consumer electronics, memory chips and displays"
     },
     {
-      "ticker": "T1ENERGY",
-      "company_name": "T1 Energy",
-      "buy_count": 1,
-      "avoid_count": 0,
-      "first_mention_date": "12 Jul 2026",
-      "price_at_first_mention": null,
-      "pct_change_since_rec": null,
-      "market": null,
-      "buys": [
-        {
-          "channel": "The Traveling Trader",
-          "title": "These Beaten Down Stocks Are About to Explode",
-          "url": "https://www.youtube.com/watch?v=K8fUIXqYqQY",
-          "upload_date": "20260712",
-          "date_label": "12 Jul 2026",
-          "ticker": "T1ENERGY",
-          "company_name": "T1 Energy",
-          "reason": "Penny stock pure-play energy investment held by Leopold. Utility-scale solar is the fastest and cheapest way to add new electricity supply. Every CEO across the board, including SKHEX CEO and Elon Musk, cite electricity as the number one constraint for AI buildout. T1 Energy produces solar modules and cells and is currently scaling in the United States. Demand for their new capacity already exceeds supply.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": "This is an extremely volatile penny stock at $7 per share. Creator emphasizes this is a long-term investment, not a trade. Do not buy because you saw it in a video and expect it to go up in a week. This is a multi-year investment thesis. Similar to how Vertive was a penny stock 3 years ago or Bloom Energy was $9 in 2024."
-        }
-      ],
-      "avoids": [],
-      "description": "Manufactures photovoltaic solar modules and cells"
-    },
-    {
       "ticker": "TERN",
       "company_name": "Ternium Inc.",
       "buy_count": 1,
@@ -10681,70 +10201,6 @@
       ],
       "avoids": [],
       "description": "Wireless mobile carrier offering voice, messaging, data, and devices"
-    },
-    {
-      "ticker": "TQQQ",
-      "company_name": "Invesco QQQ Trust Series 1 3x (Leveraged)",
-      "buy_count": 1,
-      "avoid_count": 0,
-      "first_mention_date": "12 Jul 2026",
-      "price_at_first_mention": 77.03,
-      "pct_change_since_rec": -5.2,
-      "market": {
-        "ticker": "TQQQ",
-        "name": "ProShares UltraPro QQQ",
-        "currency": "USD",
-        "sector": null,
-        "industry": null,
-        "market_cap": null,
-        "current_price": 73.06,
-        "daily_change_pct": -1.0,
-        "month_change_pct": 0.58,
-        "week52_high": 88.09,
-        "week52_high_date": "03 Jun 2026",
-        "week52_low": 37.32,
-        "week52_low_date": "30 Mar 2026",
-        "rsi": 53.5,
-        "rsi_label": "neutral",
-        "ma50": 73.87,
-        "ma200": 59.84,
-        "ma_signal": "golden_cross",
-        "pe_trailing": 33.28495,
-        "pe_forward": null,
-        "peg_ratio": null,
-        "revenue_growth": null,
-        "earnings_growth": null,
-        "free_cashflow": null,
-        "profit_margins": null,
-        "debt_to_equity": null,
-        "beta": null,
-        "short_percent": null,
-        "dividend_yield": 0.58,
-        "analyst_buy": null,
-        "analyst_hold": null,
-        "analyst_sell": null,
-        "analyst_target": null,
-        "analyst_upside_pct": null,
-        "earnings_date": null,
-        "earnings_days": null
-      },
-      "buys": [
-        {
-          "channel": "The Traveling Trader",
-          "title": "These Beaten Down Stocks Are About to Explode",
-          "url": "https://www.youtube.com/watch?v=K8fUIXqYqQY",
-          "upload_date": "20260712",
-          "date_label": "12 Jul 2026",
-          "ticker": "TQQQ",
-          "company_name": "Invesco QQQ Trust Series 1 3x (Leveraged)",
-          "reason": "Creator explicitly states this as a trade (not investment). Currently holding TQQQ calls that are up over than 30%. Creator says this is one of the few swing trades he is advocating for currently, as QQQ is knocking on breakout door and this week is make-it-or-break-it for QQQ.",
-          "when_to_buy": "This week (as of recording) is make-it-or-break-it for QQQ breakout",
-          "target_price": null,
-          "cautions": "This is explicitly a leveraged 3x trade, not a buy-and-hold investment. Creator notes this is NOT the same market as March-May when you could swing trade everything. He is not a huge advocate of swing trading in current environment except for specific setups. Creator is using TQQQ specifically because QQQ is at critical juncture."
-        }
-      ],
-      "avoids": [],
-      "description": "Leveraged ETF tracking 100 largest Nasdaq non-financial companies with 3x daily returns"
     },
     {
       "ticker": "TSLA",
@@ -11021,11 +10477,11 @@
     {
       "ticker": "UBER",
       "company_name": "Uber Technologies",
-      "buy_count": 8,
+      "buy_count": 7,
       "avoid_count": 2,
-      "first_mention_date": "12 Jul 2026",
-      "price_at_first_mention": 74.54,
-      "pct_change_since_rec": 5.4,
+      "first_mention_date": "17 Jul 2026",
+      "price_at_first_mention": 72.46,
+      "pct_change_since_rec": 8.4,
       "market": {
         "ticker": "UBER",
         "name": "Uber Technologies, Inc.",
@@ -11065,19 +10521,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "CouchInvestor",
-          "title": "I Just Bought $3,500 More of These 2 Stocks. Here's Why",
-          "url": "https://www.youtube.com/watch?v=fflmW-Y29UU",
-          "upload_date": "20260712",
-          "date_label": "12 Jul 2026",
-          "ticker": "UBER",
-          "company_name": "Uber Technologies",
-          "reason": "Stock has shown modest upward movement over past couple of days with increasing bullish momentum. Creator notes the low-70s was an accumulation zone and would like to see stock back above $80. Uber passed EU expansion strategy enabling focus on full control of Delivery Hero.",
-          "when_to_buy": "Target $80+ for better momentum entry. Low-70s represents accumulation zone.",
-          "target_price": "Above $80 for sustained bullish momentum.",
-          "cautions": null
-        },
         {
           "channel": "CouchInvestor",
           "title": "The Best Buying Opportunity I've Seen in Months Is Hiding Here",
@@ -11287,12 +10730,12 @@
     },
     {
       "ticker": "VRT",
-      "company_name": "Vertive Co.",
-      "buy_count": 3,
+      "company_name": "Vertiv Holdings Co.",
+      "buy_count": 2,
       "avoid_count": 0,
-      "first_mention_date": "12 Jul 2026",
-      "price_at_first_mention": 318.86,
-      "pct_change_since_rec": -11.6,
+      "first_mention_date": "21 Jul 2026",
+      "price_at_first_mention": 304.5,
+      "pct_change_since_rec": -7.5,
       "market": {
         "ticker": "VRT",
         "name": "Vertiv Holdings, LLC",
@@ -11332,19 +10775,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "The Traveling Trader",
-          "title": "These Beaten Down Stocks Are About to Explode",
-          "url": "https://www.youtube.com/watch?v=K8fUIXqYqQY",
-          "upload_date": "20260712",
-          "date_label": "12 Jul 2026",
-          "ticker": "VRT",
-          "company_name": "Vertive Co.",
-          "reason": "Power infrastructure stock benefiting from AI buildout electricity demand. Stock is consolidating and sitting at 21 EMA weekly. Part of the power stocks category that will benefit from hyperscaler capex spending through 2030 on power infrastructure for data centers and AI buildout.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": "Stock is in consolidation phase. Creator notes it was a penny stock 3 years ago, so understand the volatility involved in turnaround power stocks."
-        },
         {
           "channel": "Ticker Symbol: YOU",
           "title": "Dips Never Last. I'm Buying These 5 Stocks Now.",
@@ -11592,7 +11022,7 @@
         "ma200": 19.1,
         "ma_signal": "golden_cross",
         "pe_trailing": "Infinity",
-        "pe_forward": 24.182241,
+        "pe_forward": 24.115622,
         "peg_ratio": 0.77,
         "revenue_growth": 0.435,
         "earnings_growth": null,

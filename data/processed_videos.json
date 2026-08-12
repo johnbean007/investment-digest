@@ -15998,8 +15998,8 @@
       "title": "NEBIUS Q2 EARNINGS REPORT BREAKDOWN",
       "upload_date": "20260811",
       "url": "https://www.youtube.com/watch?v=Ru1hGYu5-JU",
-      "processed_at": "2026-08-12T01:25:26.371144",
-      "transcript_fails": 2,
+      "processed_at": "2026-08-12T03:27:02.310105",
+      "transcript_fails": 3,
       "last_reason": "error"
     },
     "osSWqOI0yp4": {
@@ -16101,6 +16101,35 @@
       "price_at_recommendation": {
         "BAM": 55.36
       }
+    },
+    "-TOt2XOqwRs": {
+      "channel": "Jose Najarro Stocks",
+      "title": "If You Are a CoreWeave Shareholder...You NEED to See This Quarter",
+      "upload_date": "20260812",
+      "url": "https://www.youtube.com/watch?v=-TOt2XOqwRs",
+      "processed_at": "2026-08-12T03:27:18.641900",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "COREWEAVE",
+            "company_name": "CoreWeave",
+            "reason": "The creator is extremely bullish on CoreWeave, calling it his biggest cost basis position ever (six-figure plus investment) and one of his most bullish positions despite market skepticism. The investment thesis rests on multiple pillars: (1) AI is a revolutionary technology that will create severe compute constraints across markets like cybersecurity, life sciences, AI agents, and software solutions, and no amount of optimization will outstrip demand; (2) Contrary to bear thesis, older generation GPUs (like A100s from 2020) are being recontracked at higher prices through 2029, proving GPU obsolescence fears wrong; (3) CoreWeave's business model is structured with long-term contracts that pay off debt within 3-4 years, with subsequent cash flow being nearly pure margin; (4) GPU pricing is increasing rather than decreasing over time, dramatically improving margin expectations beyond initial models; (5) The company added 500 megawatts of active power in a single quarter (more than competitors have total), now at 1.5 gigawatt total, demonstrating massive scale; (6) Expanded financing options (DDTL 5.5) now allow shorter 2-3 year contracts with higher margins; (7) Adjacent solutions like inference services grew from $1 million to $100 million ARR with expectations of $250 million+ this year; (8) The backlog constraint is a positive indicator of compute scarcity, not weakness. The creator believes CoreWeave will become a hundreds-of-billions market cap company.",
+            "when_to_buy": "Creator mentioned buying heavily in the low 60s, 70s, and 80s price range, with most recent buy on July 29th at low 60s. Stock was at $104 after earnings (up 15.7%)",
+            "target_price": "hundreds of billions of dollars in market capitalization",
+            "cautions": "Creator acknowledges this is a capex-heavy business that the market currently dislikes. High debt load, though this is contractually backed. Capital intensity is significant. Market sentiment can swing dramatically month-to-month. International expansion is occurring but creator prefers US-focused growth. Shorter-term contract strategy carries execution risk if demand doesn't materialize in 2-3 years as expected. The bull case entirely depends on sustained AI demand growth outpacing all optimizations."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Bears make the argument that annual GPU cadence releases (like Nvidia's) will make older generation GPUs obsolete, eliminating demand for GPU rental infrastructure. However, creator presents evidence this thesis is wrong, citing A100 GPUs from 2020 being recontracked through 2029 at attractive prices, suggesting the bear thesis on GPU obsolescence continues to fail.",
+          "Market consensus currently dislikes high capex businesses. CoreWeave increased capex guidance for the fiscal year and saw stock dip on the announcement. This suggests there may be sector-wide resistance to infrastructure investment plays regardless of fundamentals.",
+          "The investment thesis depends entirely on the creator's conviction that AI demand will dramatically exceed all efficiency improvements and optimization efforts across the industry. If this macro assumption proves wrong, the entire investment thesis collapses."
+        ],
+        "tickers_mentioned": [
+          "COREWEAVE"
+        ]
+      },
+      "price_at_recommendation": {}
     }
   },
   "channel_ids": {

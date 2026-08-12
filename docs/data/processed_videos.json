@@ -16132,6 +16132,33 @@
         ]
       },
       "price_at_recommendation": {}
+    },
+    "S_ZWs_PX5dM": {
+      "channel": "FinTek",
+      "title": "Top Picks and Shovels AI Chip Stock",
+      "upload_date": "20260812",
+      "url": "https://www.youtube.com/watch?v=S_ZWs_PX5dM",
+      "processed_at": "2026-08-12T15:19:06.790616",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "ASML",
+            "company_name": "ASML Holding N.V.",
+            "reason": "ASML is presented as the ultimate picks and shovels AI play because the company has a borderline monopoly on the machines required to manufacture the latest generation chips. The creator notes that even Elon Musk visited ASML to discuss their importance to the future of chip manufacturing. The current business model is working well for the company, and unless more competition enters the high NA EUV space or a new method is invented by a smaller startup, ASML appears positioned to continue growing.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The creator acknowledges that competition could potentially enter the high NA EUV space, or a new manufacturing method invented by a smaller startup could disrupt ASML's market position."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": [
+          "ASML"
+        ]
+      },
+      "price_at_recommendation": {
+        "ASML": 1825.66
+      }
     }
   },
   "channel_ids": {

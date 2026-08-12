@@ -15998,9 +15998,11 @@
       "title": "NEBIUS Q2 EARNINGS REPORT BREAKDOWN",
       "upload_date": "20260811",
       "url": "https://www.youtube.com/watch?v=Ru1hGYu5-JU",
-      "processed_at": "2026-08-12T03:27:02.310105",
-      "transcript_fails": 3,
-      "last_reason": "error"
+      "processed_at": "2026-08-12T05:49:50.408906",
+      "transcript_fails": 4,
+      "last_reason": "error",
+      "terminal": true,
+      "skipped": "no transcript"
     },
     "osSWqOI0yp4": {
       "channel": "Ticker Symbol: YOU",
@@ -16143,6 +16145,6 @@
   },
   "last_eval_week": "2026-W33",
   "alerts": {
-    "fallback": "2026-08-11T23:16:12.781252"
+    "fallback": "2026-08-12T05:49:52.847848"
   }
 }

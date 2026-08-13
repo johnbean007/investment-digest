@@ -16159,6 +16159,343 @@
       "price_at_recommendation": {
         "ASML": 1825.66
       }
+    },
+    "Qm3AF7yZ2HI": {
+      "channel": "CouchInvestor",
+      "title": "AI STOCKS RALLY, MICHAEL BURIED, EARNINGS | MARKET CLOSE",
+      "upload_date": "20260812",
+      "url": "https://www.youtube.com/watch?v=Qm3AF7yZ2HI",
+      "processed_at": "2026-08-13T10:19:40.880471",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NBIS",
+            "company_name": "Nebius",
+            "reason": "Nebius is executing exceptionally well with a 30% gain on the day. The company is positioning itself as an AI cloud business with strong focus on software margins through asset-light business models. Short-term contracts are generating premium pricing (40-50 million per megawatt annually with 1-2 year payback periods), and the company is deliberately holding back compute to maximize pricing power. The asset-light business model allows them to scale without taking on the debt burden that competitors face. By 2027, based on current metrics of 20-25 million per megawatt for medium contracts and 40-50 million per megawatt for short-term contracts, ARR could reach 20-25 billion dollars or more. The market is beginning to recognize that this is a highly profitable business where debt is a feature, not a bug.",
+            "when_to_buy": "Every dip should be bought according to the hosts. Entry points mentioned: $232, $240s, $250s all currently profitable. Stock has 30% up days and maintains momentum.",
+            "target_price": null,
+            "cautions": "Michael Burry shorted Nebius at $212 and doubled down at current levels, calling it 'the top of a boom.' The company relies heavily on short-term contracts which could face margin compression if GPU supply constraints ease. Depreciation schedule was extended from 4 to 5 years, indicating potential future issues. Short float of 30% means volatility from short covering could reverse quickly."
+          },
+          {
+            "ticker": "CORW",
+            "company_name": "CoreWeave",
+            "reason": "CoreWeave delivered strong execution with 19.6% gain on the day. The company added 500 megawatts (half a gigawatt) in a single quarter, which is insane growth comparable only to hyperscalers. They are signing customers to A100 contracts extending to 2029, proving the 9-year lifespan of older generation chips and dramatically extending payback periods. The managed inference platform grew from 1 million to 100 million within the quarter. Margins are expanding and the company is proving that long-term contracts can be highly profitable. Despite a debt profile of $51 billion against $68 billion market cap (enterprise value ~$100+ billion), the underlying business fundamentals are strong with multiple years of contracted revenue.",
+            "when_to_buy": "CoreWeave was at $60 recently and should have received a larger rerating. Opportunity to buy on any weakness given strong execution.",
+            "target_price": null,
+            "cautions": "Market has historically hated CoreWeave for its debt profile, though this is fundamentally misunderstood. The $51 billion in debt is well-supported by long-term contracts. CoreWeave's marketing and messaging to Wall Street has been weaker than competitors, leading to unfair discount relative to Nebius. Margins will compress sequentially in Q3 but CFO indicated gross margins will 'snap back up.' Customer concentration with frontier labs is significant but not unusual in chipmaker businesses."
+          },
+          {
+            "ticker": "IREN",
+            "company_name": "Iris Energy",
+            "reason": "Iris Energy is the smallest neo-cloud player with significant upside potential due to margin of safety at current valuations (~$12-13 billion market cap). The company has secured contracted power availability, which is the #1 bottleneck in the industry. Nvidia has provided backing and granted exemplar status for GB300s and B300 chips, signaling confidence. Recent acquisition to expand beyond bare metal into software stack. The Nvidia backstop arrangement provides access to short-term contracts with extremely high margins, as Nvidia guarantees payment if Iris doesn't secure customers. Starting from a small revenue base (~$145 million quarterly AI revenue), percentage growth potential is massive when data centers scale. Company recently moved from pure bare metal provider to offering more comprehensive solutions.",
+            "when_to_buy": "Current entry point around $12-13 billion market cap. Jose was buying at these levels.",
+            "target_price": null,
+            "cautions": "Higher risk, higher reward profile. Execution has been weaker than Nebius and CoreWeave. Semi-analysis rankings put Iris in 'do not recommend' category, citing issues with iron hardware and uncertain resolution status. No major hyperscaler deal in 18 months compared to recent deals for competitors. Could be acquisition target or partner for larger players. Management has not executed at the level of competing neo-cloud operators."
+          },
+          {
+            "ticker": "COHR",
+            "company_name": "Coherent Corp",
+            "reason": "Coherent delivered double beats with EPS beat of 7% (174 vs 162) and revenue beat of 3% ($2.04B vs $1.98B). EPS up 74% year-over-year and revenue up 34% year-over-year. The company is well-positioned in the optical/photonics buildout required for data center infrastructure. Product mix is increasingly concentrated in bottlenecked areas like CPO (Co-Packaged Optics), which should see continued strong demand. Much of their revenue mix will benefit from continued networking constraints in data center buildouts.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Stock faded significantly after-hours despite strong earnings, down 6%. Gross margins may face pressure from component and memory costs. If the broader semiconductor momentum reverses, this stock will follow other semis downward. The strong guidance may already be priced in."
+          },
+          {
+            "ticker": "CSCO",
+            "company_name": "Cisco Systems",
+            "reason": "Cisco delivered double beats with EPS beat of 4% ($122 vs $117) and revenue beat of 3% ($17.25B vs $16.83B). Revenue up 18% year-over-year and EPS up 23% year-over-year. Networking revenue came in strong at $9.79B with 40% year-over-year growth and eight consecutive quarters of double-digit growth. Full year fiscal 2027 AI revenue guidance raised to $7.5B (up from prior $6B estimates). Full year fiscal 2027 EPS guidance of $5.55-$5.11 (vs $4.80 estimates) and revenue of $72.2-$73.4B (higher than estimates). Networking is experiencing a super cycle and Cisco is benefiting from data center buildout infrastructure demands.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Stock faded after initial gains, now down 1% after-hours despite strong guidance. Gross margins were only slightly above expectations\u2014memory and component costs remain pressure points. The networking super cycle may not be sustainable long-term. When semis rally, software names tend to lag, and vice versa."
+          },
+          {
+            "ticker": "CBRS",
+            "company_name": "Cerebras Systems",
+            "reason": "Cerebras delivered a double beat with EPS beat of 15 cents vs 8 cents expected and revenue beat of $209M vs $193M expected (103% year-over-year growth). Gross margins of 14% are low but company is transitioning to building its own cloud solutions. Q3 core revenue guided to $214-216M (beating street estimate of $211M). Operating expenses guided down to $52M vs $89M last year. Company is scaling data center capacity, expanding manufacturing, and securing partnerships with OpenAI, AWS, AMD, and Crowdstrike. The focus on fast inference demand is enormous and the company is scaling to meet it. CEO stated core revenue more than doubled to $210M and 'speed changes what AI can do.'",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Stock fell 11-14% after-hours despite double beat, giving back all intraday gains. Market reaction suggests something on the call troubled investors. Margins sequentially declined and operating expenses came in higher than expected at $500M vs anticipated $52M guidance range. Customer concentration with OpenAI (a frontier lab) is significant. Stock had run 11.6% today prior to earnings, suggesting much of good news was priced in. The company is not performing at the level of Nebius/CoreWeave in terms of investor confidence."
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms",
+            "reason": "Meta is priced at $577 and deserves consideration given the excitement in the AI infrastructure space. While the company has been down 3.3% today, it represents a more stable entry point into AI exposure compared to the high-beta neo-cloud stocks that have already doubled or tripled. The company's commitment to AI development and infrastructure buildout is genuine, and a more conservative AI bet can be made here rather than chasing stocks already up 30% in a day.",
+            "when_to_buy": "After semis have strong rallies and are taking breathers, software names like Meta can offer attractive entry points. Currently trading at $577.",
+            "target_price": null,
+            "cautions": "Meta is receiving 'zero love' from the market despite bullish AI model announcements. The market simply doesn't seem to care about Meta's AI efforts relative to the infrastructure plays. Software names typically underperform when semis rally strongly, and it remains uncertain when this pattern will reverse."
+          },
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Nvidia announced a $500 billion infrastructure financing program to help customers build AI data centers, positioning itself as the architect of the AI ecosystem. This demonstrates Nvidia's deep pockets (they don't have massive capex spend like others) and commitment to ensuring sustainable AI buildout. Jensen Huang's philosophy of 'do as much as needed, as little as possible' shows the company will support the ecosystem only as necessary. The company is establishing a new asset class for compute similar to futures markets, which will improve market pricing transparency. CoreWeave's signing of customers to A100 contracts through 2029 validates that GPU useful life extends far beyond 3-5 years, supporting Nvidia's business model long-term. The $500B backstop provides favorable financing to neo-cloud players, accelerating capex deployment and chip sales.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The $500B program could be viewed as 'circular financing' where Nvidia is essentially financing its own customers to buy its products. If underwriting is loose, bad actors could receive capital and fail, creating a bubble. Some view this as concerning precedent for over-leveraging the system (mortgage-backed securities comparison). Nvidia was only up 3% on the day despite the announcement, suggesting market may view this as mildly concerning. The backstop represents 25% of the capital, so Nvidia does carry some risk. Long-term, if the AI buildout doesn't generate expected returns, this could become problematic."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "NBIS",
+            "company_name": "Nebius (Short thesis)",
+            "reason": "Michael Burry published extensive analysis arguing Nebius represents 'the top of a boom' and is a short despite 30% up day. Burry contends that short-term contracts indicate supply constraints and artificial pricing power that will reverse when supply comes online. His thesis on backwardation suggests GPU depreciation is being masked by constraint-driven pricing\u2014once GPU supply normalizes, both new pricing and old contract values will collapse. The company extended depreciation schedules from 4 to 5 years, suggesting management expects future challenges. Burry claims 50% annual decay is baked into deals and that shorter contract terms signal customers lack confidence in long-term viability. He maintains short position and has doubled down at current levels.",
+            "risk": "Stock could face severe repricing if: (1) GPU supply constraints ease significantly, (2) new generation GPUs render older hardware worthless faster than expected, (3) customers can't generate returns on deployed capacity, or (4) if a major customer defaults on contracts."
+          },
+          {
+            "ticker": "SNAP",
+            "company_name": "Snap Inc.",
+            "reason": "No specific mention or analysis of Snap in this video. Stock not discussed by the hosts.",
+            "risk": null
+          }
+        ],
+        "key_warnings": [
+          "Extreme market volatility and bipolar behavior: The hosts emphasized that the market swings from 50% down to 100% up with no middle ground. A week ago, Nebius was $142 and CoreWeave was $60; names have doubled in days and halved just as quickly. This is unhealthy and suggests the market doesn't truly understand the AI infrastructure buildout.",
+          "Fear and greed cycles are unsustainable: The Fear & Greed Index swung from extreme fear one week ago to extreme greed today. Neil warned this level of volatility is unstable and the market doesn't know what it's doing\u2014everything is just guessing with bearish and bullish headlines from analysts canceling each other out.",
+          "Concentration on neo-cloud stocks creates single-point-of-failure risk: If demand growth slows, execution stumbles, or one major player fails, the entire group could collapse together. After-hours, all three earnings (Coherent, Cisco, Cerebras) faded simultaneously, demonstrating correlated downside risk.",
+          "Short covering volatility could reverse gains rapidly: Nebius has 30% short float and Michael Burry's followers on Substack (300,000 people) may be panic covering after his 30% up day. This short squeeze could reverse just as quickly, potentially erasing all gains.",
+          "GPU depreciation timeline uncertainty: The key bear argument (Burry's backwardation thesis) versus bull argument (9-year A100 contracts proving longevity) hinges on actual GPU useful life. If this proves wrong in either direction, valuations could face serious repricing.",
+          "Political and regulatory risks: Jose warned that AI is becoming 'extremely political,' and data centers are becoming a political theme. Legal and political changes could disrupt the buildout and add significant volatility.",
+          "Valuation sensitivity: When earnings don't come in perfect, valuations suddenly matter. Cerebras fell 14% despite beating because operating expenses were higher than expected. At 60-80B market caps on <$1B revenue, any disappointment could trigger sharp declines.",
+          "Power availability bottleneck creates centralization risk: Every neo-cloud player emphasized power as the #1 constraint. If a few companies secure most power contracts, competition gets limited and valuations could compress if duopolistic dynamics emerge.",
+          "The $500B Nvidia financing could enable overleveraging: While positioned as ecosystem-building, the backstop arrangement could lead to loose underwriting standards and bad capital allocation, creating bubble-like conditions similar to mortgage-backed securities."
+        ],
+        "tickers_mentioned": [
+          "NBIS",
+          "CORW",
+          "NVDA",
+          "IREN",
+          "COHR",
+          "CSCO",
+          "CBRS",
+          "SMH",
+          "LUMN",
+          "NFLX",
+          "META",
+          "MSFT",
+          "PLTR",
+          "HOOD",
+          "BOOM",
+          "ORCL",
+          "MU",
+          "INTC",
+          "MRVL",
+          "SMCI",
+          "ANOV",
+          "NNE",
+          "COR",
+          "INFLR",
+          "CRWD",
+          "AMD",
+          "AXON",
+          "DELL",
+          "HPE",
+          "COIN",
+          "ROKU"
+        ]
+      },
+      "price_at_recommendation": {
+        "CSCO": 123.88,
+        "NBIS": 259.2,
+        "NVDA": 224.09,
+        "COHR": 355.64,
+        "META": 578.85,
+        "IREN": 43.67,
+        "CBRS": 262.06,
+        "SNAP": 5.2
+      }
+    },
+    "1vWDUqK43LQ": {
+      "channel": "CouchInvestor",
+      "title": "Forget Nvidia. This Is the New King of AI",
+      "upload_date": "20260812",
+      "url": "https://www.youtube.com/watch?v=1vWDUqK43LQ",
+      "processed_at": "2026-08-13T10:20:06.213754",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Despite a $5 trillion valuation, Nvidia is expected to grow revenue 82% in fiscal 2027, 42% in fiscal 2028, and 23% in fiscal 2029, with quarterly growth expected to exceed 100% year-over-year. The company has a consistent track record of beating analyst expectations by approximately 3% each quarter. The recent announcement of a $500 billion AI compute infrastructure financing platform partnership with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR will lock customers into Nvidia's CUDA ecosystem and accelerate GPU sales. Nvidia's compute is uniquely suited as a flexible, broadly-adopted, fungible asset class that works across models and workloads, giving it a competitive moat against competitors like Google TPUs and Amazon custom chips.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The creator apologizes for the clickbait title 'Forget Nvidia. This Is the New King of AI' and clarifies that Nvidia is not being replaced. Nvidia trades at a trailing PE of 34.3x and forward PE of 22.4x, which are elevated valuations despite strong growth."
+          },
+          {
+            "ticker": "NEBS",
+            "company_name": "Nebius",
+            "reason": "Nebius reported revenue growth of 454% year-over-year to $582 million with ARR growing 600% year-over-year to $3 billion. Cloud profitability reached 50% with AI cloud adjusted EBITDA margin of $236 million. The company compressed deal payback from 2-3 years to 1 year and 10 months. Major deals with Reflection, Cohere, an unnamed US neo-lab, and a top US quant trading firm shifted average contract values from $12 million per megawatt to $20-25 million, with short-term premium tier contracts already reaching $40-50 million per megawatt. The asset-light partnership model converts partner capacity into high-margin ARR with minimal Nebus capex. The company expects 5 gigawatts of contracted power by year-end and could achieve $20-25 billion in ARR by mid-2027, which is significantly higher than current market expectations.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The creator describes Nebius as their favorite and acknowledges the company is still building extremely complex infrastructure (data centers, GPUs, cooling, networking) which takes significant time. Current revenue of $582 million will appear 'extremely extremely small' in 1-2 years as the company scales. Capital expenditures of $20-25 billion could double in 2027."
+          },
+          {
+            "ticker": "CORZ",
+            "company_name": "CoreWeave",
+            "reason": "CoreWeave reported revenue growth of 112% year-over-year to $2.57 billion (up 24% quarter-over-quarter) with a revenue backlog of $104.2 billion, plus an additional $25 billion signed early in Q3. Adjusted EBITDA reached $1.51 billion with a 59% margin. The company now operates 1.5+ gigawatts of active power and added 500 megawatts in Q2 alone (largest quarterly expansion in company history) across 51 data centers. Managed inference business grew from $1 million to $100 million in ARR in a single quarter with guidance to exceed $250 million by year-end. Non-GPU software and storage services exceeded $400 million in ARR. A 25% list price increase was implemented in July with higher contribution margins. The company reduced weighted average debt cost by 300 basis points year-over-year, unlocking $1.1 billion in annualized interest savings. CoreWeave signed a long-term A100 GPU contract extending to 2029, demonstrating value retention across legacy GPU fleets.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "CoreWeave carries significant debt with interest expense of $640 million in Q2 (more than doubled year-over-year) and Q3 guidance of $860-940 million, though this is being reduced through refinancing. Full-year capex guidance of $35-39 billion is substantial. The company is still in significant growth/buildout phase with complex infrastructure development required."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Anthropic IPO could happen in October 2024 at a potential $1.5 trillion valuation (up from $965 billion last raise, with current ARR run rate of $70 billion). The creator expects significant volatility once Anthropic and OpenAI go public, with potential for 50% downside similar to SpaceX space stock patterns, followed by potential recovery once the market gets detailed profitability and financial data on individual AI models. The creator notes that if these companies had gone public in July, 'these names would have been cut by 50% easy,' but believes a later 2024 IPO with improved market information could be healthy for the ecosystem.",
+          "The neo-cloud and AI infrastructure space carries execution risk as companies must build massive, complex data centers with GPUs, cooling, and networking infrastructure that takes significant time to complete, regardless of capital availability. The creator notes that even with SpaceX's aggressive timeline targets, most companies cannot move as quickly, and current revenues will appear 'extremely extremely small' in 1-2 years as the industry scales exponentially."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "NEBS",
+          "CORZ"
+        ]
+      },
+      "price_at_recommendation": {
+        "NVDA": 224.09,
+        "CORZ": 20.87
+      }
+    },
+    "HzAiLlmNaAU": {
+      "channel": "Jose Najarro Stocks",
+      "title": "AI STOCK MARKETS ARE RIPPING! MY PORTFOLIO IS SAVED",
+      "upload_date": "20260812",
+      "url": "https://www.youtube.com/watch?v=HzAiLlmNaAU",
+      "processed_at": "2026-08-13T10:20:58.916524",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NBIS",
+            "company_name": "Nebius",
+            "reason": "Nebius demonstrated exceptional execution with a 30% gain on the day following strong earnings. The company is capitalizing on short-term GPU contracts at premium pricing (40-50 million per megawatt annually), with payback periods of just one year and two months. The asset-light business model is particularly attractive, allowing margin expansion without taking on excessive debt like competitors. The company is showing strong demand for its services and has effectively positioned itself to benefit from the rapid AI infrastructure buildout. Management has demonstrated they can execute on their guidance, and the market is beginning to recognize the profitability of their business model.",
+            "when_to_buy": "Every dip should be bought according to the host; mentioned that anyone who bought at 232, 240s, or 250s is currently profitable",
+            "target_price": null,
+            "cautions": "Short float of 30% creates volatility; bear arguments focus on depreciation cycles and whether short-term contract premiums are sustainable long-term; Michael Burry shorted the stock heavily and is doubling down, which could create panic covering volatility"
+          },
+          {
+            "ticker": "CRWD",
+            "company_name": "Coreweave",
+            "reason": "Coreweave demonstrated strong fundamentals with a 19.6% gain on the day despite lower appreciation than Nebius. The company added 500 megawatts in one quarter (half a gigawatt), which is exceptional capacity expansion. They have proven ability to execute on major hyperscaler deals (Microsoft), delivering every tranche on time. The company is signing long-term contracts for A100 GPUs extending to 2029, proving chips can generate revenue for 9+ years rather than the feared 2-3 year depreciation cycle. Debt concerns are overblown as their 5-year contracts generate returns that eventually become highly profitable by year 3-4. The business model shows structural profitability with margin expansion as old contracts renew at higher prices.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Heavy debt load of 51 billion on enterprise value of approximately 100+ billion makes valuation appear expensive; market is currently valuing them below Nebius despite superior execution metrics; they have already doubled in valuation, so timing matters; less skilled marketing compared to Nebius may limit retail and Wall Street awareness"
+          },
+          {
+            "ticker": "COIN",
+            "company_name": "Coinbase (Robinhood)",
+            "reason": "Robinhood released monthly metrics showing options contracts up month-over-month from 318 to 324 million. Even with July being a historically weak quarter (Q3 tends to be toughest), the platform showed resilience. The host projects Q3 will be decent year-over-year despite weak monthly metrics. Options trading volume growth signals growing retail participation in markets.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "July metrics showed weakness across equities (down from 390 to 330) and crypto was 'abysmal'; daily average trading volumes were down 3% on options despite an extra trading day; net deposits were substantially down; assets under management declined by 15 billion; August results will be critical to confirm turnaround"
+          },
+          {
+            "ticker": "IRNT",
+            "company_name": "Irionics",
+            "reason": "Irionics is positioned as a potential AI infrastructure play with significant upside at 16 billion market cap versus larger competitors. The company has contracted power availability, which Jose identified as the biggest bottleneck in AI infrastructure buildout; any laws affecting new buildouts will likely grandfather in already-contracted power. Nvidia's backup commitment and exemplar status on B300 GPUs provides validation and potential customer pull-through. The company recently made an acquisition to expand beyond bare metal infrastructure into software solutions. At a small revenue base (145 million in AI revenue quarterly), margin expansion could be explosive if data center buildouts accelerate, potentially growing 300-400% similar to how Nebius grew. Jose views this as higher risk but with significant margin of safety at current valuation.",
+            "when_to_buy": "Jose mentioned buying at 12-13 billion market cap",
+            "target_price": null,
+            "cautions": "Semi-analysis ranks the company as 'do not recommend' with prior issues around computing availability and responsiveness to performance questions; this is the smallest and highest-risk among neo-cloud players; execution risk is significantly higher than Nebius or Coreweave; lacks the scale and proven track record of larger competitors; potential acquisition target rather than standalone business"
+          },
+          {
+            "ticker": "LRCX",
+            "company_name": "Lam Research",
+            "reason": "The semiconductor equipment market is experiencing strong tailwinds from the AI infrastructure buildout. While not explicitly recommended, the host noted this as a beneficiary of the data center buildout cycle with strong optics demand in bottlenecked areas like CPO (coherent pluggable optics).",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "No direct recommendation made; mentioned only as part of broader semiconductor equipment beneficiary commentary"
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms",
+            "reason": "Jose specifically highlighted Meta at $577 as attractive relative to the high beta AI infrastructure names that have already appreciated significantly. Given Meta's bullish AI model announcements and continued investment in AI capabilities, the stock appears undervalued compared to the excitement in the broader AI infrastructure space. Meta represents a way to gain AI exposure with less volatility than neo-cloud and semiconductor names.",
+            "when_to_buy": "Current levels around 577 were cited as attractive",
+            "target_price": null,
+            "cautions": "Meta received 'zero love' from the market despite bullish AI developments; down 3.3% on the day despite positive AI narrative; software names are generally taking a break after recent leadership"
+          },
+          {
+            "ticker": "CTAS",
+            "company_name": "Coherent",
+            "reason": "Coherent delivered a double beat on earnings with EPS beat of 7% (174 vs 162) and revenue beat of 3% (2.04B vs 1.98B). EPS grew 74% year-over-year and revenue grew 34% year-over-year. The company benefits from strong demand in photonics and optical solutions for AI data centers. Product mix is favorable with bottlenecked areas like CPO performing well. Networking and optical infrastructure are experiencing sustained demand from the AI infrastructure buildout.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Stock faded significantly after hours despite double beat, down 6%, suggesting market may be digesting valuation; double beat was deemed 'not the most impressive' by the host; broader semiconductor selloff after hours is weighing on the sector"
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "CSCO",
+            "company_name": "Cisco Systems",
+            "reason": "Despite delivering a double beat on earnings with EPS beat of 4% (122 vs 117) and revenue beat of 3% (17.2B vs 16.83B), with full-year guidance significantly above expectations and AI revenue guidance raised to 7.5 billion, the stock completely reversed from up 7% to down 2.4% after hours. This suggests the market is not impressed with the valuation at current levels despite strong fundamentals. Margins were noted as potentially underwhelming relative to expectations, which may be a concern for further upside.",
+            "risk": "Down 2.4% after hours despite strong earnings delivery"
+          },
+          {
+            "ticker": "CBRS",
+            "company_name": "Cerebras Systems",
+            "reason": "Cerebras delivered a double beat with revenue of 209M vs 193M expected and beat on EPS (negative 5 cents vs negative 8 cents expected) along with raising guidance for Q3 core revenue to 214-216M. However, operating expenses came in at 500M versus street expectations of 89M, representing massive cost inflation. The stock is down 14% after hours despite the beats, indicating the market is very concerned about the opex structure. The company is renting back capacity from customer G42 on short-term deals while signing long-term contracts, with guidance margin will 'snap back up' later. This suggests current margins are compressed and near-term profitability is uncertain.",
+            "risk": "Down 14% after hours despite double beat; massive opex miss signals operational challenges; margin compression concerns"
+          },
+          {
+            "ticker": "HOOD",
+            "company_name": "Robinhood Markets",
+            "reason": "Robinhood released July monthly metrics showing significant weakness across all trading categories. Equities volume declined from 390 to 330 (down 15%), crypto was described as 'abysmal', net deposits were 'substantially down', and assets declined 15 billion. While options grew to 324 from 318, this represents minimal growth and is below expectations when accounting for an extra trading day (ADTV down 3% on options). The July data suggests user engagement and platform usage are declining heading into what the host notes is typically the weakest quarter (Q3).",
+            "risk": "Substantial declines in key metrics; crypto weakness; down trading activity; uncertainty on August recovery"
+          },
+          {
+            "ticker": "NBRK",
+            "company_name": "Novabrink (if public)",
+            "reason": "No specific negative commentary provided, but the host mentioned NoBat battery company stock is down significantly from where it was previously (at $9 last seen), with hype dying down. The company was positioned as a premier battery manufacturer for headsets, but the Vision Pro did not achieve expected adoption, removing the primary use case.",
+            "risk": "Collapsed valuations due to failed product cycle (Vision Pro underperformance); hype driven gains have evaporated"
+          }
+        ],
+        "key_warnings": [
+          "Extreme volatility in AI infrastructure and semiconductor stocks: Nebius traded from $142 to $259 in 10 days; Coreweave traded from $60 to over $120; these 50-100% swings in matter of weeks are unsustainable and indicate a market that oscillates between extreme fear and extreme greed rather than following fundamentals. The market is treating AI infrastructure as a binary win/lose rather than understanding the underlying business models.",
+          "Michael Burry's massive short position in Nebius and his doubling down after 30% daily loss suggests potential for panic covering and short squeeze dynamics that could create false bottoms and tops. While Burry's track record warrants respect, his arguments about depreciation cycles and 'circular financing' appear to be losing credibility as the market reprices AI infrastructure stocks higher.",
+          "Circular financing concerns with Nvidia's $500 billion infrastructure commitment: While the host and guests are bullish, there is a structural risk that Nvidia is financing customers to buy Nvidia's chips, creating artificial demand. However, this is mitigated by the fact that Nvidia is taking on the risk via backstop guarantees rather than customers, and they have strong incentive to allocate capital wisely to maintain their legacy. Overallocation to weak players could create a bubble.",
+          "Market sentiment whiplash creates false signals: Within a week, the market moved from 'extremely fearful' to 'extremely greedy' based on the fear and greed index. This oscillation makes it difficult to identify genuine structural trends versus momentum-driven rallies. The neo-cloud players will likely experience further 30-50% drawdowns when sentiment reverses.",
+          "Margin of safety is critical: Most investors who bought during the July sell-offs now have cost bases significantly below current prices (Nebius at $142-150, Coreweave at $60), providing psychological comfort but not protecting against downside if demand disappoints. New buyers at $259 on Nebius and $120+ on Coreweave lack that margin of safety.",
+          "AI stock concentration risk: Software names (Meta, Microsoft, etc.) significantly underperformed while semis and infrastructure names soared. This rotation could reverse quickly if sentiment shifts, creating losses for those who rotated too aggressively into high-beta infrastructure names at valuations that assume perfect execution.",
+          "Regulatory and political risk: The hosts explicitly mentioned that AI and data centers are becoming extremely political themes. Potential regulatory changes, power grid constraints, environmental concerns, or geopolitical tensions (references to South Korea leverage) could rapidly de-rate these stocks.",
+          "Valuation dependency on execution: Neo-cloud players must continue delivering 50-100%+ growth and margin expansion for multiples to hold. Any miss on capacity buildout, customer concentration (OpenAI concentration at Cerebras), or pricing power could trigger sharp declines. The market is pricing in perfection."
+        ],
+        "tickers_mentioned": [
+          "NBIS",
+          "CRWD",
+          "NVDA",
+          "ORCL",
+          "CRWD",
+          "CSCO",
+          "CBRS",
+          "SPY",
+          "SMCI",
+          "META",
+          "MSFT",
+          "INTC",
+          "MU",
+          "HOOD",
+          "COIN",
+          "IRNT",
+          "SPLK",
+          "CTAS",
+          "CORY",
+          "LRCX",
+          "PHX",
+          "NBRK",
+          "NNE",
+          "PLTR",
+          "RKT",
+          "BLME",
+          "INFLECT",
+          "GLD",
+          "NFLX"
+        ]
+      },
+      "price_at_recommendation": {
+        "CSCO": 123.88,
+        "NBIS": 259.2,
+        "HOOD": 94.91,
+        "META": 578.85,
+        "LRCX": 326.11,
+        "COIN": 149.04,
+        "CRWD": 221.78,
+        "CTAS": 203.51,
+        "CBRS": 262.06
+      }
     }
   },
   "channel_ids": {

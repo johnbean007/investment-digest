@@ -16496,6 +16496,35 @@
         "CTAS": 203.51,
         "CBRS": 262.06
       }
+    },
+    "z4Ays4k3gu8": {
+      "channel": "FinTek",
+      "title": "Top Quantum Computing ETF",
+      "upload_date": "20260813",
+      "url": "https://www.youtube.com/watch?v=z4Ays4k3gu8",
+      "processed_at": "2026-08-13T17:45:33.230377",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "QTUM",
+            "company_name": "Defiance Quantum ETF",
+            "reason": "QTUM is a basket of quantum computing stocks that has had a good recent run, boosted to over $5 billion in assets following the administration's significant investment into quantum computing. The ETF provides access to companies that will benefit from disruptions that quantum computing could bring. It sits in the middle of the large growth category with relatively high volatility but also decent liquidity, allowing investors to enter and exit positions while gaining exposure to the quantum computing sector.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The ETF has relatively high volatility and will bounce up and down significantly, which presents timing and downside risk for investors."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "QTUM experiences high volatility as a large growth category ETF, meaning investors should be prepared for significant price swings despite having decent liquidity."
+        ],
+        "tickers_mentioned": [
+          "QTUM"
+        ]
+      },
+      "price_at_recommendation": {
+        "QTUM": 158.45
+      }
     }
   },
   "channel_ids": {

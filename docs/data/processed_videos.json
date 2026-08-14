@@ -16525,6 +16525,219 @@
       "price_at_recommendation": {
         "QTUM": 158.45
       }
+    },
+    "feZWLQ3m6Tg": {
+      "channel": "CouchInvestor",
+      "title": "Bill Ackman Just Bought 6 New Stocks",
+      "upload_date": "20260813",
+      "url": "https://www.youtube.com/watch?v=feZWLQ3m6Tg",
+      "processed_at": "2026-08-14T09:57:58.441757",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "V",
+            "company_name": "Visa",
+            "reason": "Visa is a dominant payment toll taker with attractive valuation and growth profile. Trading at 23x forward PE with expected 16% EPS compound annual growth rate over 3-5 years. Bill Ackman's thesis is that fears around stablecoins and AI agents are overblown\u2014stablecoins mostly compete outside card networks, AI agents should expand digital commerce rather than bypass the networks, and routing rate cap proposals that spooked the market have stalled. The business has minimal leverage, generates strong free cash flow, and is a predictable compounder.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "MA",
+            "company_name": "Mastercard",
+            "reason": "Mastercard operates similarly to Visa as a dominant payment toll taker with an attractive valuation and growth profile. Trading at 24x forward PE with expected 18% EPS compound annual growth rate over 3-5 years. The same thesis applies: fears about stablecoins and AI agents are overblown, the core business should expand with digital commerce, and routing rate cap proposal concerns have stalled. This is a high-quality compounder with strong competitive moats and free cash flow generation.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "NFLX",
+            "company_name": "Netflix",
+            "reason": "Netflix represents a re-entry position for Ackman after the stock fell approximately 50% from 2025 highs. The thesis focuses on the streaming wars being effectively won with 325 million subscribers, nearly double Disney Plus and HBO Max combined. Content spend has grown just 2% per year since 2021 while margins expanded from 21% to 31.5%, with 90% of earnings converting to free cash flow. Trading at 21x forward PE with 19% expected EPS CAGR over 3-5 years. Ackman views concerns about engagement and AI-generated video threats as overblown\u2014short-form video steals time from linear TV rather than Netflix, and long-form AI videos remain too compute intensive to threaten economics soon.",
+            "when_to_buy": null,
+            "target_price": "$77.32",
+            "cautions": "The creator slightly disagrees with Ackman's take that short-form video mostly steals from linear TV rather than Netflix. Past experience shows Ackman sold Netflix close to the bottom in 2022 when it dropped 40%, though it subsequently rallied significantly."
+          },
+          {
+            "ticker": "SPGI",
+            "company_name": "S&P Global",
+            "reason": "S&P Global represents a re-entry position previously held almost 10 years ago in 2017. The company operates oligopoly franchises in ratings, indices, and data platforms. Now trading at 19x forward PE down from 25x on an AI fear-driven selloff. Expected mid-20% earnings growth with targeted annualized returns implied in the analysis. Ackman views AI disintermediation fears as overstated and sees value in the current valuation.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The position is being re-entered after an AI-related selloff, suggesting sentiment around AI capabilities may be inflated."
+          },
+          {
+            "ticker": "ICE",
+            "company_name": "Intercontinental Exchange",
+            "reason": "Intercontinental Exchange is a 25-year compounder hit by fears about perpetual futures disrupting its exchange model. Trading at 17x forward PE, down from 25x, with 18% annualized returns since its 2015 IPO, which Ackman notes is excellent. The key thesis is that institutional traders drive around 95% of Intercontinental's volume and have little use for perpetuals, which lack intercontinental liquidity, fixed financing, centralized clearing, and risk protections. Ackman believes AI-related concerns about erosion in smaller data software segments are overblown, as are fears that newly approved crypto-style perpetual futures could disrupt exchange trading.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The stock fell 21% on fears that AI could erode smaller data software segments and that newly approved perpetual futures could disrupt exchange trading. These concerns may require monitoring."
+          },
+          {
+            "ticker": "ALC",
+            "company_name": "Alcon",
+            "reason": "Alcon is described as the world's first ophthalmology-focused franchise with an embedded FDA approval call option. Valuation compressed from the high 20s to around 18x earnings after a disappointing 2025 raised doubts about long-term targets. Ackman sees upside potential as margins currently around 20% have room to expand toward over 25%. Additionally, a phase three therapy offers underappreciated call option upside if it wins FDA approval. The creator assumes this is a very small position.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The position appears to be treated as a small, high-risk call option bet rather than a core holding. Past performance doubts and the need for FDA approval suggest significant execution risk. The call option structure means upside is speculative and dependent on regulatory approval."
+          },
+          {
+            "ticker": "UBER",
+            "company_name": "Uber Technologies",
+            "reason": "Existing holding in Ackman's portfolio trading flat year-to-date. Despite near-term stock weakness, earnings are on pace to grow around 35% this year. Ackman views the valuation as disconnected from fundamentals, with fears over autonomous vehicles and rocky regulatory relationships weighing on the stock. The underlying business fundamentals remain strong, making it attractive for long-term compounding.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Fear over autonomous vehicles and regulatory relationship challenges have weighed on the stock. Near-term sentiment is negative despite strong earnings growth."
+          },
+          {
+            "ticker": "MSFT",
+            "company_name": "Microsoft",
+            "reason": "Existing holding trading near its lowest multiple in a decade on AI disruption worries for Microsoft 365 and Azure. Ackman sees sustained high earnings growth from co-pilot adoption and supply constraints in Azure sustaining demand. Microsoft was purchased at a lower price than current levels. The company remains a high-quality compounder with strong competitive advantages.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Market concerns about AI disruption to Microsoft 365 and Azure have pressured valuation. These concerns should be monitored to ensure they remain overblown."
+          },
+          {
+            "ticker": "BRK.B",
+            "company_name": "Berkshire Hathaway (proxy: Brookfield)",
+            "reason": "Existing holding caught up in sector-wide fear about private credit and asset manager risk that Ackman believes don't really apply. Better distributable EPS growth is expected as carried interest realization accelerates. The company offers attractive value relative to its fundamentals.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Sector-wide fears about private credit and asset manager risk have pressured the stock, though Ackman believes these concerns are misplaced for this particular investment."
+          },
+          {
+            "ticker": "BRK",
+            "company_name": "Restaurant Brands International",
+            "reason": "Existing holding with improving operational metrics. Burger King's US same-store sales grew 7% and international business grew 6%, both ahead of peers. The company is on track for 8% profit growth while still trading at a discount to peers, suggesting valuation upside.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The creator notes he doesn't follow this company closely, suggesting less conviction or knowledge about it compared to other holdings."
+          },
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon",
+            "reason": "Existing holding showing strong momentum in core business segments. AWS revenue growth accelerated from around 20% to over 30% on AI demand, while retail unit volumes grew 15%, the fastest pace since 2021. Long-term over 20% earnings growth is expected. The company represents a high-quality Max 7 name with strong competitive advantages and growth tailwinds.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms",
+            "reason": "Existing holding viewed as one of AI's clearest beneficiaries despite being pressured by heavy AI capex. Ad growth is at its fastest pace since 2021 with over 20% earnings growth expected. Currently trading under $600 with strong fundamentals supporting long-term compounding. The creator is highly bullish on this position.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Heavy AI capital expenditure has pressured the stock near term, but this is viewed as a long-term investment in competitive advantage rather than a near-term drag."
+          },
+          {
+            "ticker": "HHH",
+            "company_name": "Howard Hughes Holdings",
+            "reason": "Ackman views this as a modern-day Berkshire Hathaway structure. Step one involves the real estate cash flow business generating estimated $2.5-3 billion excess cash over 3-5 years. This cash is redeployed into Vantage Insurance (acquired June). Insurers invest float before paying claims. Persian Square then invests Vantage's portfolio in high-quality stocks. New leadership from Arc Capital's former CO delivered 298% TSR (23.2% annualized) versus 144% for S&P over 7 years. A well-run insurer can be worth 2x book; HHH was acquired into Vantage at 1.4x book. Ackman earns 1.5% of any market cap rise above $67.67 reference price. If HHH grows 20% annually for 10 years, related fees could grow 20x.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The Berkshire Hathaway comparison is aspirational. Past success (Arc Capital's 23.2% annualized returns) does not guarantee future success. This represents a complex, multi-step strategy dependent on insurance operations, real estate cash flow, and capital deployment execution."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "AI fear-driven selloffs appear to have created valuation dislocations across multiple quality businesses. Multiple stocks mentioned (Microsoft, Netflix, S&P Global, Intercontinental Exchange) have been sold down on AI fears that Ackman and the creator view as overblown. Investors should carefully evaluate whether AI risks are genuine or sentiment-driven.",
+          "Call option bets like Alcon's phase three therapy should only be taken with proper position sizing and margin of safety. The creator notes that while these offer upside optionality, they require FDA approval and carry execution risk. Do not overweight these speculative positions.",
+          "The creator notes that every time a modern-day Berkshire Hathaway structure is claimed (as with Howard Hughes Holdings), it should be viewed with 'wait and see' skepticism. Complex multi-step strategies involving insurance float deployment carry execution risk across multiple moving parts."
+        ],
+        "tickers_mentioned": [
+          "V",
+          "MA",
+          "NFLX",
+          "SPGI",
+          "ICE",
+          "ALC",
+          "UBER",
+          "MSFT",
+          "BRK",
+          "AMZN",
+          "META",
+          "GOOGL",
+          "HHH",
+          "FNM",
+          "FMCC"
+        ]
+      },
+      "price_at_recommendation": {
+        "SPGI": 422.67,
+        "META": 594.97,
+        "MA": 567.04,
+        "V": 365.45,
+        "UBER": 75.88,
+        "ALC": 73.52,
+        "HHH": 67.71,
+        "MSFT": 496.88,
+        "ICE": 155.24,
+        "AMZN": 265.13,
+        "NFLX": 78.24
+      }
+    },
+    "AgfiTd3vxxw": {
+      "channel": "Jose Najarro Stocks",
+      "title": "CRWV NBIS IREN NEOCLOUD LIVE STREAM!!",
+      "upload_date": "20260814",
+      "url": "https://www.youtube.com/watch?v=AgfiTd3vxxw",
+      "processed_at": "2026-08-14T09:58:43.102445",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "CRWV",
+            "company_name": "Coreweave",
+            "reason": "Jose holds over 10% of his portfolio in Coreweave, representing his largest cost basis position ever. The primary thesis is that Coreweave has the closest partnership with Nvidia among neocloud players, being featured first on Nvidia's product release lists. Coreweave demonstrates massive scale buildout with 4.2 gigawatts of powered capacity, 1.5 gigawatts of powered land, and 1 gigawatt international (including 360 megawatt Indonesia expansion). The company has a $104.2 billion backlog with 50% already being delivered to customers and 40% of backlog ($40+ billion) deploying over next 24 months. Most critically, Coreweave proved the depreciation myth wrong by signing a three-year contract to resell A100 GPUs from 2020 at similar rates to original pricing, demonstrating 9+ year GPU lifespans and dramatically improving business model financials. New contracts signed are 5-10 percentage points higher in margin contribution than previously. The company deployed 500 megawatts in the most recent quarter\u2014more than any other neocloud competitor. Debt costs fell 300 basis points generating $1.1 billion in interest savings. Operating margins inflected positive at 1% and are expected to continue rising as the company transitions from buildout phase to revenue collection phase. Jose believes Coreweave is extremely undervalued even at all-time highs and would remain bullish if the stock multibags from current levels.",
+            "when_to_buy": "Jose bought aggressively when the stock was in the sub-$100 range and $90s in November/December of last year. He continues to add on dips below $90. He took some profits when the stock exceeded 20% of his portfolio allocation, trimming 3% of position to raise cash.",
+            "target_price": "Jose did not provide a price target but stated he believes the company is extremely undervalued and would be happy with multibags from current levels. He previously saw the stock run to $180 from IPO lows around $40s.",
+            "cautions": "Jose notes the massive debt the company is building but believes most will be paid out over time. The backlog growth may be moderating because Coreweave is at capacity limits for how much they can promise in the next 24 months\u2014they've already contracted 75% of fiscal 2027 revenue. Some customers may not want to wait 4 years for capacity and could seek alternatives. The company should provide better guidance on when they expect GAAP profitability, as analysts currently expect 2028. Operating margins are still low at 1%, though inflecting upward."
+          },
+          {
+            "ticker": "NBIS",
+            "company_name": "Nebius",
+            "reason": "Nate added Nebius to his portfolio and sees significant upside. The company beat earnings with 56-58% adjusted EBITDA margins in Q2 versus 24% in Q4, representing dramatic margin expansion. ARR grew from $1.9 billion in March to $3 billion in June (58% quarter-over-quarter growth). Most importantly, Nebius demonstrated it can command $40-50 million per megawatt rates on short-term auction deals for Vera Rubin capacity\u2014comparable to SpaceX pricing previously thought unique. The company has a 1-year, 10-month payback period on deployed capital. Nebius has 5 gigawatts of contracted power with 800 megawatts to 1 gigawatt expected fully revenue-generating by H2 2025. The company announced expansion into new markets (Estonia, UK, Wales partnerships with Vantage Data Centers on asset-light 150 megawatt facility, Finland expansion of 70 megawatts expected 2027). Management executes exceptionally well, sandbagging and beating guidance for six consecutive quarters. The company has diversified customer base beyond Meta and Microsoft, including potential Google contract rumors ($33 billion 5-year contract for Missouri facility currently in late-stage discussions). Vera Rubin short-term contracts and new asset-light model should dramatically improve margins. Nate believes Nebius could achieve profitability in 2027 versus his previous expectation of 2028+.",
+            "when_to_buy": "Nate bought a single share before appearing on the episode per a requirement. He notes the stock was at $140 at the time of discussion and has appreciated significantly since his purchase. The stock is up 183.5% year-to-date and 30% over the last 5 trading days.",
+            "target_price": null,
+            "cautions": "Nebius does not disclose active power deployed, only connected power\u2014a significant information gap for investors. The company is holding compute off market waiting for better pricing in 3-4 months, which while bullish for shareholders, may frustrate customers and create relationship strain if market dynamics shift. The Vineland, New Jersey data center faced a stop work order on August 10 citing missing approvals, though Nebius stated it remains on track. The company can operate under the stop order by paying $2,000/day fines, a rounding error for them, but delays could impact the 300 megawatt Vineland site expected to represent 3 of 9 billion ARR. Short-term auction pricing of $40-50 million per megawatt appears sustainable only for frontier AI labs, potentially limiting market size. The company may have benefited from exceptional market conditions and GPU scarcity that could normalize."
+          },
+          {
+            "ticker": "IREN",
+            "company_name": "Iren (Iron)",
+            "reason": "Jose recently became bullish on Iron due to several factors shifting the risk/reward profile. Nvidia's $3.6 billion+ backstop commitment signals confidence in Iron's ability to build GPU infrastructure and serve customers\u2014Jensen Huang would not backstop a company he believed would fail. Iron's AI revenue is nascent at only $33 million last quarter, meaning that even small market share gains in high-margin short-term contracts create massive growth vectors. The company has massive power assets already secured (no power constraint issue like other neocloud competitors), creating a natural moat. Iron announced two strategic acquisitions to strengthen European presence (Spain) and software stack, shifting from pure bare-metal play toward becoming a full neocloud competitor. The company is scaling aggressively\u2014targeting 480 megawatts active by end of 2024 and 1.2 gigawatts by end of 2027. Today Iron announced Horizon 1 delivery to Microsoft\u2014the first of four 50-megawatt tranches totaling a $9.7 billion contract. Iron recently received Nvidia GB300 and B300 exemplar status, validating their infrastructure capability. Nvidia is using Iron as a partnership option to offer customers who call asking for 1 gigawatt builds\u2014Nvidia can sell chips and direct them to Iron for hosting. The company trades at a significant valuation discount to Coreweave and Nebius despite similar growth trajectories. Management has shown willingness to admit mistakes (bare metal only strategy was wrong, hired marketing company) and course-correct, suggesting intellectual humility.",
+            "when_to_buy": "Jose has approximately 5% of his portfolio in Iron and is a recent bull. He has swing-traded the stock before and notes it deserves momentum plays. Entry point not specifically mentioned for new positions.",
+            "target_price": null,
+            "cautions": "Jose acknowledges Iron has approximately 18 months of execution risk to prove it can deliver on promises at scale. The company is new to the AI neocloud space versus Coreweave (established first player) and Nebius (decades of tech background). Management team is weaker than competitors\u2014Nate specifically cited concerns about management flip-flopping (initially said they didn't need sales team, then hired marketing company). Several analysts expect negative earnings for Q4 2024 and Q1 2025 due to massive losses from crypto business discounting. Iron will book almost no AI revenue in calendar Q2 and Q4 due to the contract structure (front-loaded Microsoft payments in Q1/Q3). The company's power advantage could be eroded if other players develop comparable resources. Execution risk on timeline acceleration claims and ability to win incremental short-term contracts beyond Microsoft deal remains unproven. Valuation discount versus peers may be justified given maturity and track record differences."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Texas power crisis: The video mentions pauses in Texas related to power constraints, though none of the three featured neocloud companies (Coreweave, Nebius, Iron) appear directly impacted. Coreweave and Iron have secured their power already; this could become a headwind for future expansion in the region.",
+          "Short seller attacks: Michael Burry and Martin Shkreli have issued shorts against neocloud players, specifically highlighting depreciation cycle concerns (claiming companies are using extended 5-year depreciation cycles accounting tricks). While the earnings calls addressed this, continued bear pressure may create volatility.",
+          "Bond market fears and macro uncertainty: The video references 'bond fears,' $500 billion and $250 billion packages being discussed, suggesting macro uncertainty that could impact financing availability for heavily leveraged neocloud companies like Coreweave.",
+          "Necloud player clustering around Vera Rubin: Multiple players are focusing capacity on Nvidia's Vera Rubin architecture for short-term high-margin deals. This creates consensus risk if Vera Rubin demand disappoints or pricing normalizes faster than expected.",
+          "GPU pricing and supply dynamics: The entire investment thesis depends on sustained GPU scarcity and pricing power. If Nvidia increases supply or next-generation chips become abundant faster than expected, margin assumptions across all three companies break down.",
+          "Financing risk for capital-intensive buildout: Coreweave particularly is carrying massive debt to fund 4+ gigawatts of infrastructure. While debt costs fell 300 basis points, rising rates could reverse this trend. A credit market seizure would impair all three companies' ability to finance expansion.",
+          "Customer concentration risk: Nebius has noted that Meta represents a significant portion of revenue ($70+ billion of their hyperscaler deals). Loss of or significant reduction from Meta would materially impact growth.",
+          "Vineland construction delays at Nebius: The New Jersey facility faced stop work orders; any extended delays beyond current expectations could impact 2025 revenue targets.",
+          "Market saturation risk: Roy noted that if Nebius, Coreweave, and other players all aggressively pursue short-term auction contracts at $40-50 million per megawatt rates, this pricing may only be sustainable for the next 4 quarters before normalization, creating a 'party while it lasts' dynamic."
+        ],
+        "tickers_mentioned": [
+          "CRWV",
+          "NBIS",
+          "IREN",
+          "NVDA",
+          "MSFT",
+          "META",
+          "APLD",
+          "VANTG"
+        ]
+      },
+      "price_at_recommendation": {
+        "CRWV": 106.29,
+        "NBIS": 255.04,
+        "IREN": 44.76
+      }
     }
   },
   "channel_ids": {

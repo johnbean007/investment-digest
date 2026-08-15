@@ -16738,6 +16738,203 @@
         "NBIS": 255.04,
         "IREN": 44.76
       }
+    },
+    "541z1_TbPhA": {
+      "channel": "CouchInvestor",
+      "title": "Best and Worst Earnings This Week. One Looks Like a Screaming Buy",
+      "upload_date": "20260814",
+      "url": "https://www.youtube.com/watch?v=541z1_TbPhA",
+      "processed_at": "2026-08-15T20:14:22.904103",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "DLOCL",
+            "company_name": "DLocal Limited",
+            "reason": "DLocal is a $4 billion profitable company with super quick growth operating in a huge market. TPV (Total Payment Volume) has accelerated for seven consecutive quarters above 50% growth, with this quarter increasing 92% year-over-year to $17.69 billion. The company is focused on TPV growth and dollar flow to the bottom line, not optimizing take rate. Record quarter for TPV, revenue, gross profit, and operating profit of $64 million with net income of $55 million up 28% year-over-year. TPV retention rate is 188% and net revenue retention is 153%. The company is raising guidance with TPV growth expected between 60-70% and gross profit between 25-30%. Despite excellent business performance, the stock is flat year-to-date with a PEG ratio of 0.8 and forward PE of 13.8, making it extremely undervalued. The creator believes it is a multi-bagger that will outperform in the future.",
+            "when_to_buy": "Current prices \u2014 stock is year-to-date flat despite exceptional results",
+            "target_price": "If it goes to 10x, 15x, or 20x over the next couple of years, that's a multi-bagger",
+            "cautions": "The market does not currently understand or reward the business model despite strong execution. There is a risk that the company remains undervalued for an extended period, though the creator suggests this could lead to a buyback, acquisition, or company going private if valuations don't improve."
+          },
+          {
+            "ticker": "NU",
+            "company_name": "Nu Holdings Co.",
+            "reason": "Nu reported its first quarter with net income above $1 billion, up 49% year-over-year, with return on equity at 33% (a record). Risk-adjusted NIM hit a record 12.4%, up 2.9 percentage points quarter-over-quarter. The company has 139 million customers (up 13% year-over-year), gross revenue of $5.9 billion (up 39% year-over-year), and an efficiency ratio of 19.5% versus 21.3% a year ago. In Mexico, they are already the largest digital bank with 16 million customers, broke even in six years (versus eight in Brazil), and serve 98% of municipalities with 78% outside major cities. The creator believes it is impossible to imagine how much longer this stays under a $100 billion market cap and expects this to be a $100 billion plus company in a couple of years. The company is well-run with strong execution and pure growth.",
+            "when_to_buy": "After strong earnings quarter when stock was rewarded, up close to 10%",
+            "target_price": "$100 billion plus market cap expected in couple of years (currently ~$73 billion)",
+            "cautions": "One-third of the risk-adjusted NIM improvement came from Desenrola (Brazil's government debt renegotiation program), which is a one-time boost and should not be expected to repeat. The 90-plus NPL rose to 6.9% from 6.5% due to intentional risk expansion into higher-risk, higher-return unsecured lending, not product deterioration. US entry credit models need 12-13 months to be as good as Brazil's models. The creator notes that P/E valuations have never been cheap, only less expensive than peers."
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms Inc.",
+            "reason": "Meta is trading under $600 and is extremely disrespected by the market, making it extremely attractive at current prices. The stock is down 3% for the week despite the market rallying. The creator bought more Meta today, indicating strong conviction. Meta has underperformed the broader market year-to-date but is extremely undervalued given the company's business fundamentals and AI investments. It represents one of the clearly misunderstood names where the market still doesn't understand the value proposition.",
+            "when_to_buy": "Under $600 per share",
+            "target_price": null,
+            "cautions": "The stock has underperformed the market year-to-date, suggesting there has been sustained selling pressure or market skepticism that may take time to resolve."
+          },
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Nvidia is a significant earnings report coming in September that will provide important market information. The creator expects Nvidia's earnings to have major market-moving implications alongside Oracle and other major tech names. The company should continue to report excellent growth, though the creator expects analysts to continually ask about future growth concerns beyond the current fiscal year.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Nvidia's stock is heavily analyzed and questioned by analysts who continually push for guidance beyond near-term growth periods. The creator notes that questions about long-term growth sustainability are valid but are being asked of all major tech companies, not just Nvidia."
+          },
+          {
+            "ticker": "MU",
+            "company_name": "Micron Technology Inc.",
+            "reason": "Micron is making its way back to $1,000 per share and could revisit all-time highs, possibly closer to earnings. The creator expects excellent growth to be reported and expects management to confirm that supply is nowhere close to demand through 2027. Micron is a defining earnings report in September that will provide critical information on semiconductor supply-demand dynamics. The creator is bullish on the company's prospects.",
+            "when_to_buy": "Current prices with potential to move higher toward all-time highs",
+            "target_price": "All-time highs revisit expected; currently at $1,000 per share level",
+            "cautions": "The creator expects analysts to ask difficult questions about 2028-2029 supply-demand dynamics that management may struggle to answer satisfactorily. Supply-demand balance is expected to tighten over time, which could eventually pressure pricing."
+          },
+          {
+            "ticker": "RUN",
+            "company_name": "Sunrun Inc.",
+            "reason": "Sunrun (I-RAN based on context) delivered Horizon 1 with the first 50 MW to Microsoft, which caused the stock to pop 10%. The stock is heavily shorted and did not move on the way up like Coreweave or Nebius, suggesting significant upside potential if earnings are strong. The creator expects that if they show good quarterly figures and demonstrate progress toward ARR targets through guidance, the stock could experience a major pop similar to Coreweave or Nebius in a single day. This is a hated neo-cloud name with significant short interest that could squeeze higher.",
+            "when_to_buy": "August 27th earnings report (coinciding with Nvidia earnings)",
+            "target_price": "Could see a huge pop if good earnings reported; short squeeze potential",
+            "cautions": "I-RAN shareholders currently hate the stock and it remains under significant pressure. Current quarter results likely won't suddenly generate hundreds of millions in revenue, but progress toward ARR targets and near-term guidance will be critical. The stock has not participated in the upside rally despite delivery milestone."
+          },
+          {
+            "ticker": "MSTR",
+            "company_name": "MicroStrategy Inc.",
+            "reason": "The creator mentions that Reddit popped in earnings season and discusses S&P 500 inclusion as a positive catalyst. The creator notes SoFi might get S&P 500 inclusion eventually. While not a direct buy recommendation, the creator discusses earnings season winners and market catalysts.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "APPL",
+            "company_name": "Apple Inc.",
+            "reason": "Apple is mentioned as a mature company that has experienced huge growth for many years. The creator uses Apple as an example of a company that has matured but continues to grow, similar to Netflix and YouTube. While not explicitly recommended to avoid, the creator implies that Apple's growth trajectory is mature and that expectations for continued triple-digit growth should be tempered relative to younger high-growth companies.",
+            "risk": null
+          },
+          {
+            "ticker": "TEAM",
+            "company_name": "Trade Desk",
+            "reason": "AppLovin is mentioned as a company that missed earnings last quarter but said the issue was already fixed. The creator compares this situation to Trade Desk as a worst-case scenario, implying Trade Desk had a similar miss-and-recovery story that created uncertainty.",
+            "risk": "Miss risk on earnings; may signal execution or guidance issues"
+          }
+        ],
+        "key_warnings": [
+          "High-beta AI and cloud names can experience massive one-day swings: The creator notes that high-flying names like Abuse, CoreWeave, and Nebius can drop 10% in one day or 20% in a couple of days. Nebius dropped 40% in a week just a couple of weeks ago. This is a reminder to not panic during downturns but also to expect continued volatility.",
+          "Market will eventually reduce big tech spending: The creator acknowledges that big tech companies will eventually reduce their AI and cloud spending, which will cause stocks to be hit across the board. However, this will also reveal the core profitability of these businesses at normal price-to-free-cash-flow multiples rather than the current 50x-200x valuations.",
+          "Analysts will continuously question growth sustainability: The creator notes that analysts and markets will perpetually ask 'what about growth in 2 years' or '3 years,' which is an unfair standard that could cause continued volatility even as companies execute well. This is a psychological market risk rather than a fundamental business risk.",
+          "Many quality companies are severely undervalued despite strong execution: DLocal, Nu Holdings, and Meta are all trading at significantly depressed levels despite excellent quarterly results, strong revenue growth, and record profitability metrics. If valuations don't improve, these companies risk being acquired or taken private, which could take years.",
+          "S&P 500 index inclusion is overstated as a catalyst: The creator notes that SoFi's potential S&P 500 inclusion is less important than AI data licensing deals for the company's long-term value. Index inclusion alone should not drive significant long-term value creation."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "ABUSE",
+          "COREWEAVE",
+          "NEBIUS",
+          "RUN",
+          "ORACLE",
+          "MU",
+          "BROADCOM",
+          "AMD",
+          "GOOGL",
+          "META",
+          "NFLX",
+          "APPL",
+          "UBER",
+          "DLOCL",
+          "NU",
+          "MELI",
+          "RDIT",
+          "SOFI",
+          "APPLOVIN"
+        ]
+      },
+      "price_at_recommendation": {
+        "NU": 15.23,
+        "RUN": 10.19,
+        "META": 589.85,
+        "NVDA": 225.16,
+        "TEAM": 162.22,
+        "MU": 971.66,
+        "MSTR": 93.04
+      }
+    },
+    "ak23EuPRu7Y": {
+      "channel": "Daniel Pronk",
+      "title": "These Are Best Hyperscalers to Buy Now - Full Analysis",
+      "upload_date": "20260814",
+      "url": "https://www.youtube.com/watch?v=ak23EuPRu7Y",
+      "processed_at": "2026-08-15T20:14:48.146739",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon",
+            "reason": "Amazon has the most durable advertising business, growing consistently through downturns. Its operating cash flow margin is at an all-time high of 20.81%, and it is adding the most incremental revenue to AWS on a quarterly basis despite being the largest cloud provider. Amazon's operating margin hit new highs, suggesting CapEx investments are paying off. The stock trades below its historical median price-to-operating-cash-flow of 14.6x at 13.7x, offering attractive valuation. The analyst's conservative DCF assumes only 20% annual operating cash flow growth (below analyst expectations) and a 20x price-to-operating-cash-flow multiple (well below the historical median of 25.3x), yet still projects 22.9% compounded annual growth over 3 years with a fair value of $371 and future stock price of $494. The business is highly diversified across multiple revenue streams (online stores, third-party sellers, AWS, advertising, subscriptions, physical stores), reducing risk compared to advertising-dependent peers.",
+            "when_to_buy": null,
+            "target_price": "$494 (3-year DCF projection)",
+            "cautions": "Amazon currently has negative free cash flow margin of -1.5% on a trailing 12-month basis and -4.4% in the most recent quarter due to aggressive CapEx spending, though management believes this investment will pay off with future growth."
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms",
+            "reason": "Meta has the fastest-growing advertising business, adding the most net advertising revenue over the past three quarters, indicating it is attracting the most new advertising dollars and demonstrating that CapEx investments are improving the core business. Meta's advertising revenue could become the largest in the world within a few quarters, overtaking Google. The stock trades at a forward price-to-operating-cash-flow of only 8.6x, which is about half of Microsoft and Google, and significantly below its historical median of 12.3x\u2014the largest discount relative to historical averages among all hyperscalers. Meta's revenue growth is the strongest at 28% year-over-year in the last quarter. The analyst's conservative DCF assumes only 15% annual operating cash flow growth (below the 20% analyst expectations) and a 14x price-to-operating-cash-flow multiple (below the historical median of 16.8x), yet projects 22.8% compounded annual growth over 3 years with a fair value of $827 and future stock price of approximately $1,100. The analyst has made Meta the third-largest position in their portfolio.",
+            "when_to_buy": null,
+            "target_price": "~$1,100 (3-year DCF projection)",
+            "cautions": "Meta's business is the least diversified of all hyperscalers, with 97.5% of revenue coming from advertising, making it highly dependent on the advertising market. Operating margins have declined over the past year from 44% to 39%, suggesting margin compression from CapEx spending and one-time expenses. Free cash flow margin is only slightly positive. If advertising slows or Meta loses competitive advantage in ads, the entire business could be significantly impacted. This higher risk justifies the discount to peers, though the creator believes the current discount is unjustifiably wide."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet (Google)",
+            "reason": "Google is the most expensive hyperscaler trading well above its historical valuation multiples. It trades at a forward price-to-operating-cash-flow of 17.6x versus its historical median of 14.7x, meaning it is trading significantly above its average price multiple. The analyst's DCF is the most optimistic of the group, assuming 20% annual operating cash flow growth (in line with 21% analyst expectations) and an 18x price-to-operating-cash-flow multiple (right at historical median), yet produces only 11% compounded annual growth over 3 years\u2014the lowest return projection of all four hyperscalers. Even if Google meets analyst expectations and trades at its historical median valuation, it offers far less upside than more conservatively valued peers like Amazon and Meta. Google Cloud, while growing at 82% year-over-year, has been boosted by TPU sales and is likely growing closer to 72% organically, not accelerating as much as AWS. The analyst is not buying Google at current prices.",
+            "risk": "Future stock price of $469 (3-year projection) implies limited upside from current levels despite meeting analyst expectations."
+          }
+        ],
+        "key_warnings": [
+          "All hyperscalers are experiencing declining free cash flow margins despite growing operating cash flows and operating margins. This is because they are all in aggressive CapEx cycles to build out cloud and AI infrastructure. While management believes this spending will drive future growth, the market is concerned about whether the CapEx will actually pay off. The creator argues that expanding operating margins and growing operating cash flows suggest the CapEx is working, but this remains a key execution risk.",
+          "Meta faces unique risk from revenue concentration: 97.5% of revenue comes from advertising, making it far more vulnerable to advertising market slowdowns or competitive threats compared to diversified peers like Amazon, Google, and Microsoft. However, the creator believes Meta's discount is unjustifiably wide relative to this risk.",
+          "Microsoft is taking a more conservative CapEx approach relative to peers (193% net CapEx growth since Q1 2024 vs. 248% for Google and ~230% for Amazon and Meta), which is preserving free cash flow (highest at 20%) but also limiting cloud acceleration. Azure is not seeing the same acceleration as AWS and Google Cloud, suggesting underinvestment could limit future cloud market share gains."
+        ],
+        "tickers_mentioned": [
+          "AMZN",
+          "META",
+          "GOOGL",
+          "MSFT"
+        ]
+      },
+      "price_at_recommendation": {
+        "META": 589.85,
+        "AMZN": 262.65,
+        "GOOGL": 345.9
+      }
+    },
+    "29WaH97AK9E": {
+      "channel": "FinTek",
+      "title": "Top Fintech Stock to BUY NOW",
+      "upload_date": "20260815",
+      "url": "https://www.youtube.com/watch?v=29WaH97AK9E",
+      "processed_at": "2026-08-15T20:14:59.443694",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NU",
+            "company_name": "Nubank",
+            "reason": "Nubank is a Brazilian fintech that is taking over the Latin American market with strong financial growth. The company has grown net income at 84% compounded over the past 5 years, improving from -45 million dollars to 871 million dollars in their most recent quarter. Nubank is the leading Brazilian financial institution with 31.5 million customers banking with the company. The creator believes there is still good value in the stock and personally owns 1,300 shares as a conviction holding.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": [
+          "NU"
+        ]
+      },
+      "price_at_recommendation": {
+        "NU": 15.23
+      }
     }
   },
   "channel_ids": {

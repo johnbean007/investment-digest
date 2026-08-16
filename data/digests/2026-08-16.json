@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T12:45:04.157172",
-  "video_count": 88,
+  "generated_at": "2026-08-16T13:52:53.703830",
+  "video_count": 89,
   "stock_count": 157,
   "stocks": [
     {
@@ -2546,9 +2546,9 @@
         "peg_ratio": 0.92,
         "revenue_growth": 0.337,
         "earnings_growth": null,
-        "free_cashflow": -1119810048,
+        "free_cashflow": -649981632,
         "profit_margins": 0.11309,
-        "debt_to_equity": 31.485,
+        "debt_to_equity": 31.612,
         "beta": 2.107,
         "short_percent": 0.0542,
         "dividend_yield": null,
@@ -2980,7 +2980,7 @@
         "ma200": 81.3,
         "ma_signal": "golden_cross",
         "pe_trailing": 30.2589,
-        "pe_forward": 21.752583,
+        "pe_forward": 21.67707,
         "peg_ratio": 2.22,
         "revenue_growth": 0.126,
         "earnings_growth": -0.135,
@@ -5478,7 +5478,7 @@
     {
       "ticker": "META",
       "company_name": "Meta Platforms",
-      "buy_count": 24,
+      "buy_count": 25,
       "avoid_count": 5,
       "first_mention_date": "17 Jul 2026",
       "price_at_first_mention": 646.01,
@@ -5833,6 +5833,19 @@
           "when_to_buy": null,
           "target_price": "~$1,100 (3-year DCF projection)",
           "cautions": "Meta's business is the least diversified of all hyperscalers, with 97.5% of revenue coming from advertising, making it highly dependent on the advertising market. Operating margins have declined over the past year from 44% to 39%, suggesting margin compression from CapEx spending and one-time expenses. Free cash flow margin is only slightly positive. If advertising slows or Meta loses competitive advantage in ads, the entire business could be significantly impacted. This higher risk justifies the discount to peers, though the creator believes the current discount is unjustifiably wide."
+        },
+        {
+          "channel": "Jose Najarro Stocks",
+          "title": "AI Compute Is Still Constrained \u2014 These 2 Stocks Could Win Big!!",
+          "url": "https://www.youtube.com/watch?v=WTnkYxSobS4",
+          "upload_date": "20260816",
+          "date_label": "16 Aug 2026",
+          "ticker": "META",
+          "company_name": "Meta Platforms",
+          "reason": "Meta is trading at a forward PE ratio of 18.4, which the creator believes is extremely cheap. The company generated $16.8 billion in the most recent quarter, up 28% year-over-year. The June quarter outperformed the December quarter, which is rare and indicates strong AI innovation ROI in their advertisement platform. Meta is investing heavily in AI infrastructure that improves content recommendations, increasing user engagement and ad monetization. Additionally, there is an opportunity for Meta to sell AI compute in the future, and Mark Zuckerberg believes there will be significant higher margins on selling intelligence rather than selling compute directly. The creator views Meta as an AI leader with high probability of success and low relative risk compared to other opportunities.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": "Meta's AI models used to underperform but are improving; there is risk associated with the large capital expenditure being deployed. The creator acknowledges this is not without risk, though the investment thesis remains compelling."
         }
       ],
       "avoids": [
@@ -7525,7 +7538,7 @@
         "free_cashflow": null,
         "profit_margins": 0.42728,
         "debt_to_equity": null,
-        "beta": null,
+        "beta": 0.942,
         "short_percent": 0.039100002,
         "dividend_yield": null,
         "analyst_buy": 20,
@@ -7570,7 +7583,7 @@
     {
       "ticker": "NVDA",
       "company_name": "Nvidia Corporation",
-      "buy_count": 14,
+      "buy_count": 15,
       "avoid_count": 0,
       "first_mention_date": "19 Jul 2026",
       "price_at_first_mention": 202.81,
@@ -7795,6 +7808,19 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": "Nvidia's stock is heavily analyzed and questioned by analysts who continually push for guidance beyond near-term growth periods. The creator notes that questions about long-term growth sustainability are valid but are being asked of all major tech companies, not just Nvidia."
+        },
+        {
+          "channel": "Jose Najarro Stocks",
+          "title": "AI Compute Is Still Constrained \u2014 These 2 Stocks Could Win Big!!",
+          "url": "https://www.youtube.com/watch?v=WTnkYxSobS4",
+          "upload_date": "20260816",
+          "date_label": "16 Aug 2026",
+          "ticker": "NVDA",
+          "company_name": "Nvidia Corporation",
+          "reason": "Nvidia is trading at a forward PE ratio of 22.59, far below the median of 34.59 over the past decade, making it extremely undervalued according to the creator. The market is punishing Nvidia based on beliefs that revenue growth will stop due to competition and custom ASICs, but the creator is bullish on continued growth. SpaceX alone is committed to Nvidia GPUs exclusively and is expected to build at least 5 gigawatts next year, which at $15 billion per gigawatt translates to approximately $250 billion in potential revenue from one customer. Even if Nvidia's revenue growth slows to single digits, the creator argues it remains a compelling buy at current valuations. Nvidia is eliminating hurdles in AI infrastructure deployment by creating financial partnerships with major banking institutions to improve financing terms for GPU purchases by arguing that GPUs are no longer depreciating assets\u2014they can hold value for 7-9 years. Nvidia's 13F shows its public investment portfolio has grown from $13 billion to $63.4 billion, with major positions in Intel (47.3%), SpaceX (33%), and CoreWeave (20%). The creator views Nvidia as having strong competitive moats given its track record with AI chips since 2000.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": "The creator notes that competition from AMD and companies building their own ASICs exist, though he does not view these as bearish catalysts. He also acknowledges Nvidia revised down its commitment to backing OpenAI's Ohio data center from $250 billion to $125 billion for the first phase, though he does not view this as a bearish flag."
         }
       ],
       "avoids": [],
@@ -7935,7 +7961,7 @@
         "debt_to_equity": 388.87,
         "beta": 1.718,
         "short_percent": 0.0292,
-        "dividend_yield": 1.28,
+        "dividend_yield": 1.33,
         "analyst_buy": 36,
         "analyst_hold": 6,
         "analyst_sell": 1,
@@ -10869,9 +10895,9 @@
         "peg_ratio": 1.03,
         "revenue_growth": 0.36,
         "earnings_growth": 0.774,
-        "free_cashflow": 739057991680,
+        "free_cashflow": 730826014720,
         "profit_margins": 0.49923,
-        "debt_to_equity": 15.174,
+        "debt_to_equity": 16.504,
         "beta": 1.258,
         "short_percent": 0.0069,
         "dividend_yield": 1.02,

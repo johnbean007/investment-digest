@@ -16935,6 +16935,50 @@
       "price_at_recommendation": {
         "NU": 15.23
       }
+    },
+    "WTnkYxSobS4": {
+      "channel": "Jose Najarro Stocks",
+      "title": "AI Compute Is Still Constrained \u2014 These 2 Stocks Could Win Big!!",
+      "upload_date": "20260816",
+      "url": "https://www.youtube.com/watch?v=WTnkYxSobS4",
+      "processed_at": "2026-08-16T13:45:38.384182",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms",
+            "reason": "Meta is trading at a forward PE ratio of 18.4, which the creator believes is extremely cheap. The company generated $16.8 billion in the most recent quarter, up 28% year-over-year. The June quarter outperformed the December quarter, which is rare and indicates strong AI innovation ROI in their advertisement platform. Meta is investing heavily in AI infrastructure that improves content recommendations, increasing user engagement and ad monetization. Additionally, there is an opportunity for Meta to sell AI compute in the future, and Mark Zuckerberg believes there will be significant higher margins on selling intelligence rather than selling compute directly. The creator views Meta as an AI leader with high probability of success and low relative risk compared to other opportunities.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Meta's AI models used to underperform but are improving; there is risk associated with the large capital expenditure being deployed. The creator acknowledges this is not without risk, though the investment thesis remains compelling."
+          },
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Nvidia is trading at a forward PE ratio of 22.59, far below the median of 34.59 over the past decade, making it extremely undervalued according to the creator. The market is punishing Nvidia based on beliefs that revenue growth will stop due to competition and custom ASICs, but the creator is bullish on continued growth. SpaceX alone is committed to Nvidia GPUs exclusively and is expected to build at least 5 gigawatts next year, which at $15 billion per gigawatt translates to approximately $250 billion in potential revenue from one customer. Even if Nvidia's revenue growth slows to single digits, the creator argues it remains a compelling buy at current valuations. Nvidia is eliminating hurdles in AI infrastructure deployment by creating financial partnerships with major banking institutions to improve financing terms for GPU purchases by arguing that GPUs are no longer depreciating assets\u2014they can hold value for 7-9 years. Nvidia's 13F shows its public investment portfolio has grown from $13 billion to $63.4 billion, with major positions in Intel (47.3%), SpaceX (33%), and CoreWeave (20%). The creator views Nvidia as having strong competitive moats given its track record with AI chips since 2000.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The creator notes that competition from AMD and companies building their own ASICs exist, though he does not view these as bearish catalysts. He also acknowledges Nvidia revised down its commitment to backing OpenAI's Ohio data center from $250 billion to $125 billion for the first phase, though he does not view this as a bearish flag."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "AI compute remains constrained for the foreseeable future. The creator cites the CEO of a new cloud company arguing that demand for AI compute will continue to exceed supply because software demand grows instantaneously while physical infrastructure (power, connections, concrete, steel, and labor) takes years to build. This structural constraint means whoever controls compute will benefit significantly.",
+          "Bears argue that by 2027-2028, massive capex spending will lead to data center oversupply and AI infrastructure bubble risks. However, the creator presents the counterargument that better AI capabilities create new use cases and cheaper AI gets deployed more widely, perpetuating demand growth beyond simple supply expansion."
+        ],
+        "tickers_mentioned": [
+          "META",
+          "NVDA",
+          "AMD",
+          "INTC",
+          "F",
+          "AAL"
+        ]
+      },
+      "price_at_recommendation": {
+        "NVDA": 225.16,
+        "META": 589.85
+      }
     }
   },
   "channel_ids": {

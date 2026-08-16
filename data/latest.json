@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T10:35:44.731743",
+  "generated_at": "2026-08-16T11:41:25.845321",
   "video_count": 88,
   "stock_count": 157,
   "stocks": [
@@ -395,7 +395,7 @@
         "debt_to_equity": 24.537,
         "beta": 0.693,
         "short_percent": null,
-        "dividend_yield": 0.49,
+        "dividend_yield": 0.48,
         "analyst_buy": 22,
         "analyst_hold": 3,
         "analyst_sell": 1,
@@ -10574,7 +10574,7 @@
         "peg_ratio": 1.7,
         "revenue_growth": 0.276,
         "earnings_growth": null,
-        "free_cashflow": 1510031104,
+        "free_cashflow": 1655499904,
         "profit_margins": -0.00819,
         "debt_to_equity": 116.483,
         "beta": 1.038,

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-16T13:52:53.703830",
-  "video_count": 89,
-  "stock_count": 157,
+  "generated_at": "2026-08-17T09:39:04.191646",
+  "video_count": 86,
+  "stock_count": 152,
   "stocks": [
     {
       "ticker": "AAOI",
@@ -645,11 +645,11 @@
     {
       "ticker": "AMZN",
       "company_name": "Amazon",
-      "buy_count": 17,
+      "buy_count": 15,
       "avoid_count": 3,
-      "first_mention_date": "17 Jul 2026",
-      "price_at_first_mention": 248.38,
-      "pct_change_since_rec": 5.7,
+      "first_mention_date": "18 Jul 2026",
+      "price_at_first_mention": 247.23,
+      "pct_change_since_rec": 6.2,
       "market": {
         "ticker": "AMZN",
         "name": "Amazon.com, Inc.",
@@ -689,45 +689,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "Daniel Pronk",
-          "title": "Why I Don't Invest in the S&P 500 #ad #customindexing #stocks",
-          "url": "https://www.youtube.com/watch?v=F0hC9Bow6Do",
-          "upload_date": "20260717",
-          "date_label": "17 Jul 2026",
-          "ticker": "AMZN",
-          "company_name": "Amazon",
-          "reason": "Included in the creator's Fortress Index, which is an equally weighted index of 33 durable companies with wide moats that have a high likelihood of growing for decades. Amazon is presented as a company the creator wants to own in their portfolio.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": null
-        },
-        {
-          "channel": "Daniel Pronk",
-          "title": "Why I Don't Invest in the S&P 500 #ad #customindexing #stocks",
-          "url": "https://www.youtube.com/watch?v=0HNPPi9HZTg",
-          "upload_date": "20260717",
-          "date_label": "17 Jul 2026",
-          "ticker": "AMZN",
-          "company_name": "Amazon",
-          "reason": "Included in the creator's Fortress Index, which is an equally weighted index of 33 durable companies with wide moats that have a high likelihood of growing for decades. Amazon was explicitly listed as one of the stocks the creator has chosen to own.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": null
-        },
-        {
-          "channel": "CouchInvestor",
-          "title": "The Best Buying Opportunity I've Seen in Months Is Hiding Here",
-          "url": "https://www.youtube.com/watch?v=V2Vh0Z2iucM",
-          "upload_date": "20260717",
-          "date_label": "17 Jul 2026",
-          "ticker": "AMZN",
-          "company_name": "Amazon",
-          "reason": "The creator identifies Amazon as one of the hyperscalers with significant capital resources to pick up distressed companies and invest strategically, suggesting it's a defensive play in potential market downturns.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": null
-        },
         {
           "channel": "Daniel Pronk",
           "title": "Larry Fink Explains Why Hyperscaler Stocks Will Go Higher",
@@ -909,6 +870,19 @@
           "when_to_buy": null,
           "target_price": "$494 (3-year DCF projection)",
           "cautions": "Amazon currently has negative free cash flow margin of -1.5% on a trailing 12-month basis and -4.4% in the most recent quarter due to aggressive CapEx spending, though management believes this investment will pay off with future growth."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Called This Stock Too Cheap to Ignore. So I Bought It",
+          "url": "https://www.youtube.com/watch?v=hBgzwrzUcSQ",
+          "upload_date": "20260816",
+          "date_label": "16 Aug 2026",
+          "ticker": "AMZN",
+          "company_name": "Amazon",
+          "reason": "Creator describes Amazon as 'one of the best companies on the planet' and calls it a 'no-brainer name right now, extremely undervalued.' Stock is holding above $245 support level and currently at $262 per share.",
+          "when_to_buy": "Current levels; creator views it as undervalued",
+          "target_price": null,
+          "cautions": "Stock may test support area around $250 in near term but creator is not concerned given quality of business."
         }
       ],
       "avoids": [
@@ -1271,31 +1245,6 @@
       "description": "Licenses CPU and GPU intellectual property to semiconductor companies"
     },
     {
-      "ticker": "ASAI",
-      "company_name": "Asai (Delivery Hero subsidiary/competitor)",
-      "buy_count": 0,
-      "avoid_count": 1,
-      "first_mention_date": "17 Jul 2026",
-      "price_at_first_mention": null,
-      "pct_change_since_rec": null,
-      "market": null,
-      "buys": [],
-      "avoids": [
-        {
-          "channel": "CouchInvestor",
-          "title": "The Best Buying Opportunity I've Seen in Months Is Hiding Here",
-          "url": "https://www.youtube.com/watch?v=V2Vh0Z2iucM",
-          "upload_date": "20260717",
-          "date_label": "17 Jul 2026",
-          "ticker": "ASAI",
-          "company_name": "Asai (Delivery Hero subsidiary/competitor)",
-          "reason": "The creator finds Asai super expensive today, noting it doesn't generate much revenue and has significant execution risk. Although down substantially from its $133 per share high, the creator argues it shouldn't have been worth that much in the first place and remains overvalued even after the decline. The company claims 60 partners and 3 billion subscribers as addressable market, but the creator dismisses these numbers as meaningless, noting that most urban subscribers don't need satellite connectivity and wouldn't pay $10-15 extra per month for it.",
-          "risk": "Downside risk remains significant despite 50%+ decline from highs"
-        }
-      ],
-      "description": "Operates online food delivery platform in Latin America"
-    },
-    {
       "ticker": "ASML",
       "company_name": "ASML Holding N.V.",
       "buy_count": 4,
@@ -1323,7 +1272,7 @@
         "ma200": 1424.46,
         "ma_signal": "golden_cross",
         "pe_trailing": 62.89495,
-        "pe_forward": 31.09138,
+        "pe_forward": 31.023329,
         "peg_ratio": 2.22,
         "revenue_growth": 0.213,
         "earnings_growth": 0.285,
@@ -1336,8 +1285,8 @@
         "analyst_buy": 38,
         "analyst_hold": 5,
         "analyst_sell": 1,
-        "analyst_target": 2176.09,
-        "analyst_upside_pct": 18.0,
+        "analyst_target": 2183.93,
+        "analyst_upside_pct": 18.4,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -1439,8 +1388,8 @@
         "analyst_buy": 17,
         "analyst_hold": 0,
         "analyst_sell": 0,
-        "analyst_target": 310.06,
-        "analyst_upside_pct": 24.8,
+        "analyst_target": 311.18,
+        "analyst_upside_pct": 25.2,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -1690,10 +1639,10 @@
     },
     {
       "ticker": "AXON",
-      "company_name": "Axon Enterprise",
+      "company_name": "Axon Enterprise Inc.",
       "buy_count": 4,
       "avoid_count": 0,
-      "first_mention_date": "17 Jul 2026",
+      "first_mention_date": "20 Jul 2026",
       "price_at_first_mention": 510.28,
       "pct_change_since_rec": 20.1,
       "market": {
@@ -1737,19 +1686,6 @@
       "buys": [
         {
           "channel": "CouchInvestor",
-          "title": "The Best Buying Opportunity I've Seen in Months Is Hiding Here",
-          "url": "https://www.youtube.com/watch?v=V2Vh0Z2iucM",
-          "upload_date": "20260717",
-          "date_label": "17 Jul 2026",
-          "ticker": "AXON",
-          "company_name": "Axon Enterprise",
-          "reason": "The creator bought Axon at $400 and it appreciated to $600-640, now back at $500. The company is still doing well and making deals. However, the creator is cautious about the rapid appreciation being unjustified, though he remains positive on the long-term business quality.",
-          "when_to_buy": "The creator would prefer re-entry in the $400s rather than at $500, suggesting it's not a strong buy at current levels relative to other opportunities",
-          "target_price": null,
-          "cautions": "The creator believes Axon became very expensive at $600-640 levels. Other names like Meta, Nebius, and Sofi are more attractive at current prices relative to Axon at $500."
-        },
-        {
-          "channel": "CouchInvestor",
           "title": "I Bought These 2 Stocks Again During the Crash. Here's Why",
           "url": "https://www.youtube.com/watch?v=Mo-a1KqTWBE",
           "upload_date": "20260720",
@@ -1786,6 +1722,19 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": null
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Called This Stock Too Cheap to Ignore. So I Bought It",
+          "url": "https://www.youtube.com/watch?v=hBgzwrzUcSQ",
+          "upload_date": "20260816",
+          "date_label": "16 Aug 2026",
+          "ticker": "AXON",
+          "company_name": "Axon Enterprise",
+          "reason": "Stock recovered back above $612 per share and is in a good technical area. Creator views this as opportunity to establish or maintain position if it holds above $600 support level.",
+          "when_to_buy": "If it holds $600 support level; currently above $612",
+          "target_price": null,
+          "cautions": "Creator describes this as 'definitely an expensive name to own right now' and notes pullback 'unfortunately did not last that long.' Only looking to add if it pulls back below $600."
         }
       ],
       "avoids": [],
@@ -1832,8 +1781,8 @@
         "analyst_buy": 38,
         "analyst_hold": 2,
         "analyst_sell": 1,
-        "analyst_target": 189.61,
-        "analyst_upside_pct": 53.1,
+        "analyst_target": 189.74,
+        "analyst_upside_pct": 53.2,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -2219,7 +2168,7 @@
         "ma200": 302.07,
         "ma_signal": "death_cross",
         "pe_trailing": 27.614859,
-        "pe_forward": 21.205683,
+        "pe_forward": 21.171911,
         "peg_ratio": 3.74,
         "revenue_growth": 0.23,
         "earnings_growth": -0.468,
@@ -2876,160 +2825,6 @@
       "description": null
     },
     {
-      "ticker": "COST",
-      "company_name": "Costco",
-      "buy_count": 2,
-      "avoid_count": 0,
-      "first_mention_date": "17 Jul 2026",
-      "price_at_first_mention": 946.59,
-      "pct_change_since_rec": 1.5,
-      "market": {
-        "ticker": "COST",
-        "name": "Costco Wholesale Corporation",
-        "currency": "USD",
-        "sector": "Consumer Defensive",
-        "industry": "Discount Stores",
-        "market_cap": 426227466240,
-        "current_price": 961.1,
-        "daily_change_pct": -0.08,
-        "month_change_pct": 5.03,
-        "week52_high": 1096.5,
-        "week52_high_date": "19 May 2026",
-        "week52_low": 844.06,
-        "week52_low_date": "16 Dec 2025",
-        "rsi": 55.7,
-        "rsi_label": "neutral",
-        "ma50": 949.55,
-        "ma200": 955.81,
-        "ma_signal": "death_cross",
-        "pe_trailing": 48.320763,
-        "pe_forward": 42.41705,
-        "peg_ratio": 4.66,
-        "revenue_growth": 0.215,
-        "earnings_growth": 0.455,
-        "free_cashflow": 6954375168,
-        "profit_margins": 0.0301,
-        "debt_to_equity": 60.257,
-        "beta": 0.86,
-        "short_percent": 0.0173,
-        "dividend_yield": 0.61,
-        "analyst_buy": 22,
-        "analyst_hold": 13,
-        "analyst_sell": 2,
-        "analyst_target": 1077.31,
-        "analyst_upside_pct": 12.1,
-        "earnings_date": null,
-        "earnings_days": null
-      },
-      "buys": [
-        {
-          "channel": "Daniel Pronk",
-          "title": "Why I Don't Invest in the S&P 500 #ad #customindexing #stocks",
-          "url": "https://www.youtube.com/watch?v=F0hC9Bow6Do",
-          "upload_date": "20260717",
-          "date_label": "17 Jul 2026",
-          "ticker": "COST",
-          "company_name": "Costco",
-          "reason": "Included in the creator's Fortress Index, which is an equally weighted index of 33 durable companies with wide moats that have a high likelihood of growing for decades. Costco is presented as a company the creator wants to own in their portfolio.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": null
-        },
-        {
-          "channel": "Daniel Pronk",
-          "title": "Why I Don't Invest in the S&P 500 #ad #customindexing #stocks",
-          "url": "https://www.youtube.com/watch?v=0HNPPi9HZTg",
-          "upload_date": "20260717",
-          "date_label": "17 Jul 2026",
-          "ticker": "COST",
-          "company_name": "Costco Wholesale Corporation",
-          "reason": "Included in the creator's Fortress Index, which is an equally weighted index of 33 durable companies with wide moats that have a high likelihood of growing for decades. Costco was explicitly listed as one of the stocks the creator has chosen to own.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": null
-        }
-      ],
-      "avoids": [],
-      "description": "Operates membership warehouse clubs selling merchandise and groceries"
-    },
-    {
-      "ticker": "CP",
-      "company_name": "Canadian Pacific Railway",
-      "buy_count": 2,
-      "avoid_count": 0,
-      "first_mention_date": "17 Jul 2026",
-      "price_at_first_mention": 93.34,
-      "pct_change_since_rec": 0.2,
-      "market": {
-        "ticker": "CP",
-        "name": "Canadian Pacific Kansas City Li",
-        "currency": "USD",
-        "sector": "Industrials",
-        "industry": "Railroads",
-        "market_cap": 82193907712,
-        "current_price": 93.5,
-        "daily_change_pct": -0.45,
-        "month_change_pct": 3.35,
-        "week52_high": 94.66,
-        "week52_high_date": "14 Aug 2026",
-        "week52_low": 68.42,
-        "week52_low_date": "06 Nov 2025",
-        "rsi": 59.9,
-        "rsi_label": "neutral",
-        "ma50": 89.75,
-        "ma200": 81.3,
-        "ma_signal": "golden_cross",
-        "pe_trailing": 30.2589,
-        "pe_forward": 21.67707,
-        "peg_ratio": 2.22,
-        "revenue_growth": 0.126,
-        "earnings_growth": -0.135,
-        "free_cashflow": 2181374976,
-        "profit_margins": 0.25031,
-        "debt_to_equity": 52.822,
-        "beta": 1.219,
-        "short_percent": 0.0207,
-        "dividend_yield": 0.76,
-        "analyst_buy": 23,
-        "analyst_hold": 4,
-        "analyst_sell": 1,
-        "analyst_target": 100.99,
-        "analyst_upside_pct": 8.0,
-        "earnings_date": null,
-        "earnings_days": null
-      },
-      "buys": [
-        {
-          "channel": "Daniel Pronk",
-          "title": "Why I Don't Invest in the S&P 500 #ad #customindexing #stocks",
-          "url": "https://www.youtube.com/watch?v=F0hC9Bow6Do",
-          "upload_date": "20260717",
-          "date_label": "17 Jul 2026",
-          "ticker": "CP",
-          "company_name": "Canadian Pacific Railway",
-          "reason": "Included in the creator's Fortress Index, which is an equally weighted index of 33 durable companies with wide moats that have a high likelihood of growing for decades. CP Rail is presented as a company the creator wants to own in their portfolio.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": null
-        },
-        {
-          "channel": "Daniel Pronk",
-          "title": "Why I Don't Invest in the S&P 500 #ad #customindexing #stocks",
-          "url": "https://www.youtube.com/watch?v=0HNPPi9HZTg",
-          "upload_date": "20260717",
-          "date_label": "17 Jul 2026",
-          "ticker": "CP",
-          "company_name": "Canadian Pacific Railway Limited",
-          "reason": "Included in the creator's Fortress Index, which is an equally weighted index of 33 durable companies with wide moats that have a high likelihood of growing for decades. CP Rail was explicitly listed as one of the stocks the creator has chosen to own.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": null
-        }
-      ],
-      "avoids": [],
-      "description": "Operates transcontinental freight railway in Canada, United States, and Mexico"
-    },
-    {
       "ticker": "CRWD",
       "company_name": "CrowdStrike Holdings",
       "buy_count": 4,
@@ -3300,7 +3095,7 @@
         "industry": "Specialty Business Services",
         "market_cap": 79841837056,
         "current_price": 199.52,
-        "daily_change_pct": -0.33,
+        "daily_change_pct": -0.59,
         "month_change_pct": 3.99,
         "week52_high": 219.87,
         "week52_high_date": "15 Aug 2025",
@@ -3477,7 +3272,7 @@
     {
       "ticker": "DLOCL",
       "company_name": "DLocal Limited",
-      "buy_count": 1,
+      "buy_count": 2,
       "avoid_count": 0,
       "first_mention_date": "14 Aug 2026",
       "price_at_first_mention": null,
@@ -3496,6 +3291,19 @@
           "when_to_buy": "Current prices \u2014 stock is year-to-date flat despite exceptional results",
           "target_price": "If it goes to 10x, 15x, or 20x over the next couple of years, that's a multi-bagger",
           "cautions": "The market does not currently understand or reward the business model despite strong execution. There is a risk that the company remains undervalued for an extended period, though the creator suggests this could lead to a buyback, acquisition, or company going private if valuations don't improve."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Called This Stock Too Cheap to Ignore. So I Bought It",
+          "url": "https://www.youtube.com/watch?v=hBgzwrzUcSQ",
+          "upload_date": "20260816",
+          "date_label": "16 Aug 2026",
+          "ticker": "DLOCL",
+          "company_name": "dLocal Limited",
+          "reason": "Creator believes dLocal is 'fairly valued, if not undervalued' with potential to become a '$100 company in the future.' Company had 'a very good quarter' and is now above the previous support/resistance area. Creator increased position by 7.18% at $14.27. Stock closed above $15 with momentum to challenge $18.",
+          "when_to_buy": "Recent addition at $14.27 per share; above support at $15",
+          "target_price": "$100 per share in the future; near-term target $16-18",
+          "cautions": "Stock needs to maintain momentum above $15 to challenge $16 and $18 levels."
         }
       ],
       "avoids": [],
@@ -3950,12 +3758,12 @@
     },
     {
       "ticker": "GOOGL",
-      "company_name": "Google/Alphabet",
-      "buy_count": 16,
+      "company_name": "Alphabet Inc.",
+      "buy_count": 14,
       "avoid_count": 7,
-      "first_mention_date": "17 Jul 2026",
-      "price_at_first_mention": 346.2,
-      "pct_change_since_rec": -0.1,
+      "first_mention_date": "18 Jul 2026",
+      "price_at_first_mention": 346.77,
+      "pct_change_since_rec": -0.3,
       "market": {
         "ticker": "GOOGL",
         "name": "Alphabet Inc.",
@@ -3995,45 +3803,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "Daniel Pronk",
-          "title": "Why I Don't Invest in the S&P 500 #ad #customindexing #stocks",
-          "url": "https://www.youtube.com/watch?v=F0hC9Bow6Do",
-          "upload_date": "20260717",
-          "date_label": "17 Jul 2026",
-          "ticker": "GOOGL",
-          "company_name": "Google/Alphabet",
-          "reason": "Included in the creator's Fortress Index, which is an equally weighted index of 33 durable companies with wide moats that have a high likelihood of growing for decades. Google is presented as a company the creator wants to own in their portfolio.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": null
-        },
-        {
-          "channel": "Daniel Pronk",
-          "title": "Why I Don't Invest in the S&P 500 #ad #customindexing #stocks",
-          "url": "https://www.youtube.com/watch?v=0HNPPi9HZTg",
-          "upload_date": "20260717",
-          "date_label": "17 Jul 2026",
-          "ticker": "GOOGL",
-          "company_name": "Alphabet Inc. (Google)",
-          "reason": "Included in the creator's Fortress Index, which is an equally weighted index of 33 durable companies with wide moats that have a high likelihood of growing for decades. Google was explicitly listed as one of the stocks the creator has chosen to own.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": null
-        },
-        {
-          "channel": "CouchInvestor",
-          "title": "The Best Buying Opportunity I've Seen in Months Is Hiding Here",
-          "url": "https://www.youtube.com/watch?v=V2Vh0Z2iucM",
-          "upload_date": "20260717",
-          "date_label": "17 Jul 2026",
-          "ticker": "GOOGL",
-          "company_name": "Alphabet Inc.",
-          "reason": "The creator mentions Google as one of the hyperscalers that has the financial resources to acquire or invest in struggling companies. Google is down 2.7% at the time of recording. For those without sufficient exposure, the creator suggests it's worth considering given the company's capital and strategic position.",
-          "when_to_buy": "Current market dip; down 2.7% at recording time",
-          "target_price": null,
-          "cautions": null
-        },
         {
           "channel": "Daniel Pronk",
           "title": "Larry Fink Explains Why Hyperscaler Stocks Will Go Higher",
@@ -4202,6 +3971,19 @@
           "when_to_buy": "Current levels near $354.30 (class A)",
           "target_price": null,
           "cautions": null
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Called This Stock Too Cheap to Ignore. So I Bought It",
+          "url": "https://www.youtube.com/watch?v=hBgzwrzUcSQ",
+          "upload_date": "20260816",
+          "date_label": "16 Aug 2026",
+          "ticker": "GOOGL",
+          "company_name": "Alphabet",
+          "reason": "Alphabet is sitting around $345-346, right at the 100-day moving average support line. If it can hold this area for the next couple days, this becomes new support and stock can attempt to move back to $350-360 range.",
+          "when_to_buy": "Support level at $345-346 per share",
+          "target_price": "$350-360 per share",
+          "cautions": "Stock needs to hold support level of 100-day moving average for this to work as base for next move higher."
         }
       ],
       "avoids": [
@@ -5480,7 +5262,7 @@
       "company_name": "Meta Platforms",
       "buy_count": 25,
       "avoid_count": 5,
-      "first_mention_date": "17 Jul 2026",
+      "first_mention_date": "18 Jul 2026",
       "price_at_first_mention": 646.01,
       "pct_change_since_rec": -8.7,
       "market": {
@@ -5522,19 +5304,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "CouchInvestor",
-          "title": "The Best Buying Opportunity I've Seen in Months Is Hiding Here",
-          "url": "https://www.youtube.com/watch?v=V2Vh0Z2iucM",
-          "upload_date": "20260717",
-          "date_label": "17 Jul 2026",
-          "ticker": "META",
-          "company_name": "Meta Platforms",
-          "reason": "The creator considers Meta extremely undervalued. Meta is hiring Dave Brown, a senior AWS computing infrastructure executive, as it expands data center buildout and weighs a cloud push. The company is also in talks to lease computing power to Anthropic in a potential $10 billion deal, which the creator views positively as a way to monetize excess compute while funding further data center expansion. The creator believes most of Meta's compute capacity will be used internally to improve recommendation systems and advertising quality, which drives time spent on Meta apps and advertising revenue. The company is well-positioned with massive data center investments and strategic partnerships with hyperscalers.",
-          "when_to_buy": "Current market dip; down 2.7% at time of video recording",
-          "target_price": null,
-          "cautions": "The creator notes Meta is still 2-5% from all-time highs, which some investors use as a caution signal, but the creator dismisses this as irrelevant to stock selection."
-        },
         {
           "channel": "Daniel Pronk",
           "title": "Larry Fink Explains Why Hyperscaler Stocks Will Go Higher",
@@ -5846,6 +5615,19 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": "Meta's AI models used to underperform but are improving; there is risk associated with the large capital expenditure being deployed. The creator acknowledges this is not without risk, though the investment thesis remains compelling."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Called This Stock Too Cheap to Ignore. So I Bought It",
+          "url": "https://www.youtube.com/watch?v=hBgzwrzUcSQ",
+          "upload_date": "20260816",
+          "date_label": "16 Aug 2026",
+          "ticker": "META",
+          "company_name": "Meta Platforms",
+          "reason": "Creator describes Meta as 'extremely undervalued' despite the market being close to all-time highs. The stock needs to break above and stay above $600 per share as a key technical level. Two major catalysts are expected: announcement of their next big model called 'watermelon' which is described as 'headline-wise very good and super competitive', and selling compute/GPUs which the creator believes could cause the stock to 'pop' to $700 in a matter of a day or two. Creator increased position by 5.88% at $591.",
+          "when_to_buy": "On pullbacks; creator just added at $591 per share",
+          "target_price": "$650 to $700 per share after breaking above $600 resistance",
+          "cautions": "Stock is struggling to break above and stay above the $600 level. Currently trading at $589 and needs to close a week above $600 first."
         }
       ],
       "avoids": [
@@ -6297,7 +6079,7 @@
     {
       "ticker": "MSTR",
       "company_name": "MicroStrategy",
-      "buy_count": 1,
+      "buy_count": 2,
       "avoid_count": 1,
       "first_mention_date": "30 Jul 2026",
       "price_at_first_mention": 97.74,
@@ -6353,6 +6135,19 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": null
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Called This Stock Too Cheap to Ignore. So I Bought It",
+          "url": "https://www.youtube.com/watch?v=hBgzwrzUcSQ",
+          "upload_date": "20260816",
+          "date_label": "16 Aug 2026",
+          "ticker": "MSTR",
+          "company_name": "MicroStrategy",
+          "reason": "Creator mentions this position is up 429% overall and is in 'a very, very good position' in the retirement portfolio. Creator is comfortable holding without taking profits.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": "Creator is not taking profits on this position and is comfortable maintaining current holdings. Not looking to add more despite strong performance."
         }
       ],
       "avoids": [
@@ -6863,27 +6658,14 @@
     },
     {
       "ticker": "NEBU",
-      "company_name": "Nebius",
-      "buy_count": 3,
+      "company_name": "Nebeus",
+      "buy_count": 2,
       "avoid_count": 0,
-      "first_mention_date": "17 Jul 2026",
+      "first_mention_date": "20 Jul 2026",
       "price_at_first_mention": null,
       "pct_change_since_rec": null,
       "market": null,
       "buys": [
-        {
-          "channel": "CouchInvestor",
-          "title": "The Best Buying Opportunity I've Seen in Months Is Hiding Here",
-          "url": "https://www.youtube.com/watch?v=V2Vh0Z2iucM",
-          "upload_date": "20260717",
-          "date_label": "17 Jul 2026",
-          "ticker": "NEBU",
-          "company_name": "Nebius",
-          "reason": "The creator views Nebius as a major winner despite recent competition from models like Kimmy K3. The company's value proposition is that regardless of which AI model dominates (Claude, ChatGPT, Kimmy, etc.), all models need to run somewhere, and users will need tokens from Nebius's infrastructure. The creator explains that when token prices decrease due to efficiency improvements, usage typically increases, creating a virtuous cycle where Nebius benefits from lower infrastructure costs and can pass savings to customers while maintaining margins. Nebius announced $775 million in non-dilutive senior secured debt fully funding GPU deployments, has a $40+ billion contracted backlog with hyperscalers like Microsoft and Meta, and successfully delivered GPU capacity on schedule to Microsoft. The creator believes this company is accelerating growth and could reach $100 billion+ in market cap, potentially trading at $300 this year.",
-          "when_to_buy": "On any dips; the creator mentioned if Nebius drops another 40%, he would consider reallocating other positions to buy more",
-          "target_price": "$300 (potentially this year); $100+ billion market cap valuation",
-          "cautions": "The company still needs to demonstrate sustained execution. Despite being called expensive today at $50 billion market cap, the creator is still willing to buy on weakness given the long-term potential."
-        },
         {
           "channel": "CouchInvestor",
           "title": "I Bought These 2 Stocks Again During the Crash. Here's Why",
@@ -7047,10 +6829,10 @@
     },
     {
       "ticker": "NFLX",
-      "company_name": "Netflix",
+      "company_name": "Netflix Inc.",
       "buy_count": 3,
       "avoid_count": 2,
-      "first_mention_date": "17 Jul 2026",
+      "first_mention_date": "20 Jul 2026",
       "price_at_first_mention": 68.95,
       "pct_change_since_rec": 13.4,
       "market": {
@@ -7094,19 +6876,6 @@
       "buys": [
         {
           "channel": "CouchInvestor",
-          "title": "The Best Buying Opportunity I've Seen in Months Is Hiding Here",
-          "url": "https://www.youtube.com/watch?v=V2Vh0Z2iucM",
-          "upload_date": "20260717",
-          "date_label": "17 Jul 2026",
-          "ticker": "NFLX",
-          "company_name": "Netflix",
-          "reason": "Netflix is trading at very attractive valuations: down 24% year-to-date and 46% over the past year, now worth approximately $190-200 billion with a trailing P/E of 21.6x and forward P/E of ~20x, with a PEG ratio around 1. The company is showing steady top and bottom line growth with 13% year-over-year revenue growth, double-digit growth across all regions (UK +10%, Europe/Middle East/Africa +14%, LATAM +21%, Asia-Pacific +16%), and 33.4% operating margins. Netflix is using AI to enhance production (the documentary American Experiment produced 17 minutes of AI sequences at twice the speed and half the cost), and live events are emerging as massive acquisition drivers (5% of spend, 1% of views, but drive 6 of top 10 signup days). The company is conducting record share buybacks ($4.7 billion), signaling management confidence. Cloud gaming monthly active players are up 11x since October.",
-          "when_to_buy": "The creator owns the stock but is not actively buying more right now due to near-term headwinds with engagement and acquisition rumors",
-          "target_price": null,
-          "cautions": "Current uncertainties with engagement metrics and speculation about potential acquisitions (NBC Universal, Lionsgate) create near-term headwinds. The creator would only reallocate to Netflix if other positions like Nebius dropped significantly further, suggesting other opportunities look more attractive currently."
-        },
-        {
-          "channel": "CouchInvestor",
           "title": "I Just Sold Out of a Stock Completely. Here's What I Bought Instead",
           "url": "https://www.youtube.com/watch?v=7lE_ewagWx4",
           "upload_date": "20260809",
@@ -7130,6 +6899,19 @@
           "when_to_buy": null,
           "target_price": "$77.32",
           "cautions": "The creator slightly disagrees with Ackman's take that short-form video mostly steals from linear TV rather than Netflix. Past experience shows Ackman sold Netflix close to the bottom in 2022 when it dropped 40%, though it subsequently rallied significantly."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Called This Stock Too Cheap to Ignore. So I Bought It",
+          "url": "https://www.youtube.com/watch?v=hBgzwrzUcSQ",
+          "upload_date": "20260816",
+          "date_label": "16 Aug 2026",
+          "ticker": "NFLX",
+          "company_name": "Netflix",
+          "reason": "Creator sees Netflix as 'a very, very strong and profitable business right now' and expects that to stay the same for the foreseeable future. Does not see this as a declining business. Stock moved from low 70s to $78 after Bill Ackman's Pershing Square involvement. Stock is above the 50-day moving average on daily and 200-day moving average on weekly at $78.",
+          "when_to_buy": "After next earnings report for more confidence; currently at $78",
+          "target_price": "Above $80 per share",
+          "cautions": "Creator prefers to wait until next earnings report before adding more due to 'one or two question marks' about the business, though position is small at just over 2% of portfolio. Stock may have post-earnings reactions that could present buying opportunities."
         }
       ],
       "avoids": [
@@ -7200,7 +6982,7 @@
         "analyst_hold": 6,
         "analyst_sell": 2,
         "analyst_target": 7.35,
-        "analyst_upside_pct": 62.5,
+        "analyst_upside_pct": 62.6,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -7506,7 +7288,7 @@
     {
       "ticker": "NU",
       "company_name": "Nu Holdings Co.",
-      "buy_count": 2,
+      "buy_count": 3,
       "avoid_count": 0,
       "first_mention_date": "14 Aug 2026",
       "price_at_first_mention": 15.23,
@@ -7575,6 +7357,19 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": null
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Called This Stock Too Cheap to Ignore. So I Bought It",
+          "url": "https://www.youtube.com/watch?v=hBgzwrzUcSQ",
+          "upload_date": "20260816",
+          "date_label": "16 Aug 2026",
+          "ticker": "NU",
+          "company_name": "Nu Holdings",
+          "reason": "Creator describes Nu as 'fairly valued, if not undervalued' with potential to become a '$100 company in the future, in my opinion.' The company had a good quarter, and creator increased position by 7.18% at $14.27. Stock closed the week above $15 support level with momentum to challenge $18.",
+          "when_to_buy": "Recent addition at $14.27; support at $15 per share",
+          "target_price": "$100 per share in the future",
+          "cautions": "Stock needs to continue momentum above $16 to challenge $18."
         }
       ],
       "avoids": [],
@@ -7583,7 +7378,7 @@
     {
       "ticker": "NVDA",
       "company_name": "Nvidia Corporation",
-      "buy_count": 15,
+      "buy_count": 16,
       "avoid_count": 0,
       "first_mention_date": "19 Jul 2026",
       "price_at_first_mention": 202.81,
@@ -7821,6 +7616,19 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": "The creator notes that competition from AMD and companies building their own ASICs exist, though he does not view these as bearish catalysts. He also acknowledges Nvidia revised down its commitment to backing OpenAI's Ohio data center from $250 billion to $125 billion for the first phase, though he does not view this as a bearish flag."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Called This Stock Too Cheap to Ignore. So I Bought It",
+          "url": "https://www.youtube.com/watch?v=hBgzwrzUcSQ",
+          "upload_date": "20260816",
+          "date_label": "16 Aug 2026",
+          "ticker": "NVDA",
+          "company_name": "Nvidia Corporation",
+          "reason": "The creator believes Nvidia is a multiple hundred billion-dollar company in the future with significant upside left. The company delivered amazing earnings with up 30% post-earnings move. The guidance for 2027 is expected to be incredible based on historical performance. The creator is holding a 23.5% portfolio position and selling covered calls at $320 strike for October, indicating conviction in continued appreciation.",
+          "when_to_buy": "Current price around $277 per share; creator is already holding major position",
+          "target_price": "Multiple hundred billion-dollar company valuation in the future",
+          "cautions": "Stock is currently in 'no man's land' or 'discovery zones' and may need consolidation. Creator is managing upside via covered calls due to significant run-up."
         }
       ],
       "avoids": [],
@@ -8172,11 +7980,11 @@
     {
       "ticker": "PLTR",
       "company_name": "Palantir Technologies",
-      "buy_count": 9,
+      "buy_count": 8,
       "avoid_count": 1,
-      "first_mention_date": "17 Jul 2026",
-      "price_at_first_mention": 132.38,
-      "pct_change_since_rec": 31.5,
+      "first_mention_date": "25 Jul 2026",
+      "price_at_first_mention": 122.92,
+      "pct_change_since_rec": 41.6,
       "market": {
         "ticker": "PLTR",
         "name": "Palantir Technologies Inc.",
@@ -8216,19 +8024,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "CouchInvestor",
-          "title": "The Best Buying Opportunity I've Seen in Months Is Hiding Here",
-          "url": "https://www.youtube.com/watch?v=V2Vh0Z2iucM",
-          "upload_date": "20260717",
-          "date_label": "17 Jul 2026",
-          "ticker": "PLTR",
-          "company_name": "Palantir Technologies",
-          "reason": "The creator mentions he would rather buy Palantir at $130 than hold certain other positions, suggesting it's attractively valued.",
-          "when_to_buy": "At around $130 per share",
-          "target_price": null,
-          "cautions": null
-        },
         {
           "channel": "Mr. FIRED Up Wealth",
           "title": "My Golden Rule: Don't Chase, Find Opportunity Early!",
@@ -8353,7 +8148,7 @@
       "ticker": "PYPL",
       "company_name": "PayPal",
       "buy_count": 0,
-      "avoid_count": 3,
+      "avoid_count": 4,
       "first_mention_date": "25 Jul 2026",
       "price_at_first_mention": 56.15,
       "pct_change_since_rec": 9.8,
@@ -8429,6 +8224,17 @@
           "company_name": "PayPal Holdings",
           "reason": "Referenced as an example of how negative sentiment can linger for years, even as business fundamentals may improve. Used to illustrate the risk of sentiment-driven underperformance in growth/fintech stocks.",
           "risk": "Long-term sentiment overhang that can suppress stock price for extended periods despite fundamental recovery."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Called This Stock Too Cheap to Ignore. So I Bought It",
+          "url": "https://www.youtube.com/watch?v=hBgzwrzUcSQ",
+          "upload_date": "20260816",
+          "date_label": "16 Aug 2026",
+          "ticker": "PYPL",
+          "company_name": "PayPal Holdings",
+          "reason": "While creator holds bull spreads on PayPal and acknowledges acquisition interest from Stripe and Advent, the position is speculative on M&A activity rather than company fundamentals. Creator is taking small profits and plans to exit the position once acquisition news materializes at $70-80 per share, indicating this is a deal bet rather than a core investment. Creator is not accumulating more despite the opportunity.",
+          "risk": "If acquisition does not occur, stock may remain range-bound or decline. Last bidder rejection at these levels suggests potential top for current cycle."
         }
       ],
       "description": "Digital payments and financial services platform"
@@ -8639,31 +8445,6 @@
       "description": "Exchange-traded fund tracking quantum computing stocks"
     },
     {
-      "ticker": "QUANTUM_STOCKS",
-      "company_name": "Quantum Computing Stocks (generic category)",
-      "buy_count": 0,
-      "avoid_count": 1,
-      "first_mention_date": "17 Jul 2026",
-      "price_at_first_mention": null,
-      "pct_change_since_rec": null,
-      "market": null,
-      "buys": [],
-      "avoids": [
-        {
-          "channel": "CouchInvestor",
-          "title": "The Best Buying Opportunity I've Seen in Months Is Hiding Here",
-          "url": "https://www.youtube.com/watch?v=V2Vh0Z2iucM",
-          "upload_date": "20260717",
-          "date_label": "17 Jul 2026",
-          "ticker": "QUANTUM_STOCKS",
-          "company_name": "Quantum Computing Stocks (generic category)",
-          "reason": "The creator groups together the 'usual quantum names' that are down 50-40% from highs but argues they should have never been worth their previous valuations in the first place. If they were worth $20 billion, they should not have been, and at $10 billion they still shouldn't be worth that much. These are speculative businesses with questionable fundamental value.",
-          "risk": "Further downside risk despite significant declines; fundamentals don't support even current reduced valuations"
-        }
-      ],
-      "description": null
-    },
-    {
       "ticker": "RBLX",
       "company_name": "Roblox",
       "buy_count": 0,
@@ -8739,7 +8520,7 @@
     {
       "ticker": "RDDT",
       "company_name": "Reddit",
-      "buy_count": 6,
+      "buy_count": 7,
       "avoid_count": 0,
       "first_mention_date": "24 Jul 2026",
       "price_at_first_mention": 168.73,
@@ -8860,6 +8641,19 @@
           "when_to_buy": "Current levels, with potential to add more",
           "target_price": null,
           "cautions": null
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Called This Stock Too Cheap to Ignore. So I Bought It",
+          "url": "https://www.youtube.com/watch?v=hBgzwrzUcSQ",
+          "upload_date": "20260816",
+          "date_label": "16 Aug 2026",
+          "ticker": "RDDT",
+          "company_name": "Reddit Inc.",
+          "reason": "Reddit is a growth company that is becoming more and more profitable. Creator believes stock is at least a '$200 stock right now, maybe even more, depending on how bullish you want to be.' The key missing catalyst is a renegotiated AI licensing agreement with Google that could be 'worth three, four, five times more than the original one.' Creator believes this is 'a question of when that will happen, not if.' Stock got included in S&P 500 and closed week at $178 with strong momentum.",
+          "when_to_buy": "Current levels at $178 per share or on any pullback; creator wanted to buy more but missed opportunity due to S&P 500 inclusion",
+          "target_price": "$200 per share or more",
+          "cautions": "Stock had rapid 30%+ run recently due to S&P 500 inclusion; pullback may present better entry point."
         }
       ],
       "avoids": [],
@@ -9184,7 +8978,7 @@
     {
       "ticker": "ROCKET",
       "company_name": "Rocket Lab USA Inc.",
-      "buy_count": 1,
+      "buy_count": 2,
       "avoid_count": 0,
       "first_mention_date": "28 Jul 2026",
       "price_at_first_mention": null,
@@ -9203,35 +8997,23 @@
           "when_to_buy": "$50-$60 becomes very interesting for long-term investors; current level around $60; broader support potential at $55-$50",
           "target_price": null,
           "cautions": "Stock is down 57% from peaks and support at $81 did not hold; creator explicitly states stock was overvalued at $150, expensive at $100 and $80, and is less expensive (not cheap) at $60-$50; stock is still waiting for Neutron launch catalyst which has not yet occurred"
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Called This Stock Too Cheap to Ignore. So I Bought It",
+          "url": "https://www.youtube.com/watch?v=hBgzwrzUcSQ",
+          "upload_date": "20260816",
+          "date_label": "16 Aug 2026",
+          "ticker": "ROCKET",
+          "company_name": "Rocket Lab USA Inc.",
+          "reason": "Stock had nice move from low 60s to mid-70s, ending week at just over $80. Creator is very bullish on Rocket Lab but notes it is an 'expensive name' relative to current revenue generation and expected future revenue. Creator would like stock to consolidate around $80 area before challenging $100.",
+          "when_to_buy": "Consolidation around $80 per share",
+          "target_price": "$100 per share",
+          "cautions": "Creator explicitly states 'it is an expensive name' and prefers consolidation period before next move. Creator is comfortable with stock staying at $80 for next 3 months. Creator has already taken some profits on this position (up from when originally bought at lower levels)."
         }
       ],
       "avoids": [],
       "description": "Launches small satellites into orbit using air-breathing rocket engines"
-    },
-    {
-      "ticker": "ROCKET_LAB",
-      "company_name": "Rocket Lab",
-      "buy_count": 0,
-      "avoid_count": 1,
-      "first_mention_date": "17 Jul 2026",
-      "price_at_first_mention": null,
-      "pct_change_since_rec": null,
-      "market": null,
-      "buys": [],
-      "avoids": [
-        {
-          "channel": "CouchInvestor",
-          "title": "The Best Buying Opportunity I've Seen in Months Is Hiding Here",
-          "url": "https://www.youtube.com/watch?v=V2Vh0Z2iucM",
-          "upload_date": "20260717",
-          "date_label": "17 Jul 2026",
-          "ticker": "ROCKET_LAB",
-          "company_name": "Rocket Lab",
-          "reason": "While the creator owns Rocket Lab and is buying back shares he sold at higher prices, he calls the company 'not cheap at all' even after falling 50%+ from its $150 per share high. The critical risk is that the bullish thesis heavily depends on the Neutron rocket launch, which hasn't happened yet. Without a successful Neutron launch, a 'big part of the bullish case is basically gone.' The company shouldn't have been valued at $150 per share, and the creator is only accumulating at current levels in small batches.",
-          "risk": "Significant execution risk on Neutron launch; major portion of bull thesis depends on unproven product"
-        }
-      ],
-      "description": "Designs and manufactures small-lift launch vehicles for satellites"
     },
     {
       "ticker": "ROKU",
@@ -9510,6 +9292,31 @@
         }
       ],
       "description": "Payment processing platform for merchants"
+    },
+    {
+      "ticker": "SHIFT4",
+      "company_name": "Shift4 Payments",
+      "buy_count": 0,
+      "avoid_count": 1,
+      "first_mention_date": "16 Aug 2026",
+      "price_at_first_mention": null,
+      "pct_change_since_rec": null,
+      "market": null,
+      "buys": [],
+      "avoids": [
+        {
+          "channel": "CouchInvestor",
+          "title": "I Called This Stock Too Cheap to Ignore. So I Bought It",
+          "url": "https://www.youtube.com/watch?v=hBgzwrzUcSQ",
+          "upload_date": "20260816",
+          "date_label": "16 Aug 2026",
+          "ticker": "SHIFT4",
+          "company_name": "Shift4 Payments",
+          "reason": "Creator explicitly stated reason for selling Shift4 was 'not because I see this as a bad company. No, it is, in my opinion, an undervalued company, but there are too many question marks. Too many things going against the stock right now.' Creator chose to raise cash and add to other names without question marks rather than maintain exposure.",
+          "risk": "Multiple unresolved concerns and headwinds make this stock less attractive than alternatives despite being potentially undervalued."
+        }
+      ],
+      "description": "Processes payments for online and in-person merchants"
     },
     {
       "ticker": "SHYF",
@@ -9919,12 +9726,12 @@
     },
     {
       "ticker": "SOFI",
-      "company_name": "SoFi Technologies",
+      "company_name": "SoFi Technologies Inc.",
       "buy_count": 9,
       "avoid_count": 0,
-      "first_mention_date": "17 Jul 2026",
-      "price_at_first_mention": 17.28,
-      "pct_change_since_rec": 5.8,
+      "first_mention_date": "20 Jul 2026",
+      "price_at_first_mention": null,
+      "pct_change_since_rec": null,
       "market": {
         "ticker": "SOFI",
         "name": "SoFi Technologies, Inc.",
@@ -9964,19 +9771,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "CouchInvestor",
-          "title": "The Best Buying Opportunity I've Seen in Months Is Hiding Here",
-          "url": "https://www.youtube.com/watch?v=V2Vh0Z2iucM",
-          "upload_date": "20260717",
-          "date_label": "17 Jul 2026",
-          "ticker": "SOFI",
-          "company_name": "SoFi Technologies",
-          "reason": "The creator identifies SoFi as one of the most attractive names for him personally in the current market, along with Meta and Nebius, suggesting it offers compelling value.",
-          "when_to_buy": "Current market dip",
-          "target_price": null,
-          "cautions": null
-        },
         {
           "channel": "CouchInvestor",
           "title": "I Bought These 2 Stocks Again During the Crash. Here's Why",
@@ -10080,6 +9874,19 @@
           "when_to_buy": "Current levels above $18",
           "target_price": null,
           "cautions": null
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Called This Stock Too Cheap to Ignore. So I Bought It",
+          "url": "https://www.youtube.com/watch?v=hBgzwrzUcSQ",
+          "upload_date": "20260816",
+          "date_label": "16 Aug 2026",
+          "ticker": "SOFI",
+          "company_name": "SoFi Technologies",
+          "reason": "Creator believes SoFi is 'one of those very undervalued names right now, despite the market being close to their all-time highs.' The stock gained momentum, likely because the market is now trending towards no rate hikes for 2027, whereas SoFi's guidance expected one to two rate hikes. This creates a favorable scenario for the company's business model. Stock ended the week above $18 support level.",
+          "when_to_buy": "Support level at $18 per share; creator wants to see it hold this level for 'one for at least a week or two'",
+          "target_price": "$20 and onwards",
+          "cautions": "Position still needs to prove it can hold above $18 support; momentum is recent and needs confirmation over next week or two."
         }
       ],
       "avoids": [],
@@ -10723,12 +10530,12 @@
     },
     {
       "ticker": "TSLA",
-      "company_name": "Tesla",
+      "company_name": "Tesla Inc.",
       "buy_count": 1,
-      "avoid_count": 7,
-      "first_mention_date": "17 Jul 2026",
-      "price_at_first_mention": 379.12,
-      "pct_change_since_rec": -9.7,
+      "avoid_count": 5,
+      "first_mention_date": "20 Jul 2026",
+      "price_at_first_mention": 380.84,
+      "pct_change_since_rec": -10.1,
       "market": {
         "ticker": "TSLA",
         "name": "Tesla, Inc.",
@@ -10783,28 +10590,6 @@
         }
       ],
       "avoids": [
-        {
-          "channel": "Daniel Pronk",
-          "title": "Why I Don't Invest in the S&P 500 #ad #customindexing #stocks",
-          "url": "https://www.youtube.com/watch?v=F0hC9Bow6Do",
-          "upload_date": "20260717",
-          "date_label": "17 Jul 2026",
-          "ticker": "TSLA",
-          "company_name": "Tesla",
-          "reason": "The creator explicitly stated that Tesla is a company they do not want to own in their portfolio, which is why they prefer custom indexing that allows them to remove stocks they do not wish to hold.",
-          "risk": null
-        },
-        {
-          "channel": "Daniel Pronk",
-          "title": "Why I Don't Invest in the S&P 500 #ad #customindexing #stocks",
-          "url": "https://www.youtube.com/watch?v=0HNPPi9HZTg",
-          "upload_date": "20260717",
-          "date_label": "17 Jul 2026",
-          "ticker": "TSLA",
-          "company_name": "Tesla Inc.",
-          "reason": "The creator explicitly stated there are companies in the S&P 500 that they do not want to own in their portfolio, specifically naming Tesla as an example of a stock they are avoiding.",
-          "risk": null
-        },
         {
           "channel": "Daniel Pronk",
           "title": "Which Stocks Are Cheap Before Earnings Tomorrow?",
@@ -10982,10 +10767,10 @@
     },
     {
       "ticker": "UBER",
-      "company_name": "Uber Technologies",
+      "company_name": "Uber Technologies Inc.",
       "buy_count": 8,
       "avoid_count": 2,
-      "first_mention_date": "17 Jul 2026",
+      "first_mention_date": "20 Jul 2026",
       "price_at_first_mention": 72.46,
       "pct_change_since_rec": 4.8,
       "market": {
@@ -11027,19 +10812,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "CouchInvestor",
-          "title": "The Best Buying Opportunity I've Seen in Months Is Hiding Here",
-          "url": "https://www.youtube.com/watch?v=V2Vh0Z2iucM",
-          "upload_date": "20260717",
-          "date_label": "17 Jul 2026",
-          "ticker": "UBER",
-          "company_name": "Uber Technologies",
-          "reason": "Uber is acquiring Delivery Hero for \u20ac41.5 per share, valuing the company at 14.8 billion euros with an EV/adjusted EBITDA 2027 multiple of approximately 8x, which the creator deems not expensive. The combined entity will create a global juggernaut with $236 billion in gross bookings (compared to DoorDash's $90 billion and competitors' $59 billion combined), operating in 27 markets in Europe/Middle East/Africa, 13 in Latin America, and 10 in Asia-Pacific. The deal unlocks $1.2 billion in annualized synergy potential within 18 months. The combined platform will link 49 million monthly users, 900,000 active couriers, and 1.1 million merchant partners, allowing Uber to decrease user acquisition costs by over 50% through cross-selling and a global flywheel effect. Uber's proprietary dispatch algorithms and autonomous vehicle investments position it as nearly impossible to disrupt, with robotics and AV integration to drive future margin expansion.",
-          "when_to_buy": "Current levels around $70s, sitting at the 50-day moving average",
-          "target_price": null,
-          "cautions": "The deal will take significant time to close (expected second half of 2027) and full integration between 2028-2029, subject to regulatory approval. Stock is down $1.57 at time of video, but integration timeline is multi-year."
-        },
         {
           "channel": "CouchInvestor",
           "title": "I Bought These 2 Stocks Again During the Crash. Here's Why",
@@ -11130,6 +10902,19 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": "Fear over autonomous vehicles and regulatory relationship challenges have weighed on the stock. Near-term sentiment is negative despite strong earnings growth."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Called This Stock Too Cheap to Ignore. So I Bought It",
+          "url": "https://www.youtube.com/watch?v=hBgzwrzUcSQ",
+          "upload_date": "20260816",
+          "date_label": "16 Aug 2026",
+          "ticker": "UBER",
+          "company_name": "Uber Technologies",
+          "reason": "Stock moved from low 70s area and is now at $75-76 per share with momentum. Creator sees opportunity to challenge $80 per share. Stock is gaining positive technical momentum.",
+          "when_to_buy": "Current levels around $75-76 per share",
+          "target_price": "$80 per share",
+          "cautions": "Stock still needs to prove momentum can sustain through next week."
         }
       ],
       "avoids": [
@@ -11478,79 +11263,6 @@
       ],
       "avoids": [],
       "description": "Exchange-traded fund tracking global equities across all market capitalizations"
-    },
-    {
-      "ticker": "VZ",
-      "company_name": "Verizon",
-      "buy_count": 0,
-      "avoid_count": 2,
-      "first_mention_date": "17 Jul 2026",
-      "price_at_first_mention": 44.46,
-      "pct_change_since_rec": 9.0,
-      "market": {
-        "ticker": "VZ",
-        "name": "Verizon Communications Inc.",
-        "currency": "USD",
-        "sector": "Communication Services",
-        "industry": "Telecom Services",
-        "market_cap": 201423503360,
-        "current_price": 48.48,
-        "daily_change_pct": 0.54,
-        "month_change_pct": 13.19,
-        "week52_high": 51.68,
-        "week52_high_date": "24 Mar 2026",
-        "week52_low": 38.39,
-        "week52_low_date": "23 Oct 2025",
-        "rsi": 65.4,
-        "rsi_label": "neutral",
-        "ma50": 44.98,
-        "ma200": 43.81,
-        "ma_signal": "golden_cross",
-        "pe_trailing": 12.625,
-        "pe_forward": 9.180966,
-        "peg_ratio": 0.92,
-        "revenue_growth": -0.007,
-        "earnings_growth": -0.22,
-        "free_cashflow": 17466624000,
-        "profit_margins": 0.11643,
-        "debt_to_equity": 184.081,
-        "beta": 0.231,
-        "short_percent": 0.0201,
-        "dividend_yield": 5.84,
-        "analyst_buy": 11,
-        "analyst_hold": 14,
-        "analyst_sell": 0,
-        "analyst_target": 51.56,
-        "analyst_upside_pct": 6.3,
-        "earnings_date": null,
-        "earnings_days": null
-      },
-      "buys": [],
-      "avoids": [
-        {
-          "channel": "Daniel Pronk",
-          "title": "Why I Don't Invest in the S&P 500 #ad #customindexing #stocks",
-          "url": "https://www.youtube.com/watch?v=F0hC9Bow6Do",
-          "upload_date": "20260717",
-          "date_label": "17 Jul 2026",
-          "ticker": "VZ",
-          "company_name": "Verizon",
-          "reason": "The creator explicitly stated that Verizon is a company they do not want to own in their portfolio, which is why they prefer custom indexing that allows them to remove stocks they do not wish to hold.",
-          "risk": null
-        },
-        {
-          "channel": "Daniel Pronk",
-          "title": "Why I Don't Invest in the S&P 500 #ad #customindexing #stocks",
-          "url": "https://www.youtube.com/watch?v=0HNPPi9HZTg",
-          "upload_date": "20260717",
-          "date_label": "17 Jul 2026",
-          "ticker": "VZ",
-          "company_name": "Verizon Communications Inc.",
-          "reason": "The creator explicitly stated there are companies in the S&P 500 that they do not want to own in their portfolio, specifically naming Verizon as an example of a stock they are avoiding.",
-          "risk": null
-        }
-      ],
-      "description": "Provides wireless and broadband communications services to consumers and businesses"
     },
     {
       "ticker": "WINGSTOP",

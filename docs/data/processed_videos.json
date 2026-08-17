@@ -16979,6 +16979,190 @@
         "NVDA": 225.16,
         "META": 589.85
       }
+    },
+    "hBgzwrzUcSQ": {
+      "channel": "CouchInvestor",
+      "title": "I Called This Stock Too Cheap to Ignore. So I Bought It",
+      "upload_date": "20260816",
+      "url": "https://www.youtube.com/watch?v=hBgzwrzUcSQ",
+      "processed_at": "2026-08-17T09:35:18.234630",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "The creator believes Nvidia is a multiple hundred billion-dollar company in the future with significant upside left. The company delivered amazing earnings with up 30% post-earnings move. The guidance for 2027 is expected to be incredible based on historical performance. The creator is holding a 23.5% portfolio position and selling covered calls at $320 strike for October, indicating conviction in continued appreciation.",
+            "when_to_buy": "Current price around $277 per share; creator is already holding major position",
+            "target_price": "Multiple hundred billion-dollar company valuation in the future",
+            "cautions": "Stock is currently in 'no man's land' or 'discovery zones' and may need consolidation. Creator is managing upside via covered calls due to significant run-up."
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms",
+            "reason": "Creator describes Meta as 'extremely undervalued' despite the market being close to all-time highs. The stock needs to break above and stay above $600 per share as a key technical level. Two major catalysts are expected: announcement of their next big model called 'watermelon' which is described as 'headline-wise very good and super competitive', and selling compute/GPUs which the creator believes could cause the stock to 'pop' to $700 in a matter of a day or two. Creator increased position by 5.88% at $591.",
+            "when_to_buy": "On pullbacks; creator just added at $591 per share",
+            "target_price": "$650 to $700 per share after breaking above $600 resistance",
+            "cautions": "Stock is struggling to break above and stay above the $600 level. Currently trading at $589 and needs to close a week above $600 first."
+          },
+          {
+            "ticker": "SOFI",
+            "company_name": "SoFi Technologies",
+            "reason": "Creator believes SoFi is 'one of those very undervalued names right now, despite the market being close to their all-time highs.' The stock gained momentum, likely because the market is now trending towards no rate hikes for 2027, whereas SoFi's guidance expected one to two rate hikes. This creates a favorable scenario for the company's business model. Stock ended the week above $18 support level.",
+            "when_to_buy": "Support level at $18 per share; creator wants to see it hold this level for 'one for at least a week or two'",
+            "target_price": "$20 and onwards",
+            "cautions": "Position still needs to prove it can hold above $18 support; momentum is recent and needs confirmation over next week or two."
+          },
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon",
+            "reason": "Creator describes Amazon as 'one of the best companies on the planet' and calls it a 'no-brainer name right now, extremely undervalued.' Stock is holding above $245 support level and currently at $262 per share.",
+            "when_to_buy": "Current levels; creator views it as undervalued",
+            "target_price": null,
+            "cautions": "Stock may test support area around $250 in near term but creator is not concerned given quality of business."
+          },
+          {
+            "ticker": "NU",
+            "company_name": "Nu Holdings",
+            "reason": "Creator describes Nu as 'fairly valued, if not undervalued' with potential to become a '$100 company in the future, in my opinion.' The company had a good quarter, and creator increased position by 7.18% at $14.27. Stock closed the week above $15 support level with momentum to challenge $18.",
+            "when_to_buy": "Recent addition at $14.27; support at $15 per share",
+            "target_price": "$100 per share in the future",
+            "cautions": "Stock needs to continue momentum above $16 to challenge $18."
+          },
+          {
+            "ticker": "NFLX",
+            "company_name": "Netflix",
+            "reason": "Creator sees Netflix as 'a very, very strong and profitable business right now' and expects that to stay the same for the foreseeable future. Does not see this as a declining business. Stock moved from low 70s to $78 after Bill Ackman's Pershing Square involvement. Stock is above the 50-day moving average on daily and 200-day moving average on weekly at $78.",
+            "when_to_buy": "After next earnings report for more confidence; currently at $78",
+            "target_price": "Above $80 per share",
+            "cautions": "Creator prefers to wait until next earnings report before adding more due to 'one or two question marks' about the business, though position is small at just over 2% of portfolio. Stock may have post-earnings reactions that could present buying opportunities."
+          },
+          {
+            "ticker": "UBER",
+            "company_name": "Uber Technologies",
+            "reason": "Stock moved from low 70s area and is now at $75-76 per share with momentum. Creator sees opportunity to challenge $80 per share. Stock is gaining positive technical momentum.",
+            "when_to_buy": "Current levels around $75-76 per share",
+            "target_price": "$80 per share",
+            "cautions": "Stock still needs to prove momentum can sustain through next week."
+          },
+          {
+            "ticker": "RDDT",
+            "company_name": "Reddit Inc.",
+            "reason": "Reddit is a growth company that is becoming more and more profitable. Creator believes stock is at least a '$200 stock right now, maybe even more, depending on how bullish you want to be.' The key missing catalyst is a renegotiated AI licensing agreement with Google that could be 'worth three, four, five times more than the original one.' Creator believes this is 'a question of when that will happen, not if.' Stock got included in S&P 500 and closed week at $178 with strong momentum.",
+            "when_to_buy": "Current levels at $178 per share or on any pullback; creator wanted to buy more but missed opportunity due to S&P 500 inclusion",
+            "target_price": "$200 per share or more",
+            "cautions": "Stock had rapid 30%+ run recently due to S&P 500 inclusion; pullback may present better entry point."
+          },
+          {
+            "ticker": "AXON",
+            "company_name": "Axon Enterprise",
+            "reason": "Stock recovered back above $612 per share and is in a good technical area. Creator views this as opportunity to establish or maintain position if it holds above $600 support level.",
+            "when_to_buy": "If it holds $600 support level; currently above $612",
+            "target_price": null,
+            "cautions": "Creator describes this as 'definitely an expensive name to own right now' and notes pullback 'unfortunately did not last that long.' Only looking to add if it pulls back below $600."
+          },
+          {
+            "ticker": "MSTR",
+            "company_name": "MicroStrategy",
+            "reason": "Creator mentions this position is up 429% overall and is in 'a very, very good position' in the retirement portfolio. Creator is comfortable holding without taking profits.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Creator is not taking profits on this position and is comfortable maintaining current holdings. Not looking to add more despite strong performance."
+          },
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet",
+            "reason": "Alphabet is sitting around $345-346, right at the 100-day moving average support line. If it can hold this area for the next couple days, this becomes new support and stock can attempt to move back to $350-360 range.",
+            "when_to_buy": "Support level at $345-346 per share",
+            "target_price": "$350-360 per share",
+            "cautions": "Stock needs to hold support level of 100-day moving average for this to work as base for next move higher."
+          },
+          {
+            "ticker": "ROCKET",
+            "company_name": "Rocket Lab USA Inc.",
+            "reason": "Stock had nice move from low 60s to mid-70s, ending week at just over $80. Creator is very bullish on Rocket Lab but notes it is an 'expensive name' relative to current revenue generation and expected future revenue. Creator would like stock to consolidate around $80 area before challenging $100.",
+            "when_to_buy": "Consolidation around $80 per share",
+            "target_price": "$100 per share",
+            "cautions": "Creator explicitly states 'it is an expensive name' and prefers consolidation period before next move. Creator is comfortable with stock staying at $80 for next 3 months. Creator has already taken some profits on this position (up from when originally bought at lower levels)."
+          },
+          {
+            "ticker": "DLOCL",
+            "company_name": "dLocal Limited",
+            "reason": "Creator believes dLocal is 'fairly valued, if not undervalued' with potential to become a '$100 company in the future.' Company had 'a very good quarter' and is now above the previous support/resistance area. Creator increased position by 7.18% at $14.27. Stock closed above $15 with momentum to challenge $18.",
+            "when_to_buy": "Recent addition at $14.27 per share; above support at $15",
+            "target_price": "$100 per share in the future; near-term target $16-18",
+            "cautions": "Stock needs to maintain momentum above $15 to challenge $16 and $18 levels."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "PYPL",
+            "company_name": "PayPal Holdings",
+            "reason": "While creator holds bull spreads on PayPal and acknowledges acquisition interest from Stripe and Advent, the position is speculative on M&A activity rather than company fundamentals. Creator is taking small profits and plans to exit the position once acquisition news materializes at $70-80 per share, indicating this is a deal bet rather than a core investment. Creator is not accumulating more despite the opportunity.",
+            "risk": "If acquisition does not occur, stock may remain range-bound or decline. Last bidder rejection at these levels suggests potential top for current cycle."
+          },
+          {
+            "ticker": "SHIFT4",
+            "company_name": "Shift4 Payments",
+            "reason": "Creator explicitly stated reason for selling Shift4 was 'not because I see this as a bad company. No, it is, in my opinion, an undervalued company, but there are too many question marks. Too many things going against the stock right now.' Creator chose to raise cash and add to other names without question marks rather than maintain exposure.",
+            "risk": "Multiple unresolved concerns and headwinds make this stock less attractive than alternatives despite being potentially undervalued."
+          }
+        ],
+        "key_warnings": [
+          "Rate cut/hike expectations are in flux: Market is trending towards 'no rate hikes' for 2027 FOMC meeting (now 26.4% probability, up from 19.2% a week ago and 21.8% a month ago), but these probabilities change significantly week to week. Investors should monitor FOMC probabilities closely as they directly impact multiple portfolio holdings like SoFi.",
+          "Macro uncertainty remains elevated: Iran situation unresolved, US midterms in second half of year, and multiple rate cut scenarios still possible. Creator notes 'a lot of things can still change' and volatility can shift portfolio values 40-50% in matter of weeks.",
+          "Valuation compression risk for growth stocks: Multiple holdings described as 'expensive' including Rocket Lab, Axon Enterprise, and others. Creator notes some stocks have run up substantially 'without a real catalyst' (like Rubric pre-earnings), creating vulnerability to post-earnings pullbacks. Creator took 31% profit on Rubric at $97.71 citing 'quite pricey' valuation.",
+          "Earnings season volatility: Upcoming week focused on consumer sentiment (Home Depot, Target, TJX, Lowe's, Walmart) and company-specific catalysts. S&P 500 showing 86% EPS beat rate and 76% revenue beat rate, but beat rates can change and forward guidance uncertainty remains."
+        ],
+        "tickers_mentioned": [
+          "GOOGL",
+          "ROCKET",
+          "SOFI",
+          "AMZN",
+          "META",
+          "NU",
+          "NFLX",
+          "NVDA",
+          "RDDT",
+          "AXON",
+          "MELI",
+          "HD",
+          "KLRN",
+          "BIDU",
+          "TGT",
+          "TJX",
+          "LOW",
+          "EL",
+          "VIK",
+          "WBR",
+          "WMT",
+          "BABA",
+          "DE",
+          "PYPL",
+          "CWEB",
+          "DLOCL",
+          "UBER",
+          "MU",
+          "RBC",
+          "PLTR",
+          "SHIFT4",
+          "MSTR",
+          "AST"
+        ]
+      },
+      "price_at_recommendation": {
+        "AXON": 612.83,
+        "NFLX": 78.16,
+        "NVDA": 225.16,
+        "NU": 15.23,
+        "PYPL": 61.66,
+        "RDDT": 178.09,
+        "MSTR": 93.04,
+        "GOOGL": 345.9,
+        "UBER": 75.95,
+        "META": 589.85,
+        "SOFI": 18.29,
+        "AMZN": 262.65
+      }
     }
   },
   "channel_ids": {
@@ -16990,7 +17174,7 @@
     "JoseNajarroStocks": "UC5cEHfCr6WOE1R1zcohd1IA",
     "FinTek": "UCxdWHEhEPiYhCADMrn4PdhQ"
   },
-  "last_eval_week": "2026-W33",
+  "last_eval_week": "2026-W34",
   "alerts": {
     "fallback": "2026-08-12T05:49:52.847848"
   }

@@ -17252,6 +17252,77 @@
         ]
       },
       "price_at_recommendation": {}
+    },
+    "-MsaeNT7hQg": {
+      "channel": "FinTek",
+      "title": "A 10 Bagger Like This May Never Happen Again",
+      "upload_date": "20260817",
+      "url": "https://www.youtube.com/watch?v=-MsaeNT7hQg",
+      "processed_at": "2026-08-18T09:59:24.439452",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "IONQ",
+            "company_name": "IonQ",
+            "reason": "IonQ has real products and real customers generating millions in revenue today, not just vaporware promises. The company reported $80 million in quarterly revenue with 287% year-over-year growth. IonQ builds actual quantum computers using trapped ion architecture with electric fields to pin atoms in place, which is especially good for solving problems in healthcare, defense, and finance where stability and consistency are valued. The company is diversifying risk through vertical integration via acquisitions in quantum sensing, quantum networking, quantum security, and semiconductor manufacturing (SkyWater acquisition), positioning itself as a picks-and-shovel business similar to early IBM or Apple.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "IonQ's growth has largely come from acquisitions, leading some investors to accuse the company of buying growth until acquisition by a larger company. The company faces risks from competing quantum architectures that may prove superior, recent CEO change after a Pentagon contract went away, increased short interest due to concerns about inorganic growth, and the quantum timeline risk where the company's valuation assumes quantum adoption will accelerate quickly. If growth takes 20 years to materialize, investors are likely to lose money today. Management execution and governance are concerns given the CEO transition and questions about acquisition strategy."
+          },
+          {
+            "ticker": "QNT",
+            "company_name": "Quantinuum",
+            "reason": "Quantinuum is a newly public company with serious technology and significant financial backers, focused on quantum cybersecurity and building Helios, described as the world's most accurate quantum computer with 98 high-fidelity physical qubits and 48 demonstrated error-corrected logical qubits. The company reported $8 million in revenue for their first quarter with 279% year-over-year growth and beat earnings expectations, causing the stock to jump 20%. They've announced a partnership with Oracle to deploy Helios to Oracle's cloud, making their quantum computer accessible via internet. The company uses ion-trapped qubits with a unique ring architecture that should theoretically be extremely scalable, and their pricing is one of the most reasonable in the quantum computing space.",
+            "when_to_buy": "The creator is sitting on the sidelines and watching the stock until Quantinuum has one to two more quarters under their belt to establish a track record before buying in.",
+            "target_price": null,
+            "cautions": "Quantinuum is a newly public company with only one official quarter of earnings reported, making it difficult to assess track record. The stock exhibits bimodal outcome risk\u2014it's likely a binary play where the company either becomes a huge multi-bagger winner or a huge loser with little room for mediocre outcomes. Almost the entire stock value rests on Quantinuum succeeding with very little diversification. The quantum computing technology has not been proven at the same commercial level as competitors. This is a high-risk investment unsuitable as a core holding or for 100% portfolio allocation."
+          },
+          {
+            "ticker": "COHR",
+            "company_name": "Coherent",
+            "reason": "Coherent builds critical photonic and laser systems that every quantum computer architecture will very likely depend on in the future. While quantum is a small part of the business today with most revenue from semiconductor companies and telecoms, the stock is up over 400% in the past year. The company hit $2 billion in quarterly revenue with over 30% year-over-year growth driven by data center build-out. Most importantly, Coherent is highly profitable with around $250 million in net income, printing profit right now. The company specializes in creating lasers, fibers, and optical components that keep light precise for quantum machines, and they create optics that work at cold temperatures required by quantum systems, serving as a key supply chain component as the quantum industry grows.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Coherent is not a pure play quantum computing company and the quantum segment will not be substantial for at least a few years. The biggest risk is segment risk: 75% of current revenue comes from data centers, so if AI spending slows, the stock drops immediately. The quantum thesis depends on the quantum segment growing at least at the same rate as the overall company; if quantum revenue growth lags, the investment thesis breaks. The company is primarily exposed to AI and data center demand rather than quantum-specific growth in the near term."
+          },
+          {
+            "ticker": "GOOGL",
+            "company_name": "Google (Quantum AI division)",
+            "reason": "Google's Quantum AI division has been a leader in quantum breakthroughs since 2012 and graduated from Google's moonshot factory into its own division, indicating serious commitment. Google CEO stated that quantum today looks like AI from 5 years ago, suggesting a 5-year timeline to exciting phases in quantum. The company has a massive user base and some of the most advanced AI on Earth, positioning it to commercialize quantum machines that make existing products better, especially quantum-enabled AI models. Google is also investing externally, putting $150 million into Sandbox AQ (which spun off from Google in 2022) focused on quantitative artificial intelligence for enterprises. Google's large scale gives it the ability to commercialize quantum technology in the future.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Google is not going to 10x in price like some pure-play quantum stocks might, but it's also less likely to drop to zero. The company brought in over $109 billion last quarter, so it will be quite a while before quantum is really moving the needle on the stock price. Quantum is likely to remain a small segment of Google's overall business for years, limiting the near-term upside from quantum-specific growth. This is a lower-risk, lower-reward exposure to quantum compared to pure-play companies."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "IBM",
+            "company_name": "IBM",
+            "reason": "IBM was included in a quantum computing stock video approximately 1.5 years ago. Every other stock on that original list has since run up in price significantly except for IBM, which has underperformed relative to its quantum computing peers. This suggests IBM has not participated in the quantum computing investment thesis as effectively as other companies in the space.",
+            "risk": "Significant underperformance relative to quantum computing sector peers over 18 months"
+          }
+        ],
+        "key_warnings": [
+          "Not every quantum computing company will succeed despite the industry thesis being correct\u2014the situation mirrors the early internet days where Amazon's 1997 IPO investment would be worth $35 million today, but pets.com peaked at $14 and disappeared. Picking the right stock matters significantly; companies need real customers and real products today, not vaporware promises.",
+          "Quantum computing is an emerging market with high uncertainty. No stocks in this sector are profitable, revenue is not recurring, and the timeline for quantum adoption is uncertain. The industry should not represent 100% of a portfolio and probably shouldn't even be a core holding given the binary nature of outcomes.",
+          "Different quantum computing architectures are being researched (at least five different ones shown), and it is entirely possible that a different architectural approach could win out over others, similar to how different fields of AI exist with generative AI currently getting most of the money. Current leaders using ion-trap or other architectures may not ultimately prevail.",
+          "Quantum computing value depends on technology adoption timelines. If quantum growth takes 20 years to materialize rather than the near-term acceleration currently priced in, investors buying at current valuations are very likely to lose money. Companies must hit technical milestones quickly and aggressively move forward\u2014quantum advantage or supremacy alone is not enough to build a viable business."
+        ],
+        "tickers_mentioned": [
+          "IONQ",
+          "QNT",
+          "COHR",
+          "GOOGL",
+          "IBM"
+        ]
+      },
+      "price_at_recommendation": {
+        "QNT": 66.01,
+        "COHR": 351.22,
+        "GOOGL": 344.0,
+        "IONQ": 46.84,
+        "IBM": 228.85
+      }
     }
   },
   "channel_ids": {

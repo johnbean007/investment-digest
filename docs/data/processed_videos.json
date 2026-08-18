@@ -17323,6 +17323,71 @@
         "IONQ": 46.84,
         "IBM": 228.85
       }
+    },
+    "V0RVelyBISk": {
+      "channel": "CouchInvestor",
+      "title": "The CEO Believes The Stock Can 10x From Here",
+      "upload_date": "20260818",
+      "url": "https://www.youtube.com/watch?v=V0RVelyBISk",
+      "processed_at": "2026-08-18T20:05:12.451608",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms",
+            "reason": "The creator explicitly states: 'I don't need it when I see a Meta trading at the current valuation that it's trading at. Yes, even with all of the negative headlines around that name right now. I much rather own this than another advertising player.' Meta is positioned as a more attractive advertising business investment compared to AppLovin, despite current negative sentiment around the company.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "There are currently negative headlines around Meta, though the creator still prefers it to other advertising players."
+          },
+          {
+            "ticker": "GOOGL",
+            "company_name": "Google/Alphabet",
+            "reason": "The creator mentions Google as an alternative advertising player option, stating: 'If I need another advertising player, I also have that in a Google or a Reddit.' This is presented as a preferable alternative to AppLovin for gaining exposure to advertising platforms.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "RDDT",
+            "company_name": "Reddit",
+            "reason": "The creator lists Reddit alongside Google and Meta as preferred advertising platform investments, stating: 'If I need another advertising player, I also have that in a Google or a Reddit.' This indicates Reddit is viewed as a better alternative to AppLovin for advertising exposure.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "APP",
+            "company_name": "AppLovin Corporation",
+            "reason": "Despite the 10x upside thesis from the CEO, the creator concludes: 'I don't need this name at the moment' and 'I think there are just better opportunities in the market for me right now.' The creator identifies several critical risks: the company just missed guidance for the first time in 14 straight quarters; Q3 guidance of 7% sequential growth does not fully match the timing blip narrative given Q2 grew 10% sequentially, suggesting genuine deceleration; growth depends on unpredictable model breakthroughs by the company's own admission; lifts in AI targeting aren't guaranteed every quarter; the business is extremely concentrated in mobile gaming (still majority of revenue); and the consumer vertical is still too small to offset weakness in gaming. The creator also expresses skepticism about the trillion-dollar valuation thesis, stating: 'Right now, I honestly don't see how this becomes a trillion dollar business in the future.' The parallel to Trade Desk is cautionary\u2014Trade Desk appeared cheap before declining further quarter after quarter, demonstrating that 'cheap can become cheaper.'",
+            "risk": "Stock is down 57% from 52-week highs and down 50% year-to-date. The creator warns that if the company cannot re-accelerate growth and the new consumer vertical fails to ramp, AppLovin could follow Trade Desk's trajectory of continued deterioration despite appearing cheap on valuation multiples."
+          }
+        ],
+        "key_warnings": [
+          "Growth deceleration risk in advertising platforms: The creator highlights that cheap valuations in growth stories can become cheaper if deceleration continues. The Trade Desk example is instructive\u2014it appeared inexpensive before missing guidance and subsequently declining further for multiple quarters. AppLovin's first missed guidance in 14 quarters combined with decelerating sequential growth (10% in Q2 to 7% expected in Q3) suggests this pattern may be emerging.",
+          "Dependence on unpredictable AI model improvements: AppLovin's growth is heavily dependent on periodic breakthroughs in its Axon AI targeting model, and management explicitly stated these lifts are not guaranteed every quarter. This creates significant earnings volatility and uncertainty that may not be reflected in current valuations.",
+          "Concentration risk in mobile gaming: AppLovin generates the majority of its revenue from mobile gaming advertising with 14 years until full category penetration. Gaming market weakness directly impacts the entire business. While the new e-commerce/consumer vertical is growing, it remains too small to meaningfully offset gaming weakness.",
+          "Regulatory and reputational headwinds: Though the SEC inquiry has closed, AppLovin faced multiple serious allegations over 2025 (Fuzzy Panda/Culper Research ad fraud claims, Muddy Waters device ID extraction allegations, and SEC inquiry). While the SEC closure is positive, the accumulated reputational damage and history of controversies creates ongoing sentiment risk.",
+          "Competitive threat from Meta: Management stated the threat of Meta re-entering in-app bidding 'has yet to show up in its financials,' but this does not preclude future competitive pressure from Meta, which operates a much larger platform with superior data advantages."
+        ],
+        "tickers_mentioned": [
+          "APP",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "TTD",
+          "U",
+          "VCT"
+        ]
+      },
+      "price_at_recommendation": {
+        "META": 544.3,
+        "RDDT": 160.01,
+        "GOOGL": 342.79,
+        "APP": 308.02
+      }
     }
   },
   "channel_ids": {

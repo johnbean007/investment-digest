@@ -17475,6 +17475,35 @@
       "price_at_recommendation": {
         "NVDA": 219.74
       }
+    },
+    "OY6CKs7vyYU": {
+      "channel": "Jose Najarro Stocks",
+      "title": "If OpenAI Fails\u2026 Nvidia Could Still Be the Biggest Winner",
+      "upload_date": "20260819",
+      "url": "https://www.youtube.com/watch?v=OY6CKs7vyYU",
+      "processed_at": "2026-08-19T11:40:24.616251",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Nvidia's compute infrastructure is versatile, fungible, and broadly adopted across a global ecosystem of cloud providers, enterprises, AI labs, and startups. Even if OpenAI fails, the compute capacity can be resold to other qualified tenants and AI leaders. The investment thesis is that regardless of which AI company emerges as the leader, whoever builds the smartest model will need Nvidia's compute, making Nvidia a winner in multiple AI scenarios. The creator believes the long-term outlook remains strong despite potential near-term volatility from concerns about OpenAI's viability.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Market volatility may occur if there is heightened fear about OpenAI failing or competitive uncertainty in the AI space, though this is viewed as a short-term concern rather than a fundamental issue with Nvidia's business."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Potential for significant market volatility if OpenAI faces existential challenges or if there is widespread fear about the viability of major AI companies, though the creator believes this volatility is temporary and does not change the long-term investment thesis."
+        ],
+        "tickers_mentioned": [
+          "NVDA"
+        ]
+      },
+      "price_at_recommendation": {
+        "NVDA": 219.74
+      }
     }
   },
   "channel_ids": {

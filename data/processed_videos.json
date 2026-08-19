@@ -17589,6 +17589,17 @@
       "price_at_recommendation": {
         "CRWD": 201.27
       }
+    },
+    "nCRr0WeY3VE": {
+      "channel": "CouchInvestor",
+      "title": "OPENAI CRUSHES AI STOCKS, NBIS DILUTES, META CHEAP | MARKET CLOSE",
+      "upload_date": "20260819",
+      "url": "https://www.youtube.com/watch?v=nCRr0WeY3VE",
+      "processed_at": "2026-08-19T21:30:02.847514",
+      "transcript_fails": 1,
+      "last_reason": "unavailable",
+      "terminal": true,
+      "skipped": "no transcript"
     }
   },
   "channel_ids": {

@@ -17504,6 +17504,91 @@
       "price_at_recommendation": {
         "NVDA": 219.74
       }
+    },
+    "h4DPero1j0w": {
+      "channel": "CouchInvestor",
+      "title": "I Can't Stay Quiet About Meta Stock Anymore",
+      "upload_date": "20260819",
+      "url": "https://www.youtube.com/watch?v=h4DPero1j0w",
+      "processed_at": "2026-08-19T17:06:34.344320",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms Inc.",
+            "reason": "The creator is very bullish on Meta, believing it is extremely undervalued. Meta's core advertising business is highly profitable with a gross profit margin around 80% and net profit margin around 30%. The company is experiencing strong growth with a compound annual growth rate of 23.3% over the past 3 years, with expected growth of 23.5% next quarter, then 23%, 20%, and approximately 20% year-over-year. The heavy capex investments in AI and data centers are making the core business significantly better by improving recommendation systems and ad matching. Meta's AI investments show tangible ROI already with better ad targeting and content recommendation. The company has structural advantages in validating AI-generated content through its massive ad marketplace where human behavior provides continuous feedback. A DCF valuation shows the base case implies 44.2% upside with realistic assumptions of 26.5% growth this year and 20% next year. Even the bear case scenario only shows 2.6% downside, making the risk-reward highly favorable. The sentiment and situation resembles 2022 when Meta crashed 76.2% from peak but subsequently rebounded significantly higher with improved profitability and faster growth.",
+            "when_to_buy": "Currently under $600 per share; creator is accumulating shares at these levels. Current price mentioned as $544.",
+            "target_price": "Base case DCF shows 44.2% upside from current levels; bull case shows 52.8% upside. Creator suggests potential for over 50% appreciation over next 12 months based on sentiment shift similar to Google's post-trial recovery.",
+            "cautions": "There is an ongoing trial that could last 6-8 weeks with potential financial penalties ranging from $15 billion to $200 billion (likely paid over 20+ years, approximately $10 billion annually). The more significant risk is not the financial penalty but potential forced changes to the algorithm, infinity scrolling, or age restrictions that could impair the core business and return on ad spend. Mark Zuckerberg and Adam Moseri are expected to testify. Internal documents revealed in trial show Meta's own research indicated 20% of teenagers reported feeling worse about body image after using Instagram, though Meta counters that 40% felt better and 41% felt no different. Free cash flow is still expected to be negative this fiscal year despite the strong core business. Significant uncertainty around when AI/compute monetization or frontier models (Watermelon) will materially impact financials."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Meta faces ongoing legal trial regarding youth safety and social media addiction that could result in forced algorithmic changes or platform restrictions. The outcome is uncertain but changes to the core recommendation system would be more damaging than financial penalties. However, creator believes this is unlikely based on historical precedent (Google antitrust trial did not result in forced divestitures of Android or Chrome).",
+          "Free cash flow margins have plummeted due to massive capex spending on GPUs and data centers. Markets are uncertain about when these investments will translate to profitable new revenue streams (compute sales, subscription services, frontier models). Analyst projections for 2027-2028 free cash flow show enormous variance with no clear consensus.",
+          "Parental and regulatory concerns about youth social media usage could lead to age restrictions or usage limitations that impact user growth and engagement metrics, particularly among the younger demographic that drives engagement metrics."
+        ],
+        "tickers_mentioned": [
+          "META"
+        ]
+      },
+      "price_at_recommendation": {
+        "META": 553.65
+      }
+    },
+    "3pQFrR3pXzE": {
+      "channel": "Jose Najarro Stocks",
+      "title": "Nvidia Stock: OpenAI Doesn\u2019t Need to Win for NVDA to Win!!",
+      "upload_date": "20260819",
+      "url": "https://www.youtube.com/watch?v=3pQFrR3pXzE",
+      "processed_at": "2026-08-19T17:06:50.060425",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Nvidia benefits from structural demand for AI compute regardless of which AI company wins the competitive landscape. The creator argues that demand for intelligence will persist whether OpenAI, Anthropic, or other players dominate. Because whoever emerges as the leading AI provider will need massive amounts of compute, and Nvidia's chips as the market leader will be deployed by the winner, Nvidia wins in multiple scenarios. The chips are fungible and can easily be redirected from one AI company to another, meaning Nvidia captures value from whichever AI solution provider succeeds. The investment thesis is that Nvidia's position as the dominant chip supplier creates a no-lose scenario\u2014the company profits from the overall AI compute arms race regardless of competitive outcomes among AI service providers.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": [
+          "NVDA"
+        ]
+      },
+      "price_at_recommendation": {
+        "NVDA": 220.32
+      }
+    },
+    "2ZIjgQCRDyE": {
+      "channel": "FinTek",
+      "title": "Top Cybersecurity Stock to BUY NOW",
+      "upload_date": "20260819",
+      "url": "https://www.youtube.com/watch?v=2ZIjgQCRDyE",
+      "processed_at": "2026-08-19T17:07:00.633573",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "CRWD",
+            "company_name": "CrowdStrike",
+            "reason": "CrowdStrike offers one of the most unified cloud security platforms and has been the leader in the Gartner Magic Quadrant for endpoint protection for seven consecutive years. The company's annual recurring revenue reached $5.5 billion, growing 24% year-over-year, while operating income grew even faster at 62% year-over-year, demonstrating the company is both gaining more customers and making more money per customer. The company shows a healthy F score and Z score with low risk of bankruptcy.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": [
+          "CRWD"
+        ]
+      },
+      "price_at_recommendation": {
+        "CRWD": 201.27
+      }
     }
   },
   "channel_ids": {

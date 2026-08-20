@@ -17600,6 +17600,143 @@
       "last_reason": "unavailable",
       "terminal": true,
       "skipped": "no transcript"
+    },
+    "wIdsRkxBehc": {
+      "channel": "The Traveling Trader",
+      "title": "You Are NOT Ready for What's Coming to the Stock Market",
+      "upload_date": "20260819",
+      "url": "https://www.youtube.com/watch?v=wIdsRkxBehc",
+      "processed_at": "2026-08-20T01:01:14.144876",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "TLT",
+            "company_name": "iShares 20+ Year Treasury Bond ETF",
+            "reason": "TLT is near all-time lows, currently paying a 5.2% annual dividend yield paid monthly. The Treasury has signaled intervention by doubling buybacks from $2 billion to $4 billion in long-end treasuries starting September 9th, which should provide support for bond prices. For investors looking to offload risk from their portfolio while locking in a guaranteed 5%+ yield, this represents an attractive opportunity to park capital.",
+            "when_to_buy": "Following Treasury intervention signaling and with yields near multi-year highs",
+            "target_price": null,
+            "cautions": "Price can fluctuate despite the locked-in 5.2% dividend yield, so this is suitable for those with a longer-term horizon willing to tolerate principal fluctuations."
+          },
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Nvidia has broken out from previous resistance and is now retracing to the 9 and 21 EMA levels, which creates a potential entry opportunity. The creator noted that Nvidia overestimates its earnings move 77% of the time, meaning implied volatility is often too high. With earnings move priced at plus/minus 4.5%, this creates favorable risk/reward for selling options strategies. The creator is bullish on data center trends and sees continuation potential.",
+            "when_to_buy": "On retracements to the 9 and 21 EMA levels; via dollar-cost averaging or swing trades; earnings week (August 26th) for options selling strategies rather than directional trades",
+            "target_price": null,
+            "cautions": "Earnings are on Wednesday, August 26th and represent a volatility event. While Nvidia typically doesn't move as much as implied, this is still a risk event. The creator recommends selling options (iron condors, cash-secured puts) rather than buying stock into earnings due to the high implied move."
+          },
+          {
+            "ticker": "SMH",
+            "company_name": "Semiconductor ETF",
+            "reason": "SMH is back at the 100-day moving average after a strong run. The creator likes buying semiconductor exposure on pullbacks to the 100-day moving average, viewing it as a good entry point for swing trades in the sector.",
+            "when_to_buy": "At the 100-day moving average",
+            "target_price": null,
+            "cautions": "The creator notes this is not a particularly swing-friendly environment currently as many stocks lack the continuation seen after April."
+          },
+          {
+            "ticker": "CHIPS",
+            "company_name": "iShares Semiconductor ETF",
+            "reason": "CHIPS is back at the 100-day moving average. The creator likes buying chip exposure at this technical level and notes that Intel reports earnings August 27th, which could present opportunities or setups in the sector.",
+            "when_to_buy": "At the 100-day moving average",
+            "target_price": null,
+            "cautions": "The creator notes uncertainty on whether this is a confirmed swing trade setup yet and will provide more detailed analysis in a formal stock video on Sunday."
+          },
+          {
+            "ticker": "HOOD",
+            "company_name": "Robinhood Markets",
+            "reason": "HOOD is currently performing well in the creator's portfolio and showing positive momentum.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "UBER",
+            "company_name": "Uber Technologies",
+            "reason": "UBER is doing well in the creator's portfolio and has recently broken out to the upside, showing positive technical momentum.",
+            "when_to_buy": "Following breakout above recent resistance",
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "NEBIUS",
+            "company_name": "Nebius",
+            "reason": "NEBIUS jumped almost 40% in a week in the creator's portfolio and the creator sees potential for continuation in the data center space. The position has since retraced but the creator maintains a bullish view on data center trends.",
+            "when_to_buy": "On pullbacks following strong runs",
+            "target_price": null,
+            "cautions": "High volatility; the position has experienced significant swings up and down."
+          },
+          {
+            "ticker": "NFLX",
+            "company_name": "Netflix",
+            "reason": "NFLX was purchased in the $70s and has rallied to over $80. The creator bought it despite getting criticism ('clowned on') and it has proven profitable. This demonstrates conviction in the stock despite short-term skepticism.",
+            "when_to_buy": "The creator established position at $70s levels; stock now trading over $80",
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "DELL",
+            "company_name": "Dell Technologies",
+            "reason": "DELL broke out above all-time highs and is currently retracing to the 50-day moving average, which presents a potential support and continuation opportunity. The creator is looking for follow-through on this breakout.",
+            "when_to_buy": "On retracements to the 50-day moving average following all-time high breakout",
+            "target_price": null,
+            "cautions": "The creator is currently in a losing position on DELL. If the stock breaks below the 50-day moving average, the creator will close the trade for a loss and wait for the earnings gap to be addressed before re-entering. Iron reports earnings August 27th."
+          },
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon",
+            "reason": "Amazon's recent earnings were exceptional, with EPS of $5.82 that significantly exceeded expectations. The stock's current PE is lower than its forward PE due to the lag in adjusting valuations for the strong beat, indicating the market is still catching up to the earnings power. This makes it attractive for long-term investors bullish on cloud and AI trends.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms",
+            "reason": "META is the only red position in the creator's entire portfolio, indicating it has underperformed relative to other holdings. However, the creator states they will hold it for the long term and have not yet started a position in a related app play, suggesting cautious optimism despite current weakness.",
+            "risk": null
+          }
+        ],
+        "key_warnings": [
+          "Volatility spike risk in September-October: The creator provided shocking historical data showing that midterm years (2022, 2018, 2014, 1998) tend to experience significant volatility and pullbacks in August-September around OPEX. Specifically: August 2022 saw a 19% peak-to-trough decline, September 2018 marked the exact high before a 20% drop into December, September 2014 resulted in a 10% drop, and September 1998 saw a 13% decline. September OPEX for 2026 is September 18th. The creator recommends hedging by raising cash and not going 'balls to the wall' at all-time highs.",
+          "VIX near year-to-date lows: The VIX is trading in the low 14s near year-to-date lows, which the creator characterizes as 'very cheap insurance.' This suggests the market is pricing in low volatility heading into known volatility catalysts (Nvidia earnings August 26th, Jackson Hole August 28-30). The creator recommends buying 1-3 month out VIX calls, not far out of the money, as a hedge.",
+          "Treasury bond market stress: The US 30-year Treasury yield hit 5.33%, a level not seen since 2007, driven by inflation, oil prices, fiscal deficits, increased corporate bond issuance from AI capex spending, and competition for investor capital. This created global stress across UK, Germany, Japan, and US government bonds. The Treasury's intervention (doubling buybacks) was described as Treasury Secretary Scott Bessant 'blinking first,' suggesting market stress forced policy action.",
+          "Jackson Hole Symposium volatility risk: Jackson Hole commentary on August 28-30 historically causes significant VIX spikes because the market treats it like an FOMC meeting despite no official Fed decision. This is a near-term volatility catalyst to monitor.",
+          "No swing-friendly environment: The creator notes that the current market environment lacks the continuation pattern seen after April 2024, making swing trades more challenging. Many stocks are failing to follow through on breakouts, suggesting more rangebound and choppy market conditions.",
+          "Nvidia earnings implied move smaller than expected: While Nvidia has beaten earnings and revenue 100% of the time, the implied earnings move of plus/minus 4.5% suggests limited stock movement is expected. The creator recommends selling volatility rather than buying into earnings.",
+          "Market currently not overvalued despite all-time highs: The creator notes that the 4x PE ratio for tech stocks is actually near multi-year lows and earnings quality is exceptional (Amazon's current PE is lower than forward PE due to recent beats), contradicting perceptions of overvaluation. However, positioning into all-time highs remains risky given midterm seasonality."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "TLT",
+          "BTC",
+          "ETH",
+          "HOOD",
+          "UBER",
+          "NEBIUS",
+          "SMH",
+          "META",
+          "APP",
+          "CEG",
+          "NFLX",
+          "DELL",
+          "CHIPS",
+          "AMZN",
+          "VIX"
+        ]
+      },
+      "price_at_recommendation": {
+        "META": 546.03,
+        "AMZN": 265.84,
+        "SMH": 560.92,
+        "TLT": 83.02,
+        "HOOD": 95.77,
+        "DELL": 437.55,
+        "NFLX": 80.22,
+        "UBER": 78.04,
+        "NVDA": 217.56
+      }
     }
   },
   "channel_ids": {

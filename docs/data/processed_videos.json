@@ -17737,6 +17737,35 @@
         "UBER": 78.04,
         "NVDA": 217.56
       }
+    },
+    "w13riFrhFL0": {
+      "channel": "FinTek",
+      "title": "Top Robotics Stock to BUY NOW (Physical AI)",
+      "upload_date": "20260821",
+      "url": "https://www.youtube.com/watch?v=w13riFrhFL0",
+      "processed_at": "2026-08-21T16:49:40.347202",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "TER",
+            "company_name": "Teradyne",
+            "reason": "Teradyne is a leader in equipment needed for producing the latest chips and continues to win huge contracts, including a recent $140 million contract for the US Air Force. The company made $1.3 billion in their latest quarter and has grown 87% year-over-year across all business segments. They are investing heavily in the emerging robotic space and are well-positioned as quantum computing starts to grow, benefiting from exposure to both AI and physical AI trends.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The company's stock price is trading at a premium valuation, which presents valuation risk that investors need to factor in before buying this stock."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Valuation risk is a key concern for Teradyne despite strong fundamentals and growth prospects. Investors should be cautious about premium valuations in the robotics and semiconductor equipment space."
+        ],
+        "tickers_mentioned": [
+          "TER"
+        ]
+      },
+      "price_at_recommendation": {
+        "TER": 370.23
+      }
     }
   },
   "channel_ids": {

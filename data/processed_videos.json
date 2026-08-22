@@ -17766,6 +17766,116 @@
       "price_at_recommendation": {
         "TER": 370.23
       }
+    },
+    "J7YJYxsTL3U": {
+      "channel": "CouchInvestor",
+      "title": "5 Stocks I'm Buying for the Second Half of 2026. Here's Why",
+      "upload_date": "20260821",
+      "url": "https://www.youtube.com/watch?v=J7YJYxsTL3U",
+      "processed_at": "2026-08-22T01:25:31.521186",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "RDDT",
+            "company_name": "Reddit",
+            "reason": "Reddit has experienced a 41% pullback from highs and is down 37.5% year-to-date, creating a buying opportunity. The company demonstrates strong fundamentals with revenue growth of 53.5% year-over-year, improving operating margins, positive free cash flow trajectory, and no significant capex issues. The stock has completely erased gains from S&P inclusion, presenting a reset opportunity. The core concern is sentiment around AI data licensing deals with Google, Anthropic, and OpenAI, but if Reddit successfully negotiates fair licensing terms, the stock could recover significantly. The business model remains strong with engaged user communities that will continue to drive discussions and ad revenue.",
+            "when_to_buy": "On further weakness; accumulate during dips",
+            "target_price": null,
+            "cautions": "Stock is under pressure due to sentiment around AI overviews reducing Reddit traffic and uncertainty around data licensing deal valuations. Currently trading below key moving averages (50-day, 100-day, 200-day). Market concerns about whether AI companies are paying adequately for Reddit data or if traffic will be permanently cannibalized by AI search results."
+          },
+          {
+            "ticker": "NEBS",
+            "company_name": "Nubeva Technologies",
+            "reason": "Nubeva is up 155% year-to-date with only a 20% pullback, demonstrating strong execution and growth momentum. The company has resolved its legal situation (violent situation overhang is gone) and successfully issued a convertible bond ($5-5.75 billion), removing a major uncertainty. The creator believes analyst expectations for next year (close to $12 billion revenue) are too low and expects actual ARR between $20-21 billion. The company is executing exceptionally well globally at a premium pace, growing super fast, and analysts struggle to predict their growth because management is executing better than consensus expectations. The creator maintains conviction from when the stock was $20 and believes it could become a $100+ billion company long-term.",
+            "when_to_buy": "Creator has a put position targeting $120 by December; would buy more under $200 per share, and especially at prior levels of $140-150 which occurred 2.5-3 weeks ago. Recommends opening positions slowly without rushing.",
+            "target_price": "$120 by December (put strike); believes $100+ billion valuation possible long-term",
+            "cautions": "Stock is extremely expensive on paper after substantial run-up (up 155% YTD). Currently sitting at 50-day moving average with downtrend from late June peak. Creator acknowledges the high valuation but believes execution will justify it. Risk if execution deteriorates or growth guidance is reduced."
+          },
+          {
+            "ticker": "SOFI",
+            "company_name": "SoFi Technologies",
+            "reason": "SoFi is down 33.2% year-to-date and trading at undervalued levels with a cheap multiple that does not reflect the company's improving profitability and growth rate. The company is growing faster than the market multiple suggests and becoming increasingly profitable, which should command a premium valuation. The creator expects significant upside if the Fed delivers zero or one rate hike in 2026 (market now pricing 42.7% probability for one hike vs. 10.6% one month ago), which would beat SoFi's own guidance assumptions of one to two hikes. The business fundamentals are solid with revenue growth and margin expansion trajectory continuing.",
+            "when_to_buy": "Stock should be back above $20; currently at $19. Target accumulation closer to earnings date or if additional positive Fed signals emerge.",
+            "target_price": "Above $20 (creator states this multiple times as where stock should be trading)",
+            "cautions": "Stock has been range-bound between 100-day moving average for months since late March. Has not traded above 200-day moving average since February 2024. Creator acknowledges skepticism from other investors but maintains the business fundamentals support higher valuation. Dependent on favorable Fed rate cut expectations materializing."
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms",
+            "reason": "Meta is a growth and profitable company trading at undervalued levels with improving business execution despite current headwinds. The creator will continue adding more shares under $600 as long as the company maintains execution and business does not deteriorate. Recent semi-positive news includes a plaintiff dropping claims against Meta in a major bellweather social media addiction trial (no payment involved), reducing one overhang. The core business is benefiting from massive capex investments through improved recommendation systems, better return on ad spend, and future upselling opportunities (subscription products, tools, services). Investment in new AI models (Llama, Llama Code 1.1, 1.2, and upcoming Watermelon) positions Meta to develop new revenue streams. Long-term, the investment cycle will eventually flip to significantly positive free cash flow (creator references historical pattern of capex cycles).",
+            "when_to_buy": "Creator is adding more shares; entry point is under $600 per share",
+            "target_price": null,
+            "cautions": "Currently under pressure from two main headwinds: (1) capex story with expected $22 billion capex by fiscal 2028, which temporarily depresses free cash flow (negative $6.7 billion in FY26, negative $21.6 billion in FY27 before returning to positive $2.1 billion in FY28); (2) social media addiction lawsuits with three bellweather cases selected from 3,300+ consolidated lawsuits, though two cases still pending in October. Creator notes these are short-term overhangs similar to what Google faced. Significant capex investments may continue to pressure near-term cash flow metrics."
+          },
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet Inc. (Google)",
+            "reason": "Google is a very good company that is super profitable and generates revenues well above $100 billion, with the creator believing investors will sleep well owning this name. The company is growing quickly in a massive AI investment cycle but has the cash to survive any potential AI crash or broader market crash. Google Cloud accelerated to 81.8% year-over-year growth last quarter with expanding margins at 35.5%, demonstrating successful capital deployment. The company has exposure to multiple growth vectors including YouTube, search, robotics, AI, drug discovery, space technology, and investments in companies like Anthropic and SpaceX. Forward PE of 25.4x is reasonable for a company with this growth profile, scale, and profitability. Creator notes that during crashes, well-capitalized companies like Google acquire high-growth companies for pennies on the dollar.",
+            "when_to_buy": "If stock drops to $300 or lower, creator would be a happy buyer of more shares. Creator is also considering looking at puts for later in 2026 if premiums are attractive.",
+            "target_price": null,
+            "cautions": "Company is in a huge investment cycle currently showing negative free cash flow in recent quarter (first time in a long time), with market expecting this to continue for several quarters. Current valuation at $4+ trillion already very large. Forward PE of 25.4x appears reasonable but still reflects premium valuation. Creator acknowledges this is a defensive hedge against broader market/AI crash risk rather than a high-growth opportunity at current levels."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Creator expresses skepticism toward 'bottleneck investing' - the strategy of buying companies solving specific current industry bottlenecks without considering what happens when those bottlenecks no longer exist. Warns that when a bottleneck is solved, the growth story often disappears and the company becomes less attractive. Creator states he does not need additional exposure to AI/tech/cloud stories as he already has sufficient winners in these themes from quality names.",
+          "AI search cannibalization risk: Google AI Overviews and ChatGPT integration are reducing search traffic to Reddit and other user-generated content platforms. Data from PromptWatch showed Reddit's share of ChatGPT citations dropped from 3.8% to 0.5% in a 3-day period, though creator notes this is limited data. Risk that AI companies can provide answers directly without driving traffic to source communities.",
+          "Regulatory/litigation overhangs on Meta and other social media companies: Multiple lawsuits alleging social media addiction with 3,300+ consolidated cases. Three bellweather trials selected to establish precedent, though creator notes sentiment can shift quickly (as it did with Google)."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "ORCL",
+          "TSLA",
+          "HOOD",
+          "COIN",
+          "RDDT",
+          "NEBS",
+          "SOFI",
+          "META",
+          "GOOGL",
+          "SNAP",
+          "AMZN",
+          "MRVL"
+        ]
+      },
+      "price_at_recommendation": {
+        "RDDT": 153.29,
+        "META": 549.9,
+        "GOOGL": 344.82,
+        "SOFI": 18.91
+      }
+    },
+    "xhUVjBUtyF8": {
+      "channel": "Daniel Pronk",
+      "title": "Meta Stock is Crashing Again - Here's Why I'm Buying",
+      "upload_date": "20260821",
+      "url": "https://www.youtube.com/watch?v=xhUVjBUtyF8",
+      "processed_at": "2026-08-22T01:25:49.652473",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms Inc.",
+            "reason": "Daniel Pronk argues Meta is an exceptional long-term buy despite short-term legal headwinds. The $1.4 trillion liability headline is sensationalism for shock value; realistic fines are in the tens of billions, which Meta can easily absorb given $90 billion in cash and $130 billion in annual operating cash flow. The litigation is scoped specifically to users under 18, who are not Meta's core revenue and profit generator, meaning the business fundamentals remain intact long-term. Meta's revenue is growing 28% year-over-year with accelerating growth rates over the past 18 months, and operating cash flows are at record levels of $130 billion (up 27% YoY). The stock is trading at only 10.8x operating cash flow (cheaper than the 2020 stock market crash) and 8.1x forward operating cash flow for a high-quality business growing ~30% annually. Meta is critical infrastructure for small businesses\u201496% use Facebook, and businesses earn $321 in revenue for every dollar spent on Meta ads, generating $415 billion in estimated annual economic activity. Super investors added Meta as the second-most bought stock in Q2 2024. Pronk views current weakness as a temporary entry point; near-term headlines and legal fees will impact profits, but the business will grow through this and be far larger and more profitable in 3-5 years.",
+            "when_to_buy": "Current weakness around $550 per share; Pronk is scaling into position and will continue buying if stock falls further",
+            "target_price": null,
+            "cautions": "Short-term uncertainty from ongoing trials could weigh on stock further if negative developments emerge. Legal fees and fines will impact earnings and free cash flow in the near term. Minors represent future user growth\u2014if Meta is forced to significantly restrict under-18 users, there is long-term daily active user growth risk. However, Pronk emphasizes he is unconcerned about permanent business impact."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Litigation risk in the social media sector: Meta faces 29 states suing over child safety practices with trials underway. While Pronk argues the $1.4 trillion damage figure is unrealistic sensationalism, tens of billions in fines are realistic. Similar lawsuits have resulted in $6 million verdicts (KGM case) and $900 million+ penalties (New Mexico). The legal landscape for social media companies protecting minors remains unsettled and will create headline risk and earnings pressure in the short to medium term.",
+          "Earnings volatility: Meta's earnings have been volatile historically and have been declining since Q2 2025 due to legal fees ($2 billion in the most recent quarter alone). While operating cash flow remains strong, earnings-based valuation should be approached cautiously until litigation noise subsides.",
+          "Macro context: The video was recorded in August 2024, but the narrative references events through at least early 2025, indicating this analysis may not reflect current market conditions or trial outcomes."
+        ],
+        "tickers_mentioned": [
+          "META",
+          "MSFT"
+        ]
+      },
+      "price_at_recommendation": {
+        "META": 549.9
+      }
     }
   },
   "channel_ids": {

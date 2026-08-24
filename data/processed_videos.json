@@ -18047,6 +18047,220 @@
       "price_at_recommendation": {
         "NVDA": 214.72
       }
+    },
+    "zYeJZu1hkdM": {
+      "channel": "Ticker Symbol: YOU",
+      "title": "These AI Stocks Will Make Millionaires By 2029",
+      "upload_date": "20260824",
+      "url": "https://www.youtube.com/watch?v=zYeJZu1hkdM",
+      "processed_at": "2026-08-24T21:30:04.939001",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "CHR",
+            "company_name": "Coherent Corporation",
+            "reason": "Coherent is vertically integrated across the entire optical networking stack, from bare wafer production through finished transceivers. They pioneered production on 6-inch indium phosphide wafers, enabling them to produce four times more laser chips at roughly half the cost compared to competitors using smaller wafers. This translates to higher yields and lower production costs. Coherent expects to double their indium phosphide output by end of 2025 and double again by end of 2027, with no competitors coming close. The company reported $2 billion in quarterly revenue up 34% year-over-year with 38.5% gross margins and 59% earnings growth. Data center and communications segment generated $5.3 billion of their $7.1 billion annual revenue. Nvidia invested $2 billion and owns just under 4% of the company, signing a multi-year multi-billion dollar purchase agreement, which validates demand and reduces execution risk on their massive capex spending.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Coherent is spending $14 on capex for every $1 generated in cash from operations, making this a high-risk capex-intensive strategy. The company must execute on its production ramp perfectly as any construction or production delays will hurt them twice\u2014losing market share today and missing demand tomorrow. The company is heavily dependent on hyperscaler AI spending, with over 70% of revenues from data centers, so any slowdown in AI investment spending will hit the stock hard. They also rely on three suppliers (Sumitomo, JX, and AXT) for indium phosphide, which is on China's export controls list, creating geopolitical supply chain risk. Management claims an 18-month payback period on data center capex investments, but if that timeline slips, the investments could become very expensive mistakes."
+          },
+          {
+            "ticker": "LLIT",
+            "company_name": "Lumentum Holdings",
+            "reason": "Lumentum reported $1 billion in quarterly revenue up 109% year-over-year with adjusted gross margins of 50.4%, indicating severe market shortage. Adjusted earnings per share came in at $3.23 versus $0.88 a year prior, representing 267% earnings growth. Their core product is electroabsorption modulated lasers (EMLs) that encode data by blocking and releasing laser light up to 100 billion times per second, enabling the high-speed optical transceivers needed for AI data center networking. Lumentum is effectively sold out of pump lasers for the foreseeable future, demonstrating extreme demand. They only spent $0.60 in capex for every dollar of cash generated, versus Coherent's $14, showing much more capital-efficient growth. Nvidia invested $2 billion in Lumentum with nearly identical terms to their Coherent investment, validating the company's strategic importance to the AI infrastructure buildout.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Lumentum, like Coherent, is heavily exposed to hyperscaler spending, which accounts for the vast majority of their 109% year-over-year revenue growth and likely doesn't come from traditional telecom. If hyperscaler AI spending slows, both companies will be hit hard. Lumentum relies on the same three global indium phosphide suppliers as Coherent, creating the same geopolitical and supply chain risks around China's export controls. The company reported a net loss of $84.65 per share last quarter, though this was due to a $7.8 billion non-cash charge from debt-to-equity conversion, so headline numbers can be misleading. Any production or supply delays in scaling their manufacturing will hurt them twice\u2014losing current market share and missing future demand."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Global indium phosphide (INP) supply is critically constrained with only three suppliers worldwide (Sumitomo, JX, and AXT), and INP is on China's export controls list, creating severe geopolitical supply chain risk that could disrupt both Coherent and Lumentum.",
+          "Both optical networking stocks (CHR and LLIT) are heavily concentrated in hyperscaler AI data center spending, which accounts for over 70% of revenues at Coherent and likely the vast majority at Lumentum. Any pullback in AI capex spending from tech giants will simultaneously hit both companies hard, creating correlated downside risk.",
+          "The optical transceiver market is experiencing a severe shortage with Lumentum's CEO stating the shortage could be worse than the memory shortage. The global optical transceiver market is expected to grow from $23 billion to $112 billion by 2031 (30% CAGR), but this growth depends entirely on sustained hyperscaler AI infrastructure investment and successful scaling of INP production capacity, which faces supply constraints.",
+          "Production delays or capex execution failures at either company could create a double-negative impact: losing market share to competitors today while simultaneously missing future demand and revenue opportunities, given the urgent need to scale during this supply shortage window."
+        ],
+        "tickers_mentioned": [
+          "CHR",
+          "LLIT",
+          "NVDA"
+        ]
+      },
+      "price_at_recommendation": {
+        "CHR": 1.88
+      }
+    },
+    "tZVjwq-A0mM": {
+      "channel": "The Traveling Trader",
+      "title": "I Bought These 7 Undervalued MONSTER Stocks \ud83d\udea8",
+      "upload_date": "20260824",
+      "url": "https://www.youtube.com/watch?v=tZVjwq-A0mM",
+      "processed_at": "2026-08-24T21:31:02.542904",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon",
+            "reason": "Trading at a 20 P/E with a 24 forward P/E after completely smashing earnings with $62 billion net income and $5.82 EPS in the last quarter. AWS capacity is sold through 2026 and well into 2027 with commitments for 2028 already coming in, indicating no shortage in sight for demand. Amazon is one of the only hyperscalers making a massive amount of money from AI with a cloud backlog that just hit almost half a trillion dollars. It is the largest position in Peter Teal's portfolio and Stanley Druckenmiller just added to his position by 10x this quarter. Capex has increased but the company is one of the few hyperscalers with strong fundamentals supporting the growth.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Forward P/E is higher than trailing P/E due to recent earnings beat; capex has increased."
+          },
+          {
+            "ticker": "WMT",
+            "company_name": "Walmart",
+            "reason": "Down 24% from highs and down 10% last week when a quality stock drops this much this fast, it merits attention. From a technical perspective, retesting a previous all-time high level with significant consolidation. However, the drop was due to Q3 guidance being down and the company citing a weak consumer. They are reinvesting $2.9 billion in tariff refunds back into customer experience.",
+            "when_to_buy": "Dollar cost averaging into current levels; creator interested if it reprices to value levels with P/E in the 30 range or below.",
+            "target_price": "Around $78 per share at a P/E of 30, though this represents a 40% drop from highs and creator notes uncertainty on reaching that level.",
+            "cautions": "Currently trading at 37 P/E, historically high for Walmart which typically trades as a value stock in the 20s P/E range. Weak consumer guidance and Q3 guidance down are concerns. Creator is not quick to establish a full position here."
+          },
+          {
+            "ticker": "UBER",
+            "company_name": "Uber Technologies",
+            "reason": "Broke out of a long-term downtrend that started in October 2025. Has 36% five-year revenue CAGR with 13% return on invested capital. Crossed $10 billion in annual free cash flows for the first time ever with all-time highs in gross profit and revenue. Very respectable balance sheet with 0.5 debt-to-equity ratio. Increasing institutional ownership with Bill Ackman doubling down. Trading near the cheapest it has ever been at 17 P/E while breaking records and has not yet addressed multiple markets it can enter to increase total addressable market.",
+            "when_to_buy": "If it can break the $80 level; creator believes it can then 'be off to the races once again.'",
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms",
+            "reason": "Trading at a historically low 16 P/E with all-time high revenue and gross profit. Despite reputation for wasting money, return on invested capital is excellent at 27% with 10-year revenue CAGR of 17%. Increasing institutional ownership. Currently trading sideways in a wedge since March 2025 and is the cheapest Meta has ever been while breaking records.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Meta has the imminent free cash flow problem common to hyperscalers due to increasing capex tearing into current free cash flows, which means the stock will trade at a discount until that problem is fixed. However, this also presents an opportunity to buy an excellent company at cheapest valuations ever."
+          },
+          {
+            "ticker": "INTC",
+            "company_name": "Intel Corporation",
+            "reason": "Trading at $87 per share with CEO initiating his largest buyback at $95 per share. From a technical perspective, equal lows in the low 80s with an earnings gap and 200-day moving average below in the golden pocket. Surge in demand from CPUs following the GPU surge as AI buildout continues to increase CPU use cases. Most importantly, Intel is expanding as a foundry trying to be the TSMC of the West, taking on external customers to build chips based on their designs. Intel is seen as a strategic government asset due to national security implications, with the government holding a 10% equity stake and having crucial interest in Intel's fabrication plant development in Arizona.",
+            "when_to_buy": "For long-term investors; creator notes a drop to around $72 is not out of the question from a technical perspective.",
+            "target_price": null,
+            "cautions": "Forward P/E is only now positive again because trailing P/E was in the negative. Value is not yet visible in fundamentals. High beta stock suitable primarily for long-term investors."
+          },
+          {
+            "ticker": "NFLX",
+            "company_name": "Netflix",
+            "reason": "Dropped almost 50% from all-time highs and hit previous all-time high as support, which caught creator's interest from both fundamental and technical perspectives. Return on invested capital is excellent at 24% with 10-year revenue CAGR almost at 21%, trading like a premium SaaS company. Excellent balance sheet with 0.4 debt-to-equity ratio. All-time high revenue and gross profit with strong gross profit margin. Creator picked up position at 19 P/E, now trading at 24 P/E.",
+            "when_to_buy": "When testing previous all-time high support levels.",
+            "target_price": "Pretty easy path back to $100 level; but creator thinks it needs a few more earnings to prove it warrants a price back to all-time highs where it trades as a growth company.",
+            "cautions": "Not a huge position in creator's portfolio. Netflix is a point of diversification only and needs to prove earnings warrant growth company valuations before reaching all-time highs."
+          },
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet",
+            "reason": "Trading at a historically low 17 P/E with 22 forward P/E. Very similar to Amazon in valuation opportunity. Excellent balance sheet with 1.7 debt-to-equity ratio and 18% 10-year revenue CAGR. 15% return on invested capital with more than half a trillion cloud backlog driven by demand for cloud services and TPUs.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Marred by negative free cash flows for the first time in history because of increase in capex, similar issue to other hyperscalers. This is causing stock to trade at discount until problem is resolved."
+          },
+          {
+            "ticker": "BE",
+            "company_name": "Bloom Energy",
+            "reason": "Nancy Pelosi just disclosed buying up to $12 million in Bloom Energy including shares and call options at the end of July, indicating institutional interest in energy stocks. Creator has a position in Bloom Energy in the AI portfolio after retesting a demand level which was a previous all-time high and consolidation level. Large institutional buyers are loading up on power and energy stocks as Elon Musk has highlighted that power is the number one constraint for AI buildout.",
+            "when_to_buy": "After retesting demand levels that were previous all-time highs and consolidation levels.",
+            "target_price": "If breaking out of trend line, creator thinks Bloom can easily make new highs.",
+            "cautions": "Very high beta stock; not for risk-averse investors."
+          },
+          {
+            "ticker": "VRT",
+            "company_name": "Vertiv Holdings",
+            "reason": "Creator has discussed this energy stock as looking like a pretty decent value. Part of the broader trend of institutional buying in energy stocks due to power being the number one constraint for AI buildout.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "CEG",
+            "company_name": "Constellation Energy",
+            "reason": "Creator has discussed this energy stock as looking like a pretty decent value. Part of the broader trend of institutional buying in energy stocks due to power being the number one constraint for AI buildout.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "TLT",
+            "company_name": "iShares 20+ Year Treasury Bond ETF",
+            "reason": "Currently paying a dividend of 5.2% and trading at all-time lows (adjusted for dividends, back to 2002 levels). TLT moves inverse to long-term bond yields. If Treasury intervention happens as signaled with $1 trillion in buybacks, yields could come down and TLT could move up. Offers a way for risk-averse portfolios to dedicate portion to bonds while maintaining stock-like liquidity.",
+            "when_to_buy": "If Treasury successfully intervenes to bring down long-term bond yields.",
+            "target_price": null,
+            "cautions": "Price of TLT can fluctuate significantly despite guaranteed 5.2% yield, so you could lose money on price while gaining 5% on dividend. For example, 100 shares dropping $5 means $500 loss while still gaining 5% dividend. ESG (short-term treasuries) offers more consistent performance at 3.61% yield with less price fluctuation as alternative. Must own by ex-dividend date to receive monthly dividend."
+          },
+          {
+            "ticker": "COIN",
+            "company_name": "Coinbase",
+            "reason": "Asymmetric bet if Bitcoin pulls back from bull run. Creator believes Bitcoin is due for actual bull run with expectation it runs at least to $90,000 range. Creator notes that historically when Bitcoin spends multiple months below 200-day moving average and crosses above it, bull markets always follow. Coinbase tends to outperform both Bitcoin and Ethereum when they are in bull markets, making it attractive for swing trades.",
+            "when_to_buy": "If Bitcoin pulls back during its bull run; creator does not currently have a position but traded it a couple of times.",
+            "target_price": null,
+            "cautions": "Creator would rather trade Coinbase than MicroStrategy, but both are tied to Bitcoin price action."
+          },
+          {
+            "ticker": "MSTR",
+            "company_name": "MicroStrategy",
+            "reason": "If it breaks above the long-term trend line established since July 2025 when it hit $458 and Bitcoin is still in a bull market, creator sees swing trades being pretty easy on MicroStrategy for short time period. Leveraged play on Bitcoin bull run.",
+            "when_to_buy": "If it breaks above long-term trend line while Bitcoin remains in bull market.",
+            "target_price": null,
+            "cautions": "More volatile than Coinbase; creator personally prefers to trade Coinbase for exposure to Bitcoin bull run."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "MARL",
+            "company_name": "Marwell",
+            "reason": "Reporting August 27th with earnings move of plus or minus 10%, but beats the expected move only 50% of the time, making it a 50/50 proposition. Creator is not interested in playing Marwell for earnings despite being bullish on it for the long term as a stock.",
+            "risk": null
+          }
+        ],
+        "key_warnings": [
+          "Midterm seasonality is upon us as market exits August into September and October, the two most volatile months in the market, especially during midterm years. Creator notes VIX between 25-30 range is very viable target in September-October, historically. Currently VIX is in 15 range.",
+          "Market is currently choppy and not conducive to swing trades like it was after March when the market had low resistance and easily went up. Creator is limiting swing trades until a regime change occurs. Although QQQ and SPY appear to be setting up for potential rallies after pulling back to support levels, the day-to-day trading can be very choppy.",
+          "Treasury yield situation is in historic territory with Treasury announcing potential $1 trillion in buybacks (250x the $4 billion announced last week). Bond market has so far rejected this intervention. Long-term bond yields remain elevated with 30-year yields down almost 1% but still high by historical standards.",
+          "Multiple major economic data points due this week (consumer confidence, core PCE, unemployment claims, Jackson Hole speech) which could impact portfolios. Jackson Hole acts as de facto FOMC since there is no FOMC meeting in August.",
+          "Nvidia raising prices by 15%, but this is just passing on increased memory costs to consumers rather than improving margins, so should not be viewed as immediately bullish unlike previous price hikes.",
+          "Hyperscaler capex is increasing significantly, creating 'imminent free cash flow problem' for Meta, Alphabet, and Amazon despite strong current earnings. These stocks trading at discount until capex problem is resolved and free cash flows improve.",
+          "Multiple stocks are pulling back to technical support levels. If these break, could trigger larger market decline. Creator monitoring VIX spikes as returns are exponentially higher when buying during high VIX environments."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "AMZN",
+          "WMT",
+          "UBER",
+          "META",
+          "INTC",
+          "NFLX",
+          "GOOGL",
+          "BE",
+          "VRT",
+          "CEG",
+          "TLT",
+          "COIN",
+          "MSTR",
+          "MARL",
+          "HOOD",
+          "QQQ",
+          "SPY",
+          "TSLA",
+          "SPCE",
+          "CRW",
+          "NEBS",
+          "ESG"
+        ]
+      },
+      "price_at_recommendation": {
+        "UBER": 79.29,
+        "MSTR": 122.63,
+        "GOOGL": 348.06,
+        "META": 559.02,
+        "VRT": 254.97,
+        "NFLX": 80.01,
+        "BE": 204.02,
+        "INTC": 87.26,
+        "AMZN": 262.07,
+        "COIN": 179.48,
+        "TLT": 82.56,
+        "CEG": 273.43,
+        "WMT": 106.49
+      }
     }
   },
   "channel_ids": {

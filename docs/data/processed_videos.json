@@ -17876,6 +17876,177 @@
       "price_at_recommendation": {
         "META": 549.9
       }
+    },
+    "3JP2Z34s-Ts": {
+      "channel": "CouchInvestor",
+      "title": "The Stock I'm Closest to Buying Right Now",
+      "upload_date": "20260823",
+      "url": "https://www.youtube.com/watch?v=3JP2Z34s-Ts",
+      "processed_at": "2026-08-24T09:22:43.409313",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Nvidia is not an expensive name to own at 21.4x forward PE and 0.5x PEG ratio despite being a $5.2 trillion company. The market expects approximately 100% year-over-year growth for the upcoming quarter and 88.8% growth the quarter after, which is incredible for a company of this size. The creator expects Nvidia to comfortably beat analyst expectations. The stock is not expensive and the creator does not believe a lot of the success is baked in. Most questions will focus on future investments and open-weight model strategy rather than upcoming quarters, suggesting limited downside from earnings.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Questions may arise about risky new investments in open-weight AI models and how Nvidia will compete with other players. The creator notes that Nvidia's $6 billion Poolside deal to build open-weight AI models could potentially cannibalize demand from closed-source competitors like OpenAI and Anthropic, which are some of Nvidia's biggest customers. Extremely volatile stock with price swings from $190 to $277 recently."
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms Inc.",
+            "reason": "The creator believes Meta is extremely undervalued and only needs one or two positive headlines to recover momentum. The business results have been very good but the stock is being held back purely by sentiment. Risk-reward wise, the creator believes it favors the reward. The creator stated they will have to buy more Meta if it stays under $600 per share.",
+            "when_to_buy": "Below $600 per share",
+            "target_price": "Closer to $600 per share",
+            "cautions": "The upcoming trial could change things for Meta in a negative way, though the creator assesses probabilities as favoring the reward. Meta recently fell from near $600 back down to around $550, losing momentum."
+          },
+          {
+            "ticker": "RDDT",
+            "company_name": "Reddit Inc.",
+            "reason": "The creator believes Reddit is an undervalued name with great results and good valuation. The creator plans to build up the position in Reddit, though at a slower pace than previously intended. The business fundamentals support growth.",
+            "when_to_buy": null,
+            "target_price": "$168 per share (to reclaim momentum)",
+            "cautions": "The biggest bear case is if Reddit cannot convince major AI companies like Google, OpenAI, and Anthropic to pay up for Reddit data licensing. If Google's AI overviews steal traffic from the platform without compensation, it would be a major issue. The creator is moving slower on this position pending evidence of data licensing deals being negotiated."
+          },
+          {
+            "ticker": "RUBRIK",
+            "company_name": "Rubrik Inc.",
+            "reason": "The creator owns Rubrik and believes it has a lot of momentum. The company has been beating expectations comfortably and is expected to deliver another beat. Rubrik is growing above 40% and is expected to continue growing close to 40% for the next couple of quarters since revenue is still very low relative to potential market size. A triple beat (beating revenue, earnings, and raising guidance) would support the high valuation the market is giving.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Rubrik is a very expensive name trading at $20 billion market cap with $100+ stock price. It is not profitable from an earnings standpoint, only generating free cash flow. The high multiple requires aggressive growth and positive guidance to justify valuation. Stock is vulnerable if growth disappoints or guidance is not raised."
+          },
+          {
+            "ticker": "SOFI",
+            "company_name": "SoFi Technologies Inc.",
+            "reason": "SoFi has finally started showing momentum, closing above $18 for 2 weeks in a row and moving closer to the $19 mark. The creator is pleased with this progress and wants to see it stay around $19 to establish it as support before attempting to break above $20-21.",
+            "when_to_buy": "Current levels around $19",
+            "target_price": "Above $20 and $21 per share",
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "IREN",
+            "company_name": "CoreWeave (portfolio position, not a direct avoid, but cautious)",
+            "reason": "While the creator owns a CoreWeave position, they note that CoreWeave (Iren equivalent) is underperforming compared to other AI cloud players and is down 1.8% with $15 million market cap. The company needs to show the market they are on track to reach their ARR target and cannot be late again. They lost all momentum after announcing Horizon 1 delivery to Microsoft. The earnings report needs to be very good to rebuild sentiment.",
+            "risk": "Stock has lost all momentum gains and needs exceptional results to reestablish credibility with market on AI cloud revenue transition"
+          }
+        ],
+        "key_warnings": [
+          "Nvidia's new $6 billion Poolside AI investment to build open-weight, open-source AI models could threaten the business models of major AI companies like OpenAI and Anthropic if they become best-in-class and cheaper alternatives. This strategic move by Nvidia could cannibalize demand from some of its largest customers, creating uncertainty about long-term competitive positioning.",
+          "Cybersecurity stocks like CrowdStrike, SentinelOne, and Rubrik are very expensive to own with high valuations. CrowdStrike earnings will set sentiment for the entire cybersecurity sector, so any disappointment could impact other names like Rubrik.",
+          "The portfolio is down 6% over the past week versus S&P down 1.37%, indicating significant underperformance. Year-to-date the portfolio is up 39% versus S&P up 12.2%, suggesting concentrated risk positions that could experience sharp drawdowns.",
+          "High volatility expected in semiconductor and AI-related stocks (Nvidia, Iren, Marvell) due to upcoming earnings reports. The creator mentions this will likely persist and drive high implied volatility for covered call strategies.",
+          "Reddit's data licensing thesis is critical to valuation. If major AI companies like Google, OpenAI, and Anthropic do not agree to pay substantial licensing fees for Reddit data, or if Google's AI Overviews continue stealing traffic without compensation, the investment thesis deteriorates significantly."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "PDD",
+          "INTU",
+          "ZM",
+          "BOX",
+          "CRM",
+          "CRWD",
+          "OKTA",
+          "SNPS",
+          "VEEV",
+          "MRVL",
+          "ADSK",
+          "AFRM",
+          "S",
+          "RBK",
+          "AMD",
+          "GOOGL",
+          "META",
+          "UBER",
+          "AMZN",
+          "NFLX",
+          "MELI",
+          "NU",
+          "SOFI",
+          "COIN",
+          "HOOD",
+          "PLTR",
+          "AXON",
+          "NIO",
+          "RDDT",
+          "DLOCL",
+          "MU",
+          "PYPL",
+          "CORE"
+        ]
+      },
+      "price_at_recommendation": {
+        "IREN": 41.88,
+        "META": 549.9,
+        "RDDT": 153.29,
+        "NVDA": 214.72,
+        "SOFI": 18.91
+      }
+    },
+    "z5VNz0DAcK8": {
+      "channel": "Jose Najarro Stocks",
+      "title": "Nvidia Is Making a MASSIVE Move Before Earnings!!",
+      "upload_date": "20260823",
+      "url": "https://www.youtube.com/watch?v=z5VNz0DAcK8",
+      "processed_at": "2026-08-24T09:22:59.964272",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Nvidia is making strategic moves that demonstrate forward-thinking leadership under CEO Jensen Huang. The company is investing $6 billion into Poolside, an open-source AI company, to ensure that leading open-source AI models run on American (Nvidia) chips rather than Chinese alternatives. Nvidia is hedging its bets by ensuring it wins regardless of whether frontier models or open-source models dominate the future AI landscape. The company previously invested early in OpenAI and Anthropic, built out the Neo-cloud infrastructure, and secured the supply chain for AI chip manufacturing. Nvidia is also raising server prices by 15-17% due to increased memory costs, which is a natural reaction to rising input costs and demonstrates the strong demand for AI infrastructure that shows no signs of slowing. The company provided visibility through 2027 with over a trillion dollars expected in Blackwell and Vera Rubin revenue alone, and the creator expects more visibility beyond 2027 during earnings.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The creator notes that not all moves should be interpreted as purely bullish\u2014the price increases are largely a reaction to rising memory costs rather than pure pricing power. The creator would like Nvidia to provide more concrete data points and visibility beyond 2027 during the earnings call to justify the level of commitments the company is making. Investors should push management for clearer forward guidance on demand and visibility."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Memory and semiconductor input costs are rising across the industry, affecting the bill of materials for AI servers. This is driving price increases not just for Nvidia but across all companies with heavy memory components, including phone manufacturers, gaming console makers (Sony PlayStation, Xbox), and graphics card manufacturers. While Nvidia is unlikely to lose customers due to these price increases given its market dominance, other companies in the semiconductor supply chain may face margin pressure.",
+          "China is aggressively developing open-source AI models (Qwen, DeepSeek, Kimi) and domestic semiconductor alternatives. Nvidia is concerned that if open-source AI models continue to be Chinese-led, they could eventually optimize for Chinese chips rather than Nvidia chips, representing a structural competitive threat to Nvidia's dominance in AI infrastructure. This is a key motivation behind Nvidia's $6 billion investment in Poolside."
+        ],
+        "tickers_mentioned": [
+          "NVDA"
+        ]
+      },
+      "price_at_recommendation": {
+        "NVDA": 214.72
+      }
+    },
+    "KBFoZdjOiXU": {
+      "channel": "Jose Najarro Stocks",
+      "title": "Nvidia Earnings: The $200B Risk Investors Can\u2019t Ignore",
+      "upload_date": "20260822",
+      "url": "https://www.youtube.com/watch?v=KBFoZdjOiXU",
+      "processed_at": "2026-08-24T09:23:18.285423",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "The creator states he is 'very much bullish in Nvidia' and describes it as 'one of my biggest investments' that has been a primary driver of his ability to work independently. He believes Nvidia has 'the potential as long as this AI story continues to innovate to outperform the market in the long term.' The creator expects the AI infrastructure buildout to continue with multi-hundred-billion-dollar revenue opportunities from single customers like OpenAI (4 gigawatts) and SpaceX (5 gigawatts in 2027). He emphasizes Nvidia's strong cash generation ($125 billion in operating cash flow over 12 months) and believes the company can handle its commitments despite fears about leverage. The earnings catalysts include Vera Rubin ramp commentary, LPX updates, CPU opportunities, and commentary on sovereignty AI initiatives globally.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The stock is currently 'priced to perfection' with analyst expectations already well-aligned to company guidance, meaning beats are now expected in low single digits (3-5%) rather than the 12-21% beats seen earlier in the AI cycle. The creator warns that a significant jump in total commitments (from $130 billion toward $200 billion) could create a bear thesis and negative price action, as investors worry about leverage relative to the balance sheet ($80 billion in total cash equivalents). Margin pressure may occur during the Vera Rubin transition, similar to what happened with the Blackwell transition from Hopper. The company also faces competitive threats from hyperscalers designing their own AI chips, though the creator dismisses this as not a major issue based on Nvidia's segment breakdown showing balanced revenue between hyperscalers and AI clouds/industrial/enterprise."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Nvidia's massive and rapidly growing commitments ($119 billion in manufacturing supply commitments, $30 billion in multi-year cloud services, $30 billion in investment commitments, $3.5 billion in facility lease guarantees as of Q1 FY2026) could create significant market fear if these numbers jump dramatically in the upcoming earnings. The creator warns that if total commitments surge from ~$130 billion to $200 billion, bears will question Nvidia's leverage relative to its balance sheet and cash flow, potentially triggering a significant selloff despite the company's fundamental ability to service these obligations.",
+          "Transition risks from Hopper to Blackwell chips caused margin hits and delays; similar margin pressure may occur during the Vera Rubin ramp starting in Q3, though management may have learned lessons to minimize the impact.",
+          "Market expectations for Nvidia earnings beats have normalized significantly\u2014analyst projections are now highly accurate (within 2-3% guidance), eliminating the surprise upside that previously drove stock outperformance. The stock may not move significantly on earnings even if results meet expectations, limiting near-term catalysts.",
+          "Competitive threats from hyperscalers (Google, Amazon, Meta) designing proprietary AI chips remain a bear thesis for some investors, though Nvidia's segment breakdown suggests these hyperscalers are still spending heavily on Nvidia products alongside their own chip development."
+        ],
+        "tickers_mentioned": [
+          "NVDA"
+        ]
+      },
+      "price_at_recommendation": {
+        "NVDA": 214.72
+      }
     }
   },
   "channel_ids": {
@@ -17887,7 +18058,7 @@
     "JoseNajarroStocks": "UC5cEHfCr6WOE1R1zcohd1IA",
     "FinTek": "UCxdWHEhEPiYhCADMrn4PdhQ"
   },
-  "last_eval_week": "2026-W34",
+  "last_eval_week": "2026-W35",
   "alerts": {
     "fallback": "2026-08-12T05:49:52.847848"
   }

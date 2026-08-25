@@ -18335,6 +18335,294 @@
         "MRVL": 229.29,
         "MSFT": 487.31
       }
+    },
+    "iiU6ZzBG_IQ": {
+      "channel": "FinTek",
+      "title": "The Smart Money Just Made Some Big Changes",
+      "upload_date": "20260825",
+      "url": "https://www.youtube.com/watch?v=iiU6ZzBG_IQ",
+      "processed_at": "2026-08-25T17:04:52.147804",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NFLX",
+            "company_name": "Netflix",
+            "reason": "Bill Aman added Netflix as a new position. It is characterized as an established business with recurring demand and durable earnings in uncertain times at a reasonable price. Aman is seeking growth at value prices rather than overpaying for already-priced-in perfection.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "No specific cautions mentioned for Netflix, though Aman's broader philosophy is to maintain a margin of safety on valuations."
+          },
+          {
+            "ticker": "V",
+            "company_name": "Visa",
+            "reason": "Bill Aman added Visa as a new position. It is characterized as an established business with recurring demand and durable earnings in uncertain times at a reasonable price, fitting Aman's strategy of finding growth at value prices.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "No specific cautions mentioned for Visa."
+          },
+          {
+            "ticker": "MA",
+            "company_name": "Mastercard",
+            "reason": "Bill Aman added Mastercard as a new position. It is characterized as an established business with recurring demand and durable earnings in uncertain times at a reasonable price, consistent with Aman's value-conscious approach to growth investing.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "No specific cautions mentioned for Mastercard."
+          },
+          {
+            "ticker": "ACL",
+            "company_name": "Alcon Labs",
+            "reason": "Bill Aman added Alcon Labs, an eyecare company, as a new position. It is characterized as an established business with recurring demand and durable earnings in uncertain times at a reasonable price.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "No specific cautions mentioned for Alcon Labs."
+          },
+          {
+            "ticker": "ICE",
+            "company_name": "Intercontinental Exchange",
+            "reason": "Bill Aman added Intercontinental Exchange as a new position. Beyond being a reliable cash flow generator, Aman views it as an AI-era toll road. Intercontinental Exchange has introduced an MCP connector that allows AI agents to search and access their proprietary financial data. As AI agents become more common in finance, data access payments will become increasingly lucrative, positioning ICE as a gatekeeper of valuable data regardless of which AI model becomes dominant.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "No specific cautions mentioned for ICE."
+          },
+          {
+            "ticker": "SPGI",
+            "company_name": "S&P Global",
+            "reason": "Bill Aman added S&P Global as a new position. Beyond being a reliable cash flow generator, Aman views it as an AI-era toll road. S&P Global runs the S&P 500 index and credit rating agency, giving it access to valuable real-time data that cannot be accessed without their permission. As AI agents become more prevalent in finance, this type of data access will become increasingly profitable, positioning S&P Global as a gatekeeper of financial data.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "No specific cautions mentioned for S&P Global."
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms",
+            "reason": "Bill Aman increased his Meta position as part of a broader AI portfolio rotation. Meta is one of the major AI tech companies in which Aman is increasing exposure, with the position valued at approximately $1.8 billion. Aman's broader portfolio is now majority-weighted toward major AI tech companies.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "While Aman is bullish on AI and Meta, the stock has already run up significantly, so Aman's philosophy emphasizes not overpaying even for growth opportunities."
+          },
+          {
+            "ticker": "MSFT",
+            "company_name": "Microsoft",
+            "reason": "Bill Aman increased his Microsoft position as part of a broader AI portfolio rotation. Microsoft is one of the major AI tech companies in which Aman is increasing exposure, with the position valued at approximately $2.3 billion. Aman's broader portfolio is now majority-weighted toward major AI tech companies.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "While Aman is bullish on AI and Microsoft, the stock has already run up significantly, so Aman's philosophy emphasizes not overpaying even for growth opportunities."
+          },
+          {
+            "ticker": "UBER",
+            "company_name": "Uber Technologies",
+            "reason": "Bill Aman increased his Uber position as part of a broader AI portfolio rotation. Uber is included in Aman's major AI tech company holdings, with the position valued at approximately $2.5 billion.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "While Aman is bullish on AI and Uber, valuations have already run up, so Aman's philosophy emphasizes not overpaying even for growth opportunities."
+          },
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon",
+            "reason": "Bill Aman retained a major Amazon position valued at roughly $2 billion, even after selling around 25% of that position this quarter. Amazon is part of Aman's heavily weighted AI tech portfolio.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Aman trimmed 25% of the position this quarter, suggesting some profit-taking or rebalancing from an already appreciated position."
+          },
+          {
+            "ticker": "RBI",
+            "company_name": "Restaurant Brands International",
+            "reason": "Bill Aman added 14% to his Restaurant Brands position, the owner of Burger King, Popeyes, Tim Hortons, and Firehouse Subs. While not an exciting AI story, Aman identified it as trading at 17 times earnings, a material discount to peers and their view of intrinsic value. This represents Aman's broader strategy of buying strong businesses in growing industries with a good margin of safety on valuation, demonstrating that conviction does not give permission to overpay.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "No specific cautions mentioned, though this is a non-technology position in a mature industry."
+          },
+          {
+            "ticker": "KZ",
+            "company_name": "Kaspi (Caspie)",
+            "reason": "Mohnish Pabry opened a small starter position ($147,000) in Caspie, a Kazakhstan fintech stock. Caspie is a super app used by millions in Kazakhstan for payments and shopping. Pabry was attracted to two main factors: the exceptional amount of cash it produces (2 billion in cash flow, exceptional for Kazakhstan) and the extremely low price investors were willing to pay. WeChat's parent company made a big investment in the stock after it collapsed when the company paused its dividend to fund an acquisition, and despite some recovery, it remains much cheaper than comparable US fintech stocks. This represents Pabry's strategy of searching for cash flow in unpopular places beyond where Western investors typically look.",
+            "when_to_buy": "After market panic following dividend pause; position taken at the bottom after stock collapse",
+            "target_price": null,
+            "cautions": "This is a tiny starter position and a geographically remote investment in Kazakhstan. The 13F filing is delayed up to 45 days, so position size may have changed. Small-cap, illiquid international fintech investment."
+          },
+          {
+            "ticker": "ALPHABET",
+            "company_name": "Alphabet (Google)",
+            "reason": "Berkshire Hathaway's biggest move this quarter was adding another $17 billion to Alphabet, indicating Warren Buffett personally initiated this position after a CNBC interview. This represents a major capital deployment by Berkshire and suggests Buffett sees value in the company despite its significant appreciation.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "This is a significant bet on a mega-cap technology company at or near all-time highs. Buffett has moved from sitting on cash reserves for 14 straight quarters to deploying capital, suggesting he sees adequate valuation, but valuations of mega-cap tech remain elevated."
+          },
+          {
+            "ticker": "NVR",
+            "company_name": "NVR Inc.",
+            "reason": "Berkshire Hathaway owns NVR, a major US homebuilder. Berkshire bet on housing by acquiring all of Taylor Morrison this quarter and adding just over $4 billion to LAR Corp. This reflects a thesis on the US housing deficit: an estimated 4.7 million homes need to be built to meet current demand. Homebuilders are positioned to benefit from filling this gap.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Real estate and homebuilding are cyclical industries sensitive to interest rates. High oil prices are currently affecting airline profitability, which could impact broader economic conditions."
+          },
+          {
+            "ticker": "LAR",
+            "company_name": "Lear Corporation (or LAR - likely Lennar or similar homebuilder)",
+            "reason": "Berkshire Hathaway added just over $4 billion to this homebuilder position as part of a thesis on the US housing deficit. An estimated 4.7 million homes need to be built to meet current demand, positioning homebuilders to benefit from filling this gap.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Real estate and homebuilding are cyclical industries sensitive to interest rates and economic conditions."
+          },
+          {
+            "ticker": "DAL",
+            "company_name": "Delta Airlines",
+            "reason": "Berkshire Hathaway added another $1.6 billion to Delta Airlines. Delta is characterized as a very strong operator and one of the few airlines that grew in 2026, a year that saw budget airlines like Spirit Airlines go bankrupt amid high oil prices. Delta's ability to grow despite industry headwinds suggests operational strength and pricing power.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Airlines are highly sensitive to oil prices and economic cycles. Although Delta performed well in 2026, the sector remains cyclical and capital-intensive. High oil prices are currently pressuring the industry, though Delta has proven more resilient than competitors."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "GOOG",
+            "company_name": "Alphabet (Google)",
+            "reason": "Bill Aman completely sold the last of his $2 billion Google position. Aman did not criticize Google's strategy but viewed the sale as a source of funds to rotate into similar AI stocks he believed were better values. Google's price had run up significantly compared to the rest of big tech, making it less attractive on a value basis despite Aman's overall bullish stance on AI.",
+            "risk": null
+          },
+          {
+            "ticker": "SOX",
+            "company_name": "Semiconductor ETF",
+            "reason": "Michael Burry placed his largest known short against SOX, betting against most of the semiconductor industry at once. Burry believes the AI ecosystem is a circular financing house of cards where companies like Nvidia are paid by AI companies to make chips, then invest that money back into AI companies to buy more chips, artificially inflating the entire ecosystem. Burry argues the current AI cycle looks much stronger than it actually is. SOX has risen over 100% in the past year, and Burry views this as disconnected from underlying earnings fundamentals.",
+            "risk": "Burry is betting on a significant decline in semiconductor stocks. He has acknowledged being early in similar predictions before."
+          },
+          {
+            "ticker": "LULU",
+            "company_name": "Lululemon Athletica",
+            "reason": "While Michael Burry holds Lululemon as a long position (his biggest holding), the context suggests extreme caution: it is down over 65% from recent highs. Though Burry found value at current prices (trading at a PE ratio of less than 10), this represents a deeply distressed stock that reflects major losses for recent investors. The stock's collapse warrants caution despite Burry's value thesis.",
+            "risk": "Stock down over 65% from recent highs. Valuation collapse suggests fundamental business challenges or market repricing of the company's competitive position."
+          },
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia",
+            "reason": "Michael Burry opened a short position against Nvidia worth up to $1 billion in the best-case scenario. Burry's fundamental thesis is that Nvidia benefits from a circular financing structure where it sells chips to AI companies that are themselves funded to buy those chips, creating artificial demand that props up Nvidia's stock price beyond sustainable levels. This is part of Burry's broader bet against the AI ecosystem.",
+            "risk": "Burry is betting on a significant decline in Nvidia stock as the AI ecosystem deflates. The trade could face losses if AI deployment accelerates faster than Burry anticipates."
+          },
+          {
+            "ticker": "PYPL",
+            "company_name": "PayPal Holdings",
+            "reason": "PayPal appears in Michael Burry's portfolio as a stock down substantially from highs, though Burry views it as offering value at current prices. However, the fact that it is down substantially from recent highs and appears in Burry's value portfolio suggests significant investor skepticism and repricing of the business.",
+            "risk": "Down substantially from recent highs. Value trap risk if competitive pressures persist in digital payments."
+          },
+          {
+            "ticker": "ADBE",
+            "company_name": "Adobe Inc.",
+            "reason": "Adobe appears in Michael Burry's portfolio as a stock down substantially from highs, though Burry views it as offering value at current prices. The significant decline from recent highs indicates major repricing of the business.",
+            "risk": "Down substantially from recent highs. Potential value trap if competitive threats or market share losses accelerate."
+          },
+          {
+            "ticker": "FLUT",
+            "company_name": "Flutter Entertainment",
+            "reason": "Flutter appears in Michael Burry's portfolio as a stock down substantially from highs. Burry views it as offering value, but the substantial decline indicates significant repricing.",
+            "risk": "Down substantially from recent highs. Regulatory and competitive risks in online gambling."
+          },
+          {
+            "ticker": "QQQ",
+            "company_name": "Invesco QQQ Trust (Nasdaq-100 ETF)",
+            "reason": "Michael Burry bet against QQQ using put contracts, which become more valuable when stocks fall. QQQ is dominated by big tech and AI stocks. Burry moved money into this bet after closing losses on puts against SOXX. This represents Burry's macro bet that large-cap tech and AI stocks are overvalued relative to earnings.",
+            "risk": "Burry is betting on a significant decline in the Nasdaq-100's largest companies. He has acknowledged being wrong and early on similar macro predictions before."
+          },
+          {
+            "ticker": "MU",
+            "company_name": "Micron Technology",
+            "reason": "Michael Burry has a large short position against Micron, a memory chip maker. This is part of his broader thesis that the AI chip ecosystem is artificially inflated and will decline.",
+            "risk": "Burry is betting on Micron's stock declining as part of an AI correction. Memory chip demand could exceed expectations if AI deployment accelerates."
+          },
+          {
+            "ticker": "PLTR",
+            "company_name": "Palantir Technologies",
+            "reason": "Michael Burry has a short position against Palantir. While some of his shorts have paid off (Tesla and Applied Materials fell), this remains an early bet that may or may not materialize.",
+            "risk": "Burry is betting on Palantir's stock declining. His track record includes bets that have not paid off as predicted."
+          },
+          {
+            "ticker": "ORCL",
+            "company_name": "Oracle Corporation",
+            "reason": "Michael Burry has a short position against Oracle, part of his broader bet against AI stocks he believes are overvalued relative to earnings.",
+            "risk": "Burry is betting on Oracle's stock declining as part of an AI correction. Oracle has strong cloud and database fundamentals that could support stock price."
+          },
+          {
+            "ticker": "NEBIUS",
+            "company_name": "Nebius (Cloud Company)",
+            "reason": "Michael Burry has a short position against Nebius, a high-flying cloud company he believes is overvalued as part of the AI hype cycle.",
+            "risk": "Burry is betting on Nebius's stock declining. Cloud demand from AI could exceed expectations."
+          }
+        ],
+        "key_warnings": [
+          "Michael Burry is betting on a major market downturn and AI correction across semiconductor stocks (SOX, NVDA, MU), cloud stocks (NEBIUS), and large-cap tech (QQQ). Burry views much of the AI ecosystem as a circular financing house of cards where companies artificially prop up demand through interconnected investments. He has positioned for a crash-scenario through shorts and puts. However, Burry acknowledged he is often early with his bearish predictions\u2014his housing short placed 3 years before 2008 nearly bankrupted his fund when investors revolted. His current bets on AI are controversial and should be weighed against the possibility that AI deployment could exceed current expectations. This is NOT a recommended strategy for most investors due to extreme timing risk and leverage involved in short positions and put contracts.",
+          "Masayoshi Son has concentrated 66% of his $18 billion US portfolio into a single stock (Intel worth $12 billion), and maintains enormous positions in untraded companies (OpenAI worth $64 billion and ARM Holdings 90% ownership). While this strategy has historically produced exceptional returns when picking platform winners (e.g., Alibaba investment worth $75 billion), it has also produced massive losses (e.g., WeWork $11 billion loss). Son is heavily exposed to AI stocks (Intel, ARM, Symbotic, various others) with concentrated risk. This approach works in bull markets but can result in catastrophic losses if the chosen platforms underperform.",
+          "Bill Aman has rotated significantly toward AI mega-cap tech stocks (Meta, Microsoft, Uber at $1.8B, $2.3B, and $2.5B respectively, Amazon at $2B). While Aman maintains a philosophy of not overpaying for growth, these stocks have already experienced significant appreciation. The risk is that these positions are priced for perfection and leave limited margin for safety if AI adoption slows or deployment challenges emerge.",
+          "Berkshire Hathaway broke a 14-quarter streak of selling more than buying by deploying $23.5 billion in capital, with $17 billion going to Alphabet. This signals that Buffett (or his successor Greg Abel) sees current valuations as acceptable after an extended period of sitting on $380 billion in cash. However, the deployment was motivated by Buffett personally opening a position in a mega-cap tech stock at or near all-time highs, suggesting valuations are still elevated even if acceptable by Buffett's standards. The risk is that this capital deployment at what Buffett views as fair prices could still result in below-average returns if the market reprices lower.",
+          "The semiconductor sector (tracked via SOX) and AI stocks more broadly have risen over 100% in the past year. This massive appreciation could reflect either: (1) justified returns from transformative AI technology that will compound for decades (the bull case), or (2) a speculative bubble where circular financing and hype have disconnected prices from fundamentals (Burry's bear case). Until AI models deliver meaningful economic returns at scale, this remains highly uncertain. Any slowdown in AI investment or profitability disappointments could trigger sharp reversals in these concentrated positions.",
+          "Pabry's position in Kaspi (Kazakhstan fintech) and Aman's position in Restaurant Brands represent concentrated bets on non-consensus theses. While both investors have strong track records, concentrated bets on unpopular or geographically remote assets carry illiquidity risk and execution risk. A single adverse event could trigger sharp losses in these smaller positions."
+        ],
+        "tickers_mentioned": [
+          "NFLX",
+          "V",
+          "MA",
+          "ACL",
+          "ICE",
+          "SPGI",
+          "META",
+          "MSFT",
+          "UBER",
+          "AMZN",
+          "GOOG",
+          "RBI",
+          "KZ",
+          "INTC",
+          "AMAT",
+          "SMCI",
+          "TSM",
+          "SATA",
+          "C",
+          "LIF",
+          "ARM",
+          "ALPHABET",
+          "NVR",
+          "LAR",
+          "DAL",
+          "KR",
+          "BAC",
+          "SOX",
+          "PYPL",
+          "ADBE",
+          "FLUT",
+          "LULU",
+          "NVDA",
+          "PLTR",
+          "QQQ",
+          "MU",
+          "NEBIUS",
+          "ORCL",
+          "TSLA",
+          "AMAT"
+        ]
+      },
+      "price_at_recommendation": {
+        "LAR": 6.78,
+        "NFLX": 81.78,
+        "QQQ": 710.72,
+        "MU": 925.6,
+        "V": 381.8,
+        "LULU": 117.72,
+        "MA": 596.77,
+        "KZ": 7.5,
+        "PLTR": 176.29,
+        "GOOG": 343.27,
+        "NVDA": 211.72,
+        "META": 565.17,
+        "ICE": 162.35,
+        "ORCL": 145.7,
+        "MSFT": 489.24,
+        "NVR": 6363.98,
+        "DAL": 83.13,
+        "PYPL": 62.1,
+        "SPGI": 433.65,
+        "ADBE": 273.47,
+        "AMZN": 261.22,
+        "FLUT": 102.04,
+        "UBER": 79.77
+      }
     }
   },
   "channel_ids": {

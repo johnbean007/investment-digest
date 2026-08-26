@@ -18623,6 +18623,119 @@
         "FLUT": 102.04,
         "UBER": 79.77
       }
+    },
+    "cR8PUEiA-d0": {
+      "channel": "CouchInvestor",
+      "title": "My Biggest Concern Going Into Nvidia's Earnings Tomorrow",
+      "upload_date": "20260825",
+      "url": "https://www.youtube.com/watch?v=cR8PUEiA-d0",
+      "processed_at": "2026-08-26T09:38:43.980846",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Nvidia sits at the center of the AI buildout and the creator believes it will continue to dominate. The company is expected to report 100% year-over-year revenue growth with 107% EPS growth, continuing its track record of beating both its own guidance and Wall Street expectations. The creator's DCF analysis shows a probability-weighted price 17.4% higher than current levels, with conservative assumptions including 85% revenue growth for fiscal 2027 declining to 6% by year 10, and gross margins stabilizing at 60%. The company benefits from total cost of ownership advantages, GPU efficiency improvements, and ecosystem control. Jensen Huang's leadership and focus on maintaining dominance rather than celebrating current success suggests continued innovation and market share protection. Even as token prices decline, Nvidia's NeoCloud players and data centers will benefit from improved GPU throughput and utilization rates, allowing more tokens to be processed per GPU hour.",
+            "when_to_buy": "The creator suggests opportunities could arise on Thursday (after earnings) if the market overreacts negatively to guidance or raises uncertainties about future growth. Long-term investors should watch for any market dislocation.",
+            "target_price": "DCF analysis suggests fair value 17.4% above current price (exact price not stated in video)",
+            "cautions": "The biggest concern is whether the market believes management's narrative about future growth sustainability. If there are signs that Nvidia's dominance or pricing power may erode, or if guidance disappoints, the stock could crash on Thursday opening. Margin normalization risk: gross margins of 65-66% are extremely elevated and may compress to 60% or lower as competition increases. Concentration risk exists with 21%, 17%, and 16% of revenue from top three customers. Free cash flow guidance is inconsistent quarter-to-quarter. China revenue fell from 42% to 22% due to export restrictions, creating revenue concentration in US. Circular financing structure raises questions about sustainability of some AI companies funded by Nvidia. Token price deflation could pressure customers' willingness to pay premium prices for GPU compute, though the creator argues this benefits Nvidia indirectly through higher utilization."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Circular financing risk: Nvidia provides capital to companies that must then purchase Nvidia capacity, creating revenue that lands back on Nvidia's books. While the creator argues this is similar to traditional venture financing, it creates ecosystem dependency risk. If Nvidia funds companies that fail or the ecosystem becomes unhealthy, Nvidia suffers the most losses.",
+          "Token price deflation is occurring in the AI model market. Open-source and open-weight models from China (Deepseek, Qwen, GLM) are competing aggressively with closed frontier models from OpenAI and Anthropic. This downward price pressure will continue and could compress margins for AI software companies, though it benefits GPU data centers through higher throughput requirements.",
+          "Geopolitical risk: US revenue concentration increased from 58% to 78% (inverse of international decline from 42% to 22%) primarily due to China export restrictions. This creates vulnerability to further geopolitical tensions or policy changes.",
+          "Market sentiment risk on earnings: The creator emphasizes that Nvidia's Q3 results are already 'behind us' and the real question is forward guidance for 2027. If the market perceives any uncertainty about Nvidia's ability to maintain dominance, hypergrowth, or pricing power in a more competitive AI landscape, a sharp selloff is likely on Thursday market open.",
+          "Competitive threats emerging: Chinese AI models are performing exceptionally well on benchmarks. Anthropic's latest model (Claude 5) appears to have limited adoption despite being competitive. Open-source alternatives are proliferating, which could eventually commoditize some AI services and reduce pricing power across the ecosystem."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "AMD",
+          "GOOGL",
+          "META",
+          "MSFT",
+          "AMZN",
+          "INTC",
+          "BRKB",
+          "KKR",
+          "MRVL",
+          "AVGO",
+          "PLTR",
+          "SHOP"
+        ]
+      },
+      "price_at_recommendation": {
+        "NVDA": 213.05
+      }
+    },
+    "wXws6lzAEaI": {
+      "channel": "Daniel Pronk",
+      "title": "5 Stocks I'm Selling, Buying & Watching After Earnings",
+      "upload_date": "20260825",
+      "url": "https://www.youtube.com/watch?v=wXws6lzAEaI",
+      "processed_at": "2026-08-26T09:39:19.027493",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "APP",
+            "company_name": "AppLovin Corporation",
+            "reason": "AppLovin is an advertising business on mobile games with over 1 billion daily active users. The stock fell after a slight 1% revenue miss, but the creator believes the market is overreacting because the business still grew revenue by over 50% in the most recent quarter and is guiding for 47% year-over-year revenue growth in Q3. The business is trading for under 17 times forward free cash flow despite growing at 40%+ rates, representing a significant price-to-growth disconnect. The company has a 66-70% free cash flow margin and is extremely profitable. Even in a conservative DCF assuming only 15% annual free cash flow growth and a 20x multiple, the creator calculates a 17% compounded annual growth rate. In a more realistic scenario where the business achieves the CEO's 30% growth target and trades at a 25x multiple, returns could be 43% annually.",
+            "when_to_buy": "after earnings, at current depressed levels",
+            "target_price": "Conservative DCF: $376 fair value with $500 future price. Realistic DCF: $678 fair value with $900 future price (200% return over 3 years)",
+            "cautions": "Creator is keeping this as a very small position (just over 1% of portfolio) because it is considered more speculative. Position size will only increase if the company continues to show execution and progress in future earnings results. Growth rates are decelerating from historical peaks, though still strong at 40%+."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "LMB",
+            "company_name": "Limbach Holdings Inc.",
+            "reason": "The creator exited this position after the Q2 earnings report broke his original investment thesis. He had bought the stock after Q1 weakness, betting that Q1 was a one-off weak quarter and that the business would rebound in Q2. However, Q2 showed that revenue grew 22% but was almost entirely acquisition-driven (21.7% of growth), suggesting the core business remained weak. More critically, despite 22% revenue growth, EBITDA declined year-over-year and gross margins fell from 28% to 21.5%. Management reframed 2026 as a 'full reset year' rather than a one-off quarter, and shifted focus to data centers as a survival strategy rather than a growth accelerant, suggesting core business weakness. The creator views this as a full turnaround story now, not the healthy business with one weak quarter he originally signed up for. He took a 20% loss but limited total portfolio impact by keeping it small.",
+            "risk": "This is now a turnaround/restructuring play rather than a value opportunity. Margin compression is ongoing, not temporary. Data center strategy appears reactive rather than proactive."
+          },
+          {
+            "ticker": "PLTR",
+            "company_name": "Palantir Technologies Inc.",
+            "reason": "While the creator acknowledges Palantir had the best earnings report of the season with 93% revenue growth, 63% free cash flow margins, and a Rule of 40 score of 155, he is avoiding it due to valuation. The stock is trading at 90 times forward free cash flow, which is extremely high. In the creator's conservative DCF model assuming 50% free cash flow growth annually over 3 years and a multiple compression to 55x FCF, the business still only produces a 12% compounded annual growth rate. This means buying at current prices requires the business to nearly quadruple free cash flow over the next three years just to deliver a 12% annual return. While the fundamentals are 'absolutely incredible,' the creator believes a lot of this growth is already priced in and he doesn't want to underwrite such aggressive growth expectations for only modest returns.",
+            "risk": "Even in very positive scenarios, upside is limited to 12% annually due to already-high valuation. Multiple compression risk if growth disappoints."
+          }
+        ],
+        "stocks_to_watch": [
+          {
+            "ticker": "SKWD",
+            "company_name": "Skyward Specialty Holdings Inc.",
+            "reason": "The creator considers Skyward a well-managed insurance business with impressive fundamentals. The company reported 17.5% premium growth, a combined ratio of 89.5% (very low for insurance), 46% earnings per share growth, and 14.6% book value growth. Remarkably, Skyward is one of the only insurers growing in double digits while the insurance industry is in a soft market cycle where competitors are flat to declining. The business operates across 11 diverse insurance segments with the largest being only 12% of the portfolio, allowing it to shift capital to growing segments and maintain growth through different market cycles. Revenue has compounded 29.4% annually since Q4 2021, and earnings have compounded 42.4% while hitting all-time highs. Currently trading at 13.6x trailing earnings and 11x forward earnings, which is on the lower end of historical ranges. The creator believes it's undervalued relative to its growth trajectory, especially as the insurance cycle softens further.",
+            "valuation": "13.6x P/E (trailing), 11x forward P/E. Stock has risen 35-53% since earnings but still fairly valued.",
+            "cautions": "Creator does not own this stock because the insurance industry is outside his circle of competence, despite acknowledging its quality. He tried building a position but couldn't develop deep conviction. Recommend as a watch list item only for investors comfortable with insurance sector dynamics."
+          },
+          {
+            "ticker": "NUB",
+            "company_name": "Nu Holdings (New Bank)",
+            "reason": "New Bank reported fantastic earnings with 39% revenue growth, 43% gross profit growth, and 49% earnings growth on an FX-neutral basis. The business hit over $1 billion in quarterly earnings for the first time and is growing at 50%+ on a trailing 12-month basis. The core thesis is that New Bank is digitizing the Latin American economy, specifically Brazil, Mexico, and Colombia. The company is now the largest digital bank in Mexico, has broken even there (contributing positively to earnings), and has superior underwriting capabilities as evidenced by declining non-performing loans while competitors face increasing loss rates. 35% of Mexican users had no bank account before joining New Bank, and 52% had no credit card, indicating massive addressable market runway. Average revenue per user grew 418% since Q4 2020 while cost to serve customers declined 9%, demonstrating powerful unit economics. New Bank is trading at only 18x annualized earnings and 14.3x forward PE despite 50% revenue growth\u2014significantly cheaper than mature banks trading at 15x earnings with 10% growth.",
+            "valuation": "18x annualized earnings, 14.3x forward PE",
+            "cautions": "Creator does not own New Bank because he already has a large position in Mercado Libre, which has a similar fintech business but with additional competitive advantages (e-commerce platform provides additional customer data, plus owns media/advertising business). For the extra $30 billion market cap, Mercado Libre provides diversification, greater moats, and in the creator's view, is even cheaper. Recommend New Bank only if you don't already have exposure through Mercado Libre."
+          }
+        ],
+        "key_warnings": [
+          "Earnings season was 'quite dramatic' with many thesis-breaking results. Investors should carefully monitor whether their original investment theses remain intact after earnings rather than averaging down into broken positions. The creator's experience with Limbach demonstrates the importance of setting clear conviction thresholds and exiting when fundamental assumptions change.",
+          "Growth deceleration is accelerating across multiple high-growth names. AppLovin's growth is decelerating from 89% historical CAGR to 60% trailing 12-month to 53% quarterly. Even Palantir is expected to grow 82% this year versus 93% last quarter. Valuations have not fully adjusted to slower (but still strong) growth rates, creating valuation traps.",
+          "Insurance industry is in a soft market cycle with most competitors seeing flat to declining growth, making Skyward's 17.5% growth an outlier. Monitor whether this outperformance is sustainable or industry-dependent."
+        ],
+        "tickers_mentioned": [
+          "LMB",
+          "SKWD",
+          "NUB",
+          "PLTR",
+          "APP",
+          "NVDA",
+          "MELI"
+        ]
+      },
+      "price_at_recommendation": {
+        "LMB": 41.91,
+        "APP": 310.54,
+        "PLTR": 172.73
+      }
     }
   },
   "channel_ids": {

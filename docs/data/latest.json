@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-27T23:16:38.587083",
+  "generated_at": "2026-08-28T00:38:11.018465",
   "video_count": 87,
-  "stock_count": 159,
+  "stock_count": 158,
   "stocks": [
     {
       "ticker": "AAOI",
@@ -244,33 +244,6 @@
         }
       ],
       "description": "Provides digital media and customer experience software for creative professionals"
-    },
-    {
-      "ticker": "AIRM",
-      "company_name": "AirTest Systems",
-      "buy_count": 1,
-      "avoid_count": 0,
-      "first_mention_date": "28 Jul 2026",
-      "price_at_first_mention": null,
-      "pct_change_since_rec": null,
-      "market": null,
-      "buys": [
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "Chip and AI Stocks Are Crashing. Here's What I'm Doing RIGHT NOW!",
-          "url": "https://www.youtube.com/watch?v=l89WFpMmWck",
-          "upload_date": "20260728",
-          "date_label": "28 Jul 2026",
-          "ticker": "AIRM",
-          "company_name": "AirTest Systems",
-          "reason": "The creator bought AirTest Systems today. He is acquiring high beta semiconductor and AI-adjacent names during the current sell-off, viewing this as an opportunity to enter names that he believes will benefit from the continued AI cycle.",
-          "when_to_buy": "Current market downturn; creator bought today",
-          "target_price": null,
-          "cautions": null
-        }
-      ],
-      "avoids": [],
-      "description": null
     },
     {
       "ticker": "ALAB",
@@ -968,7 +941,7 @@
     {
       "ticker": "AOI",
       "company_name": "Iridian Spectral Technologies (AOI, likely Applied Optoelectronics)",
-      "buy_count": 1,
+      "buy_count": 2,
       "avoid_count": 0,
       "first_mention_date": "10 Aug 2026",
       "price_at_first_mention": null,
@@ -987,6 +960,19 @@
           "when_to_buy": "After recent breakout",
           "target_price": null,
           "cautions": "Photonics and optical networking stocks can be violent; requires risk tolerance for significant intraday and swing swings."
+        },
+        {
+          "channel": "Mr. FIRED Up Wealth",
+          "title": "This AI Stock Is Down Over 50% \u2014 Is It the Best AI Stock to Buy Now?",
+          "url": "https://www.youtube.com/watch?v=ZMq04JA2R54",
+          "upload_date": "20260827",
+          "date_label": "27 Aug 2026",
+          "ticker": "AOI",
+          "company_name": "Applied Opto Electronics",
+          "reason": "AOI builds optical transceivers that enable AI data centers to communicate with light instead of copper, solving critical power consumption and bandwidth bottlenecks. The company is rapidly expanding its Houston-area facility in Sugarland, Texas with a 210,000 square foot facility expected to begin production in late Q3 2026 and reach full capacity by mid-2027, targeting 930,000 units per month of 800G and 1.6T products. By mid-2027, approximately 40% of the company's 471 million per month transceiver revenue capacity is expected to be US-based, providing strategic advantage in a fragile global supply chain. The company's Linear Pluggable Optics (LPO) technology uses 50% less power than alternatives, which is critical as power consumption is the major bottleneck limiting data center expansion. The addressable market is expanding as hyperscalers (Microsoft, Amazon, Oracle, Google) are driving rapid shift from 100G and 400G to 800G and 1.6T infrastructure needed to train and operate large language models.",
+          "when_to_buy": "Around $100-$114 range; creator bought in the $70s-$80s with cost basis of $79.70",
+          "target_price": "Conservative case: $175 per share (4x sales multiple on $4B revenue); mid case: $187 per share (20-25x forward earnings); bull case: $260 per share (6x sales multiple); extreme bull case cited by some analysts: $300-$450 (requires maintaining growth multiple as revenue scales)",
+          "cautions": "Very speculative stock with high beta (up 187% YTD, 1457% over 5 years). Top 10 customers represent 96.6% of 2025 revenue, creating concentration risk. Gross profit margins under 30%, which is low. Company is burning approximately $12,000 per employee. Recent $600 million equity offering caused 15% single-day drop (though actual dilution was only 5.5-6.5%), and further dilution likely needed to fund Sugarland expansion. Execution risk is significant: Sugarland facility might not reach full capacity immediately, management often misses timelines, component and equipment shortages could paralyze the plant, and hyperscalers could cut orders or fail qualification. Legacy cable TV revenue (currently ~$90M/month) could fade faster than expected. Should only hold as small 1% speculative position, not more. Nothing is guaranteed, and stock should be monitored continuously rather than held passively."
         }
       ],
       "avoids": [],
@@ -995,7 +981,7 @@
     {
       "ticker": "APP",
       "company_name": "AppLovin Corporation",
-      "buy_count": 1,
+      "buy_count": 2,
       "avoid_count": 1,
       "first_mention_date": "18 Aug 2026",
       "price_at_first_mention": 308.02,
@@ -1051,6 +1037,19 @@
           "when_to_buy": "after earnings, at current depressed levels",
           "target_price": "Conservative DCF: $376 fair value with $500 future price. Realistic DCF: $678 fair value with $900 future price (200% return over 3 years)",
           "cautions": "Creator is keeping this as a very small position (just over 1% of portfolio) because it is considered more speculative. Position size will only increase if the company continues to show execution and progress in future earnings results. Growth rates are decelerating from historical peaks, though still strong at 40%+."
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "This 1 Stock is About to Explode\u203c\ufe0f",
+          "url": "https://www.youtube.com/watch?v=ir3oCzUEu7E",
+          "upload_date": "20260827",
+          "date_label": "27 Aug 2026",
+          "ticker": "APP",
+          "company_name": "AppLovin Corporation",
+          "reason": "AppLovin is trading at only 15x forward PE despite being a software company with a Rule of 40 score between 116-137%. The company has 84% EBITDA margins plus 53% YoY revenue growth, generating a Rule of 40 of 137%. Return on invested capital stands at 64%, on par with Nvidia at 59% and significantly higher than Meta (17%) and Microsoft (21%). The stock is down 58% from highs with all-time highs in gross profit, revenue, EBITDA, net income, and EPS. Trading at only $105 billion market cap compared to peers like Palantir ($426B), ServiceNow ($143B), and Salesforce ($266B). PEG ratio of 0.292 indicates significant undervaluation compared to CRM (above 1.0), Uber (7.25), and ServiceNow (4.0). The company completes a sell model pattern and is approaching support levels, presenting a long-term accumulation opportunity.",
+          "when_to_buy": "Creator suggests either dollar cost averaging partially at current levels and adding more if it drops further, or waiting for a breakout above the trend line before entering first tranche. Cautions against waiting for perfect entry given the beaten-down valuation.",
+          "target_price": null,
+          "cautions": "There is a dangerous support level at $200. The stock is completing a sell model distribution pattern and may take time to recover. Creator emphasizes this is a long-term investment perspective, not a short-term trade. Stock could drop further before reversing."
         }
       ],
       "avoids": [
@@ -2560,27 +2559,14 @@
     },
     {
       "ticker": "COREWEAVE",
-      "company_name": "CoreWeave",
-      "buy_count": 4,
+      "company_name": "CoreWeave Inc.",
+      "buy_count": 3,
       "avoid_count": 0,
-      "first_mention_date": "28 Jul 2026",
+      "first_mention_date": "31 Jul 2026",
       "price_at_first_mention": null,
       "pct_change_since_rec": null,
       "market": null,
       "buys": [
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "Chip and AI Stocks Are Crashing. Here's What I'm Doing RIGHT NOW!",
-          "url": "https://www.youtube.com/watch?v=l89WFpMmWck",
-          "upload_date": "20260728",
-          "date_label": "28 Jul 2026",
-          "ticker": "COREWEAVE",
-          "company_name": "CoreWeave",
-          "reason": "CoreWeave is one of the biggest neo cloud players with over 1 gigawatt of active power and a market cap of $36.7 billion. The creator explicitly stated 'Yes, 100%' when asked if he is still bullish on CoreWeave. He is continuing to buy the stock over time during this market dip, viewing it as an opportunity given the strong demand for cloud infrastructure supporting AI workloads.",
-          "when_to_buy": "During current market downturn; creator is buying on dips",
-          "target_price": null,
-          "cautions": null
-        },
         {
           "channel": "Ticker Symbol: YOU",
           "title": "The Only AI Stocks I'm Buying (Before It's Too Late)",
@@ -4369,6 +4355,70 @@
       "description": "Operates regulated exchanges and clearing houses for derivatives and financial securities"
     },
     {
+      "ticker": "IGV",
+      "company_name": "iShares Expanded Tech-Software Sector ETF",
+      "buy_count": 1,
+      "avoid_count": 0,
+      "first_mention_date": "27 Aug 2026",
+      "price_at_first_mention": 110.32,
+      "pct_change_since_rec": 0.0,
+      "market": {
+        "ticker": "IGV",
+        "name": "iShares Expanded Tech-Software ",
+        "currency": "USD",
+        "sector": null,
+        "industry": null,
+        "market_cap": null,
+        "current_price": 110.32,
+        "daily_change_pct": 7.74,
+        "month_change_pct": 20.2,
+        "week52_high": 117.99,
+        "week52_high_date": "23 Sep 2025",
+        "week52_low": 73.93,
+        "week52_low_date": "10 Apr 2026",
+        "rsi": 70.4,
+        "rsi_label": "overbought",
+        "ma50": 95.6,
+        "ma200": 93.68,
+        "ma_signal": "golden_cross",
+        "pe_trailing": 37.510532,
+        "pe_forward": null,
+        "peg_ratio": null,
+        "revenue_growth": null,
+        "earnings_growth": null,
+        "free_cashflow": null,
+        "profit_margins": null,
+        "debt_to_equity": null,
+        "beta": null,
+        "short_percent": null,
+        "dividend_yield": 0.02,
+        "analyst_buy": null,
+        "analyst_hold": null,
+        "analyst_sell": null,
+        "analyst_target": null,
+        "analyst_upside_pct": null,
+        "earnings_date": null,
+        "earnings_days": null
+      },
+      "buys": [
+        {
+          "channel": "The Traveling Trader",
+          "title": "This 1 Stock is About to Explode\u203c\ufe0f",
+          "url": "https://www.youtube.com/watch?v=ir3oCzUEu7E",
+          "upload_date": "20260827",
+          "date_label": "27 Aug 2026",
+          "ticker": "IGV",
+          "company_name": "iShares Expanded Tech-Software Sector ETF",
+          "reason": "Software sector is soaring after a long period of underperformance. IGV is up 33% and finally breaking out toward all-time highs of approximately $118. The sector is benefiting from renewed confidence in software companies despite AI concerns, as evidenced by strong earnings from CRM (23% single day gain) and renewed investor interest in high-quality software franchises.",
+          "when_to_buy": null,
+          "target_price": "All-time highs around $118",
+          "cautions": null
+        }
+      ],
+      "avoids": [],
+      "description": "ETF tracking U.S. software stocks and interactive media companies"
+    },
+    {
       "ticker": "INTC",
       "company_name": "Intel Corporation",
       "buy_count": 3,
@@ -5014,11 +5064,11 @@
     {
       "ticker": "LRCX",
       "company_name": "Lam Research",
-      "buy_count": 2,
+      "buy_count": 1,
       "avoid_count": 0,
-      "first_mention_date": "28 Jul 2026",
-      "price_at_first_mention": 269.61,
-      "pct_change_since_rec": 18.2,
+      "first_mention_date": "12 Aug 2026",
+      "price_at_first_mention": 326.11,
+      "pct_change_since_rec": -2.3,
       "market": {
         "ticker": "LRCX",
         "name": "Lam Research Corporation",
@@ -5058,19 +5108,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "Chip and AI Stocks Are Crashing. Here's What I'm Doing RIGHT NOW!",
-          "url": "https://www.youtube.com/watch?v=l89WFpMmWck",
-          "upload_date": "20260728",
-          "date_label": "28 Jul 2026",
-          "ticker": "LRCX",
-          "company_name": "Lam Research",
-          "reason": "The creator bought Lam Research (I ran) today during the sell-off. He is using this dip as an opportunity to rotate from lower beta semiconductor names into higher beta names like Lam Research, which is a key equipment player in the semiconductor supply chain that benefits from AI chip demand.",
-          "when_to_buy": "Current market downturn; creator bought today",
-          "target_price": null,
-          "cautions": null
-        },
         {
           "channel": "Jose Najarro Stocks",
           "title": "AI STOCK MARKETS ARE RIPPING! MY PORTFOLIO IS SAVED",
@@ -5928,12 +5965,12 @@
     },
     {
       "ticker": "MRVL",
-      "company_name": "Marvell Technology",
-      "buy_count": 4,
+      "company_name": "Marvell Technology Inc.",
+      "buy_count": 3,
       "avoid_count": 0,
-      "first_mention_date": "28 Jul 2026",
-      "price_at_first_mention": 174.47,
-      "pct_change_since_rec": 38.4,
+      "first_mention_date": "10 Aug 2026",
+      "price_at_first_mention": 218.72,
+      "pct_change_since_rec": 10.4,
       "market": {
         "ticker": "MRVL",
         "name": "Marvell Technology, Inc.",
@@ -5973,19 +6010,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "Chip and AI Stocks Are Crashing. Here's What I'm Doing RIGHT NOW!",
-          "url": "https://www.youtube.com/watch?v=l89WFpMmWck",
-          "upload_date": "20260728",
-          "date_label": "28 Jul 2026",
-          "ticker": "MRVL",
-          "company_name": "Marvell Technology",
-          "reason": "Marvell is mentioned as down 7% but within the broader semiconductor ecosystem benefiting from AI demand. The creator is discussing it in context of the AI and semiconductor complex opportunity, buying high-beta names during this dip.",
-          "when_to_buy": "Current market downturn",
-          "target_price": "174 (approximate current price mentioned)",
-          "cautions": null
-        },
         {
           "channel": "The Traveling Trader",
           "title": "These 8 Stocks Are about to Explode (I'm Buying NOW)",
@@ -6314,12 +6338,12 @@
     },
     {
       "ticker": "MU",
-      "company_name": "Micron Technology",
-      "buy_count": 4,
+      "company_name": "Micron Technology Inc.",
+      "buy_count": 3,
       "avoid_count": 2,
-      "first_mention_date": "28 Jul 2026",
-      "price_at_first_mention": 820.53,
-      "pct_change_since_rec": 14.0,
+      "first_mention_date": "31 Jul 2026",
+      "price_at_first_mention": 823.03,
+      "pct_change_since_rec": 13.7,
       "market": {
         "ticker": "MU",
         "name": "Micron Technology, Inc.",
@@ -6359,19 +6383,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "Chip and AI Stocks Are Crashing. Here's What I'm Doing RIGHT NOW!",
-          "url": "https://www.youtube.com/watch?v=l89WFpMmWck",
-          "upload_date": "20260728",
-          "date_label": "28 Jul 2026",
-          "ticker": "MU",
-          "company_name": "Micron Technology",
-          "reason": "Micron is a key memory play in the AI infrastructure buildout. The creator mentions it as down 8% and part of the semiconductor complex that benefits from AI capex spending by hyperscalers, as evidenced by earnings calls and capex guidance from TSMC, Google, Intel, and others.",
-          "when_to_buy": "Current market downturn",
-          "target_price": "820 (approximate current price mentioned)",
-          "cautions": null
-        },
         {
           "channel": "Ticker Symbol: YOU",
           "title": "The Only AI Stocks I'm Buying (Before It's Too Late)",
@@ -7020,70 +7031,6 @@
       "description": "Produces and streams television series, films, and games"
     },
     {
-      "ticker": "NIO",
-      "company_name": "NIO Inc.",
-      "buy_count": 1,
-      "avoid_count": 0,
-      "first_mention_date": "28 Jul 2026",
-      "price_at_first_mention": 4.68,
-      "pct_change_since_rec": -6.8,
-      "market": {
-        "ticker": "NIO",
-        "name": "NIO Inc.",
-        "currency": "USD",
-        "sector": "Consumer Cyclical",
-        "industry": "Auto Manufacturers",
-        "market_cap": null,
-        "current_price": 4.36,
-        "daily_change_pct": -0.23,
-        "month_change_pct": -6.84,
-        "week52_high": 8.02,
-        "week52_high_date": "02 Oct 2025",
-        "week52_low": 4.3,
-        "week52_low_date": "27 Aug 2026",
-        "rsi": 38.6,
-        "rsi_label": "neutral",
-        "ma50": 4.76,
-        "ma200": 5.28,
-        "ma_signal": "death_cross",
-        "pe_trailing": null,
-        "pe_forward": 24.952847,
-        "peg_ratio": null,
-        "revenue_growth": 1.122,
-        "earnings_growth": null,
-        "free_cashflow": null,
-        "profit_margins": -0.09086,
-        "debt_to_equity": 183.304,
-        "beta": 0.934,
-        "short_percent": 0.064899996,
-        "dividend_yield": null,
-        "analyst_buy": 18,
-        "analyst_hold": 6,
-        "analyst_sell": 2,
-        "analyst_target": 7.37,
-        "analyst_upside_pct": 69.0,
-        "earnings_date": null,
-        "earnings_days": null
-      },
-      "buys": [
-        {
-          "channel": "CouchInvestor",
-          "title": "This AI Selloff Is a Bloodbath. Here's What's Going On",
-          "url": "https://www.youtube.com/watch?v=65IABPxBJ9M",
-          "upload_date": "20260728",
-          "date_label": "28 Jul 2026",
-          "ticker": "NIO",
-          "company_name": "NIO Inc.",
-          "reason": "The creator describes Nio as one of their highest conviction names, if not the highest conviction name right now. Despite being down 42% from end of June highs, the stock is still up 268% year-to-date. The creator argues that rapid pullbacks are normal after such fast appreciation, and the fundamental business has not deteriorated 42% in a month. The creator believes that if the business was worth $400 per share by end of 2025, the current pullback from that valuation perspective is less significant. The creator expects comments from hyperscalers to help support the stock and wants to see it get back above $181 for momentum confirmation.",
-          "when_to_buy": "Current levels attractive after 42% pullback; needs to get back above $181 for momentum confirmation",
-          "target_price": null,
-          "cautions": "Stock is extremely volatile and down 42% in one month; requires conviction in long-term thesis and comfort with significant drawdowns; dependent on hyperscaler demand comments"
-        }
-      ],
-      "avoids": [],
-      "description": "Manufactures electric vehicles and battery-swapping/charging infrastructure"
-    },
-    {
       "ticker": "NLR",
       "company_name": "Vaneck Nuclear Energy ETF",
       "buy_count": 2,
@@ -7225,7 +7172,7 @@
     {
       "ticker": "NOW",
       "company_name": "ServiceNow Inc.",
-      "buy_count": 2,
+      "buy_count": 3,
       "avoid_count": 0,
       "first_mention_date": "02 Aug 2026",
       "price_at_first_mention": 111.23,
@@ -7294,6 +7241,19 @@
           "when_to_buy": "Watch for breakout above current trend line resistance",
           "target_price": "160-190 range in midterm if breakout occurs",
           "cautions": "Currently coming up against trend line resistance from technical perspective. Could experience volatility if it breaks down below support."
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "This 1 Stock is About to Explode\u203c\ufe0f",
+          "url": "https://www.youtube.com/watch?v=ir3oCzUEu7E",
+          "upload_date": "20260827",
+          "date_label": "27 Aug 2026",
+          "ticker": "NOW",
+          "company_name": "ServiceNow Inc.",
+          "reason": "ServiceNow is breaking out with the software sector (IGV ETF) finally gaining momentum. The stock shows excellent fundamentals with 71% gross profit margin, high EBITDA metrics, and a respectable Rule of 40 score around 55%. From a fundamental perspective using Alphascope analysis, ServiceNow ranks among the best available stocks when reviewing revenue projection and gross profit projection metrics.",
+          "when_to_buy": "Creator is prepared for potential rejection at $140 trend line in short term, noting most gamma is concentrated there. However, suggests the longer-term breakout remains intact.",
+          "target_price": "All-time highs around $118 for IGV ETF (ServiceNow is major component)",
+          "cautions": "Short-term price rejection likely at $140 trend line due to gamma concentration at that level. This is a near-term resistance risk despite positive long-term fundamentals."
         }
       ],
       "avoids": [],
@@ -7392,7 +7352,7 @@
     {
       "ticker": "NVDA",
       "company_name": "Nvidia Corporation",
-      "buy_count": 26,
+      "buy_count": 27,
       "avoid_count": 1,
       "first_mention_date": "31 Jul 2026",
       "price_at_first_mention": 200.75,
@@ -7773,6 +7733,19 @@
           "when_to_buy": "Buy on dips into GPU weakness; CPU and LPU upside not yet priced in.",
           "target_price": null,
           "cautions": "LPU business is nascent and dependent on Grok/X adoption. CPU business is still ramping and faces competition from established x86 players (Intel, AMD). Execution risk on new product categories."
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "This 1 Stock is About to Explode\u203c\ufe0f",
+          "url": "https://www.youtube.com/watch?v=ir3oCzUEu7E",
+          "upload_date": "20260827",
+          "date_label": "27 Aug 2026",
+          "ticker": "NVDA",
+          "company_name": "Nvidia Corporation",
+          "reason": "Nvidia crushed earnings with EPS of $2.46 (up 128% YoY) and total revenue of $96.22 billion (up 106% YoY), with data center revenue at $89 billion. The company delivered forward Q3 revenue guidance of $98 billion, which exceeds historical performance. Nvidia maintains consistent 75% gross margins while projecting 70% YoY growth for forward year 2028, with a massive $99 billion remaining under buyback authorization. Currently trading at 28x trailing PE and 25x forward PE with projected 2025 EPS of approximately $13, which at current multiples implies $364 price target representing 60% upside.",
+          "when_to_buy": null,
+          "target_price": "$364 per share (implying 60% upside based on $13 2025 EPS consensus at 28x PE multiple)",
+          "cautions": "The creator acknowledges some analysts project $17-18 EPS for 2028 but states he prefers to use consensus estimates. Stock is already up significantly and valuation depends on achieving forward guidance."
         }
       ],
       "avoids": [
@@ -9290,26 +9263,13 @@
     {
       "ticker": "ROCKET",
       "company_name": "Rocket Lab USA Inc.",
-      "buy_count": 2,
+      "buy_count": 1,
       "avoid_count": 0,
-      "first_mention_date": "28 Jul 2026",
+      "first_mention_date": "16 Aug 2026",
       "price_at_first_mention": null,
       "pct_change_since_rec": null,
       "market": null,
       "buys": [
-        {
-          "channel": "CouchInvestor",
-          "title": "This AI Selloff Is a Bloodbath. Here's What's Going On",
-          "url": "https://www.youtube.com/watch?v=65IABPxBJ9M",
-          "upload_date": "20260728",
-          "date_label": "28 Jul 2026",
-          "ticker": "ROCKET",
-          "company_name": "Rocket Lab USA Inc.",
-          "reason": "The creator indicates this is a long-term holding with conviction, noting they have been with the stock since $4-$20 levels and know what they own. The stock is down 57% from peaks but the creator emphasizes the business has not fundamentally deteriorated; the spike was driven by SpaceX IPO speculation. The creator is waiting for the Neutron launch as the big game-changing catalyst. For long-term investors willing to hold, the creator finds it very interesting at $50-$60 price levels, seeing this as an opportunity to buy back shares sold at higher prices.",
-          "when_to_buy": "$50-$60 becomes very interesting for long-term investors; current level around $60; broader support potential at $55-$50",
-          "target_price": null,
-          "cautions": "Stock is down 57% from peaks and support at $81 did not hold; creator explicitly states stock was overvalued at $150, expensive at $100 and $80, and is less expensive (not cheap) at $60-$50; stock is still waiting for Neutron launch catalyst which has not yet occurred"
-        },
         {
           "channel": "CouchInvestor",
           "title": "I Called This Stock Too Cheap to Ignore. So I Bought It",
@@ -10908,12 +10868,12 @@
     },
     {
       "ticker": "UBER",
-      "company_name": "Uber Technologies Inc.",
+      "company_name": "Uber Technologies",
       "buy_count": 9,
-      "avoid_count": 1,
-      "first_mention_date": "28 Jul 2026",
-      "price_at_first_mention": 70.74,
-      "pct_change_since_rec": 8.8,
+      "avoid_count": 0,
+      "first_mention_date": "06 Aug 2026",
+      "price_at_first_mention": 70.47,
+      "pct_change_since_rec": 9.2,
       "market": {
         "ticker": "UBER",
         "name": "Uber Technologies, Inc.",
@@ -11071,19 +11031,7 @@
           "cautions": "While Aman is bullish on AI and Uber, valuations have already run up, so Aman's philosophy emphasizes not overpaying even for growth opportunities."
         }
       ],
-      "avoids": [
-        {
-          "channel": "CouchInvestor",
-          "title": "This AI Selloff Is a Bloodbath. Here's What's Going On",
-          "url": "https://www.youtube.com/watch?v=65IABPxBJ9M",
-          "upload_date": "20260728",
-          "date_label": "28 Jul 2026",
-          "ticker": "UBER",
-          "company_name": "Uber Technologies Inc.",
-          "reason": "The creator states explicitly: 'it is not worth touching this right now.' The recommendation is to wait for earnings report and management commentary before considering entry. Current price around $70 is not attractive relative to the creator's timeline.",
-          "risk": "Low $60s would be ideal accumulation zone, implying downside to current $70 level; creator recommends waiting for earnings catalysts before entry"
-        }
-      ],
+      "avoids": [],
       "description": "Operates ridesharing, food delivery, and freight services via mobile platform"
     },
     {

@@ -19092,6 +19092,86 @@
         "HPQ": 30.52,
         "CRWD": 189.18
       }
+    },
+    "UgR-uVQnPzc": {
+      "channel": "CouchInvestor",
+      "title": "Nvidia's Blowout Quarter Just Made These Stocks Massive Winners",
+      "upload_date": "20260827",
+      "url": "https://www.youtube.com/watch?v=UgR-uVQnPzc",
+      "processed_at": "2026-08-27T15:53:53.599285",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Memory scarcity and extreme memory pricing will persist into next year, exceeding prior expectations. This is driving significant margin compression for Nvidia (gross margins expected to decline from 75% to 71.5% at the low point) and represents a structural cost headwind, not a temporary shock. Memory suppliers (SK Hynix, Micron, Samsung) are benefiting from this scarcity.",
+          "Large capex commitments ($366 billion total on Nvidia's balance sheet, with $279 billion for supply and capacity procurement) signal that major cloud providers (AWS, Microsoft, Google, Oracle) will be forced to significantly increase capex spending, which is negative for their near-term profitability and margins despite long-term AI growth.",
+          "Many semiconductor and ecosystem beneficiaries already have significant price appreciation priced in. While these companies benefit from the AI buildout, valuation multiples on some names (particularly ARM Holdings) reflect substantial future success already incorporated into current prices, limiting margin of safety."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "NBUS",
+          "COREWEAVE",
+          "ORACLE",
+          "EBAY",
+          "SPACEX",
+          "AWS",
+          "TSMC",
+          "MCOR",
+          "TERODYNE",
+          "ASTERA",
+          "CREDO",
+          "COHERENT",
+          "LUMENTUM",
+          "APPLIED",
+          "MARL",
+          "ARISTA",
+          "MARVELL",
+          "VERIFONE",
+          "VERNOVA",
+          "MPS",
+          "ADI",
+          "ONSEMI",
+          "MSFT",
+          "GOOGL",
+          "DELL",
+          "SMCI",
+          "HPE",
+          "CELESTICA",
+          "ARM",
+          "AMD",
+          "SALESFORCE",
+          "CRWD"
+        ]
+      },
+      "price_at_recommendation": {}
+    },
+    "w46rbGQJe_Q": {
+      "channel": "FinTek",
+      "title": "Top Nuclear Energy Stock to BUY NOW",
+      "upload_date": "20260827",
+      "url": "https://www.youtube.com/watch?v=w46rbGQJe_Q",
+      "processed_at": "2026-08-27T15:54:06.230772",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "CEG",
+            "company_name": "Constellation Energy",
+            "reason": "Constellation Energy is the biggest nuclear power provider in the US and beat analyst estimates in their most recent earnings while forecasting 20 plus percent growth through 2029. Major tech companies including Meta are signing 20-year multi-billion dollar deals with Constellation Energy to lock in power for their future growth, with other big tech companies also signing multi-billion dollar contracts. If the market re-evaluates nuclear and starts to value these companies more based on their future growth potential, stock prices could rise relatively quickly.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": [
+          "CEG",
+          "META"
+        ]
+      },
+      "price_at_recommendation": {
+        "CEG": 279.8
+      }
     }
   },
   "channel_ids": {

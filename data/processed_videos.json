@@ -19285,6 +19285,44 @@
         "NOW": 138.43,
         "APP": 312.63
       }
+    },
+    "Nfcrg3adMnA": {
+      "channel": "The Traveling Trader",
+      "title": "\ud83d\udea8 Jackson Hole! Live Trading | Fed Chair Kevin Warsh Speaks",
+      "upload_date": "20260828",
+      "url": "https://www.youtube.com/watch?v=Nfcrg3adMnA",
+      "processed_at": "2026-08-28T15:28:25.254349",
+      "transcript_fails": 1,
+      "last_reason": "unavailable",
+      "terminal": true,
+      "skipped": "no transcript"
+    },
+    "qIVywDvrzNI": {
+      "channel": "FinTek",
+      "title": "Best Value AI Stock in 2026",
+      "upload_date": "20260828",
+      "url": "https://www.youtube.com/watch?v=qIVywDvrzNI",
+      "processed_at": "2026-08-28T15:28:34.888064",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "MSFT",
+            "company_name": "Microsoft Corporation",
+            "reason": "Microsoft stock price has been dropping in 2026, but the creator likes it at current prices because the company appears to be playing the game fairly responsibly. The forward PE ratio is approximately 22, which is low for big tech and gives it a B+ rating. The sector average PE ratio is nearly 33, meaning Microsoft could rise by about 33% and still only be at the median valuation for the industry. The creator believes Microsoft has both short-term and long-term potential, though acknowledges it probably won't 10x from current levels.",
+            "when_to_buy": "at current prices (2026)",
+            "target_price": null,
+            "cautions": "The creator notes that Microsoft probably won't 10x from current levels, suggesting limited upside beyond the median industry valuation."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": [
+          "MSFT"
+        ]
+      },
+      "price_at_recommendation": {
+        "MSFT": 509.57
+      }
     }
   },
   "channel_ids": {

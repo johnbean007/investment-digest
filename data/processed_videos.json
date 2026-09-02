@@ -19545,6 +19545,642 @@
         "MRVL": 216.62,
         "GOOGL": 346.59
       }
+    },
+    "MCOEsAJHBCY": {
+      "channel": "CouchInvestor",
+      "title": "Why I\u2019m Doubling Down on This Hated Stock",
+      "upload_date": "20260901",
+      "url": "https://www.youtube.com/watch?v=MCOEsAJHBCY",
+      "processed_at": "2026-09-02T08:28:26.434229",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms Inc.",
+            "reason": "Meta continues to execute exceptionally well despite being perceived as a 'hated stock.' The company's advertising business is growing at 20.4% and is on track to overtake Google Search as the largest destination for digital ad dollars before the end of 2026. Meta released Muse Code out of beta with aggressive pricing ($5-50/month) and strong performance, signaling confidence in their AI capabilities. The core advertising business is 'insanely profitable' and will fund their AI buildout. The company is also launching personal AI agents and has over 3 billion users across its ecosystem, providing a massive distribution advantage. The creator compares Meta's current situation to Google in 2025, expecting strong performance in the second half of 2026 and throughout 2027. Despite near-term stock underperformance, the underlying business fundamentals are strong.",
+            "when_to_buy": null,
+            "target_price": "$1,000 per share (referenced as potential 2027 target)",
+            "cautions": "AI agents and new services need to be differentiated and 'sticky' to succeed in a competitive AI landscape where users switch models daily. Success is not guaranteed just by launching these products; execution quality matters significantly. The stock may take longer to reflect business performance than expected."
+          },
+          {
+            "ticker": "SOFI",
+            "company_name": "SoFi Technologies Inc.",
+            "reason": "SoFi is a fundamentally strong business that is significantly undervalued despite a 35% year-to-date decline. The company has been executing extremely well with raised guidance and improved underlying assumptions. Management has conservatively prepared for one to two rate hikes while still increasing revenue guidance and maintaining profitability expectations. The business is expected to grow 30% revenue-wise through 2028, with EBIT margins expanding over the long run and EPS growing faster than revenue. The creator's DCF model shows the stock should be much higher than current levels even under conservative scenarios. SoFi has a banking license, so management operates with integrity and cannot engage in misleading metrics. The disconnect between stock price and business performance represents an opportunity for patient, long-term investors.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The stock has underperformed significantly and may continue to lag in the near term. The creator acknowledges 'opportunity cost' versus owning higher-performing names. Management communication during earnings calls could be clearer. Rate hike assumptions remain a variable, though management has already incorporated conservative expectations."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Market volatility and sector rotation risk: September historically has been a weaker month for equities. The creator mentions 'another reddish day' in pre-market trading and notes that pullbacks are normal. However, patient long-term investors should view weakness as an opportunity rather than a signal to exit positions.",
+          "AI compute efficiency will improve significantly: There is a misconception that unlimited compute is needed for AI advancement. Nvidia's Vera Rubin and Blackwell GPUs are delivering 30% better throughput per megawatt with each generation, meaning existing infrastructure will become much more efficient. This suggests that current AI capacity constraints may be overstated, and the need for massive capex buildouts may be less urgent than the market currently prices in.",
+          "Frontier AI lab business model sustainability questions: The creator expresses skepticism about the long-term profitability of unprofitable frontier AI labs that must continually raise capital. While expressing hope for competition and ecosystem health, the creator suggests that if a frontier lab fails, demand will simply flow to more established profitable players (Meta, Google, Anthropic, Nvidia) without halting AI progress. This implies potential concentration risk in the AI landscape."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "META",
+          "SOFI",
+          "MICRON",
+          "AMZN",
+          "HUT",
+          "GOOGL"
+        ]
+      },
+      "price_at_recommendation": {
+        "META": 578.54,
+        "SOFI": 17.05
+      }
+    },
+    "eLvMIY72QtY": {
+      "channel": "CouchInvestor",
+      "title": "I Just Bought $7,200 More of These 4 Stocks",
+      "upload_date": "20260830",
+      "url": "https://www.youtube.com/watch?v=eLvMIY72QtY",
+      "processed_at": "2026-09-02T08:29:12.332008",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet Inc.",
+            "reason": "The stock is sitting right on the 100-day exponential moving average on the daily chart, with the simple moving average at $358. If it can defend this area, it should be a good sign of moving higher. The creator notes that Google has returned 116% in approximately 12-18 months, demonstrating strong performance potential.",
+            "when_to_buy": "At or above the 100-day exponential moving average support level",
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon.com Inc.",
+            "reason": "The stock has support area right under the current price at $265. Despite being down around 6% since the earnings report highs, this is viewed as manageable. The creator considers the current pullback acceptable.",
+            "when_to_buy": "Above the $265 support level",
+            "target_price": null,
+            "cautions": "Down approximately 6% from recent highs"
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms Inc.",
+            "reason": "The creator increased position by 5.5% (3 extra shares) at $569, describing it as undervalued. The overhang is done and sentiment has shifted. The creator believes Meta could be positioned similarly to Google, potentially returning 116% within 12-18 months. Meta is now 5.6% of the portfolio valued at close to $33,000. The creator states it is a great company and gladly buys more shares.",
+            "when_to_buy": "Above $580-$585 resistance to build momentum toward $600",
+            "target_price": "$600+",
+            "cautions": "Currently struggling to stay above $585; needs to reclaim momentum above $600 for price appreciation"
+          },
+          {
+            "ticker": "SOFI",
+            "company_name": "SoFi Technologies Inc.",
+            "reason": "The stock is still holding up okay and has reclaimed floor at $17.80. As long as it stays above $18, it should be fine. The company is guiding for one to two rate cuts, which would be positive for the business. Even if only one rate cut occurs, it would still be positive for SoFi's business.",
+            "when_to_buy": "Above $18 support level",
+            "target_price": null,
+            "cautions": "Exposure to rate cut expectations; if rates rise instead of being cut, it could put pressure on the stock"
+          },
+          {
+            "ticker": "NFLX",
+            "company_name": "Netflix Inc.",
+            "reason": "The stock has gained momentum since Bill Aman reinitiated a position, moving from $72 to $77 to now $80-$81. The creator notes this is a good area to be at right now. GTA 6 content on Netflix is likely increasing traffic, which is good for the company.",
+            "when_to_buy": "Show strength around $80-$81 for the next couple of days before attempting to reach $85-$90",
+            "target_price": "$85-$90",
+            "cautions": null
+          },
+          {
+            "ticker": "RKLB",
+            "company_name": "Rocket Lab USA Inc.",
+            "reason": "The creator bought 30 additional shares despite it being expensive, because the stock has more than halved over recent months while the creator had sold shares at much higher prices ($86.97 and $114.50). The creator wants to own the company again for the foreseeable future and can accumulate more shares at cheaper prices. The creator's average cost basis is very low. The recent podcast with Molly O'Shea may have been a reason for buying more now.",
+            "when_to_buy": "Below $70 key level; accumulate if it drops further",
+            "target_price": null,
+            "cautions": "The stock is expensive; it has halved from recent highs; the creator acknowledges this is a controversial buy"
+          },
+          {
+            "ticker": "NEWR",
+            "company_name": "New Holdings (NewHolding)",
+            "reason": "The creator increased this position by 11.8% at $14.31, stating it is an excellent business and a very solid company. The creator still wants to grow this position. It is non-AI, non-semiconductor, non-data center related fintech. The creator indicated this might be their last add unless something drastically changes with the business or it drops even lower.",
+            "when_to_buy": "Around the $14.20 support level or if it drops lower",
+            "target_price": "$15-$16 to regain momentum",
+            "cautions": "Support area is literally around $14.20; needs to stay above $14 to maintain momentum"
+          },
+          {
+            "ticker": "RDDT",
+            "company_name": "Reddit Inc.",
+            "reason": "The creator bought 10 extra shares, increasing position by 11.1% at $156. On a pure valuation basis, Reddit is cheap. The creator plans to grow this position slowly but surely. Global average revenue per user is well below Meta (Meta is close to six times higher), indicating significant upside potential. However, the key issue is that investors want to see AI data licensing deals to offset potential traffic loss from Google Overviews and AI models.",
+            "when_to_buy": "Above the $146 support level; currently sitting under daily exponential and simple moving averages at $167.6",
+            "target_price": null,
+            "cautions": "Needs a data licensing deal to prevent traffic losses from AI competition; average revenue per user is significantly below Meta; if it drops under $146 support, watch for further downside; positioned as sentiment-based pressure rather than fundamental weakness"
+          },
+          {
+            "ticker": "UBER",
+            "company_name": "Uber Technologies Inc.",
+            "reason": "The stock reclaimed the floor and closed above it at $78 per share, showing quite good momentum. Despite all the autonomous driving news, Uber stock is trying to have more stability right now.",
+            "when_to_buy": "Above the reclaimed floor level at $78",
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "The creator has developed a habit of buying one share of Nvidia every time they cover a big event or earnings report. The creator states 'could have been a worse company' and notes it is 'still one of the best ones out there.' This is a long-term holding pattern rather than a new thesis.",
+            "when_to_buy": "At every earnings report or major event coverage (habit-based accumulation)",
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "PYPL",
+            "company_name": "PayPal Holdings Inc.",
+            "reason": "PayPal has crashed following news that Stripe and a bank will not improve their acquisition bid. PayPal stock went down 12-13% on Friday. The clear message from the market is that an outsider does not want to buy the company and the market does not trust current management. While the creator acknowledges a tiny improvement last quarter, the bar has been set quite low. The creator will wait until the end of 2028 to see if there is a real turnaround with the business and if PayPal can achieve two consecutive quarters of positive growth, cost cuts, and profitability improvements.",
+            "risk": "Stock could continue declining if management does not demonstrate real turnaround; acquisition deal not happening at attractive valuation"
+          },
+          {
+            "ticker": "TAKE",
+            "company_name": "Take-Two Interactive Software Inc.",
+            "reason": "The creator argues that GTA 6 hype is already heavily priced into Take-Two stock. The creator states that if you think nothing is priced into Take-Two right now, then you are not paying attention at all. The game has been 13 years in the making and while it will be a huge success and looks nice, all the hype appears to already be reflected in the stock price. The creator suggests that Sony will actually benefit more from GTA 6 through console sales, game pass fees, and a 30% transaction cut, making Sony a better indirect play.",
+            "risk": "Massive hype and anticipation already priced in; stock may disappoint if it does not exceed already-high expectations"
+          }
+        ],
+        "key_warnings": [
+          "Rate cut expectations have changed significantly: the market is now pricing in a 39.2% chance of two rate cuts in 2026 (up from 27.5% a week ago). For the September FOMC meeting, there is still a 43% chance of no rate hike but 57% chance of one rate hike. Growth companies and unprofitable companies will face pressure if rates rise or if rate cut expectations are not met. Companies like SoFi that are guiding for one to two rate cuts could underperform if this does not materialize.",
+          "Earnings season is ending with key names including Broadcom (Wednesday after close), which is a huge player in the AI story and will be closely monitored. Investors should watch for whether Broadcom gets new big clients and if they are growing faster with their big tech company customer base.",
+          "The portfolio is underperforming the S&P 500 on a one-week basis (down 2.71% vs S&P up 4.7%), though year-to-date performance remains strong (up 35.32% vs S&P up 12.82%). This suggests market rotation may be occurring.",
+          "Valuation concerns exist across multiple held positions: Rocket Lab is expensive despite recent pullback; Rubric became too expensive (profit-taking occurred at $97); several positions including Meta and Nebus require momentum above key resistance levels to appreciate further."
+        ],
+        "tickers_mentioned": [
+          "CREDO",
+          "DELL",
+          "CRWD",
+          "PLTR",
+          "MDBX",
+          "GTLB",
+          "PANW",
+          "AVGO",
+          "SNOW",
+          "VIC",
+          "UIPATH",
+          "DOCUSIGN",
+          "LULU",
+          "ZS",
+          "ORCL",
+          "MU",
+          "GOOGL",
+          "SOFI",
+          "AMZN",
+          "META",
+          "NFLX",
+          "NEWR",
+          "NBUS",
+          "RDDT",
+          "AXON",
+          "MELI",
+          "UBER",
+          "NVDA",
+          "PYPL",
+          "RUBRIK",
+          "AMD",
+          "HOOD",
+          "TAKE",
+          "SONY",
+          "MSFT"
+        ]
+      },
+      "price_at_recommendation": {
+        "NFLX": 80.81,
+        "GOOGL": 335.02,
+        "UBER": 75.24,
+        "META": 578.54,
+        "RDDT": 144.64,
+        "NVDA": 217.44,
+        "RKLB": 62.54,
+        "SOFI": 17.05,
+        "AMZN": 254.92,
+        "PYPL": 52.4
+      }
+    },
+    "f_BmT1yaSQY": {
+      "channel": "Ticker Symbol: YOU",
+      "title": "GET IN EARLY! These 3 Stocks Will Make Millionaires By 2029",
+      "upload_date": "20260831",
+      "url": "https://www.youtube.com/watch?v=f_BmT1yaSQY",
+      "processed_at": "2026-09-02T08:29:37.779050",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "CRWV",
+            "company_name": "Coreweave",
+            "reason": "Coreweave is the largest neocloud by scale with 1.5 gawatts of active power and 4.2 gawatts under contract, generating record revenues of $2.6 billion (up 112% YoY) with a $14 billion revenue backlog (up 246% YoY). The company has a privileged relationship with Nvidia as the launchpad for Nvidia's latest chips, with a formal $6.3 billion partnership where Nvidia will purchase any unsold capacity through April 2032. Nvidia invested $2 billion at $87 per share, higher than current trading price. Coreweave has multi-billion dollar contracts with major customers including OpenAI, Microsoft, Meta, and Nvidia, and is the clear operational leader among the three neoclouds discussed. This stock offers the lowest execution risk with Nvidia's commitment as a buyer of last resort.",
+            "when_to_buy": "Current price is below $87 per share (Nvidia's recent investment price)",
+            "target_price": null,
+            "cautions": "Coreweave carries significant debt burden with $46 billion in net debt and pays $640 million in interest per quarter, which represents 25% of quarterly revenues. This heavy interest burden converts a $49 million operating loss into a $626 million net loss, directly impacting profitability. The company relies heavily on borrowed money to fund the $9.4 billion quarterly capex, and interest expenses significantly reduce bottom-line returns for shareholders."
+          },
+          {
+            "ticker": "NBIS",
+            "company_name": "Nebius",
+            "reason": "Nebius demonstrates the strongest balance sheet among the three neoclouds with only $2 billion in net debt and generates exceptional revenue growth of 454% YoY, with $582 million in last quarter revenue and guidance for $7-9 billion annualized run rate by end of 2026 (approximately 7x growth from last year). The company has a unique business advantage: customers prepay 50-60% of equipment costs upfront, funding the AI buildout rather than relying on high-interest loans. Nebius has secured major contracts including a $17.4 billion deal with Microsoft and up to $27 billion with Meta. The company is receiving first-mover advantage with Nvidia's new Gro 3 LPX inference chips in volume and has raised contracted power targets from 4 gawatts to 5 gawatts by end of 2026.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Nebius trades at the highest valuation multiple with an enterprise value of 7.4x their year-end run rate, compared to 4.9x for Coreweave and 4x for Iron. This premium valuation leaves less margin for error. Additionally, Nebius will fund growth partially through equity offerings, which means current shareholders will experience dilution. The company is much smaller in absolute scale with only $582 million quarterly revenue compared to Coreweave's $2.6 billion, despite higher growth rates."
+          },
+          {
+            "ticker": "IRN",
+            "company_name": "Iron (formerly Bitcoin mining company)",
+            "reason": "Iron represents the most upside potential as the smallest and cheapest neocloud at a $16 billion enterprise value, trading at only $3 million per megawatt of contracted power (7 times cheaper than Coreweave at $22 million). The company has achieved remarkable AI cloud revenue growth, more than doubling from $33.6 million to $70.5 million in a single quarter, and AI revenue has now surpassed Bitcoin mining revenues for the first time. Iron has the lowest interest expense burden at $25 million per quarter (18% of revenues) and the largest pipeline of contracted power at over 5 gawatts already secured through years of Bitcoin mining land and power acquisition. The company has won two enormous contracts: a 5-year $9.7 billion deal with Microsoft and a $3.4 billion deal with Nvidia, with a $16.6 billion backlog targeting a $4 billion annualized run rate.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Iron carries the highest execution risk among the three neoclouds. The company must successfully pivot from Bitcoin mining to AI infrastructure, a transition that is costly and time-consuming. Last quarter, Iron posted a $684 million loss, largely due to non-cash impairments from writing off Bitcoin hardware, and total revenue actually shrank from $145 million to $137 million as the company scales down mining faster than AI capacity comes online. The biggest risk is whether Iron can actually convert their contracted power pipeline into realized revenues, or if the pivot costs will exceed benefits. Management also cautioned that actual recognized revenue could come in lower than current run-rate guidance."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "The neocloud category is expected to nearly triple in size, creating a virtuous cycle where increased compute capacity drives AI adoption and demand, which drives further buildout. However, this depends on execution by all three companies and could face headwinds if AI spending slows or capital markets tighten lending conditions. The heavy capex requirements and reliance on borrowed capital make these companies sensitive to interest rate changes.",
+          "All three neoclouds face risks from their dependence on a small number of large customers. Meta and Microsoft represent enormous portions of backlog for all three companies, creating concentration risk. Disruption from these key customers or changes in their AI infrastructure strategies could significantly impact growth.",
+          "The analyst notes this is an investment in a category at an early stage of deployment, with comparisons to contrarian AI bets made years ago. There is inherent risk in timing and selection within this emerging infrastructure category."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "AMD",
+          "GOOGL",
+          "MSFT",
+          "AMZN",
+          "META",
+          "CRWV",
+          "NBIS",
+          "IRN"
+        ]
+      },
+      "price_at_recommendation": {
+        "CRWV": 81.85,
+        "NBIS": 199.54
+      }
+    },
+    "yZhQQBUr0GE": {
+      "channel": "The Traveling Trader",
+      "title": "Elon Musk just confirmed the next major AI bottleneck for 2027",
+      "upload_date": "20260831",
+      "url": "https://www.youtube.com/watch?v=yZhQQBUr0GE",
+      "processed_at": "2026-09-02T08:30:40.424087",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "VRT",
+            "company_name": "Vertiv Holdings Co.",
+            "reason": "Vertiv is identified as the sector leader in liquid cooling for AI data centers. The company has a forward PE of 28 (excellent for a growth stock), five-year revenue CAGR of almost 19%, 21% return on invested capital, excellent balance sheet, all-time high revenue, all-time high EBITDA, gross profit margin, net income, free cash flow, and earnings per share. The company has a $15 billion backlog showing a 109% increase. Both Vera Rubin and Rubin Ultra GPU rollouts will be 100% fully liquid cooled, creating strong demand tailwinds. The stock is currently 33% down from highs, presenting a discount entry point.",
+            "when_to_buy": "Wait for confirmed technical breakout above current downtrend before establishing position, though creator states this is not required for long-term bottleneck investing",
+            "target_price": null,
+            "cautions": "High beta stock; creator recommends waiting for technical breakout to limit portfolio volatility. Stock has declined 33% from highs, indicating recent weakness."
+          },
+          {
+            "ticker": "ETN",
+            "company_name": "Eaton Corporation",
+            "reason": "Eaton is described as one of the best all-around AI power companies, with exposure to multiple AI bottleneck areas: electrical distribution, liquid cooling, and chilling (via Boyd Thermal acquisition). The company addresses the 2027 bottleneck where 15 gigawatts of AI compute cannot be turned on due to lack of transformers, wiring, liquid cooling, massive chillers, and complex networking infrastructure.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Stock is down almost 16% from highs despite being on a tear recently."
+          },
+          {
+            "ticker": "GEV",
+            "company_name": "GE Vernova",
+            "reason": "GE Vernova supplies turbines and grid equipment used to generate and move power to data centers, directly addressing the 2027 AI power bottleneck. Relevant across both power generation and grid distribution for the massive electrical infrastructure buildout required for AI compute.",
+            "when_to_buy": "Creator suggests waiting for technical breakout of downtrend before establishing position",
+            "target_price": null,
+            "cautions": "Stock is down almost 24% from highs; exhibits clear downtrend requiring breakout confirmation."
+          },
+          {
+            "ticker": "BE",
+            "company_name": "Bloom Energy",
+            "reason": "Bloom Energy sells on-site solid oxide fuel cell systems that allow data centers to generate their own power, directly solving the 2027 power bottleneck. Company is growing much faster than its valuation can catch up to, with 62 billion-dollar market cap and 43 forward PE. 10-year revenue CAGR is almost 30%, all-time high revenue, last year generated $3 billion revenue, and has a $20 billion backlog (as of start of year). Nancy Pelosi recently bought into the stock.",
+            "when_to_buy": "Creator recommends waiting for breakout above downtrend before establishing position for swing trades, though not required for long-term bottleneck investing",
+            "target_price": null,
+            "cautions": "Stock is down almost 41% from highs and still has a downtrend; high beta stock; requires technical confirmation before entry."
+          },
+          {
+            "ticker": "CEG",
+            "company_name": "Constellation Energy",
+            "reason": "Constellation Energy is a power generation company owned by the creator. Relevant to the 2027 AI bottleneck as data centers will need massive amounts of power generation capacity to support 15 gigawatts of new AI compute.",
+            "when_to_buy": "Creator has existing position; suggests waiting for breakout above clear downtrend before adding",
+            "target_price": null,
+            "cautions": "Stock exhibits clear downtrend requiring technical breakout confirmation."
+          },
+          {
+            "ticker": "VST",
+            "company_name": "Vistra Corp.",
+            "reason": "Vistra is an independent power producer with approximately 44 gigawatts of capacity, relevant to powering the massive data center expansion required for AI compute buildout through 2027.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "NEE",
+            "company_name": "NextEra Energy",
+            "reason": "NextEra Energy is a major power generation and distribution company relevant to the infrastructure buildout needed to support 15 gigawatts of AI compute that cannot be turned on by 2027 without massive power infrastructure expansion.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "ANET",
+            "company_name": "Arista Networks",
+            "reason": "Arista Networks provides networking infrastructure for data centers, directly supporting the complex networking requirements mentioned as part of the 2027 AI bottleneck (transformers, wiring, liquid cooling, massive chillers, and complex networking).",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "CDNS",
+            "company_name": "Cadence Design Systems",
+            "reason": "Cadence (Coherent) is mentioned as a networking company relevant to the AI bottleneck infrastructure buildout for complex networking requirements.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "AVGO",
+            "company_name": "Broadcom Inc.",
+            "reason": "Broadcom provides networking infrastructure for data centers and AI systems. Creator is very bullish on Broadcom for the long term as it relates to the AI infrastructure buildout.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Creator states they will probably not trade Broadcom earnings despite being bullish long-term, as the 58% beat rate and 62% average strangle return is not enough to justify earnings trades."
+          },
+          {
+            "ticker": "MRVL",
+            "company_name": "Marvell Technology",
+            "reason": "Marvell is mentioned as relevant semiconductor infrastructure for AI. Creator notes that although Broadcom is a better company, Marvell has more upside potential because it is a much cheaper stock on a market cap basis ($189 billion vs Broadcom's $1.75 trillion). Despite being more expensive on a PE multiple basis, the absolute room for growth is larger. Company beat expectations and raised guidance on earnings.",
+            "when_to_buy": "Wait for Marvell to break out of current downtrend; creator notes it dropped 10% after earnings and may test $200 or below if it closes below the weekly fair value gap",
+            "target_price": null,
+            "cautions": "Stock dropped 10% after beating expectations and raising guidance due to sky-high expectations from 190% year-over-year performance. High beta stock. May test $200 and below in near-term. Does not look great unless downtrend breaks."
+          },
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Nvidia is undervalued at current levels for the long term. Total revenue up 106% year-over-year, data center revenue up 117% year-over-year, earnings per share up 128% year-over-year, maintaining 75% gross margins. Forward year 2028 earnings per share estimated at $13.15. If Nvidia maintains a 28 PE (conservative), share price would be $364 based on 2028 earnings delivery. Creator states there is no reason to believe Nvidia cannot deliver that level of earnings per share next year.",
+            "when_to_buy": "No specific swing trade opportunity; Creator recommends as a no-brainer buy for the long term",
+            "target_price": "$364 if Nvidia maintains 28x PE on $13.15 2028 EPS",
+            "cautions": "Creator states this is not a swing trade but a long-term holding; no particular technical setup currently."
+          },
+          {
+            "ticker": "AAPL",
+            "company_name": "Apple Inc.",
+            "reason": "Not explicitly recommended; mentioned only in context of technology sector undervaluation.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "This is not a specific recommendation; Apple was not discussed as part of the AI bottleneck thesis."
+          },
+          {
+            "ticker": "AAON",
+            "company_name": "Applied Air Inc.",
+            "reason": "AAON is a niche commercial HVAC maker relevant to the liquid cooling and chilling requirements for AI data centers as part of the 2027 infrastructure bottleneck.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Much smaller company than Vertiv and Eaton in this space."
+          },
+          {
+            "ticker": "COHR",
+            "company_name": "Coherent Inc.",
+            "reason": "Coherent provides networking infrastructure relevant to the complex networking requirements of AI data centers and the 2027 bottleneck.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "NOK",
+            "company_name": "Nokia Oyj",
+            "reason": "Nokia provides networking infrastructure and equipment for data center connectivity, relevant to the complex networking buildout required for AI infrastructure through 2027.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "AAOI",
+            "company_name": "Applied Optoelectronics Inc.",
+            "reason": "AAOI provides networking and optical infrastructure components relevant to data center networking requirements for AI buildout.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "COIN",
+            "company_name": "Coinbase Global Inc.",
+            "reason": "Creator is looking for a pullback to the 21 EMA for potential position entry. Not directly related to AI bottleneck but mentioned as a swing trade opportunity. Creator plans to take position in Conel (2x Bitcoin ETF tracking COIN) which tends to outperform Bitcoin during bull markets.",
+            "when_to_buy": "Wait for pullback to 21 EMA before taking position; Bitcoin has shown confirmed breakout",
+            "target_price": null,
+            "cautions": "This is a Bitcoin-related trade, not part of the core AI infrastructure bottleneck thesis."
+          },
+          {
+            "ticker": "NOW",
+            "company_name": "ServiceNow Inc.",
+            "reason": "ServiceNow stock has moved from $90s to $144. If the company delivers on its EPS estimate of $5 per share for full year 2028 and trades at a conservative 50x multiple, stock price would reach around $250.",
+            "when_to_buy": null,
+            "target_price": "$250 (if trading at 50x 2028 EPS of $5)",
+            "cautions": "Creator believes there may be interim weakness and some resistance at current levels despite bullish long-term outlook."
+          },
+          {
+            "ticker": "MU",
+            "company_name": "Micron Technology",
+            "reason": "Micron is a memory semiconductor manufacturer relevant to AI infrastructure. Creator is looking for breakout at trend line before taking long position.",
+            "when_to_buy": "Wait for breakout in memory sector (Micron and SanDisk) at trend line before taking positions; very tight coiling pattern suggests imminent breakout",
+            "target_price": null,
+            "cautions": "Currently in consolidation pattern after recent retreat; requires breakout confirmation."
+          },
+          {
+            "ticker": "SNDK",
+            "company_name": "Western Digital/SanDisk",
+            "reason": "SanDisk (memory storage) is relevant to AI infrastructure buildout. Creator is watching for breakout before taking positions as part of memory sector play alongside Micron.",
+            "when_to_buy": "Wait for breakout at trend line; sector showing typical consolidation from recent highs",
+            "target_price": null,
+            "cautions": "Currently in consolidation; tight coiling pattern requiring breakout confirmation."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "DELL",
+            "company_name": "Dell Technologies",
+            "reason": "While Dell is not being avoided, creator states they will likely trade Dell earnings via cash secured puts rather than buying shares, suggesting caution on directional stock ownership.",
+            "risk": "Dell beats expected move 58% of the time (not enough for certain trades) but has asymmetric payoff profile favoring puts strategies over strangle strategies."
+          }
+        ],
+        "key_warnings": [
+          "September is typically the worst month of the year for market performance; mid-term election seasonality poses near-term risk to market momentum.",
+          "Technology sector has massively underperformed year-to-date, declining from 26.5 PE to 21.3 PE, and is currently one of the cheapest sectors in the S&P 500 despite long-term bullish outlook. Current market consolidation appears 'ugly sideways' with unclear direction between September and October.",
+          "Semiconductor sector (NVDA, MRVL, AVGO, INTC) has experienced significant drawdowns; creator notes semiconductors have already had two 10% corrections in the Nasdaq this year and that three corrections in a single bull market year is historically unprecedented.",
+          "The market shows the highest negative correlation between low and high volatility stocks ever recorded, indicating unusual market dislocation. This is one of the 'weirdest markets we've ever seen.' Forward PE for S&P 500 matches levels seen at bottom of 'Liberation Day' last year.",
+          "Most AI infrastructure bottleneck stocks mentioned are high beta stocks prone to volatility; creator recommends waiting for technical breakout confirmation rather than buying on fundamentals alone to limit portfolio thrashing.",
+          "Kevin Warsh's Jackson Hole speech was perceived as hawkish despite no forward guidance, pushing rate hike probability from 34% to 57% for the next FOMC meeting (September 16th). Creator does not expect rate hikes but notes the Fed may let bond market tighten through rising long-term rates.",
+          "Treasury buybacks have not yet started and begin September 9th; their impact on long-term yields is uncertain.",
+          "Marvell Technology's 10% post-earnings drop despite beating guidance and raising outlook reflects 'price for perfection' concerns; stock may test $200 or below if it closes below weekly fair value gap due to high beta nature.",
+          "Multiple semiconductor and networking stocks are in clear downtrends (CEG, BE, GEV, MRVL) requiring technical confirmation before establishing positions."
+        ],
+        "tickers_mentioned": [
+          "VRT",
+          "ETN",
+          "GEV",
+          "BE",
+          "CEG",
+          "VST",
+          "NEE",
+          "ANET",
+          "CDNS",
+          "AVGO",
+          "MRVL",
+          "NVDA",
+          "AAON",
+          "COHR",
+          "NOK",
+          "AAOI",
+          "COIN",
+          "NOW",
+          "MU",
+          "SNDK",
+          "DELL",
+          "INTC",
+          "PALO",
+          "HPE",
+          "SNOW"
+        ]
+      },
+      "price_at_recommendation": {
+        "VRT": 255.97,
+        "CEG": 280.31,
+        "SNDK": 1536.87,
+        "ETN": 390.71,
+        "AVGO": 369.68,
+        "NEE": 82.93,
+        "DELL": 425.0,
+        "AAON": 75.35,
+        "MRVL": 210.39,
+        "COIN": 176.82,
+        "COHR": 272.03,
+        "CDNS": 313.04,
+        "NVDA": 217.44,
+        "GEV": 898.53,
+        "BE": 213.63,
+        "MU": 933.44,
+        "NOW": 142.9,
+        "ANET": 189.26,
+        "AAPL": 325.13,
+        "AAOI": 103.39,
+        "NOK": 9.93,
+        "VST": 138.08
+      }
+    },
+    "_bjWouC1Tp4": {
+      "channel": "Jose Najarro Stocks",
+      "title": "If You Are an Nvidia Shareholder...Watch What Jensen Is Building!!",
+      "upload_date": "20260901",
+      "url": "https://www.youtube.com/watch?v=_bjWouC1Tp4",
+      "processed_at": "2026-09-02T08:31:03.640632",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Jensen Huang is strategically building a moat around Nvidia's business by investing in the semiconductor supply chain and infrastructure ecosystem. Nvidia is positioning itself as the backbone of AI infrastructure through NVLink Fusion, which allows hyperscalers and custom chip designers to integrate their own ASICs while remaining locked into the Nvidia ecosystem. By investing $3.5 billion in MediaTek convertible bonds and partnering with middleware companies like Marvell, Astera Labs, and Samsung, Nvidia ensures that even if competitors design their own chips, they still need Nvidia's interconnects, memory solutions, optics, cooling, and software. Additionally, Nvidia holds leases on data centers for AI infrastructure (as seen with the Anthropic-Lambda deal), controlling the critical power constraint in AI compute. The creator believes Jensen is not concerned about dark GPU scenarios in 2027 because the company is making massive supply chain investments, suggesting confidence in sustained long-term AI infrastructure demand.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "There is a potential bearish scenario for 2027 where Elon Musk suggests there could be dark GPUs (chips produced but unable to be powered online) due to power limitations, which could create oversupply in the semiconductor market. However, the creator finds this conflicting with Nvidia's aggressive infrastructure investments and believes this may be a short-term 2027-only issue."
+          },
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon",
+            "reason": "Amazon is positioned to benefit from the NVLink Fusion ecosystem as Marvell (a key middleware partner for Nvidia) is reportedly working with Amazon on the Trainium 4 chip, which will be integrated into the NVLink ecosystem. This means Amazon's custom AI chips will remain compatible with Nvidia's broader infrastructure, keeping Amazon's compute investments tied to Nvidia's ecosystem while maintaining competitive chip design capabilities.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms",
+            "reason": "The creator identifies Meta as one of his favorite semiconductor/AI exposure stocks outside of Nvidia and Amazon. Meta's recent release of Llama models and introduction of their AI solution demonstrates heavy investment in AI infrastructure and compute. The creator believes Meta benefits from the expanding AI infrastructure market and the increasing compute demands being demonstrated by frontier models like Grok. Even as AI gets cheaper, the absolute compute requirements remain staggering, supporting continued infrastructure investment demand.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Potential dark GPU/semiconductor oversupply in 2027: Elon Musk suggested via Grok AI that approximately 15 gigawatts of 2027 AI compute production (roughly one-third of annual chip production) will not be energized in the year due to power constraints, with chips sitting in warehouses or power-capped in North America. This represents a bearish scenario for semiconductor supply chain companies if overproduction occurs without corresponding power infrastructure. However, this appears to be a 2027-specific issue rather than a long-term structural problem.",
+          "Power infrastructure is the critical bottleneck for AI growth, not chip manufacturing or AI demand: The limiting factor for AI infrastructure expansion is land, power, and shell (data center infrastructure) rather than chip availability. This means companies without control over power infrastructure assets or data center real estate face significant constraints. Nvidia's strategy of holding leases on data centers mitigates this risk for Nvidia shareholders.",
+          "Circular financing and concentrated control risk in AI infrastructure: The Anthropic-Lambda-Hut 8-Nvidia deal structure shows how Nvidia maintains control over critical chokepoints (power, leases, interconnects) even while appearing to decentralize through partnerships. While this reduces risk for Nvidia, it concentrates power in Nvidia's hands and could face regulatory scrutiny or become a systemic risk if Nvidia's infrastructure fails."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "AMZN",
+          "META",
+          "GOOGL",
+          "QCOM"
+        ]
+      },
+      "price_at_recommendation": {
+        "AMZN": 254.92,
+        "NVDA": 217.44,
+        "META": 578.54
+      }
+    },
+    "TdaRD4FZ2SA": {
+      "channel": "Jose Najarro Stocks",
+      "title": "5 Stocks That Could Explode After Nvidia\u2019s Massive Earnings!!",
+      "upload_date": "20260830",
+      "url": "https://www.youtube.com/watch?v=TdaRD4FZ2SA",
+      "processed_at": "2026-09-02T08:31:35.831224",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Nvidia is positioned as the 'king' of AI infrastructure and semiconductor leadership. Management guided for 70% year-over-year growth in fiscal year 2027/2028 (calendar year 2027), expecting close to $700 billion in revenue. The creator believes a forward price-to-sales ratio of 10 for the next 18 months is extremely possible. Nvidia remains at the center of the AI ecosystem with partners like Amazon expanding their collaboration significantly, deploying 2 million additional Nvidia GPUs between 2027-2028.",
+            "when_to_buy": null,
+            "target_price": "The creator references potential $700B revenue for 2027 but does not give explicit stock price targets. Historical reference of stock hitting almost $230 and down 5% on Friday mentioned, with stock up only 1% in recent days.",
+            "cautions": null
+          },
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon.com Inc.",
+            "reason": "Amazon is one of the few mega-cap players that management believes is going 'above and beyond' in AI infrastructure investment according to the creator. Amazon announced plans to expand collaboration with Nvidia, deploying 2 million additional Nvidia GPUs between 2027-2028, bringing Nvidia's Vera CPU and NVLink Fusion custom solutions to AWS. Amazon mentioned $220 billion in CapEx for 2026 and stated they still will not have enough capacity to meet all demand in 2026, with demand already committed for 2028 being 'striking.' CEO Jassy indicated AWS could eventually become a trillion-dollar revenue player. The company is building AI factories for the US government with 100,000 GPUs and continuing robotics integration with Nvidia solutions. Demand shortage is expected to persist through 2027 and potentially 2028.",
+            "when_to_buy": "Stock trading at $266. Creator mentioned discussing the stock at lows in the $200-220 range previously.",
+            "target_price": null,
+            "cautions": "Stock is up 17% year-to-date. Creator states 'At 266, I honestly still like it' but does not provide upside target or downside protection level."
+          },
+          {
+            "ticker": "MRVL",
+            "company_name": "Marvell Technology Inc.",
+            "reason": "Marvell is a key beneficiary of the Nvidia-Amazon partnership expansion. Marvell is part of the NVLink Fusion ecosystem with strong memory controller solutions and existing partnerships with Amazon and AWS. Nvidia has invested $2 billion in Marvell and called it 'the next trillion dollar' company. As Nvidia and Amazon work closer together, probability increases that Amazon and Marvell will deepen their relationship. Recently reported earnings with data center revenue up and expected to be up 20% sequentially and 75% year-over-year next quarter. Company acquired Celestica AI and noted CPO (Coherent Pluggable Optics) and NPO markets are larger than previously thought. Google partnership expected to be massive with silicon revenue potentially doubling beyond the previously guided $10 billion plus. An AI investor event on October 6th is expected to provide more information.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Stock is down roughly 10% from recent earnings despite what creator characterizes as 'great' results. Down nearly 30% from its 52-week high despite being up 142% year-to-date. Creator notes this is 'not a guaranteed seed' and there are other players AWS could work with. Supply is noted as the limiting factor even as demand accelerates."
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms Inc.",
+            "reason": "Meta can benefit extremely well from the AI story according to the creator, though Meta did not specifically provide commentary during recent earnings calls. The company is investing aggressively in AI infrastructure with significant ROI already being generated. Mark Zuckerberg stated 'we are investing aggressively because the potential is huge' and the CFO noted there is 'so much under-building in the AI' that they will continue to build in 2026 and 2027. Past incremental capacity investments proved 'extremely valuable' in scaling products like Reels. Management is building data center and network foundations for flexibility to continue growing compute in 2028 and beyond. Ad business is reporting faster year-over-year revenue growth than any other company's ad business, indicating AI investments are paying off. The creator believes Meta's vision of selling intelligence and API rather than just compute will generate better long-term returns, though this is a contrarian view as the market believes they are overspending on AI.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Stock is trading at $578 and down 11% year-to-date. Market fears surrounding AI investment and CapEx spending remain - investors question whether Meta is investing too much and should instead be selling compute. Creator acknowledges 'The market believes they're spending too much in AI. I think that's a silly mistake.' Previous legal lawsuit concerns created 'scaryness' though this has improved. Creator explicitly states 'Many people don't' share his belief in Mark Zuckerberg's AI vision and recommends each investor be 'their own thesis maker for their own stocks.'"
+          },
+          {
+            "ticker": "IREN",
+            "company_name": "CoreWeave/I Rent (CoreWeave Inc.)",
+            "reason": "I Rent can benefit from the AI infrastructure buildout and GPU demand, though the creator expresses nuanced support. The stock took a 'massive hit' following earnings, with investors complaining that I Rent is not announcing new deals. However, the creator interprets this differently: I Rent is deliberately holding on making contracts because they believe they can get better pricing if they can source GPUs themselves, similar to Nvidia's strategy weeks earlier. The creator finds this strategy reasonable and notes the market is punishing I Rent for this stance while it rewarded Nvidia for the same approach. Creator notes he did not like earnings 'a lot' on a top-level overview but plans to do a more detailed video analysis later in the week.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Stock took a 'massive hit' from recent earnings. Investors are interpreting the lack of new contract announcements negatively, viewing it as the company unable to secure deals rather than a strategic choice. Creator acknowledges this is a more contrarian interpretation and notes the market has reacted negatively to the earnings announcement. Creator explicitly states 'I didn't like earnings a lot' and plans further analysis, indicating some reservations about the current setup."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Supply remains the limiting factor throughout the entire AI ecosystem even as demand accelerates. This should be monitored as a potential bottleneck that could signal when demand starts to crumble.",
+          "Market adoption of AI is slower than many expect. While we are still in an early inflection point, adoption rates from humans and enterprises across different markets (coding, cybersecurity, different software segments) continue to ramp gradually rather than immediately.",
+          "Valuation concerns on mega-cap names: Nvidia trading at forward P/S of 10 for next 18 months despite growth expectations. Investors should monitor whether current valuations can support the expected growth rates.",
+          "Market impatience with multi-year partnerships: When companies announce large partnerships (like Marvell-Google deal), markets often expect evenly distributed revenue growth over the contract period, but actual revenue typically follows an accelerating curve starting small and growing over time. This can lead to near-term disappointment despite positive long-term fundamentals."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "AMZN",
+          "MRVL",
+          "META",
+          "IREN"
+        ]
+      },
+      "price_at_recommendation": {
+        "META": 578.54,
+        "MRVL": 210.39,
+        "NVDA": 217.44,
+        "AMZN": 254.92,
+        "IREN": 36.82
+      }
     }
   },
   "channel_ids": {
@@ -19556,7 +20192,7 @@
     "JoseNajarroStocks": "UC5cEHfCr6WOE1R1zcohd1IA",
     "FinTek": "UCxdWHEhEPiYhCADMrn4PdhQ"
   },
-  "last_eval_week": "2026-W35",
+  "last_eval_week": "2026-W36",
   "alerts": {
     "fallback": "2026-08-12T05:49:52.847848"
   }

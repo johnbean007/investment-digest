@@ -20181,6 +20181,448 @@
         "AMZN": 254.92,
         "IREN": 36.82
       }
+    },
+    "j_eZaqbE5aA": {
+      "channel": "Mr. FIRED Up Wealth",
+      "title": "4 BEST Stocks to BUY Now (I'M BUYING)!",
+      "upload_date": "20260903",
+      "url": "https://www.youtube.com/watch?v=j_eZaqbE5aA",
+      "processed_at": "2026-09-04T07:53:48.527160",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "AVGO",
+            "company_name": "Broadcom Inc.",
+            "reason": "Strong fundamental performance with 85.5% revenue growth year-over-year ($29.59 billion revenue, beat by $160 million) and 92% operating income growth. Custom AI accelerators and networking demand grew 221% and is accelerating. Achieved record revenue, operating profit, and free cash flow. High-quality semiconductor company with 76% gross profit margin, $888,000 income per employee, and 15 years of dividend growth with A+ dividend safety. One of the best names to own in the semiconductor space for the AI data center trade. Priced down 6% and down 1% year-to-date despite excellent results due to guidance being below expectations, creating an attractive entry point for long-term buyers.",
+            "when_to_buy": "$350 or less using dollar cost averaging (DCA). Currently trading at $342. Creator would personally be adding if they didn't already own it.",
+            "target_price": "52-week high of $495; S2 Fibonacci support at $332; S3 Fibonacci support at $301",
+            "cautions": "Stock is down 1% year-to-date and only up 13.5% in the past year despite strong fundamentals, indicating high expectations are priced in. Trading below 200-day simple moving average at $369. Can go lower than S3 Fibonacci at $301. Stock is already a mega-cap at $1.75 trillion market cap, requiring near-perfect execution to move higher. Wall Street wants a double beat and raised guidance\u2014even that might not prevent further downside. Limited short interest at 1.18% suggests little relief from short covering."
+          },
+          {
+            "ticker": "VST",
+            "company_name": "Vistra Corp",
+            "reason": "Less-regulated energy company positioned to benefit from AI infrastructure buildout and data center growth. AI represents the number one bottleneck for energy, and there is a huge energy shortage to support AI deployment. Strong metrics with attractive valuation at 14.97 forward P/E versus median of 18.44. Pays a dividend at 0.64% with potential for dividend growth over time (6 years of dividend growth history). 16 buy ratings, zero hold, zero sell from Wall Street analysts. Average Wall Street price target of $223 implies 54.88% upside from current levels. David Tepper's hedge fund (4.6% of his portfolio) and hyperscalers including Microsoft are customers, ensuring strong demand for electricity production.",
+            "when_to_buy": "Creator's strong preference is $135 or less with DCA, but finds it attractive in the $140s. Currently trading at $144. Started 1%+ position in community portfolio.",
+            "target_price": "Average Wall Street price target $223 (55% upside); Highest price target $290; Lowest price target $169; S2 Fibonacci support at $129",
+            "cautions": "Down 23% over the past year despite up 650% over 5 years. Regulatory hurdles and bottlenecks exist despite less regulation than traditional utilities. Aging grid infrastructure creates headwinds for the sector. S3 Fibonacci support at $120.48 with potential to go lower. Lower profit margins expected due to nature of energy business. Less dividend growth history (6 years vs typical 10+ years). Short interest at 2.87%."
+          },
+          {
+            "ticker": "AAOI",
+            "company_name": "Applied Optoelectronics Inc.",
+            "reason": "Scaling to hit capacity of 930,000 transceiver units by 2027 with tremendous upside potential if targets are achieved. Management projects mid-2027 production of $471 million per month across 100G, 400G, 800G, and next-gen 1.6T transceivers. Currently in hyper-growth stage (120% current growth) and stock is down 50% year-to-date from $39 to trading around $100, creating significant opportunity. Three buy ratings from Wall Street analysts with average price target of $163 (60% upside from $102), with highest target at $220. Vertical integration provides some competitive moat.",
+            "when_to_buy": "DCA with lower entries preferred. Creator bought at $79 cost basis in community portfolio. Even $110 viewed as potentially attractive for 2-3 year horizon if execution occurs.",
+            "target_price": "Average Wall Street price target $163; Highest $220; Lowest $109. Various scenarios modeled: 25X earnings \u2248$200/share; 6X sales \u2248$250/share; 4X sales \u2248$175-185/share; potential 300-450+ if $5.7B run rate maintained with same growth multiple.",
+            "cautions": "This is a high-risk, speculative stock described as not for everyone. 52-week high was $233 with low of $76. Short interest at 12.27% creates significant volatility and pin action. Profit margins below 30%, hoping to expand with scale. Concentration risk: only 5-6 hyperscaler customers (whales) drive revenue. Market cap of $8.76 billion much smaller than mega-caps. Must successfully execute Sugar Land, Texas facility production targets; if this fails, upside thesis evaporates. Likely requires 2-3 year holding period minimum. Stock already dropped from $233 peak to $100, showing extreme volatility. No forward P/E ratio (speculative/unprofitable). Small-cap volatility could cause 50%+ drawdowns."
+          },
+          {
+            "ticker": "CRDO",
+            "company_name": "Credo Technology Group Holding Ltd.",
+            "reason": "Strong Wall Street consensus with 13 buy ratings, 1 hold, and zero sell ratings. Average price target of $287 implies 70% upside from current $168. Lowest price target on street is $235, already 40% above current price. Company is winning optics business which could be huge for the business model. Currently trading below analyst consensus after significant pullback, creating entry opportunity for investors with appropriate risk tolerance.",
+            "when_to_buy": "Creator recently did deep dive analysis; timing not explicitly specified in transcript but recommends watching separate detailed video for specific entry points.",
+            "target_price": "Average Wall Street price target $287 (70% upside); Highest $350; Lowest $235",
+            "cautions": "Stock is not described as cheap. Has experienced significant pullback suggesting recent volatility or disappointment. Creator recommends matching this to individual blueprint and risk tolerance before buying. Detailed risks discussed in separate deep dive video (not fully elaborated in this transcript)."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "NVIDIA",
+            "company_name": "Nvidia Corporation",
+            "reason": "While Nvidia is not explicitly marked for avoidance, the creator used Nvidia as a cautionary example multiple times. Despite excellent quarterly results and growth, Nvidia stock sold off after earnings\u2014a pattern the creator highlighted to explain why Broadcom also declined despite stellar results. The creator noted that once exponential growth becomes apparent to investors, they stop paying a premium for future growth even if growth remains impressive. Nvidia exemplifies this dynamic: it's still crushing growth metrics, but investors no longer price in premium multiples for that growth because the major growth story has already unfolded.",
+            "risk": "Premium valuations no longer justified once growth story becomes evident to market; limited upside despite continued strong fundamentals"
+          }
+        ],
+        "key_warnings": [
+          "AI semiconductor and AI infrastructure stocks are priced to perfection with sky-high expectations. Broadcom beat earnings on top and bottom lines but stock fell 6% because guidance was below consensus\u2014demonstrating that even strong results cannot overcome heightened expectations in this sector.",
+          "Energy sector faces regulatory hurdles and bottlenecks despite being positioned for AI buildout growth. The aging grid infrastructure creates structural headwinds that could delay or limit returns even as demand for electricity surges.",
+          "Concentration risk in AI infrastructure suppliers: only 5-6 major hyperscaler customers (Google, Microsoft, Amazon, Tesla, xAI, etc.) drive demand. Smaller-cap suppliers like AAOI and similar companies face existential risk if any major customer shifts strategy or reduces capex.",
+          "High-growth stocks in hyper-scaling phase (like AAOI at 120% growth) carry extreme volatility and execution risk. Stock prices can move 50-100%+ in either direction; execution must be flawless on capacity targets and production timelines or thesis collapses.",
+          "Short interest concentration (AAOI at 12.27%) creates artificial volatility and pin action around key technical levels, making reliable price prediction difficult.",
+          "The April 2025 tariff sell-off created a generational buying opportunity that has now been largely captured. Many AI and semiconductor stocks have already tripled, quintupled, or more since lows. Current prices reflect most of that move, reducing margin of safety for new entrants."
+        ],
+        "tickers_mentioned": [
+          "AVGO",
+          "VST",
+          "CEG",
+          "AAOI",
+          "CRDO",
+          "NVDA"
+        ]
+      },
+      "price_at_recommendation": {
+        "VST": 144.22,
+        "CRDO": 164.17,
+        "AVGO": 357.16,
+        "AAOI": 100.38
+      }
+    },
+    "zsXVrnL4hWQ": {
+      "channel": "Mr. FIRED Up Wealth",
+      "title": "CRDO Stock: Is It Time to Buy or Sell? Credo Technology Stock Analysis!",
+      "upload_date": "20260902",
+      "url": "https://www.youtube.com/watch?v=zsXVrnL4hWQ",
+      "processed_at": "2026-09-04T07:54:06.412717",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "CRDO",
+            "company_name": "Credo Technology",
+            "reason": "CRDO is a major beneficiary of AI data center spending with strong growth fundamentals. The company beat earnings expectations with 114.7% year-over-year revenue growth and a 3-cent EPS beat. Despite a 20% stock decline post-earnings, the valuation metrics are attractive: forward P/E of 41.33 with 115% growth yields a PEG ratio of 0.11, suggesting the stock can grow into its valuation quickly. Gross margins of 64.5-65% are still strong compared to other photonics competitors, and the company has 13 analyst buy ratings with zero sells and an average 12-month price target of $287.08, implying 68.88% upside potential. Wall Street analysts rate it a strong buy at 4.68/5. The creator recommends this as an opportunity for investors with high risk tolerance who don't have concerns about Cayman Islands incorporation.",
+            "when_to_buy": "Under $150 is described as very interesting; could even nibble at current levels around $170. Use dollar-cost averaging rather than lump-sum investing.",
+            "target_price": "$287.08 average analyst target (12-month forecast). Highest price target $350, lowest $235. Previous high of $308 is possible again with 4+ more earnings reports supporting growth.",
+            "cautions": "Company is headquartered in the Cayman Islands, which the creator personally avoids due to historical red flags (though acknowledges this doesn't mean the business is bad). Gross margins declined from 68% to 64.5%, driven by higher R&D spending. Significant customer concentration risk due to dependency on hyperscalers for AI infrastructure spending. Supply readiness and scaling challenges with zero flat optics are analyst concerns. High beta, speculative stock with significant options volatility and 3.9% short interest. If AI capex cycle ends, stock could go significantly lower. No support guarantees below current levels; potential support at $145-150 (S3 Fibonacci) and $100-110 psychological floor."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Customer concentration risk across AI infrastructure suppliers: Only a handful of hyperscalers are spending hundreds of billions on capex, creating dependency risk for companies like CRDO, Applied Optoelectronics, Astera Labs, and Ciena Technologies. These suppliers will face a cyclical downturn when capex spending ends, though the creator does not believe this is imminent.",
+          "AI capex cycle is not permanent: Margin pressure on CRDO and similar stocks is occurring now, but the broader risk is that the current AI infrastructure spending cycle will eventually end. When capex starts declining, these high-beta stocks could experience significant downside. Current pricing power and margins depend on sustained hyperscaler spending.",
+          "September-October market volatility expected: The creator anticipates choppy markets in September and October, suggesting investors should be cautious with timing on high-beta names."
+        ],
+        "tickers_mentioned": [
+          "CRDO",
+          "NVDA",
+          "BROADCOM",
+          "MRVL",
+          "ALAB",
+          "AAOI",
+          "LUMN",
+          "CIEN"
+        ]
+      },
+      "price_at_recommendation": {
+        "CRDO": 164.17
+      }
+    },
+    "a4OaYSTBeX8": {
+      "channel": "CouchInvestor",
+      "title": "If You Own AI Stocks.. GET READY FOR A BIG CHANGE!",
+      "upload_date": "20260903",
+      "url": "https://www.youtube.com/watch?v=a4OaYSTBeX8",
+      "processed_at": "2026-09-04T07:54:40.257828",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet Inc.",
+            "reason": "Google is positioned to win long-term despite not being at the frontier of AI models. The company has best-in-class cost efficiency with Gemini 3.8 Flash and maintains the same intro price as 3.7 Flash. Google can afford to give away free AI features (Gemini for free, AI overviews, AI mode) because its core advertising business is extremely profitable and well-monetized. The creator stated 'I love my Google position. I think it's a great company, the best ones out there.' Google Cloud is extremely profitable and the company is focused on growing it. Gemini 4 is believed to be the next huge release with significant improvements across the board. The company's diversified business model allows it to compete on value while maintaining profitability.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "There is currently a gap between what Google Cloud/Gemini can do compared to OpenAI and Anthropic capabilities. Not at the frontier of model performance compared to competitors."
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms Inc.",
+            "reason": "Meta released Llama 1.3 with dramatic price reductions (contributor tier priced at roughly 12 times cheaper than standard tier) while maintaining strong performance on agentic encoding tasks and reasoning. Meta's core business is extremely profitable, allowing the company to use aggressive pricing power that competitors cannot match. The creator emphasized that Meta can come out with state-of-the-art models at competitive or better performance than competitors while undercutting prices significantly. If adoption accelerates and the developer ecosystem grows (potentially with integration into WhatsApp and Instagram), this could force competitors like OpenAI and Anthropic to reduce prices or lose market share. The creator stated 'Meta's core business is extremely profitable' and highlighted this as a key advantage. Meta is expanding its AI agent capabilities and infrastructure significantly.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Still very early days for Llama adoption. Developer ecosystem needs to grow and models need to be widely integrated to materially impact OpenAI and Anthropic. Adoption needs to accelerate significantly for this to create real competitive pressure. If competitor pricing remains high or if adoption slows, the impact could be limited."
+          },
+          {
+            "ticker": "SNOW",
+            "company_name": "Snowflake Inc.",
+            "reason": "Snowflake reported 36% year-over-year revenue growth to $1.55 billion with net revenue retention at 126%, demonstrating strong organic growth without relying on large model partner deals. The company raised full-year fiscal 2027 growth guidance to 36% from 29%, showing significant confidence in the second half. EPS margin improved 400 basis points year-over-year. Product revenue beat guidance by 5.1% and annual revenue guidance was raised by $230 million well above the $70 million Q2 beat. AI agents (Coco and Co-worker) accounts grew from 7,100 to 9,100 and 5,200 to 5,800 respectively in just one quarter. The creator called it a 'quality company growing fast acceleration becoming better and better more important' with strong momentum. Snowflake's AI agents are directly tied to its data platform, with output quality dependent on data business context and governance\u2014a competitive advantage.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Snowflake is 'definitely not a cheap name' in terms of valuation. High growth expectations are already priced in and execution risk remains."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "AVGO",
+            "company_name": "Broadcom Inc.",
+            "reason": "While Broadcom reported strong AI semiconductor revenue of $21.7 billion (up 236% year-over-year) with guidance of $230 billion AI revenue for fiscal 2028, the stock is down following earnings despite these results. The creator identified significant concentration risk as the key concern: Broadcom is heavily dependent on Anthropic and OpenAI (and other large customers) for growth. If either Anthropic or OpenAI slows down in growth, the impact to Broadcom would be 'way more' severe than the impact to Nvidia, because Broadcom's customer base is more concentrated. Gross profit margins are being guided down to 73% from 78% due to mix and memory cost increases. Management commentary suggests custom chips designed around customer-specific LLM workloads will outperform general-purpose GPUs, which could cannibalize demand. The market is concerned about customer concentration risk and potential slowdown in key customers by 2027-2028.",
+            "risk": "Stock is down despite strong earnings. Concentrated customer risk with Anthropic, OpenAI, and other large AI companies. Margin compression (gross margins down from 78% to 73%). If key customers like Anthropic or OpenAI experience slowdown, Broadcom will be hurt disproportionately compared to Nvidia. The creator noted Nvidia has more diversified customer base with no single customer exceeding ~21% of revenue."
+          }
+        ],
+        "key_warnings": [
+          "Macro environment: Market is pricing in rate increases from the Fed. Any data supporting a pause in rate hikes would be well-received, but inflation remains not under control in the United States and is picking up in various European countries as well.",
+          "Concentration Risk in AI Infrastructure: Companies that are overly dependent on specific AI customers (Anthropic, OpenAI) face significant downside risk if those customers slow their growth or capital spending. This particularly impacts semiconductor and infrastructure companies like Broadcom.",
+          "Misinformation and Regulatory Risk: There is a coordinated misinformation campaign regarding AI data center water usage that the creator believes could slow AI infrastructure deployment. While the creator disputes the accuracy of claims that AI uses as much water as almond farming, the perception problem remains real and could lead to regulatory restrictions or community opposition to data center construction. This is being amplified on social media and TikTok, potentially influenced by adversaries or competitors trying to slow AI progress.",
+          "Pricing Power Erosion: As models become cheaper and more efficient (as evidenced by Meta's aggressive Llama 1.3 pricing), companies that rely on high-margin AI model subscriptions (particularly newer AI-only companies planning IPOs) face margin compression. If they need to reduce prices to compete with well-capitalized tech giants like Meta and Google, it becomes difficult for younger companies to show revenue growth sufficient for public markets while going public.",
+          "Market Volatility: Over the last couple of days the market has been 'a bit shaky.' Mixed results on Tuesday with cybersecurity names being hit significantly (PaloAlto down 9.28%, CrowdStrike down 5.4%) despite good earnings, suggesting sector rotation and risk-off sentiment in pockets of the market."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "META",
+          "NFLX",
+          "MU",
+          "PLTR",
+          "PANW",
+          "CRW",
+          "IRENE",
+          "CRWD",
+          "COREWEAVE",
+          "NEBS",
+          "GOOGL",
+          "AMD",
+          "AVGO",
+          "MRVL",
+          "SNOW",
+          "SCALE",
+          "SOFI",
+          "PYPL",
+          "UPST",
+          "SQ",
+          "COIN",
+          "WEBO"
+        ]
+      },
+      "price_at_recommendation": {
+        "GOOGL": 342.48,
+        "SNOW": 356.47,
+        "META": 610.68,
+        "AVGO": 357.16
+      }
+    },
+    "idX6GkxZXQU": {
+      "channel": "Daniel Pronk",
+      "title": "Berkshire Reveals Its Google Thesis & Why They're Buying More",
+      "upload_date": "20260902",
+      "url": "https://www.youtube.com/watch?v=idX6GkxZXQU",
+      "processed_at": "2026-09-04T07:55:03.509888",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon.com Inc.",
+            "reason": "The creator states they have been buying Amazon shares heavily over the past couple of months and view any weakness from the FTC lawsuit as a long-term buying opportunity. The reasoning is that Amazon can easily absorb tens of billions in fines given over $150 billion in annual operating cash flow. While the advertising algorithm may need changes, the creator believes Amazon's advertising business will remain highly profitable and fast-growing because advertisers are clearly seeing positive ROI and spending more on the platform. The real risk is not the fines but potential algorithm changes, which the creator believes Amazon can navigate successfully given its massive traffic and resources. The creator made a separate video with full DCF analysis on why Amazon is one of the clearest buys in the market right now.",
+            "when_to_buy": "Any weakness or selloff in the stock price due to the FTC lawsuit",
+            "target_price": null,
+            "cautions": "The FTC lawsuit could result in a $2.5-5 billion settlement and potential forced changes to advertising algorithms and bidding strategies, which could harm pricing, revenue, and margins. However, the creator does not believe this will derail Amazon's long-term fundamentals."
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms Inc.",
+            "reason": "The creator has been buying Meta heavily over the past few months and made it a larger portion of their portfolio. Meta is projected to potentially overtake Google as the largest advertising business in the world, and has been the fastest-growing advertising business for approximately 18 months. Meta is launching multiple new revenue streams including consumer AI agents (Hatch), business AI agents, coding models (Muse code), voice transcription models, and image generation models\u2014all priced competitively and at or near the frontier of AI performance. The creator believes Meta's stock price does not factor in this future revenue potential despite trading at only an 18x forward P/E ratio, making it already discounted relative to the existing business alone.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "New revenue streams from AI agents, subscriptions, and coding models are speculative and unproven at scale. The subscription offering pricing of up to $200 per month for Hatch is speculative."
+          },
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet Inc.",
+            "reason": "Warren Buffett and Berkshire Hathaway initiated a Google position approximately 18 months ago and approved another $10 billion block purchase as part of Google's share offering with a 6.5% discount negotiated. Greg Abel stated that Berkshire is seeing significant AI benefits within its own portfolio companies and has visibility into how AI is delivering returns across their businesses. This gave them conviction that AI adoption will continue to grow as it becomes cheaper and more businesses adopt it. Google is viewed as a significant player in AI. The Berkshire investment thesis appears to be that as AI token costs continue to decline (down 50% since June), adoption will accelerate dramatically (token usage up 25x in the past year and 2x month-over-month), ultimately benefiting the compute providers like Google.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The specific investment thesis details between Warren Buffett and Greg Abel are not disclosed. While the creator is bullish on the thesis, this represents Berkshire's conviction based on their internal company experiences with AI."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "FTC litigation creates headline risk across hyperscalers. While settlements are typically much lower than alleged damages (e.g., Amazon was sued for $1.4 trillion and settled for $12.7 billion), forced algorithm changes to advertising platforms could harm revenue and margins more than monetary fines. Similar to Meta's situation, the operational changes required could be more damaging than the financial penalty.",
+          "AI token cost deflation (down 50% since June) could create headwinds for compute providers on a per-token basis, though the creator argues that massive token usage growth (25x year-over-year, 2x month-over-month) more than offsets this. However, investors should monitor whether token volume growth can sustain against continued per-token price compression.",
+          "The valuations and future revenue streams from new AI products (agents, subscriptions, coding models) remain speculative and unproven at scale, particularly for Meta's consumer agent Hatch and business subscriptions."
+        ],
+        "tickers_mentioned": [
+          "AMZN",
+          "META",
+          "GOOGL",
+          "MSFT",
+          "AAPL",
+          "NVDA",
+          "BRK.B"
+        ]
+      },
+      "price_at_recommendation": {
+        "GOOGL": 342.48,
+        "META": 610.68,
+        "AMZN": 258.9
+      }
+    },
+    "tEI7NNwlcXg": {
+      "channel": "The Traveling Trader",
+      "title": "This 1 Stock is a Gold MINE \u203c\ufe0f",
+      "upload_date": "20260904",
+      "url": "https://www.youtube.com/watch?v=tEI7NNwlcXg",
+      "processed_at": "2026-09-04T07:55:47.874755",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "AVGO",
+            "company_name": "Broadcom Inc.",
+            "reason": "Broadcom reported exceptional earnings with AI semiconductor revenue up 221% year-over-year at $16.7 billion. The CEO guided AI semiconductor revenue to approximately $115 billion, doubling from the prior year, with a backlog of $164 billion (78% recognized in fiscal years 27-28). The stock is down 28% from highs despite all-time high revenue, gross profit, net income, cash from operations, free cash flow ($13.7 billion), and earnings per share. Forward PE is only 18 with a return on invested capital of 24%. The company has successfully entered the AI hardware business without margin compression. At forward 2027 EPS of $18, even using a conservative 25x multiple yields a $450 price target versus current $358 trading price. Broadcom also guides 2028 revenue to $230 billion, another doubling from 2027.",
+            "when_to_buy": "Dollar cost averaging is acceptable at current levels with intention to add more if stock drops below the $360 pivot support level. The creator prefers to see Broadcom get above the $360 range (previous resistance that became support) for confirmation before establishing new positions.",
+            "target_price": "$792 (using 44x forward multiple on $18 2027 EPS); $450 (using more conservative 25x multiple)",
+            "cautions": "Stock is down 28% from highs. The creator mentions adding to position only if it drops below $360 pivot level. Hardware business entry could present execution risks, though margins have held so far."
+          },
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Nvidia just acquired Hugging Face for $12.9 billion, representing the biggest catalyst for Nvidia in a very long time according to the creator. Hugging Face hosts over 3 million AI models and serves 18 million developers, functioning as the GitHub for AI models. This acquisition diversifies Nvidia's revenue from reliance solely on frontier models (OpenAI, Anthropic, Microsoft) to capturing demand from open-weight model implementations across companies globally. This opens a new total addressable market as companies implementing open-weight models will rely on Nvidia GPUs rather than Nvidia just selling to frontier model companies. Q3 revenue is expected to hit $18 billion. The creator has a valuation of $364 for next year and believes the stock is undervalued.",
+            "when_to_buy": "The creator mentions Nvidia has been stuck in a sideways pattern and expects the Hugging Face acquisition to propel it forward. If a retest of the earnings gap occurs, the creator plans to double up on LEAPS positions. Stock needs to get above $236 level for potential move towards $300.",
+            "target_price": "$364 (creator's actual valuation for next year); $300 (discussed as potential target); potential move towards $300 in coming months if confirms above $236",
+            "cautions": "Stock has been stuck in sideways pattern for extended period. Acquisition announcement is very recent so execution risk exists. Frontier model companies (Anthropic, OpenAI) represent major revenue concentration risk."
+          },
+          {
+            "ticker": "BE",
+            "company_name": "Bloom Energy Corporation",
+            "reason": "Bloom Energy had exceptional technical setup breaking above a downtrend line where the stock was down 41% from highs. Multiple catalysts converged: Nancy Pelosi buying shares, rumors of S&P 500 inclusion (rebalancing September 4th), and significant gamma exposure at $250 strike price when stock was at $216. The fundamental thesis on energy stocks being necessary for AI data centers is sound. The swing trade was textbook, opening above trend line and closing for 60% profit. The creator is very bullish on Bloom Energy going forward as a long-term stock aside from swing trades.",
+            "when_to_buy": "The specific swing trade entry was the break above the $250 trend line. Creator sent full alert with detailed reasoning. Trade was already closed to capture 9% candle in calls, but creator remains bullish on the stock fundamentally.",
+            "target_price": "Gamma exposure noted at $250 strike when stock was at $216; swing trade closed for 60% profit",
+            "cautions": "S&P 500 rebalancing on Friday September 4th close could result in sell-the-news effect. Non-farm payrolls also due Friday same week, creating additional volatility. This was primarily a swing/options trade, not a long-term position."
+          },
+          {
+            "ticker": "MU",
+            "company_name": "Micron Technology",
+            "reason": "Memory stocks present a coiled, low-risk, high-reward setup for trading. Micron has been following a consistent blueprint of rally, consolidate, rally, consolidate pattern. Until market structure truly breaks, this setup repeats and the creator takes this trade every single time. It's a textbook technical setup from a trading perspective (not investing).",
+            "when_to_buy": "When the coiled consolidation pattern sets up again - watch for rally, consolidation, then break of that consolidation",
+            "target_price": null,
+            "cautions": "The creator clarifies this is a trading setup, not an investing thesis. Days of gaining thousands of percentage points in memory names are long gone. Only suitable for traders, not long-term investors."
+          },
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet Inc.",
+            "reason": "Google appears to be basing around current levels and the creator is watching for a break of the downtrend. Stock may be setting up for significant upside.",
+            "when_to_buy": "If Google breaks above the downtrend line",
+            "target_price": null,
+            "cautions": "Needs confirmation of the breakout before committing capital"
+          },
+          {
+            "ticker": "CIFR",
+            "company_name": "Cipher Mining",
+            "reason": "Cipher Mining benefits from dual thesis: crypto and data centers. The stock was looking to break downtrend and if it achieves a break and retest, violent move expected in near term. The creator sees a no-brainer potential breakout on the data centers narrative.",
+            "when_to_buy": "On break and retest of the downtrend",
+            "target_price": null,
+            "cautions": "Setup needs confirmation before entry"
+          },
+          {
+            "ticker": "CEG",
+            "company_name": "Constellation Energy Corporation",
+            "reason": "CEG broke out today alongside Vertiv and other energy stocks. The creator has a fundamental thesis on CEG and other energy stocks being necessary for AI infrastructure. The creator previously discussed the fundamental thesis in a prior video.",
+            "when_to_buy": "After the breakout that occurred during the video recording",
+            "target_price": null,
+            "cautions": "Creator did not have an options trade on CEG at time of video despite bullish stance"
+          },
+          {
+            "ticker": "VRT",
+            "company_name": "Vertiv Holdings",
+            "reason": "Vertiv broke out today and is one of the energy stocks necessary for AI data center infrastructure. The creator has a fundamental thesis on why these stocks matter for AI.",
+            "when_to_buy": "After the breakout that occurred during video recording",
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "HOOD",
+            "company_name": "Robinhood Markets",
+            "reason": "Hood was heavily recommended by the creator (pounding the table on it repeatedly). Finally reached equal highs and beyond. Contributed significantly to the channel's September performance (up as of the third day of September). Creator will discuss price targets for Hood.",
+            "when_to_buy": "After reaching equal highs and breaking beyond previous resistance",
+            "target_price": "Creator promises to discuss price targets but does not state them explicitly in this video",
+            "cautions": "Creator mentions discussing price targets in video but does not explicitly state them"
+          },
+          {
+            "ticker": "IRON",
+            "company_name": "iRobot Corporation",
+            "reason": "Iron presents a textbook technical setup. Creator previously stated that if there's a retest of the earnings gap, they will likely start doubling up on LEAPS positions. If stock gets above $236 level, creator believes it will set up a move towards $300 in coming months.",
+            "when_to_buy": "On retest of earnings gap; confirmation above $236 level",
+            "target_price": "$300 (potential target in coming months if breaks above $236)",
+            "cautions": "Setup requires confirmation above $236 level; creator cautiously optimistic but notes this setup does not come without cautionary signals"
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Volatility is extremely compressed going into September, which is atypical and concerning. The creator notes they would be more comfortable if a VIX spike had already occurred before September. This compressed volatility historically precedes sharp moves.",
+          "Multiple macro catalysts converging in September: CPI and PPI inflation reports (September 10-11), Fed meeting (September 18), and September OPEX (September 18). Historical data shows at least 10% drops after OPEX in midterm years (2022, 2018, 2014). September opex is described as always scary, especially in midterm years.",
+          "Oil prices are heading back towards $92 with no resolution in sight for Iran tensions, though rumors suggest Trump may seek quick resolution. Rate hike expectations (which fell from 63% to 50%) will not address oil-driven inflation. Energy dominates current inflation readings.",
+          "Fed is unlikely to raise rates on September 18 despite earlier 63% probability. Chris Waller (known hawk) changed position to favor a hold. Bond market is doing much of the tightening work already with 2-year yields at 4.34% and 30-year at 5.25%.",
+          "Creator's September strategy: Plan to sell into strength to position for volatility, then load positions if market drops. This suggests anticipated pullback/correction risk in September despite near-term bullish setup.",
+          "S&P 500 appears to be setting up nicely with potential move towards 7,900-8,000 at start of September after bouncing from previous all-time highs, but September OPEX and macro risks create significant downside tail risk."
+        ],
+        "tickers_mentioned": [
+          "AVGO",
+          "NVDA",
+          "BE",
+          "HOOD",
+          "MU",
+          "GOOGL",
+          "CIFR",
+          "CEG",
+          "VRT",
+          "IRON"
+        ]
+      },
+      "price_at_recommendation": {
+        "IRON": 79.37,
+        "BE": 235.55,
+        "GOOGL": 342.48,
+        "AVGO": 357.16,
+        "VRT": 268.83,
+        "CEG": 285.05,
+        "CIFR": 17.37,
+        "MU": 958.16,
+        "HOOD": 124.72,
+        "NVDA": 228.45
+      }
+    },
+    "qRkRjFtPy3s": {
+      "channel": "Jose Najarro Stocks",
+      "title": "If You Own NVIDIA Stock...This Hugging Face Deal Is HUGE!!",
+      "upload_date": "20260904",
+      "url": "https://www.youtube.com/watch?v=qRkRjFtPy3s",
+      "processed_at": "2026-09-04T07:56:07.653437",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "The Hugging Face acquisition for $12.9 billion is a strategic move to prevent AI market consolidation and ensure Nvidia remains essential across a distributed AI ecosystem. Nvidia's strategy is to maintain a broad market of open-source models and multiple AI players rather than risk a future where only 2-3 companies (like OpenAI and Anthropic) dominate and build custom chips, cutting out Nvidia. By acquiring Hugging Face (which has 18 million developers, 200,000+ companies using it, and hosts 3 million models), Nvidia ensures continued demand for its compute infrastructure across diverse companies and use cases. The creator believes this long-term ecosystem strategy will ensure Nvidia's products remain indispensable regardless of which AI companies win. Additionally, Nvidia is expanding into local AI with RTX PCs launching in October, personal AI routing (PAIR), and simplifying local AI support\u2014opening a new market segment where Apple currently dominates. The creator explicitly states he is 'most likely going to buy one of these laptops' and views local AI as an exciting emerging market.",
+            "when_to_buy": "October 2024 launch window for RTX PCs mentioned as catalyst; no specific stock entry point given",
+            "target_price": null,
+            "cautions": "The creator notes potential pushback from other tech companies (like Google) regarding Nvidia owning the open-source ecosystem, which could face regulatory scrutiny. RTX PC pricing remains unknown, and memory inflation in the market could impact margins. The acquisition itself is characterized as a long-term play with no immediate monetary return, requiring patience."
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms Inc.",
+            "reason": "Meta is releasing highly competitive frontier-level AI models (Llama, Muse Code, Muse Park 1.3 Max) at cheaper pricing than competitors like OpenAI and Anthropic, performing at Frontier model levels for coding and agentic workloads. The creator believes Meta is 'sleeping on' by investors because the company can monetize not just infrastructure but also AI tokens with superior margins. Meta's ability to sell both infrastructure and tokens (which have 'really great margins') positions it as one of the best AI companies currently available. The creator states he thinks Meta is 'still a very very attractive company' and 'one of the best AI companies out right now.'",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The creator admits he doesn't know the current stock price and does not provide specific valuation guidance, suggesting a preliminary thesis rather than a comprehensive recommendation."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "AI model capability inflation and commoditization risk: While the creator maintains a 'wow factor' for GPT-4o Astra and other new models, there is an implicit warning about rapid model commoditization. Multiple companies (OpenAI, Anthropic, Meta, Musk's Grok) are releasing competitive frontier models quickly, which could compress margins and reduce differentiation.",
+          "Nvidia consolidation risk: There is a theoretical risk that if open-source models become too capable and distributed, the value of Nvidia's specialized hardware could diminish. The creator acknowledges this is Nvidia's core fear\u2014that companies might optimize models on non-Nvidia chips or build custom silicon, reducing demand for Nvidia's products.",
+          "Memory and chip pricing inflation: The creator notes uncertainty about RTX PC pricing due to 'memory inflation market,' suggesting potential margin compression in consumer AI hardware despite strong demand."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "META",
+          "GOOGL"
+        ]
+      },
+      "price_at_recommendation": {
+        "META": 610.68,
+        "NVDA": 228.45
+      }
+    },
+    "kl4Iw7H3gpQ": {
+      "channel": "FinTek",
+      "title": "Cheapest Stocks To BUY NOW",
+      "upload_date": "20260830",
+      "url": "https://www.youtube.com/watch?v=kl4Iw7H3gpQ",
+      "processed_at": "2026-09-04T07:56:17.843456",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "VBR",
+            "company_name": "Vanguard Small-Cap Value ETF",
+            "reason": "Vanguard's small cap value index is made up of small cap US value stocks that look temporarily undervalued by investors. It provides exposure to all the biggest industries in the United States while offering way more diversification away from just the multi-trillion dollar AI and tech stocks. The small cap market looks like a pretty good deal at today's prices, and diversification is always good to have.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "This is mainly made up of smaller companies, which is considered much more aggressive and risky long-term compared to large-cap holdings."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "The market is currently heavily concentrated in multi-trillion dollar AI and tech stocks, creating a diversification risk for investors who are overexposed to this sector."
+        ],
+        "tickers_mentioned": [
+          "VBR"
+        ]
+      },
+      "price_at_recommendation": {
+        "VBR": 246.92
+      }
     }
   },
   "channel_ids": {

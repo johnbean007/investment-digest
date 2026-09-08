@@ -21491,6 +21491,46 @@
         "PLTR": 174.33,
         "ORCL": 158.78
       }
+    },
+    "1_JCqHluJ9U": {
+      "channel": "Daniel Pronk",
+      "title": "Is VST Stock Worth Buying? - Here's What You Need to Know",
+      "upload_date": "20260908",
+      "url": "https://www.youtube.com/watch?v=1_JCqHluJ9U",
+      "processed_at": "2026-09-08T16:39:46.194153",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms Inc.",
+            "reason": "Daniel Pronk explicitly states that Meta is offering a lot more value and could produce significantly more returns over the long term from its current price. He indicates Meta fits better in his portfolio compared to VST and is a more attractive investment opportunity in the market today.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "VST",
+            "company_name": "Vistra Energy",
+            "reason": "Daniel Pronk concludes that VST is not a buy for his portfolio despite it being a good business. He believes the stock is probably slightly below fair value but will not produce tremendous returns going forward. The vast majority of historical returns came from multiple expansion (from 2.3x IBITA in 2023 to 7.4x today), which he believes has been exhausted. Future returns will depend on fundamental growth (0-15% annually depending on energy prices), making it a slower growth, more cyclical business. He explicitly states 'for me it's not a buy in my portfolio' and 'I'm not going to be buying Vistra.'",
+            "risk": "While trading at 10-11.6x free cash flow multiples, which appears cheap, the creator believes multiple expansion has run its course and the business is fundamentally cyclical and slower-growing, limiting upside potential. The 2027 guidance shows only 0-2% organic growth expected without acquisitions."
+          }
+        ],
+        "key_warnings": [
+          "VST's business is inherently cyclical and volatile. Historical IBITA, operating cash flows, and earnings have all shown extreme volatility since the company's 2016 IPO, including periods of negative earnings (2017, 2020-2022) and negative operating cash flows (2020-2021). This cyclicality will likely continue, meaning investors should expect periodic dips in performance and returns, not consistent year-over-year growth.",
+          "Multiple expansion has been the primary driver of VST's 800% historical returns since IPO, not fundamental business growth. The stock has experienced a 31% correction from recent highs, and most gains came from the price-to-IBITA multiple expanding from 2.3x to 7.4x over three years. Creator believes this multiple expansion engine is now depleted, meaning future returns will be significantly lower than historical returns.",
+          "VST's 2027 guidance is tracking at the lower end with flat to minimal growth (0-2% organic growth) even after including the Coentrix acquisition and Meta power purchase agreement. Organic growth from electricity market expansion alone is expected to be only 3-4% annually, making this primarily a cyclical play dependent on electricity price spikes rather than reliable organic growth."
+        ],
+        "tickers_mentioned": [
+          "VST",
+          "META"
+        ]
+      },
+      "price_at_recommendation": {
+        "META": 616.62,
+        "VST": 154.09
+      }
     }
   },
   "channel_ids": {

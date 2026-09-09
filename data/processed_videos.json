@@ -21531,6 +21531,81 @@
         "META": 616.62,
         "VST": 154.09
       }
+    },
+    "PPIdrSBQsGE": {
+      "channel": "Jose Najarro Stocks",
+      "title": "AI Stocks Just Got Major Catalysts \u2014 The Boom Is Accelerating!!",
+      "upload_date": "20260909",
+      "url": "https://www.youtube.com/watch?v=PPIdrSBQsGE",
+      "processed_at": "2026-09-09T10:47:07.579995",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "CWEB",
+            "company_name": "Core Weave",
+            "reason": "Core Weave was up 11% on the day following GPT-6 Astra announcement. The creator believes Core Weave is one of the biggest winners because it has a massive contract with OpenAI and will benefit dramatically from increased compute demand driven by Astra. While Core Weave's RPO was previously concentrated in OpenAI, the company has diversified significantly since IPO, but the strong partnership and backlog with OpenAI remains a key strength. The creator states they are more bullish on the AI industry and believes we are in early stages, with compute demand expected to exceed supply for the next 2+ years.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The creator notes that one of the biggest bearish cases for Core Weave at IPO was that most of its RPO was coming from OpenAI, though this has been diversified since."
+          },
+          {
+            "ticker": "NBIS",
+            "company_name": "Nebius",
+            "reason": "Nebius was up 7.7% on the day and announced a strategic partnership with Palantir to bring its AI-native compute infrastructure and cloud platform to Palantir's commercial customers. Nebius has been named Palantir's preferred sovereign AI infrastructure partner. The partnership makes strategic sense as Nebius focuses on the enterprise space, which aligns with Palantir's commercial customer base. The companies will also work together to accelerate deployment of new compute capacity through modular data center deployments, which could accelerate Nebius's compute expansion.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Nebius does not currently require the same level of active power as Core Weave due to the different markets it focuses on."
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms",
+            "reason": "The creator is bullish on Meta due to the launch of Muse, a personal AI agent that performs actual tasking across multiple areas of life (emails, shopping, booking, drafting, etc.). The creator believes this is bullish for Meta because it will increase AI adoption rates among humans and drive incremental compute needs. Mark Zuckerberg previously stated that selling intelligence will have higher margins than selling compute, and Meta is now executing on this with Muse, which has a $20+ monthly subscription model. Meta has massive ecosystem exposure and platform reach, which will accelerate AI adoption and drive higher margins through software services.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "QCOM",
+            "company_name": "Qualcomm",
+            "reason": "Qualcomm was up roughly 3% on the day and announced a multi-generation product collaboration with Amazon to build next-generation AI data center infrastructure. The creator views having Amazon as a partner as amazing news because Amazon is a big spender in AI and any partnership with Amazon goes a long way. Qualcomm will be providing licensing and connectivity solutions for Amazon's AI infrastructure. The creator notes Qualcomm also has another hyperscaler partnership for this year.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The creator notes this was not additive to the $5 billion in data center revenue Qualcomm expects this year\u2014it was a customer announcement for existing guidance. The creator also states they don't have enough information about the inside details of the deal to make a full reaction."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Nvidia was down 2% on the day, which the creator found shocking and surprising. Despite the positive AI catalyst from GPT-6 Astra, Nvidia underperformed while other semiconductor companies like AMD, Broadcom, and Intel rallied. The creator states: 'I am truly surprised and shocked that Nvidia is down because I do believe one of the big winners from this AI story is going to be Nvidia and it's not going to be even close.' This suggests the creator expected much better performance from Nvidia on this bullish AI day.",
+            "risk": null
+          }
+        ],
+        "key_warnings": [
+          "GPT-6 Astra represents a major inflection point in AI compute demand. The creator believes compute will not catch up to demand for the next 2+ years or more, creating both opportunity and potential supply constraints. This indicates elevated capex cycles ahead for infrastructure companies and potential bottlenecks in compute availability.",
+          "Increased AI competition will drive continuous innovation cycles. Companies like Anthropic will be forced to compete with OpenAI's Astra release, creating ongoing innovation waves that will drive demand for compute into new industries and applications, perpetuating the compute deficit."
+        ],
+        "tickers_mentioned": [
+          "CWEB",
+          "IRAO",
+          "NBIS",
+          "NVDA",
+          "MSFT",
+          "AMD",
+          "AVGO",
+          "INTC",
+          "QCOM",
+          "ORCL",
+          "META"
+        ]
+      },
+      "price_at_recommendation": {
+        "CWEB": 19.83,
+        "QCOM": 174.09,
+        "NBIS": 243.88,
+        "NVDA": 225.73,
+        "META": 613.48
+      }
     }
   },
   "channel_ids": {

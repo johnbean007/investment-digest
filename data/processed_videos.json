@@ -21635,6 +21635,102 @@
       "price_at_recommendation": {
         "IONQ": 38.75
       }
+    },
+    "DG0SPrxXg_8": {
+      "channel": "CouchInvestor",
+      "title": "This Stock Is Way Too Cheap to Stay This Way",
+      "upload_date": "20260909",
+      "url": "https://www.youtube.com/watch?v=DG0SPrxXg_8",
+      "processed_at": "2026-09-10T09:36:05.386619",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms Inc.",
+            "reason": "Meta is described as 'ridiculously cheap and undervalued' with strong momentum in AI. The creator highlights that revenue per employee has been accelerating since 2022, making the company more efficient. Meta Muse represents a new monetization avenue with 100 million free tokens per week and subscription tiers ($5 and $20+), allowing Meta to monetize AI services and benefit from its massive distribution network. The take rate on hundreds of billions of dollars in user spending becomes significant revenue. The creator explicitly states they 'can't stay quiet about Meta this year' similar to how they championed Google last year, indicating strong conviction.",
+            "when_to_buy": "Pre-market up 5% at time of recording; creator suggests selling puts for September or December 2027 expiration as a strategy to accumulate at lower prices",
+            "target_price": null,
+            "cautions": "Creator acknowledges privacy concerns but argues they are overblown given users have already shared data with other tech companies and smaller AI startups without objection."
+          },
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet Inc.",
+            "reason": "Google is 'extremely undervalued right now' despite trading at 16.5x trailing PE (with forward PE of 24.7x). The market is 'misunderstanding' and 'disrespecting' Google by focusing on Gemini/Bard concerns while ignoring the core growth story: Google Cloud is growing very quickly with expanding margins, Search is growing, YouTube is growing, and the chip business is growing 'under the radar.' Revenue per employee shows an 'up and to the right' trajectory. Google Cloud is described as a 2027 growth story similar to how the creator predicted Meta's resurgence. The average analyst price target sits above $400.",
+            "when_to_buy": "Stock is trading under the 200-day moving average (similar to July which was described as 'a pretty good spot to buy more'). Creator suggests selling puts for September or December 2027 at strike prices around $300-$320 to accumulate positions.",
+            "target_price": "Average analyst price target above $400; creator suggests potential to buy via put selling at $300-$320 strike for 2027",
+            "cautions": "Google has underperformed relative to competitors in AI model releases; Gemini needs to do significantly more to compete with ChatGPT, Claude, and Grok. Google needs better integration beyond just Google Workspace. Forward PE of 24.7x reflects market skepticism."
+          },
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon Inc.",
+            "reason": "Amazon is 'still a tremendous company' with strong momentum. Revenue per employee metric shows the most dramatic improvement story: it declined from 2017-2022 but has been accelerating upward since 2022, which the creator expects 'to continue to grow more and more' and identifies 'that's where the opportunity lies.' The company is halfway back through a significant gap up after recent earnings. Stock price recovery combined with improving efficiency metrics presents an attractive risk/reward.",
+            "when_to_buy": "Currently roughly halfway through post-earnings gap-up recovery; creator suggests selling puts for September or December 2027 as strategy to accumulate",
+            "target_price": null,
+            "cautions": "Amazon has massive employee base which historically suppressed revenue-per-employee metrics, though this is now reversing."
+          },
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Nvidia demonstrated a dramatic turnaround in revenue per employee trajectory. Before the ChatGPT jump, Nvidia was struggling with gaming segment weakness causing revenue-per-employee dips and stock decline. After the AI boom, the company experienced 'huge explosion in growth' with revenue per employee accelerating sharply upward. This transformation reflects Nvidia's pivot to dominant position in AI infrastructure and GPU computing.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "PLTR",
+            "company_name": "Palantir Technologies Inc.",
+            "reason": "Palantir announced a strategic partnership with Nebus to deliver a 'complete sovereign AI stack,' naming Nebus as preferred sovereign AI infrastructure partner. The creator predicted this partnership two months prior (July 2nd post). The partnership is expected to drive significant ARR growth, particularly in 2027 when the creator expects 'a very very big number.' The deal combines Nebus compute and inference inside Palantier's security perimeter and represents accelerated AI capacity deployment.",
+            "when_to_buy": "Partnership announcement occurred yesterday (relative to video); Palantir was up with market momentum",
+            "target_price": "Creator expects 'very very big' ARR numbers by 2027 but does not provide specific price target",
+            "cautions": null
+          },
+          {
+            "ticker": "NEBS",
+            "company_name": "Nebus Inc.",
+            "reason": "Nebus partnered with Palantier as preferred sovereign AI infrastructure partner. The creator made this prediction two months in advance (July 2nd), demonstrating conviction. The partnership enables delivery of complete sovereign AI stack and positions Nebus to deliver AI compute and inference at scale. Expected to drive significant ARR growth by 2027. Stock was up 7.7% on partnership announcement day.",
+            "when_to_buy": "Partnership announced (stock up 7.7% on announcement day); creator notes momentum is building across Neo-cloud companies",
+            "target_price": "Creator expects 'very very big' ARR numbers by 2027 but does not provide specific price target",
+            "cautions": "Creator acknowledges some Neo-cloud stocks 'still need to recover a significant amount' before reaching new highs."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "TSLA",
+            "company_name": "Tesla Inc.",
+            "reason": "While not explicitly recommended against, Tesla's revenue per employee has been 'basically flat' since 2022, contrasting sharply with efficiency improvements at other mega-cap tech companies. In the autonomous vehicle debate, the creator argues Uber will remain a valuable company even as autonomous driving becomes commoditized across manufacturers. The creator states: 'if I can buy a fleet of Tesla cars, what's stopping me of putting them on the Uber network?' This suggests Tesla's autonomous vehicle capabilities alone may not create enough value to justify dominance over platform plays like Uber.",
+            "risk": "Upside may be limited unless Tesla and Waymo capture 90%+ of autonomous vehicle market; revenue-per-employee metrics remain stagnant unlike competitors"
+          }
+        ],
+        "key_warnings": [
+          "Macro policy, bond markets, and oil prices will drive market movements after earnings season concludes. Creator notes 'a lot of the moves that we're seeing right now is still being driven by macro fat policy, bonds, etc.' Most mega-cap tech companies have already reported strong earnings, so future performance depends on macroeconomic factors beyond company control.",
+          "Regional AI feature availability creates timing differences: European users face delayed access to new AI models (weeks to months behind US users). This creates uneven competitive dynamics and adoption curves across geographies for Meta Muse, Grok, and other AI services.",
+          "Google is currently underperforming on AI model releases and needs to significantly improve Gemini capabilities to compete with ChatGPT, Claude, and Grok. However, this is not a reason to avoid the stock; rather, it represents a potential catalyst if/when Google delivers Gemini 4."
+        ],
+        "tickers_mentioned": [
+          "NEBS",
+          "PLTR",
+          "META",
+          "GOOGL",
+          "AMZN",
+          "NVDA",
+          "AAPL",
+          "MSFT",
+          "TSLA",
+          "UBER",
+          "NFLX",
+          "ORCL",
+          "ADBE",
+          "MU"
+        ]
+      },
+      "price_at_recommendation": {
+        "META": 653.69,
+        "TSLA": 367.81,
+        "NVDA": 223.67,
+        "AMZN": 252.4,
+        "PLTR": 169.53,
+        "GOOGL": 330.65
+      }
     }
   },
   "channel_ids": {

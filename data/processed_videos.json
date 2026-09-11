@@ -21731,6 +21731,297 @@
         "PLTR": 169.53,
         "GOOGL": 330.65
       }
+    },
+    "fY4cZgqgdPo": {
+      "channel": "Mr. FIRED Up Wealth",
+      "title": "Oil Is Up, Yields Are Up, Stocks Are Down - What I'm Buying NOW!",
+      "upload_date": "20260910",
+      "url": "https://www.youtube.com/watch?v=fY4cZgqgdPo",
+      "processed_at": "2026-09-11T09:00:56.572161",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "AOI",
+            "company_name": "AOI (not fully specified in transcript)",
+            "reason": "Stock is down 4% today and hovering around $100 range. Year to date still up 160%. Stock was $40 on January 2nd and reached a 52-week high of $233.67. Currently pulled back to $76-$100 range. The creator has a cost basis of $79 and is up approximately 30%. This is a speculative, high-conviction position in the community portfolio. The creator states if they did not already own it, they would start a position in the $100 range.",
+            "when_to_buy": "$100 range; $75-$80 level possible; would consider adding if it comes back to $75-$80",
+            "target_price": null,
+            "cautions": "Very speculative stock, not for everybody. Stock is under pressure and could come back to $75-$80 level. High volatility. Cannot give financial advice."
+          },
+          {
+            "ticker": "AVGO",
+            "company_name": "Broadcom Inc.",
+            "reason": "One of the creator's high conviction AI and data center plays. Profitability at 75% with $1.16 million net income per employee growing at 50% clip. PEG ratio of 0.46 indicates stock is growing into itself nicely. Pays a dividend with 12.5% 5-year growth rate and 15 years of dividend growth history. Stock is flat, down 2.36% in past year but up 624% in past five years. Creator has owned since 2018 in main portfolio. Short interest only 1%, indicating not many betting against it. Creator believes this company will be a major AI player.",
+            "when_to_buy": "$350 or less for DCA (dollar cost averaging); currently around $360; bounced off low of $341; buyers coming in around $350 price point",
+            "target_price": "Creator's Fibonacci analysis suggests $300 would be an awesome buy; all-time high was $494",
+            "cautions": "Can certainly go lower than support levels. $1.73 trillion market cap. Creator emphasizes this is one tool in the toolbelt and more green than red does not automatically mean something."
+          },
+          {
+            "ticker": "CELH",
+            "company_name": "Celsius Holdings Inc.",
+            "reason": "Small speculative position (1% of community portfolio) purchased around $26.97-$27. Company has solid revenue growth through acquisitions like Alani Energy (witches brew brand). Major positive is Pepsi distribution partnership. Down 52.63% in past year, representing beaten-down consumer stock. Creator believes if earnings turn around and management executes, could be $40-$50 stock within 1-2 years. GAP 4P ratio of 23.71 appears attractive at current depressed valuation.",
+            "when_to_buy": "$25 or less for DCA; currently at $27; creator likes at these price ranges",
+            "target_price": "Could potentially reach $40-$50 in 1-2 years if earnings improve and management executes",
+            "cautions": "Not AI-related. Consumer-facing company in beaten-down sector. Down significantly year-to-date. S3 Fibonacci support at $17, R3 resistance at $43 indicates wide range. Can certainly go lower. No guarantee of recovery."
+          },
+          {
+            "ticker": "VST",
+            "company_name": "Vistra Corp",
+            "reason": "Leading integrated power provider and unregulated energy company. Advantage over government-regulated utilities like Dominion Energy or Xcel Energy is they have more flexibility to charge higher rates and grow earnings. Profitability decent for its nature. GAP 4P ratio of 15.76 appears attractive. Pays dividend and characterized as DGIF (dividend growth) stock. Up 700% in past five years despite being down 29% in past year, indicating it got ahead of itself and pulled back.",
+            "when_to_buy": "Preferred entry under $140; currently at $147, slightly above buy zone but still opportunity; previously bought under $140",
+            "target_price": null,
+            "cautions": "Not a big growth story. Growth around 12%. Currently popped above preferred buy zone at $147. Profitability lower given nature of business. Down 29% in past year."
+          },
+          {
+            "ticker": "CRDO",
+            "company_name": "Credo Technologies",
+            "reason": "AI and data center player. Company continues to grow at strong clip with room to come back to previous price levels if earnings continue. Currently at $160 price level appears attractive for long-term investors. Creator recommended this in previous video with deeper due diligence on what the company does.",
+            "when_to_buy": "$150-$160 range; creator states if they didn't own it and it were at $150-$160, might be opportunity to add",
+            "target_price": "Previous highs suggest upside if earnings materialize, though no specific target given",
+            "cautions": "No guarantee it must return to previous levels. Depends on continued execution and earnings. AI and data center sector volatility risk."
+          },
+          {
+            "ticker": "ORCL",
+            "company_name": "Oracle Corporation",
+            "reason": "High conviction stock on creator's top 10 high conviction stocks for next decade. Creator worked at Oracle for decade and has deep understanding of business. Company is becoming a hyperscaler that will benefit significantly from AI. Recent earnings: double beat on EPS (beat by 18 cents) and revenue (beat by $220 million on $19.35B revenue, up 30% YoY). Cloud revenue expected to grow 64-70%. Total revenue guidance of at least $90B vs consensus $89.37B. EPS guidance $81 vs $86 consensus shows double raise. Already has Fortune 1000 customer relationships and can help them with AI incorporation. Massive infrastructure: OCI cloud services, SaaS applications, infrastructure services soup to nuts capability. Pays 1.24% dividend with 12% growth rate and 11 years of dividend growth. Strong profit margins. GAP 4P of 25.27, PEG of 0.81.",
+            "when_to_buy": "$150 or less for DCA was creator's focus fire target; creator's cost basis around $130-$135 through DCA; currently higher but still opportunity for long-term investors",
+            "target_price": "Creator's opinion: $300+ with time",
+            "cautions": "High debt levels. Year-to-date stock down 21%. Negative sentiment around company, particularly from short-sellers like Michael Burry. RPO (remaining performance obligation) of $209B guarantees nothing but indicates large opportunity ahead. Spending money and taking debt to build data centers. May not happen overnight. Stock will go up, down, and sideways but zero concerns long-term per creator."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "MCD",
+            "company_name": "McDonald's",
+            "reason": "Down 16.56% year-to-date. Part of broader trend showing consumer is not as strong as corporate executives claim. Restaurant stocks in general not performing well, indicating K-shaped economy where lower income consumers are spending less.",
+            "risk": "Down 16.56% YTD"
+          },
+          {
+            "ticker": "WING",
+            "company_name": "Wingstop Inc.",
+            "reason": "Down 56.97% year-to-date. Severe underperformance in restaurant sector. Reflects consumer pullback in discretionary dining spending.",
+            "risk": "Down 56.97% YTD"
+          },
+          {
+            "ticker": "SHAK",
+            "company_name": "Shake Shack Inc.",
+            "reason": "Down 26% year-to-date. Restaurant chain suffering from consumer spending weakness. Part of broader consumer discretionary weakness trend.",
+            "risk": "Down 26% YTD"
+          },
+          {
+            "ticker": "LULU",
+            "company_name": "Lululemon Athletica",
+            "reason": "Down 54% year-to-date despite being luxury brand. Even luxury consumer stocks struggling, indicating broad-based consumer weakness beyond just mass market.",
+            "risk": "Down 54% YTD"
+          },
+          {
+            "ticker": "TSCO",
+            "company_name": "Tractor Supply Company",
+            "reason": "Down 34% year-to-date. Retail sector broadly struggling. Reflects weakness in consumer spending across multiple categories.",
+            "risk": "Down 34% YTD"
+          }
+        ],
+        "key_warnings": [
+          "Fed meeting September 15-16 next week with 70% market expectation of rate hike. Higher rates put pressure on stocks, especially growth stocks. Higher yields make future earnings worth less today, creating gravity-like downward pressure on valuations.",
+          "CPI data coming tomorrow. If hot, expect stocks to be lower. Critical macro data point that could drive significant market moves.",
+          "Largest options reset in history coming. Almost $10 trillion in options set to expire by September 18th. 35% of total US options positioning concentrated on September 18th alone (6.2 trillion). Expect major choppiness in higher volatile names as hedgebook shrinks. This is largest options expiry on record.",
+          "Oil prices spiking ($108 Brent up 6.66%, $102.67 up almost 7%) putting pressure on yields. Higher oil prices mean higher inflation expectations, higher delivery costs, less consumer disposable income, and ultimately less spending on non-essential items since 68% of US GDP comes from consumer spending.",
+          "K-shaped economy and consumer weakness despite CEO statements of strength. Credit card leverage at all-time highs. Consumer spending concentrated in luxury and limited brands while mass-market consumer discretionary suffering significantly (restaurant stocks down 16-57%, retail down 34%, etc.). Need to monitor personal wallet impact.",
+          "Market lacks breadth for sustainable bull run. Tech and AI names dominating while consumer-related stocks mostly lagging. For true strong sustainable bull market, need more companies contributing. Current rally concentrated in narrow group of AI/tech names.",
+          "September/October historically volatile and poor performing months. Midterm election season adds uncertainty through November. Middle East has no clarity. Multiple macroeconomic headwinds converging.",
+          "Market sentiment drives 60-70% of stock price action. Sentiment for some stocks like Oracle very negative despite strong fundamentals, creating opportunity but also indicating sentiment risk."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "AAPL",
+          "AOI",
+          "AVGO",
+          "AMD",
+          "CELH",
+          "VST",
+          "CEG",
+          "CRDO",
+          "ORCL",
+          "MCD",
+          "WING",
+          "SHAK",
+          "CASE",
+          "TSCO",
+          "LULU",
+          "LABS",
+          "S3"
+        ]
+      },
+      "price_at_recommendation": {
+        "WING": 110.52,
+        "SHAK": 61.7,
+        "VST": 147.05,
+        "MCD": 253.05,
+        "AVGO": 360.83,
+        "ORCL": 152.94,
+        "TSCO": 33.52,
+        "CELH": 26.63,
+        "CRDO": 160.31,
+        "LULU": 96.88
+      }
+    },
+    "m66ckUsccX8": {
+      "channel": "CouchInvestor",
+      "title": "ORACLE Q2 EARNINGS REPORT BREAKDOWN | MARKET CLOSE",
+      "upload_date": "20260910",
+      "url": "https://www.youtube.com/watch?v=m66ckUsccX8",
+      "processed_at": "2026-09-11T09:01:43.551969",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "ORCL",
+            "company_name": "Oracle Corporation",
+            "reason": "Oracle delivered record Q1 FY2027 results with $19.3 billion in revenue (up 30% YoY), cloud infrastructure revenue of $7.4 billion (up 121% YoY), and non-GAAP EPS of $1.92 (up 30% YoY). The company is seeing strong acceleration in RPO conversion to revenue, with operating cash flow of $23 billion in Q1 (up 184% YoY). Cloud infrastructure grew 121% year-over-year reflecting strong execution bringing record megawatt capacity online. The company trades at 10.3x forward earnings, cheaper than Meta (16x), Google (18.86x), and has better valuation than Nvidia on a forward basis while delivering exceptional growth rates. Full year FY27 guidance upgraded to at least $90 billion in revenue (34% YoY growth) and $8.10 EPS. The business is self-funding with customers signing $30+ billion in new AI contracts in Q1 without requiring incremental capital from Oracle through bring-your-own-hardware and prepayment models. Operating margin remains at 42% on non-GAAP basis despite gross margin pressure from ramping data centers.",
+            "when_to_buy": "On any 10% correction from current levels; stock trading around $155-160 after-hours following earnings",
+            "target_price": "Creator suggests Oracle could reach $250 by year-end though uncertain on timing; upside appears significant given valuation and growth trajectory",
+            "cautions": "Rising interest rates pose macro headwind despite 122.5 billion of fixed-rate debt protecting from immediate impact. Long-term debt decreased from $122B to $117B despite massive capex spend ($28B in Q1), which is unusual and should be verified. Capex expected to remain elevated at 90-95 billion for full year (235% YoY growth rate), which while justified by revenue generation and RPO backlog, creates execution risk if growth slows. New Mexico and Wisconsin data center projects face permitting challenges but management confident no impact to FY27 revenue guidance. Free cash flow remains negative at -$5 billion due to capex front-loading, though expected to turn positive as RPO converts to revenue."
+          },
+          {
+            "ticker": "MSFT",
+            "company_name": "Microsoft Corporation",
+            "reason": "Steve explicitly recommends Microsoft as the best way to gain exposure to OpenAI's upside, noting that Microsoft plans to triple data center capacity to 38 gigawatts. Creator states: 'Microsoft would be the name that comes to mind immediately because I want access to Open AI. I think they're going to get a valuation that's higher than where we are.' Microsoft is positioned as the primary beneficiary of AI infrastructure buildout and provides direct exposure to OpenAI's progress.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Creator acknowledges this is a way to gain OpenAI exposure but does not provide specific price targets or detailed fundamental analysis of Microsoft itself."
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms",
+            "reason": "Neil identifies Meta as one of his preferred deployment choices, describing it as 'still cheap' despite being his second-largest individual position (trading at 16x forward earnings). Meta is positioned as an overlooked AI beneficiary with strong GPU spending and infrastructure buildout that has not been fully valued by the market.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "None explicitly stated for Meta in the video."
+          },
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet Inc.",
+            "reason": "Neil recommends Google as a preferred capital deployment choice, noting that Google is 'getting a bit too disrespected' and that Gemini sucks compared to competitors but Gemini 4 could be a game changer like Gemini 3. TPU business is performing well and Google Cloud is 'doing amazing.' Stock is 'being left behind a bit' despite strong fundamentals. Google trades at 18.86x forward earnings but offers solid growth from TPU expansion and cloud services.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Gemini AI model currently underperforming relative to ChatGPT and Claude; however, creator expects next generation to be competitive."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "ADBE",
+            "company_name": "Adobe Inc.",
+            "reason": "Steve explicitly states he struggles to defend Adobe and believes it has 'the weakest case for everything on the enterprise level' compared to other SaaS companies. Creator argues: 'If AI is going to disrupt and get rid of anything on the upper end of enterprise, it's Adobe over Workday. It's Adobe over Salesforce.' Adobe's business model is vulnerable to AI disruption because most usage is 30-day contract term, mostly limited to small teams, and easily replaceable with cheaper alternatives like Canva or AI-generated images. Market is more bullish on Oracle (78% vs 22% in poll), and Adobe faces executive turnover with CFO leaving and new CEO just arriving, raising questions about why leadership is departing at this time. Despite beating Q2 earnings (revenue $6.76B vs $6.7B expected, EPS $6.13 vs $6.09 expected), the double-beat was tiny. Full year revenue guidance of $26.6B barely exceeded expectations of $26.5B and Q4 guidance came in worse than expectations.",
+            "risk": "Stock sold off to $239 after earnings (down from higher levels), recovered to $253 in after-hours but showing weakness. AI disruption risk is highest among enterprise software names due to creative workflow disruption from generative AI and adjacent products offering similar functionality at lower cost."
+          }
+        ],
+        "key_warnings": [
+          "Rising oil prices and geopolitical risk: Oil trading at $103-$104/barrel with Iran-backed Houthi rebels taking strategic port cities in Yemen, threatening Red Sea shipping. Creators expect oil could easily reach $120-$140 if ports are shut down, as there is a 6.14 million barrel per day global deficit that cannot be easily fixed through rate hikes alone\u2014only increased production helps. EIA not expecting surplus until January 2027, meaning elevated oil prices likely to persist and create sticky inflation that will pressure Fed to hike rates despite economic risks.",
+          "Federal Reserve rate hike cycle imminent: Fed expected to hike rates in September and possibly again in October despite concerns this will trigger recession in Q2-Q3 2027. US 10-year Treasury at 4.95-4.96%, near highest levels since October 2023 (potentially near 5% threshold). Trump's recent comments about $5,000 payments would add $1.3 trillion to deficit that Treasury must fund, making Fed's job harder. Even modest rate increases of 50 basis points will compress margins across companies, force unemployment up, and drive layoffs as cost of capital rises.",
+          "Overbuilding risk in AI infrastructure: Despite strong near-term demand for AI data center capacity, creators acknowledge risk of overbuilding as capex growth rates continue at 200-235% YoY. Oracle alone spent $28B capex in Q1 and is expected to do $90-95B for full year. At current rates, companies more than tripling capex annually\u2014eventually this must slow and there will be a point where capacity exceeds demand. Broadcom, Nvidia, and hyperscalers are all spending hundreds of billions with 'seemingly no end in sight,' creating potential for stranded assets.",
+          "Negative free cash flow across hyperscalers: Oracle posted -$5 billion free cash flow despite record $23 billion operating cash flow because capex ($28B) exceeds cash generation. This capex is a 'vision of forward growth' for revenue years into future (2045 investment), creating execution and demand risk if customer willingness to pay decreases or capex spending proves excessive.",
+          "AI existential risk and potential regulation: Jacob Coxin (former Anthropic researcher) posted widely-shared warning that AI labs are 'speedrunning into the end of humanity' through self-improving superintelligence development without adequate safety measures. While Jensen Huang and others dismissed concerns as 'scops,' the controversy has gone viral (157M views) and could accelerate regulation, limiting AI company profitability. This creates regulatory overhang for all AI infrastructure and software companies.",
+          "Rising interest rates will compound debt servicing issues: Many neoclouds and hyperscalers have massive debt loads (Oracle ~$117B long-term, CoreWeave over $50B despite unproven business model). While Oracle's debt is overwhelmingly fixed-rate (protected for now), new debt issuance will be more expensive. If capex growth continues and companies must continuously issue new debt at higher rates, cost of capital will rise and compress returns on invested capital. This is a medium-term headwind even if near-term results are strong."
+        ],
+        "tickers_mentioned": [
+          "ORCL",
+          "ADBE",
+          "NVDA",
+          "MSFT",
+          "META",
+          "GOOGL",
+          "CRM",
+          "HOOD",
+          "RH",
+          "SOFI"
+        ]
+      },
+      "price_at_recommendation": {
+        "GOOGL": 332.6,
+        "ADBE": 248.83,
+        "MSFT": 492.44,
+        "ORCL": 152.94,
+        "META": 644.38
+      }
+    },
+    "Py2nt6iRPmM": {
+      "channel": "CouchInvestor",
+      "title": "4 Stocks You'll Wish You Bought",
+      "upload_date": "20260910",
+      "url": "https://www.youtube.com/watch?v=Py2nt6iRPmM",
+      "processed_at": "2026-09-11T09:02:17.864897",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "ZTA",
+            "company_name": "Zeta Global Holdings",
+            "reason": "Up 55% year to date but still undervalued with $7.7 billion market cap and forward PE of 28.3x with PEG ratio under 1. The market is underestimating potential growth with expectations of 39.6% growth next quarter, 29.2% the quarter after, and 15-16% next year. Revenue per employee has gone up and to the right over the last 12 months. Operating margin, free cash flow margin, and cash from operating activities all improving. The partnership with Palantir has yet to kick in, which could be a significant catalyst. The creator believes even if this becomes a $10-20 billion company, it's attractive at current $7.7 billion valuation, representing an excellent accumulation zone.",
+            "when_to_buy": "Current levels represent an accumulation zone",
+            "target_price": "Fair value around $32-33 per share based on DCF analysis; could be worth significantly more if company reaches $10-20 billion valuation",
+            "cautions": "Gross profit margin declined from 64% peak to 59.5%, though this is offset by overall business growth acceleration and margin improvement in other metrics"
+          },
+          {
+            "ticker": "SHOP",
+            "company_name": "Shopify Inc.",
+            "reason": "Down 19.4% year to date but remains a tremendously well-run company with best-in-class management. The recent Meta Muse announcement which spooked investors actually highlights Shopify's importance\u2014AI agents will need Shopify's infrastructure, backend, security and payment systems to shop. Shopify is AI-native and positioned as a first-mover in AI commerce. Revenue per employee continues up and to the right demonstrating efficiency. Operating margin has improved, free cash flow margin stable at 17%, and cash from operating activities continues to increase. Company is expected to benefit significantly from AI agent adoption as these agents will require Shopify's platform to discover and transact in stores.",
+            "when_to_buy": "Creator would have preferred entry around $80-90 per share but comfortable accumulating at current levels; considers recent weakness an opportunity",
+            "target_price": null,
+            "cautions": "Expensive on trailing PE of 85x and forward PE of 60x. Gross profit margin has declined. Risk of being left behind if company fails to execute on AI integration, or if AI agents bypass Shopify stores. Leadership execution is critical\u2014poor management could potentially cause failure despite current market position"
+          },
+          {
+            "ticker": "PLTR",
+            "company_name": "Palantir Technologies",
+            "reason": "Flat year to date at $400 billion market cap but a special company deserving premium valuation. This is one of the few companies where AI is a huge tailwind and they don't require insane capex to benefit. Clear trend of acceleration in growth\u2014revenue per employee grew 62.9% over the last year and 113% over two years (46% CAGR). Margins expanding dramatically: operating margin up and to the right, free cash flow margin 54.6%, gross profit margin improved to 84.8%, net profit margin near 49%. Company consistently beats analyst expectations and crushes guidance. Cash from operating activities accelerating. Management is exceptional and execution is flawless. Palantir is positioned at center of AI revolution working with Nvidia, Nebus, and hyperscalers.",
+            "when_to_buy": "Created bought around $107 when stock dipped; also saw opportunity around $120 range. Opportunities to enter may come at lower prices but fundamental quality justifies current valuation",
+            "target_price": null,
+            "cautions": "Extremely expensive valuation\u2014trailing PE of 142x, forward PE of 87.9x, PEG ratio just under 2x. Stock is trading at significant premium. Creator acknowledges there were better entry points historically. Risk that high expectations are already priced in, though creator believes company can continue to beat expectations"
+          },
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices",
+            "reason": "Up 126% year to date to $820+ billion market cap but the real acceleration in growth is still around the corner. Forward PE of 45.4x with PEG ratio of 1.1x is reasonable given expected growth. The major catalyst is Helios, MI400, and MI500 series which will drive much higher growth rates than currently reflected. Analysts expect significant acceleration in growth over coming quarters. Additionally, CPU side is now gaining traction. Revenue per employee improving since Q1 2024 bottom after acquisition-related slowdown. Operating margin, free cash flow margin, gross profit margin, and net profit margin all improving. Cash from operating activities going up and to the right. Company is trading on paper more expensively than Nvidia but creator believes execution can deliver and even overdel deliver.",
+            "when_to_buy": "Creator became shareholder when AMD was much smaller (around $90-100) and market was disrespecting the company. Comfortable holding at current levels",
+            "target_price": "Creator suggests AMD could potentially become a $1-2 trillion company in future if execution continues, though acknowledges Nvidia path shows how this is possible",
+            "cautions": "Trading at premium to Nvidia despite being smaller company (trailing PE higher than Nvidia, forward PE higher, PEG ratio higher). Execution is key to justify valuation. Analyst expectations of 37.2% growth in fiscal 2028 may be overstated. Creator is shareholder so obliged to note bias. Nvidia remains extremely attractive even at current prices as alternative"
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "PYPL",
+            "company_name": "PayPal Holdings",
+            "reason": "Creator explicitly stated 'I'm just kidding' when initially mentioning PayPal as one of the four stocks, indicating it is not a recommendation. While acknowledging PayPal is still cheap, the creator noted that 'trust is currently broken,' suggesting loss of investor confidence in the company",
+            "risk": null
+          }
+        ],
+        "key_warnings": [
+          "Semiconductor sector weakness: Nvidia down 2%, Micron down 4.3%, AMD down 2.7%, Intel down 4.3%. Big tech companies mostly in red. This reflects current market stress and elevated rate hike expectations.",
+          "Fed rate hike risk: ~70% probability of rate increase at upcoming Fed meeting in 6 days. Market is pricing in 40% chance of two rate hikes in 2026, 24.1% chance of one rate hike, and only 4.8-8% chance of no rate hikes. Interest rates could continue rising.",
+          "European economic concerns: European Central Bank raised rates to 2.5% due to resurging inflation and weaker growth concerns. European weakness could spillover to broader markets.",
+          "Macro prediction is futile: Creator emphasizes that even great economists are frequently wrong about macro movements and typically underperform the market. Focus on company fundamentals rather than macro predictions.",
+          "Market timing challenges: Creator notes it's difficult to time entries even on well-researched stocks\u2014planned to buy Shopify at $80 but never got that opportunity; similar challenges with other positions.",
+          "Premium valuations create execution risk: All recommended stocks trade at significant premiums to historical levels and broader market. Success requires continued flawless execution from management teams. Poor execution in premium-valued companies creates substantial downside risk."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "MU",
+          "AMD",
+          "INTC",
+          "RDDT",
+          "FOUR",
+          "DUOL",
+          "ZTA",
+          "SHOP",
+          "PLTR",
+          "NEBS",
+          "AXON",
+          "AAPL"
+        ]
+      },
+      "price_at_recommendation": {
+        "SHOP": 126.6,
+        "AMD": 503.6,
+        "PYPL": 53.31,
+        "PLTR": 165.86
+      }
     }
   },
   "channel_ids": {

@@ -22022,6 +22022,277 @@
         "PYPL": 53.31,
         "PLTR": 165.86
       }
+    },
+    "KHqK8Ez4k7g": {
+      "channel": "CouchInvestor",
+      "title": "Stocks Are Rallying Despite a Hot Inflation Report. Here's Why",
+      "upload_date": "20260911",
+      "url": "https://www.youtube.com/watch?v=KHqK8Ez4k7g",
+      "processed_at": "2026-09-11T21:41:38.385675",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "SOFI",
+            "company_name": "SoFi Technologies",
+            "reason": "Higher for longer rates support net interest margin on SoFi's lending book. The creator noted that in a higher rate environment, SoFi benefits from improved net interest margins on its lending operations, which is a positive factor for the business.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "A slower economy that comes with higher rates raises credit risk. Delinquencies on the loan book tend to rise as unemployment ticks up. Higher rates can also cool loan originations and refinancing demand. Additionally, if consumers have less discretionary spending due to higher costs of living (e.g., fuel prices), they may have less money available for SoFi's services."
+          },
+          {
+            "ticker": "HOOD",
+            "company_name": "Robinhood Markets",
+            "reason": "Higher for longer rates support net interest margin, similar to SoFi. The creator mentioned that Robinhood also benefits from higher rate environments in terms of net interest margin improvements.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "A higher rate environment will impact the retail-heavy segments of Robinhood's business. Additionally, a slower economy that comes with higher rates raises credit risk and delinquencies. Higher rates can also cool loan originations and refinancing demand."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "High-growth unprofitable companies with significant debt face headwinds in a higher rate environment. The creator noted that for high-growth names that are not profitable, have a lot of debt, or need financing, a higher rate environment could hurt these names significantly because the cost of capital goes up and the discount rate increases.",
+          "Consumer-focused businesses may face pressure if discretionary spending declines. The creator warned that if people need to spend more on essentials like fuel, they may have less money for discretionary purchases, potentially impacting companies whose customers are individuals.",
+          "Market volatility and headlines around FOMC decisions expected. The creator advised being prepared for a lot of headlines and extreme opinions next week, especially close to US midterm elections, and cautioned against overreacting to short-term macro noise."
+        ],
+        "tickers_mentioned": [
+          "SOFI",
+          "HOOD",
+          "MU",
+          "LRCX"
+        ]
+      },
+      "price_at_recommendation": {
+        "SOFI": 17.32,
+        "HOOD": 112.57
+      }
+    },
+    "i5smosFvHQY": {
+      "channel": "Daniel Pronk",
+      "title": "4 Undervalued Stocks I Plan to Keep Buying",
+      "upload_date": "20260911",
+      "url": "https://www.youtube.com/watch?v=i5smosFvHQY",
+      "processed_at": "2026-09-11T21:42:06.649551",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms Inc.",
+            "reason": "Meta launched its MetaMuse agentic app which has exceeded internal projections with users engaging 10 times more than testing cohorts. The app reached number two on the app store and provides real consumer value by executing tasks like booking restaurants, paying bills, finding and purchasing products, and managing subscriptions. This represents the first mainstream agentic AI tool that regular consumers can easily use and benefit from. Meta's AI investments are finally paying off with this breakthrough product. The stock is still undervalued trading at only 20x forward earnings despite being one of the highest quality businesses in the world with significant revenue optionality from both consumer agentic apps and business agents (WhatsApp seeing 70% YoY revenue growth on $2B annualized revenue). The existing advertising business alone doesn't reflect the future revenue potential from these new agentic products.",
+            "when_to_buy": "After home purchase closes and cash frees up; if stock remains in current price range",
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon Inc.",
+            "reason": "While agentic shopping apps like MetaMuse pose a theoretical risk to Amazon's advertising business by potentially reducing eyeballs on e-commerce platforms, the creator believes this risk is overblown. Consumer habits are difficult to change and studies show consumers do not fully trust agents to complete entire purchases, instead using them to find deals on products they already want. Amazon is building its own shopping agents (Rufus) that are seeing strong demand and increasing conversions. Amazon is also guarding its platforms against third-party agents and has already sued Perplexity for agentic scraping. The advertising business is still accelerating and growing rapidly. Amazon remains a very diverse business with massive AWS and other revenue streams. The creator is not worried about near-term risk to the business despite it being a legitimate future consideration.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Advertising business is at most risk from agentic shopping apps; agentic advertising could reduce consumer trust if advertisers can pay to be selected by agents; need to monitor if advertising revenue decelerates in future quarters, though this is not currently happening"
+          },
+          {
+            "ticker": "MELI",
+            "company_name": "MercadoLibre Inc.",
+            "reason": "Latin America has more people than Southeast Asia with double the GDP per capita but significantly lower e-commerce penetration, representing massive untapped potential. Per capita parcel volume in Latin America is projected to grow 139% by 2030 vs 83% in Southeast Asia. MercadoLibre is the dominant number one player in Latin American e-commerce and should benefit tremendously from this growth. The company has 53% digital advertising market share in Latin America as of 2026, growing from 49.4% in 2021, while Amazon declined from 24.3% to 15.9%. MercadoLibre is also rapidly expanding in digital banking with 30% market share in Mexico (from 0%) and gaining 2/3 more market share than Amazon and Walmart in the country. Non-performing loan rates are declining despite credit book growth, showing superior underwriting models and data advantages from combining e-commerce and fintech platforms. The business could realistically grow 20% annually over the next decade with multiple untapped markets and revenue opportunities. The creator believes this represents one of the clearest runways for growth in the entire market.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Credit default rates in Brazil are at 14-year highs, though MercadoLibre's own non-performing loans are declining; need to monitor overall credit health in Brazil and Latin America"
+          },
+          {
+            "ticker": "ROAD",
+            "company_name": "Road Construction Partners Inc.",
+            "reason": "The stock sold off roughly 20% following a very good earnings report, but the creator believes this selloff is massively overblown and driven by bond yield concerns and inflation worries that do not meaningfully impact the business. The core thesis remains intact: as long as roadways need maintenance in the United States, especially in the southern U.S., the business will continue seeing demand. Inflation actually benefits the business because many government contracts have inflation indexation clauses that increase contract values. The company has about $1.5B in floating rate debt, so a 1% interest rate increase would cost $15M more annually, but the business generates approximately $325M in owner free cash flow per year, meaning even a worst-case 1% rate hike would only impact earnings by 3-4% \u2014 far less than the 20% stock selloff. The company continues acquiring businesses and recently closed another acquisition. Conservative DCF models show over 20% compounded annual returns over 5 years based on company guidance that has a history of being exceeded.",
+            "when_to_buy": "If share price remains under $100",
+            "target_price": null,
+            "cautions": "Business has $1.5B in floating rate debt exposure; rising interest rates could impact profitability by 3-4% for every 1% rate increase; need to monitor interest rate environment; however, creator considers this risk manageable given cash flow generation"
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Rising bond yields and interest rate concerns are causing market anxiety across multiple sectors, though the creator believes some of this concern is overblown for specific businesses like ROAD that generate strong free cash flow",
+          "Agentic AI shopping apps pose a structural risk to e-commerce advertising businesses by potentially reducing platform traffic and consumer browsing; this is a medium-to-long term risk that investors should monitor, particularly for companies like AMZN whose advertising business could be impacted if agents become mainstream for shopping decisions"
+        ],
+        "tickers_mentioned": [
+          "META",
+          "AMZN",
+          "MELI",
+          "ROAD"
+        ]
+      },
+      "price_at_recommendation": {
+        "META": 648.03,
+        "AMZN": 256.78,
+        "MELI": 1897.37,
+        "ROAD": 99.67
+      }
+    },
+    "sNtoSLGpbwQ": {
+      "channel": "The Traveling Trader",
+      "title": "\ud83d\udd34 Day Trading LIVE | CPI Inflation Report",
+      "upload_date": "20260911",
+      "url": "https://www.youtube.com/watch?v=sNtoSLGpbwQ",
+      "processed_at": "2026-09-11T21:42:53.389440",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Creator identifies Nvidia as having an A+ swing setup off a trend line. The stock is expected to move higher and reach the apex of a triangle formation, with potential for breakout to fresh highs. Nvidia is part of the semiconductor/SOX complex that the creator expects to see significant movement, particularly in relation to AI spending themes.",
+            "when_to_buy": "On break of the trend line with confirmation",
+            "target_price": null,
+            "cautions": "Creator notes that SOXL (which includes Nvidia) and individual semiconductor names are all consolidating with similar setups, suggesting coordinated movement. Risk exists if broader market fails to confirm breakouts."
+          },
+          {
+            "ticker": "AAPL",
+            "company_name": "Apple Inc.",
+            "reason": "Creator bought October 16th 340 calls pre-market and they achieved 60% gains by mid-day. The setup was based on Apple closing above a daily fair value gap following the iPhone event, combined with dealers piling into nearly $50 million in premium on the 340 calls, indicating strong dealer positioning. Creator took profits on half the position and closed remainder for 60% gain.",
+            "when_to_buy": "Entry was October 16th 340 calls purchased day before; trade already executed with profits taken",
+            "target_price": null,
+            "cautions": "Creator emphasizes that premium expansion on options during volatile up days (like 12%+ moves) cannot be replicated on slow retracements to the same price. Position was already taken at profit; creator notes the importance of understanding option premium dynamics."
+          },
+          {
+            "ticker": "DELL",
+            "company_name": "Dell Technologies",
+            "reason": "Creator had Dell on watchlist as a break-and-retest setup. Stock showed all-time high potential with strong momentum. Creator did not personally take the trade but acknowledges it as a valid technical setup. The stock demonstrated strength around the 9 EMA and trend line retests, with potential to reach the 600s based on technical analysis.",
+            "when_to_buy": "On break and retest of key resistance levels",
+            "target_price": "Creator's price target is between 600-625 based on fundamental analysis. Prior commentary suggested 325 intrinsic value, but acknowledged stock can trade significantly higher than intrinsic value.",
+            "cautions": "Creator did not personally execute this trade despite it being on watchlist. Creator emphasizes that price targets represent estimated value, not guaranteed price levels. For option traders, the 12% move premium expansion means position management is critical."
+          },
+          {
+            "ticker": "SOXL",
+            "company_name": "Invesco Semiconductor ETF",
+            "reason": "Creator identifies SOXL as setting up for potential breakout, particularly if component stocks like Nvidia, AMD, and Broadcom break key technical levels. The consolidation patterns across semiconductor names suggest imminent directional movement. Creator notes strong technical setup with tight consolidation following capitulation candles.",
+            "when_to_buy": "Upon confirmed breakout above trend line resistance",
+            "target_price": null,
+            "cautions": "Creator explicitly states not advocating buying SOXL shares long, but rather using it for swing trades potentially via options. Needs confirmation that individual components break out simultaneously."
+          },
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon.com Inc.",
+            "reason": "Creator identifies Amazon as having a clear trend line setup with potential for violent breakout. Stock is bouncing from previous highs and consolidating. If the trend line breaks, creator expects significant upside move toward the 280s.",
+            "when_to_buy": "On breakout above the identified trend line resistance",
+            "target_price": "280s based on creator's technical analysis",
+            "cautions": "Creator notes that Amazon was already being rejected at key resistance as of the video timestamp, suggesting timing is critical. Needs confirmation of trend line break before entry."
+          },
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet Inc.",
+            "reason": "Creator identifies Google as having a clear trend line that is ready to be broken. Similar to Amazon, if the trend line breaks, creator expects the stock to start moving up significantly. Consolidation pattern suggests imminent breakout potential.",
+            "when_to_buy": "On breakout above the identified trend line",
+            "target_price": null,
+            "cautions": "Stock was still pinned at EMAs and trend line as of the video timestamp. Requires confirmation of actual breakout before entry."
+          },
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices",
+            "reason": "Creator notes AMD looks like it is on track for potentially another run, particularly given broader semiconductor sector strength. Part of the SOXL complex with tight consolidation and positive technical setup.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Part of broader semiconductor complex; needs to confirm with individual technical breakdown. Creator did not provide specific entry or exit points."
+          },
+          {
+            "ticker": "AVGO",
+            "company_name": "Broadcom Inc.",
+            "reason": "Creator loves the setup on Broadcom, highlighting the large volume bar on capitulation candle followed by very tight consolidation. This pattern of big move followed by controlled consolidation is seen as A-quality swing setup. Creator notes volume profile suggests strong institutional interest.",
+            "when_to_buy": "On breakout from the consolidation zone",
+            "target_price": null,
+            "cautions": "Creator does not advocate buying and holding; this is strictly a swing trade setup. Needs actual breakout confirmation before entry. Creator does not use volume to confirm breakouts, only to identify capitulation and consolidation patterns."
+          },
+          {
+            "ticker": "COIN",
+            "company_name": "Coinbase Global Inc.",
+            "reason": "Creator notes Coinbase looks like a potential swing trade setup, having swept at the 0.5 level and appearing ready to begin upward movement similar to Bitcoin and Ethereum.",
+            "when_to_buy": "After sweep of 0.5 level with confirmation of upward movement",
+            "target_price": null,
+            "cautions": "Creator considers this a swing trade opportunity in the crypto space, not a long-term investment. Depends on Bitcoin and broader cryptocurrency complex momentum."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "ORCL",
+            "company_name": "Oracle Corporation",
+            "reason": "Creator describes Oracle as 'a piece of [expletive]' and identifies it as the one company at risk for going upside down. Despite decent earnings, the company has a debt-to-equity ratio of 360%, excessive capex spending, and negative free cash flow of negative 5.4 billion despite positive cash from operations of 23 billion. This fundamental structure indicates the company is almost entirely financed with expensive debt and cannot justify its valuation. Credit default swaps on Oracle are expensive, reflecting high credit risk. The company's return on invested capital does not justify current valuation levels.",
+            "risk": "Risk of significant downside if debt markets tighten or credit conditions deteriorate. Company is overleveraged relative to cash generation ability."
+          }
+        ],
+        "key_warnings": [
+          "CPI came in at 3.4% year-over-year (matching expectations) and 0.4% month-over-month, but core CPI came in hotter at 0.3% month-over-month versus 0.2% expected. This hot core reading led Fed funds rate hike probability to jump to 88%, indicating market now prices a September rate hike as 'done deal.' Creator's analysis suggests the Fed will likely hike given credibility concerns, with potential for additional quarter-point hikes in December. This removes previous reasons not to hike (strong labor market, higher PPI, hotter CPI).",
+          "Interest rates are moving significantly higher, with 2-year yields up 22 basis points on the week to 4.61%, 10-year up 18 basis points to 4.96% (nearly hitting 5% level), and 30-year at 5.35%. Creator notes this is a multi-year dynamic driven primarily by geopolitical conflict in Iran/Middle East (estimated 60% of rate pressure), with secondary drivers including economic strength, AI spending, and fiscal deficits. Longer duration assets like TLT (20+ year Treasury ETF) hit all-time lows, representing significant losses for bond holders.",
+          "Market liquidity structure creates risk. Creator identifies that the major gamma (options-related price pressure) for the day is at the CPI low from yesterday's close, suggesting significant liquidation risk if market breaks below that level. Multiple indices (NQ, ES, YM) all have unresolved RTH gaps and potential down-day scenarios despite bullish seasonal bias for September 11th.",
+          "Real average hourly earnings are declining year-over-year at -0.3%, the weakest reading since May when it was -0.8%. This suggests wage growth is being outpaced by inflation, creating potential consumer pressure. However, real average weekly earnings are up 0.3% year-over-year (best since February), showing mixed signals on worker purchasing power.",
+          "Oil prices represent a wildcard risk factor. Oil's movement down today despite geopolitical tensions suggests either short-term technical resistance or changing risk sentiment. Given that creator estimates oil drives 60% of current rate expectations, unexpected oil price swings could dramatically shift rate hike probabilities and market direction. Energy-driven inflation continues to be the primary culprit in both CPI and PPI data.",
+          "Fed communication under new Fed Chair Jerome Powell (replacing Powell) creates uncertainty. Creator notes that without historical precedent with the new regime, market participants are essentially guessing on policy reaction function. Fed explicitly stated no forward guidance will be provided, removing traditional policy predictability. This lack of transparency may be contributing to market repricing.",
+          "Consumer sentiment came in significantly below expectations (University of Michigan reading at 10:00 AM ET), while inflation expectations remained elevated at 4.6% versus 4.0% previous month. This divergence suggests consumers are becoming more pessimistic about economic outlook while becoming more concerned about inflation persistence.",
+          "Volatility expected before 10:00 AM ET data releases (consumer sentiment and inflation expectations), and creator expects significant market moves during lunch hours. Market was chopping around key 9:30 AM opening levels, suggesting lack of conviction and potential for sharp directional moves once liquidity is established.",
+          "Iran/Middle East geopolitical conflict is a major unresolved risk. Creator notes the Second Middle East conflict is affecting markets in bigger way since memorandum of understanding fell away in early July. Longer the conflict continues, the less drop in rates when it eventually ends. This represents tail risk to entire interest rate and equity market structure."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "AAPL",
+          "DELL",
+          "SOXL",
+          "AMZN",
+          "GOOGL",
+          "MSFT",
+          "META",
+          "AMD",
+          "AVGO",
+          "COIN",
+          "ORCL",
+          "TLT",
+          "MSTR",
+          "VST",
+          "AAT",
+          "RTY",
+          "YM",
+          "ES",
+          "NQ",
+          "DOGE",
+          "BTC",
+          "ETH"
+        ]
+      },
+      "price_at_recommendation": {
+        "DELL": 567.29,
+        "AMD": 516.13,
+        "AVGO": 361.99,
+        "ORCL": 150.28,
+        "SOXL": 121.82,
+        "AMZN": 256.78,
+        "GOOGL": 338.5,
+        "COIN": 175.26,
+        "NVDA": 218.29,
+        "AAPL": 332.27
+      }
+    },
+    "C6trm9uWahs": {
+      "channel": "FinTek",
+      "title": "Best Value Quantum Computer Stock to BUY NOW",
+      "upload_date": "20260911",
+      "url": "https://www.youtube.com/watch?v=C6trm9uWahs",
+      "processed_at": "2026-09-11T21:43:04.459990",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "QNT",
+            "company_name": "Quantinuum",
+            "reason": "Quantinuum sells cybersecurity tools built with quantum technology in mind and has one of the most reasonable prices in the quantum computing space. The company is experiencing high growth of 279% year-over-year and has announced a partnership with Oracle to deploy Helios to Oracle's cloud. If the company can scale, the stock has potential to become a multi-bagger very quickly.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "If Quantinuum cannot scale, there is not a lot of value to prevent the stock from dropping significantly from current levels. The reasonable price relative to peers suggests investors are expecting less growth compared to other companies in the quantum computing space."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "The valuation of quantum computing stocks is highly dependent on execution and scaling ability. Quantinuum's relatively low valuation compared to peers may reflect lower growth expectations, creating significant downside risk if the company fails to meet scaling objectives or if growth expectations are not realized."
+        ],
+        "tickers_mentioned": [
+          "QNT"
+        ]
+      },
+      "price_at_recommendation": {
+        "QNT": 49.03
+      }
     }
   },
   "channel_ids": {

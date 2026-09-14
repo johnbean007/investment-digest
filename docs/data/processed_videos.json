@@ -22293,6 +22293,472 @@
       "price_at_recommendation": {
         "QNT": 49.03
       }
+    },
+    "4dOLwA_Bc_4": {
+      "channel": "CouchInvestor",
+      "title": "4 Stocks I'll Buy If We Crash This Week",
+      "upload_date": "20260913",
+      "url": "https://www.youtube.com/watch?v=4dOLwA_Bc_4",
+      "processed_at": "2026-09-14T08:38:02.369382",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet Inc.",
+            "reason": "Still trading around the same price as last week in a decent area to add more for the long run. The creator believes this is a solid holding despite potential near-term volatility from AI regulation concerns. The creator does not think regulatory or safety concerns will change the fundamental business much, making it attractive on any dips.",
+            "when_to_buy": "Current price acceptable; ideally around $300 (approximately 10% correction from current levels); willing to buy more if it drops significantly in response to Monday's AI news",
+            "target_price": "$300 suggested as good accumulation area",
+            "cautions": "Potential volatility on Monday due to AI regulation discussion; however, creator believes long-term thesis remains intact"
+          },
+          {
+            "ticker": "RKLB",
+            "company_name": "Rocket Lab USA Inc.",
+            "reason": "Still trading in the low 60s to high 50s range, which the creator has repeatedly identified as an acceptable consolidation zone. The creator is waiting for the Neutron launch and expects big contracts could change the story, but right now consolidation around $60 is acceptable for long-term holding.",
+            "when_to_buy": "Low 60s to high 50s range is acceptable; willing to create a base around these prices",
+            "target_price": null,
+            "cautions": "Still quite pricey; waiting for Neutron catalyst; big contracts needed to drive significant upside"
+          },
+          {
+            "ticker": "SOFI",
+            "company_name": "SoFi Technologies Inc.",
+            "reason": "Dipped back under $18 and closed the week at $17.32, still in a decent range. The creator emphasizes that the business has performed well and is much better today than on January 1st. The creator suggests a potential catalyst could be positive movement following the Wednesday Fed decision if no rate hike occurs.",
+            "when_to_buy": "Under $18 per share is acceptable entry; potential upside if Fed does not hike rates on Wednesday",
+            "target_price": null,
+            "cautions": "Stock has been frustratingly range-bound despite business improvements; dependent on interest rate environment; creator notes it's tiring to watch given performance doesn't reflect in stock price"
+          },
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon.com Inc.",
+            "reason": "Has been doing better over recent weeks and months despite giving back some post-earnings gains. The creator views this as a classic buy-and-hold forever name where investors should be fine. Although returns may not be 100-300% due to the company's large size, the fundamentals support long-term holding.",
+            "when_to_buy": "Current levels around $250 acceptable for buy-and-hold strategy",
+            "target_price": "$300 stock trading at around $250 (suggests $50 upside)",
+            "cautions": "Large company cap limits explosive upside potential; creator acknowledges returns will be more modest than smaller-cap holdings"
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms Inc.",
+            "reason": "Finally showing momentum after being undervalued for quite a while. Closed the week near $650. The creator views the launch of Muse, their own AI agent platform, as the start of significant upside. Despite potential Monday volatility from AI regulation concerns, creator believes the stock is undervalued and will add on dips.",
+            "when_to_buy": "Current price near $650 acceptable; willing to buy more if it drops back under $600 or close to it in response to AI regulation concerns",
+            "target_price": "Should be over $800 easily",
+            "cautions": "Potential Monday selloff due to AI regulation discussion from industry leaders; however, creator does not believe regulatory concerns will materially impact Meta's business"
+          },
+          {
+            "ticker": "NWSA",
+            "company_name": "News Corporation",
+            "reason": "Still retesting a support area despite not closing back above $15 per share. The creator views this as a very good company expanding outside of its core borders and sees expansion as a given strategy. Expects Nwsa to become a multiple hundred billion dollar company in the future.",
+            "when_to_buy": "Current levels below $15 acceptable; accumulation zone",
+            "target_price": "Multiple hundred billion dollar company valuation implied",
+            "cautions": "Some may see international expansion as risky; currently struggling to break above $15 per share resistance"
+          },
+          {
+            "ticker": "NFLX",
+            "company_name": "Netflix Inc.",
+            "reason": "In consolidation zone just below $80 per share. Stock doesn't move much but maintains support at this level. Creator views this as a holding pattern with the stock ready to accumulate.",
+            "when_to_buy": "Current consolidation zone just below $80 acceptable",
+            "target_price": null,
+            "cautions": "Stock is range-bound and lacks momentum; reluctant to move above $80"
+          },
+          {
+            "ticker": "NBIX",
+            "company_name": "Neurochem Inc.",
+            "reason": "Trading at $224, still above $215-219 support levels. The creator expects this stock could get hit on Monday like other AI names due to regulation concerns, but views dips as buying opportunities for long-term holders. If it corrects to $200 or below, creator sees this as a very good area to add.",
+            "when_to_buy": "Current price $224 acceptable; will buy more if it drops to $200 per share or slightly below on Monday's potential selloff",
+            "target_price": "$200 identified as very good accumulation area for long-term",
+            "cautions": "Expected to be hit on Monday due to AI regulation concerns from industry leaders; potential short-term volatility"
+          },
+          {
+            "ticker": "RDDT",
+            "company_name": "Reddit Inc.",
+            "reason": "Stock jumped around 67% recently to $157. Creator views this as still in accumulation zone, needing to get back above $165 to gain more momentum. Suggests continued range-bound trading with upside if resistance breaks.",
+            "when_to_buy": "Current price in accumulation zone; waiting for breakout above $165",
+            "target_price": null,
+            "cautions": "Needs to break above $165 to gain sustained momentum; currently range-bound"
+          },
+          {
+            "ticker": "AXON",
+            "company_name": "Axon Enterprise Inc.",
+            "reason": "Creator previously identified low $500s as a target and stock has dipped to even lower levels. Creator added shares at $524 previously and would consider adding more if prices drop lower. Despite recent weakness, creator views the fundamentals as sound.",
+            "when_to_buy": "Creator added at $524; would buy more if prices drop lower, though waiting for better risk/reward rather than immediately averaging down from $524 to $480",
+            "target_price": null,
+            "cautions": "Recently pulled back significantly; creator is being selective about averaging down; stock below recent $524 purchase price"
+          },
+          {
+            "ticker": "MELI",
+            "company_name": "Mercado Libre Inc.",
+            "reason": "Dropped back under $1,900 per share but remains in the same consolidation range just under $2,000. Creator views this as normal consolidation for a quality business.",
+            "when_to_buy": "Current consolidation under $2,000 acceptable",
+            "target_price": null,
+            "cautions": "Currently struggling to break above $2,000 resistance"
+          },
+          {
+            "ticker": "UBER",
+            "company_name": "Uber Technologies Inc.",
+            "reason": "Still in low $70s struggling to push back above $80. Creator believes the business remains undervalued despite negative sentiment. The company continues to deliver results and insiders are buying millions of dollars worth of shares, but the market is waiting for a sentiment shift. Potential catalyst on Wednesday if Fed does not raise rates.",
+            "when_to_buy": "Current levels in low $70s acceptable; potential upside if sentiment shifts following Wednesday Fed decision",
+            "target_price": null,
+            "cautions": "Negative sentiment around the name despite solid company delivery and insider buying; market waiting for catalyst to shift narrative"
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "AI Regulation Risk: Industry leaders (Dario Amodei from Anthropic, Sam Altman from OpenAI, and Elon Musk) have jointly called for deliberate slowdown in AI capability scaling and regulatory frameworks. This could cause significant Monday selloff in AI-related stocks (Nebus, Meta, Google, etc.). However, creator believes the actual business impact will be less severe than the stock market reaction because AI development is already decentralized with open-source models and international competition (China) unlikely to slow down. Regulatory capture concerns exist where incumbent labs may use regulations to restrict competitors.",
+          "FOMC Meeting Wednesday: 86.5% probability of a rate hike according to market pricing, but creator questions whether this will materially move markets. If Fed does nothing instead, creator would not be surprised. Rate decision could impact rate-sensitive stocks like SoFi and Uber. Creator is holding cash ahead of this event to avoid buying into potential volatility.",
+          "Market Volatility This Week: Creator expects significant movements on Monday following the AI regulation announcement and again on Wednesday following the FOMC decision. Creator is prepared to deploy cash into quality names if prices decline significantly but is cautious about buying ahead of these events.",
+          "Portfolio Concentration Risk in AI: Creator's top-ranked holdings (Nebus, SoFi, AMD, Google, Meta) have significant exposure to AI and regulatory concerns. All are expected to be pressured on Monday if markets react negatively to the slowdown proposal.",
+          "Geopolitical AI Risk: Creator notes that AI regulation cannot be controlled globally. China and other competitors may continue aggressive AI development regardless of Western regulatory moves, creating asymmetric competitive risks for U.S.-based AI companies."
+        ],
+        "tickers_mentioned": [
+          "GOOGL",
+          "RKLB",
+          "SOFI",
+          "AMZN",
+          "META",
+          "NWSA",
+          "NFLX",
+          "NBIX",
+          "RDDT",
+          "AXON",
+          "MELI",
+          "UBER",
+          "NVDA"
+        ]
+      },
+      "price_at_recommendation": {
+        "AMZN": 256.78,
+        "META": 648.03,
+        "SOFI": 17.32,
+        "NFLX": 77.4,
+        "UBER": 71.67,
+        "NBIX": 156.22,
+        "RKLB": 62.95,
+        "GOOGL": 338.5,
+        "AXON": 479.34,
+        "MELI": 1897.37,
+        "RDDT": 157.77,
+        "NWSA": 29.44
+      }
+    },
+    "_ABDiQYrSw0": {
+      "channel": "Ticker Symbol: YOU",
+      "title": "AGI Has Arrived. Here's How I'm Investing In It.",
+      "upload_date": "20260912",
+      "url": "https://www.youtube.com/watch?v=_ABDiQYrSw0",
+      "processed_at": "2026-09-14T09:38:02.726163",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices",
+            "reason": "AMD's Helios racks ship 18 EPIC CPUs for every 72 GPUs, and CPU slots are uncontested because Helios ships as a system contracted in gigawatt. As AI agents require significantly more CPU resources for tools like web searching, code running, and file moving, AMD's data center CPU business becomes increasingly valuable. CPU should stop being an afterthought and start being treated as a critical supply constraint by investors, where constrained supply creates pricing power and high margins.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "ARM",
+            "company_name": "Arm Holdings",
+            "reason": "ARM should be a big winner because Nvidia's Grace CPUs have 144 ARM cores each and almost 2.5 million have already shipped, with each paying ARM royalties. ARM's data center royalties more than doubled year-over-year. Their own server chip, the AGI CPU, already has over $2 billion in customer demand with Meta Platforms as lead partner. Additionally, ARM collects royalties on the cores inside custom chips of Amazon, Google, and Microsoft.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "ARM now has their own wafer and manufacturing costs that they never had when they only licensed their designs to other companies. This should naturally cause their overall margins to drop compared to their pure licensing model."
+          },
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Nvidia has a booming CPU business in addition to GPUs. They delivered their first 88-core Vera CPUs to Oracle, SpaceX AI, Anthropic, and OpenAI. These custom Vera chips were designed in-house and are Nvidia's first custom CPUs, allowing them to pay fewer royalties to ARM. Nvidia also invested $2 billion into Lumenum and Coherent with purchase commitments, positioning them deeply in the AGI infrastructure stack.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "SKHY",
+            "company_name": "SK Hynix",
+            "reason": "SK Hynix is the global leader in high bandwidth memory (HBM), making around half the world's HBM supply. With AI agents working for extended periods (5 hours to 5 days straight), everything they read and calculate must stay in high bandwidth memory. SK Hynix also has a 25% share of the global DRAM market and 18.5% of the global NAND flash market, making them the second largest memory supplier overall. Agentic AI makes memory demand permanent rather than cyclical.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Both SKHY and MU trade at forward price-to-earnings ratios under 8 because Wall Street still treats memory demand as cyclical, despite evidence it will become permanent with AGI adoption."
+          },
+          {
+            "ticker": "MU",
+            "company_name": "Micron Technology",
+            "reason": "Micron is the American side of the memory trade with 18% of the HBM market and 23% of overall DRAM. Their revenue more than tripled year-over-year. Micron's earnings report at the end of September will be the first memory earnings call since Astra was announced, making it a leading indicator for compute demand in the AGI era. Like SK Hynix, agentic AI creates permanent rather than cyclical demand for memory.",
+            "when_to_buy": "End of September earnings report will be a key catalyst and leading indicator",
+            "target_price": null,
+            "cautions": "Stock trades at forward P/E under 8 because Wall Street treats memory demand as cyclical. Earnings concentration risk around hyperscaler capital expenditure cycles."
+          },
+          {
+            "ticker": "CRDO",
+            "company_name": "Kratos Defense & Security Solutions",
+            "reason": "Kratos makes copper cables that carry data between chips inside AI racks with tiny chips built into each connector to keep signals clean. These cables are Kratos's biggest product line, more than doubling in 2025 and more than tripling in 2026. Company-wide revenues were up 115% year-over-year with management guiding for more than 85% growth. As AI agents loop through planning, acting, and checking work hundreds of times per job, interconnect infrastructure becomes critical.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "TEM",
+            "company_name": "Tower Semiconductor",
+            "reason": "Tower Semiconductor manufactures silicon photonics chips that turn electrical signals into laser light to transfer data between racks in huge data centers. This business unit went from $180 million annual run rate to $680 million over the last year. Management expects it to cross $1 billion this quarter with $1.3 billion in photonics contracts already signed for 2027. As data center demand grows with AGI, rack-to-rack optical interconnects become essential.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "LIIT",
+            "company_name": "Lumentum Holdings",
+            "reason": "Lumentum makes light sources that go into optical transceivers. For chips with co-packaged optics, revenues more than doubled year-over-year, and Wall Street expects it to more than double again. Nvidia invested $2 billion into Lumentum and made purchase commitments with them earlier in the year. Since silicon photonics chips direct light but can't make it, every chip needs a laser, making Lumentum essential to the AGI infrastructure stack.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "CH",
+            "company_name": "Coherent Corporation",
+            "reason": "Coherent is bigger and broader than Lumentum, making the lasers and finished transceivers that carry data between racks in data centers. Nvidia invested $2 billion into Coherent and made purchase commitments with them earlier in the year. As interconnect bandwidth demands explode with AGI adoption, Coherent's optical transceiver business becomes more critical to the infrastructure stack.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "CBRS",
+            "company_name": "Cerebras Systems",
+            "reason": "Cerebras keeps the whole wafer as one chip (roughly dinner-plate sized) with 4 trillion transistors and 900,000 cores instead of cutting it into hundreds of separate chips. The model's working memory is built directly on the chip so data never has to leave it, allowing Cerebras to serve standard open models up to five times faster than Nvidia's B200s. Latest earnings showed a $25.4 billion backlog against $900 million in revenue, with backlog 29 times larger than current business and about $2.8 billion scheduled for delivery by mid-2028 (roughly three times this year's revenue).",
+            "when_to_buy": "Went public this summer",
+            "target_price": null,
+            "cautions": "Very high concentration risk: most backlog is from a single contract with OpenAI. The company still loses money today, reporting a net loss of $450 million on $180 million in revenue. However, over 85% of losses came from stock-based compensation triggered by IPO, and the company sits on $8.6 billion in cash. This is described as 'a very focused and very early bet on Agentic AI.'"
+          },
+          {
+            "ticker": "ALAB",
+            "company_name": "Astera Labs",
+            "reason": "Astera Labs makes controllers for shared memory connections that link chips within AI racks. When AI agents need more memory, they take it from shared pools in the rack, requiring data to cross longer distances through interconnects. Astera's revenues doubled year-over-year.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Stock is coming off a massive rally, so the creator has it on watch list for now rather than buying immediately. This suggests waiting for a pullback or better entry point."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Many of the companies building next-generation AI applications are not publicly traded and are staying private for 10+ years longer than companies like Amazon and Google did. This means investors can miss out on most returns from the next Amazon, Google, or Nvidia through traditional public market investing alone.",
+          "AI agent workloads use 15 to 100 times the compute of a human using the same model according to Jensen Huang on Nvidia's earnings call. While this creates massive demand for infrastructure stocks, it also means significant energy and data center cost implications that could pressure margins if power costs rise.",
+          "Every layer of the agentic AI stack has only 2-3 major companies at the top. While this makes it easy to own 'the picks and shovels' without picking winners, it also creates concentration risk. Disruption or regulatory action against any of these few companies could impact the entire layer."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "AMD",
+          "ARM",
+          "SKHY",
+          "MU",
+          "ALAB",
+          "CRDO",
+          "TEM",
+          "LIIT",
+          "CH",
+          "CBRS",
+          "VCX"
+        ]
+      },
+      "price_at_recommendation": {
+        "SKHY": 190.07,
+        "CBRS": 191.93,
+        "MU": 975.26,
+        "AMD": 516.13,
+        "ARM": 264.79,
+        "ALAB": 291.22,
+        "NVDA": 218.29,
+        "CRDO": 162.95,
+        "TEM": 59.01
+      }
+    },
+    "CFtbV4J5Sg4": {
+      "channel": "The Traveling Trader",
+      "title": "Why Altman, Musk, & Dario Are Suddenly \"Terrified\"",
+      "upload_date": "20260913",
+      "url": "https://www.youtube.com/watch?v=CFtbV4J5Sg4",
+      "processed_at": "2026-09-14T09:38:27.097747",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "High beta AI buildout stocks (photonics, data centers) may see near-term weakness due to potential regulatory capture efforts by frontier AI companies to slow open-source/open-weight model development. However, creator views this as temporary and not fundamental to long-term AI thesis.",
+          "Software companies using AI as application layer (like Palantir, Applo) may see momentary dips but creator expects these to catch bids if hyperscaler capex slows, as they would benefit from improved free cash flows at mega-cap tech companies.",
+          "Bond market pricing in 86.5% probability of Fed rate hike at September FOMC meeting, while stock market appears unprepared for this outcome. TLT (20+ year Treasury ETF) at all-time lows with 30-year yields at 5.35% (highest since 2007) present attractive risk-reward, but creator uncertain on Fed's actual move with new leadership.",
+          "Treasury liquidity issues as corporate bonds offer superior yields (e.g., Oracle 2040 bonds at 7.44%), drawing capital away from government securities. Inflation concerns persist (3.4% YoY CPI, 0.4% MoM, 0.3% core MoM) despite claims it's temporary from Iran war.",
+          "Potential regulatory capture by Anthropic and OpenAI seeking government intervention to limit open-source/open-weight AI model competition under guise of safety, similar to 2000s telecom industry playbook that locked out independent ISPs. This represents systemic risk to competitive AI landscape."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "PLTR",
+          "GOOG",
+          "TLT"
+        ]
+      },
+      "price_at_recommendation": {}
+    },
+    "YEHcnMRTXfI": {
+      "channel": "Jose Najarro Stocks",
+      "title": "3 AI Stocks Down Big That Could Explode From Here!!",
+      "upload_date": "20260913",
+      "url": "https://www.youtube.com/watch?v=YEHcnMRTXfI",
+      "processed_at": "2026-09-14T09:38:53.784989",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "CD",
+            "company_name": "Credo Technology",
+            "reason": "Credo is positioned to benefit from AI infrastructure scaling, specifically in networking solutions that help servers and chips communicate. The company has a forward PE ratio of 22, which the creator considers attractive for a semiconductor company with massive growth opportunities. The creator is particularly excited about multiple growth avenues including 1.6T optical DSPs (revenue expected later in fiscal 2027), NPL near package optics scale up design wins (ramping in fiscal 2028), LARC microLED cables (initial revenue target fiscal 2028), Omniconnect memory solution (revenue beginning fiscal 2028), and 1.6 AEC active electric cables (contribution in second half fiscal 2027 with larger contribution in fiscal 2028). The creator believes the market underestimates how much this company could grow, with expected growth of 57% in January and 92-93% by April 2027. The stock is down 46% from its year-to-date peak at $32, currently trading at $16, and has a market cap under $33 billion.",
+            "when_to_buy": "current price levels (approximately $16)",
+            "target_price": null,
+            "cautions": "If the AI story does not materialize and demand for compute, software, networking, and AI infrastructure fails to meet expectations, the company could underperform. Most major growth catalysts are expected in fiscal 2028, more than 12 months out."
+          },
+          {
+            "ticker": "ORCL",
+            "company_name": "Oracle Corporation",
+            "reason": "Oracle is a massive player in AI infrastructure with a forward PE ratio of approximately 18, which the creator believes is undervalued for an AI infrastructure player that should trade in the mid-20s. Total revenue is expected to accelerate to 38% year-over-year growth by May 2027 as the company builds out more cloud infrastructure. The company has a massive backlog of approximately $640 billion, with about half expected to become revenue in the next 36 months. Customers are providing prepayments and bringing their own GPUs, which increases capex but is offset by prepayments. A particularly bullish development is that GPUs coming up for renewal in Q1 are being renewed or resold at a 20% premium to prior contracts, even though many are 4 years or older, demonstrating high margins on older infrastructure. Oracle has delivered 131,000 GPUs this quarter and has completed six of eight campuses for OpenAI representing 618 megawatt and 75% of total capacity. The creator notes that if the AI story is as significant as believed, Oracle stands to benefit tremendously from sustained infrastructure demand.",
+            "when_to_buy": "current price levels (approximately $150)",
+            "target_price": null,
+            "cautions": "The primary risk is if AI infrastructure is not needed or the market overbuilds capacity, Oracle and neo-cloud players could face significant challenges. Oracle also carries substantial debt. The creator personally owns less than 1-2% due to larger positions in other neo-cloud players like CoreWeave and Naiant, but notes Oracle would be on top of their list without those positions or would be included in a diversified neo-cloud ETF."
+          },
+          {
+            "ticker": "SNPS",
+            "company_name": "Synopsys",
+            "reason": "Synopsys is a software company that helps design AI chips and offers a unique way to get exposure to both semiconductor and software markets. The company trades at a forward PE ratio of 23.56, which the creator considers extremely attractive given recent developments. Last twelve months revenue continues to accelerate while gross profits increase simultaneously. The company recently acquired Ansys, which helps with simulations and represents another market the creator believes will grow with AI agents and AI tool calling. Synopsys has substantial data, pre-built licensed IP that is seeing demand as many players build their own AI chips, and offers differentiation through IP licensing plus royalty models for custom silicon solutions. The creator highlights that Synopsys mentioned AI expansion beyond digital infrastructure into physical products will continue to expand silicon demand, providing a tailwind for their IP business. The company has partnerships with Microsoft, AMD, and Nvidia showcasing EDA value, and already has more than 30 active customer engagements with their Agentic AI platform. The data Synopsys possesses makes it crucial for AI agentic tooling, and consumption-based business models could drive revenue and gross margin expansion.",
+            "when_to_buy": "current price levels",
+            "target_price": null,
+            "cautions": "Market concerns that AI will make companies like Synopsys obsolete as people use open-source solutions and no longer need proprietary tools. The stock is down roughly 17% year-to-date and 26% from its 52-week high. Success depends on the company's ability to monetize AI agent capabilities and custom silicon opportunities effectively."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "The entire investment thesis for all three recommended stocks depends on the AI story materializing at the scale currently expected. If AI infrastructure demand does not develop as anticipated, or if the market overbuilds capacity, all three companies could significantly underperform. The creator explicitly notes that every investment carries risk and investors must make their own case and pick a side based on their conviction in AI's continued growth.",
+          "Neo-cloud and AI infrastructure players face systemic risk: if AI infrastructure is not needed or the industry overbuilds, Oracle and similar cloud infrastructure players could fail. This is particularly concerning given Oracle's substantial debt load.",
+          "Synopsys faces specific risk from open-source alternatives and AI potentially commoditizing chip design tools, making proprietary EDA software less valuable."
+        ],
+        "tickers_mentioned": [
+          "CD",
+          "ORCL",
+          "SNPS"
+        ]
+      },
+      "price_at_recommendation": {
+        "SNPS": 397.38,
+        "ORCL": 150.28,
+        "CD": 2.94
+      }
+    },
+    "5k08TmLAvpw": {
+      "channel": "Jose Najarro Stocks",
+      "title": "NVIDIA Just Changed the Economics of AI Data Centers",
+      "upload_date": "20260912",
+      "url": "https://www.youtube.com/watch?v=5k08TmLAvpw",
+      "processed_at": "2026-09-14T09:39:16.070243",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Nvidia is fundamentally changing the economics of AI data centers by positioning their GPUs as durable, rentable assets rather than depreciating technology. This is critical for securing financing for $50-60 billion data center projects, as lenders are more comfortable with asset-backed financing at better rates. The H100, a three-year-old chip, has seen rental prices increase 22% month-over-month to $328/hour, demonstrating that older GPU generations maintain value and generate continuous revenue. Independent research shows GPU residual values are holding flat or increasing (A100 at ~$5,000, H100 at ~$20,000, B200 at ~$71,000 year-to-date), proving the asset class thesis. Nvidia is also becoming a platform play\u2014even when competitors build their own XPUs, they must integrate Nvidia's ecosystem (CPUs, networking via ConnectX, DPUs via Bluefield, Spectrum X Ethernet), ensuring Nvidia wins regardless. The company is securing 2 gigawatts of AI infrastructure capacity by 2027 (~$80 billion in potential revenue), expanding into robotics, autonomous vehicles, and emerging use cases like cybersecurity. With open-source models only 4 months behind frontier models, Nvidia's support of open-source creates durable demand across older and newer GPU generations. The creator explicitly stated they are bullish and follow Nvidia because 'they have ears and eyes in the whole ecosystem' with visibility into coming trends before they become mainstream.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The creator notes that if frontier AI companies theoretically decided to develop on non-Nvidia chips, it could be a risk, though they find this highly unlikely given Nvidia's continuous software improvements. National security competition with China could accelerate AI spending but also introduces geopolitical risk."
+          },
+          {
+            "ticker": "IREN",
+            "company_name": "Ir\u00e9gen (or similar Australian data center partner)",
+            "reason": "The creator explicitly stated 'I am an Ir\u00e9gen shareholder. So, I'm very excited to see this.' The company is partnering with Nvidia to build 2 gigawatts of AI infrastructure capacity in Australia by 2027, which the creator describes as 'very bullish.' This partnership showcases the growing relationship between Nvidia and Ir\u00e9gen, positioning the company as a key beneficiary of the massive capital deployment in AI data center infrastructure.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "NEBS",
+            "company_name": "Nebius (or similar entity)",
+            "reason": "The creator identified Nebius as 'a big win' in connection with Nvidia and Palantir's collaboration on sovereign AI and supply chain operations. Nebius is positioned as a beneficiary of the AI infrastructure buildout and software integration partnerships.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "National security competition between the US and China will likely prevent any slowdown in AI development despite calls for AI safety pacing. Dario (Anthropic CEO) called for slowing frontier AI, but the creator argues this is unrealistic because 'no one's going to trust each other' and the US cannot risk losing AI dominance to China. This geopolitical tension means AI investment and innovation will continue at maximum pace, which may create regulatory or escalation risks.",
+          "OpenAI paused its $200 GPT Pro subscription due to extreme demand for GPT-4o. The creator expects OpenAI will either raise prices to $400-500 or reduce token allocations due to the model's value exceeding the subscription price. This indicates potential margin pressure and pricing volatility in consumer AI services.",
+          "GPU oversupply risk is mitigated but not eliminated: while older GPUs (A100, Volta) maintain value through open-source model compatibility, this depends on continued demand. If AI capital spending slows or adoption plateaus, the entire asset-backed financing thesis for data centers could break down."
+        ],
+        "tickers_mentioned": [
+          "NVDA"
+        ]
+      },
+      "price_at_recommendation": {
+        "IREN": 43.83,
+        "NVDA": 218.29
+      }
+    },
+    "LSTK2bOeG88": {
+      "channel": "FinTek",
+      "title": "Bill Ackman Just Doubled Down",
+      "upload_date": "20260912",
+      "url": "https://www.youtube.com/watch?v=LSTK2bOeG88",
+      "processed_at": "2026-09-14T09:39:40.960635",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms Inc.",
+            "reason": "Bill Ackman increased his Meta position as part of a rotation strategy away from Google. Ackman is bullish on AI and growth stocks, and he identified Meta as offering better valuations compared to Google while maintaining exposure to similar secular trends. The position size of $2.3 billion indicates significant conviction.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "MSFT",
+            "company_name": "Microsoft Corporation",
+            "reason": "Bill Ackman increased his Microsoft position as part of a strategic rotation to stocks he believes offer better valuations. Ackman is bullish on AI and growth stocks, and Microsoft was selected as a preferable alternative to Google with a position size of $2.5 billion, indicating strong conviction in the company's prospects.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "UBER",
+            "company_name": "Uber Technologies Inc.",
+            "reason": "Bill Ackman increased his Uber position during his portfolio rotation, suggesting he sees attractive value in the growth stock. The increased position indicates Ackman believes Uber offers better risk-reward characteristics as part of his broader AI and growth stock thesis, with a position size of $1.8 billion.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon.com Inc.",
+            "reason": "Bill Ackman retained a major Amazon position of approximately $2 billion, indicating continued confidence in the company. This retention during a broader portfolio rotation suggests Ackman views Amazon as a core holding aligned with his bullish outlook on AI and growth stocks.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet Inc.",
+            "reason": "Bill Ackman completely sold his entire $2 billion Google position. However, the video explicitly states this sale was not a criticism of Google's strategy but rather a valuation-based rotation decision. Ackman moved the capital to similar AI and growth stocks that he believed offered better value propositions.",
+            "risk": null
+          }
+        ],
+        "key_warnings": [
+          "Ackman is being selective about valuations in the current market environment. Despite his bullish stance on AI and growth stocks broadly, he is rotating capital away from higher-valuation positions toward what he perceives as better-valued alternatives, suggesting caution about overpaying for growth exposure."
+        ],
+        "tickers_mentioned": [
+          "GOOGL",
+          "META",
+          "MSFT",
+          "UBER",
+          "AMZN"
+        ]
+      },
+      "price_at_recommendation": {
+        "AMZN": 256.78,
+        "META": 648.03,
+        "UBER": 71.67,
+        "GOOGL": 338.5,
+        "MSFT": 495.63
+      }
     }
   },
   "channel_ids": {
@@ -22304,8 +22770,6 @@
     "JoseNajarroStocks": "UC5cEHfCr6WOE1R1zcohd1IA",
     "FinTek": "UCxdWHEhEPiYhCADMrn4PdhQ"
   },
-  "last_eval_week": "2026-W37",
-  "alerts": {
-    "fallback": "2026-08-12T05:49:52.847848"
-  }
+  "last_eval_week": "2026-W38",
+  "alerts": {}
 }

@@ -22880,6 +22880,128 @@
         ]
       },
       "price_at_recommendation": {}
+    },
+    "K56oOg1wkRs": {
+      "channel": "CouchInvestor",
+      "title": "These AI Stocks Just Got a Lot Cheaper",
+      "upload_date": "20260915",
+      "url": "https://www.youtube.com/watch?v=K56oOg1wkRs",
+      "processed_at": "2026-09-15T23:36:16.292402",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms Inc.",
+            "reason": "The creator believes Meta is extremely undervalued at current levels and states 'I think Meta today is an $800 stock. Still extremely undervalued.' Meta benefits from a slowdown in capex spending because its core business (Facebook, Instagram) is extremely profitable and generates hundreds of billions in free cash flow, allowing it to subsidize and give away capable AI tools for free. Additionally, MetaAI Muse is gaining massive traction with daily downloads barely behind Instagram and already surpassing Threads, WhatsApp, and Facebook. The creator calls Muse 'the best thing that came out in this whole AI world after ChatGPT' and notes it isn't even available worldwide yet. Meta will also benefit if capex growth slows because free cash flow will go back up faster than expected, allowing for aggressive buybacks and dividends.",
+            "when_to_buy": null,
+            "target_price": "$800",
+            "cautions": null
+          },
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet Inc.",
+            "reason": "Alphabet is positioned to benefit significantly from a slowdown in capex investments because it will no longer need to spend as much on third-party AI models, having now reached comfort with releasing its own products. The creator states 'Imagine how much money they are going to save' from reducing third-party model spending. Alphabet will experience accelerated growth, especially with the TPU business launching next year. The company also recently allowed employees to use cloud more extensively. Even if free cash flow is expected to be negative in fiscal 27, it will flip positive in fiscal 28, and the company benefits from both capex slowdown and new product releases.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "MSFT",
+            "company_name": "Microsoft Corporation",
+            "reason": "Microsoft is one of the mega-cap AI players that benefits from a slowdown in capex spending. With hundreds of billions in capex combined with other hyperscalers, a slowdown in capex growth rates (though not in absolute dollar amounts) will relieve pressure on free cash flow, allowing it to return more cash to shareholders. Microsoft's core business remains extremely profitable, enabling it to invest heavily in AI infrastructure while maintaining financial flexibility.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "MU",
+            "company_name": "Micron Technology Inc.",
+            "reason": "Micron is experiencing a growth cycle never seen before, with free cash flow expected to grow from around $50 billion in the current year to $162 billion in fiscal 28. The creator emphasizes 'these memory names are going to be extremely profitable' and states 'this time it is different' when comparing to previous cycles. Even if capex growth slows, the absolute dollar amounts continue to grow significantly. Micron will be able to buy back an insane amount of shares once restrictions lift at year-end, while simultaneously investing in growth. The company will accumulate such substantial cash during the up cycle that it can weather future down cycles, unlike in previous memory cycles.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Even if capex growth rates decelerate, this does not hurt Micron because the absolute dollar amount of revenue and free cash flow continues to grow substantially. Previous cycle comparisons do not apply."
+          },
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices Inc.",
+            "reason": "AMD is expected to see acceleration in growth, which justifies the high premium being paid for the stock. Even if capex growth slows by 2028, the creator argues this deceleration timeline is too quick because 2028 is not far away and AMD's MI400 series is just the start, with MI500 coming next year. The company is still very early in its growth story. AMD is expected to reach $130 billion in revenue by fiscal 28 with close to $30 billion in free cash flow, and can continue growing at 20%+ rates through 2029-2030.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The creator notes that if capex growth slows, AMD could theoretically get hit, but argues this concern is overblown given the product quality and the early stage of the growth cycle."
+          },
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Nvidia is funding the buildout of AI infrastructure across all hyperscalers and neo-cloud providers. At nearly $5 trillion in market cap, the company is expected to generate close to $900 billion in revenue by fiscal 28 and almost $500 billion in free cash flow. The creator notes it is 'quite insane that growth rates are still so high' at this scale. Nvidia generates so much cash that not investing would be a mistake; it is simultaneously buying back insane amounts of shares, paying dividends, growing rapidly, and making strategic investments to keep the ecosystem healthy. This cash generation enables all dependent companies to scale.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Valuation is stretched at $5 trillion market cap, though the free cash flow generation justifies continued investment."
+          },
+          {
+            "ticker": "NEBS",
+            "company_name": "Nebus (CoreWeave competitor implied)",
+            "reason": "Nebus is positioned to benefit from enterprise demand outside hyperscalers. Revenue growth is expected to explode, and the creator believes actual numbers could exceed projections. Though free cash flow is currently negative due to high accelerating capex, the creator expects this to become a business with a very good margin profile. Nebus has positioned itself extremely well in the enterprise market, working closely with Nvidia and Palantir, with a smart strategy to use hyperscalers to fund growth while focusing on the non-hyperscaler market.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Free cash flow is currently negative due to high capex, so this is a growth story where margins and profitability are expected but not yet realized."
+          },
+          {
+            "ticker": "COREWEAVE",
+            "company_name": "CoreWeave Inc.",
+            "reason": "CoreWeave has immense scale and backlog with good execution. The company has a very high debt profile compared to peers but the creator believes 'hundred billion in market cap is definitely possible' if they execute correctly, diversify their business (which they have been doing), and avoid major delays. CoreWeave is expected to generate $41 billion in revenue by end of fiscal 28. Though free cash flow is still negative, the creator acknowledges assumptions for high-growth companies like this are often wrong and underestimate actual performance.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Debt profile is high compared to competitors. Execution risk exists around diversifying business and avoiding delays. Free cash flow currently negative."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "SPACEX",
+            "company_name": "SpaceX (private, mentioned as comparison)",
+            "reason": "While SpaceX has impressive growth prospects (10x revenue growth from $18.6 billion to $184 billion by fiscal 28), the creator considers the valuation too expensive even with these growth rates. The creator states 'I would have loved to get SpaceX under a trillion dollars in market cap. Didn't happen.' If viewing SpaceX purely as a neo-cloud or hyperscaler play, competitors like Nebus and CoreWeave offer better valuations. SpaceX has negative $107-108 billion in expected free cash flow by fiscal 28 due to huge capex requirements.",
+            "risk": "Valuation appears stretched relative to growth prospects. Massive negative free cash flow requirements limit flexibility."
+          },
+          {
+            "ticker": "BROADCOM",
+            "company_name": "Broadcom Inc.",
+            "reason": "Broadcom was down 4.7% on Monday during the AI slowdown discussion, indicating semiconductor companies that depend on capex spending face headwinds if there is a deceleration in capex growth. The creator's thesis suggests that while absolute capex dollars continue growing, the growth rate slowdown will hurt chip makers and memory makers more than benefiting from the lower growth rates.",
+            "risk": "Semiconductor names like Broadcom face downside if capex growth slows, as they depend on accelerating spending rather than absolute levels."
+          },
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "While not explicitly a recommendation to avoid, Nvidia faces valuation concerns at $5 trillion market cap. If capex growth rates decelerate (even though absolute spending continues increasing), Nvidia as the primary chip supplier could see margin pressure and slower revenue acceleration compared to current expectations.",
+            "risk": "Valuation at $5 trillion is stretched; vulnerable to capex growth deceleration narratives even though absolute capex dollars remain large."
+          }
+        ],
+        "key_warnings": [
+          "The market is currently macro-driven and headline-reactive. The creator warns 'we are still in a macro driven headline market' where articles can cause overreactions (like the Anthropic AI safety concerns on Friday). Investors should not panic-sell based on daily volatility and should evaluate whether fundamentals have actually changed rather than react to noise.",
+          "AI safety discussions appear to be self-serving narratives from AI labs seeking regulatory advantages. The creator suggests that warnings about AI safety and the need to 'pace the frontier' from companies like Anthropic may be motivated by competitive positioning rather than genuine safety concerns. These companies are proposing regulations that would entrench their dominance while slowing competitors. The creator advises skepticism about these narratives.",
+          "Excessive hype and marketing in the AI sector is unsustainable. The creator criticizes the constant announcement cycles, benchmarks, and marketing pushes in AI, noting that major products historically launched in silence (iPhone, etc.). This suggests current valuation premiums are partly built on 'hype multiples' that depend on continued marketing rather than fundamental business value.",
+          "Capex growth rates are decelerating but absolute spending continues rising. This creates a valuation trap for semiconductor and infrastructure companies: while they will still generate record revenues and free cash flow, the market may penalize them for decelerating growth rates, creating a risk/reward disconnect.",
+          "Meta Platforms and AI assistant competition remains uncertain. While MetaAI Muse shows strong early metrics, the creator warns not to 'sleep on this' because it is not yet available worldwide, implying execution risk remains on global rollout and sustained user adoption."
+        ],
+        "tickers_mentioned": [
+          "BROADCOM",
+          "NVDA",
+          "MU",
+          "GOOGL",
+          "MSFT",
+          "META",
+          "AMD",
+          "NEBS",
+          "CRW",
+          "SPACEX"
+        ]
+      },
+      "price_at_recommendation": {
+        "MSFT": 497.12,
+        "META": 670.24,
+        "MU": 927.6,
+        "GOOGL": 344.98,
+        "NVDA": 212.17,
+        "AMD": 504.2
+      }
     }
   },
   "channel_ids": {

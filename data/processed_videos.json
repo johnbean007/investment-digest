@@ -22759,6 +22759,127 @@
         "GOOGL": 338.5,
         "MSFT": 495.63
       }
+    },
+    "6UnwJWFeSdc": {
+      "channel": "Daniel Pronk",
+      "title": "Nike Stock Has Collapsed - Is It Finally A Buy?",
+      "upload_date": "20260915",
+      "url": "https://www.youtube.com/watch?v=6UnwJWFeSdc",
+      "processed_at": "2026-09-15T17:03:25.582251",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [
+          {
+            "ticker": "NKE",
+            "company_name": "Nike Inc.",
+            "reason": "Nike is now a turnaround story facing fierce competition and losing market share to competitors. The company's main lifestyle brands, which comprise roughly half of revenues, are declining at double-digit rates year-over-year. Nike has seen the weakest revenue growth among peers since 2021 with essentially flat sales growth over the past 5 years (0.2% total revenue growth), while competitors like On (+344%), Aritzia (+202.8%), and Lululemon (+89.4%) have grown significantly faster. The stock trades at approximately 24 times trailing 12-month earnings (excluding one-time tariff benefits), and even if Nike successfully executes a turnaround and earnings per share return to the all-time high of $3.80, the stock would still trade at only 10 times earnings today. However, the business carries substantial execution risk, and the creator emphasizes that investing in Nike is 'betting on a successful turnaround of the business, which isn't guaranteed to happen.' The creator's core concern is unpredictability in the fashion industry and unwillingness to speculate on future profit trajectories of turnaround stories.",
+            "risk": "Continued market share losses to competitors, potential failure of new lifestyle brand replacements launching in spring 2027, China market weakness (down 17% in the most recent quarter), and further deterioration of margins and earnings."
+          },
+          {
+            "ticker": "LULU",
+            "company_name": "Lululemon Athletica Inc.",
+            "reason": "Lululemon is experiencing sales deceleration after 20-plus years of consistent growth. The creator mentions Lululemon specifically as part of a broader pattern in the fashion retail industry where even iconic brands eventually hit a wall and struggle to continue growing. Like Nike, Lululemon has become a turnaround story with uncertain execution prospects. The creator states that determining when fashion brands will hit this growth wall is unpredictable, and fashion remains uninvestable due to rapid consumer trend changes, fierce competition, and inability to forecast long-term profit trajectories.",
+            "risk": "Deceleration in sales growth trajectory, uncertain ability to reignite growth, continued competitive pressures from rivals, and structural challenges in the fashion industry that have affected even the strongest brands."
+          },
+          {
+            "ticker": "UAA",
+            "company_name": "Under Armour Inc.",
+            "reason": "Under Armour exemplifies the broader pattern in the fashion and apparel industry where strong revenue growth eventually stalls and declines. The company saw tremendous revenue growth for years but then sales started to stall, and now sales are declining. The creator uses Under Armour as a cautionary example of how even seemingly strong businesses in fashion eventually hit a wall and struggle to maintain their historical growth rates.",
+            "risk": "Continued sales decline, inability to reignite growth, and structural challenges inherent to the fashion and apparel retail sector."
+          }
+        ],
+        "key_warnings": [
+          "The entire fashion and retail industry is structurally uninvestable according to the creator due to unpredictable consumer trends, rapid style changes, and fierce competition. Every major fashion brand eventually hits a wall where growth stalls or reverses\u2014Nike, Lululemon, and Under Armour are recent examples. Consumer habits and spending patterns change unpredictably, and the creator cannot reliably forecast profits 1, 3, 5, or 10 years into the future for these businesses. The rapid pace of competitive disruption, exemplified by newer entrants like On (+18.5% growth) and Aritzia (+37.5% growth) taking share from legacy players, makes it impossible to predict which companies will remain competitive.",
+          "The fashion retail sector faces macro headwinds including inflation and rising gas prices causing consumers to tighten spending. However, the creator notes this is not purely a macro issue\u2014many competitors are still growing while Nike declines, suggesting Nike-specific execution problems and market share losses rather than industry-wide collapse.",
+          "Nike's turnaround strategy carries significant execution risk. Key lifestyle brands (half of revenue) are declining double-digit percentages, and Nike is betting on new product replacements launching in spring 2027 with 'no guarantee of working or making up for the lost revenue.' Management guidance suggests negative growth through the first half of 2027, and management does not believe macro conditions will improve for at least 6 months."
+        ],
+        "tickers_mentioned": [
+          "NKE",
+          "ADIDAS",
+          "SMDA",
+          "DECK",
+          "ONON",
+          "ATZ",
+          "LULU",
+          "UAA"
+        ]
+      },
+      "price_at_recommendation": {
+        "NKE": 36.28,
+        "UAA": 5.0,
+        "LULU": 97.25
+      }
+    },
+    "IkX_5pTxFCk": {
+      "channel": "Jose Najarro Stocks",
+      "title": "Jensen Huang Just Destroyed the Biggest AI Bear Case!!",
+      "upload_date": "20260915",
+      "url": "https://www.youtube.com/watch?v=IkX_5pTxFCk",
+      "processed_at": "2026-09-15T17:03:53.190901",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "CREDO",
+            "company_name": "Credo Technology Group",
+            "reason": "The creator explicitly stated they like Credo and mentioned it as a stock they've talked about in the past. While specific detailed reasoning for this pick was not extensively elaborated in the transcript, the creator included it among stocks they are bullish on in the current market environment.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "COROREWEAVE",
+            "company_name": "CoreWeave",
+            "reason": "The creator stated 'I like Cororeweave at 83, right? I I I am extremely bullish in the AI scenario right now.' The bullish thesis is based on the belief that even with just Astro 6 and no further model improvements, there is enormous demand for compute infrastructure. The creator estimates there is enough demand for at least 18 months to two years without any further AI innovations, driven by the implementation of existing AI capabilities into numerous workflows and software solutions.",
+            "when_to_buy": "At $83",
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Market volatility expected to remain high in the semiconductor and AI sectors for the foreseeable future, particularly due to the politicization of AI in the United States ahead of elections. The creator warns that while they are bullish long-term, investors should not assume consistent upward price movement and that 'the dip keep on can keep on dipping,' so deploying capital should be measured rather than all-in during sell-offs.",
+          "Recent fear-mongering about AI safety and regulation, including calls to slow down frontier AI development, has caused significant market sell-offs (Nvidia down 3%, AMD down 4%, Broadcom down 4%, memory stocks like SK Hynix down 16.7%, optics companies down 6-9%), driven by predictions from AI industry leaders that lack concrete data or simulation backing. The creator cautions that investors should scrutinize whose predictions they follow, noting that many past predictions about AI timelines and job displacement have proven incorrect."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "AMD",
+          "AVGO",
+          "AMZN",
+          "ORCL",
+          "AOI",
+          "SK Hynix",
+          "CREDO",
+          "COROREWEAVE"
+        ]
+      },
+      "price_at_recommendation": {}
+    },
+    "zGGbwchJ1uI": {
+      "channel": "FinTek",
+      "title": "Top Under-the-Radar Fintech Stock the Smart Money is Buying Now",
+      "upload_date": "20260914",
+      "url": "https://www.youtube.com/watch?v=zGGbwchJ1uI",
+      "processed_at": "2026-09-15T17:04:05.022680",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "KASPI",
+            "company_name": "Kaspi",
+            "reason": "Monish Pabrai made a $147,000 investment in this small Kazakhstan fintech stock based on two main factors: the amount of cash it produces and how low the price investors were willing to pay at the moment, indicating a significant valuation discount. The stock also received a major investment from WeChat's parent company, suggesting institutional confidence and validation from a major technology player.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "This is described as a tiny, small-cap stock in Kazakhstan, which implies higher risk, lower liquidity, and limited Western investor coverage. The position size ($147,000) suggests this should be considered a speculative, concentrated bet rather than a core holding."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Most Western investors ignore or overlook opportunities in non-Western markets like Kazakhstan, potentially missing value opportunities but also exposing themselves to geopolitical, regulatory, and currency risks when investing internationally."
+        ],
+        "tickers_mentioned": [
+          "KASPI"
+        ]
+      },
+      "price_at_recommendation": {}
     }
   },
   "channel_ids": {

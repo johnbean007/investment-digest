@@ -23053,6 +23053,66 @@
         "AMD": 504.2,
         "META": 670.24
       }
+    },
+    "5lmVOzE3LsU": {
+      "channel": "CouchInvestor",
+      "title": "KEVIN WARSH FED HIKE STOCKS GO RED!",
+      "upload_date": "20260916",
+      "url": "https://www.youtube.com/watch?v=5lmVOzE3LsU",
+      "processed_at": "2026-09-16T21:45:26.756671",
+      "transcript_fails": 1,
+      "last_reason": "unavailable",
+      "terminal": true,
+      "skipped": "no transcript"
+    },
+    "ezF_EoqR8T4": {
+      "channel": "The Traveling Trader",
+      "title": "\ud83d\udea8 FED Decision! Live Trading FOMC",
+      "upload_date": "20260916",
+      "url": "https://www.youtube.com/watch?v=ezF_EoqR8T4",
+      "processed_at": "2026-09-16T21:45:31.489442",
+      "transcript_fails": 1,
+      "last_reason": "unavailable",
+      "terminal": true,
+      "skipped": "no transcript"
+    },
+    "ihMaG5OkjVc": {
+      "channel": "Jose Najarro Stocks",
+      "title": "AI Stocks Go Crazy with FOMC RATE HIKE!!",
+      "upload_date": "20260916",
+      "url": "https://www.youtube.com/watch?v=ihMaG5OkjVc",
+      "processed_at": "2026-09-16T21:45:35.495701",
+      "transcript_fails": 1,
+      "last_reason": "unavailable",
+      "terminal": true,
+      "skipped": "no transcript"
+    },
+    "lEyL6bsm7Zs": {
+      "channel": "FinTek",
+      "title": "Quantum Computing Picks and Shovels Stock",
+      "upload_date": "20260916",
+      "url": "https://www.youtube.com/watch?v=lEyL6bsm7Zs",
+      "processed_at": "2026-09-16T21:45:42.815482",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "COHR",
+            "company_name": "Coherent Corporation",
+            "reason": "Coherent is building the tools required for building and networking quantum systems. The company hit $2 billion in their most recent quarter with most of that driven by data centers and communications, and generated around a quarter billion dollars in net income. It is currently printing profit while trading at a valuation only slightly higher than comparable industry peers, despite having way less uncertainty than other stocks in the quantum computing space. As the quantum supply chain grows in importance, this company is well positioned to grow with it, positioning it as a 'picks and shovels' play on quantum computing infrastructure.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": [
+          "COHR"
+        ]
+      },
+      "price_at_recommendation": {
+        "COHR": 289.93
+      }
     }
   },
   "channel_ids": {

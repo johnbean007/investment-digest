@@ -23002,6 +23002,57 @@
         "NVDA": 212.17,
         "AMD": 504.2
       }
+    },
+    "M5dB79KBimo": {
+      "channel": "Jose Najarro Stocks",
+      "title": "Mark Zuckerberg Just Changed the AI Story \u2014 3 Stocks to Buy NOW!",
+      "upload_date": "20260916",
+      "url": "https://www.youtube.com/watch?v=M5dB79KBimo",
+      "processed_at": "2026-09-16T08:58:28.308221",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms Inc.",
+            "reason": "Mark Zuckerberg's recent posts showcase Meta's leadership in AI through a safety-first approach backed by experience from social media and advertising platforms. Meta has natural financial incentives and liability concerns that drive proper AI alignment. The company delayed Muse shipments for several months to focus on safety and security, demonstrating responsible development. Meta's massive compute infrastructure positions it to sell AI tokens and agentic tools at scale. The creator believes Meta's experience managing safe products at scale and dealing with regulatory/liability issues gives it a competitive advantage in building aligned AI models that users will actually want to use. Forward PE of 20.71 offers room for valuation expansion to 25-26x, plus potential 20-30% upside from valuation alone, not counting revenue growth from token sales and Muse/agentic tools.",
+            "when_to_buy": "The creator was more bullish at lower prices (540s-560s range) but still likes it at current levels. Prefers entry points below 600.",
+            "target_price": "Potential for forward PE expansion to 25-26x, implying 20-30% upside from valuation alone, plus additional upside from revenue growth in token sales and agentic tools.",
+            "cautions": "Stock was cheaper in the 540s-560s range earlier; current forward PE of 20.71 is higher than prior 17x level. Market cap under $2 trillion still leaves room for growth but valuation is no longer in bargain territory."
+          },
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices Inc.",
+            "reason": "AMD has a strong partnership with Meta for custom MI450 chips and full-stack server solutions. AMD's SVP of Compute and Enterprise AI stated that control plane, API calls, database queries, and tool execution are CPU-based, creating a new class of CPU demand on top of traditional general-purpose CPU needs. This is particularly relevant for agentic AI workloads. AMD's total addressable market in CPUs has expanded dramatically from $60 billion in November to $120 billion in December to over $220 billion recently, reflecting massive TAM expansion. As Meta develops stronger Muse models and agentic tools grow, AMD will benefit significantly from increased CPU demand in the data center for AI inference and agent execution.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "QCOM",
+            "company_name": "Qualcomm Inc.",
+            "reason": "Qualcomm has a strategic multi-generation agreement with Meta on data center CPUs and is partnering on virtual reality and augmented reality devices/glasses. With aggressive agentic AI deployment and localized AI models expected to grow, Qualcomm stands to benefit as a CPU provider in the data center space. The creator notes that while Qualcomm won't rival Nvidia or AMD in scale, the massive compute demand means there's room for multiple winners, and Qualcomm's partnership with Meta on both data center CPUs and localized AI/XR devices positions it well for growth. Market cap of approximately $200 billion suggests it's relatively smaller than major AI infrastructure plays.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Creator explicitly states Qualcomm is 'not saying it's going to be AMD' or 'beat Nvidia,' positioning it as a tertiary beneficiary rather than a primary play."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Some AI CEOs (Dario from Anthropic, Sam Altman from OpenAI) are calling for AI innovation slowdowns and increased regulation, which the creator views skeptically. However, even Dario acknowledged that AI technology will continue improving and companies are only utilizing 5-10% of current AI's potential value, meaning the market opportunity remains massive.",
+          "The creator acknowledges there is some 'weakness and fear' among other AI CEOs regarding alignment and safety concerns, but uses Meta's pragmatic, experience-driven approach as a counterargument, suggesting that fear-based regulatory calls may not reflect market reality or technical feasibility."
+        ],
+        "tickers_mentioned": [
+          "META",
+          "AMD",
+          "QCOM",
+          "NVDA"
+        ]
+      },
+      "price_at_recommendation": {
+        "QCOM": 187.8,
+        "AMD": 504.2,
+        "META": 670.24
+      }
     }
   },
   "channel_ids": {

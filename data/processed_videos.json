@@ -23269,6 +23269,58 @@
         ]
       },
       "price_at_recommendation": {}
+    },
+    "59nt4X9NX6E": {
+      "channel": "Mr. FIRED Up Wealth",
+      "title": "Best Stocks to Buy Now? 2 Hated Names I'm Buying at These Levels!",
+      "upload_date": "20260917",
+      "url": "https://www.youtube.com/watch?v=59nt4X9NX6E",
+      "processed_at": "2026-09-17T17:23:38.342366",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "AVGO",
+            "company_name": "Broadcom Inc.",
+            "reason": "Broadcom is in the creator's top 10 high conviction stocks for the next decade because it uniquely combines semiconductors and custom chips with software including cyber security, allowing investors to ride multiple secular trends with one outstanding company. The company has diversified revenue streams: 55-62% from semiconductor solutions (chips and networking) and 25-30% from infrastructure software including Carbon Black (cyber security), enterprise software, private cloud, and mainframe software. Beyond the AI data center opportunity (which most people focus on), Broadcom has exposure to broadband, end-to-end solutions, industrial, automotive, wireless, and networking. The company is designing the Jalapeno inference chip with OpenAI, which will be important as AI companies need inference capabilities for their large language models. The stock has fallen significantly from its $495 52-week high to around $340, creating an attractive entry point driven by AI competition fears, AI slowdown concerns, custom chip debate, and valuation concerns. The creator has owned Broadcom since 2018 and believes the risk-reward is favorable for long-term investors.",
+            "when_to_buy": "$350 or less via dollar-cost averaging (DCA). Creator started a new position below $350 and added more around $336-$337. Considers $300 a reasonable psychological floor.",
+            "target_price": "Creator believes the company can get back to higher prices with time but does not provide a specific upside target. Notes it is certainly attractive in the current zone.",
+            "cautions": "The stock could certainly go lower. AI competition fears and custom chip debate are real concerns. The Jalapeno chip will only have small volumes in late 2026 with bigger role in 2027, and by then Nvidia will be on its next generation, so competitive claims about current performance are not immediately relevant. Creator emphasizes 'buy, hold, and monitor' \u2014 never just buy and hold blindly forever. Stock could remain choppy given triple witching on September 18th and $9.6 trillion in expiring options."
+          },
+          {
+            "ticker": "ORCL",
+            "company_name": "Oracle Corporation",
+            "reason": "Oracle is in the creator's top 10 high conviction stocks for the next decade despite being heavily hated by the market, which is generally when the creator likes to buy stocks. The company is undergoing massive infrastructure buildout for AI and neo-cloud capabilities. Once this infrastructure is built out and they have data centers, Oracle can plug and play as a neo-cloud OCI platform with cross-sell opportunities in the enterprise space. Oracle already works with the Fortune 1000 and can leverage these relationships. The creator believes Oracle will become a new hyperscaler. Wall Street analyst Guggenheim has a $400 price target and calls it their best idea. TipRanks shows 25 buy ratings, highest price target of $400, lowest of $145, and current implied upside of approximately 75-87% to an average price target of $251. The stock has been crushed from $345 to below $150, creating a contrarian opportunity. The creator worked for Oracle directly and in the partner ecosystem for over 10 years, giving insider knowledge of the company's enterprise relationships.",
+            "when_to_buy": "$150 or less via dollar-cost averaging (DCA). Creator currently holds close to a 2% position and wants to grow it to a 5% position. Would like to see it at $100 (S3 Fibonacci support level).",
+            "target_price": "Guggenheim Street price target: $400 within 12 months (though creator cannot predict timing). TipRanks average upside target: $251 from current $143 price.",
+            "cautions": "Oracle reported massive negative free cash flow of -$5.4 billion in Q1 fiscal 2027 (their fiscal year ends in summer). Gross capex spend ballooned from $8.5 billion to $28.5 billion, a major red flag for many investors. Company issued $20 billion in stock dilution with more dilution coming. Recently conducted brutal layoffs ($700 million restructuring costs, $2.8 billion in severance), which while potentially positive for shareholders, damages sentiment and generates bad press. The company has historically been 'hated' \u2014 the creator cannot recall Oracle ever being widely loved by the market. Larry Ellison's reputation as a 'villain' also contributes to negative sentiment. Stock can always go lower. Creator emphasizes this is buy, hold, and monitor \u2014 never blindly."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Triple witching on September 18th: $9.6 trillion in options expiring (roughly 35% of total US options positioning) could cause 'pin action' volatility where certain stocks sell off that shouldn't. Expect choppiness over the next several days or even into the following week.",
+          "Bull market trap risk: After the Fed rate hike and expected market rally, be very careful of FOMO buying. Strong opens could roll over. Don't assume yesterday's dip is a guaranteed rally continuation.",
+          "Fed rate hike cycle ahead: The September 16th 25 basis point rate hike is rare as a one-off; historically rate hikes come in cycles with multiple hikes. Expect 2-3 more rate hikes this year. Rate hikes could be choppy \u2014 markets could go down before going up.",
+          "K-shaped economy and consumer stress: The economy is bifurcated \u2014 wealthy investors and AI-related businesses are doing well (up and to the right), but everyday consumers are deteriorating (down and to the right). Household debt is at $18.8 trillion with rising delinquencies. Consumer is slowing but AI is accelerating. Credit card balances increased $44 billion in one quarter alone.",
+          "Housing market collapse risk: Mortgage rates have risen from 6% in late February 2024 to 7% by mid-September 2024. The National Association of Realtors expects 7% to be the new normal. Apollo's housing report shows 75% of households can only afford homes below $300K while median home price is $400K. Median first-time home buyer age is now 40 years old (a record high). Only 7% of households plan to move in the next year (a record low). Roughly half of outstanding mortgages are below 4%, and multifamily mortgage delinquencies are above post-global financial crisis peaks.",
+          "Oil price inflation driver: Oil is the key inflation driver. Higher oil equals higher gas equals higher costs for everything (food, delivery, shipping). Energy is the big driver for higher inflation. With AI data center demand, oil prices aren't coming down. Core inflation data (CPI, PPI) remains elevated.",
+          "AI capex cycle end risk: Historical data reveals that major technological breakthroughs (railroads, dotcom, etc.) spark massive speculative stock market bubbles. When capex spend starts to slow down or dry up, there will be a massive negative reaction in the markets. The creator has studied markets for 25 years and believes this cycle will eventually end badly, though nobody can predict with certainty if it will take 8 months, 18 months, or 3 years. When this happens, stocks that benefited from capex will see severe corrections.",
+          "Valuation debate in semiconductors and AI: There are legitimate concerns about whether AI-related semiconductor stocks are too expensive, though valuations have come back significantly from peaks. Competition from open-source and Chinese AI models is rising while OpenAI and Anthropic try to go IPO without owning their own infrastructure."
+        ],
+        "tickers_mentioned": [
+          "AVGO",
+          "ORCL",
+          "NVDA",
+          "SMH",
+          "SOXX",
+          "CRWD",
+          "S",
+          "MSFT"
+        ]
+      },
+      "price_at_recommendation": {
+        "ORCL": 151.37,
+        "AVGO": 348.16
+      }
     }
   },
   "channel_ids": {

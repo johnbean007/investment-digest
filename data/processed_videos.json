@@ -23113,6 +23113,162 @@
       "price_at_recommendation": {
         "COHR": 289.93
       }
+    },
+    "7oMgZmtOtMA": {
+      "channel": "CouchInvestor",
+      "title": "The Fed Just Hiked Rates: Here's What I'm Buying and What I'm Selling",
+      "upload_date": "20260917",
+      "url": "https://www.youtube.com/watch?v=7oMgZmtOtMA",
+      "processed_at": "2026-09-17T16:19:03.418161",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet Inc. (Google)",
+            "reason": "The creator views Google as an attractive long-term investment opportunity, particularly if the stock experiences further weakness. He suggests that current market volatility presents a buying opportunity for quality mega-cap tech names. The reasoning is that regardless of short-term macro headwinds like rate hikes, these companies will likely be forgotten about this period within 12 months to 5 years, making current dips gifts for long-term investors.",
+            "when_to_buy": "If it dips to $300 or lower",
+            "target_price": "$300",
+            "cautions": null
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms Inc.",
+            "reason": "The creator identifies Meta as a high-quality company that becomes extremely attractive on weakness. He emphasizes that short-term sentiment and macro concerns should not deter long-term investors from accumulating shares. The thesis relies on the idea that current market pessimism is temporary and will be irrelevant to long-term returns.",
+            "when_to_buy": "If it drops back under $600",
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon.com Inc.",
+            "reason": "The creator lists Amazon among mega-cap tech names that are attractive for long-term investors during market weakness. He argues that these companies are resilient and that current valuations during dips represent exceptional opportunities for patient capital deployment over multi-year horizons.",
+            "when_to_buy": "At current levels or if it approaches $200",
+            "target_price": "$200 or current levels",
+            "cautions": null
+          },
+          {
+            "ticker": "MSFT",
+            "company_name": "Microsoft Corporation",
+            "reason": "The creator includes Microsoft in his list of mega-cap tech names worth buying on weakness. He suggests these quality businesses should be accumulated during market corrections, as their long-term value is unaffected by near-term rate hikes or economic uncertainty.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "The creator specifically highlights Nvidia as a compelling buy if it declines further. He argues that AI buildout will continue regardless of rate hikes, and that current weakness in the stock presents an opportunity. The creator emphasizes that AI infrastructure spending is creating jobs and growth in segments where they previously didn't exist, supporting continued investment in semiconductor capacity.",
+            "when_to_buy": "At $200 or under",
+            "target_price": "$200",
+            "cautions": null
+          },
+          {
+            "ticker": "MU",
+            "company_name": "Micron Technology Inc.",
+            "reason": "The creator mentions Micron as an example of a semiconductor company that could become extremely attractive if there is a significant market pullback. He speculates that Micron could decline to around $70, which would represent an exceptional buying opportunity for long-term investors given the continued AI buildout.",
+            "when_to_buy": "On a major pullback",
+            "target_price": "$70",
+            "cautions": "Semiconductor sector is capital intensive and cyclical; more exposed to economic slowdown than mega-cap tech"
+          },
+          {
+            "ticker": "NEBS",
+            "company_name": "Nebeus (or similar growth company)",
+            "reason": "The creator identifies this as a riskier but compelling long-term growth story. He suggests that under $200, and especially under $150-$160, it represents an easy long-term accumulation opportunity despite near-term macro headwinds and its small-cap status.",
+            "when_to_buy": "Under $200, preferably $150-$160 range",
+            "target_price": "$150-$160",
+            "cautions": "More on the riskier part; still quite small growth story with higher sensitivity to cost of capital increases"
+          },
+          {
+            "ticker": "SOFI",
+            "company_name": "SoFi Technologies Inc.",
+            "reason": "The creator is super bullish on SoFi as a business and expects their guidance to be correct regarding one to two rate hikes this year. He believes if they increase guidance with the same assumptions, it would be quite bullish for the stock. However, he recommends waiting for better entry points rather than buying immediately.",
+            "when_to_buy": "Wait for market sentiment flip; consider if it goes back under $17",
+            "target_price": null,
+            "cautions": "Currently has zero momentum and a major macro overhang; fintech sector sentiment is poor; better to wait for sentiment change despite bullish long-term view"
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "SOFI",
+            "company_name": "SoFi Technologies Inc.",
+            "reason": "Despite being bullish on the business fundamentals, the creator recommends avoiding SoFi right now because it has zero momentum and carries a major macro overhang affecting the entire fintech sector. He explicitly states that although he's super bullish on it, it might be better to wait until market sentiment flips before deploying capital, as sentiment is currently poor.",
+            "risk": "Zero momentum; major macro overhang; poor fintech sector sentiment"
+          },
+          {
+            "ticker": "NOW",
+            "company_name": "ServiceNow Inc.",
+            "reason": "The creator mentions ServiceNow as an example of a good business that doesn't matter in the current market environment due to bad sentiment. He notes that even though ServiceNow is fundamentally solid, the macro environment and market sentiment are so negative that the stock has done nothing for the last 6 months.",
+            "risk": "Poor market sentiment overriding fundamentals; no momentum"
+          }
+        ],
+        "key_warnings": [
+          "Rate hike cycle likely to continue: The Fed signaled 16 out of 18 participants see at least one more rate hike in 2026, with the possibility of additional hikes in 2027, shifting to a 'higher for longer' policy. However, the creator emphasizes this should not cause panic as the economy remains strong with 2.3-2.4% GDP growth expected and unemployment at 4.1%, both better than previously feared.",
+          "Inflation stickier than expected: Inflation is proving more persistent than the Fed anticipated, with both 2026 inflation forecasts revised higher by 0.1%. The creator expects inflation to remain sticky until geopolitical tensions in the Middle East and Ukraine resolve and oil prices decline accordingly. He believes 2% inflation won't be achieved until 2029.",
+          "Fintech and software sentiment weakness: The entire fintech sector faces a major macro overhang with poor sentiment, making it difficult to invest despite strong fundamentals. Software names like ServiceNow are also struggling with negative sentiment that overwhelms positive fundamentals. The creator advises waiting for sentiment shifts rather than forcing capital into these areas.",
+          "Near-term volatility expected: U.S. midterm elections are approaching, which historically brings increased volatility to markets. Additionally, September is typically not the best performing month of the year for stocks. The creator warns to expect choppy conditions in the near term.",
+          "Market is only 3.5% from all-time highs: Despite the recent rate hike and market decline, the S&P 500 is only 3.5% below all-time highs, and the NASDAQ-100 is only 5.7% down from its June peak. The creator argues this shows limited downside risk and suggests market pessimism is overblown relative to current valuations.",
+          "Risk of policy error: The Fed faces a delicate balancing act between tightening enough to combat inflation while not tightening so much that growth decelerates significantly. The creator warns that if tightening continues and growth suddenly decelerates, it could create serious economic problems similar to past policy mistakes."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "GOOGL",
+          "META",
+          "MSFT",
+          "AMZN",
+          "SOFI",
+          "MU",
+          "NEBS",
+          "NOW"
+        ]
+      },
+      "price_at_recommendation": {
+        "AMZN": 252.1,
+        "MU": 981.56,
+        "NOW": 139.63,
+        "META": 674.91,
+        "NVDA": 218.87,
+        "SOFI": 16.8,
+        "GOOGL": 347.43,
+        "MSFT": 495.67
+      }
+    },
+    "LF7fgz1HAFs": {
+      "channel": "Jose Najarro Stocks",
+      "title": "CoreWeave & Nebius GPU Pricing Just Exploded \u2014 Here\u2019s Why",
+      "upload_date": "20260917",
+      "url": "https://www.youtube.com/watch?v=LF7fgz1HAFs",
+      "processed_at": "2026-09-17T16:19:22.896221",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NEBS",
+            "company_name": "Nebius",
+            "reason": "Nebius announced on-demand GPU price increases effective October 1st across Nvidia GPUs (H100 up 17%, H200 up 20%, B200 up 19%, B300 up 21%). The creator views this as extremely bullish because cloud providers originally modeled GPU prices declining over time, so rising prices indicate conservative original modeling and significantly better cash flow and operating margins than expected. Short-term contracts are pricing at over $40 million per megawatt with less than 2-year payback periods, and the stock is up 126% year-to-date. The creator believes this pricing trajectory will continue across all neo-cloud players as long as end customers can still achieve strong returns on their AI token purchases.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "CORW",
+            "company_name": "CoreWeave",
+            "reason": "CoreWeave has over 1 gigawatt of active power and recently announced short-dated customer contracts of 3-6 months at approximately $40 million per megawatt pricing, representing nearly a one-year payback on compute. The creator is excited because CoreWeave originally modeled that GPUs would pay for themselves after a certain period, and now with rising GPU hour pricing, margins and returns will be dramatic. With rising prices and over a gigawatt of active power already deployed, CoreWeave is positioned to generate significant revenue and margins as longer contracts roll over. At a $43 billion market cap with massive deployed infrastructure, the creator views this as extremely bullish for the neo-cloud space.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "CoreWeave announced approximately $3 billion in convertible senior notes (potentially increasing to $3.5 billion), which creates future dilution potential despite cap call protections. Additionally, the company established an at-the-market offering program allowing sale of up to 35 million shares (approximately $2 billion at the time of announcement), which provides financing flexibility but represents potential share dilution. The market is punishing CoreWeave for these capital raise announcements, and the creator acknowledges the market's legitimate concerns about debt and dilution, though he views the capital raises as understandable given the current one-to-two-year payback environment."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Neo-cloud GPU pricing increases are heavily dependent on continued supply-demand imbalance. The creator believes this dynamic will continue for at least 2 years, but if GPU supply increases significantly or AI token demand decreases, the $40+ million per megawatt pricing could collapse, devastating companies that modeled economics around these prices.",
+          "Neo-cloud providers are taking on significant debt and dilution risk while betting on continued high GPU pricing. If pricing normalizes downward faster than expected, companies may face margin compression and struggle to service the $3+ billion in new convertible debt and equity offerings.",
+          "The entire investment thesis depends on end customers (financial institutions, AI companies) continuing to achieve strong returns on their AI token purchases. If underlying AI model returns diminish or commoditize, the entire pricing structure collapses from top to bottom."
+        ],
+        "tickers_mentioned": [
+          "NEBS",
+          "CORW"
+        ]
+      },
+      "price_at_recommendation": {}
     }
   },
   "channel_ids": {

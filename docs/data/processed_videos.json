@@ -23321,6 +23321,283 @@
         "ORCL": 151.37,
         "AVGO": 348.16
       }
+    },
+    "dFEFBi7Qfv4": {
+      "channel": "CouchInvestor",
+      "title": "4 Stocks With Room to Double",
+      "upload_date": "20260918",
+      "url": "https://www.youtube.com/watch?v=dFEFBi7Qfv4",
+      "processed_at": "2026-09-18T18:58:18.941886",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "AVGO",
+            "company_name": "Broadcom Inc.",
+            "reason": "Broadcom is positioned as the 'anti-Nvidia' benefiting from major tech companies (Google, OpenAI, Anthropic, Meta) building custom AI chips. Management expects to double revenue to $115 billion in the next year and double again to $230 billion, driven by A6 custom chips surpassing GPU volumes by 2027-2028. The company has strong financial metrics with 48% operating margins, 44.2% free cash flow margins, and gross profit margins reaching 68.8%. Free cash flow growth is expected at 82% in fiscal 2026, accelerating faster than revenue growth. The DCF analysis shows 83% upside to $638 per share (probability-weighted), with bull case at $1,000 and base case at $545 (56% upside), while even the bear case shows only 5.6% downside.",
+            "when_to_buy": null,
+            "target_price": "$638 (probability-weighted), $545 (base case), $1,000 (bull case)",
+            "cautions": "Company is currently trading at 44x P/E and 120.1x forward P/E with a PEG ratio of 5, which are elevated multiples. The thesis heavily depends on execution of AI chip demand from major customers and realization of management's aggressive growth targets."
+          },
+          {
+            "ticker": "OSH",
+            "company_name": "Oscar Health Inc.",
+            "reason": "Oscar Health is a small player ($9.8 billion market cap) in a massive healthcare insurance market with multiple high-growth vectors. The company has demonstrated strong recent execution with revenues up 7x since 2021, membership growing from 1.6 million to 3 million (2024-2025), and market share expanding from 16% to 30%. Management has provided 2029 guidance targeting 20%+ revenue CAGR, 5-7% operating margins, and over $4 EPS, implying the stock trades at less than 10x 2029 earnings despite 20%+ expected growth. Three major growth drivers include: (1) ACA market expansion from 19 million to 23 million lives by 2029, (2) IKRA (employer-funded individual coverage) projected to grow at 70% CAGR to 2.5 million members by 2029, and (3) Lucy marketplace platform with $650 billion total addressable opportunity. AI-driven member assistance is already resolving 30-40% of inbound messages, generating $3 billion in medical cost savings. Even without Lucy contributing meaningfully, management targets over $4 2029 EPS.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The stock has already doubled year-to-date (up 115%), so some momentum has been priced in. The company is still emerging and early-stage in new markets. Execution risks exist around marketplace adoption and new geography scaling. Even at 70-75% of management goals, the creator expects multiples of current valuation."
+          },
+          {
+            "ticker": "VT",
+            "company_name": "Voyager Technologies",
+            "reason": "Voyager Technologies is a small-cap ($2.2 billion) defense and space technology company experiencing accelerating growth: 75% growth fiscal 2026, 80.5% fiscal 2027, and 93.8% fiscal 2028 to reach billion-dollar revenue. The company is positioned to benefit from major secular tailwinds in defense and space industries. Key growth catalysts include Starlab commercial space station development, lunar economy expansion, and Golden Dome buildout. The backlog stood at $336 million in Q2 (up from Q1) and includes $300 million from Astrobotic acquisition (adding $40-50 million 2026 revenue) and two NASA lunar lander awards worth nearly $300 million. Management has stated that failure to reach $10 billion enterprise value in the medium-term would reflect execution failure, implying confidence in growth trajectory. DCF analysis shows 24.2% upside in base case despite significant execution risk.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "This is a high-risk, early-stage company still unprofitable. The creator assigned higher execution risk and distributed probabilities conservatively: 45% base case, 25% bull, 30% bear. The bear case essentially zeros out the thesis if Starlab fails to materialize. Company dependency on government contracts introduces regulatory and geopolitical risks. Small dollar amounts and early-stage nature mean assumptions can change drastically."
+          },
+          {
+            "ticker": "NU",
+            "company_name": "Nu Holdings (Nubank)",
+            "reason": "Nu is a large fintech ($66.7 billion market cap) trading at depressed valuation (P/E 19, forward P/E 14.3, PEG 0.5) despite excellent business fundamentals. The company generated $1.1 billion net income in Q2 (first time exceeding $1 billion), up 49% year-over-year, with 33% return on equity. In core market Brazil, average revenue per active customer is $17 versus $40-45 at incumbent banks, indicating substantial monetization runway. With only 6.8 million of Brazil's small businesses as customers versus larger addressable base, significant expansion opportunity exists. Mexico and Colombia operations show the model replicates faster (Mexico broke even in 6 years vs 8 for Brazil), generating $12-13 ARPU ahead of Brazil at similar penetration stage. New growth drivers include US expansion (3.5-4.5% card yields, no-fee metal card, national bank charter opening 2026) and Nubank Global launching in 35+ countries with 3.5% USD and 2% euro yields on stablecoin accounts. Company holds only ~7% of profit pool in existing markets. The business is performing extremely well while stock is under pressure due to fintech sector headwinds, creating a long-term opportunity.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The business model expansion into US and global markets requires capital allocation that could create short-to-medium term pressure on margins and profitability, as analysts have noted potential medium-term issues. Market is skeptical of fintech expansion despite strong track record. Stock is down 18% year-to-date and 12.8% over the past year, reflecting sector-wide sentiment issues rather than business deterioration."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Fintech sector headwinds: Nu Holdings and other fintech names have been under pressure despite strong business fundamentals, suggesting investor skepticism about the sector that could persist in the short-to-medium term.",
+          "Execution risk in high-growth companies: All four recommended stocks require successful execution of aggressive growth targets. Any material misses could trigger significant drawdowns, particularly for smaller-cap names like Voyager and Oscar.",
+          "Valuation multiples under pressure: Broadcom trades at very elevated multiples (120.1x forward P/E, 44x P/E), leaving limited margin of safety if growth disappoints or if AI spending moderates.",
+          "Macro and sector dependency: Voyager Technologies is heavily dependent on government defense contracts and space industry funding, introducing geopolitical and budgetary risks. Nu's expansion requires sustained economic growth in emerging markets."
+        ],
+        "tickers_mentioned": [
+          "AVGO",
+          "OSH",
+          "VT",
+          "NU",
+          "NVDA"
+        ]
+      },
+      "price_at_recommendation": {
+        "NU": 13.71,
+        "VT": 158.26,
+        "AVGO": 354.61
+      }
+    },
+    "elD62rk5Ijo": {
+      "channel": "Ticker Symbol: YOU",
+      "title": "If You Missed NVIDIA Stock, This is Way Bigger.",
+      "upload_date": "20260918",
+      "url": "https://www.youtube.com/watch?v=elD62rk5Ijo",
+      "processed_at": "2026-09-18T19:03:00.176525",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "SKHY",
+            "company_name": "SK Hynix Inc. (ADR)",
+            "reason": "SK Hynix dominates the high bandwidth memory market with 50% market share, as much as Micron and Samsung combined. The company is the second-largest global supplier of DRAM and NAND storage, owning the entire memory layer of the AI revolution. They have 76% operating margins on hardware that will remain supply-constrained for years, with long-term contracts (5+ years) locking in volume and pricing with major hyperscalers like Nvidia. SK Hynix is co-developing next-generation memory with Nvidia as part of a multi-year partnership valued at over $500 billion, positioning them as a co-developer rather than a commodity vendor. The company's enterprise SSD business (acquired from Intel for $9 billion) is a second AI hardware revenue stream that Wall Street is ignoring, with NAND revenue quadrupling year-over-year. Despite record earnings and record operating margins, the stock trades at only 5.8 forward P/E on the ADR (15% discount to Micron), making it cheaper than comparable memory makers.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The ADR trades at a 40% premium to the Korean-listed shares ($175 vs $126 per share equivalent) due to restrictions limiting only 2.5% of the company's shares to become ADRs. If SK Hynix increases the ADR share limit, the premium should compress and the ADR price would likely fall. Samsung has caught up on HBM4 production and increased market share from 21% to 33% in a single quarter. Long-term fixed-price contracts protect the company from falling memory prices but cap upside when memory prices rise (memory prices jumped 30-60% last quarter but SK Hynix captured less upside than competitors due to locked-in pricing). All memory stocks on the comparison table are priced around 75% margins, so if margins fall, stock prices may fall accordingly. The creator recommends buying direct shares on the Korea exchange or through Interactive Brokers if possible rather than the ADR due to the premium."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Memory is transitioning from a cyclical commodity business to a contract-based enterprise model with long-term pricing locks. While this creates predictability and protects downside, it also caps upside when spot memory prices spike, as evidenced by recent 30-60% price increases that SK Hynix could not fully capture due to pre-negotiated contracts.",
+          "High bandwidth memory supply constraints will persist for years due to manufacturing complexity: HBM requires 3x the wafers of standard memory, has lower process yields, takes 4-5 years to build specialized fabs, and cannot be rapidly scaled like software. Competition from Samsung is intensifying, and all major memory producers are seeing elevated margins that could compress if supply-demand dynamics shift.",
+          "The ADR premium for SK Hynix represents significant downside risk if the company increases the allowable percentage of shares that can convert to ADRs. Investors buying the NASDAQ-listed ADR at current prices face a 40% valuation discount versus buying direct Korean shares, with potential price compression if supply restrictions loosen."
+        ],
+        "tickers_mentioned": [
+          "SKHY",
+          "NVDA",
+          "MU",
+          "TSM",
+          "SNDK",
+          "ARM",
+          "PLTR"
+        ]
+      },
+      "price_at_recommendation": {
+        "SKHY": 186.53
+      }
+    },
+    "0-xXPsg8I44": {
+      "channel": "Daniel Pronk",
+      "title": "Top 5 Lessons That Will Make You A Better Investor",
+      "upload_date": "20260918",
+      "url": "https://www.youtube.com/watch?v=0-xXPsg8I44",
+      "processed_at": "2026-09-18T19:03:24.252354",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "ROAD",
+            "company_name": "Construction Partners",
+            "reason": "The stock had a price-to-earnings ratio of 78 in February 2023, which appeared extremely expensive. However, ROAD's earnings have grown 701% since then and have compounded at an 81% annual growth rate over the past 3.5 years. The stock is still growing earnings at 30% annually. This exemplifies how a high multiple can actually represent a cheap valuation when future earnings growth is considered, as the P/E multiple has compressed from 78 to 9.8 based on current earnings.",
+            "when_to_buy": "The creator used this as a historical example of how a stock trading at apparent all-time highs with a high multiple can actually be cheap; no specific current entry point was mentioned",
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon",
+            "reason": "The creator was a buyer of Amazon in 2022 when the stock was down 6% from 2018 highs and the market was pessimistic. The creator understood that Amazon was intentionally compressing margins (operating cash flow margin dropped from 17% to 7.3%) to invest in long-term growth. The investment thesis was that this margin compression was temporary and deliberate, and that when margins re-expanded with higher revenue, cash flows would explode. This thesis proved correct: by 2026, Amazon's operating cash flow margin reached an all-time high of 20.8%, operating cash flows hit $161 billion (all-time highs), and the stock is up 206% since the 2022 bottom.",
+            "when_to_buy": "2022 during the period when the stock was down and the market was pessimistic about margins",
+            "target_price": null,
+            "cautions": "Past price performance was flat to negative for 5 years prior (2018-2022), which deterred many investors. The creator notes that investors who only looked at price charts missed the fundamental opportunity."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "CSIQ",
+            "company_name": "Canadian Solar",
+            "reason": "The creator bought Canadian Solar in 2020 because it had an apparently low price-to-earnings ratio of 3.8, believing it was extremely cheap. However, this low multiple was deceptive because the underlying business fundamentals were deteriorating. By 2021, earnings declined from $299 million to $50 million, causing the P/E ratio to shoot up to 52 despite the company actually getting worse. The creator got out with a gain but acknowledges it was luck. This serves as a cautionary example of why simply buying low P/E stocks without understanding the reason for the low valuation is a poor strategy.",
+            "risk": "Business earnings collapse; the P/E ratio expanded from 3.8 to 52 as earnings fell 83%"
+          }
+        ],
+        "key_warnings": [
+          "Do not confuse low price-to-earnings ratios with cheap valuations. A low P/E often reflects market expectations of future earnings decline. When businesses are priced with low multiples, there is typically a fundamental reason\u2014the market expects future profits to deteriorate. Investors must understand why a stock has a low multiple before buying.",
+          "Avoid emotional attachment and anchoring bias when holding stocks. If a stock reaches all-time highs, this does not automatically mean it is expensive; a stock can be cheaper at all-time highs than it was previously if earnings are growing faster than price. Conversely, do not hold declining stocks indefinitely just because they have fallen; if the fundamental thesis breaks and growth disappoints, be willing to exit even from the largest portfolio positions.",
+          "Understand the difference between investing and speculation. Rotating constantly between the hottest stocks and sectors is speculation, not investing. True long-term investing requires the conviction to hold positions through periods of flat or negative price performance as long as underlying fundamentals are improving. Investors must be willing to lag the market or other sectors in the short term.",
+          "Be willing to change your investment thesis when facts change. Emotional responses to bear-case arguments about a stock are red flags. Every stock has risks and a valid bear case. If new information consistently proves the bear case correct, change your mind and exit the position, even if it was previously one of your largest holdings. Staying rational and objective is more profitable than defending a thesis out of pride or anchoring bias.",
+          "Do not practice blind 'buy and hold forever' for individual stock picks (though this applies more to ETF investing). Businesses can be disrupted by AI and new technology, and stocks can become so expensive that future returns become unattractive. Even high-quality businesses held at peak valuations (as in the tech bubble) can produce negative or near-zero returns for 16+ years. Periodically verify that investment theses remain intact and that stocks are not becoming ridiculously overvalued."
+        ],
+        "tickers_mentioned": [
+          "CSIQ",
+          "ROAD",
+          "KO",
+          "MSFT",
+          "AMZN",
+          "AVGO",
+          "BN"
+        ]
+      },
+      "price_at_recommendation": {
+        "AMZN": 252.94,
+        "ROAD": 94.83,
+        "CSIQ": 11.2
+      }
+    },
+    "M1FJ5dNiBEs": {
+      "channel": "Jose Najarro Stocks",
+      "title": "AI Compute Demand Could DOUBLE Again by 2027!!",
+      "upload_date": "20260918",
+      "url": "https://www.youtube.com/watch?v=M1FJ5dNiBEs",
+      "processed_at": "2026-09-18T19:18:57.446361",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Jensen Huang and Nvidia continue to dominate the AI infrastructure market. The Blackwell architecture is delivering exceptional performance improvements, with the upcoming Vera Rubin GPU showing 67 times better performance per dollar compared to GB300 and delivering over two times more profit per gigawatt than Blackwell. Pre-release software benchmarks show up to 6 times better token throughput per megawatt. Nvidia excels particularly in agentic workloads (multi-turn, long context, high prefix reuse), which the creator believes is where the real market revenue will come from as the industry shifts away from simple inference tasks.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Stock is already at $220 with $5.3 trillion market cap, reflecting significant market expectations. Creator notes Jensen frequently 'sandbags' (underpromises) performance, meaning actual results may exceed expectations, but this is already priced in to some degree."
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms",
+            "reason": "Meta Platforms is executing well on dual strategies: selling both compute and intelligence (AI services). Mark Zuckerberg's thesis that Meta can monetize AI intelligence with higher margins than compute is proving viable through strong execution by teams. Meta Muse is now the number one free app on the Apple App Store by downloads, demonstrating consumer traction. Rumored compute contracts with Anthropic validate demand for Meta's infrastructure. Creator maintains strong bullish conviction on Meta's AI monetization strategy.",
+            "when_to_buy": "Creator praised previous entry points in the $500-600 range as attractive. Current price not explicitly stated as attractive or unattractive.",
+            "target_price": null,
+            "cautions": "Current forward PE ratio is approximately 20-25x. Creator believes it could expand to the 25x range, but at $1.7 trillion market cap, significant gains may already be priced in. Creator notes Meta likely prefers short-term compute contracts (month-to-month basis) rather than long-term commitments."
+          },
+          {
+            "ticker": "CREDO",
+            "company_name": "Credo Technology",
+            "reason": "Credo represents one of creator's favorite opportunities from a valuation perspective within the semiconductor/AI infrastructure space. The company benefits from demand for high-performance connectivity solutions in data centers supporting AI infrastructure buildout. Creator explicitly mentions Credo as undervalued.",
+            "when_to_buy": "Under $170 is the entry point creator highlighted as attractive",
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "CRWD",
+            "company_name": "CoreWeave",
+            "reason": "CoreWeave is a neoclassical cloud player benefiting from the explosive growth in AI compute demand. Creator holds CoreWeave as part of core AI infrastructure portfolio allocation, alongside other neoclassical cloud providers. The company is positioned to capture demand from AI labs needing additional compute capacity.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Creator acknowledges market sentiment is negative toward CoreWeave ('People don't love CoreWeave'), but maintains this is a buying opportunity. Current price around $79, with creator suggesting selling puts as a way to reduce cost basis or acquire shares at favorable exercise prices."
+          },
+          {
+            "ticker": "ASML",
+            "company_name": "Astera Labs",
+            "reason": "Astera Labs is part of creator's core AI infrastructure portfolio focused on semiconductor and chip connectivity solutions. Benefits from broader AI compute buildout and data center infrastructure expansion.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices",
+            "reason": "AMD is included in creator's core portfolio of AI infrastructure plays, positioned to benefit from massive compute demand growth. Part of broader semiconductor exposure to AI buildout.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "WFM",
+            "company_name": "White Fiber",
+            "reason": "White Fiber represents an attractive smaller-cap ($700M market cap) neoclassical cloud play focused on retrofit data center deployments rather than greenfield construction. The company retrofits existing buildings (apartments, factories, manufacturing plants) into data centers at lower cost than new construction, enabling deployment of smaller 20-30 megawatt facilities. OpenAI and Anthropic are now seeking smaller distributed compute deployments across UK, Nordics, and US, creating perfect demand match for White Fiber's model. This addresses a market gap previously dominated by massive gigawatt-scale facilities.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Very small company with $700M market cap, creating illiquidity risk. Creator notes he does not own it but would include it in an ETF approach to neoclassical cloud exposure."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "AI market slowdown fears are overblown according to creator. While some market participants worry about AI slowdown, the creator argues this does not reduce compute demand because: (1) Safety-aligned AI requires additional compute layers for alignment and safety checks; (2) AI is only being adopted at 5-10% across enterprises, leaving massive headroom; (3) Companies like OpenAI explicitly state they are compute-constrained in choosing which research and products to pursue, indicating compute supply is insufficient relative to demand.",
+          "Beware of misleading chip benchmarks. Creator emphasizes that simple inference performance metrics are not the full story. Agentic workloads (multi-turn interactions, long context, tool calling, high prefix reuse, sub-agent bursts) are where the primary market revenue will come from going forward. Chips that excel at simple inference but underperform at agentic workloads may be overvalued. Example: OpenAI's Jalapeno chip benchmark performance in inference does not tell the full revenue story if it underperforms in agentic workflows.",
+          "Anthropic and OpenAI require dramatically more compute than currently deployed. Both companies are planning to more than double data center capacity by 2027 (targeting 10 GW each by end of 2027, up from 5 GW in 2026). This indicates current deployments are still highly constrained, and massive capex cycles remain ahead. Compute supply will likely remain bottlenecked for years despite current buildout announcements."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "AMD",
+          "CREDO",
+          "ASML",
+          "CRWD",
+          "META",
+          "INTC",
+          "MU",
+          "SNDK",
+          "MRVL",
+          "WFM"
+        ]
+      },
+      "price_at_recommendation": {
+        "META": 670.93,
+        "AMD": 544.37,
+        "NVDA": 219.54,
+        "CRWD": 238.56,
+        "ASML": 1645.68
+      }
+    },
+    "D-IZvdQV3OY": {
+      "channel": "FinTek",
+      "title": "Google is the Top Quantum Computing Stock",
+      "upload_date": "20260918",
+      "url": "https://www.youtube.com/watch?v=D-IZvdQV3OY",
+      "processed_at": "2026-09-18T19:19:08.819417",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "GOOGL",
+            "company_name": "Google",
+            "reason": "Google is a massive company with a quantum AI division that is quietly laying the groundwork for the entire quantum computing industry. The company has been a leader in quantum breakthroughs since 2012. The Google CEO has stated that quantum today looks like AI from 5 years ago, indicating the early stage of the industry's development. The creator expressed happiness about owning the company, noting that while it won't achieve 10x returns like some speculative competitors, it is also much less likely to drop to zero, making it a lower-risk exposure to quantum computing.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "It will be quite a while before quantum computing breakthroughs meaningfully move the needle on Google's stock price. The company brought in over $109 billion last quarter, so quantum AI contributions remain minimal to overall financial performance. The stock is unlikely to deliver 10x returns like other quantum-focused companies might."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Quantum computing is still in very early stages of development (compared to AI from 5 years ago according to Google's CEO), meaning meaningful commercial impact and financial contribution to even leading companies like Google remains many years away. Investors should have patience with long time horizons."
+        ],
+        "tickers_mentioned": [
+          "GOOGL"
+        ]
+      },
+      "price_at_recommendation": {
+        "GOOGL": 350.59
+      }
     }
   },
   "channel_ids": {

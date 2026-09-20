@@ -23598,6 +23598,193 @@
       "price_at_recommendation": {
         "GOOGL": 350.59
       }
+    },
+    "tu84cNS_1s0": {
+      "channel": "CouchInvestor",
+      "title": "I Might Sell This Underperforming Stock This Week",
+      "upload_date": "20260920",
+      "url": "https://www.youtube.com/watch?v=tu84cNS_1s0",
+      "processed_at": "2026-09-20T17:18:20.408771",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet Inc.",
+            "reason": "Successfully bouncing from support area and attempting to return above $350. Still one of the biggest winners. Once Gemini 4 comes out, the creator expects to see momentum with the name again. One of the biggest winners along with Amazon for those uncertain about the AI wave, as Google has its core business while investing heavily in AI.",
+            "when_to_buy": null,
+            "target_price": "$350+",
+            "cautions": null
+          },
+          {
+            "ticker": "SOFI",
+            "company_name": "SoFi Technologies Inc.",
+            "reason": "A buy under $17. Despite macro headwinds putting the stock down for the year, as long as the business continues to perform well, that is the most important part. Currently up 41% year to date for the creator despite underperformance recently.",
+            "when_to_buy": "Under $17",
+            "target_price": "$18+",
+            "cautions": "Macro is currently putting pressure on the stock, but this is viewed as temporary if business fundamentals remain strong."
+          },
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon.com Inc.",
+            "reason": "Forming a solid base around $253 support area. One of the biggest winners along with Google. For those feeling uncertain about the AI wave, Amazon is recommended as it has its core business while investing heavily in AI, with AI supporting the AWS cloud business and more.",
+            "when_to_buy": "Around $253 support level",
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms Inc.",
+            "reason": "Continues to have a lot of momentum and is still undervalued. Meta's growth story looks amazing over the next couple of years driven by Muse (an AI product launching in India, US, and Canada). Muse is free for average users, has excellent user interface, and doesn't require AI expertise to use. Meta is opening connections to Muse, creating a take rate on transactions. Subscriptions will grow for Muse and Meta AI. Savings from using in-house models instead of paying billions for third-party models. The creator believes none of this growth is baked into the current stock price.",
+            "when_to_buy": "Look for pullback around $620-635, but even at current prices viewed as undervalued",
+            "target_price": "$1,000 over next 12 months",
+            "cautions": "Stock has been under pressure recently but pullbacks are buying opportunities for long-term investors."
+          },
+          {
+            "ticker": "NEWR",
+            "company_name": "New (ticker appears to be NEW based on context)",
+            "reason": "Undervalued name currently priced as if it won't grow much and as if it's not profitable, when in reality it is already profitable today and will grow a lot. An undervalued and misunderstood fintech name being put under pressure due to short-term issues.",
+            "when_to_buy": "Under $14",
+            "target_price": "Back above $14",
+            "cautions": "Currently under pressure due to short-term issues and expansion concerns, but fundamentals don't justify the weakness."
+          },
+          {
+            "ticker": "RDDT",
+            "company_name": "Reddit Inc.",
+            "reason": "As long as Reddit stays above $150, the base forming is fine. Despite mixed messages in the market, a key catalyst is getting renewed AI data licensing deals starting with Google and potentially others. The platform is experiencing momentum with growth potential.",
+            "when_to_buy": null,
+            "target_price": "Above $150 support",
+            "cautions": "If no AI data licensing deals are obtained at all, the creator views that as a red flag for the business. Fears exist that lack of new AI data licensing deals could hurt the business."
+          },
+          {
+            "ticker": "AXON",
+            "company_name": "Axon Enterprise Inc.",
+            "reason": "The creator bought more shares at the start of the week as the stock kept going lower. Closed the week at $447, still above a previous support area. If it can bounce back above $500, momentum could return to the stock. The creator is quite happy to have added more shares at lower prices.",
+            "when_to_buy": "Around $442-447 (recent entry point used by creator)",
+            "target_price": "$500+",
+            "cautions": "Stock has been declining and needs to hold support to establish a base. Creator bought additional shares after Axon announced $1 billion convertible at 0% interest, viewing it as a positive opportunity."
+          },
+          {
+            "ticker": "MELI",
+            "company_name": "Mercado Libre Inc.",
+            "reason": "A quality business that should be viewed as an opportunity to buy the dip by long-term investors. Currently sitting above a previous floor level.",
+            "when_to_buy": "On dips (currently near support level)",
+            "target_price": null,
+            "cautions": "Recently tried to go above $2,000 per share but failed, and has gone lower for the past two weeks. Stock needs to hold current level and bounce back to regain momentum."
+          },
+          {
+            "ticker": "UBER",
+            "company_name": "Uber Technologies Inc.",
+            "reason": "The creator believes the market is misunderstanding this name. The thesis that Uber's company will go out of business because of Tesla and Waymo taking the whole market is unlikely unless those two companies take 90+ percent of the delivery and mobility market worldwide. The stock is clearly forming a base at around $70. Every other day there are new announcements about AV partnerships being formed and AVs being launched in multiple countries and cities.",
+            "when_to_buy": "Around $70 support level",
+            "target_price": null,
+            "cautions": "Market is overly pessimistic about competitive threats from Tesla and Waymo. For this to be a problem, competitors would need to dominate 90%+ of the global delivery and mobility market, which is unlikely."
+          },
+          {
+            "ticker": "AVGO",
+            "company_name": "Broadcom Inc.",
+            "reason": "A clearly better growth story compared to Netflix. Broadcom is experiencing an explosion in growth this year, next year, and in two years. Forward PE is 20.7 times (same as Netflix), but revenue per employee has grown by 74% with a CAGR of 13.9%. Revenue growth is 65.8% in fiscal 26, 63.6% in fiscal 27, and 57.2% in fiscal 28 reaching $272 billion. Free cash flow growth is 82% in fiscal 26, 74.3% in fiscal 27, 58.3% in fiscal 28 reaching $135.5 billion. Margin profile is superior with operating margin of 48%, free cash flow margin of 44.2%, gross profit margin of 68.8%, net profit margin of 42.9%. Based on DCF analysis with probability-weighted assumptions about doubling AI semiconductor revenue in first two years reaching $230 billion, the implied share price is $638.83, representing 83.3% upside. Unlike Netflix, Broadcom is a true growth story with revenue growth that can continue well above average for a long time. The creator expects to potentially replace Netflix with Broadcom.",
+            "when_to_buy": null,
+            "target_price": "$638.83 (83.3% upside from current levels based on DCF)",
+            "cautions": "Broadcom is experiencing a 25.8% drawdown and the market may not agree with the growth assumptions. Key risk: if major customers like OpenAI and Anthropic don't see expected growth in their investments or can't meet commitments to Broadcom, it could impact the business. However, other hyperscalers should remain solid customers for the foreseeable future. Broadcom, like Netflix, has AI-related risks if the AI story slows down."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "NFLX",
+            "company_name": "Netflix Inc.",
+            "reason": "The creator is considering replacing Netflix with Broadcom despite Netflix being technically undervalued at around $85 per share with a trading PE of 22.6 times and forward PE of 20.7 times. The fundamental issue is that Netflix is not a growth story like Broadcom. Revenue growth is expected to slow to 13.3% in fiscal 26, 11.2% in fiscal 27, and 10.1% in fiscal 28. While margins are improving (operating margin near 30%, free cash flow margin 23%), revenue per employee growth is only 2.7% over the past couple of years, indicating efficiency issues. Recent analyst downgrade reduced price target because of potential decline in entertainment time spent on the platform, which could hurt the business. The creator's portfolio theme focuses on growth and mispriced undervalued names where revenue growth is high and can continue to be above average for a long time. Netflix's slowing growth trajectory doesn't fit this thesis as well as Broadcom's explosive growth does.",
+            "risk": "Should be valued around $85 per share (current price lower), but weak growth trajectory makes it inferior to higher-growth alternatives like Broadcom. Currently down 16% for the creator ($2,430 loss) on a 2% portfolio position."
+          }
+        ],
+        "key_warnings": [
+          "Space sector is currently under pressure with all names experiencing a big correction. While names like Rocket Lab have gone up substantially over the past year, they are still quite expensive despite the correction, not yet undervalued. The sector-wide weakness presents a headwind for space-related investments.",
+          "Netflix analyst downgrade citing potential decline in entertainment time spent on the platform. Investors should monitor whether this is a temporary issue or a structural shift in user behavior.",
+          "Broadcom and other AI semiconductor companies carry concentration risk: they depend heavily on growth from key customers like OpenAI and Anthropic. If these AI companies don't deliver expected growth or face setbacks in their commitments to Broadcom, it could impact the semiconductor supplier's business. More broadly, if the AI growth story slows significantly, AI-related semiconductor stocks could face headwinds.",
+          "The portfolio is heavily concentrated in AI-related themes (Google's Gemini, Meta's Muse, Broadcom's AI semiconductors, etc.). While the creator believes in these opportunities, there is concentration risk if the AI narrative reverses or disappoints market expectations."
+        ],
+        "tickers_mentioned": [
+          "GOOGL",
+          "RKLB",
+          "SOFI",
+          "AMZN",
+          "META",
+          "NEWR",
+          "NFLX",
+          "NBSE",
+          "RDDT",
+          "AXON",
+          "MELI",
+          "UBER",
+          "AMD",
+          "OSCR",
+          "MU",
+          "RBR",
+          "PLTR",
+          "NVDA",
+          "AVGO"
+        ]
+      },
+      "price_at_recommendation": {
+        "AXON": 447.76,
+        "META": 665.75,
+        "AMZN": 253.71,
+        "GOOGL": 349.54,
+        "SOFI": 16.96,
+        "RDDT": 150.85,
+        "MELI": 1787.39,
+        "AVGO": 357.61,
+        "UBER": 70.5,
+        "NFLX": 71.79
+      }
+    },
+    "Yj8LNZNKeAc": {
+      "channel": "Jose Najarro Stocks",
+      "title": "3 AI Stocks We\u2019re Buying for the Second Half of 2026!!",
+      "upload_date": "20260920",
+      "url": "https://www.youtube.com/watch?v=Yj8LNZNKeAc",
+      "processed_at": "2026-09-20T17:18:46.109672",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Nvidia is launching Vera Rubin, a new AI infrastructure platform that is expected to generate significantly more revenue than its predecessor Blackwell, which itself generated more revenue than Hopper. The platform is already shipping this quarter with massive demand from hyperscalers and cloud providers. Analysts expect Q3 (October 26th) revenue of $109 billion with 91.2% year-over-year growth, and Q4 (January 2027) revenue of $124 billion. The creator believes both quarters will exceed these projections. Despite 90%+ year-over-year growth, the stock trades at a forward PE ratio of 18.45, which the creator views as significantly undervalued. Concerns about margin compression are overblown as Nvidia's gross margins would only decline from 75% to mid-60s at worst, which is still healthy. Management confirmed Vera Rubin is expected to account for 20% of data center revenue in Q3 and drive hyperscaler spending acceleration in Q4 into fiscal 2028.",
+            "when_to_buy": "Current price $222",
+            "target_price": null,
+            "cautions": "Some market participants believe the stock's high price following strong AI gains signals a market top. Vera Rubin adoption could face implementation issues as a new platform, though the creator views any such issues as buying opportunities based on Nvidia's historical track record."
+          },
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices",
+            "reason": "AMD is launching Helios, its first rack-scale AI system in the second half of 2026, representing a major architectural shift. The company is benefiting from severe CPU market shortages and expects to capture significant market share. Helios initial ramp is projected at $13 billion (40% YoY growth) in September 2026, accelerating to $16.1 billion (57% YoY growth) in December 2026, with the creator expecting the story to significantly accelerate beyond analyst expectations after December. AMD management disclosed at the November analyst event that earnings per share are expected at $20, but the creator believes this is conservative given the recent expansion of the total addressable market from $60 billion to $220 billion across all product lines. The creator projects EPS could reach $25-$30 within 2-4 years, supporting a $900 price target at a 30 forward PE ratio. Server CPU revenue is expected to grow over 80% year-over-year in the second half of 2026 with very strong customer demand and improved supply.",
+            "when_to_buy": "Current price $560",
+            "target_price": "$900 within 2-4 years based on projected $25-$30 EPS at 30 forward PE",
+            "cautions": "Current forward PE ratio of 50.6 is elevated and may scare some investors. Helios is a massive system that could experience implementation hiccups during ramp, which would create near-term volatility and bear-case narratives, though the creator views such setbacks as buying opportunities based on Nvidia's historical precedent with platform launches."
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms",
+            "reason": "Meta's AI assistant Muse is generating massive momentum and public enthusiasm, with the creator noting unusual market sentiment favoring Meta in the AI race versus typical sentiment that roots against the company. Since rebuilding Meta AI and integrating Muse Spark, the company has seen a 60% increase in daily interactions with the assistant, continuing to grow week-over-week. Muse has become the number one downloaded app on Apple. Management is planning to monetize Muse as a business-in-a-box service through subscription and volume-based pricing models. The creator believes Meta's massive compute infrastructure and platform ecosystem (Facebook Marketplace, etc.) position it to sell AI tokens with high gross margins. Currently trading at a 20.57 forward PE ratio, the creator sees potential for expansion to 28x multiple (40% upside from multiple expansion alone) if the AI story realizes. Unlike OpenAI and Anthropic which burn money on compute while building, Meta already owns substantial compute capacity that can be quickly monetized through token sales.",
+            "when_to_buy": "Current price $665",
+            "target_price": null,
+            "cautions": "Revenue growth from AI is not yet realized in analyst expectations, making it speculative. The creator notes that market sentiment initially punished Meta's stock when Zuckerberg indicated preference for selling intelligence (high-margin) over raw compute (lower-margin), suggesting execution risk on monetization. Token revenue opportunity depends on continued strong performance and adoption of Muse models."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Market sentiment can quickly shift on AI platform launches. The creator warns that when new platforms ship (as AMD's Helios will), bears will aggressively post negative articles and tweets about any implementation issues, which could create sharp near-term volatility. However, the creator views these as false signals based on Nvidia's history of successfully navigating similar launch challenges."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "AMD",
+          "META"
+        ]
+      },
+      "price_at_recommendation": {
+        "AMD": 559.82,
+        "NVDA": 222.27,
+        "META": 665.75
+      }
     }
   },
   "channel_ids": {

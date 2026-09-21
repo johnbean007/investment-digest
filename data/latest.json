@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T09:31:17.055926",
+  "generated_at": "2026-09-21T10:34:01.264180",
   "video_count": 76,
   "stock_count": 151,
   "stocks": [
@@ -1191,8 +1191,8 @@
         "analyst_buy": 39,
         "analyst_hold": 3,
         "analyst_sell": 2,
-        "analyst_target": 2136.16,
-        "analyst_upside_pct": 27.2,
+        "analyst_target": 2135.91,
+        "analyst_upside_pct": 27.1,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -7073,8 +7073,8 @@
         "analyst_buy": 18,
         "analyst_hold": 5,
         "analyst_sell": 1,
-        "analyst_target": 6.4,
-        "analyst_upside_pct": 74.9,
+        "analyst_target": 6.41,
+        "analyst_upside_pct": 75.2,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -10964,8 +10964,8 @@
         "analyst_buy": 1,
         "analyst_hold": 4,
         "analyst_sell": 2,
-        "analyst_target": 15.09,
-        "analyst_upside_pct": 26.3,
+        "analyst_target": 15.07,
+        "analyst_upside_pct": 26.1,
         "earnings_date": null,
         "earnings_days": null
       },

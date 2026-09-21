@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-20T22:35:50.078174",
-  "video_count": 78,
+  "generated_at": "2026-09-21T09:31:17.055926",
+  "video_count": 76,
   "stock_count": 151,
   "stocks": [
     {
@@ -1178,7 +1178,7 @@
         "ma200": 1506.14,
         "ma_signal": "golden_cross",
         "pe_trailing": 57.808674,
-        "pe_forward": 28.303585,
+        "pe_forward": 28.294708,
         "peg_ratio": 1.52,
         "revenue_growth": 0.213,
         "earnings_growth": 0.285,
@@ -1191,7 +1191,7 @@
         "analyst_buy": 39,
         "analyst_hold": 3,
         "analyst_sell": 2,
-        "analyst_target": 2136.4,
+        "analyst_target": 2136.16,
         "analyst_upside_pct": 27.2,
         "earnings_date": null,
         "earnings_days": null
@@ -1663,6 +1663,33 @@
       ],
       "avoids": [],
       "description": "Manufactures fuel cell systems for on-site power generation"
+    },
+    {
+      "ticker": "BRCD",
+      "company_name": "Broadcom Inc.",
+      "buy_count": 1,
+      "avoid_count": 0,
+      "first_mention_date": "20 Sep 2026",
+      "price_at_first_mention": null,
+      "pct_change_since_rec": null,
+      "market": null,
+      "buys": [
+        {
+          "channel": "The Traveling Trader",
+          "title": "NOBODY is Ready for What's Coming to Stocks",
+          "url": "https://www.youtube.com/watch?v=HGdebmMsYMQ",
+          "upload_date": "20260920",
+          "date_label": "20 Sep 2026",
+          "ticker": "BRCD",
+          "company_name": "Broadcom Inc.",
+          "reason": "Broadcom has a 25% 10-year CAGR return on invested capital, is trading at an 18 forward PE (below historical averages), has an excellent balance sheet with 0.59 debt to equity ratio, and is at all-time highs in revenue, EBITDA, free cash flow, gross profit, net income, and cash from operations. The creator argues that if you find a good company that is undervalued by fundamental metrics and you have years or decades to invest, there is no wrong time to buy it, especially at current valuations.",
+          "when_to_buy": "On any pullback between now and the midterms, or immediately if you have a long-term investment horizon of years or decades",
+          "target_price": null,
+          "cautions": "The creator notes that personal circumstances matter\u2014if you are near retirement, risk tolerance becomes a different consideration. However, for long-term investors, this is presented as a core holding."
+        }
+      ],
+      "avoids": [],
+      "description": "Designs semiconductors for data centre, networking, and broadband infrastructure"
     },
     {
       "ticker": "BROADCOM",
@@ -3899,12 +3926,12 @@
     },
     {
       "ticker": "GOOGL",
-      "company_name": "Alphabet Inc. (Google)",
-      "buy_count": 18,
+      "company_name": "Alphabet",
+      "buy_count": 17,
       "avoid_count": 1,
-      "first_mention_date": "21 Aug 2026",
-      "price_at_first_mention": 344.82,
-      "pct_change_since_rec": 1.4,
+      "first_mention_date": "24 Aug 2026",
+      "price_at_first_mention": 348.06,
+      "pct_change_since_rec": 0.4,
       "market": {
         "ticker": "GOOGL",
         "name": "Alphabet Inc.",
@@ -3944,19 +3971,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "CouchInvestor",
-          "title": "5 Stocks I'm Buying for the Second Half of 2026. Here's Why",
-          "url": "https://www.youtube.com/watch?v=J7YJYxsTL3U",
-          "upload_date": "20260821",
-          "date_label": "21 Aug 2026",
-          "ticker": "GOOGL",
-          "company_name": "Alphabet Inc. (Google)",
-          "reason": "Google is a very good company that is super profitable and generates revenues well above $100 billion, with the creator believing investors will sleep well owning this name. The company is growing quickly in a massive AI investment cycle but has the cash to survive any potential AI crash or broader market crash. Google Cloud accelerated to 81.8% year-over-year growth last quarter with expanding margins at 35.5%, demonstrating successful capital deployment. The company has exposure to multiple growth vectors including YouTube, search, robotics, AI, drug discovery, space technology, and investments in companies like Anthropic and SpaceX. Forward PE of 25.4x is reasonable for a company with this growth profile, scale, and profitability. Creator notes that during crashes, well-capitalized companies like Google acquire high-growth companies for pennies on the dollar.",
-          "when_to_buy": "If stock drops to $300 or lower, creator would be a happy buyer of more shares. Creator is also considering looking at puts for later in 2026 if premiums are attractive.",
-          "target_price": null,
-          "cautions": "Company is in a huge investment cycle currently showing negative free cash flow in recent quarter (first time in a long time), with market expecting this to continue for several quarters. Current valuation at $4+ trillion already very large. Forward PE of 25.4x appears reasonable but still reflects premium valuation. Creator acknowledges this is a defensive hedge against broader market/AI crash risk rather than a high-growth opportunity at current levels."
-        },
         {
           "channel": "The Traveling Trader",
           "title": "I Bought These 7 Undervalued MONSTER Stocks \ud83d\udea8",
@@ -5433,10 +5447,10 @@
     },
     {
       "ticker": "META",
-      "company_name": "Meta Platforms",
-      "buy_count": 30,
+      "company_name": "Meta Platforms Inc.",
+      "buy_count": 28,
       "avoid_count": 0,
-      "first_mention_date": "21 Aug 2026",
+      "first_mention_date": "23 Aug 2026",
       "price_at_first_mention": 549.9,
       "pct_change_since_rec": 21.1,
       "market": {
@@ -5478,32 +5492,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "CouchInvestor",
-          "title": "5 Stocks I'm Buying for the Second Half of 2026. Here's Why",
-          "url": "https://www.youtube.com/watch?v=J7YJYxsTL3U",
-          "upload_date": "20260821",
-          "date_label": "21 Aug 2026",
-          "ticker": "META",
-          "company_name": "Meta Platforms",
-          "reason": "Meta is a growth and profitable company trading at undervalued levels with improving business execution despite current headwinds. The creator will continue adding more shares under $600 as long as the company maintains execution and business does not deteriorate. Recent semi-positive news includes a plaintiff dropping claims against Meta in a major bellweather social media addiction trial (no payment involved), reducing one overhang. The core business is benefiting from massive capex investments through improved recommendation systems, better return on ad spend, and future upselling opportunities (subscription products, tools, services). Investment in new AI models (Llama, Llama Code 1.1, 1.2, and upcoming Watermelon) positions Meta to develop new revenue streams. Long-term, the investment cycle will eventually flip to significantly positive free cash flow (creator references historical pattern of capex cycles).",
-          "when_to_buy": "Creator is adding more shares; entry point is under $600 per share",
-          "target_price": null,
-          "cautions": "Currently under pressure from two main headwinds: (1) capex story with expected $22 billion capex by fiscal 2028, which temporarily depresses free cash flow (negative $6.7 billion in FY26, negative $21.6 billion in FY27 before returning to positive $2.1 billion in FY28); (2) social media addiction lawsuits with three bellweather cases selected from 3,300+ consolidated lawsuits, though two cases still pending in October. Creator notes these are short-term overhangs similar to what Google faced. Significant capex investments may continue to pressure near-term cash flow metrics."
-        },
-        {
-          "channel": "Daniel Pronk",
-          "title": "Meta Stock is Crashing Again - Here's Why I'm Buying",
-          "url": "https://www.youtube.com/watch?v=xhUVjBUtyF8",
-          "upload_date": "20260821",
-          "date_label": "21 Aug 2026",
-          "ticker": "META",
-          "company_name": "Meta Platforms Inc.",
-          "reason": "Daniel Pronk argues Meta is an exceptional long-term buy despite short-term legal headwinds. The $1.4 trillion liability headline is sensationalism for shock value; realistic fines are in the tens of billions, which Meta can easily absorb given $90 billion in cash and $130 billion in annual operating cash flow. The litigation is scoped specifically to users under 18, who are not Meta's core revenue and profit generator, meaning the business fundamentals remain intact long-term. Meta's revenue is growing 28% year-over-year with accelerating growth rates over the past 18 months, and operating cash flows are at record levels of $130 billion (up 27% YoY). The stock is trading at only 10.8x operating cash flow (cheaper than the 2020 stock market crash) and 8.1x forward operating cash flow for a high-quality business growing ~30% annually. Meta is critical infrastructure for small businesses\u201496% use Facebook, and businesses earn $321 in revenue for every dollar spent on Meta ads, generating $415 billion in estimated annual economic activity. Super investors added Meta as the second-most bought stock in Q2 2024. Pronk views current weakness as a temporary entry point; near-term headlines and legal fees will impact profits, but the business will grow through this and be far larger and more profitable in 3-5 years.",
-          "when_to_buy": "Current weakness around $550 per share; Pronk is scaling into position and will continue buying if stock falls further",
-          "target_price": null,
-          "cautions": "Short-term uncertainty from ongoing trials could weigh on stock further if negative developments emerge. Legal fees and fines will impact earnings and free cash flow in the near term. Minors represent future user growth\u2014if Meta is forced to significantly restrict under-18 users, there is long-term daily active user growth risk. However, Pronk emphasizes he is unconcerned about permanent business impact."
-        },
         {
           "channel": "CouchInvestor",
           "title": "The Stock I'm Closest to Buying Right Now",
@@ -6632,27 +6620,14 @@
     },
     {
       "ticker": "NEBS",
-      "company_name": "Nubeva Technologies",
-      "buy_count": 7,
+      "company_name": "Nebius Group",
+      "buy_count": 6,
       "avoid_count": 0,
-      "first_mention_date": "21 Aug 2026",
+      "first_mention_date": "06 Sep 2026",
       "price_at_first_mention": null,
       "pct_change_since_rec": null,
       "market": null,
       "buys": [
-        {
-          "channel": "CouchInvestor",
-          "title": "5 Stocks I'm Buying for the Second Half of 2026. Here's Why",
-          "url": "https://www.youtube.com/watch?v=J7YJYxsTL3U",
-          "upload_date": "20260821",
-          "date_label": "21 Aug 2026",
-          "ticker": "NEBS",
-          "company_name": "Nubeva Technologies",
-          "reason": "Nubeva is up 155% year-to-date with only a 20% pullback, demonstrating strong execution and growth momentum. The company has resolved its legal situation (violent situation overhang is gone) and successfully issued a convertible bond ($5-5.75 billion), removing a major uncertainty. The creator believes analyst expectations for next year (close to $12 billion revenue) are too low and expects actual ARR between $20-21 billion. The company is executing exceptionally well globally at a premium pace, growing super fast, and analysts struggle to predict their growth because management is executing better than consensus expectations. The creator maintains conviction from when the stock was $20 and believes it could become a $100+ billion company long-term.",
-          "when_to_buy": "Creator has a put position targeting $120 by December; would buy more under $200 per share, and especially at prior levels of $140-150 which occurred 2.5-3 weeks ago. Recommends opening positions slowly without rushing.",
-          "target_price": "$120 by December (put strike); believes $100+ billion valuation possible long-term",
-          "cautions": "Stock is extremely expensive on paper after substantial run-up (up 155% YTD). Currently sitting at 50-day moving average with downtrend from late June peak. Creator acknowledges the high valuation but believes execution will justify it. Risk if execution deteriorates or growth guidance is reduced."
-        },
         {
           "channel": "CouchInvestor",
           "title": "I Just Bought More of the Stock Everyone Slept On",
@@ -7085,7 +7060,7 @@
         "ma200": 5.13,
         "ma_signal": "death_cross",
         "pe_trailing": null,
-        "pe_forward": 28.827024,
+        "pe_forward": 28.784353,
         "peg_ratio": null,
         "revenue_growth": 0.691,
         "earnings_growth": null,
@@ -7098,8 +7073,8 @@
         "analyst_buy": 18,
         "analyst_hold": 5,
         "analyst_sell": 1,
-        "analyst_target": 6.41,
-        "analyst_upside_pct": 75.1,
+        "analyst_target": 6.4,
+        "analyst_upside_pct": 74.9,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -7149,7 +7124,7 @@
         "ma200": 49.3,
         "ma_signal": "death_cross",
         "pe_trailing": 16.909523,
-        "pe_forward": 15.515018,
+        "pe_forward": 15.57989,
         "peg_ratio": 1.38,
         "revenue_growth": -0.011,
         "earnings_growth": 4.28,
@@ -8783,10 +8758,10 @@
     },
     {
       "ticker": "RDDT",
-      "company_name": "Reddit",
-      "buy_count": 6,
+      "company_name": "Reddit Inc.",
+      "buy_count": 5,
       "avoid_count": 0,
-      "first_mention_date": "21 Aug 2026",
+      "first_mention_date": "23 Aug 2026",
       "price_at_first_mention": 153.29,
       "pct_change_since_rec": -1.6,
       "market": {
@@ -8828,19 +8803,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "CouchInvestor",
-          "title": "5 Stocks I'm Buying for the Second Half of 2026. Here's Why",
-          "url": "https://www.youtube.com/watch?v=J7YJYxsTL3U",
-          "upload_date": "20260821",
-          "date_label": "21 Aug 2026",
-          "ticker": "RDDT",
-          "company_name": "Reddit",
-          "reason": "Reddit has experienced a 41% pullback from highs and is down 37.5% year-to-date, creating a buying opportunity. The company demonstrates strong fundamentals with revenue growth of 53.5% year-over-year, improving operating margins, positive free cash flow trajectory, and no significant capex issues. The stock has completely erased gains from S&P inclusion, presenting a reset opportunity. The core concern is sentiment around AI data licensing deals with Google, Anthropic, and OpenAI, but if Reddit successfully negotiates fair licensing terms, the stock could recover significantly. The business model remains strong with engaged user communities that will continue to drive discussions and ad revenue.",
-          "when_to_buy": "On further weakness; accumulate during dips",
-          "target_price": null,
-          "cautions": "Stock is under pressure due to sentiment around AI overviews reducing Reddit traffic and uncertainty around data licensing deal valuations. Currently trading below key moving averages (50-day, 100-day, 200-day). Market concerns about whether AI companies are paying adequately for Reddit data or if traffic will be permanently cannibalized by AI search results."
-        },
         {
           "channel": "CouchInvestor",
           "title": "The Stock I'm Closest to Buying Right Now",
@@ -9642,10 +9604,10 @@
     },
     {
       "ticker": "SOFI",
-      "company_name": "SoFi Technologies",
-      "buy_count": 10,
+      "company_name": "SoFi Technologies Inc.",
+      "buy_count": 9,
       "avoid_count": 1,
-      "first_mention_date": "21 Aug 2026",
+      "first_mention_date": "23 Aug 2026",
       "price_at_first_mention": 18.91,
       "pct_change_since_rec": -10.3,
       "market": {
@@ -9687,19 +9649,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "CouchInvestor",
-          "title": "5 Stocks I'm Buying for the Second Half of 2026. Here's Why",
-          "url": "https://www.youtube.com/watch?v=J7YJYxsTL3U",
-          "upload_date": "20260821",
-          "date_label": "21 Aug 2026",
-          "ticker": "SOFI",
-          "company_name": "SoFi Technologies",
-          "reason": "SoFi is down 33.2% year-to-date and trading at undervalued levels with a cheap multiple that does not reflect the company's improving profitability and growth rate. The company is growing faster than the market multiple suggests and becoming increasingly profitable, which should command a premium valuation. The creator expects significant upside if the Fed delivers zero or one rate hike in 2026 (market now pricing 42.7% probability for one hike vs. 10.6% one month ago), which would beat SoFi's own guidance assumptions of one to two hikes. The business fundamentals are solid with revenue growth and margin expansion trajectory continuing.",
-          "when_to_buy": "Stock should be back above $20; currently at $19. Target accumulation closer to earnings date or if additional positive Fed signals emerge.",
-          "target_price": "Above $20 (creator states this multiple times as where stock should be trading)",
-          "cautions": "Stock has been range-bound between 100-day moving average for months since late March. Has not traded above 200-day moving average since February 2024. Creator acknowledges skepticism from other investors but maintains the business fundamentals support higher valuation. Dependent on favorable Fed rate cut expectations materializing."
-        },
         {
           "channel": "CouchInvestor",
           "title": "The Stock I'm Closest to Buying Right Now",
@@ -10174,70 +10123,6 @@
       ],
       "avoids": [],
       "description": null
-    },
-    {
-      "ticker": "TER",
-      "company_name": "Teradyne",
-      "buy_count": 1,
-      "avoid_count": 0,
-      "first_mention_date": "21 Aug 2026",
-      "price_at_first_mention": 370.23,
-      "pct_change_since_rec": 0.3,
-      "market": {
-        "ticker": "TER",
-        "name": "Teradyne, Inc.",
-        "currency": "USD",
-        "sector": "Technology",
-        "industry": "Semiconductor Equipment & Materials",
-        "market_cap": 58075897856,
-        "current_price": 371.47,
-        "daily_change_pct": 5.19,
-        "month_change_pct": -2.12,
-        "week52_high": 487.91,
-        "week52_high_date": "30 Jun 2026",
-        "week52_low": 126.02,
-        "week52_low_date": "19 Sep 2025",
-        "rsi": 52.4,
-        "rsi_label": "neutral",
-        "ma50": 364.14,
-        "ma200": 324.65,
-        "ma_signal": "golden_cross",
-        "pe_trailing": 51.026096,
-        "pe_forward": 31.87908,
-        "peg_ratio": 0.68,
-        "revenue_growth": 1.039,
-        "earnings_growth": 3.858,
-        "free_cashflow": 437381248,
-        "profit_margins": 0.25766,
-        "debt_to_equity": 2.883,
-        "beta": 1.778,
-        "short_percent": 0.0519,
-        "dividend_yield": 0.14,
-        "analyst_buy": 12,
-        "analyst_hold": 5,
-        "analyst_sell": 1,
-        "analyst_target": 446.47,
-        "analyst_upside_pct": 20.2,
-        "earnings_date": null,
-        "earnings_days": null
-      },
-      "buys": [
-        {
-          "channel": "FinTek",
-          "title": "Top Robotics Stock to BUY NOW (Physical AI)",
-          "url": "https://www.youtube.com/watch?v=w13riFrhFL0",
-          "upload_date": "20260821",
-          "date_label": "21 Aug 2026",
-          "ticker": "TER",
-          "company_name": "Teradyne",
-          "reason": "Teradyne is a leader in equipment needed for producing the latest chips and continues to win huge contracts, including a recent $140 million contract for the US Air Force. The company made $1.3 billion in their latest quarter and has grown 87% year-over-year across all business segments. They are investing heavily in the emerging robotic space and are well-positioned as quantum computing starts to grow, benefiting from exposure to both AI and physical AI trends.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": "The company's stock price is trading at a premium valuation, which presents valuation risk that investors need to factor in before buying this stock."
-        }
-      ],
-      "avoids": [],
-      "description": "Designs and manufactures automated test systems and robotics products"
     },
     {
       "ticker": "TLT",
@@ -11079,8 +10964,8 @@
         "analyst_buy": 1,
         "analyst_hold": 4,
         "analyst_sell": 2,
-        "analyst_target": 15.07,
-        "analyst_upside_pct": 26.1,
+        "analyst_target": 15.09,
+        "analyst_upside_pct": 26.3,
         "earnings_date": null,
         "earnings_days": null
       },

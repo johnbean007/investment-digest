@@ -23785,6 +23785,47 @@
         "NVDA": 222.27,
         "META": 665.75
       }
+    },
+    "HGdebmMsYMQ": {
+      "channel": "The Traveling Trader",
+      "title": "NOBODY is Ready for What's Coming to Stocks",
+      "upload_date": "20260920",
+      "url": "https://www.youtube.com/watch?v=HGdebmMsYMQ",
+      "processed_at": "2026-09-21T09:28:22.126577",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "BRCD",
+            "company_name": "Broadcom Inc.",
+            "reason": "Broadcom has a 25% 10-year CAGR return on invested capital, is trading at an 18 forward PE (below historical averages), has an excellent balance sheet with 0.59 debt to equity ratio, and is at all-time highs in revenue, EBITDA, free cash flow, gross profit, net income, and cash from operations. The creator argues that if you find a good company that is undervalued by fundamental metrics and you have years or decades to invest, there is no wrong time to buy it, especially at current valuations.",
+            "when_to_buy": "On any pullback between now and the midterms, or immediately if you have a long-term investment horizon of years or decades",
+            "target_price": null,
+            "cautions": "The creator notes that personal circumstances matter\u2014if you are near retirement, risk tolerance becomes a different consideration. However, for long-term investors, this is presented as a core holding."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Pre-midterm volatility expected: The market has been shaky from September opex through the midterms, though historically the rest of the year tends to be one of the greenest periods. Expect potential quick, violent selloffs similar to past events (Iran war, 2023 correction, 2022 bear market) before a potential snapback rally.",
+          "AI trade correction: Although the broader market (S&P 500 equal weight) is participating, momentum stocks and AI-focused trades are down 18% from June highs. Chips are in a bear market down over 20% and consolidating. This is described as normal in massive growth cycles but could continue to experience rough patches.",
+          "Fed policy uncertainty: While the creator believes the Fed caved to bond market pressure with the September hike into a 2.4% core CPI (lowest in 5 years), the October 28th FOMC meeting is 50/50 on another rate hike. A hiking regime into the lowest core CPI in 5 years is characterized as insane and unsustainable.",
+          "Geopolitical risk tied to oil prices: The creator mentions that if the Iran conflict continues, oil prices will remain elevated and could prevent a major rally. De-escalation is presented as a necessary catalyst for a significant upside move.",
+          "Sentiment-driven trading risk: Extremely bearish sentiment (lowest since the 2020 pandemic) can lead to quick, violent selloffs before eventual snapbacks. Markets top on euphoria, not negative sentiment, but reversals from extreme bearishness can be violent in either direction."
+        ],
+        "tickers_mentioned": [
+          "SPY",
+          "QQQ",
+          "NVDA",
+          "GOOGL",
+          "META",
+          "SMH",
+          "SOXX",
+          "COIN",
+          "CONL",
+          "AMZN",
+          "BRCD"
+        ]
+      },
+      "price_at_recommendation": {}
     }
   },
   "channel_ids": {
@@ -23796,6 +23837,6 @@
     "JoseNajarroStocks": "UC5cEHfCr6WOE1R1zcohd1IA",
     "FinTek": "UCxdWHEhEPiYhCADMrn4PdhQ"
   },
-  "last_eval_week": "2026-W38",
+  "last_eval_week": "2026-W39",
   "alerts": {}
 }

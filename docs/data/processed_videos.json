@@ -23826,6 +23826,67 @@
         ]
       },
       "price_at_recommendation": {}
+    },
+    "D2xXLuw74zc": {
+      "channel": "FinTek",
+      "title": "If You Missed Nvidia, This is Even Bigger",
+      "upload_date": "20260921",
+      "url": "https://www.youtube.com/watch?v=D2xXLuw74zc",
+      "processed_at": "2026-09-21T14:43:54.468859",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NOVA",
+            "company_name": "Novanta Inc.",
+            "reason": "Novanta specializes in robotics components including servo drives that control robot joints, force sensors, and tools for robotic arms, making them a supplier to the entire physical stack for robotic movement. The servo drive market is expected to pass $3.5 billion per year by 2035, with significant demand coming from Chinese robots. The company is listed at 16% undervalued across 12 different valuation metrics and is experiencing 21% expected revenue growth in their next quarter with solid net income and operating cash flow.",
+            "when_to_buy": "at today's prices",
+            "target_price": null,
+            "cautions": "The company recently acquired Riverpoint Medical for 20% of their total value, which has brought medical revenue to around 60% of total business, transforming them from a robotic supplier that specializes in medicine to almost a medical supplier that is also good at automation. This makes them less of a pure robotics play. Additionally, China is reducing imports of US robots and robotic parts while developing internal robotics technology, creating increasing Chinese competition. The industrial motion segment lacks a strong competitive moat. The creator would sell to redeploy into a more pure play robotic stock if their automation business doesn't grow faster than the medical side over the next 2 years."
+          },
+          {
+            "ticker": "ALGM",
+            "company_name": "Algro Microsystems",
+            "reason": "Algro operates one level deeper than other robotics suppliers, developing specialized edge silicon chips that control individual aspects of robot movement, including motor reflexes and real-time sensing rather than AI GPUs. The company estimates they can sell around $5 in chips per household robot, $55 for factory robots, and up to $150 worth of chips in humanoid robots, meaning they get paid per joint regardless of which robot maker wins. Industrial business sales are up 59% in the past year, and they have design wins with large robotics customers in China and North America. This is an area of the market that Nvidia investors are not yet looking at, and unlike trillion dollar AI stocks, it hasn't seen a big runup in value, potentially offering better upside at today's prices.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Algro is still unproven in the broader robotics market, with only a small part of their current revenue coming from robotic applications (69% from automotive, 17% from data centers). Currently, robotics represents a hidden accelerating growth story rather than proven revenue. This is a speculative bet on future growth rather than current business fundamentals. The automotive market is cyclical, which could create volatility in the stock. Investors should expect trips up and down if holding long-term."
+          },
+          {
+            "ticker": "SMBOT",
+            "company_name": "Symbotic Inc.",
+            "reason": "Symbotic is a warehouse automation company that builds robots and package movers and has designed custom warehouses with lights-out automation. The company has a $22.5 billion backlog primarily from Walmart, and revenue has exceeded $700 million in their latest quarter, up 22% in the past year, with the company finally achieving consistent profitability. In July 2026, Symbotic acquired Arms Innovation, a software platform that coordinates people, robots, and tasks in warehouses, creating a recurring revenue model where the company gets paid once for expensive warehouse setup and again for software support. Software revenue was already up 57% in the past year before this acquisition. The stock price has fallen into a reasonable valuation range that doesn't yet factor in software growth potential.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Symbotic's entire business is heavily dependent on Walmart, which accounts for 90.5% of their revenue (up from 83.8% the previous year). There is serious concentration risk if Walmart were to ever leave, though Walmart's ownership stake in the company helps mitigate this somewhat. The business is contingent on Symbotic hitting certain milestones to receive payment from the Walmart backlog."
+          },
+          {
+            "ticker": "RRX",
+            "company_name": "Regal Rexnord Corporation",
+            "reason": "Regal Rexnord specializes in motion control systems that power surgical robots and other automation equipment. Around 31% of their sales came from their automation and motion control business ($478 million in their latest quarter) following their 2020 acquisition of Ultramotion Industrial Motion for $5 billion. The company sits at a reasonable valuation and has substantial upside from automation growth.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Chinese competition in robotics is intensifying significantly. China is now the biggest buyer of both industrial and humanoid robots in the world and is actively reducing imports of US robots and robotic parts while developing their own internal robotics technology. Small US robotics suppliers face the risk that larger competitors from China, Japan, or even the US could step in and steal market share.",
+          "Most of the recommended robotics stocks are relatively small companies (market caps around $5-6 billion) with limited track records in rapidly growing markets, making them inherently more speculative than established mega-cap technology stocks. Investors should expect higher volatility."
+        ],
+        "tickers_mentioned": [
+          "NOVA",
+          "ALGM",
+          "SMBOT",
+          "RRX",
+          "NVDA",
+          "IBOT",
+          "ROBO"
+        ]
+      },
+      "price_at_recommendation": {
+        "ALGM": 34.32,
+        "RRX": 148.56
+      }
     }
   },
   "channel_ids": {

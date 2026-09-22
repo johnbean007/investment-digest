@@ -24045,6 +24045,109 @@
         "META": 741.25,
         "AMD": 615.52
       }
+    },
+    "flirQ_CtYN4": {
+      "channel": "CouchInvestor",
+      "title": "Is It Finally Time To Sell AMD?",
+      "upload_date": "20260922",
+      "url": "https://www.youtube.com/watch?v=flirQ_CtYN4",
+      "processed_at": "2026-09-22T22:21:23.817542",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Nvidia is expected to grow faster than AMD and is worth over $5 trillion. The creator acknowledges that on paper it makes more sense to look at Nvidia than AMD at current valuations. Nvidia benefits from the AI capex super cycle which is expected to grow from over $1 trillion in the current fiscal year to over $1.44 trillion in fiscal 27. The creator owns a couple of shares of Nvidia and is considering making it a much bigger position as part of a portfolio reallocation strategy.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The creator notes that Nvidia is already extremely expensive at over $5 trillion market cap, and the question remains whether to increase position size given already substantial valuations."
+          },
+          {
+            "ticker": "AVGO",
+            "company_name": "Broadcom Inc.",
+            "reason": "Broadcom is expected to grow faster than AMD and is trading at cheaper valuations relative to growth prospects. The company is worth closer to $2 trillion and benefits from the AI capex super cycle. The creator has discussed allocating capital to Broadcom over the past couple of days and is considering it as a potential destination for profits taken from AMD, noting that Broadcom does not have the added risk of valuation that AMD currently carries.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "While cheaper than AMD on a valuation basis, Broadcom is still an expensive stock at $2 trillion market cap, though the creator views it as having better risk-reward than AMD at current prices."
+          },
+          {
+            "ticker": "MU",
+            "company_name": "Micron Technology Inc.",
+            "reason": "The creator mentions possibly buying more Micron before the earnings report as an alternative allocation for capital. Micron is expected to benefit from the AI capex super cycle alongside other semiconductor companies. The creator views it as another potential destination for redeployed capital from AMD.",
+            "when_to_buy": "Before earnings report",
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms Inc.",
+            "reason": "The creator mentions possibly buying even more Meta as an alternative allocation. Meta has a strategic partnership with AMD involving GPU purchases totaling 6 gigawatts over time, and the stock price has given Meta access to a significant number of AMD shares. The creator views Meta as benefiting from the AI infrastructure buildout.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices Inc.",
+            "reason": "While not explicitly recommending to avoid AMD entirely, the creator is trending towards taking significant profits and reallocating elsewhere. AMD is trading at 55x forward earnings and 113x price-to-free-cash-flow, which the creator describes as expensive. The creator questions whether the valuation is justified given that to support current prices, AMD would need to deliver acceleration in growth that is not currently baked into market expectations. Other competitors like Nvidia and Broadcom are expected to grow faster and trade at more attractive valuations relative to their growth prospects. The creator has ridden AMD from $100-$120 to $600 and is now questioning if it is enough and whether it is time to take profits rather than hold or buy more.",
+            "risk": "Overvaluation risk. The creator's DCF base case suggests AMD is 1.1% overvalued at current prices, with upside limited to 12-13% in the probability-weighted scenario, significantly lower than the risk of holding an overvalued position in a slowing growth environment."
+          }
+        ],
+        "key_warnings": [
+          "AI capex super cycle growth is expected to decelerate: While AI infrastructure spending is expected to grow from over $1 trillion in the current fiscal year to $1.44 trillion in fiscal 27, growth rates are expected to slow drastically by fiscal 28 to reach $1.6 trillion. This slowdown in the growth rate of AI spending, which is a core driver of semiconductor demand, represents a macro risk to all AI beneficiary stocks.",
+          "Valuation risk across AI infrastructure beneficiaries: The creator notes that Nvidia is worth $5 trillion and Broadcom $2 trillion, highlighting that even 'cheaper' alternatives to AMD are trading at significant valuations. The AI capex cycle that has driven these valuations may not sustain the growth rates currently priced in, representing systemic sector risk.",
+          "Execution risk on growth targets: For AMD to justify its trillion-dollar valuation, the company must back it up with revenue growth. The creator emphasizes that certain milestones must still be hit, and any failure to execute on expected 73% growth acceleration and 37.7% subsequent growth would represent significant downside risk. The creator notes added risk of valuation with AMD compared to other names.",
+          "Macro uncertainty on rate environment: The creator mentions uncertainty around the Fed's October decision and the broader interest rate environment, stating this will affect allocation decisions. Bond market movements and energy prices may influence Fed policy and overall cost of capital for growth stocks."
+        ],
+        "tickers_mentioned": [
+          "AMD",
+          "META",
+          "NVDA",
+          "AVGO",
+          "MU",
+          "SKH",
+          "NFLX"
+        ]
+      },
+      "price_at_recommendation": {
+        "NVDA": 228.87,
+        "META": 736.6,
+        "MU": 1096.16,
+        "AMD": 623.77,
+        "AVGO": 364.54
+      }
+    },
+    "A6k-Ied_1B8": {
+      "channel": "Daniel Pronk",
+      "title": "How I Grew My Portfolio Over $1M By 30 Years Old",
+      "upload_date": "20260922",
+      "url": "https://www.youtube.com/watch?v=A6k-Ied_1B8",
+      "processed_at": "2026-09-22T22:21:39.102927",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "TASMA",
+            "company_name": "Tasmea",
+            "reason": "Daniel believes Tasmea has a very good chance of producing 50% returns over the next year. He has conviction in the company's prospects and considers it a strong investment opportunity. However, he emphasizes the importance of position sizing relative to one's conviction and risk tolerance rather than simply maximizing exposure to high-conviction ideas.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Daniel notes that while he has high conviction in Tasmea's potential 50% upside, he has sized his position at approximately 25% of his portfolio rather than making it a dominant holding. He explicitly warns against concentrating too heavily in any single stock, even when conviction is high, because the downside risk must be weighed against potential upside. He explains that if Tasmea fell 50% while comprising 50% of a portfolio, the psychological and financial impact of that loss would outweigh the satisfaction of the 50% gain scenario."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Early-stage investors should not concentrate their capital in only 1-3 stocks unless they possess exceptional analytical skills comparable to Warren Buffett or Charlie Munger. Daniel emphasizes that for average investors starting with small amounts of capital, diversification through index funds and ETFs is recommended by even the greatest investors themselves, as beating the market consistently over time is extremely difficult.",
+          "Do not invest money you absolutely need in the short term (within 3 years) into equities. The market can enter sustained corrections lasting years, and being forced to liquidate positions during a downturn (such as a 20% correction) to cover personal expenses will severely damage long-term wealth compounding.",
+          "Avoid chasing hype or trendy stocks. Daniel learned through mistakes that speculating on exciting or currently-performing stocks is a poor strategy. He moved away from this approach early in his investing career and now focuses on stocks with strong fundamentals that will compound reliably over the long term at decent rates, rather than seeking 30% annual returns.",
+          "Day trading and heavy speculation destroy wealth for most retail investors. Daniel admits he day traded early in his investing career and now considers it a mistake, emphasizing that this approach does not work for building sustainable wealth."
+        ],
+        "tickers_mentioned": [
+          "TASMA"
+        ]
+      },
+      "price_at_recommendation": {}
     }
   },
   "channel_ids": {

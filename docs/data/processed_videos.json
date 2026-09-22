@@ -23887,6 +23887,164 @@
         "ALGM": 34.32,
         "RRX": 148.56
       }
+    },
+    "R0MmRpNaKLs": {
+      "channel": "CouchInvestor",
+      "title": "3 Stocks to Buy For the Next Decade",
+      "upload_date": "20260921",
+      "url": "https://www.youtube.com/watch?v=R0MmRpNaKLs",
+      "processed_at": "2026-09-22T13:47:31.722748",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms",
+            "reason": "The creator believes Meta is still undervalued even at $741 per share, with a DCF valuation above $800. The company has strong momentum with Muse AI agent showing real traction and already more popular than ChatGPT at launch despite limited geographic availability (US, Canada, parts of India). Meta has excellent distribution advantages through Instagram and Threads. The business model involves users creating products and services while Meta captures a small percentage of future transactions. Operating margin has recovered from a low of 23.6% to 38.1%, free cash flow margin rebounded from 15.2%, and cash from operating activities continues to increase. The company is expected to benefit from the AI revolution and agentic commerce. Meta is trading at 15% year-to-date gains with a $1.9 trillion valuation, and the creator maintains it remains attractively priced for long-term holding.",
+            "when_to_buy": "Current levels around $741; creator mentions always more opportunities for dips",
+            "target_price": "Above $800 per share based on DCF analysis",
+            "cautions": "Free cash flow expected to remain negative until late 2028/early 2029 according to projections. Execution risk on Muse monetization remains uncertain regarding conversion of users to paying customers. Amazon's blocking of Muse from shopping on Amazon demonstrates competitive friction and potential regulatory/business challenges. The company must balance advertising business protection with new agentic commerce opportunities."
+          },
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon",
+            "reason": "Creator considers Amazon one of the best companies to own now and in the future. AWS alone is a $148.4 billion business growing at 27.5% and worth approximately $1 trillion, while Amazon's total market cap is $2.7 trillion, meaning you get the entire retail, advertising ($76 billion over last 12 months), subscription, and third-party seller services for approximately $1.7 trillion additional value. Amazon is expected to generate over $1 trillion in revenue within 2.5 fiscal years while maintaining 15.69% growth. Operating margin is 12.1%, gross profit margin above 50%, net profit margin 17.5%, and cash from operating activities is $161.4 billion. The company is positioned as a huge winner in AI, robotics, autonomous vehicles, and cloud infrastructure.",
+            "when_to_buy": "Current levels; creator mentions small dips available",
+            "target_price": null,
+            "cautions": "Free cash flow is currently under pressure and not expected to return to positive territory until 2028 according to projections. The Muse shopping ban decision is criticized as short-sighted and amateur, though creator expects it to be reversed. The company must figure out how to balance advertising business protection with new agentic commerce where bots bypass traditional ad placements. Margins may face pressure from continued capex investments."
+          },
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Despite a $5.4 trillion valuation, Nvidia is trading at a forward PE of 18.8x and PEG ratio of 0.5, which the creator views as attractive given growth expectations. Nvidia is both a GPU and data center story but is also becoming a CPU story as demand for chips increases with the 1:1 CPU-to-GPU ratio adoption. Operating margins have expanded from 37.2% (2018) to 65.2%, and free cash flow margins remain above 40%. Cash from operating activities has grown from $5.6 billion to $134.3 billion over 4 years, which is described as incredible. The ecosystem Nvidia has built is durable because external companies and new cloud players continue to build on Nvidia solutions for third-party services. Even as major cloud companies (Amazon, Meta, Google, Microsoft) build custom chips for internal workloads, Nvidia will remain essential for external-facing services. The creator expects Nvidia to grow 90% in fiscal 2027, 65% in fiscal 2028, and 30% in fiscal 2029 to reach near $900 billion revenue.",
+            "when_to_buy": "Current levels; creator mentions small dips are available",
+            "target_price": null,
+            "cautions": "The creator questions whether Nvidia's extremely high margins (65.2% operating margin) are sustainable indefinitely, expecting them to potentially decline to 60% over the long term. While the dollar amount of profits should continue rising, pricing power and margin premium may compress over 5-10 years as competition increases. At $5.4 trillion, Nvidia receives less market premium than AMD despite superior growth and competitive positioning, creating valuation uncertainty. The creator notes that large cloud companies building custom chips could eventually reduce Nvidia's total addressable market, though this is offset by continued external demand."
+          },
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices",
+            "reason": "AMD is positioned to benefit from the 1:1 CPU-to-GPU ratio adoption that major chip companies have announced. The company has delivered tremendous performance, up 175% year-to-date and now valued at $1 trillion. AMD manufactures GPUs and sells to others, capturing value across the ecosystem. The creator owns AMD and has held since $80-$100, expressing confidence in the company's positioning.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "At $1 trillion valuation with forward PE not specified as cheap, AMD now faces significant pressure to justify its huge premium over Nvidia, which is worth 5.4x more but doesn't receive the same market premium. AMD has substantial momentum and growth acceleration expected, but the creator is questioning whether the stock can continue to outperform and suggests considering a rotation back to Nvidia or adding Nvidia as a hedge. The company must prove it deserves the premium valuation relative to its largest competitor. For long-term holding, AMD is attractive, but near-term momentum may be exhausted."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Large cloud and software companies (Amazon, Alphabet, Microsoft, Meta, Oracle) are investing massive amounts of capital in AI infrastructure (land, power, buildings, chips, servers, networking) causing free cash flow pressure. While return on invested capital exceeds cost of capital and projections show attractive returns, execution risk exists - some companies invest at scale but fail to execute. Free cash flow is expected to remain negative for several major names until 2028-2029. Investors should carefully monitor whether these investments deliver expected returns on invested capital before assuming business models remain healthy.",
+          "AI agents and bots are disrupting traditional advertising and e-commerce business models. Unlike traditional search and shopping, AI agents bypass sponsored listings and ads to directly find and transact on products. Companies like Amazon, Google, and Meta must fundamentally rethink how to balance transaction growth (GMV) with advertising revenue, as bots have no need for ads. The outcome of this shift is uncertain and could materially impact margins and profitability of platform companies over the next 3-5 years.",
+          "Competition in AI chips is intensifying as major cloud platforms (Amazon, Microsoft, Google, Meta) build custom chips for internal workloads. While this benefits AMD and potentially threatens Nvidia's total addressable market, it creates uncertainty about long-term pricing power and margins in the semiconductor space. Nvidia's premium valuation depends on sustained pricing power that may not persist as competition accelerates."
+        ],
+        "tickers_mentioned": [
+          "META",
+          "AMD",
+          "AMZN",
+          "MSFT",
+          "GOOGL",
+          "ORCL",
+          "NVDA",
+          "SHOP",
+          "INTC",
+          "AVGO"
+        ]
+      },
+      "price_at_recommendation": {
+        "NVDA": 227.38,
+        "META": 741.25,
+        "AMD": 615.52,
+        "AMZN": 258.45
+      }
+    },
+    "95AI02OGhvU": {
+      "channel": "Jose Najarro Stocks",
+      "title": "AMD Hits $1 Trillion \u2014 And the AI CPU Boom Is Just Starting!!",
+      "upload_date": "20260922",
+      "url": "https://www.youtube.com/watch?v=95AI02OGhvU",
+      "processed_at": "2026-09-22T13:47:55.638630",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices",
+            "reason": "AMD has hit a $1 trillion market cap driven by massive CPU demand from agentic AI use cases and tool calling applications. The creator has been following AMD's CPU market growth for years, noting that AMD projected the CPU market at 60 billion in November 2025, then raised it to 120 billion, then to 220 billion. The CPU market is experiencing explosive growth due to agentic tools like those powering Meta's Muse, which is outpacing ChatGPT's early adoption metrics. The creator states AMD is still pretty exciting even at $1 trillion market cap and is personally a shareholder.",
+            "when_to_buy": "The creator referenced AMD at $504 approximately 5 days before the video, now at $615. No specific entry point given for future buying.",
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms",
+            "reason": "Meta will benefit dramatically from the AI agentic story through multiple revenue streams. The creator emphasizes Meta's unique position to sell compute and AI tokens to power agentic applications. Meta's Muse platform is achieving unprecedented adoption metrics, reaching 2.8 million downloads in 12 days versus ChatGPT's 1.3 million, and 642,000 daily active users by day 12 versus ChatGPT's 231,000 at the same point. The creator has been bullish on Meta's ability to sell compute and token intelligence as a massive revenue driver, a thesis he believes few others on YouTube have articulated. Meta is also forming strategic partnerships like with Shopify to expand agentic tool capabilities.",
+            "when_to_buy": "The creator referenced Meta at $670 approximately 5 days before the video, now at $741. Creator mentions being extremely bullish on Meta during the 500s price level.",
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "QCOM",
+            "company_name": "Qualcomm",
+            "reason": "Qualcomm is benefiting dramatically from the CPU boom driven by agentic AI use cases. The creator identified Qualcomm as one of three stocks that can benefit from the AI CPU story. As CPU demand accelerates due to tool calling and agentic solutions becoming mainstream, Qualcomm is positioned to benefit from increased CPU demand.",
+            "when_to_buy": "The creator referenced Qualcomm at $187 approximately 5 days before the video, now at $194. No specific entry point given.",
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "INTC",
+            "company_name": "Intel Corporation",
+            "reason": "Intel is benefiting from the CPU boom, with the stock up roughly 12% during the period discussed. Intel benefits from increased demand for CPUs driven by agentic AI tools and applications.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "ARM",
+            "company_name": "ARM Holdings",
+            "reason": "ARM is benefiting from the CPU boom, with the stock up roughly 17% during the period discussed. ARM benefits from increased demand for CPUs driven by agentic AI tools and applications.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "SHOP",
+            "company_name": "Shopify",
+            "reason": "Shopify benefits from Meta's Muse agentic platform through integration of Shop Pay, which allows Muse to facilitate purchases directly. This creates a concrete connection between the agentic AI platform and e-commerce transactions. Shopify stock was up 7.3% following the announcement. The partnership was announced when Muse launched on September 8th, but the market did not fully price in the connection until more recent confirmation.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "The creator mentions Neo-Cloud companies partnering with Nvidia to build CPU infrastructure. As agentic tools drive CPU demand alongside GPU demand, Neo-Cloud companies with significant CPU portfolios will benefit. Nvidia's partnerships in this space position it to benefit from the overall compute buildout required for agentic AI.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The creator notes uncertainty about whether CPU pricing will reach GPU pricing levels, but sees a scenario where CPU prices see strength."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "The market is slow to recognize evident trends: AMD communicated CPU market growth projections sequentially escalating from 60 billion to 120 billion to 220 billion, yet the market did not price in this information until much later. This suggests investors should independently verify information rather than assuming everything is priced in.",
+          "Potential CPU supply constraints: The creator discusses the possibility of a CPU shortage developing as agentic AI tools drive demand, and notes that Neo-Cloud companies are building significant CPU infrastructure. While the creator sees this as bullish, it represents a supply chain risk that could affect pricing and availability.",
+          "Uncertainty about CPU pricing dynamics: The creator explicitly states uncertainty about whether CPU pricing will reach GPU pricing levels, noting 'I do not know if we're going to get to the same level of the CPU of the GPU market where we're seeing GPU pricing go up.' This suggests the magnitude of CPU pricing upside is unclear."
+        ],
+        "tickers_mentioned": [
+          "AMD",
+          "META",
+          "QCOM",
+          "INTC",
+          "ARM",
+          "SHOP",
+          "NVDA"
+        ]
+      },
+      "price_at_recommendation": {
+        "INTC": 121.78,
+        "SHOP": 137.92,
+        "ARM": 322.9,
+        "QCOM": 194.23,
+        "NVDA": 227.38,
+        "META": 741.25,
+        "AMD": 615.52
+      }
     }
   },
   "channel_ids": {

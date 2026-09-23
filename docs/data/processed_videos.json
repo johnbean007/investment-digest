@@ -24230,6 +24230,17 @@
         "AMD": 623.77,
         "NBIS": 236.12
       }
+    },
+    "ZNJADhozdaw": {
+      "channel": "CouchInvestor",
+      "title": "MARKET PULLS BACK A BIT, META MUSE TAKES OVER, AI DRAMA | MARKET CLOSE",
+      "upload_date": "20260923",
+      "url": "https://www.youtube.com/watch?v=ZNJADhozdaw",
+      "processed_at": "2026-09-23T22:41:34.786293",
+      "transcript_fails": 1,
+      "last_reason": "unavailable",
+      "terminal": true,
+      "skipped": "no transcript"
     }
   },
   "channel_ids": {

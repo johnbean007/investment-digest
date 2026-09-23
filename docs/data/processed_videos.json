@@ -24148,6 +24148,88 @@
         ]
       },
       "price_at_recommendation": {}
+    },
+    "aTRLE59Uj3c": {
+      "channel": "Jose Najarro Stocks",
+      "title": "The Market Is Underestimating This Massive AI Demand Shift",
+      "upload_date": "20260923",
+      "url": "https://www.youtube.com/watch?v=aTRLE59Uj3c",
+      "processed_at": "2026-09-23T09:30:03.455926",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Nvidia is positioned to benefit from the agentic AI tooling trend which requires CPU execution, code execution, tool use, sandboxing, analytics, data pipelines, and orchestrations beyond just the model. The creator's biggest position is Nvidia, which he believes can reach a $10 trillion market cap in the long term. Nvidia's Vera CPU is shipping this quarter to AWS, Oracle, OpenAI, and Anthropic, with Jensen announcing Vera will do north of $20 billion in sales as an individual system this year, representing just the beginning of their CPU market entry in the second half of the year. The creator emphasizes Nvidia can help outperform market expectations and shouldn't be slept on despite the $5.5 trillion current valuation.",
+            "when_to_buy": null,
+            "target_price": "$10 trillion market cap (long-term); current price mentioned at $228",
+            "cautions": "Already a $5.5 trillion company, so gains may be harder to come by. The creator acknowledges the size concern but still maintains bullish conviction."
+          },
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices",
+            "reason": "AMD is one of the creator's biggest positions and is pursuing a full-stack system approach beyond just being a chip player, similar to Nvidia. The company benefits from both the GPU and CPU demand trends driven by agentic AI adoption. AMD is positioned to win in the CPU space and infrastructure buildout required for agentic tooling.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "CORE",
+            "company_name": "Coreweave",
+            "reason": "Coreweave is the creator's #1 neo-cloud player position. The company is contracting new compute capacity at higher prices, with short-term data customer contracts of 3-6 months at approximately $40 million per megawatt. They are raising $5+ billion (via $3.7 billion convertible senior note and ~$3 billion at-the-market offering) to build their own AI data centers to capture the market where GPU pricing continues to increase. The creator believes this is a smart strategic move if market demand truly exists, and is excited about their positioning in the high-pricing, supply-constrained GPU market.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "While focused on long-term contracts, they are also pursuing short-term opportunities which introduces execution risk."
+          },
+          {
+            "ticker": "IREN",
+            "company_name": "Iren",
+            "reason": "Iren is the creator's #2 neo-cloud player position with a market cap of roughly $20 billion. The company has massive energy availability, which the creator believes will be a critical bottleneck for 2026, 2027, and 2028. The energy lock-in is viewed as very positive. Iren has a great partnership with Nvidia that positions them to win in the agentic AI infrastructure buildout. The creator believes they are executing correctly and positioned in a great market.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Some investors are unhappy with management compensation, though the creator explicitly states this is not part of his bullish or bearish thesis and doesn't follow the crowd on this concern."
+          },
+          {
+            "ticker": "NBIS",
+            "company_name": "Nebius",
+            "reason": "Nebius is introducing spot pricing and dynamic pricing for AI infrastructure, which represents innovative unsexy infrastructure innovation. With dynamic pricing and programmatic auction-based approaches, if GPU demand continues to rise and supply doesn't keep pace, Nebius will benefit from strong pricing trends. The company has excelled at three-year contracts and spot pricing for shorter contracts. Nebius recently partnered with Palantir, which itself recently partnered with Nvidia, creating a bullish chain reaction. The stock is up 162% year-to-date, demonstrating strong market validation.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "AKA",
+            "company_name": "AKA (ticker not fully clarified in transcript)",
+            "reason": "The creator identifies AKA as a potential short-term trend play if the company is using CPU solutions and the agentic tool market is helping them grow. The stock is up roughly 39% year-to-date. However, the creator explicitly states this is not a major investment thesis but rather a potential trend to monitor.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The creator emphasizes this is just a trend idea, not a formal investment recommendation. It is framed as speculative short-term trade potential."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Energy will be a massive bottleneck for AI infrastructure in 2026, 2027, and 2028, making access to reliable power a critical factor for neo-cloud and data center operators.",
+          "GPU pricing continues to increase due to elevated demand for compute driven by agentic AI adoption, which could squeeze margins for companies without long-term contracts or power security.",
+          "The market may be underpricing the revenue growth potential of neo-cloud infrastructure players who are deploying CPU solutions, particularly in the agentic AI era where demand for compute infrastructure is expected to remain elevated."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "AMD",
+          "CORE",
+          "IREN",
+          "NBIS",
+          "AKA",
+          "QCOM",
+          "INTC"
+        ]
+      },
+      "price_at_recommendation": {
+        "IREN": 48.55,
+        "AKA": 11.0,
+        "NVDA": 228.87,
+        "AMD": 623.77,
+        "NBIS": 236.12
+      }
     }
   },
   "channel_ids": {

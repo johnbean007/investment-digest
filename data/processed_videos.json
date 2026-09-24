@@ -24252,6 +24252,100 @@
       "last_reason": "unavailable",
       "terminal": true,
       "skipped": "no transcript"
+    },
+    "BFJ4Khk8hHw": {
+      "channel": "Ticker Symbol: YOU",
+      "title": "Is the AI Bubble on the Verge of Collapse?",
+      "upload_date": "20260924",
+      "url": "https://www.youtube.com/watch?v=BFJ4Khk8hHw",
+      "processed_at": "2026-09-24T18:03:34.391076",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "MU",
+            "company_name": "Micron Technology",
+            "reason": "Micron stock has more than tripled in 2025 due to surging DRAM memory prices. Contract prices for DRAM nearly doubled in Q1 2025 and continue climbing. Nebius is raising memory prices by over 40%, indicating strong demand that exceeds supply. The creator cites Micron as one of the stocks that has experienced exceptional returns (up over 200% year-to-date) due to the AI buildout requiring massive amounts of memory infrastructure.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Michael Burry has shorted Micron as part of his bearish AI bet. The creator notes that while memory prices are rising sharply now, this could reverse if AI demand weakens or supply catches up to demand."
+          },
+          {
+            "ticker": "SNDK",
+            "company_name": "Western Digital/SanDisk",
+            "reason": "SanDisk is up over 500% year-to-date, driven by rising memory and storage infrastructure prices in the AI buildout. The creator specifically compares SanDisk alongside Micron and SK Hynix, all three trading under 9x next year's earnings, making them substantially cheaper than tech stocks during the dotcom bubble peak (Cisco traded at 200x PE). The creator states these stocks offer attractive valuations relative to the AI infrastructure buildout opportunity.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "None explicitly stated, though the creator notes that valuations depend on individual portfolio and time horizon. Like all AI infrastructure plays, this is exposed to demand cycles."
+          },
+          {
+            "ticker": "SK",
+            "company_name": "SK Hynix",
+            "reason": "SK Hynix is mentioned alongside Micron and SanDisk as a memory infrastructure play benefiting from the AI buildout. The creator notes that SK Hynix trades under 9x next year's earnings, making it extremely cheap relative to historical tech bubble valuations. Strong DRAM and memory demand from AI data centers is driving the entire memory sector higher.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "None explicitly stated, though valuation depends on sustained AI infrastructure spending and memory demand."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "ORCL",
+            "company_name": "Oracle Corporation",
+            "reason": "Michael Burry lists Oracle as one of his short positions, betting against the company. The creator does not explicitly recommend avoiding Oracle, but includes it as part of Burry's bearish AI thesis.",
+            "risk": null
+          },
+          {
+            "ticker": "PLTR",
+            "company_name": "Palantir Technologies",
+            "reason": "Michael Burry has shorted Palantir and listed it as one of his major short positions in his November filing, where 80% of his portfolio was made up of bets against Nvidia and Palantir. The creator presents this as an example of bearish AI sentiment but does not personally recommend shorting or avoiding the stock.",
+            "risk": null
+          },
+          {
+            "ticker": "NBIS",
+            "company_name": "Nebius",
+            "reason": "Michael Burry lists Nebius among his short positions as part of his bearish AI bet. Nebius provides GPU rental and infrastructure services, and while the creator cites Nebius price increases (20% in October following a 20% increase 3 months prior) as evidence of strong demand, Burry is betting against the company.",
+            "risk": null
+          },
+          {
+            "ticker": "CRWD",
+            "company_name": "Coreweave",
+            "reason": "Michael Burry includes Coreweave in his list of short positions. While the creator cites Coreweave's 25% price increases across its lineup in July 2025 as evidence of capacity constraints and rising demand, Burry is shorting the company as part of his broader AI bubble thesis.",
+            "risk": null
+          }
+        ],
+        "key_warnings": [
+          "Michael Burry and other market bears are actively shorting AI stocks, comparing the current environment to the 1999-2000 dotcom bubble. Burry has written that the current market 'feels like the last months of 1999 and 2000' and has positioned 80% of his portfolio in short bets against AI stocks.",
+          "The dotcom bubble saw the NASDAQ fall 78% over 2.5 years and did not recover to its previous peak for 15 years. If the AI buildout is a similar bubble, losses could be severe and long-lasting. However, the creator argues that key warning signs from the dotcom era (empty infrastructure capacity, collapsing prices) are absent from today's AI buildout.",
+          "Unlike the dotcom era where internet traffic estimates were wrong by an order of magnitude (forecast 12x growth but saw 2x), AI token generation is growing at 7x per year while capex is only growing 75% year-over-year. This suggests the buildout is running behind demand, not ahead of it. However, this could reverse if traffic growth slows.",
+          "Power grid constraints are emerging as a critical bottleneck. PJM (America's largest electricity market) has seen power contract prices skyrocket from $29/megawatt-day in 2024 to $329 in 2025 (11x increase), and regulators had to cap prices with the last three auctions hitting legal maximums. A recent auction came up 6,800 megawatts short of grid needs, largely due to data center demand.",
+          "The creator states that if GPU or memory utilization drops and prices fall, that would signal supply is outgrowing demand and would indicate the start of an AI bubble. Investors should monitor utilization rates (currently at 98%) and infrastructure rental prices (currently rising even for 4-year-old chips) as key leading indicators."
+        ],
+        "tickers_mentioned": [
+          "ARM",
+          "AMD",
+          "MU",
+          "SNDK",
+          "NVDA",
+          "PLTR",
+          "ORCL",
+          "MSFT",
+          "GOOG",
+          "AMZN",
+          "META",
+          "NBIS",
+          "CRWD",
+          "SK",
+          "CSCO"
+        ]
+      },
+      "price_at_recommendation": {
+        "ORCL": 138.94,
+        "MU": 1075.1,
+        "PLTR": 193.81,
+        "SNDK": 1776.48,
+        "NBIS": 248.56,
+        "SK": 29.47,
+        "CRWD": 262.49
+      }
     }
   },
   "channel_ids": {

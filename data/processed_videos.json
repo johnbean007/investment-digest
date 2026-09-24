@@ -24241,6 +24241,17 @@
       "last_reason": "unavailable",
       "terminal": true,
       "skipped": "no transcript"
+    },
+    "GbasWBGRXEw": {
+      "channel": "Jose Najarro Stocks",
+      "title": "AMD Trades at 55X Forward Earnings \u2014 NVIDIA Is Under 20X",
+      "upload_date": "20260924",
+      "url": "https://www.youtube.com/watch?v=GbasWBGRXEw",
+      "processed_at": "2026-09-24T14:23:39.979692",
+      "transcript_fails": 1,
+      "last_reason": "unavailable",
+      "terminal": true,
+      "skipped": "no transcript"
     }
   },
   "channel_ids": {

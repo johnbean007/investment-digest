@@ -24346,6 +24346,311 @@
         "SK": 29.47,
         "CRWD": 262.49
       }
+    },
+    "jQhVyoqYcKc": {
+      "channel": "Mr. FIRED Up Wealth",
+      "title": "Expert Reveals Best Stocks to Buy Now for the AI Inference Shift",
+      "upload_date": "20260924",
+      "url": "https://www.youtube.com/watch?v=jQhVyoqYcKc",
+      "processed_at": "2026-09-25T12:21:14.174457",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "SPRX",
+            "company_name": "Spear Alpha ETF",
+            "reason": "ETF that invests in B2B technology companies benefiting from AI and secular growth trends. The fund had an 88% return in 2023. Currently overweighted in hardware stocks that generate cash flow today and are less sensitive to interest rates. The fund focuses on CPUs, networking as a play on AI, and semicap equipment names as key investment areas.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Holdings and portfolio allocations change rapidly based on fundamental shifts. As of the video date, net assets were $223 million."
+          },
+          {
+            "ticker": "ASST",
+            "company_name": "Astera Labs",
+            "reason": "Networking leader positioned to benefit from the shift from AI model training to agentic AI and inference, which requires significantly more networking components. The company's CXL controllers help optimize memory usage, addressing the memory wall challenge which is a key bottleneck. They have a foundation business in retimers that continues to grow, plus incremental opportunity in memory controllers. Currently the number one holding in SPRX at almost 12% of the portfolio.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Success depends on solving the memory wall challenge and execution on new product lines."
+          },
+          {
+            "ticker": "LRCX",
+            "company_name": "Lam Research",
+            "reason": "Semicap equipment manufacturer with recurring revenue model and exposure to building memory capacity in 2027. The company has been held for over 10 years and benefits from the shift in AI infrastructure buildout. Equipment manufacturers in this space are exposed to very early innings of the cycle, with memory and CPU capacity buildout just beginning. The recurring revenue model means they don't have to win every quarter like software companies.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Very cyclical and risky, but within cyclicals they are on the lower end of cyclicality as they grow earnings through the cycle and price cautiously for value."
+          },
+          {
+            "ticker": "KLAC",
+            "company_name": "KLA Corporation",
+            "reason": "Semicap equipment manufacturer well-positioned for the memory and CPU capacity buildout cycle. Offers recurring revenue exposure to the AI infrastructure buildout with proven cash flow generation. Part of the broader semicap equipment sector that is in very early innings of its growth cycle.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Cyclical exposure but with lower volatility profile compared to other semiconductor plays. Execution and cycle timing are key risks."
+          },
+          {
+            "ticker": "LUMN",
+            "company_name": "Lumentum Holdings",
+            "reason": "Laser-focused photonics company positioned as the number one holding for optical infrastructure buildout. Currently experiencing tightness in the laser space. The company has a strong track record of consistently meeting and beating earnings expectations through good management communication. Benefits from both pluggable and co-packaged optics demand. Did a significant deal with Meta.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Photonics is highly cyclical and sensitive to supply chain timing. Stock already run up significantly on Meta deal announcement."
+          },
+          {
+            "ticker": "COHM",
+            "company_name": "Coherent Corp",
+            "reason": "Photonics play that has pulled back more than Lumentum, presenting an attractive entry point. The company is betting on 6-inch wafers being more efficient than smaller wafers, which could provide significant upside if execution succeeds. Research suggests they will figure out yield improvements on the 6-inch wafers despite current skepticism. Recommended to own all three major photonics plays (alongside Lumentum and AOOI) but size varies by conviction.",
+            "when_to_buy": "Current pullback presents attractive entry point",
+            "target_price": null,
+            "cautions": "Higher risk than Lumentum. Yield on 6-inch wafers is not yet evident in results. Significant execution risk on this new wafer technology. More skepticism from market on this company versus Lumentum."
+          },
+          {
+            "ticker": "AOOI",
+            "company_name": "Applied Optoelectronics",
+            "reason": "Expanding capacity in Sugarland Texas facility into 800G and 1.6T pluggable cycle. Benefits from pluggable and co-packaged optics buildout for data centers. Offers exposure to the higher-risk, higher-reward part of the photonics spectrum.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "More speculative than competitors. Significant execution risk as much of their capacity additions are yet to come online. Management sets more aggressive targets and is less mindful of street expectations. Does not have a base of existing earnings to back current valuation like Lumentum. Capacity and projects need to come online to justify thesis."
+          },
+          {
+            "ticker": "NOK",
+            "company_name": "Nokia",
+            "reason": "Acquired an optics company at the bottom of the cycle. That optics piece of the business alone could be the size of a Lumentum or Coherent. Won some big contracts earlier in the year. Offers a less obvious way to play the networking and optics trade beyond the obvious pure-play photonics companies. Benefits from both networking and optics infrastructure buildout.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Interest in the stock has tapered off post-contract announcements. Less pure-play exposure than dedicated photonics companies."
+          },
+          {
+            "ticker": "SMCI",
+            "company_name": "Super Micro Computer",
+            "reason": "Networking stock benefiting from the buildout of data center infrastructure for AI. Despite recent pullback from negative sentiment around data center buildout, even if no new data centers are built, connecting existing infrastructure to agentic AI trends will allow significant earnings growth above street expectations.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Stock has traded down on two recent earnings calls and negative sentiment from AI infrastructure commentary. Requires patience as benefits materialize from agentic AI adoption."
+          },
+          {
+            "ticker": "RKLB",
+            "company_name": "Rocket Lab USA Inc.",
+            "reason": "Next in line to achieve reusable rockets and cost-per-kilogram advantages similar to SpaceX. The aerospace and power generation industries typically consolidate to two players, positioning Rocket Lab as potential Pepsi to SpaceX's Coke. Benefits from data centers in space opportunity and massive TAM from space infrastructure. SpaceX IPO S-1 filing shows 93% of TAM is AI-related, validating space as critical infrastructure for AI.",
+            "when_to_buy": "$70 range is described as very attractive level",
+            "target_price": null,
+            "cautions": "Very speculative with 5-10 year hold required. Should only represent 10-15% of portfolio allocation for speculative ideas. Stock already down 50% from highs at $151 but still has high valuation with 43.91 price-to-sales forward. Most revenue is not yet from space operations. Success depends on executing reusable rocket technology and achieving cost reductions from $3,000 to $300 per kilogram. Interest rate sensitive given long development timeline and capital needs."
+          },
+          {
+            "ticker": "ADBE",
+            "company_name": "Adobe Inc.",
+            "reason": "Part of the application layer where native AI applications are in early innings and seeing skyrocketing growth. AI-native companies in different verticals are reaching $1 billion in revenues despite not existing two years ago. Application layer represents significant value creation opportunity as hardware cycle matures.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Application layer is most speculative and earliest innings of development. Best opportunities may be in private companies rather than public markets."
+          },
+          {
+            "ticker": "SNDK",
+            "company_name": "SanDisk (Western Digital)",
+            "reason": "Memory play held in small position. Benefits from extended AI-driven memory cycle different from previous cycles. Memory capacity buildout will be key in 2027, requiring suppliers of memory components.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Memory is the most cyclical of all semiconductors with extremely transparent pricing that can be tracked daily. Once pricing plateaus, even with continued demand, stocks stall out. This cycle may extend longer than historical cycles but timing the exit is difficult. Currently past midcycle so position is being closely monitored for profit-taking opportunities."
+          },
+          {
+            "ticker": "MU",
+            "company_name": "Micron Technology",
+            "reason": "Memory supplier benefiting from AI infrastructure buildout and extended memory cycle. Could potentially reach $1,500-$2,000 per share on fundamental basis according to video discussion.",
+            "when_to_buy": null,
+            "target_price": "$1,500-$2,000 potential based on bull case",
+            "cautions": "Memory is the most cyclical semiconductor segment. Despite being past midcycle, this cycle is believed to be different and extend much longer due to AI. Key risk is when memory pricing plateaus - once this happens, stocks stall out regardless of continued demand. Portfolio does not currently hold large position, suggesting caution despite bull case. Requires close monitoring of memory pricing trends."
+          },
+          {
+            "ticker": "NET",
+            "company_name": "Cloudflare Inc.",
+            "reason": "Networking play positioned to benefit from the shift from AI model training to inference and agentic AI. As AI moves to edge and inference, networking infrastructure becomes increasingly critical. Part of the broader networking buildout theme.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Software-oriented company more sensitive to interest rate changes than hardware. Benefits depend on inference and agentic AI adoption timeline."
+          },
+          {
+            "ticker": "ANET",
+            "company_name": "Arista Networks",
+            "reason": "Networking infrastructure play benefiting from data center buildout for AI inference and agentic AI. Critical to connecting distributed AI infrastructure. Part of the networking backbone for AI systems.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Cyclical exposure to data center buildout cycle. More sensitive to macro conditions than proven hardware manufacturers with current cash generation."
+          },
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "While not explicitly recommended as a buy, Nvidia is discussed as benefiting from open-model AI development. Remains a large beneficiary of the hardware cycle, though thesis has shifted. Mentioned as part of the proven business models that generate cash flow.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Major long-term risk is that closed-model companies (Anthropic, OpenAI) will develop their own chips, reducing Nvidia's addressable market. Has moved from position of offense (only provider) to potentially only benefiting from open-source portion of market. Long-term positioning may shift as vertical integration accelerates."
+          },
+          {
+            "ticker": "AMAT",
+            "company_name": "Applied Materials",
+            "reason": "Semicap equipment manufacturer with recurring revenue model benefiting from memory and CPU capacity buildout cycle. Part of the equipment sector (alongside KLA, LRCX, Tokyo Electron) that supports infrastructure expansion.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Cyclical but with lower volatility than end-market semiconductors. Execution on delivering tools during cycle is critical."
+          },
+          {
+            "ticker": "TEL",
+            "company_name": "Tokyo Electron Limited",
+            "reason": "Semicap equipment manufacturer with recurring revenue exposure to memory and CPU capacity buildout. Part of the large equipment industry that typically consolidates to two-player markets. Benefits from very early innings of AI infrastructure expansion.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Cyclical exposure but with growth earnings through cycle characteristics. Execution risk on delivering capacity-enabling tools."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "ORCL",
+            "company_name": "Oracle Corporation",
+            "reason": "While discussed as potentially benefiting long-term from AI data centers, the company was previously held by the expert and has been sold out of. Current negative free cash flow due to debt borrowing makes it unattractive in higher interest rate environment. Despite being an established diversified company with Oracle Cloud Infrastructure, it is currently borrowing money rather than generating free cash flow, making it sensitive to rate cycles.",
+            "risk": "Negative free cash flow means company cannot weather interest rate increases without financial stress. Long timeline for data center benefits to materialize makes it speculative despite diversified revenue base. Stock sentiment is described as 'so bad' and has traded down on New Mexico data center news."
+          },
+          {
+            "ticker": "CWEB",
+            "company_name": "CoreWeave",
+            "reason": "Neocloud company competing in GPU rental and data center services. While there are bull arguments around high GPU rental rates and longer GPU lifespans, the business is competing against much better-capitalized competitors (Microsoft, Amazon, Meta, SpaceX). In a rising interest rate environment, CoreWeave faces significant disadvantage in cost of capital competition.",
+            "risk": "Highly sensitive to interest rate environment. CoreWeave is one of most interest-rate sensitive neocloud plays. Competing against much stronger credit profiles. GPU rental rates are currently very high but may not persist. Competition from tech giants with superior balance sheets and capital access. Expert avoided this stock due to interest rate concerns, preferring to concentrate on areas with higher conviction like semicap equipment."
+          },
+          {
+            "ticker": "NBIS",
+            "company_name": "NebulousAI (or similar neocloud)",
+            "reason": "Neocloud GPU rental and data center service provider. While receiving retail attention on social media, the business model is challenged by cost of capital concerns in rising rate environment and intense competition from well-capitalized hyperscalers.",
+            "risk": "Highly sensitive to interest rates due to capital-intensive model. Competes against Microsoft, Amazon with vastly superior balance sheets and borrowing costs. Not held in professional portfolio due to focus on higher-conviction themes with more durable competitive advantages."
+          },
+          {
+            "ticker": "GLW",
+            "company_name": "Corning Inc.",
+            "reason": "While Corning has exposure to optical infrastructure, the expert specifically prefers to stay closer to the laser technology where the current cycle tightness exists. Corning is more diversified but less pure-play on the current inflection point in photonics.",
+            "risk": "Less direct exposure to the laser supply chain where current bottlenecks and opportunities exist. More diversified business means less concentrated benefit from photonics cycle."
+          }
+        ],
+        "key_warnings": [
+          "Interest rate sensitivity: High growth technology stocks, especially software, quantum computing, space tech, and speculative names are highly sensitive to interest rate increases. With 30-year Treasury yields at 5.139% (highest since 2004) and potential for 1-2 more rate hikes, investors should shift portfolio toward hardware that generates current cash flow rather than speculative names betting on future earnings.",
+          "Memory cycle is past midcycle: While the AI-driven memory cycle is believed to extend longer than historical cycles, memory is the most cyclical semiconductor segment with transparent daily pricing. Once pricing plateaus, even with continued demand, stocks stall out. Investors should monitor memory pricing closely and prepare to take profits rather than hold through cycle downturn.",
+          "Geopolitical supply chain risks: INP (Indium Phosphide) supply for photonics companies like Lumentum secured 2-3 years out but could be disrupted by geopolitics. Historical precedent: Russia-Ukraine war disrupted neon gas supplies critical to semiconductors.",
+          "Execution risk on speculative plays: Stocks like Applied Optoelectronics, Coherent (6-inch wafers), and Rocket Lab have significant execution risk. AOI faces higher risk than Lumentum because capacity additions are yet to come online. These should only represent 10-15% of portfolio and require 5-10 year holding periods.",
+          "Closed model chip development threatens Nvidia: Anthropic, OpenAI, and other closed-model AI companies are developing proprietary chips, which represents the biggest long-term risk to Nvidia's business. Nvidia has shifted from position of offense to potentially only benefiting from open-source AI development. This structural shift reduces addressable market.",
+          "Market bifurcation on application layer: Application layer winners are emerging but mostly in private markets. Native AI applications are reaching $1B revenue that didn't exist 2 years ago, but public market opportunities are limited. Investors should expect bifurcation between successful applications and incumbents attempting to embed AI.",
+          "Data center buildout timelines extending: Companies are disclosing aggressive 2027 capacity additions (Meta, SpaceX targeting 5-10+ gigawatts). Even if these are scaled back, they remain massive buildouts coming in next 2-3 years. This extends the hardware cycle but creates timing risk for investors if buildouts are delayed or disappointing.",
+          "No heavy AI regulation expected: Market is unlikely to face heavy government regulation of AI due to US-China race dynamics. Any regulation would slow development, so market is pricing in lighter-touch approach with private self-regulation and third-party security oversight."
+        ],
+        "tickers_mentioned": [
+          "SPRX",
+          "ASST",
+          "LRCX",
+          "KLAC",
+          "LUMN",
+          "COHM",
+          "AOOI",
+          "NOK",
+          "SMCI",
+          "RKLB",
+          "ADBE",
+          "SNDK",
+          "MU",
+          "NET",
+          "ANET",
+          "NVDA",
+          "AMAT",
+          "TEL",
+          "ORCL",
+          "CWEB",
+          "NBIS",
+          "GLW",
+          "MSFT",
+          "AMZN",
+          "META",
+          "TSLA"
+        ]
+      },
+      "price_at_recommendation": {
+        "ANET": 205.7,
+        "LRCX": 307.16,
+        "GLW": 154.15,
+        "SMCI": 41.51,
+        "TEL": 213.67,
+        "KLAC": 187.11,
+        "NOK": 10.43,
+        "AMAT": 474.25,
+        "NBIS": 243.48,
+        "ASST": 29.94,
+        "RKLB": 73.61,
+        "CWEB": 18.66,
+        "NVDA": 224.58,
+        "NET": 358.82,
+        "ORCL": 139.54,
+        "SNDK": 1753.62,
+        "ADBE": 238.93,
+        "MU": 1080.53,
+        "SPRX": 48.36,
+        "LUMN": 5.86
+      }
+    },
+    "8I2vUPI4V-c": {
+      "channel": "CouchInvestor",
+      "title": "SoFi Is Down 40%. Here's the Truth About The Situation",
+      "upload_date": "20260924",
+      "url": "https://www.youtube.com/watch?v=8I2vUPI4V-c",
+      "processed_at": "2026-09-25T12:21:45.431827",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "SOFI",
+            "company_name": "SoFi Technologies",
+            "reason": "The creator maintains a bullish stance on SoFi despite the stock being down 40% year-to-date, emphasizing that the business fundamentals are strong while stock performance is poor. Revenue is up 40%, net income up 61%, members up 35%, tangible book value per share rose 56%, deposits hit $45.5 billion, and loan originations reached a record $14.8 billion up 69%. The company raised guidance for 2026 despite worse macro assumptions. Midterm guidance shows revenue CAGR of over 30% and adjusted EPS CAGR of 38-42%, which the creator argues warrants a valuation multiple significantly higher than traditional bank multiples. The creator explicitly states he still owns every share he bought and has zero plans of selling. The creator views the current stock price as a buying opportunity for long-term investors, noting that macro conditions are the primary headwind, not company execution.",
+            "when_to_buy": "Now, for long-term investors willing to hold through potential sideways price action for the next 2 quarters. The creator suggests not buying for short-term flips but for multi-year holding periods.",
+            "target_price": null,
+            "cautions": "Stock performance has been horrendous. Macro conditions remain a significant headwind, and the company is sensitive to interest rate cycles and loan performance. The creator notes SoFi could remain stuck between $16-$20 for the next two quarters depending on macro developments. Tech platform segment is underperforming after losing Chime as a major client, though the creator expects recovery. Capital raising at $27.50 earlier diluted shareholders, though at a much higher price than current levels."
+          },
+          {
+            "ticker": "NU",
+            "company_name": "Nubank",
+            "reason": "Nu is described as a tremendously well-run company and one of the best fintech businesses out there. Q1 2025 showed $1 billion in profit, revenue of $5.9 billion on a normalized basis, return on equity at 33% (up from 28% a year ago), and customers close to 140 million. The creator emphasizes that Nu's stock being down 19% year-to-date does not reflect poor company execution but rather macro pressures and the company's strategic choice to invest heavily in growth globally and in the United States. The creator notes that stock being under pressure does not automatically translate to a bad company and stresses the importance of understanding what you own.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Stock is down 19% year-to-date. The company is in an active investing cycle similar to what Mercado Libre experienced, which puts near-term stock performance under pressure. This is not a typical cyclical fintech name and requires a longer-term investment perspective. Early days in US expansion, so significant near-term catalysts are limited."
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms",
+            "reason": "Meta is up 3.6% following Meta Connect announcements, and the creator believes Meta remains undervalued even without considering its Muse AI initiatives. The creator views Meta's announcement of Muse (a personal AI agent with voice and real-time video) as the start of something huge, comparable to ChatGPT's launch success. Meta announced multiple hardware products: medical-grade hearing aids in glasses (FDA-cleared), lightweight audio glasses without cameras for the 2 billion people globally who wear glasses, upgraded Meta Ray-Ban Gen 3, and new VR glasses (100g, $1,200-$1,300, spring 2027, on track to be sold without loss). The business model centers on transactions through AI agents with Meta taking a small percentage. The creator emphasizes Meta's willingness to innovate and take risks across smart glasses, VR, and AI hardware categories.",
+            "when_to_buy": null,
+            "target_price": "Meta without Muse should have been above $800",
+            "cautions": "Muse Charm (keychain device launching December) may be viewed as a gimmick and could flop. The profitability model for VR glasses implies razor-thin margins, not huge profits. These remain early-stage product categories. The creator acknowledges potential skepticism about the real-world utility and adoption of some products."
+          },
+          {
+            "ticker": "HOOD",
+            "company_name": "Robinhood Markets",
+            "reason": "Robinhood is up 6% year-to-date and is performing better than the broader market. The company generated $1.3 billion in net revenue (up 32% year-over-year) with transaction revenue up 44%. The creator credits Robinhood's diversification strategy as key to performance, particularly the success of prediction markets which have offset significant hits from crypto declines. The creator emphasizes that execution, leadership, and business diversification are the reasons Robinhood is outperforming, noting that without prediction markets revenue would be much lower. The company continues to successfully diversify away from cyclical crypto trading.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Robinhood's outperformance is heavily dependent on prediction markets, which some investors may dislike on philosophical grounds. The creator recommends not mixing prediction market exposure with long-term investments. The crypto market decline has significantly impacted core business metrics."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Macro environment is the primary headwind for fintech and financial stocks. The 10-year Treasury yield is at 5.1%, the highest since 2007, which is creating headwinds for interest rate-sensitive businesses and increasing cost of capital. Oil prices are relatively high, and inflation remains present, though not accelerating at alarming rates. S&P 500 near all-time highs creates a peculiar situation where valuations are not excessive by historical standards, but macro pressures persist.",
+          "Oracle is currently under pressure due to delays in a major data center project (force majeure letter issued), which could impact free cash flow profile going forward. The company carries a huge debt load with no free cash flow, and debt repayments won't slow down as cost of capital is rising.",
+          "Do not invest in these names for short-term stock flips expecting quick returns. Several discussed stocks (SoFi, Nu) may remain under pressure for 1-2 quarters despite strong business fundamentals. Long-term investment horizon (multiple years) is required for these businesses to realize their potential.",
+          "Fintech stocks are experiencing a disconnect between excellent business execution and poor stock performance, driven by macro conditions rather than company-specific issues. Investors must distinguish between stock price performance and underlying business quality."
+        ],
+        "tickers_mentioned": [
+          "SOFI",
+          "META",
+          "ORCL",
+          "GOOGL",
+          "NU",
+          "HOOD"
+        ]
+      },
+      "price_at_recommendation": {
+        "NU": 13.56,
+        "META": 777.59,
+        "SOFI": 16.8,
+        "HOOD": 120.82
+      }
     }
   },
   "channel_ids": {

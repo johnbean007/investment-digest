@@ -24722,6 +24722,216 @@
       "price_at_recommendation": {
         "DDOG": 268.13
       }
+    },
+    "pW_7A50jY_8": {
+      "channel": "CouchInvestor",
+      "title": "I Just Bought $15,000 of a New Stock. Here's Why I Sold 3 Others",
+      "upload_date": "20260927",
+      "url": "https://www.youtube.com/watch?v=pW_7A50jY_8",
+      "processed_at": "2026-09-28T09:24:48.899154",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "MU",
+            "company_name": "Micron Technology",
+            "reason": "Micron is expected to report massive earnings growth with quarterly revenue growth of 359% and 344% in upcoming quarters, followed by 211% and 82.8% growth. Free cash flow is projected to reach $168.1 billion in fiscal 28, which is unprecedented in the company's 16-year history. The company is trading at a forward P/E of 7.4 times with expected free cash flow of $23.8 billion for the current quarter, representing 2,139% growth. The creator emphasizes this time is different due to the scale and size of the business, noting that nowhere in history has Micron generated this type of free cash flow. Additionally, share buybacks are expected to be announced starting December, which will further boost earnings per share. The creator expects beats across the board in the upcoming earnings report on Wednesday.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Memory is a cyclical industry historically, though the creator argues the scale this cycle makes it fundamentally different. Capex is expected to increase significantly to over $10 billion per quarter, which could pressure cash flows if growth slows."
+          },
+          {
+            "ticker": "AVGO",
+            "company_name": "Broadcom",
+            "reason": "Broadcom has done nothing year-to-date, up only 1.6%, and 5.6% over the past 12 months despite exceptional growth metrics. The CEO has stated expectations to double AI revenue to reach $115 billion next fiscal year and double again to $230 billion in the fiscal year after that. The company is growing well above 50% for this fiscal year and the next two years, with the creator viewing this as a floor for growth. Broadcom is worth 70% more than AMD despite generating double the revenue and growing faster than AMD. Trading at a forward P/E of 20.4 with a PEG ratio of 0.5 and price to free cash flow of 22.4, the valuation appears attractive relative to growth and revenue generation.",
+            "when_to_buy": "The creator purchased 43 shares at $352 per share",
+            "target_price": null,
+            "cautions": "The creator trimmed other positions (AMD and Rubric) to make room for this investment, indicating a reallocation strategy rather than a pure addition. The company is large at $1.6 trillion market cap, which may limit growth potential."
+          },
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia",
+            "reason": "Nvidia represents a buy-and-hold forever position for exposure to AI, autonomous vehicles, robotics, and full AI automation. The company is expected to generate approximately $900 billion in revenue in fiscal 29 and potentially $450 billion in free cash flow for a single year. Trading at a forward P/E of 18.7 with a PEG ratio of 0.5 and price to free cash flow of 20.8, the valuation is attractive for the growth rates this massive business represents. The creator views Nvidia similar to Apple\u2014a large, mature position that generates enormous cash for buybacks, dividends, and investments in the ecosystem. With analyst average price targets at $327 (versus current price around $220), there is upside potential, though the creator acknowledges some analysts have targets near $400.",
+            "when_to_buy": "The creator intends to add to the position but has not yet done so as of the video; planning to eventually build it similar to an Apple core holding",
+            "target_price": "Average analyst target $327; some analysts target close to $400, implying near $10 trillion market cap",
+            "cautions": "The sheer size of the company at $5.4 trillion market cap makes it difficult to significantly move the stock price. The creator does not expect Nvidia to suddenly double despite its strong fundamentals. It is a mega-cap position that may grow more slowly than smaller AI semiconductor peers due to its massive size."
+          },
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet",
+            "reason": "Currently trading in the buy zone based on technical analysis, with support at $334 and current price at $343. The buying zone is identified as the area between support and resistance levels.",
+            "when_to_buy": "Current price $343, with buy zone between support floor $334 and current levels",
+            "target_price": "Resistance at $350; deep value bargain floor at $318-$326",
+            "cautions": null
+          },
+          {
+            "ticker": "LABL",
+            "company_name": "Rocket Lab",
+            "reason": "Trading near previous resistance with low 60s identified as bargain floor. The creator sees no issues with the name staying at current levels ($74 at week close) until closer to a potential Neutron launch catalyst.",
+            "when_to_buy": "Around low 60s as bargain floor; closed week near $74",
+            "target_price": null,
+            "cautions": "Waiting for Neutron launch catalyst; stock may remain stagnant until that actual or closer catalytic event occurs."
+          },
+          {
+            "ticker": "SOFI",
+            "company_name": "SoFi Technologies",
+            "reason": "Currently at $16.50, trading within the main buying zone between $15.81 support and $17.37 resistance. The stock is positioned favorably for long-term investors at current levels.",
+            "when_to_buy": "Main buying zone between $15.80 and $16.80; currently at $16.50",
+            "target_price": "Resistance at $17.37",
+            "cautions": null
+          },
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon",
+            "reason": "Described as a tremendous business with a growing total addressable market. It is positioned well in the AI space with AWS, its own chips, and Bedrock services. Currently sitting at support level, representing a buying opportunity for long-term investors.",
+            "when_to_buy": "Currently at support level; creator notes people may chase the name once it reaches $300",
+            "target_price": "Resistance at $256",
+            "cautions": "The creator calls it a 'boring business to buy' despite its quality, implying it may not have the explosive growth of other positions. It is currently at support, so there is limited margin of safety below current levels."
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms",
+            "reason": "Stock has recently seen rapid upward movement. The creator still considers it undervalued despite recent gains at $751 week close. For long-term investors, it remains undervalued at current levels.",
+            "when_to_buy": "Target buy zone is $680-$710, below current price of $751; but creator views current levels as still undervalued for long-term investors",
+            "target_price": "Buy zone at $680-$710",
+            "cautions": "The creator acknowledges that traders may prefer to wait for the stock to 'chill out' after recent rapid appreciation before buying, though long-term investors should not hesitate at current levels despite recent strength."
+          },
+          {
+            "ticker": "NWLI",
+            "company_name": "New Holdings (Wise/Wise plc context unclear from transcript)",
+            "reason": "New Holdings is making significant moves including reports of acquiring Monzo, a UK-based fintech company for $8-10 billion. This could be a very big move for the company and potentially put it in a buy zone for long-term investors. Currently sitting at support with resistance above $14.",
+            "when_to_buy": "Currently at support level; in buy zone for long-term investors",
+            "target_price": "Resistance sits above $14",
+            "cautions": "The acquisition of Monzo, while potentially strategic, could put the stock under pressure due to the size of the acquisition. These are still reports and not yet confirmed."
+          },
+          {
+            "ticker": "NFLX",
+            "company_name": "Netflix",
+            "reason": "The creator reduced the position by approximately 50% and indicated potential further selling. The stock doesn't move much technically, with support at current levels and resistance at $77-$80.",
+            "when_to_buy": "Not a buy recommendation; creator indicated 'might sell it' and did reduce position",
+            "target_price": "Resistance at $77-$80",
+            "cautions": "The creator has cut the Netflix position by 50% and indicated possible further selling, suggesting they view it as less attractive than other opportunities at current levels."
+          },
+          {
+            "ticker": "NBST",
+            "company_name": "Nebus (likely NBST)",
+            "reason": "Best-in-class position that continues to do well. Second-largest position in the portfolio at approximately 10.6% allocation, indicating strong conviction.",
+            "when_to_buy": "Buy zone identified at $215-$230, though stock could potentially go as low as $200",
+            "target_price": "Support at $315",
+            "cautions": "This is described as a very volatile name where the stock could reach $300 or drop just under $200, making it suitable only for investors comfortable with high volatility."
+          },
+          {
+            "ticker": "RDDT",
+            "company_name": "Reddit",
+            "reason": "Currently in buy zone with resistance higher at $166. The creator is waiting for a catalyst related to AI licensing deals. Recent semi-positive legal news regarding Entropic could potentially push towards seeing data licensing deals.",
+            "when_to_buy": "Currently in buy zone",
+            "target_price": "Resistance at $166",
+            "cautions": "Stock doesn't move much currently; creator is waiting for AI licensing deal catalysts to drive performance. Legal issues with Entropic remain a consideration, though recent news has been semi-positive."
+          },
+          {
+            "ticker": "AXON",
+            "company_name": "Axon Enterprise",
+            "reason": "Currently in buy zone from a technical perspective, despite being under pressure from a valuation standpoint.",
+            "when_to_buy": "Currently in buy zone",
+            "target_price": "Resistance at $56",
+            "cautions": "Stock is under pressure from a valuation standpoint, suggesting the company may be overvalued on fundamentals despite technical buy signals."
+          },
+          {
+            "ticker": "MELI",
+            "company_name": "MercadoLibre",
+            "reason": "Trying to get back into big buy zone. Currently trading between $1,720-$1,760 with real bargain prices closer to $1,700 or slightly under. For long-term shareholders, current levels vs. bargain prices make minimal difference.",
+            "when_to_buy": "Buy zone between $1,720-$1,760; bargain prices closer to $1,700",
+            "target_price": "Resistance at $1,838",
+            "cautions": null
+          },
+          {
+            "ticker": "UBER",
+            "company_name": "Uber Technologies",
+            "reason": "Trading in main buying zone between $67.50-$70.50. The company generated $10 billion in free cash flow over the last 12 months and is described as quite cheap at current valuations. Support sits just under current price with resistance at $75.",
+            "when_to_buy": "Main buying zone between $67.50-$70.50",
+            "target_price": "Resistance at $75",
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "NFLX",
+            "company_name": "Netflix",
+            "reason": "The creator cut the Netflix position by approximately 50%, keeping only half due to valuation concerns. This suggests the creator believes Netflix is overvalued relative to other opportunities, though not completely avoiding it\u2014just significantly reducing exposure.",
+            "risk": "The creator indicated they may sell more if the stock drops further, as cash would be preferable to holding Netflix at these valuations."
+          }
+        ],
+        "key_warnings": [
+          "Memory and semiconductors are historically cyclical industries. While the creator argues 'this time it's different' for Micron due to unprecedented scale of AI-driven demand, this represents a significant concentration risk. A downturn in AI spending or memory chip prices could rapidly reverse the exceptional growth projections.",
+          "The creator's portfolio contains 18-20 positions despite the top 5 making up ~50% of total portfolio value. While diversified, this requires significant monitoring and could dilute returns if concentration in top performers had been maintained. The creator acknowledges this is a matter of investment philosophy.",
+          "Market cap inflations across mega-cap AI stocks (Nvidia at $5.4T, Broadcom at $1.6T) raise questions about growth potential from current levels. The creator acknowledges difficulty in moving such large companies significantly, which may limit upside potential despite strong fundamentals.",
+          "Several positions (Reddit, Axon, Rocket Lab) are waiting on specific catalysts (AI licensing deals, Neutron launch) that may not materialize on expected timelines, creating execution risk for the thesis."
+        ],
+        "tickers_mentioned": [
+          "MU",
+          "GOOGL",
+          "LABL",
+          "SOFI",
+          "AMZN",
+          "META",
+          "NFLX",
+          "NWLI",
+          "NBST",
+          "RDDT",
+          "AXON",
+          "MELI",
+          "UBER",
+          "AVGO",
+          "NVDA",
+          "AMD",
+          "RBU",
+          "HOOD",
+          "PLTR",
+          "OSCR",
+          "DLO"
+        ]
+      },
+      "price_at_recommendation": {
+        "AXON": 430.11,
+        "RDDT": 149.84,
+        "MELI": 1752.61,
+        "GOOGL": 343.92,
+        "META": 751.66,
+        "MU": 1082.28,
+        "UBER": 69.62,
+        "AMZN": 249.67,
+        "SOFI": 16.58,
+        "NVDA": 225.07,
+        "NBST": 11.55,
+        "AVGO": 352.81,
+        "NFLX": 71.14
+      }
+    },
+    "6CK1-_Gj-_0": {
+      "channel": "FinTek",
+      "title": "Top AI Infrastructure Stock in 2026",
+      "upload_date": "20260927",
+      "url": "https://www.youtube.com/watch?v=6CK1-_Gj-_0",
+      "processed_at": "2026-09-28T09:24:59.664025",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NET",
+            "company_name": "Cloudflare",
+            "reason": "Cloudflare is working to make the internet itself work better. The company demonstrated strong financial performance with almost $700 million in revenue in the most recent quarter, representing 36% year-over-year growth. Despite not being technically profitable on paper, the company has achieved positive free cash flow of $56 million, indicating the business is bringing in more cash than it is burning. The company has 45% of the Fortune 500 as paying customers, demonstrating significant market penetration and a strong customer base.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The company is not yet profitable on paper, though it has positive free cash flow."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": [
+          "NET"
+        ]
+      },
+      "price_at_recommendation": {
+        "NET": 349.02
+      }
     }
   },
   "channel_ids": {
@@ -24733,6 +24943,6 @@
     "JoseNajarroStocks": "UC5cEHfCr6WOE1R1zcohd1IA",
     "FinTek": "UCxdWHEhEPiYhCADMrn4PdhQ"
   },
-  "last_eval_week": "2026-W39",
+  "last_eval_week": "2026-W40",
   "alerts": {}
 }

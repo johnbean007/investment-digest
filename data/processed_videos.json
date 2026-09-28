@@ -24932,6 +24932,24 @@
       "price_at_recommendation": {
         "NET": 349.02
       }
+    },
+    "eWpt4y26gD0": {
+      "channel": "FinTek",
+      "title": "SoftBank\u2019s Biggest Bet is Making Them a Fortune",
+      "upload_date": "20260928",
+      "url": "https://www.youtube.com/watch?v=eWpt4y26gD0",
+      "processed_at": "2026-09-28T14:40:35.066774",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "SoftBank's massive concentrated positions in OpenAI ($64 billion with additional $30 billion planned for 2026) and ARM Holdings (~90% ownership) create a double-edged sword risk. While these positions offer enormous upside potential if ARM or OpenAI significantly increases in value, the concentration is so severe that SoftBank cannot liquidate these positions even if circumstances deteriorate, leaving them trapped with illiquid, oversized bets."
+        ],
+        "tickers_mentioned": [
+          "ARM"
+        ]
+      },
+      "price_at_recommendation": {}
     }
   },
   "channel_ids": {

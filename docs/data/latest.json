@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-30T23:12:40.859900",
-  "video_count": 69,
-  "stock_count": 138,
+  "generated_at": "2026-10-01T00:15:03.929556",
+  "video_count": 67,
+  "stock_count": 132,
   "stocks": [
     {
       "ticker": "AAOI",
       "company_name": "Applied Optoelectronics Inc.",
-      "buy_count": 2,
+      "buy_count": 1,
       "avoid_count": 0,
-      "first_mention_date": "31 Aug 2026",
-      "price_at_first_mention": 103.39,
-      "pct_change_since_rec": -4.0,
+      "first_mention_date": "03 Sep 2026",
+      "price_at_first_mention": 100.38,
+      "pct_change_since_rec": -1.1,
       "market": {
         "ticker": "AAOI",
         "name": "Applied Optoelectronics, Inc.",
@@ -51,19 +51,6 @@
       },
       "buys": [
         {
-          "channel": "The Traveling Trader",
-          "title": "Elon Musk just confirmed the next major AI bottleneck for 2027",
-          "url": "https://www.youtube.com/watch?v=yZhQQBUr0GE",
-          "upload_date": "20260831",
-          "date_label": "31 Aug 2026",
-          "ticker": "AAOI",
-          "company_name": "Applied Optoelectronics Inc.",
-          "reason": "AAOI provides networking and optical infrastructure components relevant to data center networking requirements for AI buildout.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": null
-        },
-        {
           "channel": "Mr. FIRED Up Wealth",
           "title": "4 BEST Stocks to BUY Now (I'M BUYING)!",
           "url": "https://www.youtube.com/watch?v=j_eZaqbE5aA",
@@ -81,77 +68,13 @@
       "description": "Manufactures fiber-optic networking products for data centers and telecommunications"
     },
     {
-      "ticker": "AAON",
-      "company_name": "Applied Air Inc.",
-      "buy_count": 1,
-      "avoid_count": 0,
-      "first_mention_date": "31 Aug 2026",
-      "price_at_first_mention": 75.35,
-      "pct_change_since_rec": 9.8,
-      "market": {
-        "ticker": "AAON",
-        "name": "AAON, Inc.",
-        "currency": "USD",
-        "sector": "Industrials",
-        "industry": "Building Products & Equipment",
-        "market_cap": 6823863296,
-        "current_price": 82.76,
-        "daily_change_pct": -2.76,
-        "month_change_pct": 9.98,
-        "week52_high": 150.46,
-        "week52_high_date": "03 Jun 2026",
-        "week52_low": 73.19,
-        "week52_low_date": "18 Dec 2025",
-        "rsi": 51.5,
-        "rsi_label": "neutral",
-        "ma50": 84.18,
-        "ma200": 97.57,
-        "ma_signal": "death_cross",
-        "pe_trailing": 43.557896,
-        "pe_forward": 23.657001,
-        "peg_ratio": 0.98,
-        "revenue_growth": 1.012,
-        "earnings_growth": 2.579,
-        "free_cashflow": -213758000,
-        "profit_margins": 0.08243,
-        "debt_to_equity": 44.742,
-        "beta": 1.414,
-        "short_percent": 0.0709,
-        "dividend_yield": 0.47,
-        "analyst_buy": 5,
-        "analyst_hold": 0,
-        "analyst_sell": 0,
-        "analyst_target": 134.75,
-        "analyst_upside_pct": 62.8,
-        "earnings_date": null,
-        "earnings_days": null
-      },
-      "buys": [
-        {
-          "channel": "The Traveling Trader",
-          "title": "Elon Musk just confirmed the next major AI bottleneck for 2027",
-          "url": "https://www.youtube.com/watch?v=yZhQQBUr0GE",
-          "upload_date": "20260831",
-          "date_label": "31 Aug 2026",
-          "ticker": "AAON",
-          "company_name": "Applied Air Inc.",
-          "reason": "AAON is a niche commercial HVAC maker relevant to the liquid cooling and chilling requirements for AI data centers as part of the 2027 infrastructure bottleneck.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": "Much smaller company than Vertiv and Eaton in this space."
-        }
-      ],
-      "avoids": [],
-      "description": "Manufactures rooftop air conditioning, heating, and data centre cooling equipment"
-    },
-    {
       "ticker": "AAPL",
       "company_name": "Apple Inc.",
-      "buy_count": 2,
+      "buy_count": 1,
       "avoid_count": 0,
-      "first_mention_date": "31 Aug 2026",
-      "price_at_first_mention": 325.13,
-      "pct_change_since_rec": 2.4,
+      "first_mention_date": "11 Sep 2026",
+      "price_at_first_mention": 332.27,
+      "pct_change_since_rec": 0.2,
       "market": {
         "ticker": "AAPL",
         "name": "Apple Inc.",
@@ -191,19 +114,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "The Traveling Trader",
-          "title": "Elon Musk just confirmed the next major AI bottleneck for 2027",
-          "url": "https://www.youtube.com/watch?v=yZhQQBUr0GE",
-          "upload_date": "20260831",
-          "date_label": "31 Aug 2026",
-          "ticker": "AAPL",
-          "company_name": "Apple Inc.",
-          "reason": "Not explicitly recommended; mentioned only in context of technology sector undervaluation.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": "This is not a specific recommendation; Apple was not discussed as part of the AI bottleneck thesis."
-        },
         {
           "channel": "The Traveling Trader",
           "title": "\ud83d\udd34 Day Trading LIVE | CPI Inflation Report",
@@ -1060,11 +970,11 @@
     {
       "ticker": "ANET",
       "company_name": "Arista Networks",
-      "buy_count": 3,
+      "buy_count": 2,
       "avoid_count": 0,
-      "first_mention_date": "31 Aug 2026",
-      "price_at_first_mention": 189.26,
-      "pct_change_since_rec": 7.6,
+      "first_mention_date": "05 Sep 2026",
+      "price_at_first_mention": 193.78,
+      "pct_change_since_rec": 5.1,
       "market": {
         "ticker": "ANET",
         "name": "Arista Networks, Inc.",
@@ -1104,19 +1014,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "The Traveling Trader",
-          "title": "Elon Musk just confirmed the next major AI bottleneck for 2027",
-          "url": "https://www.youtube.com/watch?v=yZhQQBUr0GE",
-          "upload_date": "20260831",
-          "date_label": "31 Aug 2026",
-          "ticker": "ANET",
-          "company_name": "Arista Networks",
-          "reason": "Arista Networks provides networking infrastructure for data centers, directly supporting the complex networking requirements mentioned as part of the 2027 AI bottleneck (transformers, wiring, liquid cooling, massive chillers, and complex networking).",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": null
-        },
         {
           "channel": "Ticker Symbol: YOU",
           "title": "98% of Investors Miss The REAL AI Winners (My Full Map)",
@@ -1319,7 +1216,7 @@
         "analyst_buy": 39,
         "analyst_hold": 3,
         "analyst_sell": 2,
-        "analyst_target": 2111.27,
+        "analyst_target": 2110.79,
         "analyst_upside_pct": 16.5,
         "earnings_date": null,
         "earnings_days": null
@@ -1409,11 +1306,11 @@
     {
       "ticker": "AVGO",
       "company_name": "Broadcom Inc.",
-      "buy_count": 14,
+      "buy_count": 13,
       "avoid_count": 1,
-      "first_mention_date": "31 Aug 2026",
-      "price_at_first_mention": 369.68,
-      "pct_change_since_rec": -5.0,
+      "first_mention_date": "03 Sep 2026",
+      "price_at_first_mention": 357.16,
+      "pct_change_since_rec": -1.7,
       "market": {
         "ticker": "AVGO",
         "name": "Broadcom Inc.",
@@ -1453,19 +1350,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "The Traveling Trader",
-          "title": "Elon Musk just confirmed the next major AI bottleneck for 2027",
-          "url": "https://www.youtube.com/watch?v=yZhQQBUr0GE",
-          "upload_date": "20260831",
-          "date_label": "31 Aug 2026",
-          "ticker": "AVGO",
-          "company_name": "Broadcom Inc.",
-          "reason": "Broadcom provides networking infrastructure for data centers and AI systems. Creator is very bullish on Broadcom for the long term as it relates to the AI infrastructure buildout.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": "Creator states they will probably not trade Broadcom earnings despite being bullish long-term, as the 58% beat rate and 62% average strangle return is not enough to justify earnings trades."
-        },
         {
           "channel": "Mr. FIRED Up Wealth",
           "title": "4 BEST Stocks to BUY Now (I'M BUYING)!",
@@ -1756,12 +1640,12 @@
     },
     {
       "ticker": "BE",
-      "company_name": "Bloom Energy",
-      "buy_count": 3,
+      "company_name": "Bloom Energy Corporation",
+      "buy_count": 2,
       "avoid_count": 0,
-      "first_mention_date": "31 Aug 2026",
-      "price_at_first_mention": 213.63,
-      "pct_change_since_rec": 29.7,
+      "first_mention_date": "04 Sep 2026",
+      "price_at_first_mention": 235.55,
+      "pct_change_since_rec": 17.6,
       "market": {
         "ticker": "BE",
         "name": "Bloom Energy Corporation",
@@ -1801,19 +1685,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "The Traveling Trader",
-          "title": "Elon Musk just confirmed the next major AI bottleneck for 2027",
-          "url": "https://www.youtube.com/watch?v=yZhQQBUr0GE",
-          "upload_date": "20260831",
-          "date_label": "31 Aug 2026",
-          "ticker": "BE",
-          "company_name": "Bloom Energy",
-          "reason": "Bloom Energy sells on-site solid oxide fuel cell systems that allow data centers to generate their own power, directly solving the 2027 power bottleneck. Company is growing much faster than its valuation can catch up to, with 62 billion-dollar market cap and 43 forward PE. 10-year revenue CAGR is almost 30%, all-time high revenue, last year generated $3 billion revenue, and has a $20 billion backlog (as of start of year). Nancy Pelosi recently bought into the stock.",
-          "when_to_buy": "Creator recommends waiting for breakout above downtrend before establishing position for swing trades, though not required for long-term bottleneck investing",
-          "target_price": null,
-          "cautions": "Stock is down almost 41% from highs and still has a downtrend; high beta stock; requires technical confirmation before entry."
-        },
         {
           "channel": "The Traveling Trader",
           "title": "This 1 Stock is a Gold MINE \u203c\ufe0f",
@@ -2025,77 +1896,13 @@
       "description": null
     },
     {
-      "ticker": "CDNS",
-      "company_name": "Cadence Design Systems",
-      "buy_count": 1,
-      "avoid_count": 0,
-      "first_mention_date": "31 Aug 2026",
-      "price_at_first_mention": 313.04,
-      "pct_change_since_rec": 5.5,
-      "market": {
-        "ticker": "CDNS",
-        "name": "Cadence Design Systems, Inc.",
-        "currency": "USD",
-        "sector": "Technology",
-        "industry": "Software - Application",
-        "market_cap": 91070308352,
-        "current_price": 330.19,
-        "daily_change_pct": 1.86,
-        "month_change_pct": 5.48,
-        "week52_high": 416.69,
-        "week52_high_date": "02 Jun 2026",
-        "week52_low": 262.75,
-        "week52_low_date": "03 Feb 2026",
-        "rsi": 62.6,
-        "rsi_label": "neutral",
-        "ma50": 317.9,
-        "ma200": 325.39,
-        "ma_signal": "death_cross",
-        "pe_trailing": 65.7739,
-        "pe_forward": 34.54678,
-        "peg_ratio": 2.48,
-        "revenue_growth": 0.242,
-        "earnings_growth": 1.254,
-        "free_cashflow": 1609676544,
-        "profit_margins": 0.23605,
-        "debt_to_equity": 38.661,
-        "beta": 1.137,
-        "short_percent": 0.0159,
-        "dividend_yield": null,
-        "analyst_buy": 21,
-        "analyst_hold": 3,
-        "analyst_sell": 0,
-        "analyst_target": 405.47,
-        "analyst_upside_pct": 22.8,
-        "earnings_date": null,
-        "earnings_days": null
-      },
-      "buys": [
-        {
-          "channel": "The Traveling Trader",
-          "title": "Elon Musk just confirmed the next major AI bottleneck for 2027",
-          "url": "https://www.youtube.com/watch?v=yZhQQBUr0GE",
-          "upload_date": "20260831",
-          "date_label": "31 Aug 2026",
-          "ticker": "CDNS",
-          "company_name": "Cadence Design Systems",
-          "reason": "Cadence (Coherent) is mentioned as a networking company relevant to the AI bottleneck infrastructure buildout for complex networking requirements.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": null
-        }
-      ],
-      "avoids": [],
-      "description": "Develops chip design and verification software and silicon intellectual property"
-    },
-    {
       "ticker": "CEG",
-      "company_name": "Constellation Energy",
-      "buy_count": 3,
+      "company_name": "Constellation Energy Corporation",
+      "buy_count": 2,
       "avoid_count": 0,
-      "first_mention_date": "31 Aug 2026",
-      "price_at_first_mention": 280.31,
-      "pct_change_since_rec": -9.4,
+      "first_mention_date": "04 Sep 2026",
+      "price_at_first_mention": 285.05,
+      "pct_change_since_rec": -10.9,
       "market": {
         "ticker": "CEG",
         "name": "Constellation Energy Corporatio",
@@ -2135,19 +1942,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "The Traveling Trader",
-          "title": "Elon Musk just confirmed the next major AI bottleneck for 2027",
-          "url": "https://www.youtube.com/watch?v=yZhQQBUr0GE",
-          "upload_date": "20260831",
-          "date_label": "31 Aug 2026",
-          "ticker": "CEG",
-          "company_name": "Constellation Energy",
-          "reason": "Constellation Energy is a power generation company owned by the creator. Relevant to the 2027 AI bottleneck as data centers will need massive amounts of power generation capacity to support 15 gigawatts of new AI compute.",
-          "when_to_buy": "Creator has existing position; suggests waiting for breakout above clear downtrend before adding",
-          "target_price": null,
-          "cautions": "Stock exhibits clear downtrend requiring technical breakout confirmation."
-        },
         {
           "channel": "The Traveling Trader",
           "title": "This 1 Stock is a Gold MINE \u203c\ufe0f",
@@ -2362,12 +2156,12 @@
     },
     {
       "ticker": "COHR",
-      "company_name": "Coherent Inc.",
-      "buy_count": 3,
+      "company_name": "Coherent Corporation",
+      "buy_count": 2,
       "avoid_count": 0,
-      "first_mention_date": "31 Aug 2026",
-      "price_at_first_mention": 272.03,
-      "pct_change_since_rec": 5.8,
+      "first_mention_date": "05 Sep 2026",
+      "price_at_first_mention": 281.86,
+      "pct_change_since_rec": 2.1,
       "market": {
         "ticker": "COHR",
         "name": "Coherent Corp.",
@@ -2408,19 +2202,6 @@
       },
       "buys": [
         {
-          "channel": "The Traveling Trader",
-          "title": "Elon Musk just confirmed the next major AI bottleneck for 2027",
-          "url": "https://www.youtube.com/watch?v=yZhQQBUr0GE",
-          "upload_date": "20260831",
-          "date_label": "31 Aug 2026",
-          "ticker": "COHR",
-          "company_name": "Coherent Inc.",
-          "reason": "Coherent provides networking infrastructure relevant to the complex networking requirements of AI data centers and the 2027 bottleneck.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": null
-        },
-        {
           "channel": "Ticker Symbol: YOU",
           "title": "98% of Investors Miss The REAL AI Winners (My Full Map)",
           "url": "https://www.youtube.com/watch?v=csv55UtVMZM",
@@ -2453,11 +2234,11 @@
     {
       "ticker": "COIN",
       "company_name": "Coinbase Global Inc.",
-      "buy_count": 2,
+      "buy_count": 1,
       "avoid_count": 0,
-      "first_mention_date": "31 Aug 2026",
-      "price_at_first_mention": 176.82,
-      "pct_change_since_rec": 5.4,
+      "first_mention_date": "11 Sep 2026",
+      "price_at_first_mention": 175.26,
+      "pct_change_since_rec": 6.4,
       "market": {
         "ticker": "COIN",
         "name": "Coinbase Global, Inc.",
@@ -2497,19 +2278,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "The Traveling Trader",
-          "title": "Elon Musk just confirmed the next major AI bottleneck for 2027",
-          "url": "https://www.youtube.com/watch?v=yZhQQBUr0GE",
-          "upload_date": "20260831",
-          "date_label": "31 Aug 2026",
-          "ticker": "COIN",
-          "company_name": "Coinbase Global Inc.",
-          "reason": "Creator is looking for a pullback to the 21 EMA for potential position entry. Not directly related to AI bottleneck but mentioned as a swing trade opportunity. Creator plans to take position in Conel (2x Bitcoin ETF tracking COIN) which tends to outperform Bitcoin during bull markets.",
-          "when_to_buy": "Wait for pullback to 21 EMA before taking position; Bitcoin has shown confirmed breakout",
-          "target_price": null,
-          "cautions": "This is a Bitcoin-related trade, not part of the core AI infrastructure bottleneck thesis."
-        },
         {
           "channel": "The Traveling Trader",
           "title": "\ud83d\udd34 Day Trading LIVE | CPI Inflation Report",
@@ -2932,70 +2700,6 @@
       "description": "Provides cloud-based cybersecurity platform for endpoints and workloads"
     },
     {
-      "ticker": "CRWV",
-      "company_name": "Coreweave",
-      "buy_count": 1,
-      "avoid_count": 0,
-      "first_mention_date": "31 Aug 2026",
-      "price_at_first_mention": 81.85,
-      "pct_change_since_rec": 6.4,
-      "market": {
-        "ticker": "CRWV",
-        "name": "CoreWeave, Inc.",
-        "currency": "USD",
-        "sector": "Technology",
-        "industry": "Software - Infrastructure",
-        "market_cap": 48049868800,
-        "current_price": 87.12,
-        "daily_change_pct": 1.38,
-        "month_change_pct": 6.44,
-        "week52_high": 153.2,
-        "week52_high_date": "10 Oct 2025",
-        "week52_low": 60.55,
-        "week52_low_date": "29 Jul 2026",
-        "rsi": 50.5,
-        "rsi_label": "neutral",
-        "ma50": 86.41,
-        "ma200": 92.14,
-        "ma_signal": "death_cross",
-        "pe_trailing": null,
-        "pe_forward": -48.072308,
-        "peg_ratio": null,
-        "revenue_growth": 1.125,
-        "earnings_growth": null,
-        "free_cashflow": -9088615424,
-        "profit_margins": -0.25402,
-        "debt_to_equity": 1027.329,
-        "beta": null,
-        "short_percent": 0.17639999,
-        "dividend_yield": null,
-        "analyst_buy": 24,
-        "analyst_hold": 11,
-        "analyst_sell": 2,
-        "analyst_target": 141.58,
-        "analyst_upside_pct": 62.5,
-        "earnings_date": null,
-        "earnings_days": null
-      },
-      "buys": [
-        {
-          "channel": "Ticker Symbol: YOU",
-          "title": "GET IN EARLY! These 3 Stocks Will Make Millionaires By 2029",
-          "url": "https://www.youtube.com/watch?v=f_BmT1yaSQY",
-          "upload_date": "20260831",
-          "date_label": "31 Aug 2026",
-          "ticker": "CRWV",
-          "company_name": "Coreweave",
-          "reason": "Coreweave is the largest neocloud by scale with 1.5 gawatts of active power and 4.2 gawatts under contract, generating record revenues of $2.6 billion (up 112% YoY) with a $14 billion revenue backlog (up 246% YoY). The company has a privileged relationship with Nvidia as the launchpad for Nvidia's latest chips, with a formal $6.3 billion partnership where Nvidia will purchase any unsold capacity through April 2032. Nvidia invested $2 billion at $87 per share, higher than current trading price. Coreweave has multi-billion dollar contracts with major customers including OpenAI, Microsoft, Meta, and Nvidia, and is the clear operational leader among the three neoclouds discussed. This stock offers the lowest execution risk with Nvidia's commitment as a buyer of last resort.",
-          "when_to_buy": "Current price is below $87 per share (Nvidia's recent investment price)",
-          "target_price": null,
-          "cautions": "Coreweave carries significant debt burden with $46 billion in net debt and pays $640 million in interest per quarter, which represents 25% of quarterly revenues. This heavy interest burden converts a $49 million operating loss into a $626 million net loss, directly impacting profitability. The company relies heavily on borrowed money to fund the $9.4 billion quarterly capex, and interest expenses significantly reduce bottom-line returns for shareholders."
-        }
-      ],
-      "avoids": [],
-      "description": "Operates cloud infrastructure platform for artificial intelligence workloads"
-    },
-    {
       "ticker": "CSIQ",
       "company_name": "Canadian Solar",
       "buy_count": 0,
@@ -3201,10 +2905,10 @@
       "ticker": "DELL",
       "company_name": "Dell Technologies",
       "buy_count": 1,
-      "avoid_count": 1,
-      "first_mention_date": "31 Aug 2026",
-      "price_at_first_mention": 425.0,
-      "pct_change_since_rec": 26.6,
+      "avoid_count": 0,
+      "first_mention_date": "11 Sep 2026",
+      "price_at_first_mention": 567.29,
+      "pct_change_since_rec": -5.2,
       "market": {
         "ticker": "DELL",
         "name": "Dell Technologies Inc.",
@@ -3258,19 +2962,7 @@
           "cautions": "Creator did not personally execute this trade despite it being on watchlist. Creator emphasizes that price targets represent estimated value, not guaranteed price levels. For option traders, the 12% move premium expansion means position management is critical."
         }
       ],
-      "avoids": [
-        {
-          "channel": "The Traveling Trader",
-          "title": "Elon Musk just confirmed the next major AI bottleneck for 2027",
-          "url": "https://www.youtube.com/watch?v=yZhQQBUr0GE",
-          "upload_date": "20260831",
-          "date_label": "31 Aug 2026",
-          "ticker": "DELL",
-          "company_name": "Dell Technologies",
-          "reason": "While Dell is not being avoided, creator states they will likely trade Dell earnings via cash secured puts rather than buying shares, suggesting caution on directional stock ownership.",
-          "risk": "Dell beats expected move 58% of the time (not enough for certain trades) but has asymmetric payoff profile favoring puts strategies over strangle strategies."
-        }
-      ],
+      "avoids": [],
       "description": "Manufactures servers, storage systems, and enterprise computing products"
     },
     {
@@ -3336,70 +3028,6 @@
       ],
       "avoids": [],
       "description": "Exchange-traded fund investing in semiconductor memory companies"
-    },
-    {
-      "ticker": "ETN",
-      "company_name": "Eaton Corporation",
-      "buy_count": 1,
-      "avoid_count": 0,
-      "first_mention_date": "31 Aug 2026",
-      "price_at_first_mention": 390.71,
-      "pct_change_since_rec": 10.0,
-      "market": {
-        "ticker": "ETN",
-        "name": "Eaton Corporation, PLC",
-        "currency": "USD",
-        "sector": "Industrials",
-        "industry": "Specialty Industrial Machinery",
-        "market_cap": 166856392704,
-        "current_price": 429.71,
-        "daily_change_pct": -0.82,
-        "month_change_pct": 9.98,
-        "week52_high": 478.0,
-        "week52_high_date": "12 Aug 2026",
-        "week52_low": 311.92,
-        "week52_low_date": "17 Dec 2025",
-        "rsi": 53.6,
-        "rsi_label": "neutral",
-        "ma50": 420.66,
-        "ma200": 386.51,
-        "ma_signal": "golden_cross",
-        "pe_trailing": 43.669712,
-        "pe_forward": 26.561264,
-        "peg_ratio": 2.63,
-        "revenue_growth": 0.214,
-        "earnings_growth": -0.159,
-        "free_cashflow": 3106125056,
-        "profit_margins": 0.12752,
-        "debt_to_equity": 105.059,
-        "beta": 1.168,
-        "short_percent": 0.02,
-        "dividend_yield": 1.02,
-        "analyst_buy": 22,
-        "analyst_hold": 4,
-        "analyst_sell": 1,
-        "analyst_target": 482.2,
-        "analyst_upside_pct": 12.2,
-        "earnings_date": null,
-        "earnings_days": null
-      },
-      "buys": [
-        {
-          "channel": "The Traveling Trader",
-          "title": "Elon Musk just confirmed the next major AI bottleneck for 2027",
-          "url": "https://www.youtube.com/watch?v=yZhQQBUr0GE",
-          "upload_date": "20260831",
-          "date_label": "31 Aug 2026",
-          "ticker": "ETN",
-          "company_name": "Eaton Corporation",
-          "reason": "Eaton is described as one of the best all-around AI power companies, with exposure to multiple AI bottleneck areas: electrical distribution, liquid cooling, and chilling (via Boyd Thermal acquisition). The company addresses the 2027 bottleneck where 15 gigawatts of AI compute cannot be turned on due to lack of transformers, wiring, liquid cooling, massive chillers, and complex networking infrastructure.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": "Stock is down almost 16% from highs despite being on a tear recently."
-        }
-      ],
-      "avoids": [],
-      "description": "Manufactures electrical components, power distribution systems, and aerospace equipment"
     },
     {
       "ticker": "EWI",
@@ -3532,11 +3160,11 @@
     {
       "ticker": "GEV",
       "company_name": "GE Vernova",
-      "buy_count": 3,
+      "buy_count": 2,
       "avoid_count": 0,
-      "first_mention_date": "31 Aug 2026",
-      "price_at_first_mention": 898.53,
-      "pct_change_since_rec": 5.8,
+      "first_mention_date": "05 Sep 2026",
+      "price_at_first_mention": 941.95,
+      "pct_change_since_rec": 0.9,
       "market": {
         "ticker": "GEV",
         "name": "GE Vernova Inc.",
@@ -3576,19 +3204,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "The Traveling Trader",
-          "title": "Elon Musk just confirmed the next major AI bottleneck for 2027",
-          "url": "https://www.youtube.com/watch?v=yZhQQBUr0GE",
-          "upload_date": "20260831",
-          "date_label": "31 Aug 2026",
-          "ticker": "GEV",
-          "company_name": "GE Vernova",
-          "reason": "GE Vernova supplies turbines and grid equipment used to generate and move power to data centers, directly addressing the 2027 AI power bottleneck. Relevant across both power generation and grid distribution for the massive electrical infrastructure buildout required for AI compute.",
-          "when_to_buy": "Creator suggests waiting for technical breakout of downtrend before establishing position",
-          "target_price": null,
-          "cautions": "Stock is down almost 24% from highs; exhibits clear downtrend requiring breakout confirmation."
-        },
         {
           "channel": "Ticker Symbol: YOU",
           "title": "98% of Investors Miss The REAL AI Winners (My Full Map)",
@@ -4259,33 +3874,6 @@
       ],
       "avoids": [],
       "description": "Owns and operates data centers and mines Bitcoin cryptocurrency"
-    },
-    {
-      "ticker": "IRN",
-      "company_name": "Iron (formerly Bitcoin mining company)",
-      "buy_count": 1,
-      "avoid_count": 0,
-      "first_mention_date": "31 Aug 2026",
-      "price_at_first_mention": null,
-      "pct_change_since_rec": null,
-      "market": null,
-      "buys": [
-        {
-          "channel": "Ticker Symbol: YOU",
-          "title": "GET IN EARLY! These 3 Stocks Will Make Millionaires By 2029",
-          "url": "https://www.youtube.com/watch?v=f_BmT1yaSQY",
-          "upload_date": "20260831",
-          "date_label": "31 Aug 2026",
-          "ticker": "IRN",
-          "company_name": "Iron (formerly Bitcoin mining company)",
-          "reason": "Iron represents the most upside potential as the smallest and cheapest neocloud at a $16 billion enterprise value, trading at only $3 million per megawatt of contracted power (7 times cheaper than Coreweave at $22 million). The company has achieved remarkable AI cloud revenue growth, more than doubling from $33.6 million to $70.5 million in a single quarter, and AI revenue has now surpassed Bitcoin mining revenues for the first time. Iron has the lowest interest expense burden at $25 million per quarter (18% of revenues) and the largest pipeline of contracted power at over 5 gawatts already secured through years of Bitcoin mining land and power acquisition. The company has won two enormous contracts: a 5-year $9.7 billion deal with Microsoft and a $3.4 billion deal with Nvidia, with a $16.6 billion backlog targeting a $4 billion annualized run rate.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": "Iron carries the highest execution risk among the three neoclouds. The company must successfully pivot from Bitcoin mining to AI infrastructure, a transition that is costly and time-consuming. Last quarter, Iron posted a $684 million loss, largely due to non-cash impairments from writing off Bitcoin hardware, and total revenue actually shrank from $145 million to $137 million as the company scales down mining faster than AI capacity comes online. The biggest risk is whether Iron can actually convert their contracted power pipeline into realized revenues, or if the pivot costs will exceed benefits. Management also cautioned that actual recognized revenue could come in lower than current run-rate guidance."
-        }
-      ],
-      "avoids": [],
-      "description": null
     },
     {
       "ticker": "IRON",
@@ -5382,11 +4970,11 @@
     {
       "ticker": "MRVL",
       "company_name": "Marvell Technology",
-      "buy_count": 3,
+      "buy_count": 2,
       "avoid_count": 0,
-      "first_mention_date": "31 Aug 2026",
-      "price_at_first_mention": 210.39,
-      "pct_change_since_rec": 25.6,
+      "first_mention_date": "08 Sep 2026",
+      "price_at_first_mention": 223.55,
+      "pct_change_since_rec": 18.2,
       "market": {
         "ticker": "MRVL",
         "name": "Marvell Technology, Inc.",
@@ -5426,19 +5014,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "The Traveling Trader",
-          "title": "Elon Musk just confirmed the next major AI bottleneck for 2027",
-          "url": "https://www.youtube.com/watch?v=yZhQQBUr0GE",
-          "upload_date": "20260831",
-          "date_label": "31 Aug 2026",
-          "ticker": "MRVL",
-          "company_name": "Marvell Technology",
-          "reason": "Marvell is mentioned as relevant semiconductor infrastructure for AI. Creator notes that although Broadcom is a better company, Marvell has more upside potential because it is a much cheaper stock on a market cap basis ($189 billion vs Broadcom's $1.75 trillion). Despite being more expensive on a PE multiple basis, the absolute room for growth is larger. Company beat expectations and raised guidance on earnings.",
-          "when_to_buy": "Wait for Marvell to break out of current downtrend; creator notes it dropped 10% after earnings and may test $200 or below if it closes below the weekly fair value gap",
-          "target_price": null,
-          "cautions": "Stock dropped 10% after beating expectations and raising guidance due to sky-high expectations from 190% year-over-year performance. High beta stock. May test $200 and below in near-term. Does not look great unless downtrend breaks."
-        },
         {
           "channel": "The Traveling Trader",
           "title": "These 4 Stocks Are About to Explode\u203c\ufe0f [September 2026]",
@@ -5575,11 +5150,11 @@
     {
       "ticker": "MU",
       "company_name": "Micron Technology",
-      "buy_count": 11,
+      "buy_count": 10,
       "avoid_count": 1,
-      "first_mention_date": "31 Aug 2026",
-      "price_at_first_mention": 933.44,
-      "pct_change_since_rec": 14.1,
+      "first_mention_date": "04 Sep 2026",
+      "price_at_first_mention": 958.16,
+      "pct_change_since_rec": 11.2,
       "market": {
         "ticker": "MU",
         "name": "Micron Technology, Inc.",
@@ -5619,19 +5194,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "The Traveling Trader",
-          "title": "Elon Musk just confirmed the next major AI bottleneck for 2027",
-          "url": "https://www.youtube.com/watch?v=yZhQQBUr0GE",
-          "upload_date": "20260831",
-          "date_label": "31 Aug 2026",
-          "ticker": "MU",
-          "company_name": "Micron Technology",
-          "reason": "Micron is a memory semiconductor manufacturer relevant to AI infrastructure. Creator is looking for breakout at trend line before taking long position.",
-          "when_to_buy": "Wait for breakout in memory sector (Micron and SanDisk) at trend line before taking positions; very tight coiling pattern suggests imminent breakout",
-          "target_price": null,
-          "cautions": "Currently in consolidation pattern after recent retreat; requires breakout confirmation."
-        },
         {
           "channel": "The Traveling Trader",
           "title": "This 1 Stock is a Gold MINE \u203c\ufe0f",
@@ -5808,11 +5370,11 @@
     {
       "ticker": "NBIS",
       "company_name": "Nebius",
-      "buy_count": 3,
+      "buy_count": 2,
       "avoid_count": 2,
-      "first_mention_date": "31 Aug 2026",
-      "price_at_first_mention": 199.54,
-      "pct_change_since_rec": 18.2,
+      "first_mention_date": "09 Sep 2026",
+      "price_at_first_mention": 243.88,
+      "pct_change_since_rec": -3.3,
       "market": {
         "ticker": "NBIS",
         "name": "Nebius Group N.V.",
@@ -5852,19 +5414,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "Ticker Symbol: YOU",
-          "title": "GET IN EARLY! These 3 Stocks Will Make Millionaires By 2029",
-          "url": "https://www.youtube.com/watch?v=f_BmT1yaSQY",
-          "upload_date": "20260831",
-          "date_label": "31 Aug 2026",
-          "ticker": "NBIS",
-          "company_name": "Nebius",
-          "reason": "Nebius demonstrates the strongest balance sheet among the three neoclouds with only $2 billion in net debt and generates exceptional revenue growth of 454% YoY, with $582 million in last quarter revenue and guidance for $7-9 billion annualized run rate by end of 2026 (approximately 7x growth from last year). The company has a unique business advantage: customers prepay 50-60% of equipment costs upfront, funding the AI buildout rather than relying on high-interest loans. Nebius has secured major contracts including a $17.4 billion deal with Microsoft and up to $27 billion with Meta. The company is receiving first-mover advantage with Nvidia's new Gro 3 LPX inference chips in volume and has raised contracted power targets from 4 gawatts to 5 gawatts by end of 2026.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": "Nebius trades at the highest valuation multiple with an enterprise value of 7.4x their year-end run rate, compared to 4.9x for Coreweave and 4x for Iron. This premium valuation leaves less margin for error. Additionally, Nebius will fund growth partially through equity offerings, which means current shareholders will experience dilution. The company is much smaller in absolute scale with only $582 million quarterly revenue compared to Coreweave's $2.6 billion, despite higher growth rates."
-        },
         {
           "channel": "Jose Najarro Stocks",
           "title": "AI Stocks Just Got Major Catalysts \u2014 The Boom Is Accelerating!!",
@@ -6189,70 +5738,6 @@
       ],
       "avoids": [],
       "description": "Provides full-stack GPU cloud infrastructure for AI applications"
-    },
-    {
-      "ticker": "NEE",
-      "company_name": "NextEra Energy",
-      "buy_count": 1,
-      "avoid_count": 0,
-      "first_mention_date": "31 Aug 2026",
-      "price_at_first_mention": 82.93,
-      "pct_change_since_rec": -8.7,
-      "market": {
-        "ticker": "NEE",
-        "name": "NextEra Energy, Inc.",
-        "currency": "USD",
-        "sector": "Utilities",
-        "industry": "Utilities - Regulated Electric",
-        "market_cap": 157963747328,
-        "current_price": 75.74,
-        "daily_change_pct": -0.2,
-        "month_change_pct": -8.67,
-        "week52_high": 98.75,
-        "week52_high_date": "01 May 2026",
-        "week52_low": 74.78,
-        "week52_low_date": "01 Oct 2025",
-        "rsi": 24.5,
-        "rsi_label": "oversold",
-        "ma50": 83.24,
-        "ma200": 86.35,
-        "ma_signal": "death_cross",
-        "pe_trailing": 17.020226,
-        "pe_forward": 17.23867,
-        "peg_ratio": 1.53,
-        "revenue_growth": 0.124,
-        "earnings_growth": 0.531,
-        "free_cashflow": -17766875136,
-        "profit_margins": 0.32401,
-        "debt_to_equity": 161.676,
-        "beta": 0.644,
-        "short_percent": 0.0,
-        "dividend_yield": 3.28,
-        "analyst_buy": 14,
-        "analyst_hold": 7,
-        "analyst_sell": 1,
-        "analyst_target": 98.74,
-        "analyst_upside_pct": 30.4,
-        "earnings_date": null,
-        "earnings_days": null
-      },
-      "buys": [
-        {
-          "channel": "The Traveling Trader",
-          "title": "Elon Musk just confirmed the next major AI bottleneck for 2027",
-          "url": "https://www.youtube.com/watch?v=yZhQQBUr0GE",
-          "upload_date": "20260831",
-          "date_label": "31 Aug 2026",
-          "ticker": "NEE",
-          "company_name": "NextEra Energy",
-          "reason": "NextEra Energy is a major power generation and distribution company relevant to the infrastructure buildout needed to support 15 gigawatts of AI compute that cannot be turned on by 2027 without massive power infrastructure expansion.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": null
-        }
-      ],
-      "avoids": [],
-      "description": "Generates and distributes electric power from renewable and nuclear sources"
     },
     {
       "ticker": "NET",
@@ -6612,12 +6097,12 @@
     },
     {
       "ticker": "NOK",
-      "company_name": "Nokia Oyj",
-      "buy_count": 2,
+      "company_name": "Nokia",
+      "buy_count": 1,
       "avoid_count": 0,
-      "first_mention_date": "31 Aug 2026",
-      "price_at_first_mention": 9.93,
-      "pct_change_since_rec": 2.1,
+      "first_mention_date": "24 Sep 2026",
+      "price_at_first_mention": 10.43,
+      "pct_change_since_rec": -2.8,
       "market": {
         "ticker": "NOK",
         "name": "Nokia Corporation Sponsored",
@@ -6657,19 +6142,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "The Traveling Trader",
-          "title": "Elon Musk just confirmed the next major AI bottleneck for 2027",
-          "url": "https://www.youtube.com/watch?v=yZhQQBUr0GE",
-          "upload_date": "20260831",
-          "date_label": "31 Aug 2026",
-          "ticker": "NOK",
-          "company_name": "Nokia Oyj",
-          "reason": "Nokia provides networking infrastructure and equipment for data center connectivity, relevant to the complex networking buildout required for AI infrastructure through 2027.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": null
-        },
         {
           "channel": "Mr. FIRED Up Wealth",
           "title": "Expert Reveals Best Stocks to Buy Now for the AI Inference Shift",
@@ -6717,11 +6189,11 @@
     {
       "ticker": "NOW",
       "company_name": "ServiceNow Inc.",
-      "buy_count": 1,
+      "buy_count": 0,
       "avoid_count": 1,
-      "first_mention_date": "31 Aug 2026",
-      "price_at_first_mention": 142.9,
-      "pct_change_since_rec": -6.2,
+      "first_mention_date": "17 Sep 2026",
+      "price_at_first_mention": 139.63,
+      "pct_change_since_rec": -4.0,
       "market": {
         "ticker": "NOW",
         "name": "ServiceNow, Inc.",
@@ -6760,21 +6232,7 @@
         "earnings_date": null,
         "earnings_days": null
       },
-      "buys": [
-        {
-          "channel": "The Traveling Trader",
-          "title": "Elon Musk just confirmed the next major AI bottleneck for 2027",
-          "url": "https://www.youtube.com/watch?v=yZhQQBUr0GE",
-          "upload_date": "20260831",
-          "date_label": "31 Aug 2026",
-          "ticker": "NOW",
-          "company_name": "ServiceNow Inc.",
-          "reason": "ServiceNow stock has moved from $90s to $144. If the company delivers on its EPS estimate of $5 per share for full year 2028 and trades at a conservative 50x multiple, stock price would reach around $250.",
-          "when_to_buy": null,
-          "target_price": "$250 (if trading at 50x 2028 EPS of $5)",
-          "cautions": "Creator believes there may be interim weakness and some resistance at current levels despite bullish long-term outlook."
-        }
-      ],
+      "buys": [],
       "avoids": [
         {
           "channel": "CouchInvestor",
@@ -6870,9 +6328,9 @@
     {
       "ticker": "NVDA",
       "company_name": "Nvidia Corporation",
-      "buy_count": 23,
+      "buy_count": 22,
       "avoid_count": 3,
-      "first_mention_date": "31 Aug 2026",
+      "first_mention_date": "01 Sep 2026",
       "price_at_first_mention": 217.44,
       "pct_change_since_rec": 5.0,
       "market": {
@@ -6914,19 +6372,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "The Traveling Trader",
-          "title": "Elon Musk just confirmed the next major AI bottleneck for 2027",
-          "url": "https://www.youtube.com/watch?v=yZhQQBUr0GE",
-          "upload_date": "20260831",
-          "date_label": "31 Aug 2026",
-          "ticker": "NVDA",
-          "company_name": "Nvidia Corporation",
-          "reason": "Nvidia is undervalued at current levels for the long term. Total revenue up 106% year-over-year, data center revenue up 117% year-over-year, earnings per share up 128% year-over-year, maintaining 75% gross margins. Forward year 2028 earnings per share estimated at $13.15. If Nvidia maintains a 28 PE (conservative), share price would be $364 based on 2028 earnings delivery. Creator states there is no reason to believe Nvidia cannot deliver that level of earnings per share next year.",
-          "when_to_buy": "No specific swing trade opportunity; Creator recommends as a no-brainer buy for the long term",
-          "target_price": "$364 if Nvidia maintains 28x PE on $13.15 2028 EPS",
-          "cautions": "Creator states this is not a swing trade but a long-term holding; no particular technical setup currently."
-        },
         {
           "channel": "Jose Najarro Stocks",
           "title": "If You Are an Nvidia Shareholder...Watch What Jensen Is Building!!",
@@ -8782,11 +8227,11 @@
     {
       "ticker": "SNDK",
       "company_name": "Western Digital/SanDisk",
-      "buy_count": 3,
+      "buy_count": 2,
       "avoid_count": 0,
-      "first_mention_date": "31 Aug 2026",
-      "price_at_first_mention": 1536.87,
-      "pct_change_since_rec": 13.2,
+      "first_mention_date": "24 Sep 2026",
+      "price_at_first_mention": 1776.48,
+      "pct_change_since_rec": -2.1,
       "market": {
         "ticker": "SNDK",
         "name": "Sandisk Corporation",
@@ -8826,19 +8271,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "The Traveling Trader",
-          "title": "Elon Musk just confirmed the next major AI bottleneck for 2027",
-          "url": "https://www.youtube.com/watch?v=yZhQQBUr0GE",
-          "upload_date": "20260831",
-          "date_label": "31 Aug 2026",
-          "ticker": "SNDK",
-          "company_name": "Western Digital/SanDisk",
-          "reason": "SanDisk (memory storage) is relevant to AI infrastructure buildout. Creator is watching for breakout before taking positions as part of memory sector play alongside Micron.",
-          "when_to_buy": "Wait for breakout at trend line; sector showing typical consolidation from recent highs",
-          "target_price": null,
-          "cautions": "Currently in consolidation; tight coiling pattern requiring breakout confirmation."
-        },
         {
           "channel": "Ticker Symbol: YOU",
           "title": "Is the AI Bubble on the Verge of Collapse?",
@@ -10181,12 +9613,12 @@
     },
     {
       "ticker": "VRT",
-      "company_name": "Vertiv Holdings Co.",
-      "buy_count": 4,
+      "company_name": "Vertiv Holdings",
+      "buy_count": 3,
       "avoid_count": 0,
-      "first_mention_date": "31 Aug 2026",
-      "price_at_first_mention": 255.97,
-      "pct_change_since_rec": -5.7,
+      "first_mention_date": "04 Sep 2026",
+      "price_at_first_mention": 268.83,
+      "pct_change_since_rec": -10.2,
       "market": {
         "ticker": "VRT",
         "name": "Vertiv Holdings, LLC",
@@ -10226,19 +9658,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "The Traveling Trader",
-          "title": "Elon Musk just confirmed the next major AI bottleneck for 2027",
-          "url": "https://www.youtube.com/watch?v=yZhQQBUr0GE",
-          "upload_date": "20260831",
-          "date_label": "31 Aug 2026",
-          "ticker": "VRT",
-          "company_name": "Vertiv Holdings Co.",
-          "reason": "Vertiv is identified as the sector leader in liquid cooling for AI data centers. The company has a forward PE of 28 (excellent for a growth stock), five-year revenue CAGR of almost 19%, 21% return on invested capital, excellent balance sheet, all-time high revenue, all-time high EBITDA, gross profit margin, net income, free cash flow, and earnings per share. The company has a $15 billion backlog showing a 109% increase. Both Vera Rubin and Rubin Ultra GPU rollouts will be 100% fully liquid cooled, creating strong demand tailwinds. The stock is currently 33% down from highs, presenting a discount entry point.",
-          "when_to_buy": "Wait for confirmed technical breakout above current downtrend before establishing position, though creator states this is not required for long-term bottleneck investing",
-          "target_price": null,
-          "cautions": "High beta stock; creator recommends waiting for technical breakout to limit portfolio volatility. Stock has declined 33% from highs, indicating recent weakness."
-        },
         {
           "channel": "The Traveling Trader",
           "title": "This 1 Stock is a Gold MINE \u203c\ufe0f",
@@ -10284,12 +9703,12 @@
     },
     {
       "ticker": "VST",
-      "company_name": "Vistra Corp.",
-      "buy_count": 5,
+      "company_name": "Vistra Corp",
+      "buy_count": 4,
       "avoid_count": 1,
-      "first_mention_date": "31 Aug 2026",
-      "price_at_first_mention": 138.08,
-      "pct_change_since_rec": 0.2,
+      "first_mention_date": "03 Sep 2026",
+      "price_at_first_mention": 144.22,
+      "pct_change_since_rec": -4.1,
       "market": {
         "ticker": "VST",
         "name": "Vistra Corp.",
@@ -10329,19 +9748,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "The Traveling Trader",
-          "title": "Elon Musk just confirmed the next major AI bottleneck for 2027",
-          "url": "https://www.youtube.com/watch?v=yZhQQBUr0GE",
-          "upload_date": "20260831",
-          "date_label": "31 Aug 2026",
-          "ticker": "VST",
-          "company_name": "Vistra Corp.",
-          "reason": "Vistra is an independent power producer with approximately 44 gigawatts of capacity, relevant to powering the massive data center expansion required for AI compute buildout through 2027.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": null
-        },
         {
           "channel": "Mr. FIRED Up Wealth",
           "title": "4 BEST Stocks to BUY Now (I'M BUYING)!",

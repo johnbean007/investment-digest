@@ -25055,6 +25055,50 @@
         "MDB": 337.19,
         "META": 738.79
       }
+    },
+    "sY9DIuxZzmc": {
+      "channel": "Daniel Pronk",
+      "title": "Meta Is Up 30% - Is It Too Late To Buy?",
+      "upload_date": "20260930",
+      "url": "https://www.youtube.com/watch?v=sY9DIuxZzmc",
+      "processed_at": "2026-09-30T23:10:11.019042",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms Inc.",
+            "reason": "Meta stock is still undervalued despite a 30% rally from lows. The creator believes Meta's business has grown tremendously while the share price has only appreciated 6-7% since February when purchased at $680. Meta is leading in consumer agentic AI with Muse, which has achieved 3 million downloads in 9 days and is the #1 most downloaded app, surpassing ChatGPT. Meta has massive free distribution across Instagram, WhatsApp, and Facebook for new products. The company is building its own frontier AI models (Watermelon model coming soon) rather than relying on OpenAI or Anthropic, improving margins. Meta is diversifying revenue beyond advertising into hardware, business software, and AI agents. Using conservative DCF assumptions (15% annual growth, 14x P/OCF), the creator projects 15% CAGR and fair value of $827 with potential $1,100 price in 3 years. A more realistic scenario (20% growth, 15x P/OCF) yields 22.6% CAGR. Even on forward P/E of 23x next year's earnings, Meta remains reasonably valued as a highest-quality business with massive adoption and a durable moat.",
+            "when_to_buy": "On dips; creator plans to continue buying when cash becomes available after house closing, assuming price stays in what they consider a low range",
+            "target_price": "$1,100 per share (3-year target, representing 50% return); Fair value of $827 (conservative scenario); $1,000+ (realistic scenario with 20% growth and 15x P/OCF)",
+            "cautions": "Creator is currently low on cash due to house closing and needs to maintain liquidity. The monetization model for Muse beyond advertising is unclear \u2014 the revenue-sharing model where Meta takes a cut of user earnings is skeptical and may not work broadly. Transaction fees from e-commerce could be volatile and non-recurring. The creator is not fully convinced that Muse will completely disrupt businesses like Amazon, Airbnb, and Booking.com, believing consumers will still want to review options themselves rather than blindly trusting agent recommendations."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Bond yields have risen to 5.3% and are making 20-year highs, which could impact equity valuations and cost of capital. Interest rates have risen since the creator's absence.",
+          "Many stocks not in focus are actually in pretty large corrections despite market appearances, suggesting potential broader market weakness or sector-specific stress.",
+          "Amazon has blocked Meta's Muse from its platform due to concerns about agentic shopping disrupting its high-margin advertising business. This competitive friction could escalate and impact the monetization potential of Meta's agents.",
+          "Consumer behavior regarding agent-based purchasing decisions remains unproven \u2014 the creator expresses skepticism about whether consumers will truly book travel, purchase products, or make major decisions via AI agents without reviewing options themselves, which could limit the disruptive impact on digital economy business models."
+        ],
+        "tickers_mentioned": [
+          "META",
+          "AMZN"
+        ]
+      },
+      "price_at_recommendation": {
+        "META": 725.18
+      }
+    },
+    "AFMOTZ3QjjA": {
+      "channel": "Jose Najarro Stocks",
+      "title": "Micron Earnings Call LIVE -- AI Stocks!",
+      "upload_date": "20260930",
+      "url": "https://www.youtube.com/watch?v=AFMOTZ3QjjA",
+      "processed_at": "2026-09-30T23:10:18.318045",
+      "transcript_fails": 1,
+      "last_reason": "unavailable",
+      "terminal": true,
+      "skipped": "no transcript"
     }
   },
   "channel_ids": {

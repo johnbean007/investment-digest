@@ -25099,6 +25099,65 @@
       "last_reason": "unavailable",
       "terminal": true,
       "skipped": "no transcript"
+    },
+    "cIOHXqXkuLc": {
+      "channel": "CouchInvestor",
+      "title": "The Market Is Getting Micron Completely Wrong",
+      "upload_date": "20260930",
+      "url": "https://www.youtube.com/watch?v=cIOHXqXkuLc",
+      "processed_at": "2026-10-01T01:31:22.576359",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "MU",
+            "company_name": "Micron Technology",
+            "reason": "Micron reported an amazing quarter with 379% YoY revenue growth, 87% gross margins (up 210 basis points QoQ), and $33.2 billion in free cash flow. The company is trading at only 7.2x forward PE and 14.3x trailing PE, which is ridiculously undervalued given the quality of earnings and cash generation. The creator states this valuation makes no sense even on a bearish cyclical business view. Micron has 26 SCAs (supply contracts) signed with $150 billion minimum RPO, over 75% of 2027 output already committed, and visibility through 2028 showing tighter supply-demand balance than 2026. The company is on track for $250 billion in revenue in fiscal 2027 (almost 10 years of previous revenue in one year) and is expected to generate $168.7 billion in free cash flow in fiscal 2028, with even lower years still generating $145 billion in FCF. This cycle is fundamentally different from previous cycles with unprecedented cash generation. The creator still owns a position and likes what they have, though not planning to add at current levels.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The market currently disrespects the name due to cyclical business concerns and fears of future down cycles. Gross margins are expected to decline from peak levels, though remaining elevated. Q1 fiscal 2027 is the gross margin floor with higher margins expected thereafter. If the market continues to disrespect the stock, the creator indicated willingness to reallocate capital to Broadcom or Nvidia instead."
+          },
+          {
+            "ticker": "AVGO",
+            "company_name": "Broadcom Inc.",
+            "reason": "Broadcom has visibility to double AI revenue next year and then double that segment again, growing to $115 billion in just AI revenue (excluding rest of business), then doubling to $230 billion. The creator believes this name is undervalued with fears of future growth being overblown. The creator initiated a position last week and views Broadcom as a name where they would like to grow that position. It is positioned as one of the semiconductor/cloud/AI names where the market will shift perception positively from here on out.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Broadcom and Nvidia may face risks if companies like Entropic and OpenAI do not generate enough revenue to justify their valuations and complete their commitments. However, the creator notes that the need for compute will not disappear and will flow to other players even if specific AI companies falter."
+          },
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "The creator mentions having positioned themselves in Nvidia as part of the semiconductor/cloud/AI space where they believe better perception from the market is forthcoming. Nvidia is cited as an example of a stock that was flat for 7-8 months but then started rising, demonstrating it is a $5 trillion company that can still double its business and remain the number one player for the foreseeable future. The creator has other positions in this space and mentions Nvidia alongside Broadcom as names where capital could be allocated.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "General risks exist in semiconductor/cloud/AI space if perception shifts negatively or if AI companies like Entropic and OpenAI fail to generate sufficient revenue."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Entropic ARR has been flat for the past 2 months at $76.8 billion according to Ticker Trends data, despite significant growth over the past year. This is a red flag to monitor as OpenAI and Entropic need to back up their valuations with revenue and eventually profits.",
+          "OpenAI and Entropic face valuation risk if they do not generate enough revenue to justify current valuations and complete their commitments. Their ability to deliver on revenue projections is critical for the AI infrastructure ecosystem.",
+          "Memory semiconductor cycle risk: While Micron's current cycle appears fundamentally different from previous cycles with unprecedented cash generation and long-term contracts (SCAs), there remains embedded market fear of a traditional cyclical downturn. The market is pricing in cycle risk despite management guidance suggesting 2027-2028 will be tighter than 2026.",
+          "Perception and sentiment are driving short-term stock performance in semiconductor and AI names. Stocks can rise or crash before business fundamentals are actually affected. Investors should monitor quarterly guidance, model updates, and market sentiment shifts rather than relying solely on current quarter performance. Google demonstrated this by rallying 1.34% after hours on Gemini 4 announcement within 24 hours of creator's prediction."
+        ],
+        "tickers_mentioned": [
+          "MU",
+          "NEW",
+          "WDC",
+          "SNDK",
+          "AVGO",
+          "NVDA",
+          "AMD",
+          "GOOGL",
+          "META",
+          "MSFT"
+        ]
+      },
+      "price_at_recommendation": {
+        "NVDA": 228.38,
+        "AVGO": 351.19,
+        "MU": 1065.11
+      }
     }
   },
   "channel_ids": {

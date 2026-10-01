@@ -25158,6 +25158,41 @@
         "AVGO": 351.19,
         "MU": 1065.11
       }
+    },
+    "Ad2Pn32TWSs": {
+      "channel": "Jose Najarro Stocks",
+      "title": "Micron Just Confirmed the AI Memory Boom Isn\u2019t Ending",
+      "upload_date": "20261001",
+      "url": "https://www.youtube.com/watch?v=Ad2Pn32TWSs",
+      "processed_at": "2026-10-01T02:49:39.906478",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "MU",
+            "company_name": "Micron Technology",
+            "reason": "Micron is trading at a forward PE ratio of 5-7x after beating earnings expectations significantly (6% revenue beat, 5.7% EPS beat). Even without multiple expansion, the stock can appreciate through earnings growth alone. Management confirmed the AI memory boom is not ending with guidance showing further price increases through 2027 and 2028, tighter memory markets expected in 2027-2028, and substantial contracted revenue visibility through 2030. The company has $150 billion in remaining performance obligations and 35% of estimated revenue through 2030 is covered by multi-year take-or-pay contracts. With $33.2 billion in free cash flow and plans to return excess cash to shareholders starting December 9th through buybacks, the company has multiple catalysts for stock appreciation.",
+            "when_to_buy": "After earnings beat, though creator notes stock is flat initially. Potential near-term catalyst from analyst price target increases in coming days.",
+            "target_price": null,
+            "cautions": "Sequential growth is moderating (DRAM revenue growth slowed from 60% to high-teens sequentially). Gross margins are expected to dip to 86% in Q1 fiscal 2027 before recovering. Meaningful new capacity volume won't materialize until late 2028-2029. Consumer segment shows weakness with potential double-digit unit declines in 2026. The creator does not personally own Micron shares despite the bullish analysis."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Memory supply constraints are expected to persist through 2027-2028 even with industry bit shipment growth of 20% annually, which will create continued bottlenecks in the semiconductor supply chain. While bullish for memory companies, this constraint suggests AI infrastructure demand is significantly outpacing supply growth, creating potential for broader semiconductor supply shortages.",
+          "Consumer electronics segment is weakening significantly with potential double-digit unit declines expected in 2026 for PCs and phones due to memory price increases of approximately 50%. This weakness could offset strong data center and AI server demand if it spreads to other sectors.",
+          "New capacity additions are heavily back-loaded to late 2028 and beyond, meaning supply relief won't meaningfully arrive until 2029 at earliest. This creates execution risk on the current bullish thesis if demand falters before new supply comes online."
+        ],
+        "tickers_mentioned": [
+          "MU",
+          "NVDA",
+          "SANDISK",
+          "SKH",
+          "SAMSUNG"
+        ]
+      },
+      "price_at_recommendation": {
+        "MU": 1065.11
+      }
     }
   },
   "channel_ids": {

@@ -25193,6 +25193,317 @@
       "price_at_recommendation": {
         "MU": 1065.11
       }
+    },
+    "4upcAQKnwX0": {
+      "channel": "Mr. FIRED Up Wealth",
+      "title": "Why Micron Stock Is Down, Don\u2019t Buy Until You Watch This, Best Stocks to Buy Now",
+      "upload_date": "20261001",
+      "url": "https://www.youtube.com/watch?v=4upcAQKnwX0",
+      "processed_at": "2026-10-02T10:34:39.121920",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "MU",
+            "company_name": "Micron Technology",
+            "reason": "Micron just crushed earnings with 379% year-over-year EPS growth, beat revenue expectations by $2.76 billion at $54.23 billion, and provided exceptionally strong forward guidance of $61.5 billion at midpoint, which is 6.8% higher than analyst consensus. The company has strategically shifted to focus entirely on B2B enterprise and AI data centers, eliminating the cyclical nature of consumer electronics that historically plagued the stock. Micron has secured 26 strategic customer agreements (SCAs) with $150 billion in remaining performance obligations (RPO) extending to 2031, with 75% of 2027 output already committed. These contracts are structured with non-cancellable take-or-pay clauses and $32 billion in upfront customer cash deposits that act as collateral, making default risk extremely low. The stock trades at a PE ratio of 6.44 (likely closer to 6 post-earnings) compared to semiconductor industry average of 39.86, making it fundamentally undervalued. Gross margins remain exceptionally high at 86.25%, demonstrating strong pricing power. Custom memory architecture is locked in with hyperscalers like Nvidia, creating technological switching costs that make competitor substitution practically impossible mid-production cycle. Wall Street analyst consensus is overwhelmingly bullish with 24 buy ratings and 1 hold, no sells, with average price target of $1,563 (50% upside) and a range of $1,200-$2,200.",
+            "when_to_buy": "If you don't already own the stock and it dips lower, consider taking a starter position and dollar cost averaging. Potential support levels include the 50/100 day moving averages near $950-$960, the psychological floor at $1,000, or potentially down to $750 if there is a washout. Current price is $1,041.",
+            "target_price": "Wall Street average price target: $1,563 (50% upside). Range of analyst targets: $1,200-$2,200. Creator suggests over $1,500 is achievable with time.",
+            "cautions": "The stock has already tripled year-to-date (up 260% YTD, 465% over past year, 1,347% over five years), so sentiment is cautious and there is risk of pullback. Technical analysis suggests potential 50% retracement to the 200-day moving average around $670, though fundamentals support higher prices. All upside projections are not guaranteed and subject to macroeconomic risks. Primary risk is macroeconomic default where one of the 26 strategic customer tech giants could face bankruptcy or solvency issues, though this is unlikely in the next 1-2 years based on the quality of customers. FOMO chasing should be avoided. This is not a buy-and-hold-forever stock but rather a buy-and-monitor position for the next 1-2 years."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Market sentiment is bearish on Micron despite exceptional fundamentals due to the stock's parabolic run and historical perception of the company as cyclical. Most market participants (95%) do not understand that Micron's business model has fundamentally changed from consumer electronics to locked-in B2B data center contracts with multi-year visibility, making it far less cyclical than before.",
+          "When a stock has received an A+ rating across all metrics (profitability, growth, valuation, and momentum), and all Wall Street analysts are on the same side of the fence (24 buy, 1 hold, 0 sell), there is a general market principle that 'when everybody's on one side of the bus, the bus tips over,' suggesting caution from contrarian perspective. However, in this case, the fundamentals actually support the bullish consensus.",
+          "There is a disconnect between technical price action (which wants a 50% retracement) and fundamental valuation (which supports higher prices), creating potential near-term volatility and pullback risk even as long-term fundamentals remain strong."
+        ],
+        "tickers_mentioned": [
+          "MU",
+          "AMD",
+          "INTC",
+          "WDC",
+          "TSM",
+          "NVDA",
+          "ORCL"
+        ]
+      },
+      "price_at_recommendation": {
+        "MU": 1097.39
+      }
+    },
+    "izLekqHEYsE": {
+      "channel": "The Traveling Trader",
+      "title": "A Once in a Lifetime Rotation is Here. Stocks Will do the Unthinkable",
+      "upload_date": "20261002",
+      "url": "https://www.youtube.com/watch?v=izLekqHEYsE",
+      "processed_at": "2026-10-02T10:35:15.516783",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "WMT",
+            "company_name": "Walmart Inc.",
+            "reason": "Walmart is a consumer staples stock that has fallen significantly and represents a defensive play. The creator stated 'If we can get Walmart below $100, I think that would that would be a steal.' Consumer staples are considered defensive stocks that typically perform well when economic conditions are uncertain. With the staples sector down 11% from highs and in correction territory, Walmart offers a compelling entry point for investors seeking exposure to beaten-down sectors outside of tech.",
+            "when_to_buy": "Below $100",
+            "target_price": null,
+            "cautions": "While defensive stocks, staples fell as much as cyclicals due to rate shock rather than recession concerns. Investors should monitor the broader credit markets and yield environment before accumulating."
+          },
+          {
+            "ticker": "COST",
+            "company_name": "Costco Wholesale Corporation",
+            "reason": "Costco is a consumer staples holding that the creator has wanted to own but never had the chance to buy the dip. As part of the XLP consumer staples ETF, Costco has corrected significantly alongside other defensive stocks. The creator specifically mentioned analyzing stocks within the consumer staples sector as a major opportunity given the sector's 11% decline from highs.",
+            "when_to_buy": "On dips in the corrected consumer staples sector",
+            "target_price": null,
+            "cautions": "No specific cautions mentioned for Costco individually, but general sector caution applies regarding rate shock sensitivity."
+          },
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet Inc.",
+            "reason": "Google is a technology stock that remains down 10-15% from highs despite the tech sector making new all-time highs. The creator stated 'if you take certain tech stocks in isolation that are still in corrections like Amazon or like Google, are you going to go wrong buying these stocks that are currently down 10% 15% from highs? No. Of course, you could still buy them.' Google represents a discounted entry into a major tech holding while still benefiting from the sector's strength.",
+            "when_to_buy": "At current levels with 10-15% drawdown from highs",
+            "target_price": null,
+            "cautions": "The creator emphasized that the time to buy tech stocks in general has largely passed. Tech is no longer considered an asymmetric bet, and investors should have already been heavily invested if they wanted tech exposure. Google should be analyzed individually before purchase."
+          },
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon.com Inc.",
+            "reason": "Amazon is a technology stock currently down 10-15% from highs despite being part of a sector making new all-time highs. Similar to Google, the creator believes individual tech stocks still in corrections offer value. The creator asked rhetorically whether investors would 'go wrong buying these stocks that are currently down 10% 15% from highs? No. Of course, you could still buy them.'",
+            "when_to_buy": "At current levels with 10-15% drawdown from highs",
+            "target_price": null,
+            "cautions": "The creator noted that tech is no longer an asymmetric bet and the optimal time to buy tech has passed. Investors should have already been heavily invested in the sector if they wanted exposure. Amazon should only be considered by investors who specifically want tech exposure and have done individual fundamental analysis."
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms Inc.",
+            "reason": "Meta has finally broken through significant resistance with its latest Metaverse release and the creator believes it 'has a leg higher.' The stock 'finally crossed the frontier of resistance with the latest Muse release.' If Meta retests the 21 EMA at all-time highs, the creator sees further upside potential.",
+            "when_to_buy": "On a retest of the 21 EMA at all-time highs",
+            "target_price": null,
+            "cautions": "The creator cautioned that Meta at $500 and current levels is no longer a good buy as an asymmetric bet. While Meta has broken resistance, it should only be bought on technical dips to the 21 EMA, not at current elevated levels. The stock experienced significant zigzagging historically."
+          },
+          {
+            "ticker": "ARM",
+            "company_name": "Arm Holdings plc",
+            "reason": "ARM is coiling here at the EMAs and the creator is 'definitely looking for another setup' on this stock. It represents a technology holding with relative strength that the creator is actively monitoring for trading opportunities.",
+            "when_to_buy": "On breakout from current coil at EMAs",
+            "target_price": null,
+            "cautions": "This is a trading setup recommendation, not a long-term investment. The creator emphasized that trades require specific entries, exits, stop losses, and take-profit levels. Do not simply buy and hold without a trading plan."
+          },
+          {
+            "ticker": "COIN",
+            "company_name": "Coinbase Global Inc.",
+            "reason": "The creator is 'definitely looking for another setup on coin soon' because Bitcoin and cryptocurrency assets are expected to participate in an 'everything rally' in Q4 and later. Given the seasonality of Q4 in a midterm year and the expected market rally, cryptocurrency exposure through Coinbase is anticipated to benefit.",
+            "when_to_buy": "On setup formation in the near term",
+            "target_price": null,
+            "cautions": "This is a trading setup recommendation requiring specific entry and exit points. Cryptocurrency is volatile and dependent on broader market rallies materializing. Only allocate capital that you can afford to risk."
+          },
+          {
+            "ticker": "DRAM",
+            "company_name": "DRAM ETF (semiconductor memory)",
+            "reason": "DRAM, which is the ETF handling memory chips, is positioned to benefit from the semiconductor sector strength. Micron, a major holding, 'just reported earnings yesterday as of the time of this recording, absolutely killed it,' suggesting strong fundamentals in the memory chip space.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "This is part of the tech sector which is already extended. The creator believes the optimal entry point for tech was in June and July, not currently."
+          },
+          {
+            "ticker": "MRVL",
+            "company_name": "Marvell Technology Inc.",
+            "reason": "Marvell is one stock the creator is 'intently watching' because it has demonstrated relative strength through all the market volatility and sector turbulence. Despite the ups and downs of tech and the broader market, 'Marll has just been chilling here,' suggesting stable performance. The creator looks for stocks with relative strength, similar to how Dell performed, making Marvell an interesting watch.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "While Marvell shows relative strength, the creator is only 'watching' it, not actively recommending purchase. Any entry should be based on technical setup confirmation and individual fundamental analysis."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms Inc.",
+            "reason": "At current price levels around $500 and above, Meta is no longer considered a good buy as an asymmetric bet. The creator stated 'I don't think that something like Meta now is a good buy when it was sitting at $500 for weeks.' While the stock has broken resistance, it has extended significantly and lacks the asymmetric risk-reward profile that makes for a compelling investment at current levels.",
+            "risk": "Limited upside relative to risk given the extended move from lows and lack of asymmetric opportunity"
+          }
+        ],
+        "key_warnings": [
+          "The tech sector has already rallied significantly and made new all-time highs. The creator explicitly stated 'I think the time to buy tech stocks in general has long passed you. And if you did not buy in June and July, then I think that right now it is not an asymmetric bet.' Investors who missed the July-August tech bottom should focus on other opportunities rather than chasing tech stocks.",
+          "High yield spreads (junk bond spreads) must be monitored closely. If spreads widen above the 3.5 level, it would signal potential market trouble. While spreads are currently in typical range, they have widened since early September due to Fed hikes. A significant widening would indicate a market shakeout is likely.",
+          "Earnings estimates must be monitored. If earnings estimates start getting cut, this is 'obviously going to be a red flag' for the broader market. Current PEG ratios show the S&P 500 at historically cheap levels, but this valuation only holds if earnings growth materializes as expected.",
+          "The S&P 500 is structurally in correction across all sectors except tech, creating a dangerous bifurcation. While this is historically bullish, it means 'if we do see any more weakness in the index here, it will likely mean that tech is also falling.' The tech sector's strength is masking fundamental weakness across the broader market.",
+          "Yields are near multi-year highs at 5.34%, matching 2006 levels. While the creator expects the Fed to hold in October which could allow yields to cool, elevated yields remain a headwind for risk assets. Bond investors should monitor whether yield levels stabilize or continue rising."
+        ],
+        "tickers_mentioned": [
+          "SPY",
+          "XLK",
+          "NVDA",
+          "GOOGL",
+          "ASML",
+          "QQQ",
+          "NVO",
+          "OXY",
+          "DVN",
+          "UNH",
+          "MCD",
+          "WMT",
+          "JPM",
+          "BAC",
+          "XLF",
+          "BRK",
+          "V",
+          "MA",
+          "GS",
+          "WFC",
+          "XLP",
+          "COST",
+          "PG",
+          "KO",
+          "PM",
+          "TGT",
+          "INTC",
+          "DRAM",
+          "MU",
+          "META",
+          "MRVL",
+          "DELL",
+          "ARM",
+          "COIN",
+          "BTC",
+          "TLT",
+          "VGIT",
+          "SGOV",
+          "AMZN"
+        ]
+      },
+      "price_at_recommendation": {
+        "GOOGL": 338.24,
+        "AMZN": 248.23,
+        "DRAM": 62.03,
+        "META": 725.93,
+        "WMT": 104.26,
+        "ARM": 292.34,
+        "MRVL": 268.08,
+        "COIN": 189.29,
+        "COST": 914.94
+      }
+    },
+    "VKiM9eqfdJ8": {
+      "channel": "FinTek",
+      "title": "Top 9 Stocks to BUY NOW (High Growth Stocks)",
+      "upload_date": "20261001",
+      "url": "https://www.youtube.com/watch?v=VKiM9eqfdJ8",
+      "processed_at": "2026-10-02T10:36:00.966837",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "INTC",
+            "company_name": "Intel Corporation",
+            "reason": "Intel operates in two businesses: chip design (partnering with Nvidia on AI infrastructure with Nvidia investing $5 billion) and Intel Foundry (manufacturing chips for other companies). The company has received $8 billion in US Chips Act funding and $9 billion direct US government investment to expand manufacturing in Arizona, New Mexico, Oregon, and Ohio. Revenue is up 25% year-over-year with data center and AI products growing 59%. Intel Foundry grew 31% year-over-year. The thesis is that Intel's foundry business, while currently loss-making at $2 billion quarterly loss, represents a long-term growth opportunity as new fabs come online in 2030-2032 and external revenue grows beyond the current $293 million quarterly external revenue.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "This is a very long-term buy and hold stock with payoff potentially 5-10 years out. Intel is losing market share to AMD, which now has 41.3% of x86 server market share while AMD is nearly twice as valuable. Intel Foundry business is operating at a loss with no near-term profitability expected. The stock is up only 100% over 5 years compared to Nvidia up 900% and AMD up 500%."
+          },
+          {
+            "ticker": "ALGM",
+            "company_name": "Algro Micro Systems",
+            "reason": "Algro specializes in edge chips that control robotic movements, with application across electric vehicles (where they have strong track record), industrial robots, and humanoid robots. The company estimates they can sell $5 in chips per household robot, $55 for factory robots, and $150 per humanoid robot. Industrial business sales up 59% year-over-year with large design wins with robotics customers in China and North America. As robotics market grows and companies develop more robot joints, Algro gets paid per joint regardless of which robotics company dominates. The stock has not yet seen a big runup in value like trillion-dollar AI companies, potentially offering decent upside.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "69% of current revenue still comes from automotive, which is cyclical and will cause stock to go up and down multiple times even with long-term growth. Robotics growth still represents small part of overall business and needs to materialize at bottom line. Significant competition from China with steadily growing export value of industrial robots."
+          },
+          {
+            "ticker": "SMT",
+            "company_name": "Symbotic",
+            "reason": "Symbotic is a warehouse automation leader serving major companies including Walmart and Target with 21% year-over-year revenue growth now achieving consistent profitability. The company holds over 250 patents and partners with Nvidia on AI platform for computer vision and route optimization. July 2026 acquisition of Arms Innovation adds recurring software revenue stream with software revenue up 57% year-over-year not including the acquisition. Most recent quarter revenue exceeded $700 million, up 22% year-over-year. The company has $22.5 billion backlog (future revenue if delivered) and $514 billion cloud backlog. At current prices after 50%+ stock decline over past year, the company represents better valuation.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Walmart represents 90.5% of revenue (Customer A in 10Q filings), meaning if Walmart reduces commitment, Symbotic's business could decline significantly. While management has invested heavily in R&D ($100+ million this year) and shows strong customer demand, the company is extremely dependent on one customer. The company's ability to deliver on its $22.5 billion backlog is a key risk."
+          },
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet/Google",
+            "reason": "Google is a leader in multiple emerging technologies including AI (Gemini Omni), augmented reality (Project Genie, partnership with Warby Parker), and space-based AI computing (Project Suncatcher). The key investment thesis is Google Cloud, which grew revenue from $13 billion to over $24 billion year-over-year (89% growth) while operating income tripled from $2.8 billion to $8.8 billion. Google Cloud has 950 million active monthly Gemini app users and processes 22 billion API tokens per minute. Cloud backlog of $514 billion provides significant runway for growth. By most valuation metrics including PE ratio, the company is not super expensive despite recent 38% annual stock gain.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Google spent essentially all free cash flow in most recent quarter on AI infrastructure buildout and has been borrowing heavily to fund capital expenditure expansion. Bet depends on company growing cloud segment long enough to deliver results before any potential AI bubble bursts. Company's valuation looks expensive on cash flow metrics due to massive AI infrastructure spending."
+          },
+          {
+            "ticker": "ORCL",
+            "company_name": "Oracle",
+            "reason": "Oracle is rated 39% undervalued by Investing Pro based on long-term discounted cash flow. Cloud business grew 62% year-over-year to $11 billion in most recent quarter while cloud infrastructure specifically grew 121% year-over-year. Remaining performance obligations (future revenue backlog) reached $664 billion, up over $200 billion in past year. Company issued guidance for next quarter cloud revenue growth of 64-70%. Oracle is moving beyond pure commodity hardware to develop AI data platform software (enterprise ontology) similar to Palantir's offering. Company has major contracts with OpenAI to build AI data centers. Valued at approximately 10% the value of Google.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "High-risk, high-reward situation with bimodal outcomes. Oracle is on the hook to pay for data center construction immediately but only receives revenue as customers use the infrastructure. Company required tens of billions in bank loans to fund buildout. Risk of bankruptcy or significant losses if unable to service debt, though company has $664 billion backlog contracts. September 2026 New Mexico data center project delayed with force majeure notice issued for rent payments, raising execution concerns. Most risk lies in next quarter results."
+          },
+          {
+            "ticker": "CRWD",
+            "company_name": "CrowdStrike",
+            "reason": "CrowdStrike sits at intersection of AI and cybersecurity, two defining technologies of next decade. Company has been using machine learning and threat graphs to proactively identify cyber attack patterns for years, not just recently adding AI branding. Named leader in proactive security platforms by Forrester and has been Gartner Magic Quadrant leader for endpoint protection for 5+ years. Annual recurring revenue up 25% year-over-year with rapidly growing total addressable market expected to reach $150 billion annually in 2026 as company adds more tools to agentic security platform.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Stock is already up 160% in past year making it extremely expensive by virtually any valuation metric. Creator trimmed position from 20%+ of portfolio to 464 shares (currently valued at $100,000) even though holding for long-term. Stock is up nearly 600% total since creator first invested, indicating significant valuation risk at current prices."
+          },
+          {
+            "ticker": "EFV",
+            "company_name": "iShares MSCI EAFE Value ETF",
+            "reason": "Based on valuation analysis showing US stocks trading at 99th percentile for valuations while developed markets outside US trade at 74-81st percentile. Forward PE ratios show US growth stocks at 26 versus European value stocks at 12 (less than half). Vanguard and GMO analysis indicates international value stocks have better long-term return potential. EFV includes large developed market companies like Nestle, Mitsubishi, Shell, and HSBC Holdings across all developed markets except US.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "These are value stocks, not growth stocks, so price appreciation may be limited. Returns depend on multiple expansion or dividend income."
+          },
+          {
+            "ticker": "AVDV",
+            "company_name": "Avantis International Small Cap Value ETF",
+            "reason": "Targets small cap value stocks outside United States trading at low valuations. International small cap stocks have PE ratio of 14 versus US growth stock PE of 26. Focuses on overlooked opportunities in developed markets with slightly higher expense ratio than broader value ETFs. Companies include Austria Technology and System stock, Perseus Mining, and Seal Insurance.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Small cap stocks carry higher volatility and less liquidity than large cap alternatives. Value investing typically requires patience for multiple expansion."
+          },
+          {
+            "ticker": "EWJV",
+            "company_name": "iShares Japan Value ETF",
+            "reason": "Japan represents potentially cheapest market globally with small cap value stocks having forward PE ratio of 14 (almost half US growth stocks at 26) and highest GMO forecast for returns among international markets. Warren Buffett has been investing aggressively in Japan as he hands over Berkshire Hathaway reins. Expense ratio of 0.15% includes major Japanese companies like Panasonic, SoftBank, Mizuho, Toyota, and Mitsubishi.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Japanese market exposure includes currency risk and different economic dynamics from US. Conservative value play with potentially lower growth trajectory."
+          },
+          {
+            "ticker": "KASE",
+            "company_name": "Kaspi (Kazakhstan fintech)",
+            "reason": "Following Monish Pabrai's investment strategy of finding overlooked businesses at right prices with strong cash generation. Company produces $2 billion in cash flow annually with no other Kazakhstani company producing similar cash returns. Stock collapsed when company paused dividend to build acquisition cash. Trading at PE ratio of 7.39, unheard of valuation for fintech stock. Paying dividend yield of 8.16%. Ad and delivery revenue growing 49% year-over-year.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Not expected to 10x in price. Small position with 15% unrealized loss since initial purchase. Emerging market and single-country concentration risk. Extremely small and illiquid compared to US stocks."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "US stock market valuations at historic highs with Buffett indicator at 230%, highest ever recorded, suggesting market could be overvalued. Vanguard reports US stock valuations at 99.7th percentile as of video date.",
+          "GMO forecasts predict US large cap and small cap growth stocks will decline going forward in both normal and low interest rate environments, while only deep value US stocks forecast to return approximately 0%.",
+          "Massive AI infrastructure buildout by major tech companies (Google, Microsoft, Oracle, etc.) funded by borrowed capital raises questions about returns on invested capital and sustainability of AI spending levels.",
+          "Artificial intelligence systems showing concerning autonomy in security tests, with OpenAI's test accidentally breaching HuggingFace and attempting four other breaches without human direction, highlighting underappreciated risks of AI development."
+        ],
+        "tickers_mentioned": [
+          "INTC",
+          "NVDA",
+          "AMD",
+          "ALGM",
+          "SMT",
+          "GOOGL",
+          "ORCL",
+          "CRWD",
+          "IBOT",
+          "ROBO",
+          "EFV",
+          "AVDV",
+          "EWJV",
+          "KASE"
+        ]
+      },
+      "price_at_recommendation": {
+        "GOOGL": 338.24,
+        "INTC": 120.0,
+        "ORCL": 138.07,
+        "EFV": 77.88,
+        "CRWD": 266.09,
+        "ALGM": 36.38,
+        "AVDV": 108.06,
+        "EWJV": 48.02
+      }
     }
   },
   "channel_ids": {

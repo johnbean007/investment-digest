@@ -25504,6 +25504,36 @@
         "AVDV": 108.06,
         "EWJV": 48.02
       }
+    },
+    "oZEDVZCjxNM": {
+      "channel": "Daniel Pronk",
+      "title": "I Just Bought More Of This Stock - Here's Why",
+      "upload_date": "20261002",
+      "url": "https://www.youtube.com/watch?v=oZEDVZCjxNM",
+      "processed_at": "2026-10-02T16:50:33.392814",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "BAM",
+            "company_name": "Brookfield Asset Management",
+            "reason": "Brookfield Asset Management is trading at a forward P/E ratio of only 20, near its lowest valuation ever, despite being down 30% from all-time highs. The business is growing fee-bearing capital and fee-related earnings at 19% year-over-year, with every business segment hitting new records. The company has successfully integrated Oak Tree, a counter-cyclical credit business that will smooth earnings growth when the economy weakens\u2014addressing a historical weakness. BAM's private wealth products have experienced zero quarters of net outflows and redemptions, unlike competitors, because their strategies focus on real assets supporting global infrastructure buildout which is experiencing massive tailwinds. The company is expecting fee-bearing capital to double over the next 5 years (91% of which is permanent capital that cannot be redeemed), with fee-related earnings projected to reach $6.6 billion by 2031 ($48 per share) at a 16% compounded annual growth rate. Distributable earnings are expected to grow at 18% annually with realized carried interest adding $1.35 billion by 2031. The stock offers a 4.5% going-in dividend yield that should grow 15% annually, and the creator's conservative DCF analysis projects an 18% compounded annual return over 5 years with share price doubling from $44 to $88. The business can grow 15-20% annually while paying out 95-100% of distributable earnings as dividends, with additional upside from mergers and acquisitions not included in current guidance.",
+            "when_to_buy": "Current correction presents a compelling entry point; creator purchased additional shares while traveling in Italy",
+            "target_price": "$88 US over 5 years (from current levels); fair value of $63 US",
+            "cautions": "Realized carried interest targets have been slightly behind due to rising interest rates impacting real estate and asset values, requiring a normalization process. Creator is being more conservative with 15% distributable earnings growth versus company's 18% guidance and potential 20%+ with M&A and other tailwinds. Distributable earnings per share currently running about 8% behind original 2024 targets, though fee-related earnings remain on track."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Negative sentiment in the asset management sector is creating a valuation disconnect. Many of Brookfield's competitors are experiencing significant redemptions and have implemented redemption limits, causing negative headlines and weakening sentiment toward the entire asset management space. However, this presents an opportunity for Brookfield, which is not experiencing the same redemption pressures and is actually attracting record capital.",
+          "Rising interest rates have pressured real estate and asset valuations, causing some of Brookfield's targets (particularly realized carried interest) to be pushed out further. However, the creator believes this is temporary and that falling interest rates in the future could provide additional tailwinds to the business."
+        ],
+        "tickers_mentioned": [
+          "BAM"
+        ]
+      },
+      "price_at_recommendation": {
+        "BAM": 44.62
+      }
     }
   },
   "channel_ids": {

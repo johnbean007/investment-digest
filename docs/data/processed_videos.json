@@ -25534,6 +25534,102 @@
       "price_at_recommendation": {
         "BAM": 44.62
       }
+    },
+    "CLXV7Cqu33I": {
+      "channel": "Ticker Symbol: YOU",
+      "title": "NVIDIA Made Me Rich. I'm Buying This Stock Next.",
+      "upload_date": "20261003",
+      "url": "https://www.youtube.com/watch?v=CLXV7Cqu33I",
+      "processed_at": "2026-10-04T08:23:11.684791",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "MU",
+            "company_name": "Micron Technology",
+            "reason": "The creator plans to keep buying Micron stock because memory is a universal input needed by every processor regardless of which company wins the GPU or CPU market competition. Micron's data center segment generated $34 billion last quarter, almost three times more than AMD's and Intel's data center revenues combined. The company has locked in over a third of total revenues through 2030 with $32 billion in customer commitments and long-term contracts with price floors. Micron generated $33 billion in free cash flow last quarter with $68 billion more in cash than debt, and plans to increase share buybacks. High-bandwidth memory represents a meaningfully different cycle from previous downturns because it uses three times as much silicon as regular DRAM, creating ongoing supply constraints. Micron's current valuation at under 7x forward earnings assumes a 60% drop in long-term earnings despite analysts expecting earnings to keep rising into 2028, making it significantly undervalued compared to peers trading at 17-18x earnings.",
+            "when_to_buy": "Now, with plan to continue buying, but stop if DRAM contract prices start to flatten or fall while capital spending continues",
+            "target_price": "Over $2,700 per share if valued at 17-18x forward earnings like Nvidia and Broadcom",
+            "cautions": "Memory has brutal boom-bust cycles; stock could drop hard while earnings are still growing. Micron trades at lowest multiples right at earnings peaks (traded at 4.5x in Jan 2018 before 27% drop, 6.5x in June 2022 before 35% drop). Price increases are already slowing (60% jump in spring, less than 20% in summer, expecting slower increases going forward). Margins will fall as new $25+ billion fab spending ramps up. Samsung's HBM market share jumped from 21% to 33% in a single quarter while Micron's fell from 21% to 18%. Risk that memory supply from Samsung and SK Hynix production ramps hit market between mid-2027 and late-2028."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices",
+            "reason": "AMD is trading at over 45 times next year's expected earnings versus peers like Nvidia and Broadcom at 17-18x. For AMD to justify its current price at a 17-18x multiple, the company would need to earn approximately $35 per share next year, but Wall Street expects only $15.60, meaning AMD would need to more than double earnings again from current levels. AMD's stock price already has many years of fast growth baked into it and the company must continue winning share of CPU and GPU markets, which becomes increasingly difficult as it faces competition from ARM-based chips, Nvidia's custom Vera chips, and customers' custom chips. Additionally, OpenAI and Meta hold warrants to buy up to 160 million shares each at 1 cent per share, which means they could own up to 16% of AMD combined after dilution once AMD stock hits $600 per share (already achieved), representing a significant downside for current shareholders.",
+            "risk": "AMD stock price would be under $250 per share if valued at the same 17-18x multiple as Nvidia and Broadcom. Up to 16% shareholder dilution from OpenAI and Meta warrant exercises. Stock is priced to perfection with limited margin of safety."
+          }
+        ],
+        "key_warnings": [
+          "Memory chip industry experiences severe boom-bust cycles. Micron's valuation metric (under 7x forward earnings) historically coincides with major drawdowns - this same metric preceded a 27% decline in 2018 and a 35% decline in 2022. The market is betting this cycle ends the same way previous ones have.",
+          "AI agent architecture is fundamentally different from GPU-only training workloads, shifting the GPU-to-CPU ratio from 8:1 down to 2:1 or even 1:1 in some cases. This creates supply chain tightness in CPUs and especially memory, but supply dynamics will change as new fabs from Micron, Samsung, and SK Hynix come online between mid-2027 and late-2028.",
+          "Memory price increases are already decelerating significantly (from 60% in spring to under 20% in summer), and Micron expects slower price increases going forward. A substantial portion of Micron's recent earnings growth came from price increases rather than volume, making forward earnings sustainability questionable as prices normalize.",
+          "High-bandwidth memory demand is cannibalizing regular DRAM supply across the industry. HBM ratio increases with each generation, potentially creating a supply crisis for regular DRAM but also increasing total memory unit demand in ways that could shift the competitive balance."
+        ],
+        "tickers_mentioned": [
+          "MU",
+          "AMD",
+          "NVDA",
+          "TSM",
+          "INTC",
+          "SAMSUNG",
+          "SK_HYNIX"
+        ]
+      },
+      "price_at_recommendation": {
+        "AMD": 633.91,
+        "MU": 1074.89
+      }
+    },
+    "jAtRNbIWaOw": {
+      "channel": "Jose Najarro Stocks",
+      "title": "NVIDIA Just Changed the AI Market AGAIN \u2014 Here\u2019s What Comes Next",
+      "upload_date": "20261004",
+      "url": "https://www.youtube.com/watch?v=jAtRNbIWaOw",
+      "processed_at": "2026-10-04T08:23:36.859711",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Nvidia continues to dominate the AI market with multiple bullish catalysts. GPT-6 Astra Ultrafast runs on Blackwell and delivers up to 18 times faster token generation than Astra Standard, demonstrating Nvidia's capability in speed\u2014an area where competitors previously claimed Nvidia would struggle. The programmability and system design of Nvidia's GPUs allowed the AI model to be optimized for ultra-fast solutions. Nvidia's stock hit almost $238 hitting all-time highs with a market cap of almost $5.7 trillion, and recently paid a dividend of 25 cents. The creator believes token consumption will continue to increase dramatically, creating a persistent supply-demand imbalance that will continue to benefit Nvidia for at least the next 24 months (through October 2028). The release of OpenAI's DOTS AI assistant is expected to drive increased token usage and tool calling, further supporting semiconductor demand. Additionally, GPU pricing continues to increase across AWS offerings (B300, B200, H100, H200, and even the 6-year-old A100), indicating strong market demand and pricing power.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Year-to-date stock is only up 23%, which some may view as underperformance despite being solid returns. The creator notes that saying Nvidia changes the market every week might create complacency among investors."
+          },
+          {
+            "ticker": "MU",
+            "company_name": "Micron Technology",
+            "reason": "Memory supply constraints are creating a bullish thesis for Micron. Nvidia's release of the new 64GB DGX Spark configuration at approximately $5,000 starting October 23rd reveals the memory pricing dynamics: the original 128GB model launched at approximately $4,000, rose to $4,700 in February, and is now priced at approximately $7,000. This means Nvidia is now selling a 64GB model (half the memory) for $1,000 more than the original 128GB model cost. This demonstrates severe memory supply constraints driving prices upward. Other products like Google Pixel 10a have also increased prices by $100 primarily due to memory pricing. The creator reinforces that this memory supply constraint is not changing in the near term and will continue to support strong pricing for memory manufacturers.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The creator mentions they covered Micron earnings a few days prior in another deep dive, suggesting investors should review that prior analysis. The timing and duration of elevated memory prices remains uncertain, though the creator believes it will persist at least through the near term."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "CBRS",
+            "company_name": "Cerebras Systems",
+            "reason": "Cerebras faced a significant 'oh crap moment' when Nvidia announced that GPT-6 Astra Ultrafast runs on Blackwell GPUs, delivering 18 times faster token generation than Astra Standard. This undermines Cerebras' competitive positioning because Ultrafast was supposed to be a key Cerebras solution in partnership with OpenAI. The concern is that Nvidia\u2014the company that Cerebras was positioned to replace in certain AI workloads\u2014has now proven it can also deliver ultra-fast solutions through superior programmability and system design. This creates fear that when Vertex Rubin is released with its LPX solution, it will represent an even more massive competitor to Cerebras in the ultra-fast space. The creator notes that Cerebras recently went IPO and the stock was up nearly 20% in the prior five days before this news, suggesting the ultra-fast positioning was a key part of the investment thesis. While Samman's clarification (released Friday after market close) about continued deep partnerships with Cerebras provided some relief (stock up 3% after-hours), the creator acknowledges continued uncertainty about Cerebras' competitive moat.",
+            "risk": "The creator states 'I don't think it's game over for Cerebras either' but signals ongoing uncertainty with statements like 'every time you start to see another player do ultra fast solutions you start to wonder is this the end for cerebras because somebody else can do it as well.' The fundamental concern is that competitors have now demonstrated capability in areas where Cerebras was differentiated."
+          }
+        ],
+        "key_warnings": [
+          "Token supply-demand imbalance will persist but is not guaranteed forever. The creator expresses strong conviction that the imbalance will continue through at least October 2028 (24 months from October 2026), but this is a time-bounded thesis. If AI adoption plateaus, inference becomes more efficient, or new competitors successfully enter the market, this tailwind could reverse.",
+          "GPU pricing increases across AWS (15% increases for B300, B200, H100, H200 and price increases for the 6-year-old A100) may eventually face resistance if cloud providers seek alternative chip solutions or if hyperscalers increase their own chip design efforts to reduce dependency.",
+          "The AI agent market (exemplified by DOTS, Muse, and others) is entering an 'AI assistant war' phase. While the creator views this as bullish for token consumption and AI hardware, competitive intensity and potential commoditization of AI services could pressure pricing and margins faster than currently anticipated."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "CBRS",
+          "MU"
+        ]
+      },
+      "price_at_recommendation": {
+        "NVDA": 233.95,
+        "CBRS": 166.43,
+        "MU": 1074.89
+      }
     }
   },
   "channel_ids": {

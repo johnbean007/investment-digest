@@ -25630,6 +25630,192 @@
         "CBRS": 166.43,
         "MU": 1074.89
       }
+    },
+    "DuKtkqkhR_c": {
+      "channel": "CouchInvestor",
+      "title": "I Just Bought $8,000 of These 2 Stocks. Here's Why",
+      "upload_date": "20261004",
+      "url": "https://www.youtube.com/watch?v=DuKtkqkhR_c",
+      "processed_at": "2026-10-04T20:28:42.210611",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "MU",
+            "company_name": "Micron Technology",
+            "reason": "Stock is extremely cheap with a trailing PE of 14.5x and forward PE of 6.1x despite being up 240% year-to-date. The company is expected to generate an insane amount of revenue over the next couple of quarters. Analysts are projecting double revenue in fiscal 27, though the creator believes these projections are too low, especially when the company is targeting 50% of its revenue from 2030-2031 products compared to the current 35%. Free cash flow projections are incredible at $144.4 billion in fiscal 27, $173 billion in fiscal 28, and $179 billion in fiscal 29. A major catalyst is expected to be a share buyback announcement in December, which could be as large as $100 billion over 3-5 years.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Stock has been flat after recent earnings despite strong fundamentals, suggesting potential waiting period similar to Nvidia's 7-month flat period. There are also US midterms and oil price uncertainties that could impact near-term sentiment."
+          },
+          {
+            "ticker": "CWEB",
+            "company_name": "CoreWeave",
+            "reason": "Still undervalued and underappreciated in the AI infrastructure space despite being down 35% from highs. The company has an insane amount of backlog and is focused on connected energy and active power solutions. Analysts project it is sold out for 2027, which reduces risk, particularly around the company's debt profile. The creator is waiting for more clarity on whether the 'sold out' status means they can still command higher pricing for shorter-term deals, which will be revealed in the next earnings report.",
+            "when_to_buy": null,
+            "target_price": "$141 (average analyst price target mentioned)",
+            "cautions": "Current market cap of $49.4 billion is down significantly. The creator needs clarity on whether being sold out provides pricing power or if all capacity is locked in at lower prices. Sentiment change is needed for the stock to re-rate higher."
+          },
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "The creator increased their position by $6,000 (26 shares) and views this as a lucrative cash position to build gradually. The company continues to benefit from AI infrastructure buildout and remains a core holding despite being up significantly this year.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Already up significantly year-to-date. The creator views this as a long-term position to be built up over time rather than a tactical opportunity."
+          },
+          {
+            "ticker": "NEWR",
+            "company_name": "New Relic",
+            "reason": "Added $150 shares (10.5% increase) at $1,260 per share following the rumor of a Monzo acquisition that temporarily pushed the stock down. The creator viewed this as an opportunity to buy an excellent company at a discount. After CEO clarified they are focused on core markets and US expansion rather than pursuing acquisitions, the stock recovered, validating the purchase.",
+            "when_to_buy": "Recent dip to $1,260 per share used as entry point",
+            "target_price": null,
+            "cautions": "Stock is still undervalued but investors are waiting for clearer business catalysts and messaging. The market seems uncertain about the company's strategic direction."
+          },
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet (Google)",
+            "reason": "Trading in an accumulation zone at relatively stable prices ($240-$255 range), suggesting good entry points for long-term investors. The company remains one of the best positioned plays for the future.",
+            "when_to_buy": "Current accumulation zone around recent price levels",
+            "target_price": null,
+            "cautions": "No specific cautions mentioned for Google."
+          },
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon",
+            "reason": "Still considered one of the best plays for the future. Trading in an accumulation zone between $240-$255. The creator believes investors will sleep very well holding this company long-term.",
+            "when_to_buy": "Current accumulation zone",
+            "target_price": null,
+            "cautions": "No specific cautions mentioned for Amazon."
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms",
+            "reason": "Undervalued name for the future despite recent strong performance. Recent pullback from $750 back to $728 presents opportunity. The company has had an amazing couple of weeks showing momentum in AI and metaverse investments.",
+            "when_to_buy": "Better buying zones would be closer to $680-$710 range",
+            "target_price": null,
+            "cautions": "Recent pullback from highs suggests some consolidation; creator recommends waiting for better entry points rather than chasing."
+          },
+          {
+            "ticker": "RKLB",
+            "company_name": "Rocket Lab",
+            "reason": "Getting more momentum, closing the week near $74 per share and leaving the $60 areas. Securing new big contracts for Electron with backlog expected to continue growing. Company is working on Neutron development which could be a major growth driver.",
+            "when_to_buy": "Better buying zone would be in the $60s for long-term shareholders",
+            "target_price": null,
+            "cautions": "Still near recent highs; creator suggests waiting for pullback to $60s for better entry."
+          },
+          {
+            "ticker": "SOFI",
+            "company_name": "SoFi Technologies",
+            "reason": "Stock is down 40% year-to-date and trading in a major buy zone for long-term investors despite current macro pressure. The company fundamentals remain strong with significant growth. Stock is under pressure due to macro environment, not business deterioration. Company expected to report October 27th with potential for another triple beat, following track record of beating expectations.",
+            "when_to_buy": "Current major buy zone; expected earnings October 27th could provide clarity",
+            "target_price": null,
+            "cautions": "Under pressure from macro headwinds not business fundamentals. Short-term investors will suffer as stock is down significantly. Need to be patient as long-term investor."
+          },
+          {
+            "ticker": "NFLX",
+            "company_name": "Netflix",
+            "reason": "Currently a value play with cheap valuation. Trading PE of 21.1x and forward PE of 19.4x with PEG ratio under 1. Very profitable company. The creator sold half the position but kept the other half as a value play better than sitting in cash. Netflix is investing heavily in live events and sports programming which generate signups, advertising revenue, and retention despite near-term engagement headwinds. Streaming TV CPM of $37 is best-in-class among all platforms. Revenue growth is expected to continue with low double digits even if engagement metrics are pressured short-term.",
+            "when_to_buy": "Current depressed valuation presents opportunity; could wait for next earnings report for more clarity",
+            "target_price": null,
+            "cautions": "Stock is down 26.2% year-to-date with 37.7% drawdown. Engagement growth slowing. Market wants to see faster overall growth (15-17%) not just low double-digit revenue growth. Company's decision not to buy a major studio disappointed market. Projections suggest maturing business with only 8% growth potential in 3 years, which concerns growth investors."
+          },
+          {
+            "ticker": "NBIX",
+            "company_name": "Nebus",
+            "reason": "One of the names that keeps crushing it time and time again with strong execution. At number one position in the portfolio, up 362% year-to-date despite the creator averaging up, representing 21% of portfolio allocation.",
+            "when_to_buy": "Creator suggests not chasing current levels; wait for pullback closer to $200-$215",
+            "target_price": null,
+            "cautions": "Stock is at elevated levels and highly volatile (could be up or down 10% in a single day). Creator recommends waiting for pullback before adding more."
+          },
+          {
+            "ticker": "RDDT",
+            "company_name": "Reddit",
+            "reason": "Company will continue to grow, generate more revenue and profits, and expand average revenue per user. Long-term growth story remains intact.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Stock is under pressure and not moving much despite positive fundamentals. Creator is keeping allocation low because waiting for a catalyst in the form of a new AI data licensing deal announcement with Google, OpenAI, or Anthropic. Without this catalyst, upside is limited near-term."
+          },
+          {
+            "ticker": "AXON",
+            "company_name": "Axon Enterprise",
+            "reason": "Still in a very good buying area in the low $400s. Amazing company that benefits from adoption of AI in law enforcement and society broadly. Strong secular tailwinds from digital transformation.",
+            "when_to_buy": "Current levels in low $400s represent good entry",
+            "target_price": null,
+            "cautions": "Stock is still expensive on absolute valuation basis, though less expensive than before. Not a cheap stock but fairly priced for quality."
+          },
+          {
+            "ticker": "MELI",
+            "company_name": "Mercado Libre",
+            "reason": "Stock has pulled back from $2,000 per share to under $1,700, which represents a perfect buying zone. For long-term investors, this is a great pickup at discounted levels. Company fundamentals remain strong.",
+            "when_to_buy": "Current levels under $1,700 represent perfect buying zone",
+            "target_price": null,
+            "cautions": "Brazil elections are happening which could cause short-term volatility, but creator believes this won't impact the long-term business."
+          },
+          {
+            "ticker": "UBER",
+            "company_name": "Uber Technologies",
+            "reason": "Very profitable and undervalued name that is under pressure. Trading near support zone just under $70 per share, representing a buying opportunity. Strong fundamental business with multiple growth drivers.",
+            "when_to_buy": "Current support zone just under $70 per share",
+            "target_price": null,
+            "cautions": "Stock is under pressure despite profitability improvements. Market seems uncertain about autonomous vehicle adoption implications and the integration of Delivery Hero acquisition. Big acquisitions take time to show synergies."
+          },
+          {
+            "ticker": "AVGO",
+            "company_name": "Broadcom",
+            "reason": "Fresh position at 2.46% of portfolio. Creator plans to probably add more pretty soon to this position. Company benefits from AI infrastructure buildout and semiconductor demand. Creator is considering making a dedicated video about why Broadcom has become increasingly interesting to investors.",
+            "when_to_buy": "At current prices and valuations; creator plans to add more if prices remain stable",
+            "target_price": null,
+            "cautions": "No specific cautions mentioned; this is a core infrastructure AI play."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Macroeconomic uncertainty including US midterm elections and oil price movements could impact overall market sentiment and stock valuations near-term.",
+          "Multiple high-quality companies are trading at depressed valuations due to macro headwinds rather than fundamental deterioration; this requires patience and conviction from long-term investors.",
+          "Market sentiment is currently challenging for growth and profitability stories; investors are waiting for clearer catalysts and earnings confirmations before rewarding valuations."
+        ],
+        "tickers_mentioned": [
+          "MU",
+          "CWEB",
+          "NVDA",
+          "NEWR",
+          "GOOGL",
+          "AMZN",
+          "META",
+          "RKLB",
+          "SOFI",
+          "NFLX",
+          "NBIX",
+          "RDDT",
+          "AXON",
+          "MELI",
+          "UBER",
+          "AVGO",
+          "AMD",
+          "HOOD",
+          "PLTR",
+          "RBL",
+          "OSCR",
+          "DLO"
+        ]
+      },
+      "price_at_recommendation": {
+        "NVDA": 233.95,
+        "RKLB": 73.92,
+        "RDDT": 147.86,
+        "AXON": 413.35,
+        "GOOGL": 343.5,
+        "NFLX": 67.06,
+        "UBER": 68.11,
+        "AVGO": 355.14,
+        "MELI": 1696.56,
+        "AMZN": 251.52,
+        "CWEB": 17.39,
+        "MU": 1074.89,
+        "SOFI": 15.77,
+        "META": 728.08,
+        "NBIX": 143.18
+      }
     }
   },
   "channel_ids": {

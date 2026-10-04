@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-04T09:28:21.620686",
-  "video_count": 69,
+  "generated_at": "2026-10-04T20:31:07.478764",
+  "video_count": 70,
   "stock_count": 137,
   "stocks": [
     {
@@ -684,7 +684,7 @@
     {
       "ticker": "AMZN",
       "company_name": "Amazon.com Inc.",
-      "buy_count": 14,
+      "buy_count": 15,
       "avoid_count": 0,
       "first_mention_date": "05 Sep 2026",
       "price_at_first_mention": 258.51,
@@ -909,6 +909,19 @@
           "when_to_buy": "At current levels with 10-15% drawdown from highs",
           "target_price": null,
           "cautions": "The creator noted that tech is no longer an asymmetric bet and the optimal time to buy tech has passed. Investors should have already been heavily invested in the sector if they wanted exposure. Amazon should only be considered by investors who specifically want tech exposure and have done individual fundamental analysis."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Just Bought $8,000 of These 2 Stocks. Here's Why",
+          "url": "https://www.youtube.com/watch?v=DuKtkqkhR_c",
+          "upload_date": "20261004",
+          "date_label": "04 Oct 2026",
+          "ticker": "AMZN",
+          "company_name": "Amazon",
+          "reason": "Still considered one of the best plays for the future. Trading in an accumulation zone between $240-$255. The creator believes investors will sleep very well holding this company long-term.",
+          "when_to_buy": "Current accumulation zone",
+          "target_price": null,
+          "cautions": "No specific cautions mentioned for Amazon."
         }
       ],
       "avoids": [],
@@ -1163,7 +1176,7 @@
         "ma200": 1539.72,
         "ma_signal": "golden_cross",
         "pe_trailing": 64.92733,
-        "pe_forward": 32.092117,
+        "pe_forward": 32.056778,
         "peg_ratio": 1.15,
         "revenue_growth": 0.213,
         "earnings_growth": 0.285,
@@ -1330,7 +1343,7 @@
     {
       "ticker": "AVGO",
       "company_name": "Broadcom Inc.",
-      "buy_count": 13,
+      "buy_count": 14,
       "avoid_count": 0,
       "first_mention_date": "04 Sep 2026",
       "price_at_first_mention": 357.16,
@@ -1542,6 +1555,19 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": "Broadcom and Nvidia may face risks if companies like Entropic and OpenAI do not generate enough revenue to justify their valuations and complete their commitments. However, the creator notes that the need for compute will not disappear and will flow to other players even if specific AI companies falter."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Just Bought $8,000 of These 2 Stocks. Here's Why",
+          "url": "https://www.youtube.com/watch?v=DuKtkqkhR_c",
+          "upload_date": "20261004",
+          "date_label": "04 Oct 2026",
+          "ticker": "AVGO",
+          "company_name": "Broadcom",
+          "reason": "Fresh position at 2.46% of portfolio. Creator plans to probably add more pretty soon to this position. Company benefits from AI infrastructure buildout and semiconductor demand. Creator is considering making a dedicated video about why Broadcom has become increasingly interesting to investors.",
+          "when_to_buy": "At current prices and valuations; creator plans to add more if prices remain stable",
+          "target_price": null,
+          "cautions": "No specific cautions mentioned; this is a core infrastructure AI play."
         }
       ],
       "avoids": [],
@@ -1550,7 +1576,7 @@
     {
       "ticker": "AXON",
       "company_name": "Axon Enterprise Inc.",
-      "buy_count": 4,
+      "buy_count": 5,
       "avoid_count": 0,
       "first_mention_date": "06 Sep 2026",
       "price_at_first_mention": 515.67,
@@ -1645,6 +1671,19 @@
           "when_to_buy": "Currently in buy zone",
           "target_price": "Resistance at $56",
           "cautions": "Stock is under pressure from a valuation standpoint, suggesting the company may be overvalued on fundamentals despite technical buy signals."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Just Bought $8,000 of These 2 Stocks. Here's Why",
+          "url": "https://www.youtube.com/watch?v=DuKtkqkhR_c",
+          "upload_date": "20261004",
+          "date_label": "04 Oct 2026",
+          "ticker": "AXON",
+          "company_name": "Axon Enterprise",
+          "reason": "Still in a very good buying area in the low $400s. Amazing company that benefits from adoption of AI in law enforcement and society broadly. Strong secular tailwinds from digital transformation.",
+          "when_to_buy": "Current levels in low $400s represent good entry",
+          "target_price": null,
+          "cautions": "Stock is still expensive on absolute valuation basis, though less expensive than before. Not a cheap stock but fairly priced for quality."
         }
       ],
       "avoids": [],
@@ -2916,7 +2955,7 @@
     {
       "ticker": "CWEB",
       "company_name": "Core Weave",
-      "buy_count": 1,
+      "buy_count": 2,
       "avoid_count": 1,
       "first_mention_date": "09 Sep 2026",
       "price_at_first_mention": 19.83,
@@ -2972,6 +3011,19 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": "The creator notes that one of the biggest bearish cases for Core Weave at IPO was that most of its RPO was coming from OpenAI, though this has been diversified since."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Just Bought $8,000 of These 2 Stocks. Here's Why",
+          "url": "https://www.youtube.com/watch?v=DuKtkqkhR_c",
+          "upload_date": "20261004",
+          "date_label": "04 Oct 2026",
+          "ticker": "CWEB",
+          "company_name": "CoreWeave",
+          "reason": "Still undervalued and underappreciated in the AI infrastructure space despite being down 35% from highs. The company has an insane amount of backlog and is focused on connected energy and active power solutions. Analysts project it is sold out for 2027, which reduces risk, particularly around the company's debt profile. The creator is waiting for more clarity on whether the 'sold out' status means they can still command higher pricing for shorter-term deals, which will be revealed in the next earnings report.",
+          "when_to_buy": null,
+          "target_price": "$141 (average analyst price target mentioned)",
+          "cautions": "Current market cap of $49.4 billion is down significantly. The creator needs clarity on whether being sold out provides pricing power or if all capacity is locked in at lower prices. Sentiment change is needed for the stock to re-rate higher."
         }
       ],
       "avoids": [
@@ -3592,7 +3644,7 @@
     {
       "ticker": "GOOGL",
       "company_name": "Alphabet Inc.",
-      "buy_count": 16,
+      "buy_count": 17,
       "avoid_count": 1,
       "first_mention_date": "04 Sep 2026",
       "price_at_first_mention": 342.48,
@@ -3843,6 +3895,19 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": "Google spent essentially all free cash flow in most recent quarter on AI infrastructure buildout and has been borrowing heavily to fund capital expenditure expansion. Bet depends on company growing cloud segment long enough to deliver results before any potential AI bubble bursts. Company's valuation looks expensive on cash flow metrics due to massive AI infrastructure spending."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Just Bought $8,000 of These 2 Stocks. Here's Why",
+          "url": "https://www.youtube.com/watch?v=DuKtkqkhR_c",
+          "upload_date": "20261004",
+          "date_label": "04 Oct 2026",
+          "ticker": "GOOGL",
+          "company_name": "Alphabet (Google)",
+          "reason": "Trading in an accumulation zone at relatively stable prices ($240-$255 range), suggesting good entry points for long-term investors. The company remains one of the best positioned plays for the future.",
+          "when_to_buy": "Current accumulation zone around recent price levels",
+          "target_price": null,
+          "cautions": "No specific cautions mentioned for Google."
         }
       ],
       "avoids": [
@@ -4772,7 +4837,7 @@
     {
       "ticker": "MELI",
       "company_name": "MercadoLibre Inc.",
-      "buy_count": 5,
+      "buy_count": 6,
       "avoid_count": 0,
       "first_mention_date": "06 Sep 2026",
       "price_at_first_mention": 1978.36,
@@ -4880,6 +4945,19 @@
           "when_to_buy": "Buy zone between $1,720-$1,760; bargain prices closer to $1,700",
           "target_price": "Resistance at $1,838",
           "cautions": null
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Just Bought $8,000 of These 2 Stocks. Here's Why",
+          "url": "https://www.youtube.com/watch?v=DuKtkqkhR_c",
+          "upload_date": "20261004",
+          "date_label": "04 Oct 2026",
+          "ticker": "MELI",
+          "company_name": "Mercado Libre",
+          "reason": "Stock has pulled back from $2,000 per share to under $1,700, which represents a perfect buying zone. For long-term investors, this is a great pickup at discounted levels. Company fundamentals remain strong.",
+          "when_to_buy": "Current levels under $1,700 represent perfect buying zone",
+          "target_price": null,
+          "cautions": "Brazil elections are happening which could cause short-term volatility, but creator believes this won't impact the long-term business."
         }
       ],
       "avoids": [],
@@ -4888,7 +4966,7 @@
     {
       "ticker": "META",
       "company_name": "Meta Platforms Inc.",
-      "buy_count": 25,
+      "buy_count": 26,
       "avoid_count": 1,
       "first_mention_date": "04 Sep 2026",
       "price_at_first_mention": 610.68,
@@ -5256,6 +5334,19 @@
           "when_to_buy": "On a retest of the 21 EMA at all-time highs",
           "target_price": null,
           "cautions": "The creator cautioned that Meta at $500 and current levels is no longer a good buy as an asymmetric bet. While Meta has broken resistance, it should only be bought on technical dips to the 21 EMA, not at current elevated levels. The stock experienced significant zigzagging historically."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Just Bought $8,000 of These 2 Stocks. Here's Why",
+          "url": "https://www.youtube.com/watch?v=DuKtkqkhR_c",
+          "upload_date": "20261004",
+          "date_label": "04 Oct 2026",
+          "ticker": "META",
+          "company_name": "Meta Platforms",
+          "reason": "Undervalued name for the future despite recent strong performance. Recent pullback from $750 back to $728 presents opportunity. The company has had an amazing couple of weeks showing momentum in AI and metaverse investments.",
+          "when_to_buy": "Better buying zones would be closer to $680-$710 range",
+          "target_price": null,
+          "cautions": "Recent pullback from highs suggests some consolidation; creator recommends waiting for better entry points rather than chasing."
         }
       ],
       "avoids": [
@@ -5469,7 +5560,7 @@
     {
       "ticker": "MU",
       "company_name": "Micron Technology",
-      "buy_count": 15,
+      "buy_count": 16,
       "avoid_count": 1,
       "first_mention_date": "04 Sep 2026",
       "price_at_first_mention": 958.16,
@@ -5707,6 +5798,19 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": "The creator mentions they covered Micron earnings a few days prior in another deep dive, suggesting investors should review that prior analysis. The timing and duration of elevated memory prices remains uncertain, though the creator believes it will persist at least through the near term."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Just Bought $8,000 of These 2 Stocks. Here's Why",
+          "url": "https://www.youtube.com/watch?v=DuKtkqkhR_c",
+          "upload_date": "20261004",
+          "date_label": "04 Oct 2026",
+          "ticker": "MU",
+          "company_name": "Micron Technology",
+          "reason": "Stock is extremely cheap with a trailing PE of 14.5x and forward PE of 6.1x despite being up 240% year-to-date. The company is expected to generate an insane amount of revenue over the next couple of quarters. Analysts are projecting double revenue in fiscal 27, though the creator believes these projections are too low, especially when the company is targeting 50% of its revenue from 2030-2031 products compared to the current 35%. Free cash flow projections are incredible at $144.4 billion in fiscal 27, $173 billion in fiscal 28, and $179 billion in fiscal 29. A major catalyst is expected to be a share buyback announcement in December, which could be as large as $100 billion over 3-5 years.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": "Stock has been flat after recent earnings despite strong fundamentals, suggesting potential waiting period similar to Nvidia's 7-month flat period. There are also US midterms and oil price uncertainties that could impact near-term sentiment."
         }
       ],
       "avoids": [
@@ -5879,7 +5983,7 @@
     {
       "ticker": "NBIX",
       "company_name": "Neurochem Inc.",
-      "buy_count": 1,
+      "buy_count": 2,
       "avoid_count": 0,
       "first_mention_date": "13 Sep 2026",
       "price_at_first_mention": 156.22,
@@ -5935,6 +6039,19 @@
           "when_to_buy": "Current price $224 acceptable; will buy more if it drops to $200 per share or slightly below on Monday's potential selloff",
           "target_price": "$200 identified as very good accumulation area for long-term",
           "cautions": "Expected to be hit on Monday due to AI regulation concerns from industry leaders; potential short-term volatility"
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Just Bought $8,000 of These 2 Stocks. Here's Why",
+          "url": "https://www.youtube.com/watch?v=DuKtkqkhR_c",
+          "upload_date": "20261004",
+          "date_label": "04 Oct 2026",
+          "ticker": "NBIX",
+          "company_name": "Nebus",
+          "reason": "One of the names that keeps crushing it time and time again with strong execution. At number one position in the portfolio, up 362% year-to-date despite the creator averaging up, representing 21% of portfolio allocation.",
+          "when_to_buy": "Creator suggests not chasing current levels; wait for pullback closer to $200-$215",
+          "target_price": null,
+          "cautions": "Stock is at elevated levels and highly volatile (could be up or down 10% in a single day). Creator recommends waiting for pullback before adding more."
         }
       ],
       "avoids": [],
@@ -6216,7 +6333,7 @@
     {
       "ticker": "NEWR",
       "company_name": "New (ticker appears to be NEW based on context)",
-      "buy_count": 1,
+      "buy_count": 2,
       "avoid_count": 0,
       "first_mention_date": "20 Sep 2026",
       "price_at_first_mention": null,
@@ -6235,6 +6352,19 @@
           "when_to_buy": "Under $14",
           "target_price": "Back above $14",
           "cautions": "Currently under pressure due to short-term issues and expansion concerns, but fundamentals don't justify the weakness."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Just Bought $8,000 of These 2 Stocks. Here's Why",
+          "url": "https://www.youtube.com/watch?v=DuKtkqkhR_c",
+          "upload_date": "20261004",
+          "date_label": "04 Oct 2026",
+          "ticker": "NEWR",
+          "company_name": "New Relic",
+          "reason": "Added $150 shares (10.5% increase) at $1,260 per share following the rumor of a Monzo acquisition that temporarily pushed the stock down. The creator viewed this as an opportunity to buy an excellent company at a discount. After CEO clarified they are focused on core markets and US expansion rather than pursuing acquisitions, the stock recovered, validating the purchase.",
+          "when_to_buy": "Recent dip to $1,260 per share used as entry point",
+          "target_price": null,
+          "cautions": "Stock is still undervalued but investors are waiting for clearer business catalysts and messaging. The market seems uncertain about the company's strategic direction."
         }
       ],
       "avoids": [],
@@ -6243,7 +6373,7 @@
     {
       "ticker": "NFLX",
       "company_name": "Netflix Inc.",
-      "buy_count": 3,
+      "buy_count": 4,
       "avoid_count": 2,
       "first_mention_date": "06 Sep 2026",
       "price_at_first_mention": 78.25,
@@ -6325,6 +6455,19 @@
           "when_to_buy": "Not a buy recommendation; creator indicated 'might sell it' and did reduce position",
           "target_price": "Resistance at $77-$80",
           "cautions": "The creator has cut the Netflix position by 50% and indicated possible further selling, suggesting they view it as less attractive than other opportunities at current levels."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Just Bought $8,000 of These 2 Stocks. Here's Why",
+          "url": "https://www.youtube.com/watch?v=DuKtkqkhR_c",
+          "upload_date": "20261004",
+          "date_label": "04 Oct 2026",
+          "ticker": "NFLX",
+          "company_name": "Netflix",
+          "reason": "Currently a value play with cheap valuation. Trading PE of 21.1x and forward PE of 19.4x with PEG ratio under 1. Very profitable company. The creator sold half the position but kept the other half as a value play better than sitting in cash. Netflix is investing heavily in live events and sports programming which generate signups, advertising revenue, and retention despite near-term engagement headwinds. Streaming TV CPM of $37 is best-in-class among all platforms. Revenue growth is expected to continue with low double digits even if engagement metrics are pressured short-term.",
+          "when_to_buy": "Current depressed valuation presents opportunity; could wait for next earnings report for more clarity",
+          "target_price": null,
+          "cautions": "Stock is down 26.2% year-to-date with 37.7% drawdown. Engagement growth slowing. Market wants to see faster overall growth (15-17%) not just low double-digit revenue growth. Company's decision not to buy a major studio disappointed market. Projections suggest maturing business with only 8% growth potential in 3 years, which concerns growth investors."
         }
       ],
       "avoids": [
@@ -6449,9 +6592,9 @@
         "peg_ratio": 1.36,
         "revenue_growth": -0.043,
         "earnings_growth": -0.021,
-        "free_cashflow": null,
+        "free_cashflow": 1766875008,
         "profit_margins": 0.0674,
-        "debt_to_equity": 72.746,
+        "debt_to_equity": 73.095,
         "beta": 1.11,
         "short_percent": 0.08979999,
         "dividend_yield": 4.84,
@@ -6712,7 +6855,7 @@
     {
       "ticker": "NVDA",
       "company_name": "Nvidia Corporation",
-      "buy_count": 23,
+      "buy_count": 24,
       "avoid_count": 3,
       "first_mention_date": "04 Sep 2026",
       "price_at_first_mention": 228.45,
@@ -7054,6 +7197,19 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": "Year-to-date stock is only up 23%, which some may view as underperformance despite being solid returns. The creator notes that saying Nvidia changes the market every week might create complacency among investors."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Just Bought $8,000 of These 2 Stocks. Here's Why",
+          "url": "https://www.youtube.com/watch?v=DuKtkqkhR_c",
+          "upload_date": "20261004",
+          "date_label": "04 Oct 2026",
+          "ticker": "NVDA",
+          "company_name": "Nvidia Corporation",
+          "reason": "The creator increased their position by $6,000 (26 shares) and views this as a lucrative cash position to build gradually. The company continues to benefit from AI infrastructure buildout and remains a core holding despite being up significantly this year.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": "Already up significantly year-to-date. The creator views this as a long-term position to be built up over time rather than a tactical opportunity."
         }
       ],
       "avoids": [
@@ -7830,7 +7986,7 @@
     {
       "ticker": "RDDT",
       "company_name": "Reddit Inc.",
-      "buy_count": 4,
+      "buy_count": 5,
       "avoid_count": 0,
       "first_mention_date": "06 Sep 2026",
       "price_at_first_mention": 154.46,
@@ -7854,7 +8010,7 @@
         "ma50": 156.32,
         "ma200": 168.55,
         "ma_signal": "death_cross",
-        "pe_trailing": 34.306267,
+        "pe_trailing": 34.386044,
         "pe_forward": 15.262982,
         "peg_ratio": 0.74,
         "revenue_growth": 0.611,
@@ -7925,6 +8081,19 @@
           "when_to_buy": "Currently in buy zone",
           "target_price": "Resistance at $166",
           "cautions": "Stock doesn't move much currently; creator is waiting for AI licensing deal catalysts to drive performance. Legal issues with Entropic remain a consideration, though recent news has been semi-positive."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Just Bought $8,000 of These 2 Stocks. Here's Why",
+          "url": "https://www.youtube.com/watch?v=DuKtkqkhR_c",
+          "upload_date": "20261004",
+          "date_label": "04 Oct 2026",
+          "ticker": "RDDT",
+          "company_name": "Reddit",
+          "reason": "Company will continue to grow, generate more revenue and profits, and expand average revenue per user. Long-term growth story remains intact.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": "Stock is under pressure and not moving much despite positive fundamentals. Creator is keeping allocation low because waiting for a catalyst in the form of a new AI data licensing deal announcement with Google, OpenAI, or Anthropic. Without this catalyst, upside is limited near-term."
         }
       ],
       "avoids": [],
@@ -7933,7 +8102,7 @@
     {
       "ticker": "RKLB",
       "company_name": "Rocket Lab USA Inc.",
-      "buy_count": 3,
+      "buy_count": 4,
       "avoid_count": 0,
       "first_mention_date": "06 Sep 2026",
       "price_at_first_mention": 64.26,
@@ -7958,7 +8127,7 @@
         "ma200": 81.41,
         "ma_signal": "death_cross",
         "pe_trailing": null,
-        "pe_forward": 1622.4758,
+        "pe_forward": 1369.1425,
         "peg_ratio": null,
         "revenue_growth": 0.62,
         "earnings_growth": null,
@@ -8015,6 +8184,19 @@
           "when_to_buy": "$70 range is described as very attractive level",
           "target_price": null,
           "cautions": "Very speculative with 5-10 year hold required. Should only represent 10-15% of portfolio allocation for speculative ideas. Stock already down 50% from highs at $151 but still has high valuation with 43.91 price-to-sales forward. Most revenue is not yet from space operations. Success depends on executing reusable rocket technology and achieving cost reductions from $3,000 to $300 per kilogram. Interest rate sensitive given long development timeline and capital needs."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Just Bought $8,000 of These 2 Stocks. Here's Why",
+          "url": "https://www.youtube.com/watch?v=DuKtkqkhR_c",
+          "upload_date": "20261004",
+          "date_label": "04 Oct 2026",
+          "ticker": "RKLB",
+          "company_name": "Rocket Lab",
+          "reason": "Getting more momentum, closing the week near $74 per share and leaving the $60 areas. Securing new big contracts for Electron with backlog expected to continue growing. Company is working on Neutron development which could be a major growth driver.",
+          "when_to_buy": "Better buying zone would be in the $60s for long-term shareholders",
+          "target_price": null,
+          "cautions": "Still near recent highs; creator suggests waiting for pullback to $60s for better entry."
         }
       ],
       "avoids": [],
@@ -8780,7 +8962,7 @@
     {
       "ticker": "SOFI",
       "company_name": "SoFi Technologies Inc.",
-      "buy_count": 7,
+      "buy_count": 8,
       "avoid_count": 1,
       "first_mention_date": "06 Sep 2026",
       "price_at_first_mention": 18.22,
@@ -8914,6 +9096,19 @@
           "when_to_buy": "Main buying zone between $15.80 and $16.80; currently at $16.50",
           "target_price": "Resistance at $17.37",
           "cautions": null
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Just Bought $8,000 of These 2 Stocks. Here's Why",
+          "url": "https://www.youtube.com/watch?v=DuKtkqkhR_c",
+          "upload_date": "20261004",
+          "date_label": "04 Oct 2026",
+          "ticker": "SOFI",
+          "company_name": "SoFi Technologies",
+          "reason": "Stock is down 40% year-to-date and trading in a major buy zone for long-term investors despite current macro pressure. The company fundamentals remain strong with significant growth. Stock is under pressure due to macro environment, not business deterioration. Company expected to report October 27th with potential for another triple beat, following track record of beating expectations.",
+          "when_to_buy": "Current major buy zone; expected earnings October 27th could provide clarity",
+          "target_price": null,
+          "cautions": "Under pressure from macro headwinds not business fundamentals. Short-term investors will suffer as stock is down significantly. Need to be patient as long-term investor."
         }
       ],
       "avoids": [
@@ -9706,7 +9901,7 @@
     {
       "ticker": "UBER",
       "company_name": "Uber Technologies Inc.",
-      "buy_count": 4,
+      "buy_count": 5,
       "avoid_count": 1,
       "first_mention_date": "06 Sep 2026",
       "price_at_first_mention": 75.76,
@@ -9801,6 +9996,19 @@
           "when_to_buy": "Main buying zone between $67.50-$70.50",
           "target_price": "Resistance at $75",
           "cautions": null
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Just Bought $8,000 of These 2 Stocks. Here's Why",
+          "url": "https://www.youtube.com/watch?v=DuKtkqkhR_c",
+          "upload_date": "20261004",
+          "date_label": "04 Oct 2026",
+          "ticker": "UBER",
+          "company_name": "Uber Technologies",
+          "reason": "Very profitable and undervalued name that is under pressure. Trading near support zone just under $70 per share, representing a buying opportunity. Strong fundamental business with multiple growth drivers.",
+          "when_to_buy": "Current support zone just under $70 per share",
+          "target_price": null,
+          "cautions": "Stock is under pressure despite profitability improvements. Market seems uncertain about autonomous vehicle adoption implications and the integration of Delivery Hero acquisition. Big acquisitions take time to show synergies."
         }
       ],
       "avoids": [

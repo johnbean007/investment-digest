@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T08:25:55.398930",
+  "generated_at": "2026-10-04T09:28:21.620686",
   "video_count": 69,
   "stock_count": 137,
   "stocks": [
@@ -4912,7 +4912,7 @@
         "ma50": 624.66,
         "ma200": 627.39,
         "ma_signal": "death_cross",
-        "pe_trailing": 27.320076,
+        "pe_trailing": 27.402334,
         "pe_forward": 20.858347,
         "peg_ratio": 0.96,
         "revenue_growth": 0.28,

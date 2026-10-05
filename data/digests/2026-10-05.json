@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T07:52:18.953493",
+  "generated_at": "2026-10-05T09:55:23.853914",
   "video_count": 66,
   "stock_count": 135,
   "stocks": [
@@ -466,8 +466,8 @@
         "analyst_buy": 41,
         "analyst_hold": 10,
         "analyst_sell": 0,
-        "analyst_target": 619.51,
-        "analyst_upside_pct": -2.3,
+        "analyst_target": 622.01,
+        "analyst_upside_pct": -1.9,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -1176,8 +1176,8 @@
         "analyst_buy": 40,
         "analyst_hold": 3,
         "analyst_sell": 1,
-        "analyst_target": 2084.1,
-        "analyst_upside_pct": 11.6,
+        "analyst_target": 2089.48,
+        "analyst_upside_pct": 11.9,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -5366,8 +5366,8 @@
         "analyst_buy": 40,
         "analyst_hold": 5,
         "analyst_sell": 0,
-        "analyst_target": 1520.02,
-        "analyst_upside_pct": 41.4,
+        "analyst_target": 1521.76,
+        "analyst_upside_pct": 41.6,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -6648,8 +6648,8 @@
         "analyst_buy": 58,
         "analyst_hold": 2,
         "analyst_sell": 1,
-        "analyst_target": 327.7,
-        "analyst_upside_pct": 40.1,
+        "analyst_target": 328.72,
+        "analyst_upside_pct": 40.5,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -7524,7 +7524,7 @@
         "ma200": 167.84,
         "ma_signal": "golden_cross",
         "pe_trailing": 21.39699,
-        "pe_forward": 18.117386,
+        "pe_forward": 18.130465,
         "peg_ratio": 0.82,
         "revenue_growth": -0.04,
         "earnings_growth": -0.23,
@@ -9405,8 +9405,8 @@
         "analyst_buy": 23,
         "analyst_hold": 18,
         "analyst_sell": 6,
-        "analyst_target": 395.57,
-        "analyst_upside_pct": 6.7,
+        "analyst_target": 396.41,
+        "analyst_upside_pct": 7.0,
         "earnings_date": null,
         "earnings_days": null
       },

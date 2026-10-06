@@ -25861,6 +25861,54 @@
         "AVGO": 362.92,
         "NVDA": 239.75
       }
+    },
+    "szUwPhjSBKo": {
+      "channel": "FinTek",
+      "title": "Berkshire Hathaway is Making Some Big Changes",
+      "upload_date": "20261006",
+      "url": "https://www.youtube.com/watch?v=szUwPhjSBKo",
+      "processed_at": "2026-10-06T21:26:47.243188",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet Inc.",
+            "reason": "Berkshire Hathaway added another $17 billion to its Alphabet position in this quarter, representing the company's biggest move. This signals confidence in the stock as Berkshire is actively deploying capital into the position after maintaining a wait-and-see approach for an extended period.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "DAL",
+            "company_name": "Delta Air Lines",
+            "reason": "Berkshire Hathaway made a significant $1.6 billion investment into Delta Airlines during this active quarter, indicating that the company sees value in the airline sector at current market levels.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "TMHC",
+            "company_name": "Taylor Morrison Home Corporation",
+            "reason": "Berkshire Hathaway spent $6.8 billion acquiring Taylor Morrison, representing a major capital deployment in the homebuilder sector and indicating significant conviction in the housing market opportunity.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "While Berkshire Hathaway's increased buying activity suggests opportunities are emerging in the market, this represents a shift from their historical preference to wait for more compelling opportunities, which may indicate market conditions are becoming more normalized after a period of limited deployment."
+        ],
+        "tickers_mentioned": [
+          "GOOGL",
+          "DAL",
+          "TMHC"
+        ]
+      },
+      "price_at_recommendation": {
+        "GOOGL": 347.68,
+        "DAL": 83.66
+      }
     }
   },
   "channel_ids": {

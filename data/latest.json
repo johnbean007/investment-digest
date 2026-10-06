@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T07:42:35.295997",
+  "generated_at": "2026-10-06T11:44:17.767834",
   "video_count": 65,
   "stock_count": 130,
   "stocks": [
@@ -1150,8 +1150,8 @@
         "analyst_buy": 40,
         "analyst_hold": 3,
         "analyst_sell": 1,
-        "analyst_target": 2093.64,
-        "analyst_upside_pct": 12.6,
+        "analyst_target": 2100.0,
+        "analyst_upside_pct": 12.9,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -8143,7 +8143,7 @@
         "profit_margins": 0.0571,
         "debt_to_equity": 63.951,
         "beta": 2.009,
-        "short_percent": 0.1882,
+        "short_percent": 0.16139999,
         "dividend_yield": 0.0,
         "analyst_buy": 5,
         "analyst_hold": 11,

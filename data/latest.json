@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T10:37:11.891611",
+  "generated_at": "2026-10-07T11:39:26.447627",
   "video_count": 66,
   "stock_count": 132,
   "stocks": [
@@ -1137,8 +1137,8 @@
         "analyst_buy": 40,
         "analyst_hold": 3,
         "analyst_sell": 1,
-        "analyst_target": 2096.88,
-        "analyst_upside_pct": 14.3,
+        "analyst_target": 2097.59,
+        "analyst_upside_pct": 14.4,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -1729,7 +1729,7 @@
         "ma50": 240.34,
         "ma200": 209.51,
         "ma_signal": "golden_cross",
-        "pe_trailing": 379.20514,
+        "pe_trailing": 389.1842,
         "pe_forward": 59.849052,
         "peg_ratio": 0.65,
         "revenue_growth": 1.655,
@@ -5188,7 +5188,7 @@
         "pe_forward": 5.067357,
         "peg_ratio": 0.16,
         "revenue_growth": 3.793,
-        "earnings_growth": 10.605,
+        "earnings_growth": 10.601,
         "free_cashflow": 29214251008,
         "profit_margins": 0.63796,
         "debt_to_equity": 3.743,

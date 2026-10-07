@@ -25909,6 +25909,96 @@
         "GOOGL": 347.68,
         "DAL": 83.66
       }
+    },
+    "951xEYynOGo": {
+      "channel": "Jose Najarro Stocks",
+      "title": "The AI Stock Investors Just Got Another MASSIVE Bull Signal!!",
+      "upload_date": "20261006",
+      "url": "https://www.youtube.com/watch?v=951xEYynOGo",
+      "processed_at": "2026-10-07T10:34:57.676605",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "MRVL",
+            "company_name": "Marvell Technology",
+            "reason": "Marvell held an investor day today that showed strong growth in the AI and semiconductor space. Management raised fiscal year 2028 revenue guidance to $20 billion (up from $18 billion just under 2 months ago at earnings, and up from $16.5 billion previously), demonstrating two consecutive raises for the same fiscal year. The company expects $18 billion in data center revenue in fiscal year 2028 (a year earlier than previously targeted for fiscal year 2029). Custom Silicon is accelerating with fiscal year 2029 target now at $12 billion+ versus $10 billion+ reaffirmed in August. Management provided a fiscal year 2031 model calling for $70-$90 billion in total revenue with above $30 non-GAAP earnings per share at the midpoint. Using a 30x forward PE ratio on $30 EPS yields a potential stock price of $900 by 2030/2031. Management stated this growth does not require a home-run new partnership, suggesting conservative guidance.",
+            "when_to_buy": null,
+            "target_price": "$600 or higher by 2030/2031 (based on $30 EPS \u00d7 30x forward PE ratio)",
+            "cautions": "Guidance extends 4-5 years into the future, which adds blurriness and uncertainty. The creator stated he does not get as excited about targets this far ahead due to potential macro changes, new technologies, or new competitive solutions that could shift the thesis. Market needs constant reconfirmation that demand thesis remains intact."
+          },
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices",
+            "reason": "CEO Lisa Su provided recent bullish commentary about expanding CPU and GPU production in Taiwan to meet demand over the next several years, requiring more advanced wafer capacity. AMD's August 4th guidance stated server CPU revenue expected to grow more than 70% in 2027, with total data center revenue expected to more than double. The company has committed to increasing capacity across wafers for Holos and MI450 products. The server CPU market grew from $60 billion about a year ago to $220 billion in November 2025\u2014a $160 billion market expansion. The creator views Lisa Su's latest commentary as reconfirmation that the semiconductor market will remain strong for several years ahead.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "While the creator views AMD positively as a beneficiary of AI growth, he emphasizes the market requires constant reconfirmation that demand has not changed. Long-term guidance (3-5 years) carries execution risk and potential disruption from new technologies."
+          },
+          {
+            "ticker": "CRDO",
+            "company_name": "Credo Technology",
+            "reason": "Credo benefits from scale-up and scale-out optics and networking solutions, which are key drivers of Marvell's revenue growth. Marvell's latest $2 billion guidance increase for fiscal 2028 came specifically from scale-out optics, scale-up optics, and switching/connectivity business. The stock was up roughly 4% on this news. The creator mentioned discussing Credo in his community during the recent 150s-160s price dip, indicating conviction at those levels. He created a three-stock ETF approach including Marvell, Credo, and Astera Labs based on this networking/optics thesis.",
+            "when_to_buy": "150s-160s price range was highlighted as an attractive entry point during market weakness",
+            "target_price": null,
+            "cautions": "Credo experiences selloff periods that the creator views as buying opportunities, suggesting volatility is expected. Thesis depends on continued strong demand for networking and optics infrastructure in AI data centers."
+          },
+          {
+            "ticker": "ASTZ",
+            "company_name": "Astera Labs",
+            "reason": "Astera Labs benefits from scale-up and scale-out connectivity and networking solutions, which drove a significant portion of Marvell's revenue guidance increase. The stock was up roughly 8% following the Marvell investor day announcement. The creator included Astera Labs in his three-stock ETF approach based on the conviction that if non-leading players like Marvell are seeing strong networking demand, market leaders in the space should see even stronger tailwinds.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Thesis depends on sustained networking/optics demand in AI data centers. Like other semiconductor stocks, subject to technology shifts and macro headwinds."
+          },
+          {
+            "ticker": "AVGO",
+            "company_name": "Broadcom",
+            "reason": "Broadcom is already a leading player in the semi-custom business. Given that Marvell (not a leading ASIC player) is seeing strong demand and raised guidance for semi-custom revenue, the market is inferring that Broadcom, as the actual leader in this category, should see even stronger demand. Broadcom was up on this positive sentiment, reflecting the logic that if a non-leader is thriving in semi-custom, the leader should benefit even more significantly.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "This is an indirect play based on market inference rather than company-specific catalyst. Success depends on Broadcom's execution on semi-custom revenue growth."
+          },
+          {
+            "ticker": "MU",
+            "company_name": "Micron Technology",
+            "reason": "The creator mentioned Micron as a leading player that should benefit if non-leaders like Marvell are seeing strong demand from AI data center buildout. The reasoning is that number one, two, and three players in AI data center semiconductors should capture significantly more opportunity than lower-ranked players.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "This is an indirect inference based on market dynamics rather than company-specific catalyst. Micron also faces cyclical memory market risks."
+          },
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "The creator mentioned Nvidia as a leading player (#1, #2, or #3 in AI data center) that should benefit even more strongly if non-leaders like Marvell are seeing robust demand. The expansion in AI infrastructure spending that benefits Marvell, Credo, and Astera Labs should provide significant tailwinds to category leaders.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Nvidia is already heavily held and priced in market expectations. The creator's argument is inferential rather than based on new company-specific catalysts."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Semiconductor guidance extending 4-5 years into the future carries significant uncertainty. The creator explicitly cautioned against placing too much confidence in Marvell's FY2031 projections ($70-90B revenue, $30+ EPS) because new technologies, new competitive solutions, and unforeseen market shifts could materially alter the investment thesis. He stated the market is inherently unpredictable and there is 'no for sure thing' in AI semiconductor investing.",
+          "Market sentiment requires constant reconfirmation. The creator emphasized that investors need continuous updates that demand thesis remains intact, as the market quickly discounts old announcements. Negative developments or macro headwinds could rapidly reverse current bullish sentiment despite strong recent catalysts.",
+          "AI semiconductor sector assumes sustained macro demand for AI infrastructure. The creator's entire bullish thesis rests on sustained AI adoption and continued data center buildout over several years. Any slowdown in AI demand, pricing pressure, or shifts to alternative architectures could pressure entire sector valuations."
+        ],
+        "tickers_mentioned": [
+          "MRVL",
+          "AMD",
+          "AVGO",
+          "CRDO",
+          "ASTZ",
+          "NVDA",
+          "MU"
+        ]
+      },
+      "price_at_recommendation": {
+        "NVDA": 239.24,
+        "AMD": 649.42,
+        "AVGO": 375.81,
+        "MRVL": 287.01,
+        "MU": 1045.56,
+        "CRDO": 220.83
+      }
     }
   },
   "channel_ids": {

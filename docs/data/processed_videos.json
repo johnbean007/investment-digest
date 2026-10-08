@@ -26481,6 +26481,35 @@
         "ATEST": 24.98,
         "AMD": 645.86
       }
+    },
+    "_qE2cxswPts": {
+      "channel": "FinTek",
+      "title": "Why I Bought $47,000 in SoFi Stock",
+      "upload_date": "20261008",
+      "url": "https://www.youtube.com/watch?v=_qE2cxswPts",
+      "processed_at": "2026-10-08T14:37:54.360945",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "SOFI",
+            "company_name": "SoFi (Social Finance, Inc.)",
+            "reason": "SoFi is a fintech stock that has declined around 25% over the past year despite revenue, EBITDA, and adjusted net income all accelerating growth over the last 4 years. For long-term investors, SoFi's growth offers potential upside in the long term. The creator owns 2,500 shares currently valued at $47,000, which is up 178% overall, indicating conviction in the long-term investment thesis.",
+            "when_to_buy": "At today's prices; creator acknowledges it is not a crazy good deal but suitable for long-term investors",
+            "target_price": null,
+            "cautions": "This stock is all about the risks. Creator does not view it as a crazy good deal at current prices, suggesting meaningful downside risk or valuation concerns exist despite the growth narrative."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "SoFi presents significant risk despite strong fundamental growth metrics (revenue, EBITDA, adjusted net income acceleration). The 25% decline over the past year despite operational improvements suggests the market is pricing in material risks that offset the company's growth trajectory, requiring investors to have a long-term horizon to weather potential further volatility."
+        ],
+        "tickers_mentioned": [
+          "SOFI"
+        ]
+      },
+      "price_at_recommendation": {
+        "SOFI": 15.42
+      }
     }
   },
   "channel_ids": {

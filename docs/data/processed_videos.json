@@ -25999,6 +25999,488 @@
         "MU": 1045.56,
         "CRDO": 220.83
       }
+    },
+    "VSfUaPl8hB0": {
+      "channel": "The Traveling Trader",
+      "title": "These 4 Stocks Are About to Explode\u203c\ufe0f [October 2026]",
+      "upload_date": "20261008",
+      "url": "https://www.youtube.com/watch?v=VSfUaPl8hB0",
+      "processed_at": "2026-10-08T09:24:04.342083",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet Inc.",
+            "reason": "Trading at an attractive 17 PE with impressive PEG ratio of 0.15 (lower is better). Strong fundamentals including 15% return on invested capital, 18.3% 10-year revenue CAGR, record high ETA, net income, revenue, gross profit margin, and excellent balance sheet. Two major catalysts: (1) Release of Gemini 4 Argon frontier model which is currently in pre-release with US government and could be released to public following government approval, similar to Meta's Muse product rally catalyst; (2) Google Spark product release expected. Additionally, Google has historical pattern of rallying 14-15% into October earnings (Alphabet earnings October 27th). Stock is coiled on momentum EMAs suggesting technical breakout setup. Currently down 17% from all-time highs despite strong fundamentals, representing significant upside back to previous highs.",
+            "when_to_buy": "Currently on momentum EMAs coil; watch for breakout before October earnings on October 27th",
+            "target_price": "17% upside to get back to all-time highs",
+            "cautions": "Despite strong fundamentals, stock trend needs monitoring; creator emphasizes importance of watching trends alongside fundamentals. Stock is one of two laggards in the Mag 7 alongside Amazon, suggesting relative weakness versus peers."
+          },
+          {
+            "ticker": "AVGO",
+            "company_name": "Broadcom Inc.",
+            "reason": "Trading at heavy discount of 24% from all-time highs despite stellar fundamentals. Strong 19.4 PE valuation with near-monopoly positioning. Exceptional return on invested capital at nearly 24-25%, 10-year CAGR excellent. All-time highs across multiple metrics: revenue, IBIT, cash, gross profit, gross profit margin, net income, and free cash flow. Semiconductor solutions segment (custom silicon for companies like OpenAI and Apple) has overtaken software revenue by wide margin and is driving growth. Management guided fiscal 2027 AI semiconductor revenue to approximately $115 billion against $56 billion expected (over 2x), and this year came in over 2x what was expected from prior year. At current price of $375, represents extreme value if company meets earnings and revenue expectations. Stock appears on verge of breakout technically.",
+            "when_to_buy": "Currently on verge of breakout; monitor for technical breakout signal",
+            "target_price": "Current price of $375 will seem extremely cheap compared to actual delivery numbers if earnings expectations are met",
+            "cautions": "PE ratio of 19.4 reflects growth company pricing in semiconductor solutions; need to monitor if company can deliver on aggressive guidance. Stock is both a trade and investment setup requiring careful exit management."
+          },
+          {
+            "ticker": "ORCL",
+            "company_name": "Oracle Corporation",
+            "reason": "64% return on invested capital and 31% 5-year CAGR demonstrate exceptional capital efficiency and growth. Trading at attractive forward PE of 14 with strong revenue metrics. Gross profit margin sits at almost 88% indicating pricing power and operational excellence. Strong net income and EBITDA metrics. Fundamentals are excellent on paper. However, creator notes stock fundamentals score of 85 on proprietary scoring system, flagged as excellent from fundamental standpoint. Superior to main competitor Unity Software which has negative return on invested capital and does not report positive earnings.",
+            "when_to_buy": "Wait for consolidation to complete; creator notes need for stock to get back into range or could target lows around $200 if consolidation fails",
+            "target_price": "Could potentially trade down to $280s where volume imbalance exists on monthly chart; risk target of $200 if consolidation breaks down",
+            "cautions": "Despite excellent fundamentals, stock is in major downtrend - creator emphasizes this as critical: 'their trend is absolute ass.' This is a key reason to wait for better entry. Stock has been disappointing relative to trendier competitor Unity despite vastly superior fundamentals. Requires completion of consolidation/manipulation/expansion model before committing capital."
+          },
+          {
+            "ticker": "SOXL",
+            "company_name": "Semiconductor Select Sector SPDR ETF",
+            "reason": "Semiconductor sector set up for continuation higher based on technical analysis. Multiple constituent stocks showing strength including Broadcom (not yet broken out), Marvell (on continuation uptrend), Nvidia (made new all-time high with likely continuation), AMD (continuation setup), and Intel (continuation setup). Chip sector breakout was expected in September based on previous month's thesis and is materializing. Sector benefits from secular AI chip demand tailwinds.",
+            "when_to_buy": "Current setup shows continuation potential; creator is monitoring for further upside",
+            "target_price": null,
+            "cautions": "Semiconductor sector already had significant run; some constituent stocks like Broadcom remain on verge of breakout while others already at new highs, suggesting mixed entry conditions within sector."
+          },
+          {
+            "ticker": "XLB",
+            "company_name": "Materials Select Sector SPDR ETF",
+            "reason": "Materials sector currently in correction down 10% from highs and trading at 16.8 PE, significantly below S&P 500 forward PE of 19.2. Historically middle-of-the-road valuation, not expensive by earnings valuations. Ranks fifth in earnings growth guidance out of all S&P 500 sectors. Historically rallies in healthy manner with pattern of rally-pullback-rally-pullback in general uptrend since 1999. Holdings include Nucor, U.S. Steel Dynamics, Vulcan, Sherwin Williams, Echolab, Freeport-McMoRan. Provides opportunity to diversify out of concentrated tech exposure while maintaining quality fundamental growth.",
+            "when_to_buy": "Monitor currently; will become interested once PE drops to 15 or below, representing historically low territory",
+            "target_price": null,
+            "cautions": "Not yet at attractive valuation entry point of 15 PE or below; creator specifically states 'I'm not buying it just yet, but I want to monitor this.' Requires patience for sector valuation to compress further before initiating positions."
+          },
+          {
+            "ticker": "XLC",
+            "company_name": "Communication Services Select Sector SPDR ETF",
+            "reason": "Third best performing sector relative to earnings guidance across S&P 500. Sector provides diversification opportunity beyond tech concentration while maintaining quality fundamental backdrop.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Creator has not provided specific entry guidance for this sector; listed primarily as sector to monitor alongside materials for diversification."
+          },
+          {
+            "ticker": "VISTRA",
+            "company_name": "Vistra Corporation",
+            "reason": "Power sector stock positioned to benefit from AI power constraint tailwinds. Company is owned by both Donald Trump and Nancy Pelosi suggesting bipartisan support. Stock has had strong week, coming up on resistance level. Part of broader power/energy infrastructure theme critical for supporting AI data center buildout. Creator previously mentioned power as number one constraint for AI expansion.",
+            "when_to_buy": "Currently coming up on resistance; monitor for breakout",
+            "target_price": null,
+            "cautions": "Stock mentioned in category with other power plays that have already run up significantly (Bloom Energy already ran), suggesting later-stage entry conditions."
+          },
+          {
+            "ticker": "CEG",
+            "company_name": "Constellation Energy Corporation",
+            "reason": "Power sector stock benefiting from AI power constraint as number one limiting factor for AI expansion. Stock has had strong week. Positions well for structural power demand from data centers supporting AI infrastructure.",
+            "when_to_buy": "Currently showing strength; monitor for continuation",
+            "target_price": null,
+            "cautions": "Already had strong recent run suggesting stock may be in mid-to-late stage of move."
+          },
+          {
+            "ticker": "GEV",
+            "company_name": "GE Verova",
+            "reason": "Power/energy infrastructure play positioned to benefit from AI-driven power demand constraints. Company ownership structure includes high-profile support.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Creator has not provided detailed analysis or specific entry guidance."
+          },
+          {
+            "ticker": "BE",
+            "company_name": "Bloom Energy",
+            "reason": "Power infrastructure play addressing AI power constraints. Creator mentioned company among power plays benefiting from structural AI power demand.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Stock has already run up significantly, suggesting it may no longer be at asymmetric entry point."
+          },
+          {
+            "ticker": "MSFT",
+            "company_name": "Microsoft Corporation",
+            "reason": "Creator mentioned buying Microsoft in mid-$300s and stock has rallied significantly since then. One of lagging Mag 7 stocks along with Google and Amazon making new all-time highs, indicating flight-to-safety capital concentration. Strong fundamental performer.",
+            "when_to_buy": "Already established position in mid-$300s; creator mentioned as holding in portfolio",
+            "target_price": null,
+            "cautions": "Stock already has substantial gains; creator emphasizes that many tech stocks have already run tens of percentage points in last few months and are no longer in asymmetric positions."
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms Inc.",
+            "reason": "Creator mentioned owning Meta and discussing it when 'in the low 500s' with expectation of eventual rally. Stock subsequently rallied hard after release of Muse product, validating AI product catalyst thesis. Now at or near all-time highs as Mag 7 member. Strong fundamental AI and advertising positioning.",
+            "when_to_buy": "Already established position from low 500s; now at new highs",
+            "target_price": null,
+            "cautions": "Stock already significantly advanced from entry point; creator notes many tech stocks have now run substantially and are no longer asymmetric opportunities. Currently at or near all-time highs."
+          },
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Leading Mag 7 stock driving much of S&P 500 strength with all-time highs. Semiconductor leadership in AI chip market. Strong continuation setup from technical analysis showing likely wants to continue leg higher in midterm.",
+            "when_to_buy": "Currently at new all-time highs; monitor for continuation",
+            "target_price": null,
+            "cautions": "Already at all-time highs; creator notes many mega-cap tech stocks have already run substantially and valuation expansion may be limited. However, still rates tech sector forward PE under 20 versus historical dot-com levels above 40, suggesting more room."
+          },
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices Inc.",
+            "reason": "Semiconductor stock in continuation uptrend. Given in previous month recommendations and still sees as investable. Part of semiconductor sector setup with continuation potential higher. Strong AI chip positioning.",
+            "when_to_buy": "Currently in uptrend; monitor for continuation",
+            "target_price": null,
+            "cautions": "Stock has already had substantial run; creator notes it's part of broader semiconductor sector that has rallied significantly."
+          },
+          {
+            "ticker": "INTC",
+            "company_name": "Intel Corporation",
+            "reason": "Creator previously gave Intel recommendation with detailed thesis on stock as asymmetric opportunity. Semiconductor sector continuation setup. Sees continuation potential higher in midterm. Still rates as 'very investable stock.'",
+            "when_to_buy": "Currently in semiconductor continuation setup; creator watches as both trade and investment",
+            "target_price": null,
+            "cautions": "Despite continued ownership, creator notes stock has had substantial run and is monitoring rather than actively adding. Important to review creator's detailed thesis on Intel from previous month for full reasoning."
+          },
+          {
+            "ticker": "MRVL",
+            "company_name": "Marvell Technology",
+            "reason": "Semiconductor stock on continuation uptrend as part of broader chip sector setup. Part of SOXL holdings benefiting from AI semiconductor demand.",
+            "when_to_buy": "Currently on continuation uptrend",
+            "target_price": null,
+            "cautions": "Already in uptrend; stock has had recent strong run."
+          },
+          {
+            "ticker": "ON",
+            "company_name": "ON Semiconductor",
+            "reason": "Semiconductor stock potentially breaking out. Positioned to benefit from AI semiconductor demand tailwinds.",
+            "when_to_buy": "Monitor for breakout; currently at breakout setup",
+            "target_price": null,
+            "cautions": "Creator notes as one of the setups to monitor but has not provided detailed fundamental analysis."
+          },
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon Inc.",
+            "reason": "One of two laggards in Mag 7 alongside Google despite strong fundamentals. Expected to have strong earnings catalyst on October 29th during Mag 7 earnings release. Creator initiated swing trade position yesterday and believes similar Muse-like product rally could occur post-earnings for different reasons than Google.",
+            "when_to_buy": "Creator already in swing trade; earnings October 29th provide near-term catalyst",
+            "target_price": null,
+            "cautions": "Despite solid fundamentals, has lagged other Mag 7 stocks, suggesting relative underperformance. Stock represents one of two notable laggards in mega-cap tech group."
+          },
+          {
+            "ticker": "TSLA",
+            "company_name": "Tesla Inc.",
+            "reason": "Upcoming earnings on October 21st provide near-term catalyst. Part of Mag 7 complex and key earnings season trigger date.",
+            "when_to_buy": "Earnings October 21st",
+            "target_price": null,
+            "cautions": "Creator has not provided specific buy recommendation or detailed thesis on Tesla in this video; mentioned primarily as upcoming earnings date."
+          },
+          {
+            "ticker": "IBM",
+            "company_name": "IBM Inc.",
+            "reason": "Earnings on October 21st alongside Tesla. Part of major earnings season start for Q3 2026.",
+            "when_to_buy": "Earnings October 21st",
+            "target_price": null,
+            "cautions": "Creator has not provided specific buy recommendation or fundamental thesis; mentioned primarily as earnings date."
+          },
+          {
+            "ticker": "AAPL",
+            "company_name": "Apple Inc.",
+            "reason": "Mag 7 component making all-time highs and driving much of S&P 500 strength. Key earnings date October 29th providing catalyst. Strong flight-to-safety positioning within mega-cap tech complex.",
+            "when_to_buy": "Earnings October 29th provide near-term catalyst",
+            "target_price": null,
+            "cautions": "Already at all-time highs as part of flight-to-safety rotation; stock has substantial gains and may have limited near-term upside."
+          },
+          {
+            "ticker": "GOOGL",
+            "company_name": "Google/Alphabet Inc.",
+            "reason": "See detailed buy recommendation listed separately. One of two Mag 7 laggards despite strong fundamentals and multiple catalysts (Gemini 4 Argon government approval, Spark product, October 27th earnings).",
+            "when_to_buy": "See detailed recommendation above",
+            "target_price": "See detailed recommendation above",
+            "cautions": "See detailed recommendation above"
+          },
+          {
+            "ticker": "GOOG",
+            "company_name": "Google/Alphabet Inc.",
+            "reason": "See detailed buy recommendation listed separately under GOOGL.",
+            "when_to_buy": "See detailed recommendation above",
+            "target_price": "See detailed recommendation above",
+            "cautions": "See detailed recommendation above"
+          },
+          {
+            "ticker": "COIN",
+            "company_name": "Coinbase Global Inc.",
+            "reason": "Bitcoin swing play. Bitcoin has retested 21 EMA and equal highs resistance which are now acting as support, setting up potential swing trade opportunity. Coinbase trading is 'inextricably tied to Bitcoin' performance.",
+            "when_to_buy": "Monitor Bitcoin support retest at 21 EMA; potential swing trade setup",
+            "target_price": null,
+            "cautions": "This is a swing trade setup, not long-term investment. Creator emphasizes trading requires specific discipline on exits and managing wins vs. losses."
+          },
+          {
+            "ticker": "HOOD",
+            "company_name": "Robinhood Markets Inc.",
+            "reason": "Bitcoin proxy play. Bitcoin has retested support at 21 EMA and equal highs (now support), setting up potential swing trade opportunity. Hood performance is 'inextricably tied to Bitcoin.' Creator given this in previous recommendations.",
+            "when_to_buy": "Monitor for Bitcoin swing trade setup",
+            "target_price": null,
+            "cautions": "This is swing trade setup, not investment. Requires specific trading discipline. Creator previously mentioned Hood in recommendations."
+          },
+          {
+            "ticker": "DELL",
+            "company_name": "Dell Technologies Inc.",
+            "reason": "Creator gave Dell in recommendations to consider different pockets of market.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Creator has not provided detailed analysis or specific entry guidance in this video."
+          },
+          {
+            "ticker": "IGV",
+            "company_name": "iShares Global Tech ETF",
+            "reason": "Software ETF in creator's portfolio, up 33%. Provides broad software exposure for diversified tech participation.",
+            "when_to_buy": "Creator currently holding in portfolio up 33%",
+            "target_price": null,
+            "cautions": "Already significantly advanced; creator notes many tech stocks have run substantially."
+          },
+          {
+            "ticker": "UBER",
+            "company_name": "Uber Technologies Inc.",
+            "reason": "Position in creator's portfolio despite being 'very lackluster.' Still up about 33% on position despite underperformance.",
+            "when_to_buy": "Creator currently holding",
+            "target_price": null,
+            "cautions": "Despite gains, stock characterized as 'very lackluster' suggesting underperformance versus portfolio as whole and potential rotation opportunity."
+          },
+          {
+            "ticker": "NFLX",
+            "company_name": "Netflix Inc.",
+            "reason": "Position in creator's portfolio but described as 'shitflixick,' down almost 12%, representing one of two red holdings.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Worst performer in portfolio, down 12% despite broader market strength. Only 0.3% of portfolio suggesting active reduction of exposure."
+          },
+          {
+            "ticker": "MU",
+            "company_name": "Micron Technology",
+            "reason": "Part of AI portfolio started June 11th. Memory semiconductor positioning for AI infrastructure buildout.",
+            "when_to_buy": "Already in AI portfolio",
+            "target_price": null,
+            "cautions": "Purchase timing was at worst point - June 11th start 'couldn't start couldn't have started it at a worse time.' Portfolio still up ~15% overall despite timing."
+          },
+          {
+            "ticker": "TSM",
+            "company_name": "Taiwan Semiconductor Manufacturing Company",
+            "reason": "Stable, quality stock chosen to balance AI portfolio. Strong fundamentals and foundry positioning for semiconductor supply chain. 17% of AI portfolio allocation suggesting core holding.",
+            "when_to_buy": "Already in AI portfolio; creator uses as portfolio stabilizer",
+            "target_price": null,
+            "cautions": "Allocated 17% to provide stability, not explosive growth; creator seeking quality manufacturing positioning rather than highest beta AI plays."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "NFLX",
+            "company_name": "Netflix Inc.",
+            "reason": "Described by creator as 'shitflixick' (derogatory term), down almost 12%, and represents one of only two red positions in portfolio. Despite portfolio being up substantially overall, Netflix significantly underperforming.",
+            "risk": "Down 12%; positioned for reduction/exit as position is only 0.3% of portfolio suggesting creator minimizing exposure."
+          },
+          {
+            "ticker": "NVO",
+            "company_name": "Novo Nordisk",
+            "reason": "One of only two red positions in main portfolio, down 13%. Despite strong overall portfolio performance, this stock significantly underperforming. Represents 1.7% of portfolio.",
+            "risk": "Down 13%; allocation being maintained at 1.7% rather than increased."
+          },
+          {
+            "ticker": "ADBE",
+            "company_name": "Adobe Inc.",
+            "reason": "On paper, fundamentals look great, but creator explicitly states 'their trend is absolute ass.' Creator emphasizes this as critical flaw: despite solid fundamentals, the stock is in downtrend and should not be entered. Highlights importance of monitoring trend alongside fundamentals.",
+            "risk": "Downtrend despite good fundamentals represents momentum/technical headwind; best avoided until trend reversal established."
+          },
+          {
+            "ticker": "AXP",
+            "company_name": "American Express",
+            "reason": "On paper, fundamentals look great, but creator explicitly states trend is 'absolute ass.' Stock is in downtrend despite solid fundamentals, representing sell signal from technical perspective regardless of valuation.",
+            "risk": "Major downtrend; creator emphasizes importance of trend confirmation before buying despite fundamental quality."
+          },
+          {
+            "ticker": "LULU",
+            "company_name": "Lululemon Athletica Inc.",
+            "reason": "Fundamentals on paper look great, but creator emphasizes 'their trend is absolute ass.' Stock trend is downtrend which is critical factor preventing entry despite fundamental quality.",
+            "risk": "Downtrend despite good fundamentals; technical weakness discourages entry."
+          },
+          {
+            "ticker": "UNH",
+            "company_name": "UnitedHealth Group",
+            "reason": "Part of AI portfolio started June 11th but currently showing negative returns. Listed among losing positions with downward pressure.",
+            "risk": "Negative returns in AI portfolio; stock flagged as underperformer."
+          },
+          {
+            "ticker": "DRAM",
+            "company_name": "Dramacorp",
+            "reason": "Part of AI portfolio but currently showing negative returns, representing loss position.",
+            "risk": "Losing position in AI portfolio."
+          },
+          {
+            "ticker": "VRT",
+            "company_name": "Vertiv Holdings",
+            "reason": "Part of AI portfolio started June 11th but currently showing negative returns as losing position.",
+            "risk": "Losing position in AI portfolio."
+          },
+          {
+            "ticker": "NOKEN",
+            "company_name": "Noken",
+            "reason": "Part of AI portfolio but currently showing negative returns.",
+            "risk": "Losing position in AI portfolio."
+          },
+          {
+            "ticker": "TE",
+            "company_name": "TE Connectivity",
+            "reason": "Part of AI portfolio but currently down 62%, representing largest loss in portfolio. Creator states this loss but maintains 4% allocation, suggesting believes in long-term thesis despite severe drawdown.",
+            "risk": "Down 62% representing significant drawdown; however creator maintains position suggesting conviction in eventual recovery."
+          },
+          {
+            "ticker": "UNI",
+            "company_name": "Unity Software",
+            "reason": "Main competitor to Orcl (Oracle/AppLovin based on context). Creator shows 'garbage numbers' - negative return on invested capital, does not report positive earnings, represents inferior fundamental profile to main competitor. Yet has had 'absolute tear' in momentum since March bottom despite terrible fundamentals, highlighting risk of momentum-driven positions.",
+            "risk": "Fundamentals are negative; despite strong recent momentum, underlying business metrics deteriorate, suggesting momentum unsustainable. Represents trap of chasing momentum in weak fundamental names."
+          }
+        ],
+        "key_warnings": [
+          "Market breadth severely deteriorating: S&P 500 at all-time highs but only because tech making new highs; average S&P 500 stock down 17% from 52-week highs. S&P versus S&P equal weight spread at lowest point ever, indicating extremely narrow leadership and vulnerability to rotation.",
+          "Concentrated mega-cap concentration: Only Mag 7 (Nvidia, Apple, Microsoft, Meta, Google, Amazon, Tesla) driving market strength. Two of seven (Google, Amazon) significantly lagging, suggesting rotation risk and valuation divergence within tech leadership.",
+          "Sector-wide corrections outside tech: Every S&P 500 sector that is not tech is in either pullback or correction. This rolling correction pattern across non-tech sectors has continued for months while tech concentrates gains, creating potential for violent mean reversion.",
+          "Rolling correction pattern: Tech experienced two 17% corrections in 2026 (March bottom March 30th, July bottom end of July), with other sectors holding market afloat. When tech bounced end of July, it rotated back to tech/Mags while other sectors entered corrections. This rolling pattern is creating illusion of market strength in headline indices despite underlying weakness in 72% of market.",
+          "Valuation compression risk: While earnings growth is exceptional at 29.5% for Q3 2026 and 72 of S&P 500 companies issued positive EPS guidance (record), this is occurring at all-time highs with narrow leadership. Tech forward PE under 20 leaves room for expansion, but only if earnings delivered; miss could cause rapid valuation compression in already extended names.",
+          "Non-tech sector opportunities emerging: Materials (PE 16.8 vs S&P 19.2 forward), Consumer, Communication Services, Staples all beaten down with historically attractive valuations. Creator suggests monitoring these sectors for eventual rotation away from concentrated tech leadership, particularly if these sectors reach PE 15 or below representing historical lows.",
+          "Timing risk for new buyers: Many tech stocks have run 'tens of percentage points in last few months' and are 'no longer in asymmetric position where the advantage is skewed heavily in your favor.' Entry timing critical - wait for pullbacks, corrections, and improved valuations rather than chasing momentum at all-time highs.",
+          "Trading discipline required: Creator emphasizes must 'learn how to exit trades, keep losses small and wins big. You can't just buy something and bag hold it. That's not trading.' Distinguishes between investing and trading - many recommended names are swing trades requiring active management, not buy-and-hold positions.",
+          "Mid-term political year strength into Q4: While October forward the 10-month change has been green 100% of the time in mid-term years (not without 'bumps and bruises'), Q4 is strongest quarter in mid-term year. This suggests seasonal tailwind but not guarantee against volatility.",
+          "Fed policy uncertainty: Despite September jobs data coming in weak below expectations (non-farm employment 29K vs 89K expected, jobless rate 4.2% vs 4.1%, hourly earnings 0.1% vs 0.3%), Fed minutes show most members still favor rate hike by year-end with 70% probability of December hike. Market pricing no October hike but potential December hike creates policy uncertainty.",
+          "Earnings season critical: Q3 2026 earnings starting October 21st (Tesla, IBM) through early November (Mag 7 reporting October 21-29 and November 4th) will be critical test of whether exceptional earnings growth (29.5% expected, third straight quarter above 25%) actually materializes. Miss would be negative for all equities.",
+          "Trend discipline essential: Multiple stocks with great fundamentals (Adobe, American Express, Lululemon, Orcl) are in major downtrends and should be avoided regardless of valuation. Creator repeatedly emphasizes 'their trend is absolute ass' as disqualifying factor regardless of fundamental appeal. Trend must confirm before entering positions."
+        ],
+        "tickers_mentioned": [
+          "GOOGL",
+          "GOOG",
+          "AVGO",
+          "ORCL",
+          "SOXL",
+          "XLB",
+          "XLC",
+          "VISTRA",
+          "CEG",
+          "GEV",
+          "BE",
+          "MSFT",
+          "META",
+          "NVDA",
+          "AMD",
+          "INTC",
+          "MRVL",
+          "ON",
+          "AMZN",
+          "TSLA",
+          "IBM",
+          "AAPL",
+          "COIN",
+          "HOOD",
+          "DELL",
+          "IGV",
+          "UBER",
+          "NFLX",
+          "MU",
+          "TSM",
+          "UNH",
+          "DRAM",
+          "VRT",
+          "NOKEN",
+          "TE",
+          "UNI",
+          "SPY",
+          "QQQ"
+        ]
+      },
+      "price_at_recommendation": {
+        "SOXL": 158.91,
+        "COIN": 178.45,
+        "GEV": 997.09,
+        "MRVL": 284.68,
+        "AMZN": 259.92,
+        "GOOG": 347.37,
+        "DRAM": 60.01,
+        "XLC": 111.26,
+        "AXP": 304.25,
+        "DELL": 578.96,
+        "UBER": 68.45,
+        "NVDA": 237.47,
+        "CEG": 299.59,
+        "TSLA": 377.81,
+        "NFLX": 69.7,
+        "UNH": 375.98,
+        "META": 721.31,
+        "MSFT": 529.76,
+        "HOOD": 109.51,
+        "NVO": 38.26,
+        "MU": 1088.0,
+        "AAPL": 336.67,
+        "LULU": 91.88,
+        "AVGO": 376.51,
+        "INTC": 113.12,
+        "TE": 3.73,
+        "TSM": 472.2,
+        "AMD": 645.86,
+        "IBM": 220.51,
+        "VRT": 246.49,
+        "GOOGL": 350.5,
+        "IGV": 109.84,
+        "BE": 291.29,
+        "ON": 82.51,
+        "ORCL": 143.56,
+        "XLB": 48.98,
+        "ADBE": 232.77
+      }
+    },
+    "yboW5zm4tnw": {
+      "channel": "Jose Najarro Stocks",
+      "title": "NVIDIA, AMD, Microsoft \u2014 The AI Boom Is Getting BIGGER!!",
+      "upload_date": "20261008",
+      "url": "https://www.youtube.com/watch?v=yboW5zm4tnw",
+      "processed_at": "2026-10-08T09:24:24.108551",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "MSFT",
+            "company_name": "Microsoft Corporation",
+            "reason": "Microsoft is positioning itself as the platform for safe AI agents, which is crucial for AI adoption. The company launched RTX Spark laptops with Nvidia, showcasing consumer AI integration through Windows PCs priced from $2,600 to $7,000. Microsoft is also bringing Meta's Muse as a native app to Windows. The creator notes Microsoft is doing amazing at $529 and references buying it in the high 300s as a past opportunity, illustrating the market rewards patient investors.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices",
+            "reason": "AMD CEO Lisa Su met with Samsung leadership to discuss accelerating memory capacity expansion over the next 3-5 years, indicating strong demand confidence. AMD has strong partnerships with Samsung on HBM4 for MI455X and other solutions. The creator states AMD is trading at $645 and expresses satisfaction with the stock performance and continued wins in AI processors and photonics markets.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "ATEST",
+            "company_name": "Air Test Systems",
+            "reason": "Air Test is a small semiconductor equipment player that the creator covered when it was trading in the $11-12 range, now a multi-multibagger. The company received a $6 million follow-on order from a hyperscaler customer for next-generation AI processors. Revenue is expected to grow from $50 million in fiscal 2026 to 136 million projected, with company guidance of 130-150 million. The creator expects this order will likely drive guidance upgrades to 160-170 million when earnings are reported. The company continues winning in AI processors, photonics, and potentially memory markets.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Stock was down 3% on the announcement day despite positive news."
+          },
+          {
+            "ticker": "CORE",
+            "company_name": "Core Weave",
+            "reason": "Core Weave announced expansion into India with a 240 megawatt AI cloud facility and plans to install Nvidia Vera Rubins with the first wave expected mid-2028. The company is also expanding globally with three facilities totaling 360 megawatts becoming operational in Indonesia. This represents significant global capacity growth beyond the United States, with global contracted power reaching over 4.2 gigawatts. The creator is excited about upcoming earnings to see how these expansions impact their metrics.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Stock was down 3.5% on the expansion announcement. The India facility won't be operational until mid-2028, representing a longer-term catalyst."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Memory supply remains a critical limiting factor in AI PC pricing. RTX Spark laptops with 128GB memory cost up to $7,000, and many SKUs are already sold out. High memory prices persist because major players like Microsoft and Nvidia wouldn't launch premium products at these price points if they expected dramatic price decreases in the near term, indicating the memory cycle will continue.",
+          "AI safety and trust remain significant barriers to broader AI agent adoption. Consumer hesitance about AI agents running on personal computers is limiting adoption. Until consumers feel safe delegating control to AI agents (similar to how they use Word and Excel without question), demand for AI infrastructure may not reach full potential. This represents a regulatory and adoption risk for the entire AI ecosystem."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "MSFT",
+          "AMD",
+          "ATEST",
+          "CORE",
+          "GOOGL",
+          "U"
+        ]
+      },
+      "price_at_recommendation": {
+        "MSFT": 529.76,
+        "ATEST": 24.98,
+        "AMD": 645.86
+      }
     }
   },
   "channel_ids": {

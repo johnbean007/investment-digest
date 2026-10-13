@@ -2,6 +2,10 @@
 
 Daily pipeline that monitors 7 YouTube investment channels, extracts transcripts, analyses them with Claude for stock recommendations, enriches with live market data, and serves a dashboard via GitHub Pages at [johnbean007.github.io/investment-digest](https://johnbean007.github.io/investment-digest).
 
+> **New session? Start with [`HANDOFF.md`](HANDOFF.md).** It has the 30-second health
+> check, where everything lives, and the current open items. This README is the deep
+> reference behind it.
+
 ## Where things live
 
 | Thing | Path | Why |
@@ -100,13 +104,15 @@ launchctl list | grep investment    # second column is last exit code, want 0
 
 `requirements.txt` pins `youtube-transcript-api==1.2.4`. Do not unpin it. The code uses the 1.x instance API (`YouTubeTranscriptApi(http_client=...)`). A 0.6.x install fails 100% of the time, silently.
 
-## Status as of 17 July 2026
+## Status as of 13 October 2026
 
-Fully restored and running. Rebuild after a laptop theft: new machine, new Homebrew, rebuilt venv, rotated Anthropic and YouTube API keys into the keychain, re-authed GitHub, repo relocated out of iCloud, launchd job reinstalled and confirmed green (exit 0, pulled, analysed, committed, pushed).
+Running and current. Last verified green on 13 October: manual catch-up run exit 0, fresh `latest.json`, committed and pushed, tree clean, in sync with origin.
 
-Cookies re-exported 16 July and the `yt-dlp` fallback verified end to end for the first time since the rebuild: it pulled real subtitles using the cookie file. Every credential from the stolen laptop has now been rotated or invalidated.
+The dashboard carries the full feature set from the July rebuild plus the 18 July enhancement round: company descriptions (summary row and detail card), a richer summary table (price, daily and monthly change, 52-week range bar), a dated timeline with a "+N earlier" expander, chronological merged buy/avoid mentions, and corrected column sorting. See the session log for detail.
 
-**19 digests published unattended 14 to 17 July** (3, 6, 9, 1 per day), across sleeps and reboots, with a digest file for every day and no gaps. The automation is proven, not just configured.
+History: the project was rebuilt from scratch after a July 2026 laptop theft (new machine, rebuilt venv outside iCloud, rotated Anthropic and YouTube keys into the keychain, repo relocated out of `~/Documents`, launchd reinstalled). Every credential from the stolen laptop has been rotated or invalidated.
+
+**Known gap: no digest files for 9 to 12 October.** A run interrupted on 8 October left `data/processed_videos.json` dirty, and the dirty-tree guard (then unscoped) skipped every run for five days until found and fixed on 13 October. The dashboard itself lost nothing: `latest.json` aggregates a rolling 30-day window, so all in-window recommendations are present. Only the per-day snapshot files for those four days are absent. Resolved; see the 13 October session-log entry.
 
 ### Quick health check
 
@@ -122,22 +128,33 @@ tail -3 ~/Library/Logs/investment-digest.out.log
 
 `data/latest.json` should be under ~1 hour old. If it is stale but launchd says exit 0, the pipeline is running and finding nothing new, which is normal outside the channels' posting hours. If launchd shows a non-zero exit, read `~/Library/Logs/investment-digest.err.log` first.
 
-One more stale-but-green cause since 18 July: **`run.sh` now skips entirely when the working tree is dirty** (it would otherwise run uncommitted code and push it live), logging "Working tree dirty, skipping run" and raising a notification. So if `git status --short` is not empty, the automation is paused by design, not broken. Commit or stash to resume.
+**Stale-but-green cause to check first (added 18 July, scoped 13 October): `run.sh` skips when uncommitted _code_ is present.** It would otherwise run half-finished code and push it live. The check is scoped to exclude `data/` and `docs/data/`, which are the pipeline's own output, so only genuine code edits pause it. The skip logs "Uncommitted code changes, skipping run" to the err log and raises a notification. So if the digest is stale and the err log shows that line, commit or stash the code change to resume. (Before 13 October the check covered the whole tree, which deadlocked on the pipeline's own dirty state file; that is what caused the 9 to 12 October gap.)
 
 ## Known issues and next steps
 
+- **RESOLVED 13 October 2026: the dirty-tree guard no longer deadlocks on the pipeline's own data.** The guard added 18 July checked the whole working tree. A run interrupted on 8 October left `data/processed_videos.json` dirty, and because the pipeline cannot run to commit that file without first passing the guard, every run skipped for five days (the 9 to 12 October gap). Fixed by scoping the check to exclude `data/` and `docs/data/`: a dirty state file now rides through the autostash and is committed by the run itself, while uncommitted code still pauses the automation. The guard against running half-finished code live is intact; only its blind spot for the pipeline's own output is gone.
 - **RESOLVED 17 July 2026: the cookie fallback no longer fails silently.** It had broken four ways in ten days (expired 6 July; killed by a Google sign-out 14 July; exported from the wrong domain 16 July; and destroyed in place by yt-dlp's writeback, found 17 July). None surfaced in normal operation, because transcripts come via the `youtube-transcript-api` primary path, which never touches cookies, so the pipeline looked perfectly healthy with a dead fallback. Now: `validate_cookies()` gates every run and `FALLBACK` counts attempts vs successes, both raising a macOS notification via `alert()`. Notifications are rate-limited to one per 6 hours per problem and cleared on recovery; the log still records every occurrence.
 - **Cookies are still plaintext on disk.** The API keys moved to the keychain on 14 July 2026, but `yt_cookies.txt` did not, because yt-dlp wants a file path. It is the more sensitive of the two, being live Google session access. Options if this matters: write the cookie file to a temp path from a keychain blob at run time and delete it afterwards, or accept the risk given the repo is no longer in a sync folder.
 - **Ticker mismatches from Claude.** yfinance 404s on `SPACEX`, `VERTIV`, `T1ENERGY`, `TOONE`, `NEBIUS` and similar. Claude sometimes returns company names or near-misses instead of real tickers. Cosmetic data-quality issue, worth a prompt tweak in `analysis_prompt.md`.
-- **No alerting on credential expiry.** Both the YouTube cookies and `ANTHROPIC_API_KEY` silently expired in July 2026 and nothing noticed until digest freshness visibly degraded. Still true. Same root cause as the cookie item above: nothing in this pipeline fails loudly.
+- **No freshness alerting (top candidate next task).** Nothing watches whether the dashboard is actually updating. Expired credentials in July, and the guard deadlock in October, both ran for days before anyone noticed via a visibly stale dashboard. A small check that raises a notification when `data/latest.json` is older than ~3 hours during posting hours would have caught both on day one. This is the single highest-leverage improvement outstanding: it closes the "fails silently" gap that every incident so far has shared.
 - **`generated_at` is naive local time.** `data/latest.json` writes `generated_at` with no UTC offset while `run.sh` logs in UTC, so on BST the timestamp reads an hour ahead of the run that produced it. Harmless now, confusing later: the field is served to the browser, and when BST ends in October the apparent offset changes. Write it as UTC with an offset, or as ISO-8601 with `Z`.
 - **Output quality not independently validated.** Use `data/eval_transcripts/` (one video per week, transcript plus Claude's analysis side by side) to spot-check accuracy.
 - **Re-check the three "no transcript" channels** (CouchInvestor, The Traveling Trader, Mr FIRED Up Wealth). The original diagnosis (creators do not enable captions) predates the version-mismatch fix, so it may not have been the real cause.
-- **`BATCH_SIZE=5` and the hourly cadence are now tunable.** This was blocked on having steady-state data. Four days now exist (14 to 17 July, 19 runs). Nobody has looked at it yet. The question is whether 5 per hour is leaving throughput on the table or still occasionally tripping the burst limit; `data/monitor.log` has the evidence.
+- **`BATCH_SIZE` (currently 8 in `pipeline/config.py`) and the hourly cadence are tunable, still unexamined.** Months of run data now sit in `data/monitor.log`. The question is whether 8 transcript attempts per hour leaves throughput on the table or occasionally trips YouTube's burst limit. Nobody has analysed it.
 
 ## Session log
 
 Newest first.
+
+### 13 October 2026, five-day outage: the guard deadlocked on its own data
+
+Opened to check whether the digest was still running. It was not, and had not been since 8 October. launchd was firing hourly (exit 0) but every run skipped at the dirty-tree guard, which the err log showed plainly: eight "Working tree dirty, skipping run" lines. `latest.json` was five days stale.
+
+Root cause was the guard added on 18 July, turned against itself. A run around 8 October wrote 78 new records to `data/processed_videos.json` but was interrupted (sleep or kill) before `run.sh` reached its commit step, leaving that state file dirty. The guard checked the whole tree, so it then skipped every subsequent run; and because the pipeline cannot run to commit the file without first passing the guard, nothing could clear it. A self-sustaining deadlock, triggered by the pipeline's own output being mistaken for a human edit.
+
+Fixed by scoping the guard to exclude `data/` and `docs/data/` (`git status --porcelain -- ':(exclude)data' ':(exclude)docs/data'`). Those are the pipeline's output surface, which it writes every run and commits at the end; a dirty file there now rides through the autostash and is overwritten and committed by the run itself. Genuine uncommitted code still pauses the automation, so the original protection against pushing half-finished code live is intact. Verified by a manual `run.sh` that passed the scoped guard, cleared the five-day backlog, committed and pushed (digest `4157533`), and left the tree clean and in sync.
+
+Lesson restated for the next person: every incident in this project's history has been a silent failure found late (expired credentials in July, this deadlock in October). The pipeline still has no freshness alarm. That is now the top open item: a check that notifies when `latest.json` goes stale would have caught this on day one instead of day five.
 
 ### 18 to 19 July 2026, dashboard enhancements, sort defects, and a dirty-tree guard
 

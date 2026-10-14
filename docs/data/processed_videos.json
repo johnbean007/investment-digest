@@ -27410,6 +27410,214 @@
         "GOOGL": 353.78,
         "GS": 891.91
       }
+    },
+    "1fg4FpDs5Sg": {
+      "channel": "Jose Najarro Stocks",
+      "title": "AI Stocks Are Crashing...But Something BIG Is Happening!!",
+      "upload_date": "20261013",
+      "url": "https://www.youtube.com/watch?v=1fg4FpDs5Sg",
+      "processed_at": "2026-10-14T09:33:54.608871",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "MRVL",
+            "company_name": "Marvell Technology",
+            "reason": "Microsoft's plan to make Maya its primary AI inference system with multi-gigawatt deployment starting in 2027 should be bullish for Marvell as they are part of the Maya ecosystem that helps build this chip. As Microsoft continues to expand into the ASIC market, Marvell is positioned to benefit from this infrastructure buildout. The creator believes this represents a genuine opportunity in the networking and semiconductor space.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "High production is not expected until 2027, so things can change before then. The stock was down roughly 3% on the day of recording."
+          },
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices",
+            "reason": "Reports indicate that AMD is planning to raise CPU prices as demand far exceeds supply in the CPU space. This pricing power will create significant margin increases for the company. The creator is a current AMD shareholder and believes this reflects a bullish dynamic where demand and supply imbalance can only be corrected through price increases, benefiting AMD's profitability.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The semiconductor sector was experiencing broad selloffs on the day of recording, with AMD down roughly 2%. Market volatility is expected to continue."
+          },
+          {
+            "ticker": "QCOM",
+            "company_name": "Qualcomm",
+            "reason": "Similar to AMD, Qualcomm is raising or planning to raise CPU prices, which will result in margin expansion. The creator is starting to take a closer look at Qualcomm as a potential investment opportunity given the favorable supply-demand dynamics in the CPU space.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "No specific cautions mentioned, though the creator notes they are just starting to examine this stock more closely."
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms",
+            "reason": "Meta is now ranked number three in AI model quality (behind only Anthropic, ahead of OpenAI and Google), which is extremely bullish given that just a few months ago the market thought Meta was dead in the AI race. With all the infrastructure Meta has in place, they will be able to sell AI tokens at great value. The creator believes Meta's positioning is playing out very positively and the company is killing it in the AI space.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "None explicitly mentioned for Meta specifically."
+          },
+          {
+            "ticker": "INTC",
+            "company_name": "Intel Corporation",
+            "reason": "Intel is raising or planning to raise CPU prices due to strong demand exceeding supply in the CPU market. This pricing power will create margin expansion for the company and positions it to benefit from the agentic AI wave driving CPU demand.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The semiconductor sector was experiencing broad selloffs on the day of recording."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "The Korean market (Kospi) was down roughly 6% at the time of recording, which the creator believes will create more bearish sentiment for the AI and semiconductor industry. The entire semiconductor sector experienced significant selling pressure with multiple stocks declining 1-7%.",
+          "Broadcom CEO warned that many investors are approaching AI like casino gamblers, betting without strategy. While the creator doesn't view this as bearish commentary, it reflects concerns about capital allocation efficiency in AI infrastructure spending. Companies need to chase things that are working rather than randomly spending billions on unproven solutions.",
+          "The market remains very volatile and the creator does not believe we are at the bottom yet or close to it, despite seeing attractive opportunities. Investors should be cautious about timing and not assume stability in the near term."
+        ],
+        "tickers_mentioned": [
+          "AMD",
+          "NVDA",
+          "CREDO",
+          "MU",
+          "MRVL",
+          "BCMR",
+          "QCOM",
+          "INTC",
+          "META"
+        ]
+      },
+      "price_at_recommendation": {
+        "MRVL": 268.73,
+        "QCOM": 176.86,
+        "INTC": 102.81,
+        "AMD": 605.53,
+        "META": 762.5
+      }
+    },
+    "TgDV_-LeQSE": {
+      "channel": "Jose Najarro Stocks",
+      "title": "CoreWeave, IREN & Nebius CRASH \u2014 I'm Watching These Dips",
+      "upload_date": "20261009",
+      "url": "https://www.youtube.com/watch?v=TgDV_-LeQSE",
+      "processed_at": "2026-10-14T09:34:12.994768",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "CWEB",
+            "company_name": "CoreWeave",
+            "reason": "The creator states that CoreWeave at $81 seems like a 'no-brainer' to him because he believes the AI compute market is truly here and the demand for AI compute will continue to be strong. He emphasizes that while there is always risk, his overall thesis about sustained AI compute demand remains intact despite the market sell-off. The dip presents an opportunity to buy into a stock he is extremely bullish on.",
+            "when_to_buy": "During market dips like the one experienced on the video date, particularly at depressed valuations following panic selling",
+            "target_price": null,
+            "cautions": "The creator acknowledges 'there's never a no-brainer' and that there is always risk involved. He also notes he already has this as a massive position in his portfolio and is not jumping in immediately, suggesting investors should have conviction before buying."
+          },
+          {
+            "ticker": "IREN",
+            "company_name": "Iren (implied - likely a clean energy or infrastructure play based on context)",
+            "reason": "The creator mentions Iran (IREN) as one of the stocks that experienced a 7% decline and states he would 'not mind buying at these levels' if he didn't already have a position. This indicates he views the dip as an opportunity for new investors to establish positions.",
+            "when_to_buy": "During the market dip when the stock was down approximately 7%",
+            "target_price": null,
+            "cautions": "The creator already has a massive position in this stock and is not jumping in immediately. He suggests this is only attractive for investors who don't already have exposure."
+          },
+          {
+            "ticker": "AVGO",
+            "company_name": "Broadcom Corporation",
+            "reason": "The creator states he doesn't own Broadcom but 'definitely sees the bullish cases' and believes with the company trading at a price-to-earnings ratio of 20, 'this is one of those times when the market is wrong.' He suggests the stock took a huge hit in the recent sell-off and represents an opportunity.",
+            "when_to_buy": "Following the market dip, particularly at current valuation levels with a P/E ratio of 20",
+            "target_price": null,
+            "cautions": "The creator does not personally own this stock, suggesting he may still be in research mode. He is cautious about committing without his full thesis being developed."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "The semiconductor and AI market exhibits extreme volatility where single pieces of news can move stock prices 7-9% despite the news potentially being misinterpreted or incomplete. The market operates in an 'ask questions later, react now' mode that creates unnecessary fear and selling pressure. This volatility creates both significant risk and opportunity for investors.",
+          "Market participants frequently misinterpret revenue metrics and fail to ask clarifying questions before selling. In the OpenAI example, the market sold off aggressively based on misunderstood ARR figures without accounting for the fact that the $70 billion analyst expectation included revenue sharing while OpenAI's reported $50 billion did not. This highlights the danger of headline-driven investing without deeper fundamental analysis.",
+          "AI investing carries the risk of irrational valuation expectations and premiums. The market fears that AI 'could be the possibility that it's going to leave as quickly as it came,' creating sell-offs when growth expectations miss, even if long-term demand remains strong. Investors should have conviction in their underlying thesis rather than reacting to short-term sentiment shifts."
+        ],
+        "tickers_mentioned": [
+          "CWEB",
+          "IREN",
+          "COHR",
+          "ASTR",
+          "LITE",
+          "ORCL",
+          "INTC",
+          "ARM",
+          "TSMC",
+          "AVGO"
+        ]
+      },
+      "price_at_recommendation": {
+        "CWEB": 18.6,
+        "IREN": 34.8,
+        "AVGO": 357.31
+      }
+    },
+    "z6Q_IBAKLHg": {
+      "channel": "FinTek",
+      "title": "Top Robotics Stock to BUY NOW",
+      "upload_date": "20261013",
+      "url": "https://www.youtube.com/watch?v=z6Q_IBAKLHg",
+      "processed_at": "2026-10-14T09:34:22.151262",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": null,
+            "company_name": "Algro Microsystems",
+            "reason": "Algro Microsystems specializes in developing the chip layer of the robotic stack with current business selling to automotive makers and data centers at a reasonable valuation that is neither cheap nor expensive. The company possesses a stack of expertise building chips for cars that they claim can be carried over into other robots, representing a hidden business growing inside the company which the market may not be fully pricing in. As a $6 billion company, it remains under the radar despite this growth potential.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": []
+      },
+      "price_at_recommendation": {}
+    },
+    "MQ6bFCmOdRs": {
+      "channel": "FinTek",
+      "title": "Top Robotics Stock to BUY NOW",
+      "upload_date": "20261011",
+      "url": "https://www.youtube.com/watch?v=MQ6bFCmOdRs",
+      "processed_at": "2026-10-14T09:34:31.646736",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NOVA",
+            "company_name": "Novanta",
+            "reason": "Novanta specializes in robotics components and acts as a supplier to the entire physical stack for robotic movement. The company is listed at 16% undervalued across 12 different valuation metrics. The company expects revenue to increase 21% in their next quarter, with solid net income and very solid operating cash flow in their most recent quarter. The creator likes the stock at today's prices based on this valuation and growth outlook.",
+            "when_to_buy": "at today's prices",
+            "target_price": null,
+            "cautions": "If their automation business doesn't grow faster than the medical side over the next 2 years, the creator would probably sell to redeploy into a more pure-play robotics stock, indicating execution risk on growth in the automation segment."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": [
+          "NOVA"
+        ]
+      },
+      "price_at_recommendation": {}
+    },
+    "mYEiVRoa9t8": {
+      "channel": "FinTek",
+      "title": "Why I Own $88,000 in Crowdstrike Stock",
+      "upload_date": "20261009",
+      "url": "https://www.youtube.com/watch?v=mYEiVRoa9t8",
+      "processed_at": "2026-10-14T09:34:40.659190",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "CRWD",
+            "company_name": "CrowdStrike Holdings",
+            "reason": "CrowdStrike is the best in the world at what they do, sitting in the top right quadrant for Gartner on endpoint protection and in the top right for exposure management from IDC. The creator has held this as one of their biggest stock holdings for several years and is very happy to hold them over a long time horizon.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "At today's prices, the stock is basically priced for perfection, and the creator does not see a ton of huge upside in the short term for this stock, only over a long time horizon."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": [
+          "CRWD"
+        ]
+      },
+      "price_at_recommendation": {
+        "CRWD": 261.21
+      }
     }
   },
   "channel_ids": {

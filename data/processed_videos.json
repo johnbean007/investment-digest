@@ -27618,6 +27618,17 @@
       "price_at_recommendation": {
         "CRWD": 261.21
       }
+    },
+    "aKFK1LENoHE": {
+      "channel": "The Traveling Trader",
+      "title": "\ud83d\udd34 Day Trading LIVE | CPI Inflation Report",
+      "upload_date": "20261014",
+      "url": "https://www.youtube.com/watch?v=aKFK1LENoHE",
+      "processed_at": "2026-10-14T13:50:11.330289",
+      "transcript_fails": 1,
+      "last_reason": "unavailable",
+      "terminal": true,
+      "skipped": "no transcript"
     }
   },
   "channel_ids": {

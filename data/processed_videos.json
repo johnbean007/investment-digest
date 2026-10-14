@@ -27654,6 +27654,48 @@
         "tickers_mentioned": []
       },
       "price_at_recommendation": {}
+    },
+    "WZtK2549w7Q": {
+      "channel": "Jose Najarro Stocks",
+      "title": "CoreWeave Stock CRASHES 15% \u2014 Here's Why I'm BULLISH!!",
+      "upload_date": "20261014",
+      "url": "https://www.youtube.com/watch?v=WZtK2549w7Q",
+      "processed_at": "2026-10-14T18:26:20.091723",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "CWEB",
+            "company_name": "CoreWeave",
+            "reason": "The creator is bullish on CoreWeave despite the 15% stock crash. He believes the sell-off is an overreaction driven by bond yield concerns (15% yield on July 2026 bonds) and Oracle pipeline delays, not fundamental business deterioration. CoreWeave is the largest NeoCloud player, adding 500 megawatts of AI infrastructure capacity last quarter alone\u2014more than all other NeoCloud competitors combined. The creator uses AI daily and sees demand growing dramatically, and ASML's guidance that chipmaking customers will face supply shortages until 2028 creates a multi-year tailwind for AI infrastructure players like CoreWeave. The valuation appears disconnected from fundamentals: CoreWeave has 1.5 gigawatts of AI infrastructure at a $36 billion market cap when one gigawatt is worth ~$60 billion according to the creator's analysis, suggesting significant upside. The creator is a long-term investor who believes the market is wrong and this volatility presents an opportunity.",
+            "when_to_buy": "Current price levels during the 15% crash; presented as an opportunity to add to position",
+            "target_price": null,
+            "cautions": "Bond yields rising to 15% increases future debt financing costs for CoreWeave. Future debt issuance could become significantly more expensive. Oracle's recent request to expedite data center pipelines suggests infrastructure buildout delays could impact revenue timing. The creator acknowledges the ride will be 'very choppy' and volatility will persist. CoreWeave lacks diversified revenue streams unlike competitors (which have e-commerce, advertising, software, etc.), making it pure-play AI infrastructure risk."
+          },
+          {
+            "ticker": null,
+            "company_name": "NeoCloud sector broadly",
+            "reason": "The creator remains 'very very much bullish' on the overall NeoCloud space as an investment theme. While Nebius and other NeoCloud players are down ~9%, the creator views this as an opportunity to add more exposure. The sector benefits from the multi-year AI infrastructure buildout cycle and ASML's confirmation of chip supply shortages through 2028. Traditional financing is moving too slowly for infrastructure buildout needs, but Nvidia's new $500 billion AI compute infrastructure financing platform (announced August 2024, involving Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs) will help eliminate financing hurdles. Companies like CoreWeave are already working with Nvidia and will have access to cheaper future financing through these partnerships.",
+            "when_to_buy": "During current market weakness and sell-off",
+            "target_price": null,
+            "cautions": "The sector faces macro headwinds including rising bond yields and regulatory/permitting delays for data center construction. Elon Musk's negative sentiment on CoreWeave may create reputational risk or competitive pressure from SpaceX alternatives. Execution risk remains high on Nvidia's financing platform partnerships, which are 'subject to execution of final agreement.'"
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Rising bond yields (10-year Treasury yield reaching 4.5%) are creating a rerating effect across AI infrastructure stocks, particularly hitting pure-play pure-play infrastructure companies like CoreWeave harder than diversified competitors. Higher yields increase future debt financing costs significantly.",
+          "Regulatory and infrastructure permitting delays are slowing data center construction timelines. Oracle recently asked regulators to expedite data center pipelines due to delays, suggesting this may be a systematic issue affecting the entire sector. These delays create timing mismatches between capex spend and revenue collection.",
+          "Elon Musk publicly warned about AI infrastructure bubble risks ('yikes' response), creating negative sentiment. The creator suggests Musk may have competitive incentives (SpaceX competing for infrastructure buildout work) to scare the market, but the sentiment could impact investor perception regardless.",
+          "The market may be correctly pricing in execution risk for the massive scale of AI infrastructure buildout required. The creator acknowledges that if you're not inside the AI industry using these technologies daily, 'the type of money being played out in the AI story seems very scary.'"
+        ],
+        "tickers_mentioned": [
+          "CWEB",
+          "NVDA",
+          "ASML"
+        ]
+      },
+      "price_at_recommendation": {
+        "CWEB": 18.14
+      }
     }
   },
   "channel_ids": {

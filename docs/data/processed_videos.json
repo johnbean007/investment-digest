@@ -27742,6 +27742,64 @@
       "price_at_recommendation": {
         "AXON": 408.42
       }
+    },
+    "lNojTB9UhaA": {
+      "channel": "CouchInvestor",
+      "title": "Is CoreWeave Failing? Nvidia Bailout Rumors & Credit Market Panic",
+      "upload_date": "20261015",
+      "url": "https://www.youtube.com/watch?v=lNojTB9UhaA",
+      "processed_at": "2026-10-15T14:06:31.713142",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NBIS",
+            "company_name": "Nebius",
+            "reason": "Nebius is positioned as a safer investment than CoreWeave due to superior fundamentals and capital structure. The company has essentially as much cash as debt and could pay it all off, operates with an asset-light model, maintains high prepayment rates, and generates significantly higher revenue per megawatt ($20-25 million) compared to CoreWeave ($15-16 million). The team has years of experience from building Yandex and demonstrates better operational execution. Nebius is turning down long-term deals to focus on more profitable short-term contracts, indicating strong market positioning and demand. The company's auction sales are continuously breaking records, demonstrating insatiable demand for their capacity.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Trading at a much higher premium valuation than CoreWeave. If CoreWeave faces severe distress, it could create contagion effects in the broader NeoCloud sector that could impact Nebius stock price in the short term, though the underlying business fundamentals should remain strong. Credit markets may become more restrictive for all NeoCloud providers if sentiment deteriorates further."
+          },
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Nvidia represents a core holding based on the secular demand for AI infrastructure and compute. The company has an insatiable pipeline of demand across hyperscalers (Microsoft, OpenAI, Meta, Google, Amazon) with customers booking capacity out to 2028-2029. ASML and TSMC data confirm accelerating demand with TSMC growing 55% year-over-year and customers booking into 2029-2030. Even if there are temporary disruptions in the NeoCloud sector, the underlying AI infrastructure buildout remains intact with no indication that demand is slowing. Jensen Huang's involvement with CoreWeave and potential involvement in financing solutions ($500 billion program) further demonstrates Nvidia's central role in the AI buildout.",
+            "when_to_buy": null,
+            "target_price": "250",
+            "cautions": "Short-term sentiment headwinds from CoreWeave credit concerns could create volatility. The stock has not yet reached the $250 price target that was discussed at CES. Potential regulatory risks if the administration restricts data center expansion (though this is not viewed as likely by the panelists)."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "COREWEAVE",
+            "company_name": "CoreWeave",
+            "reason": "CoreWeave faces significant credit market stress with bond yields spiking to 12-15% (up from 9% in June), indicating loss of investor confidence despite company assertions that fundamentals remain strong. The company has taken on massive debt ($50+ billion) to fund data center buildouts, with interest payments already doubling to $640 million last quarter and exceeding $900 million this quarter. While the company has $100-130 billion in backlog from contracts signed years ago at lower pricing ($15-16 million per megawatt), there is uncertainty about whether revenue recognition will occur on schedule and whether the company can service its debt obligations if there are delays in data center deployment or customer payment issues. The credit market deterioration suggests sophisticated investors have information or concerns about execution risk that retail investors cannot currently see. Elon Musk's recent comments about how difficult it is to actually execute on data center buildouts (despite easy capital raising) may reflect concerns about CoreWeave's execution capabilities.",
+            "risk": "Stock could trade down to $30-40 range if credit concerns intensify or if data center deployment delays occur. Bankruptcy or distressed restructuring risk if execution falters and credit markets remain closed. Potential dilution from emergency capital raises or bailout scenarios."
+          }
+        ],
+        "key_warnings": [
+          "Credit market stress in the NeoCloud sector represents a significant warning sign that sophisticated bond investors possess concerning information not yet visible in equity markets or publicly announced corporate results. While fundamentals appear solid based on backlog, capex growth, and hyperscaler demand commentary, the explosion in CoreWeave bond yields to 12-15% suggests either execution risk in data center deployment, potential customer payment delays, or unknown contract/delivery issues. This divergence between credit market signals and equity/fundamental narratives creates uncertainty.",
+          "Structural risk in the AI infrastructure buildout: The NeoCloud sector is in a capital-intensive prisoner's dilemma where companies must take on massive debt to remain competitive, even if the debt burden is unsustainable. If credit markets freeze or capital becomes unavailable at reasonable rates, the entire sector faces stress regardless of underlying demand. Power and permitting constraints (450+ gigawatts of data center capacity seeking permits in Texas against only 91 gigawatts available grid capacity) could delay revenue recognition for leveraged players like CoreWeave.",
+          "Contagion risk: If CoreWeave requires a bailout from Nvidia or faces restructuring, it could create negative sentiment cascades across all NeoCloud providers and potentially impact hyperscaler confidence in third-party data center capacity, even though underlying demand for AI compute remains strong. Anthropic's planned IPO faces headwinds from this sentiment deterioration.",
+          "Binary outcome uncertainty: The market is unclear whether the credit market stress represents a temporary repricing of risk or a signal of fundamental business model deterioration. Upcoming earnings from TSMC, Meta, Google, Amazon, and other hyperscalers will be critical to resolving this uncertainty, as they can provide color on whether NeoCloud partnerships remain on track."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "COREWEAVE",
+          "NBIS",
+          "TSMC",
+          "ASML",
+          "ORCL",
+          "META",
+          "GOOGL",
+          "AMZN",
+          "AMD",
+          "INTC"
+        ]
+      },
+      "price_at_recommendation": {
+        "NVDA": 221.3,
+        "NBIS": 186.01
+      }
     }
   },
   "channel_ids": {

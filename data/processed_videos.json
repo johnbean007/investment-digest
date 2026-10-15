@@ -27696,6 +27696,52 @@
       "price_at_recommendation": {
         "CWEB": 18.14
       }
+    },
+    "-6wR6p9pmlg": {
+      "channel": "CouchInvestor",
+      "title": "AI Stocks Are Crashing. Here\u2019s What I\u2019m Actually Doing",
+      "upload_date": "20261014",
+      "url": "https://www.youtube.com/watch?v=-6wR6p9pmlg",
+      "processed_at": "2026-10-15T08:56:01.992568",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "AXON",
+            "company_name": "Axon Enterprise",
+            "reason": "The creator explicitly stated they are looking to buy more Axon. While Axon has nothing to do with AI stocks, the creator is using this market dip as an opportunity to add to their position in what they consider a good business trading at a cheaper price than the previous day.",
+            "when_to_buy": "On dips like the current market correction",
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "NEBS",
+            "company_name": "Nebeus",
+            "reason": "The creator stated they are looking to buy more Nebs, which is down approximately 10% in this market correction. The creator has mentioned in past videos that if Nebs dips back under $200, they will be adding more to their position. This is viewed as a good business available at a discount during the current market pullback.",
+            "when_to_buy": "If it dips back under $200, otherwise on current weakness around 10% down",
+            "target_price": null,
+            "cautions": "The creator also mentioned they could increase their broad composition a bit more over the next couple of days, suggesting they are being cautious about position sizing and not deploying all capital at once."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "CoreWeave bond yields have surged significantly (2032 bonds now at 14.3%, 2031 bonds at 15.7%), indicating market concerns about the company's ability to make interest payments. Interest payments have more than doubled to approximately $900-950 million quarterly, and any delays from clients in payment or data center delivery could materially impact CoreWeave's ability to generate revenue and pay down debt. The risk is particularly acute given the huge backlog and the company's massive debt load relative to current profitability.",
+          "Oracle bond yields have also risen substantially (2031 bonds now at 7.1%, up from 2.87%), suggesting concerns about cloud infrastructure players more broadly. While the underlying cloud businesses (AWS, Azure, Google Cloud) are profitable and backed by strong parent companies, not every neo-cloud player will survive, and execution risk is critical.",
+          "The market is currently headline-driven and narrative-driven in this growth cycle, meaning stocks react sharply to news (IPO delays, security issues) rather than fundamentals. This creates volatility and potential mispricing of good businesses.",
+          "Paul Tudor Jones warned that 2027 could be 'really, really challenging' for the stock market due to negative flow dynamics\u2014specifically the most negative flow picture for US stocks since 2002 when accounting for buybacks, M&A versus IPOs and secondaries. The addition of $2 trillion mega-cap valuations (SpaceX, Anthropic, OpenAI) will suck capital away from other sectors.",
+          "CPI report came in hotter than expected, though the creator notes the majority of the inflation impact comes from fuel and oil prices. If oil prices remain elevated, inflation could remain sticky. However, the core inflation numbers are not as concerning if oil price volatility moderates.",
+          "Certain companies may face execution challenges or fail to deliver despite strong near-term demand. The creator emphasizes that in a growth cycle, 'certain companies will just execute much better than the others' and not all will survive, even with strong backlog visibility.",
+          "AI company IPO delays (specifically OpenAI and Anthropic) are bleeding into broader AI narrative concerns, though this appears to be more of a headline issue than a fundamental business concern based on continued strong demand signals across the supply chain."
+        ],
+        "tickers_mentioned": [
+          "ASML",
+          "AXON",
+          "NEBS",
+          "NVDA"
+        ]
+      },
+      "price_at_recommendation": {
+        "AXON": 408.42
+      }
     }
   },
   "channel_ids": {

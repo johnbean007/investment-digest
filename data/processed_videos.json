@@ -27800,6 +27800,99 @@
         "NVDA": 221.3,
         "NBIS": 186.01
       }
+    },
+    "Yua_ExHN9Eg": {
+      "channel": "Mr. FIRED Up Wealth",
+      "title": "Why I'm Buying This Market Dip, Best Stocks to Buy Now!",
+      "upload_date": "20261015",
+      "url": "https://www.youtube.com/watch?v=Yua_ExHN9Eg",
+      "processed_at": "2026-10-15T19:45:57.186073",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "MU",
+            "company_name": "Micron Technology",
+            "reason": "The stock has sold off due to market misunderstanding of CXMT building DRAM, but CXMT's DRAM is not HBM and poses zero threat to Micron's high-tier AI memory business. Micron holds $73 billion in cash and marketable securities with massive visibility and sticking power\u201475% of its 2027 production capacity is already locked down. The stock has had a massive parabolic run from $100 to $1,254 (up 376% year-over-year), and a 50% retracement would create a buying opportunity. This is not a cyclical play like Micron of the past; it's positioned for long-term growth driven by robust multi-year AI demand. The creator recommended it at $85 in December 2024 and is considering adding on dips.",
+            "when_to_buy": "Expect a 50% retracement into the $850-$900 range or lower. Previous support levels include the 200-day simple moving average at $714, the previous low of $737 (from July), and the top of the yellow circle around $850. DCA in this range if stock pulls back.",
+            "target_price": "No specific upside target mentioned, but the creator expects it to reach previous highs after retracement.",
+            "cautions": "Stock is highly parabolic and has already run 376% year-over-year and 1,250% over five years. The creator warns not to chase air pockets on parabolic moves. Additionally, Micron is cyclical by nature, and while the creator believes we are not at the end of the current cycle, cycles do exist. Short-term market movements may not reflect fundamentals."
+          },
+          {
+            "ticker": "ORCL",
+            "company_name": "Oracle Corporation",
+            "reason": "Oracle is building a hyperscaler business through Oracle Cloud Infrastructure and is becoming a legitimate hyperscaler with an established ecosystem serving the Fortune 1000. Unlike pure neocloud plays, Oracle is an established company that pays a dividend and has plug-and-play infrastructure. The creator believes the winners long-term will be hyperscalers with ecosystems, and Oracle fits this profile. The recent sell-off from $340 (an air pocket) has created a buying opportunity at levels where the stock is trading below key technical support levels and moving averages. The creator has personal experience working at Oracle for 10 years and understands its competitive advantages.",
+            "when_to_buy": "DCA at $140 or less for a multi-year horizon. Current support levels include updated Fibonacci S2 at $190 and S3 at $107.01. The creator bought more at $127.77 premarket and is willing to buy further on weakness.",
+            "target_price": "$140 or less for entry; potential for significant upside over 2-3 years, though specific upside target not mentioned.",
+            "cautions": "Oracle has high debt levels and there are concerns about debt sustainability. The stock never should have reached $340 and that was an air pocket that has collapsed. Stock could potentially test lower Fibonacci levels (S2 $190, S3 $107.01). The creator emphasizes Oracle is not the same as pure-play neocloud companies and should not be compared directly. The creator currently holds a 2.28% position and is down 3.68% as of the video. Not suitable for those risk-averse to macro headwinds."
+          },
+          {
+            "ticker": "AVGO",
+            "company_name": "Broadcom",
+            "reason": "Broadcom has a favorable risk-reward profile despite near-term AI capex concerns. The creator has owned the stock since 2018 and views current levels as an opportunity for long-term accumulation. If the stock has a solid floor around $290 (bottom of the support zone) and potential upside to all-time highs near $500, the risk-reward is favorable over a 2-3 year holding period. The creator is buying in the community portfolio (which is up over $600,000 since starting in 2022 from zero), indicating conviction in the long-term thesis.",
+            "when_to_buy": "Buy on weakness toward $300 psychological support level and the previous S3 Fibonacci level of $301. Current price around $337. The creator expects it could go lower than current levels before bouncing.",
+            "target_price": "$500 (previous all-time high) as potential upside over 2-3 years.",
+            "cautions": "AI capex concerns are creating near-term headwinds. Stock is currently facing uncertainty about the sustainability of AI spending. However, the creator believes these fears are overblown and earning season from hyperscalers will reinforce accelerating capex rather than challenge it."
+          },
+          {
+            "ticker": "AAOI",
+            "company_name": "Applied Optoelectronics",
+            "reason": "Stock has reached the creator's buy range and offers a speculative long-term opportunity. The Fibonacci S3 level is at $79.98, and the creator views anything under the $75 area as a long-term buying opportunity. Bought at $76.47 in the community portfolio with plans to trim and rotate into dividend stocks if it rallies.",
+            "when_to_buy": "$75 area and below (below S3 Fibonacci of $79.98).",
+            "target_price": null,
+            "cautions": "This stock is described as highly speculative. Intended as a trade to convert into dividend stocks on strength. Not appropriate for risk-averse investors."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "CWEB",
+            "company_name": "Coreweave",
+            "reason": "Coreweave crashed 15% in one day after a Gartner report predicted 80% of neoclouds will evaporate by 2030. The stock is down 55-56% over the past year and down 12% year-to-date. While the creator does not believe in the neocloud business model long-term, he explicitly stated 'I'm not buying coreweave.' The stock went public at $40, ripped to $180, and the 52-week range is $60.55 to $150, showing extreme volatility and structural business model concerns.",
+            "risk": "Down 55-56% in the past year; potential for further deterioration if neocloud business model fails as predicted."
+          }
+        ],
+        "stocks_to_avoid_but_discuss": [
+          {
+            "ticker": "INBIS",
+            "company_name": "Inbis (implied from context)",
+            "reason": "Part of the neocloud trend showing weakness. Growing at 371% but faces structural concerns about business model sustainability and capital burn. The creator views the entire neocloud sector as overdone in terms of FUD and fear-mongering, though he doesn't recommend buying these stocks.",
+            "risk": "Potential business failure long-term due to unsustainable capex spending and lack of ecosystem moat."
+          },
+          {
+            "ticker": "IRA",
+            "company_name": "Infrastructure-related company (exact name unclear)",
+            "reason": "Another neocloud-exposed play. While growing at 142%, it faces the same structural concerns as other neocloud companies regarding long-term sustainability. Creator is not buying these stocks as they drift lower.",
+            "risk": "Could go belly up later; long-term model depends on constant capex spending with uncertain returns."
+          }
+        ],
+        "key_warnings": [
+          "Inflation is creating macro headwinds. CPI came in hot at 3.7% annual inflation in September, driven by elevated oil prices ($95-$105). Core CPI is at 2.6% after climbing to 3%. PPI this morning posted 6.3% versus 5.5% expected\u2014the largest gain since 2022. Treasury yields are spiking and stocks are selling off as the Fed will need to keep rates higher to combat inflation.",
+          "The AI capex narrative may be oversold. While near-term concerns about AI capex sustainability are creating sector-wide selling, the creator believes demand signals point the other direction. Taiwan Semiconductor crushed earnings and reiterated that 2026-2028 capex will be 'significantly higher' than the past 3 years, and demand from emerging agentic AI is robust. However, this could change, and if earnings disappoint, the market could go significantly lower.",
+          "Valuation air pockets are collapsing. Multiple AI and technology stocks had parabolic runs followed by sharp reversals (e.g., Micron from $100 to $1,254, Oracle from reasonable levels to $340). These air pockets are now collapsing, creating selling pressure across the board. This is a normal market dynamic but increases near-term volatility.",
+          "Beware of overnight headlines and narrative shifts. A single Gartner report predicting neocloud companies will fail caused an entire sector to crater. The creator notes this market doesn't always follow logic ('1+1=2')\u2014macro forces and sentiment shifts can override fundamentals. Taiwan Semi crushed earnings while semiconductor stocks sold off. New investors need to understand that positive news in one area (Taiwan Semi) can coincide with sector-wide selloffs.",
+          "Long-term AI growth intact but timing uncertain. The creator expects hyperscaler earnings this season to show accelerating capex and reinforce the 'higher and to the right' trajectory. However, there are macro risks including inflation, debt concerns, and potential recession risks. The creator has 12% cash and is ready to deploy if markets go lower. For 2027, the creator sees potential for a good year if inflation comes under control and rates decline, but acknowledges there are bear thesis scenarios."
+        ],
+        "tickers_mentioned": [
+          "MU",
+          "CXMT",
+          "TSM",
+          "NVDA",
+          "AMD",
+          "CWEB",
+          "ORCL",
+          "AVGO",
+          "AAOI",
+          "INBIS",
+          "IRA",
+          "NBIS"
+        ]
+      },
+      "price_at_recommendation": {
+        "MU": 907.68,
+        "ORCL": 134.06,
+        "AAOI": 81.74,
+        "CWEB": 18.34,
+        "AVGO": 338.94
+      }
     }
   },
   "channel_ids": {

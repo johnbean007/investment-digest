@@ -27893,6 +27893,115 @@
         "CWEB": 18.34,
         "AVGO": 338.94
       }
+    },
+    "sR_VXL1e5RU": {
+      "channel": "CouchInvestor",
+      "title": "Stocks Fell Again. Here\u2019s the Level I\u2019m Watching Before I Buy More",
+      "upload_date": "20261016",
+      "url": "https://www.youtube.com/watch?v=sR_VXL1e5RU",
+      "processed_at": "2026-10-16T18:01:52.500900",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NEBS",
+            "company_name": "Nebeus",
+            "reason": "The creator states Nebeus is a huge position for them and describes it as 'best-in-class' among AI infrastructure providers. GPU pricing data shows H100s up 3.3%, B200s up 10.2%, and B300s up 38.6% despite lower token prices, indicating increased compute demand. The creator expects Nebeus to benefit from this pricing power and margin expansion, with capacity to charge premium prices. The creator expects margins to improve and expects management commentary on increased per-megawatt pricing helping accelerate growth.",
+            "when_to_buy": "During current market dips; creator nibbled on Wednesday and Thursday",
+            "target_price": null,
+            "cautions": "Creator acknowledges this is speculative and earnings will need to confirm margin expansion claims. Not all neocloud providers are built the same, and execution risk remains."
+          },
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Based on the creator's DCF model, Nvidia has 34.2% upside from current prices despite being the largest company on the planet. The company is expected to grow 90% in the near term and potentially 80% in the following year. Even at this size with potential margin compression, the underlying fundamentals and GPU demand data suggest significant upside. The creator notes GPU pricing strength (B300s up 38.6%, H100s up 3.3%, B200s up 10.2%) contradicts bearish headlines.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The creator emphasizes this valuation depends on aggressive growth assumptions continuing. Market sentiment and headlines suggest caution, though creator argues fundamentals contradict the bearish narrative."
+          },
+          {
+            "ticker": "BROADCOM",
+            "company_name": "Broadcom Inc.",
+            "reason": "According to the creator's DCF model, Broadcom has 57% upside over the next two years based largely on management's own guidance. At the projected 2028 EPS of $30, even applying a conservative 20x P/E multiple yields $600 per share, while the creator's fair value estimate is $536.67, implying significant margin of safety and upside potential.",
+            "when_to_buy": null,
+            "target_price": "$536.67 (creator's fair value estimate)",
+            "cautions": "Valuation depends on management executing on their 2028 guidance. Creator's model is based on management projections which carry execution risk."
+          },
+          {
+            "ticker": "VOY",
+            "company_name": "Voyager",
+            "reason": "The creator's DCF model assigns a fair value of $45 compared to current price, representing 67.7% upside. The company has a very small market cap of around $2 billion with a large total addressable market, allowing for aggressive growth trajectories. The creator allocates 45% weight to base case, 30% to bear case, and 25% to bull case.",
+            "when_to_buy": null,
+            "target_price": "$45.00 (creator's fair value estimate)",
+            "cautions": "The creator explicitly states 'execution here is key' and notes the bear case assigns zero fair value. This is a small-cap company with high execution risk. The bear case (30% probability in creator's model) suggests downside to zero."
+          },
+          {
+            "ticker": "NFLX",
+            "company_name": "Netflix Inc.",
+            "reason": "Despite the creator cutting some Netflix exposure, the company still shows 17% upside according to their DCF model. Netflix generates substantial free cash flow, lacks huge capex requirements, and avoids the return on investment questions plaguing AI infrastructure companies. The creator believes Netflix may see increased appreciation going into 2027 as investors rotate toward free cash flow generators, and it would likely outperform during any AI cycle disruptions.",
+            "when_to_buy": "During market dislocations when growth narratives are questioned",
+            "target_price": null,
+            "cautions": "Primary risk is whether Netflix can reignite growth reacceleration. The creator notes it faces growth questions and is among 'hated names,' suggesting sentiment headwinds."
+          },
+          {
+            "ticker": "UBER",
+            "company_name": "Uber Technologies Inc.",
+            "reason": "According to the creator's model, Uber has 'quite a lot of upside' and generates substantial free cash flow without massive capex requirements or ROI-on-investment concerns. Like Netflix, the creator expects it to outperform during AI cycle disruptions and sees it as a potential beneficiary in 2027 as investors rotate toward free cash flow generators.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Primary risk is the age of autonomous vehicles and whether that disruptive threat materializes. Creator states they believe Uber will be a winner despite this, but it remains a key uncertainty."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "PLTR",
+            "company_name": "Palantir Technologies Inc.",
+            "reason": "The creator's DCF model currently values Palantir as 22% overvalued at current prices. However, the creator acknowledges Palantir has a history of surprising to the upside with better-than-expected numbers, and the bull case (assigned 90% growth expectation) could close the valuation gap if execution occurs.",
+            "risk": "22% downside from current price to creator's fair value estimate, though bull case offers 37% upside if execution surprises occur"
+          },
+          {
+            "ticker": "ZETA",
+            "company_name": "Zeta Global Holdings Corp.",
+            "reason": "The creator's base case DCF model values Zeta at $30 fair value versus current trading around $35, implying 15% downside. However, the creator acknowledges the model is conservative and doesn't account for recent announcements or potential growth reacceleration, with the bull case offering 37% upside.",
+            "risk": "15% downside in base case scenario, though bull case (30% probability assigned) offers 37% upside"
+          }
+        ],
+        "key_warnings": [
+          "Bond yields and debt concerns are creating market uncertainty, but the creator argues this doesn't necessarily reflect underlying AI infrastructure fundamentals. The creator notes an AI fund similar to Ark's leveraged exposure may have blown up due to margin calls, contributing to the recent selloff, but questions whether this explains the full magnitude of the decline given lack of other significant news.",
+          "Market headlines about AI investment viability, return on capital, and neocloud sustainability don't align with underlying data on GPU pricing strength and demand. The creator argues that AWS faced similar skepticism in early years but became highly profitable, suggesting current neocloud concerns may be overblown.",
+          "Interest rate environment remains uncertain with 50.6% probability of one rate hike by January 2025 and 37.6% probability of another January rate hike. The FOMC meeting in 12 days will impact stock market and financial stocks. However, the creator emphasizes the most important factor is whether companies can still meet targets despite these headwinds.",
+          "Certain names like Micron and memory stocks have had tremendous runs but may face headwinds for further appreciation. The creator warns that even if companies are cheap on paper, if the market doesn't feel comfortable buying them, they may stay cheap until business fundamentals slow down.",
+          "The creator warns against assuming all valuations translate to investment decisions. Just because a stock appears undervalued doesn't mean it should be purchased; position sizing, existing holdings, and market momentum also matter. The creator emphasizes owning 'good companies' with strong execution records."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "AMD",
+          "AAPL",
+          "MSFT",
+          "GOOGL",
+          "META",
+          "NFLX",
+          "MICRON",
+          "CORE",
+          "NEBS",
+          "SOFI",
+          "VOY",
+          "BDC",
+          "UBER",
+          "RDDT",
+          "GOOGL",
+          "MELI",
+          "PLTR",
+          "ZETA",
+          "INTC"
+        ]
+      },
+      "price_at_recommendation": {
+        "PLTR": 186.36,
+        "ZETA": 32.09,
+        "NFLX": 70.68,
+        "NVDA": 216.0,
+        "UBER": 70.33
+      }
     }
   },
   "channel_ids": {

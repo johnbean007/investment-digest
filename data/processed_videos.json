@@ -28002,6 +28002,60 @@
         "NVDA": 216.0,
         "UBER": 70.33
       }
+    },
+    "okKr-6faeVw": {
+      "channel": "Daniel Pronk",
+      "title": "The AI Crash Is Here - What You Need to Know",
+      "upload_date": "20261016",
+      "url": "https://www.youtube.com/watch?v=okKr-6faeVw",
+      "processed_at": "2026-10-16T22:23:43.401834",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [
+          {
+            "ticker": "CORE",
+            "company_name": "CoreWeave",
+            "reason": "CoreWeave is a financially stressed company with terrible profitability metrics despite strong revenue growth. The company is losing hundreds of millions of dollars per quarter after accounting for interest expenses of $640 million (25% of revenue). CoreWeave is highly leveraged, having raised $16.5 billion in debt and issued $3 billion in shares year-to-date, while spending $14.1 billion on capex against only $3.6 billion in operating cash flow. The company has over $10 billion in net debt due within the next year with no profits to service it, forcing continued dilutive equity raises or additional debt issuance. Management is promoting misleading adjusted EBITDA metrics that exclude $2 billion+ in real recurring costs (depreciation and interest). The balance sheet shows current liabilities of $20+ billion versus current assets of $9.5 billion. Insiders have been selling hundreds of millions to billions of dollars worth of shares over the past two weeks, suggesting lack of confidence. The company is valued at $43 billion (10x sales), a higher multiple than Meta despite producing no profits, making it significantly overvalued.",
+            "risk": "Down 33% over the past month and another 12% in a single day at time of recording. Bond yields have spiked to 15%, indicating severe distress. Company faces potential inability to meet debt obligations within 6 months without major capital raises. Stock could face further severe downside if company cannot refinance debt or if profitability does not materialize."
+          },
+          {
+            "ticker": "IRON",
+            "company_name": "Irontock",
+            "reason": "Irontock is down 42% over the past couple of weeks and is selling off in sympathy with CoreWeave's financial distress. While the creator notes it has a better balance sheet than CoreWeave, it remains a very expensive stock that lacks long-term competitive moats. The neocloud sector is being repriced as investors recognize these are largely commodity businesses benefiting from temporary supply-demand imbalances in GPU rental rather than sustainable business models.",
+            "risk": "Down 42% in recent weeks. Belongs to neocloud sector facing structural questions about long-term viability and commodity nature of the business."
+          },
+          {
+            "ticker": "NBIS",
+            "company_name": "NBIS",
+            "reason": "NBIS is down 33% and selling off alongside other neoclouds despite having the best balance sheet, growth, and cash flows in the group. The creator explicitly states he is not interested in owning any of these neocloud businesses because they lack high-quality long-term business models and competitive moats. These companies are largely benefiting from temporary supply-demand dynamics in GPU rental but lack sustainable differentiation or durable advantages.",
+            "risk": "Down 33%. Part of neocloud sector facing investor exodus and repricing due to questions about long-term business quality and sustainability."
+          }
+        ],
+        "key_warnings": [
+          "Neocloud sector (CoreWeave, Irontock, NBIS) is experiencing a severe selloff triggered by CoreWeave's bond yields spiking to 15%, indicating financial distress and refinancing risk. This is causing a waterfall of selling across the entire AI and neocloud sector despite the underlying AI buildout remaining strong.",
+          "Anthropic and OpenAI are experiencing revenue growth deceleration. Anthropic's ARR growth has slowed to only 1.8% month-over-month, missing investor expectations by $24 billion (expected $100 billion ARR by summer end, actual $76.8 billion). Both companies have committed to hundreds of billions in spending over coming years, raising concerns about their ability to pay bills if revenue growth does not accelerate.",
+          "Token spending has been flat for the past few months despite 4x growth in token volumes year-to-date, driven by declining token costs. While this indicates continued AI adoption, it creates revenue pressure for AI software companies and raises questions about monetization sustainability.",
+          "Broad AI sector selloff is occurring despite strong underlying demand fundamentals, creating noise and volatility. Oracle is down over 40%, Vertiv down 44%, Digital Realty down 30%, AMD and Nvidia down more than 10% from recent highs. This appears to be spillover panic from neocloud distress rather than fundamental deterioration in AI adoption.",
+          "The selloff appears disconnected from AI demand fundamentals, which remain robust. ASML and TSM both reported strengthening AI buildout with customers accelerating capacity and placing orders through 2029-2030. AWS CEO stated demand is massive with enterprises seeing positive ROI. This suggests the current selloff creates opportunities but also indicates extreme volatility and risk of further cascading selling."
+        ],
+        "tickers_mentioned": [
+          "CORE",
+          "IRON",
+          "NBIS",
+          "ORCL",
+          "VRT",
+          "DLR",
+          "AMD",
+          "NVDA",
+          "META",
+          "ASML",
+          "TSM"
+        ]
+      },
+      "price_at_recommendation": {
+        "IRON": 56.84,
+        "NBIS": 165.47
+      }
     }
   },
   "channel_ids": {

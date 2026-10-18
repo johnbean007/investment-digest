@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-18T11:46:48.005289",
-  "video_count": 61,
-  "stock_count": 132,
+  "generated_at": "2026-10-18T20:25:17.872802",
+  "video_count": 62,
+  "stock_count": 133,
   "stocks": [
     {
       "ticker": "AAOI",
@@ -439,7 +439,7 @@
     {
       "ticker": "AMD",
       "company_name": "Advanced Micro Devices",
-      "buy_count": 10,
+      "buy_count": 11,
       "avoid_count": 3,
       "first_mention_date": "18 Sep 2026",
       "price_at_first_mention": 544.37,
@@ -612,6 +612,19 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": "The semiconductor sector was experiencing broad selloffs on the day of recording, with AMD down roughly 2%. Market volatility is expected to continue."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Bought the Dip. Here\u2019s Exactly What I Bought With $10,000",
+          "url": "https://www.youtube.com/watch?v=fH5DacZxQug",
+          "upload_date": "20261018",
+          "date_label": "18 Oct 2026",
+          "ticker": "AMD",
+          "company_name": "Advanced Micro Devices Inc.",
+          "reason": "The creator added AMD to their watchlist as it pulled back significantly from above $600 to around $500, creating a buying zone. The creator expects AMD and Intel to report earnings in the next 10 days to two weeks which will impact stock movement.",
+          "when_to_buy": "Main buying zone is between $510 and $540. Stock currently closer to $500 per share.",
+          "target_price": null,
+          "cautions": "Daily 100 support is at $500. First resistance ceiling is at $610. Earnings report coming in next 10 days to 2 weeks. Technical analysis is nice but earnings report quality and guidance will have major impact on stock recovery or further decline."
         }
       ],
       "avoids": [
@@ -654,7 +667,7 @@
     {
       "ticker": "AMZN",
       "company_name": "Amazon",
-      "buy_count": 11,
+      "buy_count": 12,
       "avoid_count": 0,
       "first_mention_date": "18 Sep 2026",
       "price_at_first_mention": 252.94,
@@ -840,6 +853,19 @@
           "when_to_buy": "On current breakout; the creator is already holding a position",
           "target_price": null,
           "cautions": "Performance contingent on meeting earnings expectations and providing positive capex guidance. Part of broader tech sector currently experiencing rotation dynamics."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Bought the Dip. Here\u2019s Exactly What I Bought With $10,000",
+          "url": "https://www.youtube.com/watch?v=fH5DacZxQug",
+          "upload_date": "20261018",
+          "date_label": "18 Oct 2026",
+          "ticker": "AMZN",
+          "company_name": "Amazon.com Inc.",
+          "reason": "The creator lists Amazon as a name still around $250 which aligns with main buying zone. Discussed as part of portfolio accumulation during the dip.",
+          "when_to_buy": "Current price around $250 which is also around the main buying zone.",
+          "target_price": null,
+          "cautions": null
         }
       ],
       "avoids": [],
@@ -1116,8 +1142,8 @@
         "analyst_buy": 40,
         "analyst_hold": 3,
         "analyst_sell": 1,
-        "analyst_target": 2155.32,
-        "analyst_upside_pct": 31.3,
+        "analyst_target": 2148.32,
+        "analyst_upside_pct": 30.9,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -1594,7 +1620,7 @@
     {
       "ticker": "AXON",
       "company_name": "Axon Enterprise Inc.",
-      "buy_count": 6,
+      "buy_count": 7,
       "avoid_count": 0,
       "first_mention_date": "20 Sep 2026",
       "price_at_first_mention": 447.76,
@@ -1713,6 +1739,19 @@
           "company_name": "Axon Enterprise",
           "reason": "The creator explicitly stated they are looking to buy more Axon. While Axon has nothing to do with AI stocks, the creator is using this market dip as an opportunity to add to their position in what they consider a good business trading at a cheaper price than the previous day.",
           "when_to_buy": "On dips like the current market correction",
+          "target_price": null,
+          "cautions": null
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Bought the Dip. Here\u2019s Exactly What I Bought With $10,000",
+          "url": "https://www.youtube.com/watch?v=fH5DacZxQug",
+          "upload_date": "20261018",
+          "date_label": "18 Oct 2026",
+          "ticker": "AXON",
+          "company_name": "Axon Enterprise Inc.",
+          "reason": "The creator originally opened their position around current prices and then the stock went to $600 before falling back. The floor is basically at current levels. The creator increased their Axon position by 15% at $409, viewing current prices as attractive for accumulation.",
+          "when_to_buy": "The creator bought more at $409. Current floor is at current price levels.",
           "target_price": null,
           "cautions": null
         }
@@ -1966,7 +2005,7 @@
     {
       "ticker": "BRCM",
       "company_name": "Broadcom Inc.",
-      "buy_count": 1,
+      "buy_count": 2,
       "avoid_count": 0,
       "first_mention_date": "13 Oct 2026",
       "price_at_first_mention": null,
@@ -1985,6 +2024,19 @@
           "when_to_buy": "Creator bought at $362 per share; stock dropped after OpenAI headlines",
           "target_price": null,
           "cautions": "Recent headlines about OpenAI valuation concerns caused stock to drop from $370+. Creator acknowledges that Broadcom has vested interest in defending OpenAI and Anthropic valuations since they're major clients. If these companies' valuations crash, they may not buy as many chips from Broadcom."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Bought the Dip. Here\u2019s Exactly What I Bought With $10,000",
+          "url": "https://www.youtube.com/watch?v=fH5DacZxQug",
+          "upload_date": "20261018",
+          "date_label": "18 Oct 2026",
+          "ticker": "BRCM",
+          "company_name": "Broadcom Inc.",
+          "reason": "The creator added Broadcom to their watchlist after it was already cheap and undervalued around $350-$360. Main buying zone expanded as stock pulled back to $328. The creator increased their Broadcom position by 10%.",
+          "when_to_buy": "Stock at $328. Main buying zone is $315-$335. Weekly 100 support sits at $310. Previously undervalued at $360.",
+          "target_price": null,
+          "cautions": "First resistance ceiling is at $365. For short-term trading, technical levels matter, but for long-term investors, the valuation discount is what's important. Creator notes the risk of buying at current level then seeing 10% drop, but emphasizes not having a crystal ball."
         }
       ],
       "avoids": [],
@@ -2339,7 +2391,7 @@
     {
       "ticker": "CORE",
       "company_name": "Coreweave",
-      "buy_count": 2,
+      "buy_count": 3,
       "avoid_count": 1,
       "first_mention_date": "23 Sep 2026",
       "price_at_first_mention": null,
@@ -2371,6 +2423,19 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": "Stock was down 3.5% on the expansion announcement. The India facility won't be operational until mid-2028, representing a longer-term catalyst."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Bought the Dip. Here\u2019s Exactly What I Bought With $10,000",
+          "url": "https://www.youtube.com/watch?v=fH5DacZxQug",
+          "upload_date": "20261018",
+          "date_label": "18 Oct 2026",
+          "ticker": "CORE",
+          "company_name": "CoreWeave Inc.",
+          "reason": "The creator added CoreWeave to their watchlist and notes it gets hit quite a lot in the market. Stock at $61 with main buying zone at current levels.",
+          "when_to_buy": "Main buying zone is basically at current price of $61.",
+          "target_price": null,
+          "cautions": "Support at $61, resistance at $86. The company needs to push much higher to break out of the negative environment it's currently in. Market has concerns about execution that are weighing on the stock."
         }
       ],
       "avoids": [
@@ -3447,7 +3512,7 @@
     {
       "ticker": "GOOGL",
       "company_name": "Google",
-      "buy_count": 14,
+      "buy_count": 15,
       "avoid_count": 0,
       "first_mention_date": "18 Sep 2026",
       "price_at_first_mention": 350.59,
@@ -3672,6 +3737,19 @@
           "when_to_buy": "On technical breakout; expected AI announcement catalyst imminent",
           "target_price": null,
           "cautions": "Still down double digits from all-time highs. Performance depends on meeting Q3 earnings expectations and demonstrating AI capabilities competitive with Meta and OpenAI models."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Bought the Dip. Here\u2019s Exactly What I Bought With $10,000",
+          "url": "https://www.youtube.com/watch?v=fH5DacZxQug",
+          "upload_date": "20261018",
+          "date_label": "18 Oct 2026",
+          "ticker": "GOOGL",
+          "company_name": "Alphabet Inc.",
+          "reason": "The creator lists Alphabet among names that have pulled back into buy zones and are no longer priced to perfection. The creator added it to their watchlist of names to accumulate during the dip.",
+          "when_to_buy": "Main buy zone according to moving averages is between $330 and $342. Stock ended the week at $340.",
+          "target_price": null,
+          "cautions": "The creator notes the difference between $330-$342 is only a couple of dollars and may not matter much in the long run, but waiting a bit might make sense given current market conditions."
         }
       ],
       "avoids": [],
@@ -4804,7 +4882,7 @@
     {
       "ticker": "MELI",
       "company_name": "Mercado Libre Inc.",
-      "buy_count": 5,
+      "buy_count": 6,
       "avoid_count": 0,
       "first_mention_date": "20 Sep 2026",
       "price_at_first_mention": 1787.39,
@@ -4912,6 +4990,19 @@
           "when_to_buy": "before the end of 2026",
           "target_price": null,
           "cautions": "Trading at premium valuation with PE of 50.3x and forward PE of 43.8x. Currently experiencing margin pressure due to investment cycles, but this is viewed as normal for great companies reinvesting. This is not a company that will 'double overnight' but rather a large business that grows steadily over time. There are risks associated with expansion into new markets and investment cycles."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Bought the Dip. Here\u2019s Exactly What I Bought With $10,000",
+          "url": "https://www.youtube.com/watch?v=fH5DacZxQug",
+          "upload_date": "20261018",
+          "date_label": "18 Oct 2026",
+          "ticker": "MELI",
+          "company_name": "Mercado Libre Inc.",
+          "reason": "The creator lists Mercado Libre as a name still around the same price areas and describes it as still a good price to accumulate over the long run. Holding up quite well compared to some peers.",
+          "when_to_buy": "Still at same price areas as seen before, good price to accumulate over long run.",
+          "target_price": null,
+          "cautions": null
         }
       ],
       "avoids": [],
@@ -4920,7 +5011,7 @@
     {
       "ticker": "META",
       "company_name": "Meta Platforms",
-      "buy_count": 18,
+      "buy_count": 19,
       "avoid_count": 1,
       "first_mention_date": "18 Sep 2026",
       "price_at_first_mention": 670.93,
@@ -5197,6 +5288,19 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": "None explicitly mentioned for Meta specifically."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Bought the Dip. Here\u2019s Exactly What I Bought With $10,000",
+          "url": "https://www.youtube.com/watch?v=fH5DacZxQug",
+          "upload_date": "20261018",
+          "date_label": "18 Oct 2026",
+          "ticker": "META",
+          "company_name": "Meta Platforms Inc.",
+          "reason": "The creator believes Meta's core business is actually getting better and wants to see early signs of model adoption across the board and new releases. Meta is reporting earnings on Wednesday which is very important timing as it happens before Google, Amazon, Microsoft and other AI cloud players. The creator believes Meta will beat estimates. The stock has pulled back to around $700 and is no longer priced to perfection. The creator views this as a good accumulation opportunity for long-term investors.",
+          "when_to_buy": "Target buy zone between $660 and $690. Daily 50 support is around $675 per share. Current price near $700.",
+          "target_price": null,
+          "cautions": "Earnings report coming up on Wednesday which will determine whether the stock reclaims higher $700 levels or goes under $700. Stock could still be vulnerable to macro headwinds."
         }
       ],
       "avoids": [
@@ -5849,12 +5953,12 @@
         "week52_high": 18.01,
         "week52_high_date": "29 Sep 2026",
         "week52_low": 10.02,
-        "week52_low_date": "17 Oct 2025",
+        "week52_low_date": "17 Jul 2026",
         "rsi": 100.0,
         "rsi_label": "overbought",
-        "ma50": 0.64,
-        "ma200": 0.17,
-        "ma_signal": "golden_cross",
+        "ma50": null,
+        "ma200": null,
+        "ma_signal": null,
         "pe_trailing": null,
         "pe_forward": null,
         "peg_ratio": null,
@@ -5895,7 +5999,7 @@
     {
       "ticker": "NEBS",
       "company_name": "Nebulius Inc.",
-      "buy_count": 3,
+      "buy_count": 4,
       "avoid_count": 0,
       "first_mention_date": "13 Oct 2026",
       "price_at_first_mention": null,
@@ -5940,6 +6044,19 @@
           "when_to_buy": "During current market dips; creator nibbled on Wednesday and Thursday",
           "target_price": null,
           "cautions": "Creator acknowledges this is speculative and earnings will need to confirm margin expansion claims. Not all neocloud providers are built the same, and execution risk remains."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Bought the Dip. Here\u2019s Exactly What I Bought With $10,000",
+          "url": "https://www.youtube.com/watch?v=fH5DacZxQug",
+          "upload_date": "20261018",
+          "date_label": "18 Oct 2026",
+          "ticker": "NEBS",
+          "company_name": "Nebius AI Inc.",
+          "reason": "The creator views Nebius as best-in-class and believes the company will not have the same issues that CoreWeave or Oracle might have. The creator thinks Nebius is a future hundred billion dollar plus company and will surprise the market with how well the business is operated in this environment. Despite the stock being under $200 at $165, the creator sees huge fluctuations and views current prices as a buying opportunity.",
+          "when_to_buy": "Stock is under $200 at $165. Weekly 50 support sits at $171. Buying zone is between $160 and $172. Creator bought 20 shares total (10 shares twice) though at higher prices.",
+          "target_price": null,
+          "cautions": "The stock has experienced huge fluctuations swinging 10% up or down daily. Market is overreacting to headlines about any company in the AI infrastructure space having issues - Nebius gets hit when CoreWeave or Oracle faces headwinds even though the creator doesn't think Nebius will have the same problems. The creator acknowledges they may look like a fool given current market sentiment."
         }
       ],
       "avoids": [],
@@ -6065,7 +6182,7 @@
     {
       "ticker": "NFLX",
       "company_name": "Netflix Inc.",
-      "buy_count": 5,
+      "buy_count": 6,
       "avoid_count": 4,
       "first_mention_date": "20 Sep 2026",
       "price_at_first_mention": 71.79,
@@ -6090,7 +6207,7 @@
         "ma200": 82.88,
         "ma_signal": "death_cross",
         "pe_trailing": 22.179245,
-        "pe_forward": 18.559988,
+        "pe_forward": 18.558817,
         "peg_ratio": 1.21,
         "revenue_growth": 0.134,
         "earnings_growth": 0.111,
@@ -6173,6 +6290,19 @@
           "when_to_buy": "During market dislocations when growth narratives are questioned",
           "target_price": null,
           "cautions": "Primary risk is whether Netflix can reignite growth reacceleration. The creator notes it faces growth questions and is among 'hated names,' suggesting sentiment headwinds."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Bought the Dip. Here\u2019s Exactly What I Bought With $10,000",
+          "url": "https://www.youtube.com/watch?v=fH5DacZxQug",
+          "upload_date": "20261018",
+          "date_label": "18 Oct 2026",
+          "ticker": "NFLX",
+          "company_name": "Netflix Inc.",
+          "reason": "The creator owns Netflix and wants to hear more about their strategy to accelerate growth and see what's happening inside the company. Netflix earnings are coming up on Tuesday after hours. Netflix is mentioned as one of names holding up well along with Reddit and Uber that have less exposure to the AI capex story but more exposure to free cash flows.",
+          "when_to_buy": "Same price as seen over the past couple of weeks, no change mentioned.",
+          "target_price": null,
+          "cautions": "Earnings report coming up Tuesday after hours which could impact stock movement. The creator wants to hear specific strategy updates for accelerating growth."
         }
       ],
       "avoids": [
@@ -6807,8 +6937,8 @@
         "analyst_buy": 4,
         "analyst_hold": 10,
         "analyst_sell": 0,
-        "analyst_target": 45.81,
-        "analyst_upside_pct": 18.0,
+        "analyst_target": 45.66,
+        "analyst_upside_pct": 17.6,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -7341,7 +7471,7 @@
     {
       "ticker": "RDDT",
       "company_name": "Reddit Inc.",
-      "buy_count": 4,
+      "buy_count": 5,
       "avoid_count": 1,
       "first_mention_date": "20 Sep 2026",
       "price_at_first_mention": 150.85,
@@ -7436,6 +7566,19 @@
           "when_to_buy": "Wait for catalyst; buying zone is lower than current price",
           "target_price": null,
           "cautions": "Still waiting for a catalyst event to drive the stock. Creator is not buying at current levels."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Bought the Dip. Here\u2019s Exactly What I Bought With $10,000",
+          "url": "https://www.youtube.com/watch?v=fH5DacZxQug",
+          "upload_date": "20261018",
+          "date_label": "18 Oct 2026",
+          "ticker": "RDDT",
+          "company_name": "Reddit Inc.",
+          "reason": "The creator lists Reddit as one of the names holding up quite well. Reddit is mentioned as a name where you have less exposure to the AI capex story but more exposure to free cash flows, which has been holding up better than capex-heavy names.",
+          "when_to_buy": "Stock is a bit above main buying zone. Weekly 100 support area sits at $147. Previous ceiling resistance sits closer to $160.",
+          "target_price": null,
+          "cautions": "Currently trading a bit above main buying zone, may want to wait for better entry."
         }
       ],
       "avoids": [
@@ -7645,6 +7788,33 @@
       ],
       "avoids": [],
       "description": "Highway, road and bridge construction and maintenance"
+    },
+    {
+      "ticker": "ROCKET",
+      "company_name": "Rocket Lab USA Inc.",
+      "buy_count": 1,
+      "avoid_count": 0,
+      "first_mention_date": "18 Oct 2026",
+      "price_at_first_mention": null,
+      "pct_change_since_rec": null,
+      "market": null,
+      "buys": [
+        {
+          "channel": "CouchInvestor",
+          "title": "I Bought the Dip. Here\u2019s Exactly What I Bought With $10,000",
+          "url": "https://www.youtube.com/watch?v=fH5DacZxQug",
+          "upload_date": "20261018",
+          "date_label": "18 Oct 2026",
+          "ticker": "ROCKET",
+          "company_name": "Rocket Lab USA Inc.",
+          "reason": "The creator views this as a good long-term entry point at current prices around $50 despite recent pullback. The Neutron delay is disappointing but the company will continue getting contracts for Electron. When Neutron works out, the creator believes this will be a good entry point for long-term investors. The creator increased their Rocket Lab position by 3.7% despite the Neutron delay announcement.",
+          "when_to_buy": "Main buy zone is at current price around $50. Weekly simple moving average sits at $55, so could potentially drop a bit lower to get better entry. The creator bought more at these levels.",
+          "target_price": null,
+          "cautions": "Neutron got delayed yet again and will not launch until Q2 2027 at the earliest due to structural issues requiring changes and extended testing periods. The messaging from the company could have been better - they should have disclosed the extent of the delay upfront rather than delaying multiple times. Neutron is very important to the company's long-term thesis."
+        }
+      ],
+      "avoids": [],
+      "description": "Launches small satellites into orbit using air-breathing rocket engines"
     },
     {
       "ticker": "RRX",
@@ -8150,7 +8320,7 @@
     {
       "ticker": "SOFI",
       "company_name": "SoFi Technologies Inc.",
-      "buy_count": 6,
+      "buy_count": 7,
       "avoid_count": 1,
       "first_mention_date": "20 Sep 2026",
       "price_at_first_mention": 16.96,
@@ -8271,6 +8441,19 @@
           "when_to_buy": "Currently at $15 per share in the buying zone; upcoming earnings catalyst in next two weeks",
           "target_price": null,
           "cautions": "The market may not be satisfied if guidance isn't raised. In current environment, investors may prefer to wait for the earnings catalyst for momentum, even if paying slightly more."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Bought the Dip. Here\u2019s Exactly What I Bought With $10,000",
+          "url": "https://www.youtube.com/watch?v=fH5DacZxQug",
+          "upload_date": "20261018",
+          "date_label": "18 Oct 2026",
+          "ticker": "SOFI",
+          "company_name": "SoFi Technologies Inc.",
+          "reason": "The creator is bullish on SoFi on paper as the business is undervalued and still doing well despite being pulled down by macro headwinds and poor market sentiment around financials. The business itself is operating as it should and could grow faster if macro conditions improve. Main buying zone is at current levels. The creator views this as potentially the last time to buy under $17-$18 given the business quality.",
+          "when_to_buy": "Main buying zone is at current price levels. Could still buy under $14 per share. The 200 day weekly simple moving average sits under $14 at $13.24.",
+          "target_price": null,
+          "cautions": "Extremely disappointing performance this year due to macro headwinds and negative sentiment around financials ahead of midterm elections. The stock is painful to hold. The company needs to show the market that despite macro headwinds, their business is still operating well and they are confident in meeting targets."
         }
       ],
       "avoids": [
@@ -8802,7 +8985,7 @@
     {
       "ticker": "UBER",
       "company_name": "Uber Technologies Inc.",
-      "buy_count": 6,
+      "buy_count": 7,
       "avoid_count": 0,
       "first_mention_date": "20 Sep 2026",
       "price_at_first_mention": 70.5,
@@ -8923,6 +9106,19 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": "Primary risk is the age of autonomous vehicles and whether that disruptive threat materializes. Creator states they believe Uber will be a winner despite this, but it remains a key uncertainty."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Bought the Dip. Here\u2019s Exactly What I Bought With $10,000",
+          "url": "https://www.youtube.com/watch?v=fH5DacZxQug",
+          "upload_date": "20261018",
+          "date_label": "18 Oct 2026",
+          "ticker": "UBER",
+          "company_name": "Uber Technologies Inc.",
+          "reason": "The creator lists Uber as one of the names holding the same prices seen before and highlights it as a name with less exposure to AI capex story but more exposure to free cash flows, which has been holding up quite well.",
+          "when_to_buy": "Same prices as seen before.",
+          "target_price": null,
+          "cautions": null
         }
       ],
       "avoids": [],

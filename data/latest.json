@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-17T22:39:21.067880",
-  "video_count": 64,
-  "stock_count": 134,
+  "generated_at": "2026-10-18T07:49:35.742191",
+  "video_count": 61,
+  "stock_count": 132,
   "stocks": [
     {
       "ticker": "AAOI",
@@ -653,12 +653,12 @@
     },
     {
       "ticker": "AMZN",
-      "company_name": "Amazon.com Inc.",
-      "buy_count": 12,
+      "company_name": "Amazon",
+      "buy_count": 11,
       "avoid_count": 0,
-      "first_mention_date": "17 Sep 2026",
-      "price_at_first_mention": 252.1,
-      "pct_change_since_rec": -0.8,
+      "first_mention_date": "18 Sep 2026",
+      "price_at_first_mention": 252.94,
+      "pct_change_since_rec": -1.2,
       "market": {
         "ticker": "AMZN",
         "name": "Amazon.com, Inc.",
@@ -698,19 +698,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "CouchInvestor",
-          "title": "The Fed Just Hiked Rates: Here's What I'm Buying and What I'm Selling",
-          "url": "https://www.youtube.com/watch?v=7oMgZmtOtMA",
-          "upload_date": "20260917",
-          "date_label": "17 Sep 2026",
-          "ticker": "AMZN",
-          "company_name": "Amazon.com Inc.",
-          "reason": "The creator lists Amazon among mega-cap tech names that are attractive for long-term investors during market weakness. He argues that these companies are resilient and that current valuations during dips represent exceptional opportunities for patient capital deployment over multi-year horizons.",
-          "when_to_buy": "At current levels or if it approaches $200",
-          "target_price": "$200 or current levels",
-          "cautions": null
-        },
         {
           "channel": "Daniel Pronk",
           "title": "Top 5 Lessons That Will Make You A Better Investor",
@@ -1116,7 +1103,7 @@
         "ma200": 1574.4,
         "ma_signal": "golden_cross",
         "pe_trailing": 40.391735,
-        "pe_forward": 26.175589,
+        "pe_forward": 26.114334,
         "peg_ratio": 0.95,
         "revenue_growth": 0.552,
         "earnings_growth": 1.359,
@@ -1374,11 +1361,11 @@
     {
       "ticker": "AVGO",
       "company_name": "Broadcom Inc.",
-      "buy_count": 15,
+      "buy_count": 14,
       "avoid_count": 0,
-      "first_mention_date": "17 Sep 2026",
-      "price_at_first_mention": 348.16,
-      "pct_change_since_rec": -5.6,
+      "first_mention_date": "18 Sep 2026",
+      "price_at_first_mention": 354.61,
+      "pct_change_since_rec": -7.3,
       "market": {
         "ticker": "AVGO",
         "name": "Broadcom Inc.",
@@ -1418,19 +1405,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "Mr. FIRED Up Wealth",
-          "title": "Best Stocks to Buy Now? 2 Hated Names I'm Buying at These Levels!",
-          "url": "https://www.youtube.com/watch?v=59nt4X9NX6E",
-          "upload_date": "20260917",
-          "date_label": "17 Sep 2026",
-          "ticker": "AVGO",
-          "company_name": "Broadcom Inc.",
-          "reason": "Broadcom is in the creator's top 10 high conviction stocks for the next decade because it uniquely combines semiconductors and custom chips with software including cyber security, allowing investors to ride multiple secular trends with one outstanding company. The company has diversified revenue streams: 55-62% from semiconductor solutions (chips and networking) and 25-30% from infrastructure software including Carbon Black (cyber security), enterprise software, private cloud, and mainframe software. Beyond the AI data center opportunity (which most people focus on), Broadcom has exposure to broadband, end-to-end solutions, industrial, automotive, wireless, and networking. The company is designing the Jalapeno inference chip with OpenAI, which will be important as AI companies need inference capabilities for their large language models. The stock has fallen significantly from its $495 52-week high to around $340, creating an attractive entry point driven by AI competition fears, AI slowdown concerns, custom chip debate, and valuation concerns. The creator has owned Broadcom since 2018 and believes the risk-reward is favorable for long-term investors.",
-          "when_to_buy": "$350 or less via dollar-cost averaging (DCA). Creator started a new position below $350 and added more around $336-$337. Considers $300 a reasonable psychological floor.",
-          "target_price": "Creator believes the company can get back to higher prices with time but does not provide a specific upside target. Notes it is certainly attractive in the current zone.",
-          "cautions": "The stock could certainly go lower. AI competition fears and custom chip debate are real concerns. The Jalapeno chip will only have small volumes in late 2026 with bigger role in 2027, and by then Nvidia will be on its next generation, so competitive claims about current performance are not immediately relevant. Creator emphasizes 'buy, hold, and monitor' \u2014 never just buy and hold blindly forever. Stock could remain choppy given triple witching on September 18th and $9.6 trillion in expiring options."
-        },
         {
           "channel": "CouchInvestor",
           "title": "4 Stocks With Room to Double",
@@ -2438,33 +2412,6 @@
         }
       ],
       "description": "Cloud infrastructure provider specializing in GPU computing"
-    },
-    {
-      "ticker": "CORW",
-      "company_name": "CoreWeave",
-      "buy_count": 1,
-      "avoid_count": 0,
-      "first_mention_date": "17 Sep 2026",
-      "price_at_first_mention": null,
-      "pct_change_since_rec": null,
-      "market": null,
-      "buys": [
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "CoreWeave & Nebius GPU Pricing Just Exploded \u2014 Here\u2019s Why",
-          "url": "https://www.youtube.com/watch?v=LF7fgz1HAFs",
-          "upload_date": "20260917",
-          "date_label": "17 Sep 2026",
-          "ticker": "CORW",
-          "company_name": "CoreWeave",
-          "reason": "CoreWeave has over 1 gigawatt of active power and recently announced short-dated customer contracts of 3-6 months at approximately $40 million per megawatt pricing, representing nearly a one-year payback on compute. The creator is excited because CoreWeave originally modeled that GPUs would pay for themselves after a certain period, and now with rising GPU hour pricing, margins and returns will be dramatic. With rising prices and over a gigawatt of active power already deployed, CoreWeave is positioned to generate significant revenue and margins as longer contracts roll over. At a $43 billion market cap with massive deployed infrastructure, the creator views this as extremely bullish for the neo-cloud space.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": "CoreWeave announced approximately $3 billion in convertible senior notes (potentially increasing to $3.5 billion), which creates future dilution potential despite cap call protections. Additionally, the company established an at-the-market offering program allowing sale of up to 35 million shares (approximately $2 billion at the time of announcement), which provides financing flexibility but represents potential share dilution. The market is punishing CoreWeave for these capital raise announcements, and the creator acknowledges the market's legitimate concerns about debt and dilution, though he views the capital raises as understandable given the current one-to-two-year payback environment."
-        }
-      ],
-      "avoids": [],
-      "description": "Operates bitcoin mining and blockchain infrastructure"
     },
     {
       "ticker": "COST",
@@ -3499,12 +3446,12 @@
     },
     {
       "ticker": "GOOGL",
-      "company_name": "Alphabet Inc. (Google)",
-      "buy_count": 15,
+      "company_name": "Google",
+      "buy_count": 14,
       "avoid_count": 0,
-      "first_mention_date": "17 Sep 2026",
-      "price_at_first_mention": 347.43,
-      "pct_change_since_rec": -2.0,
+      "first_mention_date": "18 Sep 2026",
+      "price_at_first_mention": 350.59,
+      "pct_change_since_rec": -2.9,
       "market": {
         "ticker": "GOOGL",
         "name": "Alphabet Inc.",
@@ -3544,19 +3491,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "CouchInvestor",
-          "title": "The Fed Just Hiked Rates: Here's What I'm Buying and What I'm Selling",
-          "url": "https://www.youtube.com/watch?v=7oMgZmtOtMA",
-          "upload_date": "20260917",
-          "date_label": "17 Sep 2026",
-          "ticker": "GOOGL",
-          "company_name": "Alphabet Inc. (Google)",
-          "reason": "The creator views Google as an attractive long-term investment opportunity, particularly if the stock experiences further weakness. He suggests that current market volatility presents a buying opportunity for quality mega-cap tech names. The reasoning is that regardless of short-term macro headwinds like rate hikes, these companies will likely be forgotten about this period within 12 months to 5 years, making current dips gifts for long-term investors.",
-          "when_to_buy": "If it dips to $300 or lower",
-          "target_price": "$300",
-          "cautions": null
-        },
         {
           "channel": "FinTek",
           "title": "Google is the Top Quantum Computing Stock",
@@ -4985,12 +4919,12 @@
     },
     {
       "ticker": "META",
-      "company_name": "Meta Platforms Inc.",
-      "buy_count": 19,
+      "company_name": "Meta Platforms",
+      "buy_count": 18,
       "avoid_count": 1,
-      "first_mention_date": "17 Sep 2026",
-      "price_at_first_mention": 674.91,
-      "pct_change_since_rec": 5.1,
+      "first_mention_date": "18 Sep 2026",
+      "price_at_first_mention": 670.93,
+      "pct_change_since_rec": 5.7,
       "market": {
         "ticker": "META",
         "name": "Meta Platforms, Inc.",
@@ -5030,19 +4964,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "CouchInvestor",
-          "title": "The Fed Just Hiked Rates: Here's What I'm Buying and What I'm Selling",
-          "url": "https://www.youtube.com/watch?v=7oMgZmtOtMA",
-          "upload_date": "20260917",
-          "date_label": "17 Sep 2026",
-          "ticker": "META",
-          "company_name": "Meta Platforms Inc.",
-          "reason": "The creator identifies Meta as a high-quality company that becomes extremely attractive on weakness. He emphasizes that short-term sentiment and macro concerns should not deter long-term investors from accumulating shares. The thesis relies on the idea that current market pessimism is temporary and will be irrelevant to long-term returns.",
-          "when_to_buy": "If it drops back under $600",
-          "target_price": null,
-          "cautions": null
-        },
         {
           "channel": "Jose Najarro Stocks",
           "title": "AI Compute Demand Could DOUBLE Again by 2027!!",
@@ -5399,11 +5320,11 @@
     {
       "ticker": "MSFT",
       "company_name": "Microsoft Corporation",
-      "buy_count": 4,
+      "buy_count": 3,
       "avoid_count": 0,
-      "first_mention_date": "17 Sep 2026",
-      "price_at_first_mention": 495.67,
-      "pct_change_since_rec": 6.7,
+      "first_mention_date": "08 Oct 2026",
+      "price_at_first_mention": 529.76,
+      "pct_change_since_rec": -0.1,
       "market": {
         "ticker": "MSFT",
         "name": "Microsoft Corporation",
@@ -5423,8 +5344,8 @@
         "ma50": 505.37,
         "ma200": 434.03,
         "ma_signal": "golden_cross",
-        "pe_trailing": 29.805634,
-        "pe_forward": 22.347225,
+        "pe_trailing": 29.473536,
+        "pe_forward": 22.302853,
         "peg_ratio": 1.72,
         "revenue_growth": 0.177,
         "earnings_growth": 0.317,
@@ -5443,19 +5364,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "CouchInvestor",
-          "title": "The Fed Just Hiked Rates: Here's What I'm Buying and What I'm Selling",
-          "url": "https://www.youtube.com/watch?v=7oMgZmtOtMA",
-          "upload_date": "20260917",
-          "date_label": "17 Sep 2026",
-          "ticker": "MSFT",
-          "company_name": "Microsoft Corporation",
-          "reason": "The creator includes Microsoft in his list of mega-cap tech names worth buying on weakness. He suggests these quality businesses should be accumulated during market corrections, as their long-term value is unaffected by near-term rate hikes or economic uncertainty.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": null
-        },
         {
           "channel": "The Traveling Trader",
           "title": "These 4 Stocks Are About to Explode\u203c\ufe0f [October 2026]",
@@ -5502,11 +5410,11 @@
     {
       "ticker": "MU",
       "company_name": "Micron Technology Inc.",
-      "buy_count": 16,
+      "buy_count": 15,
       "avoid_count": 0,
-      "first_mention_date": "17 Sep 2026",
-      "price_at_first_mention": 981.56,
-      "pct_change_since_rec": -10.5,
+      "first_mention_date": "22 Sep 2026",
+      "price_at_first_mention": 1096.16,
+      "pct_change_since_rec": -19.8,
       "market": {
         "ticker": "MU",
         "name": "Micron Technology, Inc.",
@@ -5546,19 +5454,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "CouchInvestor",
-          "title": "The Fed Just Hiked Rates: Here's What I'm Buying and What I'm Selling",
-          "url": "https://www.youtube.com/watch?v=7oMgZmtOtMA",
-          "upload_date": "20260917",
-          "date_label": "17 Sep 2026",
-          "ticker": "MU",
-          "company_name": "Micron Technology Inc.",
-          "reason": "The creator mentions Micron as an example of a semiconductor company that could become extremely attractive if there is a significant market pullback. He speculates that Micron could decline to around $70, which would represent an exceptional buying opportunity for long-term investors given the continued AI buildout.",
-          "when_to_buy": "On a major pullback",
-          "target_price": "$70",
-          "cautions": "Semiconductor sector is capital intensive and cyclical; more exposed to economic slowdown than mega-cap tech"
-        },
         {
           "channel": "CouchInvestor",
           "title": "Is It Finally Time To Sell AMD?",
@@ -5999,40 +5894,14 @@
     },
     {
       "ticker": "NEBS",
-      "company_name": "Nebeus (or similar growth company)",
-      "buy_count": 5,
+      "company_name": "Nebulius Inc.",
+      "buy_count": 3,
       "avoid_count": 0,
-      "first_mention_date": "17 Sep 2026",
+      "first_mention_date": "13 Oct 2026",
       "price_at_first_mention": null,
       "pct_change_since_rec": null,
       "market": null,
       "buys": [
-        {
-          "channel": "CouchInvestor",
-          "title": "The Fed Just Hiked Rates: Here's What I'm Buying and What I'm Selling",
-          "url": "https://www.youtube.com/watch?v=7oMgZmtOtMA",
-          "upload_date": "20260917",
-          "date_label": "17 Sep 2026",
-          "ticker": "NEBS",
-          "company_name": "Nebeus (or similar growth company)",
-          "reason": "The creator identifies this as a riskier but compelling long-term growth story. He suggests that under $200, and especially under $150-$160, it represents an easy long-term accumulation opportunity despite near-term macro headwinds and its small-cap status.",
-          "when_to_buy": "Under $200, preferably $150-$160 range",
-          "target_price": "$150-$160",
-          "cautions": "More on the riskier part; still quite small growth story with higher sensitivity to cost of capital increases"
-        },
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "CoreWeave & Nebius GPU Pricing Just Exploded \u2014 Here\u2019s Why",
-          "url": "https://www.youtube.com/watch?v=LF7fgz1HAFs",
-          "upload_date": "20260917",
-          "date_label": "17 Sep 2026",
-          "ticker": "NEBS",
-          "company_name": "Nebius",
-          "reason": "Nebius announced on-demand GPU price increases effective October 1st across Nvidia GPUs (H100 up 17%, H200 up 20%, B200 up 19%, B300 up 21%). The creator views this as extremely bullish because cloud providers originally modeled GPU prices declining over time, so rising prices indicate conservative original modeling and significantly better cash flow and operating margins than expected. Short-term contracts are pricing at over $40 million per megawatt with less than 2-year payback periods, and the stock is up 126% year-to-date. The creator believes this pricing trajectory will continue across all neo-cloud players as long as end customers can still achieve strong returns on their AI token purchases.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": null
-        },
         {
           "channel": "CouchInvestor",
           "title": "I Just Bought $2,500 More of This Stock. Here\u2019s Why",
@@ -6484,68 +6353,6 @@
       "description": "Manufactures photonics and precision motion control components for industrial and medical applications"
     },
     {
-      "ticker": "NOW",
-      "company_name": "ServiceNow Inc.",
-      "buy_count": 0,
-      "avoid_count": 1,
-      "first_mention_date": "17 Sep 2026",
-      "price_at_first_mention": 139.63,
-      "pct_change_since_rec": 1.7,
-      "market": {
-        "ticker": "NOW",
-        "name": "ServiceNow, Inc.",
-        "currency": "USD",
-        "sector": "Technology",
-        "industry": "Software - Application",
-        "market_cap": 146777391104,
-        "current_price": 141.97,
-        "daily_change_pct": -4.44,
-        "month_change_pct": 2.53,
-        "week52_high": 192.97,
-        "week52_high_date": "30 Oct 2025",
-        "week52_low": 81.24,
-        "week52_low_date": "10 Apr 2026",
-        "rsi": 55.5,
-        "rsi_label": "neutral",
-        "ma50": 134.85,
-        "ma200": 115.03,
-        "ma_signal": "golden_cross",
-        "pe_trailing": 88.73125,
-        "pe_forward": 28.35623,
-        "peg_ratio": 1.02,
-        "revenue_growth": 0.24,
-        "earnings_growth": -0.219,
-        "free_cashflow": 5149374976,
-        "profit_margins": 0.11336,
-        "debt_to_equity": 67.538,
-        "beta": 0.99,
-        "short_percent": 0.0287,
-        "dividend_yield": 0.0,
-        "analyst_buy": 44,
-        "analyst_hold": 3,
-        "analyst_sell": 2,
-        "analyst_target": 152.23,
-        "analyst_upside_pct": 7.2,
-        "earnings_date": null,
-        "earnings_days": null
-      },
-      "buys": [],
-      "avoids": [
-        {
-          "channel": "CouchInvestor",
-          "title": "The Fed Just Hiked Rates: Here's What I'm Buying and What I'm Selling",
-          "url": "https://www.youtube.com/watch?v=7oMgZmtOtMA",
-          "upload_date": "20260917",
-          "date_label": "17 Sep 2026",
-          "ticker": "NOW",
-          "company_name": "ServiceNow Inc.",
-          "reason": "The creator mentions ServiceNow as an example of a good business that doesn't matter in the current market environment due to bad sentiment. He notes that even though ServiceNow is fundamentally solid, the macro environment and market sentiment are so negative that the stock has done nothing for the last 6 months.",
-          "risk": "Poor market sentiment overriding fundamentals; no momentum"
-        }
-      ],
-      "description": "Provides cloud-based workflow software for business operations"
-    },
-    {
       "ticker": "NU",
       "company_name": "Nu Holdings (Nubank)",
       "buy_count": 3,
@@ -6638,11 +6445,11 @@
     {
       "ticker": "NVDA",
       "company_name": "Nvidia Corporation",
-      "buy_count": 22,
+      "buy_count": 21,
       "avoid_count": 0,
-      "first_mention_date": "17 Sep 2026",
-      "price_at_first_mention": 218.87,
-      "pct_change_since_rec": -2.2,
+      "first_mention_date": "18 Sep 2026",
+      "price_at_first_mention": 219.54,
+      "pct_change_since_rec": -2.5,
       "market": {
         "ticker": "NVDA",
         "name": "NVIDIA Corporation",
@@ -6682,19 +6489,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "CouchInvestor",
-          "title": "The Fed Just Hiked Rates: Here's What I'm Buying and What I'm Selling",
-          "url": "https://www.youtube.com/watch?v=7oMgZmtOtMA",
-          "upload_date": "20260917",
-          "date_label": "17 Sep 2026",
-          "ticker": "NVDA",
-          "company_name": "Nvidia Corporation",
-          "reason": "The creator specifically highlights Nvidia as a compelling buy if it declines further. He argues that AI buildout will continue regardless of rate hikes, and that current weakness in the stock presents an opportunity. The creator emphasizes that AI infrastructure spending is creating jobs and growth in segments where they previously didn't exist, supporting continued investment in semiconductor capacity.",
-          "when_to_buy": "At $200 or under",
-          "target_price": "$200",
-          "cautions": null
-        },
         {
           "channel": "Jose Najarro Stocks",
           "title": "AI Compute Demand Could DOUBLE Again by 2027!!",
@@ -7155,11 +6949,11 @@
     {
       "ticker": "ORCL",
       "company_name": "Oracle Corporation",
-      "buy_count": 5,
+      "buy_count": 4,
       "avoid_count": 2,
-      "first_mention_date": "17 Sep 2026",
-      "price_at_first_mention": 151.37,
-      "pct_change_since_rec": -15.3,
+      "first_mention_date": "24 Sep 2026",
+      "price_at_first_mention": 138.94,
+      "pct_change_since_rec": -7.7,
       "market": {
         "ticker": "ORCL",
         "name": "Oracle Corporation",
@@ -7199,19 +6993,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "Mr. FIRED Up Wealth",
-          "title": "Best Stocks to Buy Now? 2 Hated Names I'm Buying at These Levels!",
-          "url": "https://www.youtube.com/watch?v=59nt4X9NX6E",
-          "upload_date": "20260917",
-          "date_label": "17 Sep 2026",
-          "ticker": "ORCL",
-          "company_name": "Oracle Corporation",
-          "reason": "Oracle is in the creator's top 10 high conviction stocks for the next decade despite being heavily hated by the market, which is generally when the creator likes to buy stocks. The company is undergoing massive infrastructure buildout for AI and neo-cloud capabilities. Once this infrastructure is built out and they have data centers, Oracle can plug and play as a neo-cloud OCI platform with cross-sell opportunities in the enterprise space. Oracle already works with the Fortune 1000 and can leverage these relationships. The creator believes Oracle will become a new hyperscaler. Wall Street analyst Guggenheim has a $400 price target and calls it their best idea. TipRanks shows 25 buy ratings, highest price target of $400, lowest of $145, and current implied upside of approximately 75-87% to an average price target of $251. The stock has been crushed from $345 to below $150, creating a contrarian opportunity. The creator worked for Oracle directly and in the partner ecosystem for over 10 years, giving insider knowledge of the company's enterprise relationships.",
-          "when_to_buy": "$150 or less via dollar-cost averaging (DCA). Creator currently holds close to a 2% position and wants to grow it to a 5% position. Would like to see it at $100 (S3 Fibonacci support level).",
-          "target_price": "Guggenheim Street price target: $400 within 12 months (though creator cannot predict timing). TipRanks average upside target: $251 from current $143 price.",
-          "cautions": "Oracle reported massive negative free cash flow of -$5.4 billion in Q1 fiscal 2027 (their fiscal year ends in summer). Gross capex spend ballooned from $8.5 billion to $28.5 billion, a major red flag for many investors. Company issued $20 billion in stock dilution with more dilution coming. Recently conducted brutal layoffs ($700 million restructuring costs, $2.8 billion in severance), which while potentially positive for shareholders, damages sentiment and generates bad press. The company has historically been 'hated' \u2014 the creator cannot recall Oracle ever being widely loved by the market. Larry Ellison's reputation as a 'villain' also contributes to negative sentiment. Stock can always go lower. Creator emphasizes this is buy, hold, and monitor \u2014 never blindly."
-        },
         {
           "channel": "FinTek",
           "title": "Top 9 Stocks to BUY NOW (High Growth Stocks)",
@@ -8369,11 +8150,11 @@
     {
       "ticker": "SOFI",
       "company_name": "SoFi Technologies Inc.",
-      "buy_count": 7,
-      "avoid_count": 2,
-      "first_mention_date": "17 Sep 2026",
-      "price_at_first_mention": 16.8,
-      "pct_change_since_rec": -13.4,
+      "buy_count": 6,
+      "avoid_count": 1,
+      "first_mention_date": "20 Sep 2026",
+      "price_at_first_mention": 16.96,
+      "pct_change_since_rec": -14.2,
       "market": {
         "ticker": "SOFI",
         "name": "SoFi Technologies, Inc.",
@@ -8413,19 +8194,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "CouchInvestor",
-          "title": "The Fed Just Hiked Rates: Here's What I'm Buying and What I'm Selling",
-          "url": "https://www.youtube.com/watch?v=7oMgZmtOtMA",
-          "upload_date": "20260917",
-          "date_label": "17 Sep 2026",
-          "ticker": "SOFI",
-          "company_name": "SoFi Technologies Inc.",
-          "reason": "The creator is super bullish on SoFi as a business and expects their guidance to be correct regarding one to two rate hikes this year. He believes if they increase guidance with the same assumptions, it would be quite bullish for the stock. However, he recommends waiting for better entry points rather than buying immediately.",
-          "when_to_buy": "Wait for market sentiment flip; consider if it goes back under $17",
-          "target_price": null,
-          "cautions": "Currently has zero momentum and a major macro overhang; fintech sector sentiment is poor; better to wait for sentiment change despite bullish long-term view"
-        },
         {
           "channel": "CouchInvestor",
           "title": "I Might Sell This Underperforming Stock This Week",
@@ -8506,17 +8274,6 @@
         }
       ],
       "avoids": [
-        {
-          "channel": "CouchInvestor",
-          "title": "The Fed Just Hiked Rates: Here's What I'm Buying and What I'm Selling",
-          "url": "https://www.youtube.com/watch?v=7oMgZmtOtMA",
-          "upload_date": "20260917",
-          "date_label": "17 Sep 2026",
-          "ticker": "SOFI",
-          "company_name": "SoFi Technologies Inc.",
-          "reason": "Despite being bullish on the business fundamentals, the creator recommends avoiding SoFi right now because it has zero momentum and carries a major macro overhang affecting the entire fintech sector. He explicitly states that although he's super bullish on it, it might be better to wait until market sentiment flips before deploying capital, as sentiment is currently poor.",
-          "risk": "Zero momentum; major macro overhang; poor fintech sector sentiment"
-        },
         {
           "channel": "CouchInvestor",
           "title": "4 Stocks in My Portfolio I Wouldn\u2019t Buy Right Now",

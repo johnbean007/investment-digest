@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T07:49:35.742191",
+  "generated_at": "2026-10-18T10:01:21.592737",
   "video_count": 61,
   "stock_count": 132,
   "stocks": [
@@ -474,11 +474,11 @@
         "beta": 2.454,
         "short_percent": 0.0242,
         "dividend_yield": 0.0,
-        "analyst_buy": 41,
+        "analyst_buy": 42,
         "analyst_hold": 10,
         "analyst_sell": 0,
-        "analyst_target": 636.21,
-        "analyst_upside_pct": 20.3,
+        "analyst_target": 627.65,
+        "analyst_upside_pct": 18.7,
         "earnings_date": null,
         "earnings_days": null
       },

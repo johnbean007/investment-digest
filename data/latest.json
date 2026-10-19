@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T09:36:19.629415",
+  "generated_at": "2026-10-19T14:19:00.976852",
   "video_count": 59,
   "stock_count": 137,
   "stocks": [
@@ -1300,9 +1300,9 @@
         "daily_change_pct": 0.11,
         "month_change_pct": -0.0,
         "week52_high": 20.0,
-        "week52_high_date": "16 Oct 2026",
+        "week52_high_date": "19 Oct 2026",
         "week52_low": 20.0,
-        "week52_low_date": "16 Oct 2026",
+        "week52_low_date": "19 Oct 2026",
         "rsi": null,
         "rsi_label": null,
         "ma50": null,
@@ -7246,8 +7246,8 @@
         "analyst_buy": 4,
         "analyst_hold": 10,
         "analyst_sell": 0,
-        "analyst_target": 45.68,
-        "analyst_upside_pct": 17.6,
+        "analyst_target": 45.75,
+        "analyst_upside_pct": 17.8,
         "earnings_date": null,
         "earnings_days": null
       },

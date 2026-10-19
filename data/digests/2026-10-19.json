@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T04:43:02.378910",
+  "generated_at": "2026-10-19T06:36:56.058223",
   "video_count": 59,
   "stock_count": 137,
   "stocks": [
@@ -3590,7 +3590,7 @@
         "ma200": 338.78,
         "ma_signal": "golden_cross",
         "pe_trailing": 16.904667,
-        "pe_forward": 22.035313,
+        "pe_forward": 22.03233,
         "peg_ratio": 1.18,
         "revenue_growth": 0.242,
         "earnings_growth": 2.94,
@@ -3654,7 +3654,7 @@
         "ma200": 340.56,
         "ma_signal": "golden_cross",
         "pe_trailing": 17.089312,
-        "pe_forward": 22.276,
+        "pe_forward": 22.272984,
         "peg_ratio": 1.2,
         "revenue_growth": 0.242,
         "earnings_growth": 2.94,

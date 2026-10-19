@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-18T20:25:17.872802",
-  "video_count": 62,
-  "stock_count": 133,
+  "generated_at": "2026-10-19T04:43:02.378910",
+  "video_count": 59,
+  "stock_count": 137,
   "stocks": [
     {
       "ticker": "AAOI",
       "company_name": "Applied Optoelectronics",
-      "buy_count": 1,
+      "buy_count": 2,
       "avoid_count": 0,
       "first_mention_date": "15 Oct 2026",
       "price_at_first_mention": 81.74,
@@ -62,6 +62,19 @@
           "when_to_buy": "$75 area and below (below S3 Fibonacci of $79.98).",
           "target_price": null,
           "cautions": "This stock is described as highly speculative. Intended as a trade to convert into dividend stocks on strength. Not appropriate for risk-averse investors."
+        },
+        {
+          "channel": "Jose Najarro Stocks",
+          "title": "10 AI Stocks CRASHED \u2014 I'm Buying the Opportunity!!",
+          "url": "https://www.youtube.com/watch?v=fOe_Ck6pBsE",
+          "upload_date": "20261018",
+          "date_label": "18 Oct 2026",
+          "ticker": "AAOI",
+          "company_name": "Applied Optoelectronics",
+          "reason": "Applied Optoelectronics demonstrates strong AI-driven growth with 86-87% year-over-year and 27% quarter-over-quarter revenue growth. The company began delivering 800-gig orders in Q2 with ramp-up expected, and management expects qualification and initial shipments for 1.6T in the upcoming quarter. Capacity expansion is dramatic: combined 800G and 1.6T units were approaching 200,000 units per month in August 2026, with expectations to exceed 650,000 units per month by year-end and 930,000 units per month by end of 2027. The company has significant in-house laser production providing supply chain control and margin protection during shortage-driven periods. This combination of capacity growth, technology ramps, and in-house manufacturing provides strong positioning in a supply-constrained market.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": "The stock faces execution risk on meeting qualification and shipment targets for 1.6T. Any delays would negatively impact the stock. Success depends on the company maintaining its manufacturing capacity growth trajectory and managing in-house laser production efficiency."
         }
       ],
       "avoids": [],
@@ -439,11 +452,11 @@
     {
       "ticker": "AMD",
       "company_name": "Advanced Micro Devices",
-      "buy_count": 11,
+      "buy_count": 10,
       "avoid_count": 3,
-      "first_mention_date": "18 Sep 2026",
-      "price_at_first_mention": 544.37,
-      "pct_change_since_rec": -2.9,
+      "first_mention_date": "20 Sep 2026",
+      "price_at_first_mention": 559.82,
+      "pct_change_since_rec": -5.5,
       "market": {
         "ticker": "AMD",
         "name": "Advanced Micro Devices, Inc.",
@@ -483,19 +496,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "AI Compute Demand Could DOUBLE Again by 2027!!",
-          "url": "https://www.youtube.com/watch?v=M1FJ5dNiBEs",
-          "upload_date": "20260918",
-          "date_label": "18 Sep 2026",
-          "ticker": "AMD",
-          "company_name": "Advanced Micro Devices",
-          "reason": "AMD is included in creator's core portfolio of AI infrastructure plays, positioned to benefit from massive compute demand growth. Part of broader semiconductor exposure to AI buildout.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": null
-        },
         {
           "channel": "Jose Najarro Stocks",
           "title": "3 AI Stocks We\u2019re Buying for the Second Half of 2026!!",
@@ -666,12 +666,12 @@
     },
     {
       "ticker": "AMZN",
-      "company_name": "Amazon",
+      "company_name": "Amazon.com Inc.",
       "buy_count": 12,
       "avoid_count": 0,
-      "first_mention_date": "18 Sep 2026",
-      "price_at_first_mention": 252.94,
-      "pct_change_since_rec": -1.2,
+      "first_mention_date": "20 Sep 2026",
+      "price_at_first_mention": 253.71,
+      "pct_change_since_rec": -1.5,
       "market": {
         "ticker": "AMZN",
         "name": "Amazon.com, Inc.",
@@ -711,19 +711,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "Daniel Pronk",
-          "title": "Top 5 Lessons That Will Make You A Better Investor",
-          "url": "https://www.youtube.com/watch?v=0-xXPsg8I44",
-          "upload_date": "20260918",
-          "date_label": "18 Sep 2026",
-          "ticker": "AMZN",
-          "company_name": "Amazon",
-          "reason": "The creator was a buyer of Amazon in 2022 when the stock was down 6% from 2018 highs and the market was pessimistic. The creator understood that Amazon was intentionally compressing margins (operating cash flow margin dropped from 17% to 7.3%) to invest in long-term growth. The investment thesis was that this margin compression was temporary and deliberate, and that when margins re-expanded with higher revenue, cash flows would explode. This thesis proved correct: by 2026, Amazon's operating cash flow margin reached an all-time high of 20.8%, operating cash flows hit $161 billion (all-time highs), and the stock is up 206% since the 2022 bottom.",
-          "when_to_buy": "2022 during the period when the stock was down and the market was pessimistic about margins",
-          "target_price": null,
-          "cautions": "Past price performance was flat to negative for 5 years prior (2018-2022), which deterred many investors. The creator notes that investors who only looked at price charts missed the fundamental opportunity."
-        },
         {
           "channel": "CouchInvestor",
           "title": "I Might Sell This Underperforming Stock This Week",
@@ -866,6 +853,19 @@
           "when_to_buy": "Current price around $250 which is also around the main buying zone.",
           "target_price": null,
           "cautions": null
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "What the HELL Just Happened to the Stock Market?",
+          "url": "https://www.youtube.com/watch?v=V0bLQMbp6sU",
+          "upload_date": "20261019",
+          "date_label": "19 Oct 2026",
+          "ticker": "AMZN",
+          "company_name": "Amazon.com Inc.",
+          "reason": "Amazon is coiling similar to Google and has not moved significantly in months, representing an asymmetrical buying opportunity. The creator expects strong earnings on October 29th and continued commitment to AI capex spending. Amazon's data center and cloud business should benefit from sustained AI infrastructure demand.",
+          "when_to_buy": "Between now and mega cap earnings season (October 29th). Dollar cost averaging approach recommended.",
+          "target_price": null,
+          "cautions": "Earnings must demonstrate continued capex commitment and AI monetization progress to validate the buying opportunity."
         }
       ],
       "avoids": [],
@@ -998,6 +998,31 @@
       "description": null
     },
     {
+      "ticker": "ANTHROPIC",
+      "company_name": "Anthropic PBC",
+      "buy_count": 0,
+      "avoid_count": 1,
+      "first_mention_date": "19 Oct 2026",
+      "price_at_first_mention": null,
+      "pct_change_since_rec": null,
+      "market": null,
+      "buys": [],
+      "avoids": [
+        {
+          "channel": "The Traveling Trader",
+          "title": "What the HELL Just Happened to the Stock Market?",
+          "url": "https://www.youtube.com/watch?v=V0bLQMbp6sU",
+          "upload_date": "20261019",
+          "date_label": "19 Oct 2026",
+          "ticker": "ANTHROPIC",
+          "company_name": "Anthropic PBC",
+          "reason": "Anthropic is seeking a $60 billion debt package and offering Blackstone yields above 10%, which is junk bond territory for a company that hasn't even gone public yet. The creator considers this a major red flag. Additionally, the market reacted negatively when Anthropic reported $16.8 billion in Q3 revenue (up from $11.6 billion), interpreting the quarter-over-quarter growth deceleration as disappointing despite the absolute growth. Like CoreWeave, Anthropic is part of the problematic pattern of AI companies taking on unsustainable leverage to fund operations and meet backlog obligations.",
+          "risk": "IPO launch risk; debt burden may impair valuation and dilute equity; company growth may not support debt service if capex spending slows."
+        }
+      ],
+      "description": "AI safety research company behind the Claude language models"
+    },
+    {
       "ticker": "AOOI",
       "company_name": "Applied Optoelectronics",
       "buy_count": 1,
@@ -1102,70 +1127,6 @@
       "description": "Licenses CPU and GPU intellectual property to semiconductor companies"
     },
     {
-      "ticker": "ASML",
-      "company_name": "Astera Labs",
-      "buy_count": 1,
-      "avoid_count": 0,
-      "first_mention_date": "18 Sep 2026",
-      "price_at_first_mention": 1645.68,
-      "pct_change_since_rec": -0.3,
-      "market": {
-        "ticker": "ASML",
-        "name": "ASML Holding N.V. - New York Re",
-        "currency": "USD",
-        "sector": "Technology",
-        "industry": "Semiconductor Equipment & Materials",
-        "market_cap": 632670912512,
-        "current_price": 1641.52,
-        "daily_change_pct": -0.96,
-        "month_change_pct": 0.73,
-        "week52_high": 1999.96,
-        "week52_high_date": "30 Jun 2026",
-        "week52_low": 946.11,
-        "week52_low_date": "21 Nov 2025",
-        "rsi": 37.7,
-        "rsi_label": "neutral",
-        "ma50": 1739.63,
-        "ma200": 1574.4,
-        "ma_signal": "golden_cross",
-        "pe_trailing": 40.391735,
-        "pe_forward": 26.114334,
-        "peg_ratio": 0.95,
-        "revenue_growth": 0.552,
-        "earnings_growth": 1.359,
-        "free_cashflow": 10374124544,
-        "profit_margins": 0.34135,
-        "debt_to_equity": 8.897,
-        "beta": 1.302,
-        "short_percent": 0.0038,
-        "dividend_yield": 0.55,
-        "analyst_buy": 40,
-        "analyst_hold": 3,
-        "analyst_sell": 1,
-        "analyst_target": 2148.32,
-        "analyst_upside_pct": 30.9,
-        "earnings_date": null,
-        "earnings_days": null
-      },
-      "buys": [
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "AI Compute Demand Could DOUBLE Again by 2027!!",
-          "url": "https://www.youtube.com/watch?v=M1FJ5dNiBEs",
-          "upload_date": "20260918",
-          "date_label": "18 Sep 2026",
-          "ticker": "ASML",
-          "company_name": "Astera Labs",
-          "reason": "Astera Labs is part of creator's core AI infrastructure portfolio focused on semiconductor and chip connectivity solutions. Benefits from broader AI compute buildout and data center infrastructure expansion.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": null
-        }
-      ],
-      "avoids": [],
-      "description": "Manufactures lithography systems for semiconductor chip production"
-    },
-    {
       "ticker": "ASST",
       "company_name": "Astera Labs",
       "buy_count": 1,
@@ -1228,6 +1189,70 @@
       ],
       "avoids": [],
       "description": "Provides connectivity and interface solutions for data centre infrastructure"
+    },
+    {
+      "ticker": "ASTL",
+      "company_name": "Astera Labs",
+      "buy_count": 1,
+      "avoid_count": 0,
+      "first_mention_date": "18 Oct 2026",
+      "price_at_first_mention": 4.03,
+      "pct_change_since_rec": 0.0,
+      "market": {
+        "ticker": "ASTL",
+        "name": "Algoma Steel Group Inc.",
+        "currency": "USD",
+        "sector": "Basic Materials",
+        "industry": "Steel",
+        "market_cap": 424716160,
+        "current_price": 4.03,
+        "daily_change_pct": -1.71,
+        "month_change_pct": -8.82,
+        "week52_high": 5.9,
+        "week52_high_date": "01 Jun 2026",
+        "week52_low": 3.16,
+        "week52_low_date": "21 Nov 2025",
+        "rsi": 41.7,
+        "rsi_label": "neutral",
+        "ma50": 4.29,
+        "ma200": 4.42,
+        "ma_signal": "death_cross",
+        "pe_trailing": null,
+        "pe_forward": -17.119604,
+        "peg_ratio": null,
+        "revenue_growth": -0.546,
+        "earnings_growth": null,
+        "free_cashflow": -291787488,
+        "profit_margins": -0.71613,
+        "debt_to_equity": 367.997,
+        "beta": 1.651,
+        "short_percent": 0.0579,
+        "dividend_yield": 0.0,
+        "analyst_buy": 1,
+        "analyst_hold": 3,
+        "analyst_sell": 0,
+        "analyst_target": null,
+        "analyst_upside_pct": null,
+        "earnings_date": null,
+        "earnings_days": null
+      },
+      "buys": [
+        {
+          "channel": "Jose Najarro Stocks",
+          "title": "10 AI Stocks CRASHED \u2014 I'm Buying the Opportunity!!",
+          "url": "https://www.youtube.com/watch?v=fOe_Ck6pBsE",
+          "upload_date": "20261018",
+          "date_label": "18 Oct 2026",
+          "ticker": "ASTL",
+          "company_name": "Astera Labs",
+          "reason": "Astera Labs demonstrates strong growth of 105% year-over-year and 27% quarter-over-quarter. The company continues to see sustained demand across multiple PCIe generations\u2014not just the newest versions. PCIe 4, 5, and 6 continue to see sales with PCIe 7 currently sampling and expected to continue in Q4 2026. Their Scorpio solution, which enables scale-connected GPU groups, continues to see massive volume growth with lead customers expected to ramp in Q3 with high volume. The creator highlights the networking space as 'one of the most overlooked' despite strong fundamentals. Forward P/E is elevated at 66 for fiscal year earnings within 4 months, but the creator believes this will compress significantly over the next 18 months as the massive AI infrastructure buildout and total cost of ownership improvements from GPU scaling drive substantial revenue growth.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": "The stock has a relatively high forward P/E of 66, indicating elevated valuation. The creator expects this to compress in the future, but near-term downside exists if AI infrastructure buildout slows. Competition in the networking space is increasing. The creator notes the networking space is 'overlooked,' suggesting it may not have large analyst coverage or institutional support."
+        }
+      ],
+      "avoids": [],
+      "description": "Designs and develops satellite constellation for cellular broadband coverage"
     },
     {
       "ticker": "ASTZ",
@@ -1387,11 +1412,11 @@
     {
       "ticker": "AVGO",
       "company_name": "Broadcom Inc.",
-      "buy_count": 14,
+      "buy_count": 13,
       "avoid_count": 0,
-      "first_mention_date": "18 Sep 2026",
-      "price_at_first_mention": 354.61,
-      "pct_change_since_rec": -7.3,
+      "first_mention_date": "20 Sep 2026",
+      "price_at_first_mention": 357.61,
+      "pct_change_since_rec": -8.1,
       "market": {
         "ticker": "AVGO",
         "name": "Broadcom Inc.",
@@ -1431,19 +1456,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "CouchInvestor",
-          "title": "4 Stocks With Room to Double",
-          "url": "https://www.youtube.com/watch?v=dFEFBi7Qfv4",
-          "upload_date": "20260918",
-          "date_label": "18 Sep 2026",
-          "ticker": "AVGO",
-          "company_name": "Broadcom Inc.",
-          "reason": "Broadcom is positioned as the 'anti-Nvidia' benefiting from major tech companies (Google, OpenAI, Anthropic, Meta) building custom AI chips. Management expects to double revenue to $115 billion in the next year and double again to $230 billion, driven by A6 custom chips surpassing GPU volumes by 2027-2028. The company has strong financial metrics with 48% operating margins, 44.2% free cash flow margins, and gross profit margins reaching 68.8%. Free cash flow growth is expected at 82% in fiscal 2026, accelerating faster than revenue growth. The DCF analysis shows 83% upside to $638 per share (probability-weighted), with bull case at $1,000 and base case at $545 (56% upside), while even the bear case shows only 5.6% downside.",
-          "when_to_buy": null,
-          "target_price": "$638 (probability-weighted), $545 (base case), $1,000 (bull case)",
-          "cautions": "Company is currently trading at 44x P/E and 120.1x forward P/E with a PEG ratio of 5, which are elevated multiples. The thesis heavily depends on execution of AI chip demand from major customers and realization of management's aggressive growth targets."
-        },
         {
           "channel": "CouchInvestor",
           "title": "I Might Sell This Underperforming Stock This Week",
@@ -2457,7 +2469,7 @@
       "ticker": "COREWEAVE",
       "company_name": "CoreWeave",
       "buy_count": 0,
-      "avoid_count": 1,
+      "avoid_count": 2,
       "first_mention_date": "15 Oct 2026",
       "price_at_first_mention": null,
       "pct_change_since_rec": null,
@@ -2474,6 +2486,17 @@
           "company_name": "CoreWeave",
           "reason": "CoreWeave faces significant credit market stress with bond yields spiking to 12-15% (up from 9% in June), indicating loss of investor confidence despite company assertions that fundamentals remain strong. The company has taken on massive debt ($50+ billion) to fund data center buildouts, with interest payments already doubling to $640 million last quarter and exceeding $900 million this quarter. While the company has $100-130 billion in backlog from contracts signed years ago at lower pricing ($15-16 million per megawatt), there is uncertainty about whether revenue recognition will occur on schedule and whether the company can service its debt obligations if there are delays in data center deployment or customer payment issues. The credit market deterioration suggests sophisticated investors have information or concerns about execution risk that retail investors cannot currently see. Elon Musk's recent comments about how difficult it is to actually execute on data center buildouts (despite easy capital raising) may reflect concerns about CoreWeave's execution capabilities.",
           "risk": "Stock could trade down to $30-40 range if credit concerns intensify or if data center deployment delays occur. Bankruptcy or distressed restructuring risk if execution falters and credit markets remain closed. Potential dilution from emergency capital raises or bailout scenarios."
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "What the HELL Just Happened to the Stock Market?",
+          "url": "https://www.youtube.com/watch?v=V0bLQMbp6sU",
+          "upload_date": "20261019",
+          "date_label": "19 Oct 2026",
+          "ticker": "COREWEAVE",
+          "company_name": "CoreWeave Inc.",
+          "reason": "CoreWeave exhibits extreme financial stress and unsustainable leverage. The company has a 1,000% debt-to-equity ratio with $45 billion in net debt and negative free cash flows. While revenue and backlog keep the stock price afloat, the company requires $35 billion in additional financing just to fulfill existing commitments (not including new business). CoreWeave's bond yields spiked to 15%, the highest ever, and credit default swap insurance costs reached unprecedented levels. The creator explicitly warns this represents a 'house of cards' structure where the company is taking on more debt than it can afford to pay, subject to credit events if yields continue rising regardless of underlying demand fundamentals.",
+          "risk": "Credit default risk; potential 50-90% downside if financing becomes unavailable or debt must be restructured."
         }
       ],
       "description": "Cloud infrastructure provider specializing in GPU computing"
@@ -2481,7 +2504,7 @@
     {
       "ticker": "COST",
       "company_name": "Costco Wholesale Corporation",
-      "buy_count": 1,
+      "buy_count": 2,
       "avoid_count": 0,
       "first_mention_date": "02 Oct 2026",
       "price_at_first_mention": 914.94,
@@ -2537,6 +2560,19 @@
           "when_to_buy": "On dips in the corrected consumer staples sector",
           "target_price": null,
           "cautions": "No specific cautions mentioned for Costco individually, but general sector caution applies regarding rate shock sensitivity."
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "What the HELL Just Happened to the Stock Market?",
+          "url": "https://www.youtube.com/watch?v=V0bLQMbp6sU",
+          "upload_date": "20261019",
+          "date_label": "19 Oct 2026",
+          "ticker": "COST",
+          "company_name": "The Costco Wholesale Corporation",
+          "reason": "Costco bounced off major demand levels and presents consolidation opportunity after recent strength.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": "The creator suggests consumer staples have already rallied significantly and notes these stocks would need to drop before representing fresh asymmetrical opportunities."
         }
       ],
       "avoids": [],
@@ -2545,7 +2581,7 @@
     {
       "ticker": "CRDO",
       "company_name": "Credo Technology",
-      "buy_count": 1,
+      "buy_count": 2,
       "avoid_count": 0,
       "first_mention_date": "06 Oct 2026",
       "price_at_first_mention": 220.83,
@@ -2601,6 +2637,19 @@
           "when_to_buy": "150s-160s price range was highlighted as an attractive entry point during market weakness",
           "target_price": null,
           "cautions": "Credo experiences selloff periods that the creator views as buying opportunities, suggesting volatility is expected. Thesis depends on continued strong demand for networking and optics infrastructure in AI data centers."
+        },
+        {
+          "channel": "Jose Najarro Stocks",
+          "title": "10 AI Stocks CRASHED \u2014 I'm Buying the Opportunity!!",
+          "url": "https://www.youtube.com/watch?v=fOe_Ck6pBsE",
+          "upload_date": "20261018",
+          "date_label": "18 Oct 2026",
+          "ticker": "CRDO",
+          "company_name": "Credo Semiconductor",
+          "reason": "Credo is described as 'probably one of my favorite plays in the networking space' and has declined approximately 21.6% during the recent sell-off, creating a buying opportunity. The stock represents exposure to the growing demand for high-speed networking solutions in AI data centers. The creator includes Credo as one of their recommended networking plays alongside Marvell and Astera Labs.",
+          "when_to_buy": "The recent sell-off from October 9-16 created a 21.6% decline, which the creator views as an opportunity",
+          "target_price": null,
+          "cautions": "Specific financial metrics and detailed bull case for Credo were not provided in the transcript beyond classification as a networking play. Credo faces competition in the networking solutions space."
         }
       ],
       "avoids": [],
@@ -2608,39 +2657,103 @@
     },
     {
       "ticker": "CREDO",
-      "company_name": "Credo Technology",
+      "company_name": "Credo Semiconductor",
       "buy_count": 1,
       "avoid_count": 0,
-      "first_mention_date": "18 Sep 2026",
+      "first_mention_date": "18 Oct 2026",
       "price_at_first_mention": null,
       "pct_change_since_rec": null,
       "market": null,
       "buys": [
         {
           "channel": "Jose Najarro Stocks",
-          "title": "AI Compute Demand Could DOUBLE Again by 2027!!",
-          "url": "https://www.youtube.com/watch?v=M1FJ5dNiBEs",
-          "upload_date": "20260918",
-          "date_label": "18 Sep 2026",
+          "title": "10 AI Stocks CRASHED \u2014 I'm Buying the Opportunity!!",
+          "url": "https://www.youtube.com/watch?v=fOe_Ck6pBsE",
+          "upload_date": "20261018",
+          "date_label": "18 Oct 2026",
           "ticker": "CREDO",
-          "company_name": "Credo Technology",
-          "reason": "Credo represents one of creator's favorite opportunities from a valuation perspective within the semiconductor/AI infrastructure space. The company benefits from demand for high-performance connectivity solutions in data centers supporting AI infrastructure buildout. Creator explicitly mentions Credo as undervalued.",
-          "when_to_buy": "Under $170 is the entry point creator highlighted as attractive",
+          "company_name": "Credo Semiconductor",
+          "reason": "The creator explicitly states Credo is 'probably one of my favorite plays in the networking space right now.' Revenue grew 114% year-over-year and roughly 10% quarter-over-quarter, with management guiding to $535 million for the next quarter (another 10.6% sequential growth) with conservative guidance suggesting actual results could show closer to 15% sequential growth. Large AI clusters still require reliable electrical links and Credo's active electrical cables (AECs) remain one of their largest businesses. The company is expanding into optical space with Silver Flat Optics moving into production and expected customer ramp in fiscal 2027. Recent acquisition of Dust Photonics adds Silicon Photonics as a new revenue stream. Multiple growth opportunities are expected to hit within 12 months or longer, yet the company continues strong current revenue growth. Forward P/E for fiscal 2027 is approximately 25.5 despite being only 6-8 months away, making it very attractive.",
+          "when_to_buy": null,
           "target_price": null,
-          "cautions": null
+          "cautions": "Sequential growth decelerated from prior quarters to 10% Q/Q, which concerned the market, though management guidance suggests acceleration returning. The company operates in the competitive networking space with multiple technology transitions occurring simultaneously (copper to optics, introduction of new protocols). Execution risk exists on new product introductions like Silver Flat Optics."
         }
       ],
       "avoids": [],
       "description": "Designs high-speed semiconductor intellectual property for data centres and networking"
     },
     {
+      "ticker": "CRUS",
+      "company_name": "Cirrus Logic or potential misidentification - likely refers to Cerebras Systems (CS)",
+      "buy_count": 1,
+      "avoid_count": 0,
+      "first_mention_date": "18 Oct 2026",
+      "price_at_first_mention": 107.87,
+      "pct_change_since_rec": 0.0,
+      "market": {
+        "ticker": "CRUS",
+        "name": "Cirrus Logic, Inc.",
+        "currency": "USD",
+        "sector": "Technology",
+        "industry": "Semiconductors",
+        "market_cap": 5406181376,
+        "current_price": 107.87,
+        "daily_change_pct": -0.49,
+        "month_change_pct": -10.38,
+        "week52_high": 180.42,
+        "week52_high_date": "27 May 2026",
+        "week52_low": 105.1,
+        "week52_low_date": "15 Oct 2026",
+        "rsi": 33.9,
+        "rsi_label": "neutral",
+        "ma50": 115.93,
+        "ma200": 139.34,
+        "ma_signal": "death_cross",
+        "pe_trailing": 13.170941,
+        "pe_forward": 12.119953,
+        "peg_ratio": 9.35,
+        "revenue_growth": 0.129,
+        "earnings_growth": 0.289,
+        "free_cashflow": 450997248,
+        "profit_margins": 0.21004999,
+        "debt_to_equity": 5.96,
+        "beta": 1.166,
+        "short_percent": 0.0799,
+        "dividend_yield": 0.0,
+        "analyst_buy": 3,
+        "analyst_hold": 2,
+        "analyst_sell": 0,
+        "analyst_target": 163.33,
+        "analyst_upside_pct": 51.4,
+        "earnings_date": null,
+        "earnings_days": null
+      },
+      "buys": [
+        {
+          "channel": "Jose Najarro Stocks",
+          "title": "10 AI Stocks CRASHED \u2014 I'm Buying the Opportunity!!",
+          "url": "https://www.youtube.com/watch?v=fOe_Ck6pBsE",
+          "upload_date": "20261018",
+          "date_label": "18 Oct 2026",
+          "ticker": "CRUS",
+          "company_name": "Cirrus Logic or potential misidentification - likely refers to Cerebras Systems (CS)",
+          "reason": "Cerebras (referred to as 'Reapers' or 'So Reapers' in transcript, likely a transcription error for 'Cerebras') is presented as an interesting play in ultra-fast inference with several growth catalysts. The company's wafer-scale design changes supply constraints compared to competitors\u2014they avoid the bottlenecks of HBM memory, CoWoS packaging, and 3-nanometer fabrication that impact competitors and are resource-constrained in the industry. Strategic partnerships with AWS provide global enterprise reach and marketplace expansion opportunity. The company is reported to be sold out, indicating strong demand, and has partnership with OpenAI. These factors position Cerebras uniquely in the competitive AI chip market.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": "Cerebras operates in an extremely competitive market against custom ASICs, Nvidia's ultra-fast inference capabilities, and private market competitors. The stock trades at 'interesting highly valuation numbers,' suggesting elevated price levels. Being sold out could indicate demand strength but also limits near-term growth optionality. There is significant execution risk given the competitive intensity."
+        }
+      ],
+      "avoids": [],
+      "description": "Designs audio codecs, amplifiers, and digital signal processors for consumer devices"
+    },
+    {
       "ticker": "CRWD",
-      "company_name": "CoreWeave",
-      "buy_count": 4,
+      "company_name": "Coreweave",
+      "buy_count": 3,
       "avoid_count": 1,
-      "first_mention_date": "18 Sep 2026",
-      "price_at_first_mention": 238.56,
-      "pct_change_since_rec": -4.7,
+      "first_mention_date": "24 Sep 2026",
+      "price_at_first_mention": 262.49,
+      "pct_change_since_rec": -13.4,
       "market": {
         "ticker": "CRWD",
         "name": "CrowdStrike Holdings, Inc.",
@@ -2680,19 +2793,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "AI Compute Demand Could DOUBLE Again by 2027!!",
-          "url": "https://www.youtube.com/watch?v=M1FJ5dNiBEs",
-          "upload_date": "20260918",
-          "date_label": "18 Sep 2026",
-          "ticker": "CRWD",
-          "company_name": "CoreWeave",
-          "reason": "CoreWeave is a neoclassical cloud player benefiting from the explosive growth in AI compute demand. Creator holds CoreWeave as part of core AI infrastructure portfolio allocation, alongside other neoclassical cloud providers. The company is positioned to capture demand from AI labs needing additional compute capacity.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": "Creator acknowledges market sentiment is negative toward CoreWeave ('People don't love CoreWeave'), but maintains this is a buying opportunity. Current price around $79, with creator suggesting selling puts as a way to reduce cost basis or acquire shares at favorable exercise prices."
-        },
         {
           "channel": "FinTek",
           "title": "Top 9 Stocks to BUY NOW (High Growth Stocks)",
@@ -2749,66 +2849,31 @@
       "description": "Provides cloud-based cybersecurity platform for endpoints and workloads"
     },
     {
-      "ticker": "CSIQ",
-      "company_name": "Canadian Solar",
-      "buy_count": 0,
-      "avoid_count": 1,
-      "first_mention_date": "18 Sep 2026",
-      "price_at_first_mention": 11.2,
-      "pct_change_since_rec": -12.4,
-      "market": {
-        "ticker": "CSIQ",
-        "name": "Canadian Solar Inc.",
-        "currency": "USD",
-        "sector": "Technology",
-        "industry": "Solar",
-        "market_cap": 666067136,
-        "current_price": 9.81,
-        "daily_change_pct": -7.19,
-        "month_change_pct": -16.51,
-        "week52_high": 34.59,
-        "week52_high_date": "14 Nov 2025",
-        "week52_low": 9.76,
-        "week52_low_date": "16 Oct 2026",
-        "rsi": 33.3,
-        "rsi_label": "neutral",
-        "ma50": 12.75,
-        "ma200": 16.02,
-        "ma_signal": "death_cross",
-        "pe_trailing": null,
-        "pe_forward": -109.0,
-        "peg_ratio": 0.13,
-        "revenue_growth": -0.287,
-        "earnings_growth": null,
-        "free_cashflow": -1288098816,
-        "profit_margins": -0.03733,
-        "debt_to_equity": 172.312,
-        "beta": 1.531,
-        "short_percent": 0.3702,
-        "dividend_yield": 0.0,
-        "analyst_buy": 4,
-        "analyst_hold": 6,
-        "analyst_sell": 2,
-        "analyst_target": 17.01,
-        "analyst_upside_pct": 73.4,
-        "earnings_date": null,
-        "earnings_days": null
-      },
-      "buys": [],
-      "avoids": [
+      "ticker": "CVWE",
+      "company_name": "CoreWeave",
+      "buy_count": 1,
+      "avoid_count": 0,
+      "first_mention_date": "18 Oct 2026",
+      "price_at_first_mention": null,
+      "pct_change_since_rec": null,
+      "market": null,
+      "buys": [
         {
-          "channel": "Daniel Pronk",
-          "title": "Top 5 Lessons That Will Make You A Better Investor",
-          "url": "https://www.youtube.com/watch?v=0-xXPsg8I44",
-          "upload_date": "20260918",
-          "date_label": "18 Sep 2026",
-          "ticker": "CSIQ",
-          "company_name": "Canadian Solar",
-          "reason": "The creator bought Canadian Solar in 2020 because it had an apparently low price-to-earnings ratio of 3.8, believing it was extremely cheap. However, this low multiple was deceptive because the underlying business fundamentals were deteriorating. By 2021, earnings declined from $299 million to $50 million, causing the P/E ratio to shoot up to 52 despite the company actually getting worse. The creator got out with a gain but acknowledges it was luck. This serves as a cautionary example of why simply buying low P/E stocks without understanding the reason for the low valuation is a poor strategy.",
-          "risk": "Business earnings collapse; the P/E ratio expanded from 3.8 to 52 as earnings fell 83%"
+          "channel": "Jose Najarro Stocks",
+          "title": "10 AI Stocks CRASHED \u2014 I'm Buying the Opportunity!!",
+          "url": "https://www.youtube.com/watch?v=fOe_Ck6pBsE",
+          "upload_date": "20261018",
+          "date_label": "18 Oct 2026",
+          "ticker": "CVWE",
+          "company_name": "CoreWeave",
+          "reason": "CoreWeave demonstrates exceptional growth with 112% year-over-year revenue growth in the most recent quarter. The company has 1.5 gigawatts of capacity with dramatic growth and is expanding beyond Frontier Model Labs into enterprise space with customers like Bentley Systems, Caterpillar, and Isomorphic Labs. Their managed inference ARR exceeded $100 million (reported in August) with guidance for $250 million by year-end, showing strong enterprise adoption. Most critically, they have a backlog of over $130 billion with 40% ($50+ billion) expected within the next 24 months. The creator is 'very bullish' on CoreWeave and believes this represents massive opportunity as capacity is effectively sold out near-term.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": "The backlog growth rate may slow as the company is capacity-constrained and cannot build fast enough. However, this constraint also demonstrates strong demand. The financing concerns driving the recent market sell-off affect the broader AI infrastructure space."
         }
       ],
-      "description": "Manufactures solar panels and battery energy storage products"
+      "avoids": [],
+      "description": "Provides cloud infrastructure and GPU computing services for AI workloads"
     },
     {
       "ticker": "CWEB",
@@ -3054,7 +3119,7 @@
     {
       "ticker": "DELL",
       "company_name": "Dell Technologies Inc.",
-      "buy_count": 1,
+      "buy_count": 2,
       "avoid_count": 0,
       "first_mention_date": "08 Oct 2026",
       "price_at_first_mention": 578.96,
@@ -3110,6 +3175,19 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": "Creator has not provided detailed analysis or specific entry guidance in this video."
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "What the HELL Just Happened to the Stock Market?",
+          "url": "https://www.youtube.com/watch?v=V0bLQMbp6sU",
+          "upload_date": "20261019",
+          "date_label": "19 Oct 2026",
+          "ticker": "DELL",
+          "company_name": "Dell Technologies Inc.",
+          "reason": "Dell is down 24% from highs in a bear market context, creating a potential asymmetrical opportunity. The data center and infrastructure build-out for AI supports underlying demand for Dell's hardware and services.",
+          "when_to_buy": "The creator is 'starting to look at Dell once again' at these levels, suggesting accumulation near current depressed prices.",
+          "target_price": null,
+          "cautions": "Should only be bought if it fits the individual investor's investing profile and risk tolerance."
         }
       ],
       "avoids": [],
@@ -3320,6 +3398,45 @@
       "description": "ETF tracking large and mid-cap Japanese value stocks"
     },
     {
+      "ticker": "FFHC",
+      "company_name": "FormFactor",
+      "buy_count": 1,
+      "avoid_count": 1,
+      "first_mention_date": "18 Oct 2026",
+      "price_at_first_mention": null,
+      "pct_change_since_rec": null,
+      "market": null,
+      "buys": [
+        {
+          "channel": "Jose Najarro Stocks",
+          "title": "10 AI Stocks CRASHED \u2014 I'm Buying the Opportunity!!",
+          "url": "https://www.youtube.com/watch?v=fOe_Ck6pBsE",
+          "upload_date": "20261018",
+          "date_label": "18 Oct 2026",
+          "ticker": "FFHC",
+          "company_name": "FormFactor",
+          "reason": "FormFactor provides testing solutions for memory and benefits from increasing complexity in HBM stacks. The company grew 32% year-over-year and 14% sequentially in the most recent quarter. As HBM becomes more complex, more testing is required\u2014hundreds of complete HBM stacks need testing, creating consumable revenue. Multiple design wins at large fabless XPU manufacturers (CPUs, GPUs, custom processors) represent additional growth. The company is also expanding into optical packaging testing with CPO revenue expected to be 'significantly above $20 million' in 2026, helping to identify defects when advanced packaging is in shortage. In a supply-constrained market, yield optimization through testing is critical.",
+          "when_to_buy": "The creator likes FormFactor at the current price point of around $105 and plans to buy more over time after having sold at $150",
+          "target_price": null,
+          "cautions": "FormFactor's forward P/E ratio is approximately 33 for the next 5-6 months, which is not unreasonable but reflects higher valuation. The company is heavily dependent on the memory and optical packaging markets. The creator no longer owns the stock after selling at $150, suggesting some hesitation."
+        }
+      ],
+      "avoids": [
+        {
+          "channel": "Jose Najarro Stocks",
+          "title": "10 AI Stocks CRASHED \u2014 I'm Buying the Opportunity!!",
+          "url": "https://www.youtube.com/watch?v=fOe_Ck6pBsE",
+          "upload_date": "20261018",
+          "date_label": "18 Oct 2026",
+          "ticker": "FFHC",
+          "company_name": "FormFactor",
+          "reason": "The creator explicitly states 'I no longer own FormFactor' and 'this is one that I don't own anymore.' This indicates the creator has exited the position. While the creator mentions liking it at current price levels around $105 and planning to buy 'a little bit more over time,' the fact that they sold their previous position at $150 suggests they had concerns about valuation or execution at higher levels.",
+          "risk": "The creator sold at $150 and is now looking to re-enter at $105, suggesting the stock could see further downside or extended consolidation before becoming attractive again. The forward P/E of 33 leaves limited margin for execution misses."
+        }
+      ],
+      "description": "Manufactures test and inspection equipment for semiconductor manufacturing"
+    },
+    {
       "ticker": "GEV",
       "company_name": "GE Verova",
       "buy_count": 1,
@@ -3511,12 +3628,12 @@
     },
     {
       "ticker": "GOOGL",
-      "company_name": "Google",
+      "company_name": "Alphabet Inc.",
       "buy_count": 15,
       "avoid_count": 0,
-      "first_mention_date": "18 Sep 2026",
-      "price_at_first_mention": 350.59,
-      "pct_change_since_rec": -2.9,
+      "first_mention_date": "20 Sep 2026",
+      "price_at_first_mention": 349.54,
+      "pct_change_since_rec": -2.6,
       "market": {
         "ticker": "GOOGL",
         "name": "Alphabet Inc.",
@@ -3556,19 +3673,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "FinTek",
-          "title": "Google is the Top Quantum Computing Stock",
-          "url": "https://www.youtube.com/watch?v=D-IZvdQV3OY",
-          "upload_date": "20260918",
-          "date_label": "18 Sep 2026",
-          "ticker": "GOOGL",
-          "company_name": "Google",
-          "reason": "Google is a massive company with a quantum AI division that is quietly laying the groundwork for the entire quantum computing industry. The company has been a leader in quantum breakthroughs since 2012. The Google CEO has stated that quantum today looks like AI from 5 years ago, indicating the early stage of the industry's development. The creator expressed happiness about owning the company, noting that while it won't achieve 10x returns like some speculative competitors, it is also much less likely to drop to zero, making it a lower-risk exposure to quantum computing.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": "It will be quite a while before quantum computing breakthroughs meaningfully move the needle on Google's stock price. The company brought in over $109 billion last quarter, so quantum AI contributions remain minimal to overall financial performance. The stock is unlikely to deliver 10x returns like other quantum-focused companies might."
-        },
         {
           "channel": "CouchInvestor",
           "title": "I Might Sell This Underperforming Stock This Week",
@@ -3750,6 +3854,19 @@
           "when_to_buy": "Main buy zone according to moving averages is between $330 and $342. Stock ended the week at $340.",
           "target_price": null,
           "cautions": "The creator notes the difference between $330-$342 is only a couple of dollars and may not matter much in the long run, but waiting a bit might make sense given current market conditions."
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "What the HELL Just Happened to the Stock Market?",
+          "url": "https://www.youtube.com/watch?v=V0bLQMbp6sU",
+          "upload_date": "20261019",
+          "date_label": "19 Oct 2026",
+          "ticker": "GOOGL",
+          "company_name": "Alphabet Inc.",
+          "reason": "Google is still coiling and has not really moved in months, presenting a reset opportunity. The stock is down significantly from highs, and with mega cap earnings on October 28th, the creator expects strong results. Google has new AI roadmaps including the Frontier model Argon that should be monetized, supporting continued investor interest.",
+          "when_to_buy": "Between now and mega cap earnings season (October 28th). Can be accumulated at current levels with dollar cost averaging.",
+          "target_price": null,
+          "cautions": "The creator emphasizes that earnings must show continued AI monetization roadmaps and capex spending commitment to justify current multiples."
         }
       ],
       "avoids": [],
@@ -3882,6 +3999,70 @@
       ],
       "avoids": [],
       "description": "Operates home improvement retail stores selling building materials and tools"
+    },
+    {
+      "ticker": "HOG",
+      "company_name": "The Home Depot Inc.",
+      "buy_count": 1,
+      "avoid_count": 0,
+      "first_mention_date": "19 Oct 2026",
+      "price_at_first_mention": 26.76,
+      "pct_change_since_rec": 0.0,
+      "market": {
+        "ticker": "HOG",
+        "name": "Harley-Davidson, Inc.",
+        "currency": "USD",
+        "sector": "Consumer Cyclical",
+        "industry": "Recreational Vehicles",
+        "market_cap": 2784980224,
+        "current_price": 26.76,
+        "daily_change_pct": -3.01,
+        "month_change_pct": 0.98,
+        "week52_high": 28.86,
+        "week52_high_date": "04 Sep 2026",
+        "week52_low": 17.09,
+        "week52_low_date": "19 Mar 2026",
+        "rsi": 51.9,
+        "rsi_label": "neutral",
+        "ma50": 26.74,
+        "ma200": 23.32,
+        "ma_signal": "golden_cross",
+        "pe_trailing": 14.703297,
+        "pe_forward": 13.366767,
+        "peg_ratio": 2.08,
+        "revenue_growth": -0.059,
+        "earnings_growth": -0.15,
+        "free_cashflow": 110030248,
+        "profit_margins": 0.0478,
+        "debt_to_equity": 74.04,
+        "beta": 1.316,
+        "short_percent": 0.2754,
+        "dividend_yield": 2.8,
+        "analyst_buy": 6,
+        "analyst_hold": 8,
+        "analyst_sell": 2,
+        "analyst_target": 27.9,
+        "analyst_upside_pct": 4.3,
+        "earnings_date": null,
+        "earnings_days": null
+      },
+      "buys": [
+        {
+          "channel": "The Traveling Trader",
+          "title": "What the HELL Just Happened to the Stock Market?",
+          "url": "https://www.youtube.com/watch?v=V0bLQMbp6sU",
+          "upload_date": "20261019",
+          "date_label": "19 Oct 2026",
+          "ticker": "HOG",
+          "company_name": "The Home Depot Inc.",
+          "reason": "Home Depot bounced off major demand levels and was hammered by 10-year yield increases. With yields appearing to have peaked (similar to 2018 pattern in midterm years), yield-sensitive stocks like Home Depot are positioned well for recovery.",
+          "when_to_buy": "At major demand levels where the stock recently bounced. The creator sees this as positioned for a rebound.",
+          "target_price": null,
+          "cautions": "Dependent on yield trajectory and whether 10-year yields remain peaked. Investors should verify this fits their investing profile."
+        }
+      ],
+      "avoids": [],
+      "description": null
     },
     {
       "ticker": "HOOD",
@@ -4553,6 +4734,82 @@
       "description": "Designs and manufactures small-lift launch vehicles for satellites"
     },
     {
+      "ticker": "LITE",
+      "company_name": "Lumentum Holdings",
+      "buy_count": 1,
+      "avoid_count": 1,
+      "first_mention_date": "18 Oct 2026",
+      "price_at_first_mention": 824.13,
+      "pct_change_since_rec": 0.0,
+      "market": {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "currency": "USD",
+        "sector": "Technology",
+        "industry": "Communication Equipment",
+        "market_cap": 74652049408,
+        "current_price": 824.13,
+        "daily_change_pct": -5.22,
+        "month_change_pct": -7.78,
+        "week52_high": 1143.0,
+        "week52_high_date": "09 Oct 2026",
+        "week52_low": 152.54,
+        "week52_low_date": "22 Oct 2025",
+        "rsi": 37.4,
+        "rsi_label": "neutral",
+        "ma50": 931.65,
+        "ma200": 777.47,
+        "ma_signal": "golden_cross",
+        "pe_trailing": null,
+        "pe_forward": 22.878778,
+        "peg_ratio": 0.63,
+        "revenue_growth": 1.093,
+        "earnings_growth": null,
+        "free_cashflow": 224700000,
+        "profit_margins": -2.3009598,
+        "debt_to_equity": 35.987,
+        "beta": 1.536,
+        "short_percent": 0.082399994,
+        "dividend_yield": 0.0,
+        "analyst_buy": 21,
+        "analyst_hold": 4,
+        "analyst_sell": 0,
+        "analyst_target": 1179.07,
+        "analyst_upside_pct": 43.1,
+        "earnings_date": null,
+        "earnings_days": null
+      },
+      "buys": [
+        {
+          "channel": "Jose Najarro Stocks",
+          "title": "10 AI Stocks CRASHED \u2014 I'm Buying the Opportunity!!",
+          "url": "https://www.youtube.com/watch?v=fOe_Ck6pBsE",
+          "upload_date": "20261018",
+          "date_label": "18 Oct 2026",
+          "ticker": "LITE",
+          "company_name": "Lumentum Holdings",
+          "reason": "Lumentum shows strong optical growth with quarter 4 revenue up 110% year-over-year and 25% quarter-over-quarter. The 1.6T optical transceiver speedis already shipping with expected volume continuing into fiscal 2027, while 800G is still shipping robustly\u2014meaning multiple generations of optics driving revenue simultaneously. Optical circuit switching (OCS) is a new growth path with shipments doubling from Q3 to Q4, and management expects OCS revenue above $100 million in the upcoming quarter. Additional revenue opportunities include external light sources for module purchases (expected in H2 2027) and other complementary products. These multiple concurrent revenue streams create a 'step function' that should drive significant growth.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": "The optical supply chain faces massive manufacturing constraints and supply cannot keep up with demand. This limits revenue growth potential but also provides strong pricing power. Forward P/E for fiscal 2027 is approximately 32.61, indicating elevated valuation. The creator notes that 2027 may not even be the peak year for optics."
+        }
+      ],
+      "avoids": [
+        {
+          "channel": "Jose Najarro Stocks",
+          "title": "10 AI Stocks CRASHED \u2014 I'm Buying the Opportunity!!",
+          "url": "https://www.youtube.com/watch?v=fOe_Ck6pBsE",
+          "upload_date": "20261018",
+          "date_label": "18 Oct 2026",
+          "ticker": "LITE",
+          "company_name": "Lumentum Holdings",
+          "reason": "The creator explicitly states 'I don't own LITE in the optic space' and lists it as one of only three stocks they don't own in the current recommendations. This indicates the creator has chosen not to hold exposure to Lumentum despite recognizing strong growth dynamics.",
+          "risk": "The creator's avoidance of Lumentum despite acknowledging 110% YoY growth suggests concerns about valuation (forward P/E of 32.61), supply chain execution, or relative opportunity in other optical plays. The creator noted this could change in 'a few days,' indicating the decision is not permanent but reflects current skepticism."
+        }
+      ],
+      "description": "Manufactures optical and photonic chips for data centers and industrial lasers"
+    },
+    {
       "ticker": "LRCX",
       "company_name": "Lam Research",
       "buy_count": 1,
@@ -4756,7 +5013,7 @@
     {
       "ticker": "MCD",
       "company_name": "McDonald's Corporation",
-      "buy_count": 1,
+      "buy_count": 2,
       "avoid_count": 0,
       "first_mention_date": "13 Oct 2026",
       "price_at_first_mention": 235.81,
@@ -4812,6 +5069,19 @@
           "when_to_buy": "At current major demand zone levels; break out from long downtrend would confirm entry",
           "target_price": null,
           "cautions": "Dependent on yields actually topping out and cooling inflation data coming in line or cooler than expected. Requires CPI and core CPI to come in line or cooler on October 15th."
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "What the HELL Just Happened to the Stock Market?",
+          "url": "https://www.youtube.com/watch?v=V0bLQMbp6sU",
+          "upload_date": "20261019",
+          "date_label": "19 Oct 2026",
+          "ticker": "MCD",
+          "company_name": "McDonald's Corporation",
+          "reason": "McDonald's, like Home Depot, was beaten down by rising 10-year yields and has bounced off major demand levels. With the creator believing yields have peaked, yield-sensitive dividend stocks are positioned for recovery.",
+          "when_to_buy": "At major demand levels where the stock recently bounced.",
+          "target_price": null,
+          "cautions": "Dependent on yield trajectory. Only suitable for investors whose profile aligns with dividend-focused positions."
         }
       ],
       "avoids": [],
@@ -5010,12 +5280,12 @@
     },
     {
       "ticker": "META",
-      "company_name": "Meta Platforms",
-      "buy_count": 19,
+      "company_name": "Meta Platforms Inc.",
+      "buy_count": 18,
       "avoid_count": 1,
-      "first_mention_date": "18 Sep 2026",
-      "price_at_first_mention": 670.93,
-      "pct_change_since_rec": 5.7,
+      "first_mention_date": "20 Sep 2026",
+      "price_at_first_mention": 665.75,
+      "pct_change_since_rec": 6.5,
       "market": {
         "ticker": "META",
         "name": "Meta Platforms, Inc.",
@@ -5049,25 +5319,12 @@
         "analyst_buy": 55,
         "analyst_hold": 7,
         "analyst_sell": 0,
-        "analyst_target": 814.51,
-        "analyst_upside_pct": 14.8,
+        "analyst_target": 815.29,
+        "analyst_upside_pct": 14.9,
         "earnings_date": null,
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "AI Compute Demand Could DOUBLE Again by 2027!!",
-          "url": "https://www.youtube.com/watch?v=M1FJ5dNiBEs",
-          "upload_date": "20260918",
-          "date_label": "18 Sep 2026",
-          "ticker": "META",
-          "company_name": "Meta Platforms",
-          "reason": "Meta Platforms is executing well on dual strategies: selling both compute and intelligence (AI services). Mark Zuckerberg's thesis that Meta can monetize AI intelligence with higher margins than compute is proving viable through strong execution by teams. Meta Muse is now the number one free app on the Apple App Store by downloads, demonstrating consumer traction. Rumored compute contracts with Anthropic validate demand for Meta's infrastructure. Creator maintains strong bullish conviction on Meta's AI monetization strategy.",
-          "when_to_buy": "Creator praised previous entry points in the $500-600 range as attractive. Current price not explicitly stated as attractive or unattractive.",
-          "target_price": null,
-          "cautions": "Current forward PE ratio is approximately 20-25x. Creator believes it could expand to the 25x range, but at $1.7 trillion market cap, significant gains may already be priced in. Creator notes Meta likely prefers short-term compute contracts (month-to-month basis) rather than long-term commitments."
-        },
         {
           "channel": "CouchInvestor",
           "title": "I Might Sell This Underperforming Stock This Week",
@@ -5321,7 +5578,7 @@
     {
       "ticker": "MRVL",
       "company_name": "Marvell Technology Inc.",
-      "buy_count": 4,
+      "buy_count": 5,
       "avoid_count": 0,
       "first_mention_date": "02 Oct 2026",
       "price_at_first_mention": 268.08,
@@ -5416,6 +5673,19 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": "High production is not expected until 2027, so things can change before then. The stock was down roughly 3% on the day of recording."
+        },
+        {
+          "channel": "Jose Najarro Stocks",
+          "title": "10 AI Stocks CRASHED \u2014 I'm Buying the Opportunity!!",
+          "url": "https://www.youtube.com/watch?v=fOe_Ck6pBsE",
+          "upload_date": "20261018",
+          "date_label": "18 Oct 2026",
+          "ticker": "MRVL",
+          "company_name": "Marvell Technology",
+          "reason": "Marvell demonstrates solid growth with 36.5% year-over-year and 13% quarter-over-quarter revenue growth across both custom compute and networking. The custom compute market is driven not just by XPUs but also XPU attach products (smart NICs, scale-up fabrics, memory solutions, CXL, co-processors), which is a much larger opportunity than commonly understood. Management projects the custom market will more than double in fiscal 2028. On networking, the 1.6T business is ramping rapidly with scale-out switching expected to more than double in fiscal 2027. Scale-up optics represent another opportunity as companies like Nvidia (500+ GPUs per system), Amazon, and Microsoft deploy massive scale-up architectures for better total cost of ownership. The creator owns Marvell for both AI chip and networking exposure.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": "Marvell is 'probably one of the more expensive plays' with a forward P/E ratio of approximately 49 for fiscal 2027. High valuation leaves limited margin for error. The creator acknowledges execution risk and notes that 'if the opportunity is real and they follow suit with the numbers...this is just the beginning,' suggesting the stock prices in significant success."
         }
       ],
       "avoids": [],
@@ -5514,7 +5784,7 @@
     {
       "ticker": "MU",
       "company_name": "Micron Technology Inc.",
-      "buy_count": 15,
+      "buy_count": 16,
       "avoid_count": 0,
       "first_mention_date": "22 Sep 2026",
       "price_at_first_mention": 1096.16,
@@ -5752,6 +6022,19 @@
           "when_to_buy": "Expect a 50% retracement into the $850-$900 range or lower. Previous support levels include the 200-day simple moving average at $714, the previous low of $737 (from July), and the top of the yellow circle around $850. DCA in this range if stock pulls back.",
           "target_price": "No specific upside target mentioned, but the creator expects it to reach previous highs after retracement.",
           "cautions": "Stock is highly parabolic and has already run 376% year-over-year and 1,250% over five years. The creator warns not to chase air pockets on parabolic moves. Additionally, Micron is cyclical by nature, and while the creator believes we are not at the end of the current cycle, cycles do exist. Short-term market movements may not reflect fundamentals."
+        },
+        {
+          "channel": "Jose Najarro Stocks",
+          "title": "10 AI Stocks CRASHED \u2014 I'm Buying the Opportunity!!",
+          "url": "https://www.youtube.com/watch?v=fOe_Ck6pBsE",
+          "upload_date": "20261018",
+          "date_label": "18 Oct 2026",
+          "ticker": "MU",
+          "company_name": "Micron Technology",
+          "reason": "Micron shows massive growth with $54 billion revenue (most recent quarter), up 379% year-over-year and 30% sequentially. The company has locked in 35% of revenue through 2030 via 26 strategic customer agreements, significantly reducing cyclicality risk. Three-quarters of these contracts have pricing frameworks with floors that are better than any previous cycle. Financial commitments total $32 billion from customers on signed agreements. HBM market represents a major growth opportunity with HBM4 execution as a potential moat\u2014if you cannot build advanced HBM, you cannot compete. Over 2/3 of Micron's NAND revenue came from AI contacts in the recent quarter. Valuations are extremely attractive with a forward P/E of approximately 4.09 for fiscal 2027. The creator recently added Micron as a new investment but remains cautious, suggesting it as controlled exposure to memory.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": "Memory market cyclicality remains a major concern despite long-term contracts. Any changes in the memory market could negatively impact results. The creator admits to being 'very timid and very cautious' about the memory space and has only small exposure (under 3-4% of portfolio). Competition and execution risk in HBM4 are real threats."
         }
       ],
       "avoids": [],
@@ -5784,7 +6067,7 @@
         "ma50": 222.8,
         "ma200": 174.04,
         "ma_signal": "golden_cross",
-        "pe_trailing": 131.3254,
+        "pe_trailing": 129.27344,
         "pe_forward": -46.506332,
         "peg_ratio": 0.38,
         "revenue_growth": 4.54,
@@ -6063,6 +6346,45 @@
       "description": "Provides full-stack GPU cloud infrastructure for AI applications"
     },
     {
+      "ticker": "NEBU",
+      "company_name": "Nebius",
+      "buy_count": 1,
+      "avoid_count": 1,
+      "first_mention_date": "18 Oct 2026",
+      "price_at_first_mention": null,
+      "pct_change_since_rec": null,
+      "market": null,
+      "buys": [
+        {
+          "channel": "Jose Najarro Stocks",
+          "title": "10 AI Stocks CRASHED \u2014 I'm Buying the Opportunity!!",
+          "url": "https://www.youtube.com/watch?v=fOe_Ck6pBsE",
+          "upload_date": "20261018",
+          "date_label": "18 Oct 2026",
+          "ticker": "NEBU",
+          "company_name": "Nebius",
+          "reason": "Nebius shows extraordinary growth with 454% year-over-year revenue growth and 45% quarterly growth from a smaller base. The company is expanding beyond pure AI cloud with AV solutions and strategic partnerships. Critically, they are implementing a 'light model' approach where partners finance and build infrastructure while Nebius provides cloud software, system design, and customer access\u2014generating revenue without taking on massive debt. This addresses the market's current financing concerns. Demand is exceptionally strong with four major agreements averaging over $1 billion in Q2, with 70% of deals including prepayments. The creator explicitly states 'I'm very bullish in Coreweave' and Nebius, highlighting these as top opportunities.",
+          "when_to_buy": null,
+          "target_price": "The stock was trading around $160 at the time of recording, down from higher levels during the recent sell-off",
+          "cautions": "Nebius is still growing from a smaller revenue base and has significant competition. The company faces the same AI cycle and customer concentration risks as other players. Much of the future revenue is expected in 2027, creating longer-term execution risk."
+        }
+      ],
+      "avoids": [
+        {
+          "channel": "Jose Najarro Stocks",
+          "title": "10 AI Stocks CRASHED \u2014 I'm Buying the Opportunity!!",
+          "url": "https://www.youtube.com/watch?v=fOe_Ck6pBsE",
+          "upload_date": "20261018",
+          "date_label": "18 Oct 2026",
+          "ticker": "NEBU",
+          "company_name": "Nebius",
+          "reason": "The creator explicitly states 'I don't own Nebulae in the NeoCloud space' as one of only three stocks they don't currently own, despite including it in the analysis and acknowledging 'all these do have opportunities.' This indicates a deliberate decision to avoid exposure to Nebius despite the company's strong fundamentals.",
+          "risk": "The stock has declined nearly 25% during the recent sell-off and trades around $160. The creator's avoidance suggests concerns about execution, financing risks, or relative valuation compared to alternatives like CoreWeave. The creator notes this could change in 'a few days,' indicating flexibility but current lack of conviction."
+        }
+      ],
+      "description": "Provides full-stack GPU cloud infrastructure for AI applications"
+    },
+    {
       "ticker": "NET",
       "company_name": "Cloudflare Inc.",
       "buy_count": 2,
@@ -6220,8 +6542,8 @@
         "analyst_buy": 36,
         "analyst_hold": 15,
         "analyst_sell": 0,
-        "analyst_target": 91.39,
-        "analyst_upside_pct": 29.6,
+        "analyst_target": 91.13,
+        "analyst_upside_pct": 29.2,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -6484,12 +6806,12 @@
     },
     {
       "ticker": "NU",
-      "company_name": "Nu Holdings (Nubank)",
-      "buy_count": 3,
+      "company_name": "Nubank",
+      "buy_count": 2,
       "avoid_count": 0,
-      "first_mention_date": "18 Sep 2026",
-      "price_at_first_mention": 13.71,
-      "pct_change_since_rec": 6.2,
+      "first_mention_date": "24 Sep 2026",
+      "price_at_first_mention": 13.56,
+      "pct_change_since_rec": 7.4,
       "market": {
         "ticker": "NU",
         "name": "Nu Holdings Ltd.",
@@ -6531,19 +6853,6 @@
       "buys": [
         {
           "channel": "CouchInvestor",
-          "title": "4 Stocks With Room to Double",
-          "url": "https://www.youtube.com/watch?v=dFEFBi7Qfv4",
-          "upload_date": "20260918",
-          "date_label": "18 Sep 2026",
-          "ticker": "NU",
-          "company_name": "Nu Holdings (Nubank)",
-          "reason": "Nu is a large fintech ($66.7 billion market cap) trading at depressed valuation (P/E 19, forward P/E 14.3, PEG 0.5) despite excellent business fundamentals. The company generated $1.1 billion net income in Q2 (first time exceeding $1 billion), up 49% year-over-year, with 33% return on equity. In core market Brazil, average revenue per active customer is $17 versus $40-45 at incumbent banks, indicating substantial monetization runway. With only 6.8 million of Brazil's small businesses as customers versus larger addressable base, significant expansion opportunity exists. Mexico and Colombia operations show the model replicates faster (Mexico broke even in 6 years vs 8 for Brazil), generating $12-13 ARPU ahead of Brazil at similar penetration stage. New growth drivers include US expansion (3.5-4.5% card yields, no-fee metal card, national bank charter opening 2026) and Nubank Global launching in 35+ countries with 3.5% USD and 2% euro yields on stablecoin accounts. Company holds only ~7% of profit pool in existing markets. The business is performing extremely well while stock is under pressure due to fintech sector headwinds, creating a long-term opportunity.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": "The business model expansion into US and global markets requires capital allocation that could create short-to-medium term pressure on margins and profitability, as analysts have noted potential medium-term issues. Market is skeptical of fintech expansion despite strong track record. Stock is down 18% year-to-date and 12.8% over the past year, reflecting sector-wide sentiment issues rather than business deterioration."
-        },
-        {
-          "channel": "CouchInvestor",
           "title": "SoFi Is Down 40%. Here's the Truth About The Situation",
           "url": "https://www.youtube.com/watch?v=8I2vUPI4V-c",
           "upload_date": "20260924",
@@ -6577,9 +6886,9 @@
       "company_name": "Nvidia Corporation",
       "buy_count": 21,
       "avoid_count": 0,
-      "first_mention_date": "18 Sep 2026",
-      "price_at_first_mention": 219.54,
-      "pct_change_since_rec": -2.5,
+      "first_mention_date": "20 Sep 2026",
+      "price_at_first_mention": 222.27,
+      "pct_change_since_rec": -3.7,
       "market": {
         "ticker": "NVDA",
         "name": "NVIDIA Corporation",
@@ -6619,19 +6928,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "AI Compute Demand Could DOUBLE Again by 2027!!",
-          "url": "https://www.youtube.com/watch?v=M1FJ5dNiBEs",
-          "upload_date": "20260918",
-          "date_label": "18 Sep 2026",
-          "ticker": "NVDA",
-          "company_name": "Nvidia Corporation",
-          "reason": "Jensen Huang and Nvidia continue to dominate the AI infrastructure market. The Blackwell architecture is delivering exceptional performance improvements, with the upcoming Vera Rubin GPU showing 67 times better performance per dollar compared to GB300 and delivering over two times more profit per gigawatt than Blackwell. Pre-release software benchmarks show up to 6 times better token throughput per megawatt. Nvidia excels particularly in agentic workloads (multi-turn, long context, high prefix reuse), which the creator believes is where the real market revenue will come from as the industry shifts away from simple inference tasks.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": "Stock is already at $220 with $5.3 trillion market cap, reflecting significant market expectations. Creator notes Jensen frequently 'sandbags' (underpromises) performance, meaning actual results may exceed expectations, but this is already priced in to some degree."
-        },
         {
           "channel": "Jose Najarro Stocks",
           "title": "3 AI Stocks We\u2019re Buying for the Second Half of 2026!!",
@@ -6891,6 +7187,19 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": "The creator emphasizes this valuation depends on aggressive growth assumptions continuing. Market sentiment and headlines suggest caution, though creator argues fundamentals contradict the bearish narrative."
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "What the HELL Just Happened to the Stock Market?",
+          "url": "https://www.youtube.com/watch?v=V0bLQMbp6sU",
+          "upload_date": "20261019",
+          "date_label": "19 Oct 2026",
+          "ticker": "NVDA",
+          "company_name": "Nvidia Corporation",
+          "reason": "Nvidia's forward PE is currently below 20, which is the lowest valuation seen since 2016. The creator states this is a 'no-brainer' buy opportunity. Nvidia is down 12% from all-time highs, and with mega cap earnings coming up, the creator expects strong results that will validate the undervaluation. The company has a strong backlog of AI demand and JP Morgan projects memory shortages of 20% this year, creating sustained demand for Nvidia's products.",
+          "when_to_buy": "Between now and mega cap earnings season (within the next couple of weeks). Dollar cost averaging into tech positions is recommended.",
+          "target_price": null,
+          "cautions": "The creator emphasizes not to rush into swing trades as OPEX lows are typically taken out within a week or less. More downside could occur before a sustained rally begins. Swing trading is not recommended, but longer-term accumulation is appropriate."
         }
       ],
       "avoids": [],
@@ -6937,8 +7246,8 @@
         "analyst_buy": 4,
         "analyst_hold": 10,
         "analyst_sell": 0,
-        "analyst_target": 45.66,
-        "analyst_upside_pct": 17.6,
+        "analyst_target": 45.77,
+        "analyst_upside_pct": 17.9,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -7201,33 +7510,6 @@
         }
       ],
       "description": "Cloud-based enterprise software and database systems"
-    },
-    {
-      "ticker": "OSH",
-      "company_name": "Oscar Health Inc.",
-      "buy_count": 1,
-      "avoid_count": 0,
-      "first_mention_date": "18 Sep 2026",
-      "price_at_first_mention": null,
-      "pct_change_since_rec": null,
-      "market": null,
-      "buys": [
-        {
-          "channel": "CouchInvestor",
-          "title": "4 Stocks With Room to Double",
-          "url": "https://www.youtube.com/watch?v=dFEFBi7Qfv4",
-          "upload_date": "20260918",
-          "date_label": "18 Sep 2026",
-          "ticker": "OSH",
-          "company_name": "Oscar Health Inc.",
-          "reason": "Oscar Health is a small player ($9.8 billion market cap) in a massive healthcare insurance market with multiple high-growth vectors. The company has demonstrated strong recent execution with revenues up 7x since 2021, membership growing from 1.6 million to 3 million (2024-2025), and market share expanding from 16% to 30%. Management has provided 2029 guidance targeting 20%+ revenue CAGR, 5-7% operating margins, and over $4 EPS, implying the stock trades at less than 10x 2029 earnings despite 20%+ expected growth. Three major growth drivers include: (1) ACA market expansion from 19 million to 23 million lives by 2029, (2) IKRA (employer-funded individual coverage) projected to grow at 70% CAGR to 2.5 million members by 2029, and (3) Lucy marketplace platform with $650 billion total addressable opportunity. AI-driven member assistance is already resolving 30-40% of inbound messages, generating $3 billion in medical cost savings. Even without Lucy contributing meaningfully, management targets over $4 2029 EPS.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": "The stock has already doubled year-to-date (up 115%), so some momentum has been priced in. The company is still emerging and early-stage in new markets. Execution risks exist around marketplace adoption and new geography scaling. Even at 70-75% of management goals, the creator expects multiples of current valuation."
-        }
-      ],
-      "avoids": [],
-      "description": "Health insurance company offering medical, dental, and vision coverage"
     },
     {
       "ticker": "PLTR",
@@ -7702,11 +7984,11 @@
     {
       "ticker": "ROAD",
       "company_name": "Construction Partners",
-      "buy_count": 3,
+      "buy_count": 2,
       "avoid_count": 0,
-      "first_mention_date": "18 Sep 2026",
-      "price_at_first_mention": 94.83,
-      "pct_change_since_rec": -12.8,
+      "first_mention_date": "08 Oct 2026",
+      "price_at_first_mention": 86.33,
+      "pct_change_since_rec": -4.2,
       "market": {
         "ticker": "ROAD",
         "name": "Construction Partners, Inc.",
@@ -7746,19 +8028,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "Daniel Pronk",
-          "title": "Top 5 Lessons That Will Make You A Better Investor",
-          "url": "https://www.youtube.com/watch?v=0-xXPsg8I44",
-          "upload_date": "20260918",
-          "date_label": "18 Sep 2026",
-          "ticker": "ROAD",
-          "company_name": "Construction Partners",
-          "reason": "The stock had a price-to-earnings ratio of 78 in February 2023, which appeared extremely expensive. However, ROAD's earnings have grown 701% since then and have compounded at an 81% annual growth rate over the past 3.5 years. The stock is still growing earnings at 30% annually. This exemplifies how a high multiple can actually represent a cheap valuation when future earnings growth is considered, as the P/E multiple has compressed from 78 to 9.8 based on current earnings.",
-          "when_to_buy": "The creator used this as a historical example of how a stock trading at apparent all-time highs with a high multiple can actually be cheap; no specific current entry point was mentioned",
-          "target_price": null,
-          "cautions": null
-        },
         {
           "channel": "Daniel Pronk",
           "title": "The 3 Best Buying Opportunities I Can Find Now",
@@ -8057,70 +8326,6 @@
       ],
       "avoids": [],
       "description": "Semiconductor manufacturer producing memory chips and displays"
-    },
-    {
-      "ticker": "SKHY",
-      "company_name": "SK Hynix Inc. (ADR)",
-      "buy_count": 1,
-      "avoid_count": 0,
-      "first_mention_date": "18 Sep 2026",
-      "price_at_first_mention": 186.53,
-      "pct_change_since_rec": -26.8,
-      "market": {
-        "ticker": "SKHY",
-        "name": "SK hynix Inc.",
-        "currency": "USD",
-        "sector": "Technology",
-        "industry": "Semiconductors",
-        "market_cap": 994830057472,
-        "current_price": 136.49,
-        "daily_change_pct": -6.58,
-        "month_change_pct": -25.41,
-        "week52_high": 199.87,
-        "week52_high_date": "09 Sep 2026",
-        "week52_low": 124.8,
-        "week52_low_date": "29 Jul 2026",
-        "rsi": 27.6,
-        "rsi_label": "oversold",
-        "ma50": null,
-        "ma200": null,
-        "ma_signal": null,
-        "pe_trailing": 8.70472,
-        "pe_forward": 3.9589887,
-        "peg_ratio": 0.2,
-        "revenue_growth": 2.568,
-        "earnings_growth": 12.724,
-        "free_cashflow": 55768099323904,
-        "profit_margins": 0.85619,
-        "debt_to_equity": 8.037,
-        "beta": 2.391,
-        "short_percent": null,
-        "dividend_yield": 0.08,
-        "analyst_buy": 5,
-        "analyst_hold": 1,
-        "analyst_sell": 0,
-        "analyst_target": 252.21,
-        "analyst_upside_pct": 84.8,
-        "earnings_date": null,
-        "earnings_days": null
-      },
-      "buys": [
-        {
-          "channel": "Ticker Symbol: YOU",
-          "title": "If You Missed NVIDIA Stock, This is Way Bigger.",
-          "url": "https://www.youtube.com/watch?v=elD62rk5Ijo",
-          "upload_date": "20260918",
-          "date_label": "18 Sep 2026",
-          "ticker": "SKHY",
-          "company_name": "SK Hynix Inc. (ADR)",
-          "reason": "SK Hynix dominates the high bandwidth memory market with 50% market share, as much as Micron and Samsung combined. The company is the second-largest global supplier of DRAM and NAND storage, owning the entire memory layer of the AI revolution. They have 76% operating margins on hardware that will remain supply-constrained for years, with long-term contracts (5+ years) locking in volume and pricing with major hyperscalers like Nvidia. SK Hynix is co-developing next-generation memory with Nvidia as part of a multi-year partnership valued at over $500 billion, positioning them as a co-developer rather than a commodity vendor. The company's enterprise SSD business (acquired from Intel for $9 billion) is a second AI hardware revenue stream that Wall Street is ignoring, with NAND revenue quadrupling year-over-year. Despite record earnings and record operating margins, the stock trades at only 5.8 forward P/E on the ADR (15% discount to Micron), making it cheaper than comparable memory makers.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": "The ADR trades at a 40% premium to the Korean-listed shares ($175 vs $126 per share equivalent) due to restrictions limiting only 2.5% of the company's shares to become ADRs. If SK Hynix increases the ADR share limit, the premium should compress and the ADR price would likely fall. Samsung has caught up on HBM4 production and increased market share from 21% to 33% in a single quarter. Long-term fixed-price contracts protect the company from falling memory prices but cap upside when memory prices rise (memory prices jumped 30-60% last quarter but SK Hynix captured less upside than competitors due to locked-in pricing). All memory stocks on the comparison table are priced around 75% margins, so if margins fall, stock prices may fall accordingly. The creator recommends buying direct shares on the Korea exchange or through Interactive Brokers if possible rather than the ADR due to the premium."
-        }
-      ],
-      "avoids": [],
-      "description": "DRAM, NAND flash memory, and semiconductor foundry"
     },
     {
       "ticker": "SMBOT",
@@ -8472,9 +8677,36 @@
       "description": "Lending, investing and banking products and services"
     },
     {
+      "ticker": "SOITEC",
+      "company_name": "Soitec SE",
+      "buy_count": 1,
+      "avoid_count": 0,
+      "first_mention_date": "18 Oct 2026",
+      "price_at_first_mention": null,
+      "pct_change_since_rec": null,
+      "market": null,
+      "buys": [
+        {
+          "channel": "Jose Najarro Stocks",
+          "title": "10 AI Stocks CRASHED \u2014 I'm Buying the Opportunity!!",
+          "url": "https://www.youtube.com/watch?v=fOe_Ck6pBsE",
+          "upload_date": "20261018",
+          "date_label": "18 Oct 2026",
+          "ticker": "SOITEC",
+          "company_name": "Soitec SE",
+          "reason": "Soitec is listed among the 10 AI stocks that experienced significant sell-offs (down during October 9-16 period) and is included in the creator's analysis of stocks to monitor across the AI build-out supply chain. The creator groups it within the semiconductor/AI chip exposure area of the portfolio.",
+          "when_to_buy": "Recent sell-off period (October 9-16) created buying opportunity",
+          "target_price": null,
+          "cautions": "Specific financial metrics, growth rates, or detailed investment thesis for Soitec were not provided in the transcript. The creator did not explicitly state whether they own or recommend Soitec."
+        }
+      ],
+      "avoids": [],
+      "description": "Manufactures engineered semiconductor substrates for RF, power, and photonics applications"
+    },
+    {
       "ticker": "SOXL",
       "company_name": "Semiconductor Select Sector SPDR ETF",
-      "buy_count": 1,
+      "buy_count": 2,
       "avoid_count": 0,
       "first_mention_date": "08 Oct 2026",
       "price_at_first_mention": 158.91,
@@ -8530,6 +8762,19 @@
           "when_to_buy": "Current setup shows continuation potential; creator is monitoring for further upside",
           "target_price": null,
           "cautions": "Semiconductor sector already had significant run; some constituent stocks like Broadcom remain on verge of breakout while others already at new highs, suggesting mixed entry conditions within sector."
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "What the HELL Just Happened to the Stock Market?",
+          "url": "https://www.youtube.com/watch?v=V0bLQMbp6sU",
+          "upload_date": "20261019",
+          "date_label": "19 Oct 2026",
+          "ticker": "SOXL",
+          "company_name": "Direxion Daily Semiconductor Bull 3X Shares",
+          "reason": "SOXL is below 100 after a full unwind from 300, representing a significant discount in the semiconductor sector. The creator expresses willingness to pick up semiconductor chips at these levels due to the asymmetrical opportunity created by the market washout. Memory shortages (20% this year per JP Morgan) and continued AI capex spending support the semiconductor sector's fundamental strength.",
+          "when_to_buy": "Dollar cost averaging is recommended between now and mega cap earnings. The creator advises waiting for potential additional weakness as OPEX lows are typically retested.",
+          "target_price": null,
+          "cautions": "This is a leveraged 3x ETF and carries significant volatility risk. Not suitable for buy-and-hold investors or those nearing retirement. The creator recommends only for those with appropriate risk tolerance."
         }
       ],
       "avoids": [],
@@ -9495,100 +9740,9 @@
       "description": "Designs and manufactures power management and thermal solutions for data centers"
     },
     {
-      "ticker": "VT",
-      "company_name": "Voyager Technologies",
-      "buy_count": 1,
-      "avoid_count": 0,
-      "first_mention_date": "18 Sep 2026",
-      "price_at_first_mention": 158.26,
-      "pct_change_since_rec": -0.9,
-      "market": {
-        "ticker": "VT",
-        "name": "Vanguard Total World Stock Inde",
-        "currency": "USD",
-        "sector": null,
-        "industry": null,
-        "market_cap": null,
-        "current_price": 156.82,
-        "daily_change_pct": -0.94,
-        "month_change_pct": -1.25,
-        "week52_high": 162.71,
-        "week52_high_date": "14 Aug 2026",
-        "week52_low": 133.65,
-        "week52_low_date": "21 Nov 2025",
-        "rsi": 41.1,
-        "rsi_label": "neutral",
-        "ma50": 159.67,
-        "ma200": 151.42,
-        "ma_signal": "golden_cross",
-        "pe_trailing": 20.264883,
-        "pe_forward": null,
-        "peg_ratio": null,
-        "revenue_growth": null,
-        "earnings_growth": null,
-        "free_cashflow": null,
-        "profit_margins": null,
-        "debt_to_equity": null,
-        "beta": null,
-        "short_percent": null,
-        "dividend_yield": 1.53,
-        "analyst_buy": null,
-        "analyst_hold": null,
-        "analyst_sell": null,
-        "analyst_target": null,
-        "analyst_upside_pct": null,
-        "earnings_date": null,
-        "earnings_days": null
-      },
-      "buys": [
-        {
-          "channel": "CouchInvestor",
-          "title": "4 Stocks With Room to Double",
-          "url": "https://www.youtube.com/watch?v=dFEFBi7Qfv4",
-          "upload_date": "20260918",
-          "date_label": "18 Sep 2026",
-          "ticker": "VT",
-          "company_name": "Voyager Technologies",
-          "reason": "Voyager Technologies is a small-cap ($2.2 billion) defense and space technology company experiencing accelerating growth: 75% growth fiscal 2026, 80.5% fiscal 2027, and 93.8% fiscal 2028 to reach billion-dollar revenue. The company is positioned to benefit from major secular tailwinds in defense and space industries. Key growth catalysts include Starlab commercial space station development, lunar economy expansion, and Golden Dome buildout. The backlog stood at $336 million in Q2 (up from Q1) and includes $300 million from Astrobotic acquisition (adding $40-50 million 2026 revenue) and two NASA lunar lander awards worth nearly $300 million. Management has stated that failure to reach $10 billion enterprise value in the medium-term would reflect execution failure, implying confidence in growth trajectory. DCF analysis shows 24.2% upside in base case despite significant execution risk.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": "This is a high-risk, early-stage company still unprofitable. The creator assigned higher execution risk and distributed probabilities conservatively: 45% base case, 25% bull, 30% bear. The bear case essentially zeros out the thesis if Starlab fails to materialize. Company dependency on government contracts introduces regulatory and geopolitical risks. Small dollar amounts and early-stage nature mean assumptions can change drastically."
-        }
-      ],
-      "avoids": [],
-      "description": "Exchange-traded fund tracking global equities across all market capitalizations"
-    },
-    {
-      "ticker": "WFM",
-      "company_name": "White Fiber",
-      "buy_count": 1,
-      "avoid_count": 0,
-      "first_mention_date": "18 Sep 2026",
-      "price_at_first_mention": null,
-      "pct_change_since_rec": null,
-      "market": null,
-      "buys": [
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "AI Compute Demand Could DOUBLE Again by 2027!!",
-          "url": "https://www.youtube.com/watch?v=M1FJ5dNiBEs",
-          "upload_date": "20260918",
-          "date_label": "18 Sep 2026",
-          "ticker": "WFM",
-          "company_name": "White Fiber",
-          "reason": "White Fiber represents an attractive smaller-cap ($700M market cap) neoclassical cloud play focused on retrofit data center deployments rather than greenfield construction. The company retrofits existing buildings (apartments, factories, manufacturing plants) into data centers at lower cost than new construction, enabling deployment of smaller 20-30 megawatt facilities. OpenAI and Anthropic are now seeking smaller distributed compute deployments across UK, Nordics, and US, creating perfect demand match for White Fiber's model. This addresses a market gap previously dominated by massive gigawatt-scale facilities.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": "Very small company with $700M market cap, creating illiquidity risk. Creator notes he does not own it but would include it in an ETF approach to neoclassical cloud exposure."
-        }
-      ],
-      "avoids": [],
-      "description": null
-    },
-    {
       "ticker": "WMT",
       "company_name": "Walmart Inc.",
-      "buy_count": 1,
+      "buy_count": 2,
       "avoid_count": 0,
       "first_mention_date": "02 Oct 2026",
       "price_at_first_mention": 104.26,
@@ -9644,6 +9798,19 @@
           "when_to_buy": "Below $100",
           "target_price": null,
           "cautions": "While defensive stocks, staples fell as much as cyclicals due to rate shock rather than recession concerns. Investors should monitor the broader credit markets and yield environment before accumulating."
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "What the HELL Just Happened to the Stock Market?",
+          "url": "https://www.youtube.com/watch?v=V0bLQMbp6sU",
+          "upload_date": "20261019",
+          "date_label": "19 Oct 2026",
+          "ticker": "WMT",
+          "company_name": "Walmart Inc.",
+          "reason": "Walmart (consumer staples) bounced off major demand levels, similar to Costco. However, the creator notes these have now run up significantly from the recent lows.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": "The creator suggests these consumer staple stocks have already rallied too much and would need to drop again before engaging with them as a fresh opportunity."
         }
       ],
       "avoids": [],
@@ -9902,6 +10069,70 @@
         }
       ],
       "description": "Operates data-driven marketing automation and omnichannel messaging platform"
+    },
+    {
+      "ticker": "^DJI",
+      "company_name": "Dow Jones Industrial Average",
+      "buy_count": 1,
+      "avoid_count": 0,
+      "first_mention_date": "19 Oct 2026",
+      "price_at_first_mention": 52002.41,
+      "pct_change_since_rec": 0.0,
+      "market": {
+        "ticker": "^DJI",
+        "name": "Dow Jones Industrial Average",
+        "currency": "USD",
+        "sector": null,
+        "industry": null,
+        "market_cap": null,
+        "current_price": 52002.41,
+        "daily_change_pct": -0.34,
+        "month_change_pct": 0.43,
+        "week52_high": 54744.33,
+        "week52_high_date": "05 Aug 2026",
+        "week52_low": 45057.28,
+        "week52_low_date": "30 Mar 2026",
+        "rsi": 52.6,
+        "rsi_label": "neutral",
+        "ma50": 52460.31,
+        "ma200": 50439.71,
+        "ma_signal": "golden_cross",
+        "pe_trailing": null,
+        "pe_forward": null,
+        "peg_ratio": null,
+        "revenue_growth": null,
+        "earnings_growth": null,
+        "free_cashflow": null,
+        "profit_margins": null,
+        "debt_to_equity": null,
+        "beta": null,
+        "short_percent": null,
+        "dividend_yield": null,
+        "analyst_buy": null,
+        "analyst_hold": null,
+        "analyst_sell": null,
+        "analyst_target": null,
+        "analyst_upside_pct": null,
+        "earnings_date": null,
+        "earnings_days": null
+      },
+      "buys": [
+        {
+          "channel": "The Traveling Trader",
+          "title": "What the HELL Just Happened to the Stock Market?",
+          "url": "https://www.youtube.com/watch?v=V0bLQMbp6sU",
+          "upload_date": "20261019",
+          "date_label": "19 Oct 2026",
+          "ticker": "^DJI",
+          "company_name": "Dow Jones Industrial Average",
+          "reason": "As an index, the Dow is well positioned after the recent pullback, with constituent stocks bouncing off major demand levels. The diversification and yield-sensitive nature of the Dow positions it well if yields remain peaked.",
+          "when_to_buy": "For index exposure and diversification rather than individual security purchases.",
+          "target_price": null,
+          "cautions": null
+        }
+      ],
+      "avoids": [],
+      "description": null
     }
   ]
 }

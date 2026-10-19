@@ -91,12 +91,14 @@
   "CRDO": "Provides high-speed connectivity solutions for Ethernet and PCIe applications",
   "CREDO": "Designs high-speed semiconductor intellectual property for data centres and networking",
   "CRM": "Offers customer relationship management and AI agent automation software",
+  "CRUS": "Designs audio codecs, amplifiers, and digital signal processors for consumer devices",
   "CRWD": "Provides cloud-based cybersecurity platform for endpoints and workloads",
   "CRWV": "Operates cloud infrastructure platform for artificial intelligence workloads",
   "CSCO": "Designs networking, security, and collaboration technologies for enterprises",
   "CSIQ": "Manufactures solar panels and battery energy storage products",
   "CSU": "Develops and acquires vertical market software for niche industries",
   "CTAS": "Rents uniforms and provides facility services to businesses",
+  "CVWE": "Provides cloud infrastructure and GPU computing services for AI workloads",
   "CVX": "Explores, produces, and refines crude oil, natural gas, and chemicals",
   "CWEB": null,
   "CWEN": "Operates wind, solar, battery storage, and power generation assets",
@@ -138,6 +140,7 @@
   "HD": "Operates home improvement retail stores selling building materials and tools",
   "HHH": "Develops master-planned communities and real estate properties",
   "HIMS": "Provides telehealth platform connecting consumers to healthcare professionals",
+  "HOG": null,
   "HOOD": "Operates brokerage platform for stocks, ETFs, and crypto trading",
   "HPQ": "Makes personal computers, printers, and printing supplies for consumers and businesses",
   "IBM": "Develops hybrid cloud, artificial intelligence, and infrastructure software",
@@ -298,6 +301,7 @@
   "SNOW": "Cloud-based data platform with AI applications",
   "SNPS": "Provides design automation and IP software for semiconductor and electronics development",
   "SOFI": "Lending, investing and banking products and services",
+  "SOITEC": "Manufactures engineered semiconductor substrates for RF, power, and photonics applications",
   "SOUNDHOUND": "Voice AI recognition and natural language processing",
   "SOX": null,
   "SOXL": "Leveraged ETF providing 3x daily exposure to semiconductor stocks",
@@ -372,5 +376,6 @@
   "ZMB": null,
   "ZS": "Provides cloud security and data protection software and services",
   "ZTA": "Operates marketing technology and data platform for customer engagement",
-  "ZTS": "Develops and sells animal health medicines, vaccines and diagnostic products"
+  "ZTS": "Develops and sells animal health medicines, vaccines and diagnostic products",
+  "^DJI": null
 }

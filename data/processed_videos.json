@@ -28569,6 +28569,222 @@
         "tickers_mentioned": []
       },
       "price_at_recommendation": {}
+    },
+    "GQm2sHqU0kg": {
+      "channel": "Ticker Symbol: YOU",
+      "title": "Dips Never Last. I'm Buying These Stocks NOW.",
+      "upload_date": "20261019",
+      "url": "https://www.youtube.com/watch?v=GQm2sHqU0kg",
+      "processed_at": "2026-10-20T10:08:24.800534",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "TSM",
+            "company_name": "Taiwan Semiconductor Manufacturing Company",
+            "reason": "TSMC is one of the two companies that see AI demand furthest into the future because they build chips for Nvidia, AMD, Apple, Qualcomm, and all hyperscalers. TSMC reported record earnings with revenues expected to reach $53.3 billion next quarter, up 58% year-over-year. The CEO stated they expect faster growth through 2029, with customers coordinating 2-3 years in advance. TSMC plans to spend around $62 billion in capex for 2026, about 50% more than last year, with significantly more spending through 2028. While gross margins slipped from 67.7% to 66.4% due to ramping new 2-nanometer chips, the creator views this as just the cost of being the single most important chipmaker of the AI era.",
+            "when_to_buy": "After 14% sell-off",
+            "target_price": null,
+            "cautions": "Stock trades at 18 times forward earnings; declining margins due to new process node investment; cyclical industry exposure"
+          },
+          {
+            "ticker": "CHR",
+            "company_name": "Coherent Corporation",
+            "reason": "Coherent makes optical networking components to move data around AI data centers with light instead of copper. Data centers and communications made up 79% of their sales last quarter with revenues growing 34% year-over-year. They expect up to $2.4 billion in revenue in their next report, implying 52% year-over-year growth. This company benefits from the massive data center expansion driven by hyperscalers' combined $700 billion AI capex plans.",
+            "when_to_buy": "After 31% sell-off",
+            "target_price": null,
+            "cautions": "Thinner margins at about 40% compared to TSMC's 66%; trades at 25 times forward PE ratio"
+          },
+          {
+            "ticker": "MU",
+            "company_name": "Micron Technology",
+            "reason": "Micron is the biggest American memory maker and reported record revenues of $54.2 billion, up 379% year-over-year, with expected next quarter revenues of $61.5 billion, around 350% more than a year ago. ASML expects memory maker sales to grow by about 75% this year alone, indicating continued strong demand despite supply concerns from Chinese competitors. Micron and SKH Highix currently make the high-bandwidth memory critical to AI infrastructure.",
+            "when_to_buy": "After 16% sell-off from recent highs; 28% down from June high",
+            "target_price": null,
+            "cautions": "Trades at just 5 times forward earnings, which creates a major caveat: memory stocks are cyclical and always look cheap at the very top of the cycle because investors expect record revenues and profits to fall hard. If memory is truly cyclical, this could represent a cycle peak rather than a buying opportunity."
+          },
+          {
+            "ticker": "AMAT",
+            "company_name": "Applied Materials",
+            "reason": "Applied Materials makes many of the machines inside chip factories, including deposition, etching, and inspection equipment for every layer on a chip. They posted record revenues of $9.1 billion, up 25% year-over-year, with expected $10.25 billion this quarter implying 51% growth. A significant portion of TSMC's $62 billion capex budget goes to machines like these, indicating sustained demand for chip manufacturing equipment.",
+            "when_to_buy": "After 23% sell-off; 43% down from high",
+            "target_price": null,
+            "cautions": "Trades at 22 times forward earnings; subject to capex cycle risk; benefits dependent on TSMC and other chipmakers' capital spending plans"
+          },
+          {
+            "ticker": "AVGO",
+            "company_name": "Broadcom",
+            "reason": "Broadcom designs custom AI chips for the biggest tech companies including Google's TPUs and OpenAI's Jalapeno accelerators, as well as networking chips that connect them together. AI chip revenue hit $16.7 billion last quarter, up 221% year-over-year, with expected $21.7 billion this quarter implying 236% AI chip revenue growth. The creator sees this as a compelling opportunity in a highly competitive space with direct competition from Nvidia.",
+            "when_to_buy": "After 13% sell-off; 32% down from high",
+            "target_price": null,
+            "cautions": "Faces direct competition with Nvidia; trades at 18 times forward earnings despite explosive growth"
+          },
+          {
+            "ticker": "CLS",
+            "company_name": "Celestica",
+            "reason": "Celestica builds the server racks and networking gear inside AI data centers and is a preferred manufacturing partner for Google's data center hardware including TPU systems. They also help OpenAI and Broadcom build racks for Jalapeno. Last quarter, Celestica's revenue grew by 62% with expectations for 65% growth for the full year, benefiting directly from Google's estimated $200 billion annual capex spending.",
+            "when_to_buy": "Stock flat for year; 30% down from June high",
+            "target_price": null,
+            "cautions": "Trades at 18 times forward earnings; almost 2/3 of revenue comes from just three customers, creating concentration risk. Creator notes the stock will likely face continued punishment if the sell-off persists due to this customer concentration."
+          },
+          {
+            "ticker": "VRT",
+            "company_name": "Vertiv Holdings",
+            "reason": "Vertiv makes the power and cooling systems that keep high-density AI data centers running. Last quarter they raised full-year guidance to about 31% organic growth with adjusted earnings per share up by 60%. This company benefits directly from the massive expansion of AI infrastructure as hyperscalers build out data centers requiring significant power and thermal management.",
+            "when_to_buy": "After 19% sell-off; 45% down from May high",
+            "target_price": null,
+            "cautions": "Trades at 24 times forward earnings, putting it among the pricier recommendations"
+          },
+          {
+            "ticker": "GOOGL",
+            "company_name": "Google/Alphabet",
+            "reason": "Google owns and operates around a quarter of all AI compute on Earth. Last quarter, Google Cloud revenue grew 82% year-over-year to $24.8 billion, and the Gemini app now has 950 million monthly active users. Google expects to spend about $200 billion in capex this year, more than double what they spent last year, with further increases planned for 2027. Investors are clearly not worried about Google's future based on minimal stock decline.",
+            "when_to_buy": "Only down about 2% since sell-off started",
+            "target_price": null,
+            "cautions": "Stock already priced at 24 times forward earnings; massive $200 billion capex commitment creates execution risk; hyperscaler capex spending may not deliver expected returns"
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices",
+            "reason": "AMD is trading at 48 times forward earnings, which the creator identifies as 'really expensive relative to their peers' when evaluating investment opportunities during a market sell-off. When everything is on sale, investors should be pickiest about valuations, and AMD's premium valuation makes it an unattractive entry point compared to peers.",
+            "risk": "Trading at 48x forward earnings, significantly more expensive than comparable semiconductor companies like Broadcom at 18x"
+          },
+          {
+            "ticker": "ARM",
+            "company_name": "Arm Holdings",
+            "reason": "ARM is trading at approximately 48 times forward earnings, lumped with other expensive stocks the creator warns against. During a market sell-off, the creator emphasizes investors should be pickiest about valuations, and ARM's premium valuation makes it unattractive compared to better-valued peers in the semiconductor space.",
+            "risk": "Trading at 48x forward earnings; expensive relative to semiconductor peers"
+          },
+          {
+            "ticker": "PLTR",
+            "company_name": "Palantir Technologies",
+            "reason": "Palantir is trading at almost 100 times forward earnings, which the creator explicitly identifies as 'really expensive relative to their peers.' The creator emphasizes that when everything is on sale during a market sell-off, investors should avoid overpaying for stocks, making Palantir's extreme valuation a clear warning sign.",
+            "risk": "Trading at almost 100x forward earnings, representing extreme valuation premium; not recommended during market dislocations when cheaper alternatives exist"
+          },
+          {
+            "ticker": "CORE",
+            "company_name": "CoreWeave",
+            "reason": "CoreWeave got hit really hard during this sell-off, but more concerning is that the company is still unprofitable. Additionally, their corporate bonds yield around 15%, meaning they're effectively borrowing money at a crazy rate relative to their peers, indicating market concerns about their financial stability and creditworthiness.",
+            "risk": "Unprofitable company; corporate bonds yielding 15% indicate distressed financial situation and high bankruptcy risk; hit particularly hard in this sell-off"
+          },
+          {
+            "ticker": "DELL",
+            "company_name": "Dell Technologies",
+            "reason": "While Dell trades at just 16 times forward earnings which appears cheap, the stock is already up over 250% year-to-date. The creator flags this as an honorable mention that 'came close to being on this list' but ultimately did not make the final recommendations, suggesting better entry points exist elsewhere and Dell's recent run-up has already priced in much of the AI infrastructure opportunity.",
+            "risk": "Up 250% year-to-date, suggesting significant gains already realized and limited upside from current levels"
+          }
+        ],
+        "key_warnings": [
+          "Memory stocks are highly cyclical and always look cheap at the very top of the cycle because investors expect record revenues and profits to fall hard. While ASML and TSMC show demand outpacing supply through 2027-2028, memory company valuations at 4-5x forward PE may reflect an impending cycle peak rather than a true buying opportunity.",
+          "Hyperscalers (Google, Microsoft, Meta, Amazon) plan to spend roughly $700 billion in AI capex this year, up 80% from 2025. There is substantial execution risk that this massive capital deployment may not deliver expected AI returns, which could trigger a significant pullback in related stocks if profitability fails to materialize.",
+          "Chinese chipmaker CXMT announced advanced 4F squared memory chips launching by end of year, triggering memory stock selloff. However, CXMT has not provided details on speeds, capacities, or manufacturing yields, creating uncertainty about whether this technology will actually materialize and impact market share as feared.",
+          "South Korea stock market triggered a 20-minute trading halt on October 15th due to fears that China is catching up in memory and AI spending won't pay off. This suggests elevated systemic risk in semiconductor supply chains and geopolitical concerns that could cause further dislocations."
+        ],
+        "tickers_mentioned": [
+          "TSM",
+          "ASML",
+          "CHR",
+          "MU",
+          "SK Hynix",
+          "NVDA",
+          "AMD",
+          "AMAT",
+          "AVGO",
+          "CXMT",
+          "GOOGL",
+          "CLS",
+          "VRT",
+          "MSFT",
+          "META",
+          "AMZN",
+          "MRVL",
+          "LRCX",
+          "KLA",
+          "LUMN",
+          "CLX",
+          "DELL",
+          "ARM",
+          "PLTR",
+          "CORE",
+          "QCOM",
+          "INTC"
+        ]
+      },
+      "price_at_recommendation": {
+        "PLTR": 194.15,
+        "GOOGL": 344.18,
+        "CLS": 300.35,
+        "TSM": 420.22,
+        "VRT": 206.08,
+        "AVGO": 334.59,
+        "ARM": 228.05,
+        "MU": 904.9,
+        "DELL": 455.44,
+        "AMD": 538.05,
+        "CHR": 1.32,
+        "AMAT": 413.11
+      }
+    },
+    "v5NMsQnpR2Q": {
+      "channel": "Jose Najarro Stocks",
+      "title": "Meta & NVIDIA's 1 MILLION GPU AI Supercluster Is INSANE!!",
+      "upload_date": "20261020",
+      "url": "https://www.youtube.com/watch?v=v5NMsQnpR2Q",
+      "processed_at": "2026-10-20T10:08:44.371010",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Nvidia is the big winner in Meta's million GPU AI supercluster infrastructure. The company benefits from GPU domain dominance with Nvidia Envy Link networking and Nvidia Connect X network interface cards being core to the distributed GPU architecture. As Meta and other AI players scale to million-plus GPU clusters, Nvidia's GPUs and networking solutions are essential infrastructure. The co-design partnership between Nvidia and Meta allows Nvidia to learn from real-world implementation and push those learnings to other customers, creating a virtuous cycle of innovation and demand.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms",
+            "reason": "Meta is demonstrating strong execution in AI infrastructure with Prometheus achieving hundreds of thousands of GPUs in phase one and targeting 1 million+ GPUs at full scale. The company is successfully training Muse models and achieving exceptional goodput metrics (above 85% for Muse 1/3 pre-training and above 90% for reinforcement learning runs). This positions Meta to potentially monetize AI compute at premium rates if they choose to sell compute capacity in the future. The creator expressed specific excitement about Meta's upcoming earnings as the company will begin reporting revenue from Muse and AI infrastructure operations.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "BROADCOM",
+            "company_name": "Broadcom Inc.",
+            "reason": "Broadcom benefits as a networking supplier in the AI infrastructure ecosystem. The company's Jericho chip is being used in Arista 7800 switches that comprise Meta's aggregation network for the Prometheus supercluster. As million-GPU clusters require sophisticated scale-out networking solutions to coordinate work across distributed machines, Broadcom's networking silicon is a critical component of the infrastructure stack that will see increased adoption.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "ANET",
+            "company_name": "Arista Networks",
+            "reason": "Arista Networks is benefiting from the networking aggregation phase of AI supercluster buildout. Their 7800 series switches using Broadcom Jericho chips are deployed in Meta's Prometheus infrastructure to handle GPU fabric group aggregation and coordination. As AI infrastructure scales to million-plus GPU configurations, the networking layer becomes increasingly critical, and Arista is positioned as a key supplier for this hardware.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Power consumption is a significant bottleneck in AI infrastructure. Rack power is increasing dramatically\u2014the GB300 requires 135 kilowatts per rack, while the upcoming Vera Rubin platform requires above 170 kilowatts per rack with full liquid cooling. This creates a physical constraint on data center scaling and suggests power availability will remain a bottleneck for the foreseeable future.",
+          "GPU reliability and hardware interruptions remain a significant operational challenge. While improvements are visible (GB300 showing better reliability than GB200), the creator raised a key checkpoint: as hardware mix expands across multiple GPU generations (GB200, GB300, Vera Rubin), it is unclear whether reliability gains will hold or if new issues will emerge.",
+          "There is fear in the AI market about GPU utilization and idle capacity. While Meta's announcement addresses this by demonstrating legitimate million-GPU demand, the broader market concern about whether AI infrastructure buildout will justify the capex remains unresolved."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "META",
+          "BROADCOM",
+          "ANET"
+        ]
+      },
+      "price_at_recommendation": {
+        "META": 705.44,
+        "ANET": 182.95,
+        "NVDA": 217.09
+      }
     }
   },
   "channel_ids": {

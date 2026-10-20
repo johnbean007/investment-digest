@@ -28785,6 +28785,73 @@
         "ANET": 182.95,
         "NVDA": 217.09
       }
+    },
+    "aAUfs0ArBq0": {
+      "channel": "FinTek",
+      "title": "Michael Burry Just Doubled Down",
+      "upload_date": "20261020",
+      "url": "https://www.youtube.com/watch?v=aAUfs0ArBq0",
+      "processed_at": "2026-10-20T14:28:48.080348",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Michael Burry has added to his short positions against Nvidia in August, indicating he believes the stock will decline. This is part of his broader negative bet against big AI players.",
+            "risk": null
+          },
+          {
+            "ticker": "MU",
+            "company_name": "Micron Technology",
+            "reason": "Michael Burry has added to his short positions against Micron in August as part of his bearish stance on semiconductor and AI-related companies.",
+            "risk": null
+          },
+          {
+            "ticker": "ORCL",
+            "company_name": "Oracle Corporation",
+            "reason": "Michael Burry has added to his short positions against Oracle in August, indicating he expects the stock to decline as part of his broader short bet against big AI players.",
+            "risk": null
+          },
+          {
+            "ticker": "PLTR",
+            "company_name": "Palantir Technologies",
+            "reason": "Michael Burry has added to his short positions against Palantir in August as part of his bearish positioning against big AI players.",
+            "risk": null
+          },
+          {
+            "ticker": "SOXX",
+            "company_name": "Invesco Semiconductor ETF",
+            "reason": "Burry's biggest bet right now is against SOXX, a semiconductor ETF, indicating he believes the semiconductor sector will experience significant declines.",
+            "risk": null
+          },
+          {
+            "ticker": "QQQ",
+            "company_name": "Invesco QQQ Trust (Nasdaq-100 ETF)",
+            "reason": "Burry holds a large negative bet against QQQ, an ETF of the 100 biggest companies in the Nasdaq. He explained this positioning as preparation for a larger fall in the market.",
+            "risk": null
+          }
+        ],
+        "key_warnings": [
+          "Michael Burry is positioning for a significant market decline. He stated 'If this looks like preparation for a larger fall in the market, that is because it is,' indicating he expects a major correction affecting both the semiconductor sector and the broader Nasdaq-100 index."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "MU",
+          "ORCL",
+          "PLTR",
+          "SOXX",
+          "QQQ"
+        ]
+      },
+      "price_at_recommendation": {
+        "NVDA": 217.09,
+        "QQQ": 718.36,
+        "SOXX": 501.93,
+        "ORCL": 129.59,
+        "PLTR": 194.15,
+        "MU": 904.9
+      }
     }
   },
   "channel_ids": {

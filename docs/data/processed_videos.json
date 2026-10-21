@@ -28852,6 +28852,369 @@
         "PLTR": 194.15,
         "MU": 904.9
       }
+    },
+    "ycHvQzpAVxU": {
+      "channel": "CouchInvestor",
+      "title": "SPACEX EARNINGS REPORT/CALL | NETFLIX EARNINGS | MARKET CLOSE",
+      "upload_date": "20261020",
+      "url": "https://www.youtube.com/watch?v=ycHvQzpAVxU",
+      "processed_at": "2026-10-21T11:44:31.045366",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Nvidia can charge premium prices for Vera Rubin GPUs because time-to-token is faster and monetization is higher. The company maintains 75% gross margins because customers are willing to pay more for faster deployment times and better infrastructure setup. Vera Rubin enables data centers to be set up much faster than competitors, which translates to higher pricing power and faster payback periods for customers.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "SMCI",
+            "company_name": "Super Micro Computer",
+            "reason": "SMCI just beat revenue guidance by $4 billion and increased preliminary Q4 results from 15 billion to 19 billion, representing 40% sequential revenue growth. The stock is up 14% on these results. SMCI worked closely with SpaceX on Colossus One buildout (handling half the project) and is working with SpaceX on Colossus 2. The company is much cheaper than Dell and offers good pricing. Unlike Dell, SMCI remains a key partner for SpaceX's infrastructure buildout.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "There are concerns that SpaceX may eventually build its own racks and cut out the middleman entirely, though demand is currently high enough to support both internal and external buildouts. SMCI has a history of conservative guidance followed by beats, but there were previous accounting issues that have since been addressed with self-reporting to regulators."
+          },
+          {
+            "ticker": "COR",
+            "company_name": "Core Scientific",
+            "reason": "The NeoCloud thesis is confirmed by Anthropic's S1 filing, which reveals that major cloud providers (AWS, Google, Microsoft) are refusing to provide additional capacity and view AI companies as competitors. This creates enormous demand for alternative data center providers like Coreweave. Anthropic is on the hook for $450 billion in commitments to AWS, Google, and Microsoft, but also needs 86 billion in additional capacity from smaller providers like Coreweave and Lambda. This shows Coreweave's infrastructure is critical and highly demanded. Coreweave is taking on billions in debt specifically because it is profitable to sell compute to AI companies.",
+            "when_to_buy": null,
+            "target_price": "72 potential tomorrow",
+            "cautions": "Coreweave has a 2.5-year payback period (longer than SpaceX's 6 months), and the company is not expected to reach profitability on a GAAP basis until 2029. Some smaller data center operators have limited operating history and may be less reliable than hyperscalers. Unit economics and future profitability remain uncertain. The market sentiment has been highly volatile with multiple fake bounces over the past week. Bond markets (2029 and 2031 bonds) have been showing stress, with yields rising, suggesting market concerns about creditworthiness."
+          },
+          {
+            "ticker": "NEBS",
+            "company_name": "Nebius",
+            "reason": "Nebius is executing better than many competitors in the NeoCloud space and has been outperforming on sentiment. Like Coreweave, Nebius benefits from the same structural dynamic where major cloud providers refuse to provide capacity to AI companies, creating demand for alternative providers. Nebius has a payback period of approximately one year to one year and five months, which is better than Coreweave but longer than SpaceX. The company is not expected to reach profitability until 2030 but is seeing strong operational execution.",
+            "when_to_buy": null,
+            "target_price": "190 potential tomorrow",
+            "cautions": "Nebius is not expected to reach GAAP profitability until 2030. The company must take on tens of billions in debt over coming years to finance buildout. Market sentiment is extremely volatile and sentiment-driven. Like other NeoCloud players, dependence on a few large customers (Anthropic, OpenAI) creates concentration risk."
+          },
+          {
+            "ticker": "DELL",
+            "company_name": "Dell Technologies",
+            "reason": "Dell had a $25 billion revenue beat in Q2 and another $25 billion beat last quarter, with gross margins doubling from 8% to 15% sequentially. This two-quarter streak of massive revenue and margin beats suggests Dell is capturing significant AI infrastructure buildout demand. If Dell continues beating expectations while SMCI also beats, both companies are benefiting from the infrastructure boom.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Dell was not mentioned as a partner on Colossus 2, whereas SMCI was specifically thanked by SpaceX management, suggesting SMCI may be gaining market share relative to Dell in key hyperscaler projects."
+          },
+          {
+            "ticker": "BROADCOM",
+            "company_name": "Broadcom",
+            "reason": "Broadcom is a safer play on AI infrastructure buildout compared to individual AI companies like Anthropic or OpenAI. Anthropic has commitments of 160 billion+ to lease Google chips (TPUs) in a deal with Broadcom, creating massive revenue visibility. Broadcom benefits from AI capex regardless of whether individual AI companies succeed or fail, making it a lower-risk infrastructure play.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Market reactions may be correlated with AI company sentiment in the short term, but long-term Broadcom should be insulated from individual company failures as long as the overall AI buildout continues."
+          },
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices",
+            "reason": "AMD, like Nvidia and Broadcom, is a beneficiary of the massive AI infrastructure capex cycle regardless of which specific AI companies succeed. The speaker expects AMD to put up insane quarters given the compute demand drivers from Grok, DOTS, Muse, and other AI applications.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms",
+            "reason": "Meta launched Muse, which competes directly with Grok. The company is heavily investing in compute capacity and AI infrastructure. Zuckerberg's upcoming earnings call is expected to highlight compute constraints and massive demand, similar to what Elon just confirmed at SpaceX. The launch of Muse and enterprise product expansions should drive capex increases.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Meta is expected to see hits to gross margins and EPS due to rising capex. Free cash flow is expected to be negative as capex spending ramps up. Legal expenses may also impact results. The speaker expects Meta stock to trade between 680-720 range (not expecting massive upside), with potential selling off on disappointing margin metrics unless Zuckerberg can drive enthusiasm on the call."
+          },
+          {
+            "ticker": "TSLA",
+            "company_name": "Tesla",
+            "reason": "Tesla earnings call is tomorrow and the speaker expects Tesla may not do a video presentation for earnings, which would signal that Elon does not care about Tesla anymore and is ready to pursue a merger with SpaceX. The underlying AI infrastructure buildout, if confirmed by Tesla's guidance, would support the broader AI capex thesis.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "There is an implied concern that Tesla may be deprioritized relative to SpaceX. The Tesla-SpaceX merger remains highly speculative and faces high shareholder vote requirements (50% of all shares, not just votes, on Tesla side). Elon mentioned Optimus is falling behind and not top-of-mind. Special committees have not reached agreement on merger terms."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "ANTH",
+            "company_name": "Anthropic",
+            "reason": "Anthropic's S1 filing reveals the company lost $80 billion in the first half of 2026 (compared to $40 billion for all of 2025), though $72 billion was accounting charges on convertible notes. More critically, Anthropic has $750 billion in compute commitments over the next 7-10 years but only $16.3 billion in revenue in H1 2026. The company needs to 7x revenue by 2027 to justify the capex spend and current $2 trillion valuation. About 1/5th of revenue comes from just two customers, creating massive concentration risk. The company is not expected to be profitable. Market has been skeptical of the $2 trillion valuation and there are conversations about lowering the valuation.",
+            "risk": "Valuation of $2 trillion is likely to come down based on the company's financial profile. The company's success is entirely dependent on Grok becoming a top-2 frontier model, which is not guaranteed. If Anthropic fails to reach 7x revenue growth by 2027, the company will face massive losses and potential insolvency given the $600+ billion in compute obligations."
+          }
+        ],
+        "key_warnings": [
+          "Major cloud providers (AWS, Google, Microsoft) are now viewing AI companies like Anthropic as competitors and are artificially limiting compute capacity access. This creates concentration risk where a small number of AI companies (Anthropic, OpenAI, and others) control massive portions of global compute demand. If any of these companies fail, it would create a supply shock for data center operators, but short-term market sentiment could panic.",
+          "There is significant experimentation happening in the AI subscription space where companies are subscribing to multiple AI services (ChatGPT, Grok, Muse, etc.) simultaneously. As consolidation occurs and users settle on one or two platforms, compute demand could decline from current hypergrowth levels. This could pressure both AI companies and data center operators.",
+          "Smaller data center operators and alternative cloud providers entering the market have limited operating history and may not meet reliability standards required by enterprise customers. This creates execution risk for the NeoCloud thesis.",
+          "The market has been characterized by multiple false bounces over the past week before SpaceX earnings. Political uncertainty (U.S. midterm elections) is causing some institutional investors to wait on sidelines before deploying capital.",
+          "SpaceX's 6-month payback period on data center compute is significantly better than NeoCloud competitors (Coreweave at 2.5 years, Nebius at 1-1.5 years), raising questions about whether SpaceX might eventually cut out third-party data center providers and build internally. This threatens the business model of alternative cloud providers.",
+          "If Anthropic's IPO valuation comes in below $2 trillion or shows weakness in trading, it could trigger broader AI sentiment reversal and pullback in AI infrastructure stocks despite strong demand fundamentals."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "COR",
+          "NEBS",
+          "SMCI",
+          "DELL",
+          "BROADCOM",
+          "AMD",
+          "INTEL",
+          "META",
+          "TSLA",
+          "ANTH",
+          "OPENAI",
+          "SNAP"
+        ]
+      },
+      "price_at_recommendation": {
+        "DELL": 461.56,
+        "ANTH": 0.0,
+        "META": 694.25,
+        "SMCI": 32.47,
+        "AMD": 534.74,
+        "COR": 343.27,
+        "TSLA": 373.71,
+        "NVDA": 216.47
+      }
+    },
+    "231U-2_BjSQ": {
+      "channel": "CouchInvestor",
+      "title": "SPACEX EARNINGS REPORT/CALL | NETFLIX EARNINGS | MARKET CLOSE",
+      "upload_date": "20261020",
+      "url": "https://www.youtube.com/watch?v=231U-2_BjSQ",
+      "processed_at": "2026-10-21T11:44:57.675783",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "SMCI",
+            "company_name": "Super Micro Computer",
+            "reason": "SMCI surged 11% after hours following guidance raise to $19B net sales for Q1 versus $15B estimate, representing a $4B beat on guidance. SMCI is a major supplier and partner to SpaceX, and given SpaceX's exceptional execution on compute capacity deployment (targeting 13+ gigawatts by end of 2027), increased demand for server infrastructure from SpaceX and other AI companies should benefit SMCI. The company's tight integration with the AI infrastructure buildout makes it a proxy for AI capex acceleration.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Tanner mentioned that Dell trades at $450 while SMCI should theoretically be $50, suggesting valuation analysis is needed; the stock has a history of accounting and internal control issues that should be monitored"
+          },
+          {
+            "ticker": "DELL",
+            "company_name": "Dell Technologies",
+            "reason": "Dell was up 4% after hours following SMCI's massive guidance beat, as Dell is also a major provider of server and infrastructure equipment to the AI and data center buildout. As SpaceX, Meta, Microsoft, Google and other hyperscalers accelerate compute deployment, Dell benefits from increased infrastructure procurement.",
+            "when_to_buy": null,
+            "target_price": "$450",
+            "cautions": "Tanner's comment that Dell at $450 should imply SMCI at $50 suggests Dell may itself be fairly or fully valued; exposure to AI infrastructure capex is cyclical and dependent on pricing trends"
+          },
+          {
+            "ticker": "NBIS",
+            "company_name": "Nebius",
+            "reason": "Neil expressed strong preference for Nebius over SpaceX at current valuations, specifically stating 'if you tell me $100 SpaceX, $100 Nebius, I'm taking Nebius every single day.' Nebius is a neocloud provider with similar exposure to AI compute infrastructure buildout, but at a significantly lower valuation ($45B market cap vs SpaceX's $1.95T). Neil noted that both companies are benefiting from the same secular trend of compute scarcity and pricing power, but Nebius offers better value entry point. The company has been executing well on capacity additions with major contracts from Meta and Microsoft.",
+            "when_to_buy": "$45 billion market cap valuation or lower; at current $100 price level if SpaceX is also at $100",
+            "target_price": null,
+            "cautions": "Nebius lacks SpaceX's diversified business segments (launch services, Starlink, super intelligence) and vertical integration advantages; SpaceX's cheaper access to capital and speed of deployment may give it competitive advantages despite premium valuation"
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "NFLX",
+            "company_name": "Netflix",
+            "reason": "Netflix reported misses across multiple metrics including fourth quarter operating income guidance ($3.5B vs $3.7B expected), fourth quarter EPS guidance (67 cents vs 73 cents expected), and free cash flow ($2.8B vs $3.2B expected). While fourth quarter revenue guidance was only slightly missed, the company lowered full-year ad revenue guidance to $2.7B from $3B previously forecast. Neil stated he cut his position by 50% and emphasized that while the valuation is cheap, the company's growth trajectory is unclear and depends entirely on their ability to accelerate growth through better content, live sports, or advertising monetization. The stock is down 40% over the past year and the hosts expressed skepticism about its ability to produce hit content comparable to past performance.",
+            "risk": "Stock down 6-7% after hours on earnings miss; down 40% year-over-year; structural challenges in content production and growth acceleration with unclear path forward"
+          },
+          {
+            "ticker": "ISRG",
+            "company_name": "Intuitive Surgical",
+            "reason": "Despite beating EPS by 14% (3.00 vs 2.64 expected) and revenue by 5% with year-over-year revenue growth of 20% and EPS growth of 20%, the stock was down 10-11% after hours, indicating that street does not like the results or forward guidance provided by the company.",
+            "risk": "Massive negative reaction of 10-11% despite strong earnings beat suggests forward guidance or outlook concerns; street rejected the results despite operational outperformance"
+          }
+        ],
+        "key_warnings": [
+          "Neocloud sector selloff over past two weeks appears unjustified based on earnings results; SpaceX proved the neocloud model can achieve positive operating margins while rapidly scaling capacity, yet broader sector continues to face headwinds from debt concerns, financing challenges, and macro uncertainty.",
+          "SpaceX valuation of $1.95 trillion is extremely expensive and all hosts expressed caution despite strong earnings; stock only up 1-2% after hours despite beating on revenue, EBITDA, and delivering positive operating income with aggressive capex plans. The premium valuation leaves little room for error and significant downside risk if execution slows.",
+          "Compute pricing is critical: SpaceX is selling at spot pricing or near-spot rates (with 90-day contracts), generating paybacks of less than one year, but if commodity chip prices and spot compute pricing decline materially, all neocloud profitability estimates would be at risk. Elon acknowledged this risk by using short-term contracts rather than locking in multi-year deals.",
+          "Tesla-SpaceX merger uncertainty creates additional risk: hosts discussed potential Tesla-SpaceX merger but noted massive valuation and dilution questions remain unanswered, with two billion SpaceX shares unlocked in next 7 weeks creating potential shareholder pressure and overhang.",
+          "YouTube content moderation risk: Streaming of SpaceX earnings call was repeatedly taken down/set to private by YouTube (up to 10 times mentioned), suggesting potential regulatory or platform pressure on earnings coverage and creating uncertainty for live financial content distribution."
+        ],
+        "tickers_mentioned": [
+          "SPACEX",
+          "NFLX",
+          "UAL",
+          "ISRG",
+          "COF",
+          "SMCI",
+          "DELL",
+          "NBIS",
+          "META",
+          "TSLA",
+          "PLTR",
+          "NVDA",
+          "MSFT",
+          "GOOGL",
+          "AMZN",
+          "ANTHROPIC"
+        ]
+      },
+      "price_at_recommendation": {
+        "DELL": 461.56,
+        "ISRG": 438.0,
+        "NFLX": 68.69,
+        "NBIS": 171.45,
+        "SMCI": 32.47
+      }
+    },
+    "VLlqZqAsvRI": {
+      "channel": "CouchInvestor",
+      "title": "4 Stocks You\u2019ll Wish You Bought Before Earnings",
+      "upload_date": "20261020",
+      "url": "https://www.youtube.com/watch?v=VLlqZqAsvRI",
+      "processed_at": "2026-10-21T11:45:25.646293",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "SE",
+            "company_name": "Sea Limited",
+            "reason": "Sea Limited is trading at an attractive valuation with a forward PE of 21.1x and PEG ratio just over 1, despite being down 31% year-to-date. The company is still a growth company with revenue growth close to 35-40% expected for upcoming quarters, with expectations of reaching $10.1 billion in quarterly revenue and $45 billion annually by fiscal 2028. The company has been consistently beating analyst expectations on revenue by close to 10% over the last two quarters and on EBITDA, though it misses on EPS. Sea Money is growing significantly and may be spun off as a separate public entity. The business is being run much better today than 3-4 years ago, and despite facing competition from Mercado Libre, Alibaba, Amazon, Pinduoduo, and Coupang, it continues to perform well. At current prices, the stock appears oversold\u2014trading at the same price as two quarters ago, well below levels from a quarter ago.",
+            "when_to_buy": "Before earnings report",
+            "target_price": null,
+            "cautions": "The company faces significant competition in multiple markets. Free cash flow is not expected to grow substantially despite strong revenue growth. Profitability metrics (EPS) have been inconsistent relative to analyst expectations."
+          },
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet Inc. (Google)",
+            "reason": "Google is trading at the same price it was before the last earnings report three months ago at $343, yet has become a better company operationally. The company is still undervalued despite year-to-date performance of +7.7%, with forward PE of 25.5x and PEG ratio of 1.6x. Google Cloud has grown 81.8% last quarter and is expected to potentially double this quarter while experiencing margin expansion, with TPU business showing additional upside starting 2027. The core business remains super profitable with substantial cash on the balance sheet, providing downside protection in a market correction. Google has consistently beaten revenue expectations by over 2%, and the cloud business trajectory suggests significant undervaluation. The company is positioned as a best-in-class defensive holding.",
+            "when_to_buy": "Before earnings report",
+            "target_price": null,
+            "cautions": "Negative free cash flow last quarter due to significant CapEx investments expected to continue at elevated levels (~$55.3 billion). EPS has been inconsistent quarter-to-quarter due to AI investments. Free cash flow expectations remain volatile depending on CapEx trends."
+          },
+          {
+            "ticker": "VRT",
+            "company_name": "Voyager Technologies",
+            "reason": "Voyager Technologies is trading at $1.5 billion market capitalization, the same price or close to it as three months ago before the last earnings report, yet the company has not deteriorated and growth potential has actually improved. This is a small company with huge growth potential, expected to grow revenue to close to $1 billion by fiscal 2028 from a very small current base (triple-digit growth expected over next couple of quarters). The company has strong strategic partnerships with key players in defense and space sectors including Palantir and Anduril. At a $1.5 billion valuation, significant upside exists if the company executes\u2014if it merely becomes a $10 billion company, investors would do quite well. The total addressable market is enormous. The creator has a small position in the stock and backs this thesis by including it.",
+            "when_to_buy": "Before earnings report",
+            "target_price": null,
+            "cautions": "This is a very small company with execution risk being critical to success. Operating profit is expected to remain negative through fiscal 2028, with free cash flow only expected to approach breakeven by fiscal 2028. Revenue is the key metric to monitor, not profitability. The company has raised capital and is pursuing big contracts, so dilution risk exists. The company missed analyst revenue estimates in quarters before the most recent one (which it beat by 6%), showing volatility in execution."
+          },
+          {
+            "ticker": "NEBS",
+            "company_name": "Nebius",
+            "reason": "Nebius is trading at $162 per share, down 43.4% from recent highs, yet it is a better company today than three months ago when it traded at similar prices. The stock is still up 80% year-to-date despite the recent pullback. The company is in acceleration mode with expected revenue growth from $1.3 billion over the last 12 months to $23 billion by fiscal 2028 (2.5 years out), with operating profits expected to reach $3 billion by 2028. Quarter-over-quarter revenue jumps are expected to be substantial, with EBITDA expected to grow from $350 million to $1.24 billion within a few quarters. The company is executing at best-in-class levels on capital raises and infrastructure buildouts. Spot preemptible VM prices for B300s, B200s, H200s, and H100s have increased 144% over the last 7 days on average, indicating pricing power and improving unit economics. The stock is trading just below the 200-day moving average and approaching oversold conditions. The creator has backed this conviction by buying more shares despite it being a large position.",
+            "when_to_buy": "Before earnings report",
+            "target_price": null,
+            "cautions": "Growing at this acceleration pace is costly and requires significant capital expenditure, with CapEx expected to be substantial ($7-8.5 billion per quarter) and unlikely to decrease as much as current forecasts suggest. The company is highly execution-dependent\u2014revenue must continue accelerating rapidly to justify the build-out. Cost of capital has increased, affecting financing terms. The extreme growth trajectory means numerous things can go wrong, though many things could also exceed expectations."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Market conditions are unhealthy with significant volatility and flip-flopping daily performance. While the surface may appear to be a bull market, many individual names are already in bear markets and have been for extended periods. This creates heightened risk in individual stock selection.",
+          "This is critical earnings season where AI spending and profitability questions will determine which companies can perform well going forward and which will remain under pressure. The outcome of earnings will be crucial to market direction.",
+          "Many high-growth companies discussed (Voyager Technologies, Nebius) have highly execution-dependent models with years of expected negative or near-breakeven free cash flow. These are high-risk/high-reward bets requiring consistent revenue acceleration to justify valuations."
+        ],
+        "tickers_mentioned": [
+          "SE",
+          "GOOGL",
+          "VRT",
+          "NEBS",
+          "NFLX",
+          "TSLA",
+          "META",
+          "AMZN",
+          "GOOG",
+          "INTC",
+          "RDDT",
+          "HOOD",
+          "SOFI",
+          "PYPL"
+        ]
+      },
+      "price_at_recommendation": {
+        "VRT": 203.56,
+        "GOOGL": 340.27,
+        "SE": 80.43
+      }
+    },
+    "OZBaYC2tTDk": {
+      "channel": "Daniel Pronk",
+      "title": "Netflix Stock Is Crashing - What You Need To Know",
+      "upload_date": "20261020",
+      "url": "https://www.youtube.com/watch?v=OZBaYC2tTDk",
+      "processed_at": "2026-10-21T11:45:40.976628",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [
+          {
+            "ticker": "NFLX",
+            "company_name": "Netflix Inc.",
+            "reason": "The creator is skeptical of Netflix's long-term competitive position and growth prospects. Netflix's moat is weakening as competition intensifies from better-resourced competitors like Amazon and Google who offer streaming as an add-on to their main businesses. Revenue growth is decelerating consistently across all regions (from 18% to 11.5% within one year), with growth increasingly dependent on price increases and advertising rather than organic member growth. Watch time per member is stagnant (low to mid single digits even in India, their strongest market), and Netflix's US TV time market share is declining while YouTube gains share. The creator does not own Netflix and lacks conviction in the business even at current valuations, believing the moat is being successfully attacked and the business's competitiveness is declining.",
+            "risk": "Stock is down 50% from all-time highs and fell 6% in after-hours trading post-earnings. Advertising revenue guidance was lowered 10% ($300 million), signaling weakness in what was supposed to be a major growth and margin expansion driver. Further downside risk exists if price increases trigger higher churn rates, as the creator believes there is a price ceiling beyond which consumers will cancel subscriptions at scale."
+          }
+        ],
+        "key_warnings": [
+          "Intensifying competition in streaming is eroding Netflix's competitive moat, with better-resourced competitors like Amazon and Google successfully attacking Netflix's market share. This structural competitive challenge will likely persist as content abundance and consumer attention become increasingly fragmented.",
+          "Netflix's growth is becoming unsustainably dependent on price increases rather than organic member or engagement growth, creating vulnerability to churn acceleration if pricing continues to rise. The creator questions how much further prices can be raised before consumers begin canceling at meaningful rates.",
+          "Watch time per member growth is stagnating globally, suggesting either declining engagement or that member growth is slowing significantly\u2014both negative signals for a maturing business. At 2% total membership watch time growth against 5% estimated member growth, engagement per member is deteriorating.",
+          "Advertising revenue, positioned as Netflix's next major growth driver and margin expander, came in 10% below guidance in Q4, indicating execution challenges in this critical business segment and raising questions about management's ability to diversify revenue streams.",
+          "Revenue growth is expected by analysts to decelerate consistently through 2028 to approximately 10% year-over-year, suggesting the market has priced in a maturing, slower-growth business model with limited upside."
+        ],
+        "tickers_mentioned": [
+          "NFLX",
+          "AMZN",
+          "GOOGL"
+        ]
+      },
+      "price_at_recommendation": {
+        "NFLX": 68.69
+      }
+    },
+    "3h3vRJnRLbE": {
+      "channel": "Jose Najarro Stocks",
+      "title": "SpaceX Earnings Just Changed Everything for AI Stocks!!",
+      "upload_date": "20261021",
+      "url": "https://www.youtube.com/watch?v=3h3vRJnRLbE",
+      "processed_at": "2026-10-21T11:45:51.584105",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Massive capex requirements ahead for AI infrastructure: SpaceX alone expects to spend roughly $160 billion annually on AI GPUs and infrastructure based on Q4 projections. The creator suggests that industry-wide capex guidance could exceed $300 billion next year. This represents an enormous capital commitment that will need to be validated and sustained.",
+          "Valuation risk from aggressive ARR projections: SpaceX projects $500 billion to $1 trillion in ARR by end of 2027, implying $40+ billion in monthly revenue and ~$100 billion quarterly revenue by Q4 2027. The creator acknowledges uncertainty around whether these aggressive projections are achievable and questions what comparable revenue scales other cloud providers (AWS, Microsoft Azure, Google Cloud) will achieve. Current valuations may not be pricing in execution risk on these claims."
+        ],
+        "tickers_mentioned": [
+          "SMCI",
+          "NVDA",
+          "AMZN",
+          "AMD",
+          "INTC",
+          "MU",
+          "META"
+        ]
+      },
+      "price_at_recommendation": {}
+    },
+    "SifZwAaDIFI": {
+      "channel": "Jose Najarro Stocks",
+      "title": "SPACEX EARNINGS LIVE! IS MY PORTFOLIO SAVED??",
+      "upload_date": "20261020",
+      "url": "https://www.youtube.com/watch?v=SifZwAaDIFI",
+      "processed_at": "2026-10-21T11:46:03.151141",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "SMCI",
+            "company_name": "Super Micro Computer Inc.",
+            "reason": "SMCI increased Q1 net sales to $19 billion versus $15 billion estimated, representing a $4 billion beat on guidance. The company is described as a huge partner for SpaceX. Given SpaceX's massive expansion of super intelligence compute infrastructure deployment (200,000 GB300s per month, targeting 13+ gigawatts by end of 2027), SMCI as a key infrastructure supplier benefits directly from this growth trajectory and demonstrated strong execution in the current quarter.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "SpaceX earnings call contained significant forward-looking claims regarding super intelligence compute deployment (10-20+ gigawatts by 2027) and SpaceX annual recurring revenue projections of $500 billion to $1 trillion by end of 2027. These are highly speculative, dependent on execution of aggressive timelines, and represent extreme valuations. Elon Musk acknowledged success is not guaranteed on initial Starship flight attempts and emphasized these are 'insanely fast time frames' for chip production at Terafab. Investors should apply significant discount rates to these projections given execution risk."
+        ],
+        "tickers_mentioned": [
+          "SMCI",
+          "DELL"
+        ]
+      },
+      "price_at_recommendation": {
+        "SMCI": 32.47
+      }
     }
   },
   "channel_ids": {

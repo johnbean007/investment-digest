@@ -29552,6 +29552,119 @@
         "NVDA": 212.21,
         "LRCX": 230.15
       }
+    },
+    "omOhQL-QWdI": {
+      "channel": "CouchInvestor",
+      "title": "Nebius CEO Says Demand Is Not a Constraint, but Chips Could Be the Next Bottleneck",
+      "upload_date": "20261023",
+      "url": "https://www.youtube.com/watch?v=omOhQL-QWdI",
+      "processed_at": "2026-10-23T13:37:48.254080",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Chip supply is emerging as the next market bottleneck. While demand for AI infrastructure and computing resources remains strong and is not a constraint, the availability of semiconductor chips may become the limiting factor for growth in the coming year. This supply-side constraint could impact companies dependent on chip availability for scaling operations."
+        ],
+        "tickers_mentioned": []
+      },
+      "price_at_recommendation": {}
+    },
+    "Y6x9yenPn00": {
+      "channel": "Jose Najarro Stocks",
+      "title": "META PLATFORMS Q3 EARNINGS CALL LIVE! MUSE WILL WIN!",
+      "upload_date": "20261022",
+      "url": "https://www.youtube.com/watch?v=Y6x9yenPn00",
+      "processed_at": "2026-10-23T13:38:26.464824",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms",
+            "reason": "Jose and the panel expressed strong bullish sentiment on Meta ahead of earnings. Jose mentioned he's been 'buying Meta a lot over the past couple weeks and months' and is excited about Muse adoption and monetization clarity. Neil stated he has 'way more meta' than Tesla in his portfolio. The company reported strong Q3 earnings with 26% revenue growth, beat on ad revenue ($63.06B vs $61B expected), and demonstrated impressive operational metrics: 10% increase in ad impressions YoY, 14% increase in average price per ad, and 3% increase in daily active users YoY while reducing headcount by 15%. Muse launched to over 10 million users in US/Canada in 6 weeks with 25% DAU engagement, strong retention metrics (2x better than Threads launch), and significant commerce adoption with 25% of users making purchases averaging over $200. The core ads business remains a 'juggernaut' with multiple monetization vectors and the team demonstrated strong execution. Reality Labs losses expected to narrow to $15-18B next year (from current levels) as focus shifts to AI.",
+            "when_to_buy": "Stock was trading around $700-733 after hours at time of discussion; analysts noted it's 'still cheap' at those levels despite the 3.5% after-hours gain",
+            "target_price": null,
+            "cautions": "Company announced a $25 billion potential penalty (though expected to be appealed with longer timeline); $12 billion legal settlement charge hit Q3 EPS (resulting in 44% EPS miss, though this was expected); company is creating new non-voting share class and two-for-one split effective late January 2027, which signals future equity dilution for capital raising despite not announcing specific financing plans; Reality Labs remains a significant cash burn; capex raised from $130-145B to $135-145B (only $5B increase on lower end despite aggressive AI investment needs); company explicitly declined to provide full-year 2027 revenue guidance, suggesting uncertainty about Muse monetization trajectory; competition from Anthropic's Claude Duet announcement same day; Muse still needs global rollout and efficiency improvements; regulatory scrutiny on youth-related issues with trials scheduled in coming months."
+          },
+          {
+            "ticker": "IBM",
+            "company_name": "International Business Machines",
+            "reason": "IBM delivered a triple beat on Q3 earnings with strong momentum recovery. EPS beat of $2.95 vs $2.86 expected, revenue beat of $17.1B vs $16.8B expected, and gross margins of 56.8%. Most notably, the software segment showed a major recovery after struggling last quarter (Red Hat component went from minus 7% last quarter to plus 10% this quarter, with IBM closing two-thirds of lagging deals), and infrastructure segment also beat. CEO Arvin Krishna emphasized Red Hat's expected double-digit performance continuation going forward. Stock jumped 6% after hours and helped lift the entire SaaS sector (Service Now, Salesforce also seeing love after hours). IBM is rebuilding credibility after previous guidance misses and this beat demonstrates execution. The company raised free cash flow guidance and maintained 4-5% full-year 2026 revenue growth guidance, showing stabilization.",
+            "when_to_buy": "Stock was up approximately 6% after hours; the earnings beat and sector tailwind suggest near-term momentum",
+            "target_price": null,
+            "cautions": "Company had previously stumbled on guidance and is being conservative with forward guidance to rebuild credibility; operating gross margin benefited from mix (consulting is less profitable than software/infrastructure), though pre-tax operating margin did improve; full-year 2026 guidance maintained at 4-5% growth, which is not aggressive growth; traditional enterprise company facing significant AI disruption (as CEO acknowledged)."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "TSLA",
+            "company_name": "Tesla",
+            "reason": "While Tesla reported a slight EPS beat ($0.48 adjusted vs $0.44 expected) and beat on gross margins (19.6% vs 17.8% expected), the overall sentiment from the panel was muted and uncertain. Revenue was a slight miss ($28.05B vs $28.13B expected) with YoY revenue essentially flat (down 1%). More critically, the panel expressed skepticism about meaningful catalysts: Tanner stated he'd 'need to see flying cars' to be interested; the panelists questioned whether website traffic from Optimus robot announcement (described as their 'largest spike' ever) will actually convert to material vehicle sales; there's deep uncertainty about whether robo-taxi or Optimus announcements would move the stock 'above 400 after hours.' Revenue growth has stalled YoY with no clear near-term catalyst visible. The stock remains under pressure with limited visibility on new growth drivers beyond incremental FSD adoption (75% attach rate in North America) and energy storage. Panelists explicitly stated focus should be on Meta instead, with multiple noting 'there is just way more to talk about Meta today than there is about Tesla.'",
+            "risk": "Stock was at $393-394 after hours (near session lows), having struggled to break above $400 despite positive earnings print. Panelists questioned whether any announcement could push it to $400 let alone beyond. Revenue growth has gone flat YoY, and without clear visibility to new products or demand drivers, risk remains to the downside if growth remains stalled."
+          },
+          {
+            "ticker": "LRCX",
+            "company_name": "Lam Research",
+            "reason": "Lam Research reported a double beat (EPS beat of $2.19 vs $2.18, revenue beat of $8.2B vs $8.14B) but the stock dropped 5-6% after hours, indicating significant disappointment on guidance or forward outlook. Jose specifically noted that service/maintenance revenue (which has been a strong growth driver at ASML and expected to be at Lam Research) did not show sequential growth strength as expected. Jose flagged that while equipment revenue showed YoY growth, the lack of robust service revenue growth relative to comparables (ASML) was concerning. The forward PE of 27 (prior to the drop) suggests valuation concerns. While Jose mentioned TSMC's commentary that capex will continue to increase (which should theoretically benefit Lam Research), the stock's negative reaction indicates the market saw the beat as not addressing investor concerns.",
+            "risk": "Stock down approximately 5-6% after hours despite double beat earnings, indicating forward guidance concerns or margin pressure. Service revenue growth not materializing as expected could pressure profitability expansion despite equipment revenue growth. Forward PE of 27 suggests elevated valuation despite growth concerns."
+          }
+        ],
+        "key_warnings": [
+          "Meta's announcement of new non-voting share class and two-for-one split effective late January 2027 signals near-term equity dilution plans. While company explicitly stated no specific financing plans are ready to announce, the infrastructure creation strongly implies capital raise is coming, likely in $50-100B+ range based on AI capex needs. Jose noted that SpaceX is planning 10 gigawatts of compute next year at a cost of $40-50B, while Meta's capex 'race' with other hyperscalers suggests similar massive increases coming. Zuckerberg appears to be structuring the share class to preserve voting control while diluting non-voting shares to public, following Google's playbook from 2014.",
+          "Massive AI capex spending arms race is intensifying across hyperscalers. Jose and Neil noted that if SpaceX (which is planning 300-400B+ in total capex) is aggressively scaling, then Google, Meta, Microsoft, and others won't accept being left behind. The panel expects surprising capex increases to be announced in coming quarters, with multiple hyperscalers potentially needing to raise capital. This could pressure near-term margins and profitability while creating long-term uncertainty about which companies will win the AI infrastructure race.",
+          "Meta explicitly declined to provide full-year 2027 revenue guidance, stating only that investments position the company to 'sustain strong overall revenue growth.' Jose interpreted this as uncertainty about Muse monetization and revenue potential, suggesting the company cannot confidently project returns from massive AI investments yet. This represents a significant unknown for valuation.",
+          "Regulatory and legal risks remain material for Meta. Company faces $25B additional potential penalty (though expected to appeal), and CEO Zuckerberg made disclosure about potential relocation if Proposition 40 passes in California, suggesting geopolitical/regulatory pressure. Multiple youth-related trials scheduled in coming months in the US could create additional regulatory headwinds."
+        ],
+        "tickers_mentioned": [
+          "META",
+          "TSLA",
+          "NVDA",
+          "IBM",
+          "SAP",
+          "LRCX",
+          "GOOGL",
+          "GOOG",
+          "TXN",
+          "NOW",
+          "CRM",
+          "PLTR",
+          "GOOG"
+        ]
+      },
+      "price_at_recommendation": {
+        "IBM": 252.11,
+        "LRCX": 230.15,
+        "TSLA": 374.58,
+        "META": 648.85
+      }
+    },
+    "T2s_iWSuO1I": {
+      "channel": "FinTek",
+      "title": "Google is a Quantum Computing Stock",
+      "upload_date": "20261021",
+      "url": "https://www.youtube.com/watch?v=T2s_iWSuO1I",
+      "processed_at": "2026-10-23T13:38:36.978789",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet Inc. (Google)",
+            "reason": "Google's quantum AI division is laying the groundwork for a new industry. The CEO compared quantum computing today to AI from 5 years ago, indicating it is in early stages with significant growth potential. Google plans to use quantum machines to make AI models better. The creator views this as a moonshot investment that Google is willing to invest heavily in, and because the quantum computing industry is early-stage, investing in Google provides exposure to this emerging sector. The creator personally owns 123 shares valued at $42,000 with over 100% overall returns.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "This is described as a moonshot, implying high risk and uncertain outcomes. The quantum computing industry is in very early stages."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Quantum computing is an early-stage industry with uncertain commercialization timelines and outcomes, making it a speculative investment area."
+        ],
+        "tickers_mentioned": [
+          "GOOGL"
+        ]
+      },
+      "price_at_recommendation": {
+        "GOOGL": 324.22
+      }
     }
   },
   "channel_ids": {

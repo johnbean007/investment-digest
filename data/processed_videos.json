@@ -29665,6 +29665,196 @@
       "price_at_recommendation": {
         "GOOGL": 324.22
       }
+    },
+    "BJnxdy-y4Xc": {
+      "channel": "CouchInvestor",
+      "title": "I Can't Stay Quiet About This AI Selloff Anymore",
+      "upload_date": "20261023",
+      "url": "https://www.youtube.com/watch?v=BJnxdy-y4Xc",
+      "processed_at": "2026-10-25T10:15:14.936635",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NBIS",
+            "company_name": "Nebius",
+            "reason": "The creator identifies Nebius as the poster child for new AI cloud businesses that will become quite large. The company is taking a disciplined approach to its balance sheet, focused on building a real company measured by earnings and cash generation. Despite currently losing money, the company is growing triple digits and executing on something that has not been done before or by only a few players. The CEO and team know how to execute and understand what's important in the long run - earnings and cash generation. Nebius plans to put online 1 gigawatt worth of computing capacity in 2027, which aligns with the massive demand for AI infrastructure. The creator suggests that now may be the time to start looking for opportunities in these names, as pullbacks create buying opportunities for long-term investors.",
+            "when_to_buy": "Creator suggests waiting for more clarity after major companies report earnings next week and after the Fed meeting, or buying now if comfortable with volatility. States 'Maybe it's time to stay on the sidelines until we actually see a solid rebound, maybe a week from now when all of these big companies have reported.'",
+            "target_price": null,
+            "cautions": "Company is currently unprofitable despite triple-digit growth due to ongoing build-out phase. This is an early-stage infrastructure play with execution risk."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "AI semiconductor sector (SOX index) has experienced a 26.7% drawdown with companies like Lam Research and Applied Materials down almost 50% from 52-week highs, despite beating expectations and growing quickly. This represents a severe market overreaction.",
+          "The 2.3 trillion dollars of contracted demand from major cloud providers (Microsoft, Oracle, Alphabet, Amazon) is not guaranteed revenue. If companies like Anthropic and OpenAI cannot generate the hundreds of billions in revenue needed to meet commitments, there will be issues. Backlog does not equal guaranteed revenue.",
+          "Meta experienced a temporary 7% after-hours pop followed by a 7% decline the next day, demonstrating market volatility and whipsaw behavior despite strong fundamentals (revenue up 26% YoY, operating cash flow still positive).",
+          "Extreme market irrationality: stocks are being punished despite strong fundamentals. Companies generating substantial free cash flow (Nvidia, Apple, Microsoft, Broadcom, AMD) are down significantly while companies with no free cash flow trade at higher multiples. The market is shooting first and asking questions later.",
+          "Hedge funds sold tech at the fastest pace since 2026, contributing to capitulation selling. US 10-year yield dropped from 5.3% to ~5%, and Fed hike probability for next week dropped to 8.4%, suggesting rates may have peaked.",
+          "The creator warns against believing that 'the bubble has burst' simply because stocks are down. Just because a stock is down does not mean it's a bad business. Valuation levels are nowhere near dot-com bubble levels or 2021-2022 peaks."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "AAPL",
+          "MSFT",
+          "AVGO",
+          "AMD",
+          "META",
+          "GOOGL",
+          "AMZN",
+          "ORCL",
+          "LRCX",
+          "AMAT",
+          "TSM",
+          "BLOOM",
+          "RDDT",
+          "SOFI",
+          "PYPL",
+          "HOOD",
+          "NBIS"
+        ]
+      },
+      "price_at_recommendation": {
+        "NBIS": 158.74
+      }
+    },
+    "FzWuggZqfbg": {
+      "channel": "FinTek",
+      "title": "Hidden AI and Quantum Supply Chain Stock to BUY NOW",
+      "upload_date": "20261024",
+      "url": "https://www.youtube.com/watch?v=FzWuggZqfbg",
+      "processed_at": "2026-10-25T10:15:50.818304",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "COHR",
+            "company_name": "Coherent Corporation",
+            "reason": "Coherent is positioned as a long-term quantum ecosystem play with strong current fundamentals. The company generated $2 billion in revenue in their most recent quarter and approximately $4 billion in net income, demonstrating significant profitability. While the vast majority of current revenue comes from data centers rather than quantum computing, the creator views this as a relatively stable grower with exposure to the quantum supply chain that will eventually move the needle on the stock as the quantum market reaches scale.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Coherent is not a pure-play quantum stock. The company is heavily dependent on data center revenue, which currently dominates their top line. If the data center market slows, this will negatively impact the stock before the quantum supply chain reaches sufficient scale to be a material driver of returns. The quantum upside is a longer-term thesis and may take time to materialize."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Data center market slowdown poses a near-term risk to mixed-exposure quantum companies like Coherent, as data center revenue currently represents the majority of their business and will be impacted before quantum computing becomes a meaningful revenue contributor."
+        ],
+        "tickers_mentioned": [
+          "COHR"
+        ]
+      },
+      "price_at_recommendation": {
+        "COHR": 209.29
+      }
+    },
+    "OMDj6el4AbY": {
+      "channel": "FinTek",
+      "title": "99% of You Will Miss the Robotic Stack (My Full Map)",
+      "upload_date": "20261023",
+      "url": "https://www.youtube.com/watch?v=OMDj6el4AbY",
+      "processed_at": "2026-10-25T10:17:01.682216",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "MP",
+            "company_name": "MP Materials Corp",
+            "reason": "MP Materials is vertically integrating across the entire rare earth magnet supply chain within the United States, addressing a critical bottleneck where China controls over 94% of rare earth magnet manufacturing. The company has backing from the US Department of Defense to build an end-to-end American supply chain. General Motors signed a deal with MP Materials in 2021 to put these magnets inside their electric motors, and the company announced Project Swarm to build a US supply chain for drone makers. Revenue was over $100 million, up 89% year-over-year, demonstrating strong growth in a market where humanoid robots require up to 40 robotic motors with ultra-dense permanent magnets.",
+            "when_to_buy": "When their Texas mega factory turns 89% growth year-over-year into positive cash flow",
+            "target_price": null,
+            "cautions": "The company is not yet profitable. This is a bet on continued growth rather than established profits. The biggest risk is the need to achieve profitability and positive cash flow before the investment thesis plays out."
+          },
+          {
+            "ticker": "PANasonicPANASONIC",
+            "company_name": "Panasonic",
+            "reason": "Panasonic is a profitable battery cell supplier benefiting from sevenfold growth in robot battery shipments expected between 2024 and 2030. The company signed a multi-year deal with Zoox (Amazon's self-driving taxi company) to supply cells for robo taxis, demonstrating broad applicability across different robot types. Panasonic's energy business grew 43% year-over-year, and this is a profitable business for the company, providing established cash generation while benefiting from rising battery demand across the robotics spectrum.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "A lot of energy growth was actually for backup battery supplies for data centers rather than robotics. Tariffs are going to affect Panasonic more than a US-based company, presenting a geopolitical risk."
+          },
+          {
+            "ticker": "ALGO",
+            "company_name": "Allegro MicroSystems",
+            "reason": "Allegro MicroSystems sells the chips that live inside each robot joint, making their growth directly tied to the number of robot joints in the market. As robots become more advanced with distributed intelligence around the robot rather than just a central brain, individual joints will require more processing power. Allegro's revenue is up 27% year-over-year, largely driven by their automotive business, and the company is leveraging its experience with cars to expand into other areas of robotics.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "This is a relatively small company with high valuation. While profitable, it carries higher risk due to its current size and valuation relative to larger competitors. Investors should expect volatility."
+          },
+          {
+            "ticker": "NOVA",
+            "company_name": "Novanta",
+            "reason": "Novanta sells motors and sensors specializing in very precise movement and is positioned to benefit from the forecasted growth from 600,000 to 800,000 factory robot installations between 2025 and 2029. The company reported $265 million in revenue, up 10% year-over-year, and is a member of Nvidia's safety testing program, indicating recognition from a major AI/robotics infrastructure player.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "After a recent big acquisition of a device company, this is a less pure-play robotics stock, which may give more stability but introduces integration risks. The company is relatively small and has high valuation, making it riskier than established players despite being profitable."
+          },
+          {
+            "ticker": "CGNX",
+            "company_name": "Cognex",
+            "reason": "Cognex is an industrial camera and software company with ambitious expansion plans and strong financials positioned to benefit from the robotic perception market growing from $600 million today to $1.6 billion per year by 2030, a 25% compounded growth rate. The company is acquiring RealSense to become a one-stop shop for the computer vision market, moving from solved 2D vision into 3D depth sensing needed for robots to safely manipulate objects. Cognex's latest quarterly sales were $291 million, up 17% year-over-year, generating positive free cash flow, with moving and packaging goods already accounting for around half of their sales in 2025.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The RealSense acquisition was worth 7-8% of Cognex's entire value, presenting integration risk when merging two different companies. Interest rates can significantly impact customer equipment orders since many purchases are financed through loans. Camera and hardware for vision systems will continue to come from specialized suppliers like Cognex, but competition from larger players remains."
+          },
+          {
+            "ticker": "QCOM",
+            "company_name": "Qualcomm",
+            "reason": "Qualcomm is roughly 27 times smaller than Nvidia and offers a less obvious way to play the edge computing market for robotics. The company is building connected solutions for robot builders through products like the Dragon Wing IQ 10 system, which provides a starting kit connecting cameras and control equipment to the computer. Qualcomm is expecting to hit $8 billion in sales across industrial, networking, and robotics by 2029. Energy efficiency is critical for robots going forward, and Qualcomm's strength in power-efficient chips positions it well for this emerging market.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The robotics business is still relatively small for Qualcomm and will be a long-term hold until robotics starts to seriously move the needle for the company. Connected device chips grew only 9% year-over-year while phone chips dropped 20%, showing the robotics segment is in early stages. Car chips grew 61%, but robotics revenue is not separately broken out, making it difficult to assess the company's true robotics exposure."
+          },
+          {
+            "ticker": "SIE",
+            "company_name": "Siemens",
+            "reason": "Siemens is a German engineering software company selling tools used to build and test robots in virtual environments, benefiting from the robotic simulation market expected to roughly double from $700 million to $1.4 billion by 2030. Siemens already owns the digital blueprints for many of the world's biggest factories, positioning the company as a natural partner when those factories need to simulate robots. The company has recurring revenue of nearly 6 billion euros per year in industrial software, up 10% in the past year, with direct relationships to industrial end customers who value their simulation capabilities.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Siemens is not a pure-play robotics company, so the rest of the business will affect stock price and the company can be cyclical. The company will compete with and partner with larger players like Nvidia and Google, introducing competitive pressure and potential conflicts of interest."
+          },
+          {
+            "ticker": "ROK",
+            "company_name": "Rockwell Automation",
+            "reason": "Rockwell Automation sells both hardware and software to automate factories and is positioned to benefit from the factory automation market growing from $100 billion per year in 2023 to $200 billion per year by 2030. The company's stock has risen only a modest 35% in the past 5 years, suggesting it has not run up with the AI market, potentially offering upside. Rockwell can sign big upfront contracts for hardware and then get recurring revenue from software subscriptions. The company reported $400 million in profit last quarter with total revenue up 8% year-over-year, with the 2026 software update adding more AI and Nvidia simulation tools.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The US manufacturing business carries cyclical risk; if even a few manufacturers delay automation projects, this can show up quickly in Rockwell's earnings. Contracts tend to start as big projects, creating visibility risk. The company should be expected to experience ups and downs as it hopefully rises over time."
+          },
+          {
+            "ticker": "SYM",
+            "company_name": "Symbotic",
+            "reason": "Symbotic is building warehouse automation systems that make the warehouse itself act like one giant robotic automation system with parts pickers, transfer decks, and machine vision. The stock's revenue grew 22% last quarter while reporting a profit, demonstrating strong growth and profitability in the logistics robotics space where logistics robots saw supplier sales rise 21% in 2025.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Walmart makes up 90% of Symbotic's revenue, creating extreme concentration risk. Any investor in this stock needs to watch both Symbotic and Walmart closely, as weakness at Walmart would directly threaten the company's entire revenue base."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Interest rates have a huge impact on factory automation and equipment orders since many customers finance these purchases through loans. Following Federal Reserve policy decisions is critical for investors in robotics companies selling to customers who rely on debt financing.",
+          "China controls over 94% of rare earth magnet manufacturing, creating a potential supply shock risk for robotic production in the West. US tariffs on minerals used in magnets have tripled in less than two years, increasing costs for companies dependent on imported rare earth materials.",
+          "The robotics and AI investment market is subject to hype cycles. While some stocks like MP Materials are speculative bets on future profitability, investors should distinguish between companies with established profitable revenue streams (like Panasonic, Cognex, Rockwell) and those still investing heavily without current profits (like MP Materials)."
+        ],
+        "tickers_mentioned": [
+          "MP",
+          "PANASONIC",
+          "ALGO",
+          "NOVA",
+          "CGNX",
+          "QCOM",
+          "SIE",
+          "ROK",
+          "SYM",
+          "NVDA",
+          "TSLA",
+          "CATL"
+        ]
+      },
+      "price_at_recommendation": {
+        "QCOM": 175.91,
+        "ROK": 426.11,
+        "MP": 38.3,
+        "CGNX": 55.55,
+        "SYM": 39.28
+      }
     }
   },
   "channel_ids": {

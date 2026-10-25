@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-25T10:20:27.205595",
-  "video_count": 71,
-  "stock_count": 136,
+  "generated_at": "2026-10-25T19:13:41.705538",
+  "video_count": 73,
+  "stock_count": 141,
   "stocks": [
     {
       "ticker": "AAOI",
@@ -108,7 +108,7 @@
         "ma200": 294.11,
         "ma_signal": "golden_cross",
         "pe_trailing": 39.87672,
-        "pe_forward": 36.332245,
+        "pe_forward": 36.365494,
         "peg_ratio": 2.79,
         "revenue_growth": 0.164,
         "earnings_growth": 0.287,
@@ -121,8 +121,8 @@
         "analyst_buy": 28,
         "analyst_hold": 14,
         "analyst_sell": 4,
-        "analyst_target": 328.35,
-        "analyst_upside_pct": -5.6,
+        "analyst_target": 329.25,
+        "analyst_upside_pct": -5.3,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -564,7 +564,7 @@
     {
       "ticker": "AMZN",
       "company_name": "Amazon",
-      "buy_count": 10,
+      "buy_count": 11,
       "avoid_count": 0,
       "first_mention_date": "27 Sep 2026",
       "price_at_first_mention": 249.67,
@@ -737,6 +737,19 @@
           "when_to_buy": "Between now and mega cap earnings season (October 29th). Dollar cost averaging approach recommended.",
           "target_price": null,
           "cautions": "Earnings must demonstrate continued capex commitment and AI monetization progress to validate the buying opportunity."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Just Bought $10,000 of Stocks Before My Biggest Earnings Week",
+          "url": "https://www.youtube.com/watch?v=TXQ8h7gfyMY",
+          "upload_date": "20261025",
+          "date_label": "25 Oct 2026",
+          "ticker": "AMZN",
+          "company_name": "Amazon.com Inc.",
+          "reason": "Andy Jasse, CEO, confirmed huge demand at AWS with capacity sold out through 2026, largely sold out through 2027, and a good chunk of 2028 already sold. Amazon is spending $220 billion on capex in 2026 and still leaving meaningful demand on the table. AWS is expected to see acceleration in growth and become more profitable. The creator expects another acceleration in AWS growth and improved profitability for this business segment.",
+          "when_to_buy": "Around $250 per share with support at $243",
+          "target_price": null,
+          "cautions": "Free cash flow will have headwinds in near-term years due to massive capex spending, but payback occurs in 3-5 years as data centers come online and generate cash. Heavy infrastructure investment cycle requires patience."
         }
       ],
       "avoids": [],
@@ -1449,7 +1462,7 @@
     {
       "ticker": "AXON",
       "company_name": "Axon Enterprise",
-      "buy_count": 6,
+      "buy_count": 7,
       "avoid_count": 0,
       "first_mention_date": "27 Sep 2026",
       "price_at_first_mention": 430.11,
@@ -1570,6 +1583,19 @@
           "when_to_buy": "The creator bought more at $409. Current floor is at current price levels.",
           "target_price": null,
           "cautions": null
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Just Bought $10,000 of Stocks Before My Biggest Earnings Week",
+          "url": "https://www.youtube.com/watch?v=TXQ8h7gfyMY",
+          "upload_date": "20261025",
+          "date_label": "25 Oct 2026",
+          "ticker": "AXON",
+          "company_name": "Axon Enterprise Inc.",
+          "reason": "Rebounded to close at $420. If support is created at this level, upside potential exists to $482 resistance. While not a cheap name, it is one that 'gets less expensive,' which the creator likes. Represents a quality business with pricing power during market dislocations.",
+          "when_to_buy": "Hold above $420 to create support",
+          "target_price": "$482 resistance level",
+          "cautions": "This is not a cheap name; it is relatively expensive. Requires maintaining support at $420 for upside move."
         }
       ],
       "avoids": [],
@@ -1589,7 +1615,7 @@
         "currency": "USD",
         "sector": "Financial Services",
         "industry": "Credit Services",
-        "market_cap": 211520536576,
+        "market_cap": 210030297088,
         "current_price": 313.22,
         "daily_change_pct": -3.68,
         "month_change_pct": 2.79,
@@ -1794,7 +1820,7 @@
     {
       "ticker": "BRCM",
       "company_name": "Broadcom Inc.",
-      "buy_count": 2,
+      "buy_count": 3,
       "avoid_count": 0,
       "first_mention_date": "13 Oct 2026",
       "price_at_first_mention": null,
@@ -1826,6 +1852,19 @@
           "when_to_buy": "Stock at $328. Main buying zone is $315-$335. Weekly 100 support sits at $310. Previously undervalued at $360.",
           "target_price": null,
           "cautions": "First resistance ceiling is at $365. For short-term trading, technical levels matter, but for long-term investors, the valuation discount is what's important. Creator notes the risk of buying at current level then seeing 10% drop, but emphasizes not having a crystal ball."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Just Bought $10,000 of Stocks Before My Biggest Earnings Week",
+          "url": "https://www.youtube.com/watch?v=TXQ8h7gfyMY",
+          "upload_date": "20261025",
+          "date_label": "25 Oct 2026",
+          "ticker": "BRCM",
+          "company_name": "Broadcom Inc.",
+          "reason": "Support area at $390, currently trading around $321, with buying zone between $310-$325. Broadcom benefits from Neo-Cloud buildout and is moving in same direction as other Neo-Cloud infrastructure plays. Trading near support levels presents buying opportunity.",
+          "when_to_buy": "$310-$325 buying zone",
+          "target_price": "$356 resistance",
+          "cautions": "Moving in lockstep with other Neo-Cloud names; vulnerable to sector-wide bearish headlines. Requires positive cloud infrastructure commentary for upside."
         }
       ],
       "avoids": [],
@@ -2040,7 +2079,7 @@
     {
       "ticker": "CGNX",
       "company_name": "Cognex",
-      "buy_count": 1,
+      "buy_count": 2,
       "avoid_count": 0,
       "first_mention_date": "23 Oct 2026",
       "price_at_first_mention": 55.55,
@@ -2096,6 +2135,19 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": "The RealSense acquisition was worth 7-8% of Cognex's entire value, presenting integration risk when merging two different companies. Interest rates can significantly impact customer equipment orders since many purchases are financed through loans. Camera and hardware for vision systems will continue to come from specialized suppliers like Cognex, but competition from larger players remains."
+        },
+        {
+          "channel": "Ticker Symbol: YOU",
+          "title": "NVIDIA CEO Jensen Huang Left Me SPEECHLESS at GTC Berlin",
+          "url": "https://www.youtube.com/watch?v=NDCjUZKpZHA",
+          "upload_date": "20261025",
+          "date_label": "25 Oct 2026",
+          "ticker": "CGNX",
+          "company_name": "Cognex",
+          "reason": "Cognex makes machine vision systems, cameras and AI software that inspect parts and guide robots on production lines across automotive, consumer electronics, and packaged goods industries. This year, Cognex launched a vision controller powered by Nvidia's Jetson that delivers up to 157 trillion AI operations per second, enabling multiple high-resolution AI models to run simultaneously. Last quarter, Cognex hit record revenues of $291 million, up 17% year-over-year, but earnings per share jumped by 80%. They have $755 million in cash and investments, no debt, and expect strong double-digit revenue growth this year.",
+          "when_to_buy": "Cognex reports earnings on November 4th",
+          "target_price": null,
+          "cautions": null
         }
       ],
       "avoids": [],
@@ -2435,7 +2487,7 @@
     {
       "ticker": "COR",
       "company_name": "Core Scientific",
-      "buy_count": 1,
+      "buy_count": 2,
       "avoid_count": 0,
       "first_mention_date": "20 Oct 2026",
       "price_at_first_mention": 343.27,
@@ -2491,6 +2543,19 @@
           "when_to_buy": null,
           "target_price": "72 potential tomorrow",
           "cautions": "Coreweave has a 2.5-year payback period (longer than SpaceX's 6 months), and the company is not expected to reach profitability on a GAAP basis until 2029. Some smaller data center operators have limited operating history and may be less reliable than hyperscalers. Unit economics and future profitability remain uncertain. The market sentiment has been highly volatile with multiple fake bounces over the past week. Bond markets (2029 and 2031 bonds) have been showing stress, with yields rising, suggesting market concerns about creditworthiness."
+        },
+        {
+          "channel": "Ticker Symbol: YOU",
+          "title": "NVIDIA CEO Jensen Huang Left Me SPEECHLESS at GTC Berlin",
+          "url": "https://www.youtube.com/watch?v=NDCjUZKpZHA",
+          "upload_date": "20261025",
+          "date_label": "25 Oct 2026",
+          "ticker": "COR",
+          "company_name": "Coherent",
+          "reason": "Coherent makes the lasers and optical components for Nvidia Spectrum X Ethernet switches that feature co-packaged optics, which are already in full volume production according to Jensen Huang. In March, Nvidia invested $2 billion in Coherent and signed a multi-billion dollar purchase agreement. Last quarter, Coherent's revenue grew by 34% year-over-year to just over $2 billion, and it currently trades at about 22 times forward earnings, giving it a lower forward PE ratio than Alphabet, Amazon, and Microsoft.",
+          "when_to_buy": "Coherent reports earnings on November 4th",
+          "target_price": null,
+          "cautions": null
         }
       ],
       "avoids": [],
@@ -2563,7 +2628,7 @@
       "ticker": "COREWEAVE",
       "company_name": "CoreWeave",
       "buy_count": 0,
-      "avoid_count": 2,
+      "avoid_count": 3,
       "first_mention_date": "15 Oct 2026",
       "price_at_first_mention": null,
       "pct_change_since_rec": null,
@@ -2591,6 +2656,17 @@
           "company_name": "CoreWeave Inc.",
           "reason": "CoreWeave exhibits extreme financial stress and unsustainable leverage. The company has a 1,000% debt-to-equity ratio with $45 billion in net debt and negative free cash flows. While revenue and backlog keep the stock price afloat, the company requires $35 billion in additional financing just to fulfill existing commitments (not including new business). CoreWeave's bond yields spiked to 15%, the highest ever, and credit default swap insurance costs reached unprecedented levels. The creator explicitly warns this represents a 'house of cards' structure where the company is taking on more debt than it can afford to pay, subject to credit events if yields continue rising regardless of underlying demand fundamentals.",
           "risk": "Credit default risk; potential 50-90% downside if financing becomes unavailable or debt must be restructured."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Just Bought $10,000 of Stocks Before My Biggest Earnings Week",
+          "url": "https://www.youtube.com/watch?v=TXQ8h7gfyMY",
+          "upload_date": "20261025",
+          "date_label": "25 Oct 2026",
+          "ticker": "COREWEAVE",
+          "company_name": "CoreWeave",
+          "reason": "Stock is experiencing consistent downward pressure week after week with way more pressure than other Neo-Cloud names. There is no buying zone as of now because every week the stock just goes lower and lower. Creator's position is being hedged by PayPal bull spreads.",
+          "risk": "Support at $50 per share; main buying zone only between $50-$56. Stock could face structural challenges if Neo-Cloud consolidation occurs."
         }
       ],
       "description": "Cloud infrastructure provider specializing in GPU computing"
@@ -3676,7 +3752,7 @@
     {
       "ticker": "GOOGL",
       "company_name": "Alphabet",
-      "buy_count": 18,
+      "buy_count": 19,
       "avoid_count": 0,
       "first_mention_date": "27 Sep 2026",
       "price_at_first_mention": 343.92,
@@ -3953,6 +4029,19 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": "This is described as a moonshot, implying high risk and uncertain outcomes. The quantum computing industry is in very early stages."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Just Bought $10,000 of Stocks Before My Biggest Earnings Week",
+          "url": "https://www.youtube.com/watch?v=TXQ8h7gfyMY",
+          "upload_date": "20261025",
+          "date_label": "25 Oct 2026",
+          "ticker": "GOOGL",
+          "company_name": "Alphabet Inc.",
+          "reason": "Still in the buying zone with overhead ceiling at $342 and closed at $320. Google is expected to report earnings with potential 100% year-over-year growth in Google Cloud. The creator believes this is a name that 'just lets you sleep quite well at night for the foreseeable future.' A positive earnings reaction could push the stock back above $335 and toward $340. The creator increased the Google position by 3.8% with 5 extra shares.",
+          "when_to_buy": "Current level of $320, with buying zone below $342 overhead resistance",
+          "target_price": "$335-$340 on positive earnings",
+          "cautions": "Capex spending is a key focus; free cash flow expected to be negative in the near term due to AI infrastructure investments. Earnings reaction will be critical."
         }
       ],
       "avoids": [],
@@ -4153,7 +4242,7 @@
     {
       "ticker": "HOOD",
       "company_name": "Robinhood Markets Inc.",
-      "buy_count": 1,
+      "buy_count": 2,
       "avoid_count": 0,
       "first_mention_date": "08 Oct 2026",
       "price_at_first_mention": 109.51,
@@ -4209,6 +4298,19 @@
           "when_to_buy": "Monitor for Bitcoin swing trade setup",
           "target_price": null,
           "cautions": "This is swing trade setup, not investment. Requires specific trading discipline. Creator previously mentioned Hood in recommendations."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Just Bought $10,000 of Stocks Before My Biggest Earnings Week",
+          "url": "https://www.youtube.com/watch?v=TXQ8h7gfyMY",
+          "upload_date": "20261025",
+          "date_label": "25 Oct 2026",
+          "ticker": "HOOD",
+          "company_name": "Robinhood Markets Inc.",
+          "reason": "Revenue consensus $1.34-$1.43 billion up 12.4% year-over-year. While EPS is down year-over-year at 55 cents, the company is diversifying beyond transactional revenue into banking (deposits, retirement accounts, credit card). Prediction markets could provide tailwind depending on election outcome. Creator expects the company to paint a diversification picture.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": "Large portion of revenue is transactional-based and vulnerable to market volatility. Crypto remains under pressure. Success depends on demonstrating diversification progress beyond transactional revenue."
         }
       ],
       "avoids": [],
@@ -4385,7 +4487,7 @@
     {
       "ticker": "INTC",
       "company_name": "Intel Corporation",
-      "buy_count": 4,
+      "buy_count": 5,
       "avoid_count": 0,
       "first_mention_date": "01 Oct 2026",
       "price_at_first_mention": 120.0,
@@ -4480,6 +4582,19 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": "The semiconductor sector was experiencing broad selloffs on the day of recording."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Just Bought $10,000 of Stocks Before My Biggest Earnings Week",
+          "url": "https://www.youtube.com/watch?v=TXQ8h7gfyMY",
+          "upload_date": "20261025",
+          "date_label": "25 Oct 2026",
+          "ticker": "INTC",
+          "company_name": "Intel Corporation",
+          "reason": "Revenue expected up 20.7% year-over-year with EPS up 73.9% year-over-year. The creator wants to hear commentary on CPU business, server business, AI business, and Foundry segment. Intel could provide significant color on semiconductor chip demand. The creator believes chips could be the next bottleneck for the coming year unless some Neo-Cloud players don't survive.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": "Outcome dependent on management commentary about CPU, server, AI, and Foundry demand. Chips could become the next supply constraint unless Neo-Cloud consolidation occurs."
         }
       ],
       "avoids": [],
@@ -5296,7 +5411,7 @@
     {
       "ticker": "META",
       "company_name": "Meta Platforms",
-      "buy_count": 19,
+      "buy_count": 20,
       "avoid_count": 1,
       "first_mention_date": "27 Sep 2026",
       "price_at_first_mention": 751.66,
@@ -5586,6 +5701,19 @@
           "when_to_buy": "Stock was trading around $700-733 after hours at time of discussion; analysts noted it's 'still cheap' at those levels despite the 3.5% after-hours gain",
           "target_price": null,
           "cautions": "Company announced a $25 billion potential penalty (though expected to be appealed with longer timeline); $12 billion legal settlement charge hit Q3 EPS (resulting in 44% EPS miss, though this was expected); company is creating new non-voting share class and two-for-one split effective late January 2027, which signals future equity dilution for capital raising despite not announcing specific financing plans; Reality Labs remains a significant cash burn; capex raised from $130-145B to $135-145B (only $5B increase on lower end despite aggressive AI investment needs); company explicitly declined to provide full-year 2027 revenue guidance, suggesting uncertainty about Muse monetization trajectory; competition from Anthropic's Claude Duet announcement same day; Muse still needs global rollout and efficiency improvements; regulatory scrutiny on youth-related issues with trials scheduled in coming months."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Just Bought $10,000 of Stocks Before My Biggest Earnings Week",
+          "url": "https://www.youtube.com/watch?v=TXQ8h7gfyMY",
+          "upload_date": "20261025",
+          "date_label": "25 Oct 2026",
+          "ticker": "META",
+          "company_name": "Meta Platforms Inc.",
+          "reason": "Despite a very good earnings report, Meta pulled back slightly. Main buying zone sits at $630-$645, with stock at $642. The creator bought an extra 3 shares (5.2% increase) after the recent pullback. Meta is generating significant free cash flow and could be in focus in 2027 if the market shifts to free cash flow company focus.",
+          "when_to_buy": "$630-$645 buying zone; stock recently at $642",
+          "target_price": "$700+ levels possible if it clears $663 resistance",
+          "cautions": "Stock is under pressure despite strong fundamentals; near-term volatility likely. Free cash flow despite capex is positive but needs to be monitored."
         }
       ],
       "avoids": [
@@ -5786,7 +5914,7 @@
     {
       "ticker": "MSFT",
       "company_name": "Microsoft Corporation",
-      "buy_count": 3,
+      "buy_count": 4,
       "avoid_count": 0,
       "first_mention_date": "08 Oct 2026",
       "price_at_first_mention": 529.76,
@@ -5868,6 +5996,19 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": "Microsoft's return on incremental invested capital was impacted downward by the expensive Activision Blizzard acquisition deal."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Just Bought $10,000 of Stocks Before My Biggest Earnings Week",
+          "url": "https://www.youtube.com/watch?v=TXQ8h7gfyMY",
+          "upload_date": "20261025",
+          "date_label": "25 Oct 2026",
+          "ticker": "MSFT",
+          "company_name": "Microsoft Corporation",
+          "reason": "Revenue consensus $90.8 billion up 16.8% year-over-year with EPS $4.72 up 14.3% year-over-year. Key story is Azure growth and capex numbers. Microsoft stated it expects to generate free cash flow every single quarter, distinguishing it from peers. The creator expects free cash flow to remain positive while Google's is expected negative.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": "Critical to see Azure growth acceleration and capex trajectory. Free cash flow generation during heavy AI capex cycle is a competitive advantage."
         }
       ],
       "avoids": [],
@@ -5876,7 +6017,7 @@
     {
       "ticker": "MU",
       "company_name": "Micron Technology",
-      "buy_count": 14,
+      "buy_count": 15,
       "avoid_count": 1,
       "first_mention_date": "27 Sep 2026",
       "price_at_first_mention": 1082.28,
@@ -6101,6 +6242,19 @@
           "when_to_buy": "After 16% sell-off from recent highs; 28% down from June high",
           "target_price": null,
           "cautions": "Trades at just 5 times forward earnings, which creates a major caveat: memory stocks are cyclical and always look cheap at the very top of the cycle because investors expect record revenues and profits to fall hard. If memory is truly cyclical, this could represent a cycle peak rather than a buying opportunity."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Just Bought $10,000 of Stocks Before My Biggest Earnings Week",
+          "url": "https://www.youtube.com/watch?v=TXQ8h7gfyMY",
+          "upload_date": "20261025",
+          "date_label": "25 Oct 2026",
+          "ticker": "MU",
+          "company_name": "Micron Technology Inc.",
+          "reason": "Memory provider positioned to benefit from massive AI infrastructure buildout and data center expansion. Included in portfolio at number 12. Potential impact from SanDisk/Kioxia commentary on memory demand.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": "SanDisk earnings could provide color on overall memory market demand and competitive dynamics."
         }
       ],
       "avoids": [
@@ -6456,7 +6610,7 @@
     {
       "ticker": "NEBU",
       "company_name": "Nebius",
-      "buy_count": 1,
+      "buy_count": 2,
       "avoid_count": 1,
       "first_mention_date": "18 Oct 2026",
       "price_at_first_mention": null,
@@ -6475,6 +6629,19 @@
           "when_to_buy": null,
           "target_price": "The stock was trading around $160 at the time of recording, down from higher levels during the recent sell-off",
           "cautions": "Nebius is still growing from a smaller revenue base and has significant competition. The company faces the same AI cycle and customer concentration risks as other players. Much of the future revenue is expected in 2027, creating longer-term execution risk."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Just Bought $10,000 of Stocks Before My Biggest Earnings Week",
+          "url": "https://www.youtube.com/watch?v=TXQ8h7gfyMY",
+          "upload_date": "20261025",
+          "date_label": "25 Oct 2026",
+          "ticker": "NEBU",
+          "company_name": "Nebius (Neo-Cloud provider)",
+          "reason": "The creator added 10 extra shares at $160, viewing it as bargain hunting. As a small AI cloud player, Nebius benefits from the massive cloud infrastructure buildout. The earnings report this season will be important for Neo-Cloud players that show execution, progress, and a clear path to becoming a huge business; these will rebound while others will be crushed.",
+          "when_to_buy": "Between $140-$150 for bargain hunting; creator bought at $160",
+          "target_price": "$217 big resistance; support at $160 (weekly 50 SMA)",
+          "cautions": "Experiencing pullback along with entire Neo-Cloud segment. Execution is critical; companies without clear path to profitability will be crushed in earnings season. Weekly 50 SMA support sits at $160."
         }
       ],
       "avoids": [
@@ -6586,7 +6753,7 @@
     {
       "ticker": "NFLX",
       "company_name": "Netflix",
-      "buy_count": 6,
+      "buy_count": 7,
       "avoid_count": 6,
       "first_mention_date": "27 Sep 2026",
       "price_at_first_mention": 71.14,
@@ -6707,6 +6874,19 @@
           "when_to_buy": "Same price as seen over the past couple of weeks, no change mentioned.",
           "target_price": null,
           "cautions": "Earnings report coming up Tuesday after hours which could impact stock movement. The creator wants to hear specific strategy updates for accelerating growth."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Just Bought $10,000 of Stocks Before My Biggest Earnings Week",
+          "url": "https://www.youtube.com/watch?v=TXQ8h7gfyMY",
+          "upload_date": "20261025",
+          "date_label": "25 Oct 2026",
+          "ticker": "NFLX",
+          "company_name": "Netflix Inc.",
+          "reason": "Struggling in mid-$60s but is cheap on paper. Free cash flow generation company that could be in focus in 2027 if market shifts to free cash flow company focus. Has already reported earnings and is a survivor in the free cash flow narrative.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": "Already under pressure despite cheap valuation. Needs to demonstrate free cash flow strength continues. Creator still maintains tiny position but acknowledges stock is struggling."
         }
       ],
       "avoids": [
@@ -6780,6 +6960,70 @@
       "description": "Produces and streams television series, films, and games"
     },
     {
+      "ticker": "NOK",
+      "company_name": "Nokia",
+      "buy_count": 1,
+      "avoid_count": 0,
+      "first_mention_date": "25 Oct 2026",
+      "price_at_first_mention": 8.14,
+      "pct_change_since_rec": 0.0,
+      "market": {
+        "ticker": "NOK",
+        "name": "Nokia Corporation Sponsored",
+        "currency": "USD",
+        "sector": "Technology",
+        "industry": "Communication Equipment",
+        "market_cap": 45572968448,
+        "current_price": 8.14,
+        "daily_change_pct": 3.3,
+        "month_change_pct": -21.96,
+        "week52_high": 17.45,
+        "week52_high_date": "03 Jun 2026",
+        "week52_low": 5.86,
+        "week52_low_date": "20 Nov 2025",
+        "rsi": 33.1,
+        "rsi_label": "neutral",
+        "ma50": 10.12,
+        "ma200": 10.25,
+        "ma_signal": "death_cross",
+        "pe_trailing": 50.875004,
+        "pe_forward": 16.530941,
+        "peg_ratio": 0.69,
+        "revenue_growth": 0.097,
+        "earnings_growth": 2.221,
+        "free_cashflow": 1209750016,
+        "profit_margins": 0.03751,
+        "debt_to_equity": 15.815,
+        "beta": 0.735,
+        "short_percent": 0.0155,
+        "dividend_yield": 1.65,
+        "analyst_buy": 8,
+        "analyst_hold": 2,
+        "analyst_sell": 0,
+        "analyst_target": 14.52,
+        "analyst_upside_pct": 78.3,
+        "earnings_date": null,
+        "earnings_days": null
+      },
+      "buys": [
+        {
+          "channel": "Ticker Symbol: YOU",
+          "title": "NVIDIA CEO Jensen Huang Left Me SPEECHLESS at GTC Berlin",
+          "url": "https://www.youtube.com/watch?v=NDCjUZKpZHA",
+          "upload_date": "20261025",
+          "date_label": "25 Oct 2026",
+          "ticker": "NOK",
+          "company_name": "Nokia",
+          "reason": "Nokia is developing AI RAN (AI radio access network) technology that converts telecom networks into distributed AI computing capacity. Nvidia, T-Mobile, and Nokia completed the world's first AI RAN call on a live network at a commercial cell site in Washington this month. Nokia's goal is to achieve two times the spectral efficiency with pilot deployment starting at the end of this year and commercial availability in 2027. This represents a massive opportunity since there are about 100 gawatt of already up and running telecom networks across the Western world. Last quarter, Nokia's sales to AI and cloud customers more than doubled, and they expect their optical and IP networking business to grow by 25% or more next year. Nvidia invested $1 billion in Nokia stock at $6 per share last year.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": "Stock currently trades at around $8 per share, compared to Nvidia's $6 per share purchase price"
+        }
+      ],
+      "avoids": [],
+      "description": "Provides mobile, fixed, and cloud network solutions"
+    },
+    {
       "ticker": "NOKEN",
       "company_name": "Noken",
       "buy_count": 0,
@@ -6843,6 +7087,70 @@
       ],
       "avoids": [],
       "description": "Manufactures photonics and precision motion control components for industrial and medical applications"
+    },
+    {
+      "ticker": "NOW",
+      "company_name": "ServiceNow Inc.",
+      "buy_count": 1,
+      "avoid_count": 0,
+      "first_mention_date": "25 Oct 2026",
+      "price_at_first_mention": 158.96,
+      "pct_change_since_rec": 0.0,
+      "market": {
+        "ticker": "NOW",
+        "name": "ServiceNow, Inc.",
+        "currency": "USD",
+        "sector": "Technology",
+        "industry": "Software - Application",
+        "market_cap": 164342710272,
+        "current_price": 158.96,
+        "daily_change_pct": 1.25,
+        "month_change_pct": 15.37,
+        "week52_high": 192.97,
+        "week52_high_date": "30 Oct 2025",
+        "week52_low": 81.24,
+        "week52_low_date": "10 Apr 2026",
+        "rsi": 70.0,
+        "rsi_label": "overbought",
+        "ma50": 137.49,
+        "ma200": 115.11,
+        "ma_signal": "golden_cross",
+        "pe_trailing": 96.926834,
+        "pe_forward": 31.746857,
+        "peg_ratio": 1.15,
+        "revenue_growth": 0.24,
+        "earnings_growth": -0.219,
+        "free_cashflow": 5149374976,
+        "profit_margins": 0.11336,
+        "debt_to_equity": 67.538,
+        "beta": 0.99,
+        "short_percent": 0.0287,
+        "dividend_yield": 0.0,
+        "analyst_buy": 44,
+        "analyst_hold": 3,
+        "analyst_sell": 2,
+        "analyst_target": 156.54,
+        "analyst_upside_pct": -1.5,
+        "earnings_date": null,
+        "earnings_days": null
+      },
+      "buys": [
+        {
+          "channel": "CouchInvestor",
+          "title": "I Just Bought $10,000 of Stocks Before My Biggest Earnings Week",
+          "url": "https://www.youtube.com/watch?v=TXQ8h7gfyMY",
+          "upload_date": "20261025",
+          "date_label": "25 Oct 2026",
+          "ticker": "NOW",
+          "company_name": "ServiceNow Inc.",
+          "reason": "Revenue consensus $4.08 billion up 20.2% year-over-year with EPS up 6.2% year-over-year to just over $1. Full year 2026 expected at 22.1% revenue growth with EPS up 16% year-over-year. Question remains whether the business can accelerate from here.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": "EPS growth significantly lagging revenue growth, suggesting margin pressure. Needs to demonstrate acceleration potential to justify valuation."
+        }
+      ],
+      "avoids": [],
+      "description": "Provides cloud-based workflow software for business operations"
     },
     {
       "ticker": "NU",
@@ -6911,7 +7219,7 @@
     {
       "ticker": "NVDA",
       "company_name": "Nvidia Corporation",
-      "buy_count": 18,
+      "buy_count": 20,
       "avoid_count": 1,
       "first_mention_date": "25 Sep 2026",
       "price_at_first_mention": 225.07,
@@ -7188,6 +7496,32 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": "The stock experienced a 1.2% pullback after hours on the day of the announcement, attributed to global tensions and events."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Just Bought $10,000 of Stocks Before My Biggest Earnings Week",
+          "url": "https://www.youtube.com/watch?v=TXQ8h7gfyMY",
+          "upload_date": "20261025",
+          "date_label": "25 Oct 2026",
+          "ticker": "NVDA",
+          "company_name": "Nvidia Corporation",
+          "reason": "The creator increased the Nvidia position by 30% (10 extra shares), indicating conviction. Despite market pressure, the creator views it as cheap relative to its role in the AI infrastructure buildout. Nvidia is positioned to benefit from the sustained demand for chips across cloud providers and the AI buildout cycle.",
+          "when_to_buy": "At current depressed levels",
+          "target_price": null,
+          "cautions": "Semiconductor sector moving in same direction as other Neo-Cloud names; vulnerable to bearish headlines without proof of business deterioration. Execution risk if demand slows."
+        },
+        {
+          "channel": "Ticker Symbol: YOU",
+          "title": "NVIDIA CEO Jensen Huang Left Me SPEECHLESS at GTC Berlin",
+          "url": "https://www.youtube.com/watch?v=NDCjUZKpZHA",
+          "upload_date": "20261025",
+          "date_label": "25 Oct 2026",
+          "ticker": "NVDA",
+          "company_name": "Nvidia Corporation",
+          "reason": "Nvidia owns the ecosystems and platforms that everyone else is building on across multiple AI markets. Most humanoid robot companies working on autonomous robots are already building on Nvidia's Jetson Thor, including Boston Dynamics, Figure, Agility Robotics, 1X, and OpenAI. Jetson Thor delivers up to 7.5 times the AI computing of the previous Jetson Orin while being 3.5 times more energy efficient, with developer kits starting at just $3,500. Nvidia trades at about 17 times forward earnings, which is cheaper than the overall S&P 500's forward PE ratio of 19. Last quarter, Nvidia made $96.2 billion in revenue with $89 billion coming from data centers (92% of revenue), and the creator sees significant growth potential across factory robots, AI RAN networks, and humanoid robots.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": null
         }
       ],
       "avoids": [
@@ -7246,8 +7580,8 @@
         "analyst_buy": 4,
         "analyst_hold": 10,
         "analyst_sell": 0,
-        "analyst_target": 45.14,
-        "analyst_upside_pct": 15.6,
+        "analyst_target": 45.21,
+        "analyst_upside_pct": 15.8,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -7528,6 +7862,70 @@
       "description": "Manufactures electronics including batteries, consumer products, and industrial equipment"
     },
     {
+      "ticker": "PAYP",
+      "company_name": "PayPal Holdings Inc.",
+      "buy_count": 1,
+      "avoid_count": 0,
+      "first_mention_date": "25 Oct 2026",
+      "price_at_first_mention": 15.02,
+      "pct_change_since_rec": 0.0,
+      "market": {
+        "ticker": "PAYP",
+        "name": "PayPay Corporation - American D",
+        "currency": "USD",
+        "sector": "Technology",
+        "industry": "Software - Infrastructure",
+        "market_cap": 10170689536,
+        "current_price": 15.02,
+        "daily_change_pct": -1.25,
+        "month_change_pct": -9.35,
+        "week52_high": 24.89,
+        "week52_high_date": "23 Mar 2026",
+        "week52_low": 12.07,
+        "week52_low_date": "22 Jun 2026",
+        "rsi": 41.5,
+        "rsi_label": "neutral",
+        "ma50": null,
+        "ma200": null,
+        "ma_signal": null,
+        "pe_trailing": 12.621848,
+        "pe_forward": 19.895483,
+        "peg_ratio": 1.59,
+        "revenue_growth": 0.27,
+        "earnings_growth": 0.622,
+        "free_cashflow": 47128375296,
+        "profit_margins": 0.30616,
+        "debt_to_equity": 170.251,
+        "beta": null,
+        "short_percent": 0.0212,
+        "dividend_yield": 0.0,
+        "analyst_buy": 11,
+        "analyst_hold": 2,
+        "analyst_sell": 0,
+        "analyst_target": 24.23,
+        "analyst_upside_pct": 61.3,
+        "earnings_date": null,
+        "earnings_days": null
+      },
+      "buys": [
+        {
+          "channel": "CouchInvestor",
+          "title": "I Just Bought $10,000 of Stocks Before My Biggest Earnings Week",
+          "url": "https://www.youtube.com/watch?v=TXQ8h7gfyMY",
+          "upload_date": "20261025",
+          "date_label": "25 Oct 2026",
+          "ticker": "PAYP",
+          "company_name": "PayPal Holdings Inc.",
+          "reason": "PayPal bull spreads are offsetting bleeds in other positions like CoreWeave. Key question is whether the business is stabilizing and whether there could be tiny acceleration in growth. Reporting Tuesday before market open. Creator speculates company might announce sale of business segments.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": "Business stabilization is uncertain. Speculation about potential segment sales suggests underlying strategic uncertainty. Currently serving as hedge rather than primary thesis."
+        }
+      ],
+      "avoids": [],
+      "description": "Digital payments and financial services platform in Japan"
+    },
+    {
       "ticker": "PLTR",
       "company_name": "Palantir Technologies",
       "buy_count": 2,
@@ -7789,9 +8187,36 @@
       "description": "Exchange-traded fund tracking the Nasdaq-100 Index of large-cap technology stocks"
     },
     {
+      "ticker": "RBK",
+      "company_name": "Rubrik Inc.",
+      "buy_count": 1,
+      "avoid_count": 0,
+      "first_mention_date": "25 Oct 2026",
+      "price_at_first_mention": null,
+      "pct_change_since_rec": null,
+      "market": null,
+      "buys": [
+        {
+          "channel": "CouchInvestor",
+          "title": "I Just Bought $10,000 of Stocks Before My Biggest Earnings Week",
+          "url": "https://www.youtube.com/watch?v=TXQ8h7gfyMY",
+          "upload_date": "20261025",
+          "date_label": "25 Oct 2026",
+          "ticker": "RBK",
+          "company_name": "Rubrik Inc.",
+          "reason": "Cyber security name that has seen huge boost from market recently. Creator already took enough profits and is letting position ride. Cyber security sector including Rubrik, Zscaler, and CrowdStrike seeing major upside from heightened security concerns.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": "Cyber security names very expensive based on current valuation metrics. Creator has already taken profits, suggesting limited upside from current levels. Sector richly valued."
+        }
+      ],
+      "avoids": [],
+      "description": "Cloud data management and backup software platform"
+    },
+    {
       "ticker": "RDDT",
       "company_name": "Reddit",
-      "buy_count": 4,
+      "buy_count": 5,
       "avoid_count": 1,
       "first_mention_date": "27 Sep 2026",
       "price_at_first_mention": 149.84,
@@ -7886,6 +8311,19 @@
           "when_to_buy": "Stock is a bit above main buying zone. Weekly 100 support area sits at $147. Previous ceiling resistance sits closer to $160.",
           "target_price": null,
           "cautions": "Currently trading a bit above main buying zone, may want to wait for better entry."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Just Bought $10,000 of Stocks Before My Biggest Earnings Week",
+          "url": "https://www.youtube.com/watch?v=TXQ8h7gfyMY",
+          "upload_date": "20261025",
+          "date_label": "25 Oct 2026",
+          "ticker": "RDDT",
+          "company_name": "Reddit Inc.",
+          "reason": "Trading in a cheap buying zone with revenue up almost 50% year-over-year and EPS up 65% to $1.32. Reddit is generating free cash flow that is expected to grow. Key questions are whether ARPU is increasing and whether data/AI data licensing deals are progressing. The creator sees potential if Reddit can show strength similar to Facebook in terms of advertiser engagement and time spent metrics.",
+          "when_to_buy": "In buying zone; base support at $140",
+          "target_price": "Ceiling at $153; resistance at $171",
+          "cautions": "Key earnings will reveal progress on ARPU growth and AI data licensing deals. Needs to demonstrate advertiser demand strength similar to Meta for upside validation."
         }
       ],
       "avoids": [
@@ -7906,7 +8344,7 @@
     {
       "ticker": "RKLB",
       "company_name": "Rocket Lab",
-      "buy_count": 3,
+      "buy_count": 4,
       "avoid_count": 0,
       "first_mention_date": "04 Oct 2026",
       "price_at_first_mention": 73.92,
@@ -7988,6 +8426,19 @@
           "when_to_buy": "Back under $70; buying zone is $57 to $68",
           "target_price": null,
           "cautions": "Only for long-term investors. Still need to see what happens with Neutron program. There is significant noise in the space industry currently."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Just Bought $10,000 of Stocks Before My Biggest Earnings Week",
+          "url": "https://www.youtube.com/watch?v=TXQ8h7gfyMY",
+          "upload_date": "20261025",
+          "date_label": "25 Oct 2026",
+          "ticker": "RKLB",
+          "company_name": "Rocket Lab USA Inc.",
+          "reason": "Still in the low $50s and in the buying zone for long-term investors. Big resistance in the $70s with closer resistance at $55. Creator understands if investors want to wait for Neutron launch and next earnings report before buying.",
+          "when_to_buy": "Low $50s; understands waiting for Neutron launch update",
+          "target_price": "Resistance at $55; big resistance at $70s",
+          "cautions": "Big structural floor at $30 if major crash occurs. Execution risk on Neutron launch development is key catalyst."
         }
       ],
       "avoids": [],
@@ -8420,9 +8871,73 @@
       "description": null
     },
     {
+      "ticker": "SNDK",
+      "company_name": "SanDisk (Kioxia) / Memory Player",
+      "buy_count": 1,
+      "avoid_count": 0,
+      "first_mention_date": "25 Oct 2026",
+      "price_at_first_mention": 1238.03,
+      "pct_change_since_rec": 0.0,
+      "market": {
+        "ticker": "SNDK",
+        "name": "Sandisk Corporation",
+        "currency": "USD",
+        "sector": "Technology",
+        "industry": "Computer Hardware",
+        "market_cap": 178929467392,
+        "current_price": 1238.03,
+        "daily_change_pct": -1.82,
+        "month_change_pct": -29.4,
+        "week52_high": 2354.39,
+        "week52_high_date": "22 Jun 2026",
+        "week52_low": 164.56,
+        "week52_low_date": "28 Oct 2025",
+        "rsi": 30.4,
+        "rsi_label": "neutral",
+        "ma50": 1593.45,
+        "ma200": 1236.33,
+        "ma_signal": "golden_cross",
+        "pe_trailing": 16.78457,
+        "pe_forward": 4.649056,
+        "peg_ratio": null,
+        "revenue_growth": 3.716,
+        "earnings_growth": null,
+        "free_cashflow": 7720875008,
+        "profit_margins": 0.56465,
+        "debt_to_equity": 1.277,
+        "beta": null,
+        "short_percent": 0.0334,
+        "dividend_yield": 0.0,
+        "analyst_buy": 18,
+        "analyst_hold": 4,
+        "analyst_sell": 1,
+        "analyst_target": 2143.83,
+        "analyst_upside_pct": 73.2,
+        "earnings_date": null,
+        "earnings_days": null
+      },
+      "buys": [
+        {
+          "channel": "CouchInvestor",
+          "title": "I Just Bought $10,000 of Stocks Before My Biggest Earnings Week",
+          "url": "https://www.youtube.com/watch?v=TXQ8h7gfyMY",
+          "upload_date": "20261025",
+          "date_label": "25 Oct 2026",
+          "ticker": "SNDK",
+          "company_name": "SanDisk (Kioxia) / Memory Player",
+          "reason": "Revenue expected $10.7 billion up 362.6% year-over-year with EPS up 3,692.6% year-over-year (though on low base). Key is not this quarter's results but what management says about 2027, 2028, 2029, and 2030. Memory demand from AI buildout is a major tailwind. Could impact Micron and other memory players.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": "Year-over-year comparisons are extreme due to low prior year base. Focus should be on forward guidance and management commentary on memory demand trajectory."
+        }
+      ],
+      "avoids": [],
+      "description": "Manufactures NAND flash storage devices and solid state drives"
+    },
+    {
       "ticker": "SOFI",
       "company_name": "SoFi Technologies",
-      "buy_count": 5,
+      "buy_count": 6,
       "avoid_count": 1,
       "first_mention_date": "27 Sep 2026",
       "price_at_first_mention": 16.58,
@@ -8530,6 +9045,19 @@
           "when_to_buy": "Main buying zone is at current price levels. Could still buy under $14 per share. The 200 day weekly simple moving average sits under $14 at $13.24.",
           "target_price": null,
           "cautions": "Extremely disappointing performance this year due to macro headwinds and negative sentiment around financials ahead of midterm elections. The stock is painful to hold. The company needs to show the market that despite macro headwinds, their business is still operating well and they are confident in meeting targets."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Just Bought $10,000 of Stocks Before My Biggest Earnings Week",
+          "url": "https://www.youtube.com/watch?v=TXQ8h7gfyMY",
+          "upload_date": "20261025",
+          "date_label": "25 Oct 2026",
+          "ticker": "SOFI",
+          "company_name": "SoFi Technologies Inc.",
+          "reason": "Trading under $15 per share and still in the buying zone for long-term investors. Revenue consensus is $1.26 billion up 31.1% year-over-year with EPS up 54.5% year-over-year, showing strong growth. This is a growth company trading at a higher multiple than traditional banks. The creator is planning a full review and prediction video.",
+          "when_to_buy": "Current price under $15, with resistance at $16.70 and weekly 200 support floor at $13.29",
+          "target_price": "$16.70 resistance; downside support at $13.29 and low $13s",
+          "cautions": "Will be streaming earnings report on Tuesday before market open; execution on diversification into banking, deposits, retirement accounts, and credit card business is key."
         }
       ],
       "avoids": [
@@ -8932,7 +9460,7 @@
       "ticker": "TSLA",
       "company_name": "Tesla Inc.",
       "buy_count": 2,
-      "avoid_count": 2,
+      "avoid_count": 3,
       "first_mention_date": "08 Oct 2026",
       "price_at_first_mention": 377.81,
       "pct_change_since_rec": -1.5,
@@ -9024,6 +9552,17 @@
           "company_name": "Tesla",
           "reason": "While Tesla reported a slight EPS beat ($0.48 adjusted vs $0.44 expected) and beat on gross margins (19.6% vs 17.8% expected), the overall sentiment from the panel was muted and uncertain. Revenue was a slight miss ($28.05B vs $28.13B expected) with YoY revenue essentially flat (down 1%). More critically, the panel expressed skepticism about meaningful catalysts: Tanner stated he'd 'need to see flying cars' to be interested; the panelists questioned whether website traffic from Optimus robot announcement (described as their 'largest spike' ever) will actually convert to material vehicle sales; there's deep uncertainty about whether robo-taxi or Optimus announcements would move the stock 'above 400 after hours.' Revenue growth has stalled YoY with no clear near-term catalyst visible. The stock remains under pressure with limited visibility on new growth drivers beyond incremental FSD adoption (75% attach rate in North America) and energy storage. Panelists explicitly stated focus should be on Meta instead, with multiple noting 'there is just way more to talk about Meta today than there is about Tesla.'",
           "risk": "Stock was at $393-394 after hours (near session lows), having struggled to break above $400 despite positive earnings print. Panelists questioned whether any announcement could push it to $400 let alone beyond. Revenue growth has gone flat YoY, and without clear visibility to new products or demand drivers, risk remains to the downside if growth remains stalled."
+        },
+        {
+          "channel": "Ticker Symbol: YOU",
+          "title": "NVIDIA CEO Jensen Huang Left Me SPEECHLESS at GTC Berlin",
+          "url": "https://www.youtube.com/watch?v=NDCjUZKpZHA",
+          "upload_date": "20261025",
+          "date_label": "25 Oct 2026",
+          "ticker": "TSLA",
+          "company_name": "Tesla",
+          "reason": "Tesla's revenues were flat last quarter, operating margins have been shrinking for years, and the stock trades at an astronomical 175 times forward earnings. This valuation is higher than the combined forward PE ratios of Apple, Microsoft, Amazon, Alphabet, Meta, and Nvidia, while Tesla has the slowest growth and lowest margins by far among these companies. Tesla also doesn't currently report their number of rides, making it difficult to assess their competitive position in the emerging robo taxi market compared to Uber.",
+          "risk": "Stock trades at 175 times forward earnings with flat revenue growth and shrinking margins, suggesting significant downside risk if growth does not materialize"
         }
       ],
       "description": "Designs and manufactures electric vehicles and energy storage systems"
@@ -9185,7 +9724,7 @@
     {
       "ticker": "UBER",
       "company_name": "Uber Technologies",
-      "buy_count": 6,
+      "buy_count": 8,
       "avoid_count": 0,
       "first_mention_date": "27 Sep 2026",
       "price_at_first_mention": 69.62,
@@ -9306,6 +9845,32 @@
           "when_to_buy": "Same prices as seen before.",
           "target_price": null,
           "cautions": null
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "I Just Bought $10,000 of Stocks Before My Biggest Earnings Week",
+          "url": "https://www.youtube.com/watch?v=TXQ8h7gfyMY",
+          "upload_date": "20261025",
+          "date_label": "25 Oct 2026",
+          "ticker": "UBER",
+          "company_name": "Uber Technologies Inc.",
+          "reason": "Trading cheap despite market pressure. Like Netflix, Uber is generating significant free cash flow while trading under pressure. Uber executes better than Netflix currently. The recent Instacart acquisition overreaction by market was dismissed by creator as unlikely given Uber is already taking market share from Instacart.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": "Under pressure despite generating free cash flow. Already committed to integrating Delivery Hero acquisition, limiting capacity for major new deals. Trading cheap suggests market concerns about execution or competitive dynamics."
+        },
+        {
+          "channel": "Ticker Symbol: YOU",
+          "title": "NVIDIA CEO Jensen Huang Left Me SPEECHLESS at GTC Berlin",
+          "url": "https://www.youtube.com/watch?v=NDCjUZKpZHA",
+          "upload_date": "20261025",
+          "date_label": "25 Oct 2026",
+          "ticker": "UBER",
+          "company_name": "Uber Technologies",
+          "reason": "Uber announced plans to launch robo taxis running on Nvidia's self-driving stack and Uber's ride-hailing network, starting in LA and San Francisco in the first half of 2027 and scaling to driverless services in 28 cities by 2028. Regardless of which car maker wins the self-driving race, robo taxis still need riders, and Uber already works with more than 30 self-driving partners. Uber's revenues grew by 18% last year, operating margins have climbed every single year to over 12%, and they earn money on robo taxi rides no matter which car maker comes out on top as long as rides are booked on Uber. Uber trades at 17 times forward earnings, compared to Tesla's 175 times forward earnings.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": "Stock trades at less than 10% of Tesla's valuation multiple, suggesting upside potential but also indicating market skepticism about near-term robo taxi profitability"
         }
       ],
       "avoids": [],
@@ -9608,7 +10173,7 @@
     {
       "ticker": "VRT",
       "company_name": "Vertiv Holdings",
-      "buy_count": 3,
+      "buy_count": 4,
       "avoid_count": 1,
       "first_mention_date": "08 Oct 2026",
       "price_at_first_mention": 246.49,
@@ -9690,6 +10255,19 @@
           "when_to_buy": "Before earnings report",
           "target_price": null,
           "cautions": "This is a very small company with execution risk being critical to success. Operating profit is expected to remain negative through fiscal 2028, with free cash flow only expected to approach breakeven by fiscal 2028. Revenue is the key metric to monitor, not profitability. The company has raised capital and is pursuing big contracts, so dilution risk exists. The company missed analyst revenue estimates in quarters before the most recent one (which it beat by 6%), showing volatility in execution."
+        },
+        {
+          "channel": "Ticker Symbol: YOU",
+          "title": "NVIDIA CEO Jensen Huang Left Me SPEECHLESS at GTC Berlin",
+          "url": "https://www.youtube.com/watch?v=NDCjUZKpZHA",
+          "upload_date": "20261025",
+          "date_label": "25 Oct 2026",
+          "ticker": "VRT",
+          "company_name": "Verdive",
+          "reason": "Verdive makes power and cooling systems and is on two of Nvidia's most important partner lists from GTC Berlin. They are one of the companies building DSX pods and one of the power and cooling partners for Nvidia's AI factory designs. Last quarter, Verdive's sales grew by 24% year-over-year to $3.3 billion, and they raised their full-year revenue forecast to about $14 billion. This positions them as a critical infrastructure provider for the AI factory buildout.",
+          "when_to_buy": "Verdive reports earnings on October 28th",
+          "target_price": null,
+          "cautions": null
         }
       ],
       "avoids": [

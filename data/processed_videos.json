@@ -29855,6 +29855,327 @@
         "CGNX": 55.55,
         "SYM": 39.28
       }
+    },
+    "TXQ8h7gfyMY": {
+      "channel": "CouchInvestor",
+      "title": "I Just Bought $10,000 of Stocks Before My Biggest Earnings Week",
+      "upload_date": "20261025",
+      "url": "https://www.youtube.com/watch?v=TXQ8h7gfyMY",
+      "processed_at": "2026-10-25T19:10:49.457981",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet Inc.",
+            "reason": "Still in the buying zone with overhead ceiling at $342 and closed at $320. Google is expected to report earnings with potential 100% year-over-year growth in Google Cloud. The creator believes this is a name that 'just lets you sleep quite well at night for the foreseeable future.' A positive earnings reaction could push the stock back above $335 and toward $340. The creator increased the Google position by 3.8% with 5 extra shares.",
+            "when_to_buy": "Current level of $320, with buying zone below $342 overhead resistance",
+            "target_price": "$335-$340 on positive earnings",
+            "cautions": "Capex spending is a key focus; free cash flow expected to be negative in the near term due to AI infrastructure investments. Earnings reaction will be critical."
+          },
+          {
+            "ticker": "SOFI",
+            "company_name": "SoFi Technologies Inc.",
+            "reason": "Trading under $15 per share and still in the buying zone for long-term investors. Revenue consensus is $1.26 billion up 31.1% year-over-year with EPS up 54.5% year-over-year, showing strong growth. This is a growth company trading at a higher multiple than traditional banks. The creator is planning a full review and prediction video.",
+            "when_to_buy": "Current price under $15, with resistance at $16.70 and weekly 200 support floor at $13.29",
+            "target_price": "$16.70 resistance; downside support at $13.29 and low $13s",
+            "cautions": "Will be streaming earnings report on Tuesday before market open; execution on diversification into banking, deposits, retirement accounts, and credit card business is key."
+          },
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon.com Inc.",
+            "reason": "Andy Jasse, CEO, confirmed huge demand at AWS with capacity sold out through 2026, largely sold out through 2027, and a good chunk of 2028 already sold. Amazon is spending $220 billion on capex in 2026 and still leaving meaningful demand on the table. AWS is expected to see acceleration in growth and become more profitable. The creator expects another acceleration in AWS growth and improved profitability for this business segment.",
+            "when_to_buy": "Around $250 per share with support at $243",
+            "target_price": null,
+            "cautions": "Free cash flow will have headwinds in near-term years due to massive capex spending, but payback occurs in 3-5 years as data centers come online and generate cash. Heavy infrastructure investment cycle requires patience."
+          },
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "The creator increased the Nvidia position by 30% (10 extra shares), indicating conviction. Despite market pressure, the creator views it as cheap relative to its role in the AI infrastructure buildout. Nvidia is positioned to benefit from the sustained demand for chips across cloud providers and the AI buildout cycle.",
+            "when_to_buy": "At current depressed levels",
+            "target_price": null,
+            "cautions": "Semiconductor sector moving in same direction as other Neo-Cloud names; vulnerable to bearish headlines without proof of business deterioration. Execution risk if demand slows."
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms Inc.",
+            "reason": "Despite a very good earnings report, Meta pulled back slightly. Main buying zone sits at $630-$645, with stock at $642. The creator bought an extra 3 shares (5.2% increase) after the recent pullback. Meta is generating significant free cash flow and could be in focus in 2027 if the market shifts to free cash flow company focus.",
+            "when_to_buy": "$630-$645 buying zone; stock recently at $642",
+            "target_price": "$700+ levels possible if it clears $663 resistance",
+            "cautions": "Stock is under pressure despite strong fundamentals; near-term volatility likely. Free cash flow despite capex is positive but needs to be monitored."
+          },
+          {
+            "ticker": "NEBU",
+            "company_name": "Nebius (Neo-Cloud provider)",
+            "reason": "The creator added 10 extra shares at $160, viewing it as bargain hunting. As a small AI cloud player, Nebius benefits from the massive cloud infrastructure buildout. The earnings report this season will be important for Neo-Cloud players that show execution, progress, and a clear path to becoming a huge business; these will rebound while others will be crushed.",
+            "when_to_buy": "Between $140-$150 for bargain hunting; creator bought at $160",
+            "target_price": "$217 big resistance; support at $160 (weekly 50 SMA)",
+            "cautions": "Experiencing pullback along with entire Neo-Cloud segment. Execution is critical; companies without clear path to profitability will be crushed in earnings season. Weekly 50 SMA support sits at $160."
+          },
+          {
+            "ticker": "RDDT",
+            "company_name": "Reddit Inc.",
+            "reason": "Trading in a cheap buying zone with revenue up almost 50% year-over-year and EPS up 65% to $1.32. Reddit is generating free cash flow that is expected to grow. Key questions are whether ARPU is increasing and whether data/AI data licensing deals are progressing. The creator sees potential if Reddit can show strength similar to Facebook in terms of advertiser engagement and time spent metrics.",
+            "when_to_buy": "In buying zone; base support at $140",
+            "target_price": "Ceiling at $153; resistance at $171",
+            "cautions": "Key earnings will reveal progress on ARPU growth and AI data licensing deals. Needs to demonstrate advertiser demand strength similar to Meta for upside validation."
+          },
+          {
+            "ticker": "INTC",
+            "company_name": "Intel Corporation",
+            "reason": "Revenue expected up 20.7% year-over-year with EPS up 73.9% year-over-year. The creator wants to hear commentary on CPU business, server business, AI business, and Foundry segment. Intel could provide significant color on semiconductor chip demand. The creator believes chips could be the next bottleneck for the coming year unless some Neo-Cloud players don't survive.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Outcome dependent on management commentary about CPU, server, AI, and Foundry demand. Chips could become the next supply constraint unless Neo-Cloud consolidation occurs."
+          },
+          {
+            "ticker": "MSFT",
+            "company_name": "Microsoft Corporation",
+            "reason": "Revenue consensus $90.8 billion up 16.8% year-over-year with EPS $4.72 up 14.3% year-over-year. Key story is Azure growth and capex numbers. Microsoft stated it expects to generate free cash flow every single quarter, distinguishing it from peers. The creator expects free cash flow to remain positive while Google's is expected negative.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Critical to see Azure growth acceleration and capex trajectory. Free cash flow generation during heavy AI capex cycle is a competitive advantage."
+          },
+          {
+            "ticker": "AXON",
+            "company_name": "Axon Enterprise Inc.",
+            "reason": "Rebounded to close at $420. If support is created at this level, upside potential exists to $482 resistance. While not a cheap name, it is one that 'gets less expensive,' which the creator likes. Represents a quality business with pricing power during market dislocations.",
+            "when_to_buy": "Hold above $420 to create support",
+            "target_price": "$482 resistance level",
+            "cautions": "This is not a cheap name; it is relatively expensive. Requires maintaining support at $420 for upside move."
+          },
+          {
+            "ticker": "HOOD",
+            "company_name": "Robinhood Markets Inc.",
+            "reason": "Revenue consensus $1.34-$1.43 billion up 12.4% year-over-year. While EPS is down year-over-year at 55 cents, the company is diversifying beyond transactional revenue into banking (deposits, retirement accounts, credit card). Prediction markets could provide tailwind depending on election outcome. Creator expects the company to paint a diversification picture.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Large portion of revenue is transactional-based and vulnerable to market volatility. Crypto remains under pressure. Success depends on demonstrating diversification progress beyond transactional revenue."
+          },
+          {
+            "ticker": "UBER",
+            "company_name": "Uber Technologies Inc.",
+            "reason": "Trading cheap despite market pressure. Like Netflix, Uber is generating significant free cash flow while trading under pressure. Uber executes better than Netflix currently. The recent Instacart acquisition overreaction by market was dismissed by creator as unlikely given Uber is already taking market share from Instacart.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Under pressure despite generating free cash flow. Already committed to integrating Delivery Hero acquisition, limiting capacity for major new deals. Trading cheap suggests market concerns about execution or competitive dynamics."
+          },
+          {
+            "ticker": "BRCM",
+            "company_name": "Broadcom Inc.",
+            "reason": "Support area at $390, currently trading around $321, with buying zone between $310-$325. Broadcom benefits from Neo-Cloud buildout and is moving in same direction as other Neo-Cloud infrastructure plays. Trading near support levels presents buying opportunity.",
+            "when_to_buy": "$310-$325 buying zone",
+            "target_price": "$356 resistance",
+            "cautions": "Moving in lockstep with other Neo-Cloud names; vulnerable to sector-wide bearish headlines. Requires positive cloud infrastructure commentary for upside."
+          },
+          {
+            "ticker": "NFLX",
+            "company_name": "Netflix Inc.",
+            "reason": "Struggling in mid-$60s but is cheap on paper. Free cash flow generation company that could be in focus in 2027 if market shifts to free cash flow company focus. Has already reported earnings and is a survivor in the free cash flow narrative.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Already under pressure despite cheap valuation. Needs to demonstrate free cash flow strength continues. Creator still maintains tiny position but acknowledges stock is struggling."
+          },
+          {
+            "ticker": "RKLB",
+            "company_name": "Rocket Lab USA Inc.",
+            "reason": "Still in the low $50s and in the buying zone for long-term investors. Big resistance in the $70s with closer resistance at $55. Creator understands if investors want to wait for Neutron launch and next earnings report before buying.",
+            "when_to_buy": "Low $50s; understands waiting for Neutron launch update",
+            "target_price": "Resistance at $55; big resistance at $70s",
+            "cautions": "Big structural floor at $30 if major crash occurs. Execution risk on Neutron launch development is key catalyst."
+          },
+          {
+            "ticker": "NOW",
+            "company_name": "ServiceNow Inc.",
+            "reason": "Revenue consensus $4.08 billion up 20.2% year-over-year with EPS up 6.2% year-over-year to just over $1. Full year 2026 expected at 22.1% revenue growth with EPS up 16% year-over-year. Question remains whether the business can accelerate from here.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "EPS growth significantly lagging revenue growth, suggesting margin pressure. Needs to demonstrate acceleration potential to justify valuation."
+          },
+          {
+            "ticker": "SNDK",
+            "company_name": "SanDisk (Kioxia) / Memory Player",
+            "reason": "Revenue expected $10.7 billion up 362.6% year-over-year with EPS up 3,692.6% year-over-year (though on low base). Key is not this quarter's results but what management says about 2027, 2028, 2029, and 2030. Memory demand from AI buildout is a major tailwind. Could impact Micron and other memory players.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Year-over-year comparisons are extreme due to low prior year base. Focus should be on forward guidance and management commentary on memory demand trajectory."
+          },
+          {
+            "ticker": "MU",
+            "company_name": "Micron Technology Inc.",
+            "reason": "Memory provider positioned to benefit from massive AI infrastructure buildout and data center expansion. Included in portfolio at number 12. Potential impact from SanDisk/Kioxia commentary on memory demand.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "SanDisk earnings could provide color on overall memory market demand and competitive dynamics."
+          },
+          {
+            "ticker": "PAYP",
+            "company_name": "PayPal Holdings Inc.",
+            "reason": "PayPal bull spreads are offsetting bleeds in other positions like CoreWeave. Key question is whether the business is stabilizing and whether there could be tiny acceleration in growth. Reporting Tuesday before market open. Creator speculates company might announce sale of business segments.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Business stabilization is uncertain. Speculation about potential segment sales suggests underlying strategic uncertainty. Currently serving as hedge rather than primary thesis."
+          },
+          {
+            "ticker": "RBK",
+            "company_name": "Rubrik Inc.",
+            "reason": "Cyber security name that has seen huge boost from market recently. Creator already took enough profits and is letting position ride. Cyber security sector including Rubrik, Zscaler, and CrowdStrike seeing major upside from heightened security concerns.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Cyber security names very expensive based on current valuation metrics. Creator has already taken profits, suggesting limited upside from current levels. Sector richly valued."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "COREWEAVE",
+            "company_name": "CoreWeave",
+            "reason": "Stock is experiencing consistent downward pressure week after week with way more pressure than other Neo-Cloud names. There is no buying zone as of now because every week the stock just goes lower and lower. Creator's position is being hedged by PayPal bull spreads.",
+            "risk": "Support at $50 per share; main buying zone only between $50-$56. Stock could face structural challenges if Neo-Cloud consolidation occurs."
+          }
+        ],
+        "key_warnings": [
+          "Massive earnings week ahead (SoFi, PayPal, RobinHood, Google, Microsoft, ServiceNow, Intel, Amazon, SanDisk, Reddit) with FOMC meeting and potential Middle East developments; portfolio volatility expected with potential for 'huge beats while the market bleeds.'",
+          "Neo-Cloud infrastructure segment is experiencing sector-wide pressure; names moving in lockstep vulnerable to any negative commentary. Only companies showing execution progress, clear business path, and profitability will rebound; others will be crushed in earnings season.",
+          "Capex spending by mega-cap cloud providers (Amazon spending $220 billion in 2026, Google spending heavily) will create near-term free cash flow headwinds lasting several years until data centers monetize. Payback periods are 3-6 years, requiring patience through negative FCF periods.",
+          "Semiconductor supply chain could become the next bottleneck in 12 months unless Neo-Cloud player consolidation reduces demand. Chips are currently sold out through 2027 for major cloud providers with large portion of 2028 already allocated.",
+          "Market is headline-driven and not pricing in realistic payback economics for cloud infrastructure investments. Demand for AI/cloud capacity remains extraordinarily strong with capacity constrained, but sentiment could shift on negative headlines.",
+          "Cyber security names (Rubrik, Zscaler, CrowdStrike) are very expensive despite recent rallies; valuations do not appear justified by fundamentals.",
+          "Portfolio down 14.2% over past month while S&P down only 1.48%, indicating higher volatility/concentration risk. Creator emphasizes long-term outlook but acknowledges potential for further near-term downside."
+        ],
+        "tickers_mentioned": [
+          "GOOGL",
+          "SOFI",
+          "HOOD",
+          "AMZN",
+          "SNDK",
+          "RDDT",
+          "INTC",
+          "MSFT",
+          "NOW",
+          "PAYP",
+          "RKLB",
+          "META",
+          "NEBU",
+          "NFLX",
+          "AXON",
+          "MELI",
+          "UBER",
+          "BRCM",
+          "COREWEAVE",
+          "AMD",
+          "MU",
+          "RBK",
+          "ZS",
+          "CRWD"
+        ]
+      },
+      "price_at_recommendation": {
+        "NFLX": 65.85,
+        "HOOD": 95.07,
+        "SNDK": 1238.03,
+        "GOOGL": 320.21,
+        "NVDA": 210.96,
+        "MSFT": 524.51,
+        "PAYP": 15.02,
+        "INTC": 86.96,
+        "SOFI": 14.62,
+        "MU": 877.55,
+        "AMZN": 248.0,
+        "RDDT": 144.25,
+        "RKLB": 52.6,
+        "META": 642.62,
+        "UBER": 66.7,
+        "NOW": 158.96,
+        "AXON": 420.37
+      }
+    },
+    "NDCjUZKpZHA": {
+      "channel": "Ticker Symbol: YOU",
+      "title": "NVIDIA CEO Jensen Huang Left Me SPEECHLESS at GTC Berlin",
+      "upload_date": "20261025",
+      "url": "https://www.youtube.com/watch?v=NDCjUZKpZHA",
+      "processed_at": "2026-10-25T19:11:16.631776",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "VRT",
+            "company_name": "Verdive",
+            "reason": "Verdive makes power and cooling systems and is on two of Nvidia's most important partner lists from GTC Berlin. They are one of the companies building DSX pods and one of the power and cooling partners for Nvidia's AI factory designs. Last quarter, Verdive's sales grew by 24% year-over-year to $3.3 billion, and they raised their full-year revenue forecast to about $14 billion. This positions them as a critical infrastructure provider for the AI factory buildout.",
+            "when_to_buy": "Verdive reports earnings on October 28th",
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "COR",
+            "company_name": "Coherent",
+            "reason": "Coherent makes the lasers and optical components for Nvidia Spectrum X Ethernet switches that feature co-packaged optics, which are already in full volume production according to Jensen Huang. In March, Nvidia invested $2 billion in Coherent and signed a multi-billion dollar purchase agreement. Last quarter, Coherent's revenue grew by 34% year-over-year to just over $2 billion, and it currently trades at about 22 times forward earnings, giving it a lower forward PE ratio than Alphabet, Amazon, and Microsoft.",
+            "when_to_buy": "Coherent reports earnings on November 4th",
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "CGNX",
+            "company_name": "Cognex",
+            "reason": "Cognex makes machine vision systems, cameras and AI software that inspect parts and guide robots on production lines across automotive, consumer electronics, and packaged goods industries. This year, Cognex launched a vision controller powered by Nvidia's Jetson that delivers up to 157 trillion AI operations per second, enabling multiple high-resolution AI models to run simultaneously. Last quarter, Cognex hit record revenues of $291 million, up 17% year-over-year, but earnings per share jumped by 80%. They have $755 million in cash and investments, no debt, and expect strong double-digit revenue growth this year.",
+            "when_to_buy": "Cognex reports earnings on November 4th",
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "NOK",
+            "company_name": "Nokia",
+            "reason": "Nokia is developing AI RAN (AI radio access network) technology that converts telecom networks into distributed AI computing capacity. Nvidia, T-Mobile, and Nokia completed the world's first AI RAN call on a live network at a commercial cell site in Washington this month. Nokia's goal is to achieve two times the spectral efficiency with pilot deployment starting at the end of this year and commercial availability in 2027. This represents a massive opportunity since there are about 100 gawatt of already up and running telecom networks across the Western world. Last quarter, Nokia's sales to AI and cloud customers more than doubled, and they expect their optical and IP networking business to grow by 25% or more next year. Nvidia invested $1 billion in Nokia stock at $6 per share last year.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Stock currently trades at around $8 per share, compared to Nvidia's $6 per share purchase price"
+          },
+          {
+            "ticker": "UBER",
+            "company_name": "Uber Technologies",
+            "reason": "Uber announced plans to launch robo taxis running on Nvidia's self-driving stack and Uber's ride-hailing network, starting in LA and San Francisco in the first half of 2027 and scaling to driverless services in 28 cities by 2028. Regardless of which car maker wins the self-driving race, robo taxis still need riders, and Uber already works with more than 30 self-driving partners. Uber's revenues grew by 18% last year, operating margins have climbed every single year to over 12%, and they earn money on robo taxi rides no matter which car maker comes out on top as long as rides are booked on Uber. Uber trades at 17 times forward earnings, compared to Tesla's 175 times forward earnings.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Stock trades at less than 10% of Tesla's valuation multiple, suggesting upside potential but also indicating market skepticism about near-term robo taxi profitability"
+          },
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Nvidia owns the ecosystems and platforms that everyone else is building on across multiple AI markets. Most humanoid robot companies working on autonomous robots are already building on Nvidia's Jetson Thor, including Boston Dynamics, Figure, Agility Robotics, 1X, and OpenAI. Jetson Thor delivers up to 7.5 times the AI computing of the previous Jetson Orin while being 3.5 times more energy efficient, with developer kits starting at just $3,500. Nvidia trades at about 17 times forward earnings, which is cheaper than the overall S&P 500's forward PE ratio of 19. Last quarter, Nvidia made $96.2 billion in revenue with $89 billion coming from data centers (92% of revenue), and the creator sees significant growth potential across factory robots, AI RAN networks, and humanoid robots.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "TSLA",
+            "company_name": "Tesla",
+            "reason": "Tesla's revenues were flat last quarter, operating margins have been shrinking for years, and the stock trades at an astronomical 175 times forward earnings. This valuation is higher than the combined forward PE ratios of Apple, Microsoft, Amazon, Alphabet, Meta, and Nvidia, while Tesla has the slowest growth and lowest margins by far among these companies. Tesla also doesn't currently report their number of rides, making it difficult to assess their competitive position in the emerging robo taxi market compared to Uber.",
+            "risk": "Stock trades at 175 times forward earnings with flat revenue growth and shrinking margins, suggesting significant downside risk if growth does not materialize"
+          }
+        ],
+        "key_warnings": [
+          "Most companies working on humanoid robots are still private, so public market exposure is limited. However, the creator emphasizes that the biggest winners in robotics may be platform owners like Nvidia rather than hardware manufacturers, similar to how Uber dominates taxi services without owning vehicles."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "VRT",
+          "COR",
+          "CGNX",
+          "NOK",
+          "UBER",
+          "TSLA"
+        ]
+      },
+      "price_at_recommendation": {
+        "NOK": 8.14,
+        "UBER": 66.7,
+        "VRT": 194.32,
+        "CGNX": 55.55,
+        "COR": 331.0,
+        "TSLA": 372.22,
+        "NVDA": 210.96
+      }
     }
   },
   "channel_ids": {

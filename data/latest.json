@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-25T19:13:41.705538",
+  "generated_at": "2026-10-26T10:35:48.744810",
   "video_count": 73,
-  "stock_count": 141,
+  "stock_count": 142,
   "stocks": [
     {
       "ticker": "AAOI",
@@ -564,7 +564,7 @@
     {
       "ticker": "AMZN",
       "company_name": "Amazon",
-      "buy_count": 11,
+      "buy_count": 12,
       "avoid_count": 0,
       "first_mention_date": "27 Sep 2026",
       "price_at_first_mention": 249.67,
@@ -750,6 +750,19 @@
           "when_to_buy": "Around $250 per share with support at $243",
           "target_price": null,
           "cautions": "Free cash flow will have headwinds in near-term years due to massive capex spending, but payback occurs in 3-5 years as data centers come online and generate cash. Heavy infrastructure investment cycle requires patience."
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "The Stock Market Is About to Do the Unthinkable",
+          "url": "https://www.youtube.com/watch?v=Y6uVz67WfyQ",
+          "upload_date": "20261025",
+          "date_label": "25 Oct 2026",
+          "ticker": "AMZN",
+          "company_name": "Amazon.com Inc.",
+          "reason": "Amazon is trading at 23 forward PE, representing extremely compressed valuation. Creator is bullish on Amazon for the long term and notes it as one of the major tech holdings. It is a few points away from the 200-day moving average, presenting a potential entry point. The creator included Amazon in the group of proven tech stocks that generate cash where 'I don't think now that you can go wrong with buying.'",
+          "when_to_buy": "On approach to or touch of 200-day moving average",
+          "target_price": null,
+          "cautions": "Amazon's short-term chart is 'one of the messiest,' indicating consolidation and volatility. Creator is more bullish on medium-to-long-term positioning than near-term swing trading opportunities."
         }
       ],
       "avoids": [],
@@ -947,7 +960,7 @@
     {
       "ticker": "ARM",
       "company_name": "Arm Holdings plc",
-      "buy_count": 1,
+      "buy_count": 2,
       "avoid_count": 1,
       "first_mention_date": "02 Oct 2026",
       "price_at_first_mention": 292.34,
@@ -1003,6 +1016,19 @@
           "when_to_buy": "On breakout from current coil at EMAs",
           "target_price": null,
           "cautions": "This is a trading setup recommendation, not a long-term investment. The creator emphasized that trades require specific entries, exits, stop losses, and take-profit levels. Do not simply buy and hold without a trading plan."
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "The Stock Market Is About to Do the Unthinkable",
+          "url": "https://www.youtube.com/watch?v=Y6uVz67WfyQ",
+          "upload_date": "20261025",
+          "date_label": "25 Oct 2026",
+          "ticker": "ARM",
+          "company_name": "Arm Holdings",
+          "reason": "ARM is trading near the 200-day moving average and the creator is watching for the stock to reach the 180 level where there are equal highs that represent resistance turned potential support. Creator believes semiconductor stocks are 'almost a no-brainer' given valuations and the sector's bare market status. Once midterm volatility clears, ARM is expected to see violent bouncebacks.",
+          "when_to_buy": "Waiting for ARM to reach approximately 180 level for entry",
+          "target_price": "180 (resistance turned support level)",
+          "cautions": "ARM is in a sector (SOXX) already in a bare market and there is a chance the sector could take out the July low. Requires fundamental analysis of the company before investing."
         }
       ],
       "avoids": [
@@ -1019,6 +1045,70 @@
         }
       ],
       "description": "Licenses CPU and GPU intellectual property to semiconductor companies"
+    },
+    {
+      "ticker": "ASML",
+      "company_name": "ASML Holding N.V.",
+      "buy_count": 1,
+      "avoid_count": 0,
+      "first_mention_date": "25 Oct 2026",
+      "price_at_first_mention": 1571.8,
+      "pct_change_since_rec": 0.0,
+      "market": {
+        "ticker": "ASML",
+        "name": "ASML Holding N.V. - New York Re",
+        "currency": "USD",
+        "sector": "Technology",
+        "industry": "Semiconductor Equipment & Materials",
+        "market_cap": 605799579648,
+        "current_price": 1571.8,
+        "daily_change_pct": 0.72,
+        "month_change_pct": -8.75,
+        "week52_high": 1999.96,
+        "week52_high_date": "30 Jun 2026",
+        "week52_low": 946.11,
+        "week52_low_date": "21 Nov 2025",
+        "rsi": 35.2,
+        "rsi_label": "neutral",
+        "ma50": 1722.73,
+        "ma200": 1585.32,
+        "ma_signal": "golden_cross",
+        "pe_trailing": 38.67618,
+        "pe_forward": 25.015871,
+        "peg_ratio": 0.89,
+        "revenue_growth": 0.552,
+        "earnings_growth": 1.359,
+        "free_cashflow": 10374124544,
+        "profit_margins": 0.34135,
+        "debt_to_equity": 8.897,
+        "beta": 1.302,
+        "short_percent": 0.0038,
+        "dividend_yield": 0.58,
+        "analyst_buy": 40,
+        "analyst_hold": 3,
+        "analyst_sell": 1,
+        "analyst_target": 2149.47,
+        "analyst_upside_pct": 36.8,
+        "earnings_date": null,
+        "earnings_days": null
+      },
+      "buys": [
+        {
+          "channel": "The Traveling Trader",
+          "title": "The Stock Market Is About to Do the Unthinkable",
+          "url": "https://www.youtube.com/watch?v=Y6uVz67WfyQ",
+          "upload_date": "20261025",
+          "date_label": "25 Oct 2026",
+          "ticker": "ASML",
+          "company_name": "ASML Holding N.V.",
+          "reason": "ASML is included in the Traveling Trader portfolio and scores extremely high on the proprietary scoring system, ranking among the top holdings alongside Nvidia, Microsoft, Meta, Google, and Novo. Creator is positioned in ASML as part of the tech and semiconductor ecosystem.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": null
+        }
+      ],
+      "avoids": [],
+      "description": "Manufactures lithography systems for semiconductor chip production"
     },
     {
       "ticker": "ASTL",
@@ -1130,9 +1220,9 @@
         "daily_change_pct": 0.11,
         "month_change_pct": -0.0,
         "week52_high": 20.0,
-        "week52_high_date": "23 Oct 2026",
+        "week52_high_date": "26 Oct 2026",
         "week52_low": 20.0,
-        "week52_low_date": "23 Oct 2026",
+        "week52_low_date": "26 Oct 2026",
         "rsi": null,
         "rsi_label": null,
         "ma50": null,
@@ -1241,10 +1331,10 @@
     },
     {
       "ticker": "AVGO",
-      "company_name": "Broadcom Inc.",
+      "company_name": "Broadcom",
       "buy_count": 13,
       "avoid_count": 0,
-      "first_mention_date": "25 Sep 2026",
+      "first_mention_date": "27 Sep 2026",
       "price_at_first_mention": 352.81,
       "pct_change_since_rec": -8.8,
       "market": {
@@ -1286,19 +1376,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "CouchInvestor",
-          "title": "The Market May Be Wrong About These 2 AI Stocks",
-          "url": "https://www.youtube.com/watch?v=uFY_WUwAY7k",
-          "upload_date": "20260925",
-          "date_label": "25 Sep 2026",
-          "ticker": "AVGO",
-          "company_name": "Broadcom Inc.",
-          "reason": "Broadcom is trading at 20.5x forward earnings with a PEG ratio of 0.5, indicating valuation is not pricing in expected growth. The company is expected to grow revenue from $89 billion currently to $272 billion, with management guiding to double AI revenue to $115 billion in fiscal 2027 and then double again to $230 billion in fiscal 2028. Management is being conservative with these projections\u2014CEO Hock Tan has 2-year visibility of 30 gigawatts of compute but didn't commit all of it to the guidance, implying upside optionality. The stock has significantly underperformed year-to-date (up only 2.3%) and over 12 months (up 5%) despite the company's accelerating growth, suggesting a disconnect between valuation and fundamentals. Broadcom has strong operating margins at 48% that are expected to improve as multiple ASIC products (OpenAI platform, Anthropic platform, Meta chip) all ramp up simultaneously. The company's $1.7 trillion market cap makes it easier to achieve 2x returns compared to Nvidia's $5.4 trillion, purely from a mathematical perspective. Recent divergence from Nvidia presents a tactical opportunity, and the company has strong free cash flow enabling expanded supply chain partnerships with TSMC.",
-          "when_to_buy": "At current valuation levels during recent divergence from Nvidia; Neo suggested the 12-month outlook could see outperformance",
-          "target_price": null,
-          "cautions": "Risk of customer concentration with Anthropic and OpenAI representing over 30% of required gigawatt capacity in next 2 years; if these companies fail or cannot pay commitments, Broadcom revenue could be impacted. Risk that major customers (hyperscalers) shift back to developing their own ASIC solutions instead of purchasing from Broadcom, similar to custom ASIC risk for Nvidia. Margin expansion is dependent on multiple products ramping simultaneously, which creates execution risk. Broadcom has less clarity on revenue per gigawatt compared to Nvidia, suggesting less transparent visibility. Moderation in CapEx growth rates starting in 2028 could pressure stock valuations."
-        },
         {
           "channel": "CouchInvestor",
           "title": "I Just Bought $15,000 of a New Stock. Here's Why I Sold 3 Others",
@@ -1454,6 +1531,19 @@
           "when_to_buy": "The creator is currently dollar-cost averaging. The community portfolio bought 3 additional shares at $324.97 via good-till-cancel limit order. Recommended DCA range is approximately $300-$325, representing the red box support zone shown on the chart.",
           "target_price": "DCA range support around $300 with potential downside to $300; all-time high near $500 provides upside context",
           "cautions": "The stock is experiencing air pocket selling after parabolic rise; it can go lower. VMware acquisition issues are materially impacting the stock and sentiment. VMware customers are deeply unhappy due to aggressive post-acquisition changes by Broadcom, and VMware represents approximately 30% of revenue (infrastructure software plus Carbon Black cybersecurity). Macro risks apply if bear market or recession emerges. Do not chase into air pockets; use multiple lots with dollar-cost averaging."
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "The Stock Market Is About to Do the Unthinkable",
+          "url": "https://www.youtube.com/watch?v=Y6uVz67WfyQ",
+          "upload_date": "20261025",
+          "date_label": "25 Oct 2026",
+          "ticker": "AVGO",
+          "company_name": "Broadcom Inc.",
+          "reason": "Broadcom is mentioned as one of the semiconductor stocks the creator thinks will see violent bouncebacks once the market bounces back and clears midterm volatility. Semiconductor stocks are viewed as almost a no-brainer at current valuations given the sector is already in a bare market.",
+          "when_to_buy": "After midterm volatility clears and market begins to recover",
+          "target_price": null,
+          "cautions": "SOXX semiconductor ETF is sitting at 200-day moving average with potential to take out July lows. Sector is already in a bare market."
         }
       ],
       "avoids": [],
@@ -1629,7 +1719,7 @@
         "ma200": 325.51,
         "ma_signal": "death_cross",
         "pe_trailing": 19.00607,
-        "pe_forward": 15.538201,
+        "pe_forward": 15.515556,
         "peg_ratio": 1.26,
         "revenue_growth": 0.113,
         "earnings_growth": 0.309,
@@ -3200,70 +3290,6 @@
       "description": "Provides scheduled air transportation for passengers and cargo"
     },
     {
-      "ticker": "DDOG",
-      "company_name": "Datadog",
-      "buy_count": 1,
-      "avoid_count": 0,
-      "first_mention_date": "25 Sep 2026",
-      "price_at_first_mention": 268.13,
-      "pct_change_since_rec": 0.6,
-      "market": {
-        "ticker": "DDOG",
-        "name": "Datadog, Inc.",
-        "currency": "USD",
-        "sector": "Technology",
-        "industry": "Software - Application",
-        "market_cap": 96824573952,
-        "current_price": 269.65,
-        "daily_change_pct": 4.62,
-        "month_change_pct": 4.95,
-        "week52_high": 300.68,
-        "week52_high_date": "12 Oct 2026",
-        "week52_low": 98.01,
-        "week52_low_date": "24 Feb 2026",
-        "rsi": 53.2,
-        "rsi_label": "neutral",
-        "ma50": 248.75,
-        "ma200": 194.79,
-        "ma_signal": "golden_cross",
-        "pe_trailing": 539.3,
-        "pe_forward": 90.35135,
-        "peg_ratio": 1.4,
-        "revenue_growth": 0.356,
-        "earnings_growth": 14.985,
-        "free_cashflow": 1051412352,
-        "profit_margins": 0.044770002,
-        "debt_to_equity": 29.259,
-        "beta": 1.512,
-        "short_percent": 0.0326,
-        "dividend_yield": 0.0,
-        "analyst_buy": 42,
-        "analyst_hold": 3,
-        "analyst_sell": 2,
-        "analyst_target": 293.0,
-        "analyst_upside_pct": 8.7,
-        "earnings_date": null,
-        "earnings_days": null
-      },
-      "buys": [
-        {
-          "channel": "FinTek",
-          "title": "Top Big Data Stock to BUY NOW",
-          "url": "https://www.youtube.com/watch?v=-U0IPMam-xY",
-          "upload_date": "20260925",
-          "date_label": "25 Sep 2026",
-          "ticker": "DDOG",
-          "company_name": "Datadog",
-          "reason": "Datadog focuses on observability and security. In their most recent quarter, the company grew revenue 36% year-over-year and added almost 900 new customers spending over $100,000 per year, representing high-value recurring revenue. Datadog was labeled as a leader in the Gartner Magic Quadrant for observability, ahead of competitors Dynatrace and Grafana Labs. The creator currently owns 146 shares valued at $34,000, up approximately 80%.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": null
-        }
-      ],
-      "avoids": [],
-      "description": "Provides cloud monitoring and security observability platform"
-    },
-    {
       "ticker": "DELL",
       "company_name": "Dell Technologies Inc.",
       "buy_count": 4,
@@ -3649,7 +3675,7 @@
         "ma200": 938.35,
         "ma_signal": "golden_cross",
         "pe_trailing": 23.365826,
-        "pe_forward": 32.2513,
+        "pe_forward": 32.35245,
         "peg_ratio": 1.59,
         "revenue_growth": 0.219,
         "earnings_growth": 0.328,
@@ -3752,7 +3778,7 @@
     {
       "ticker": "GOOGL",
       "company_name": "Alphabet",
-      "buy_count": 19,
+      "buy_count": 20,
       "avoid_count": 0,
       "first_mention_date": "27 Sep 2026",
       "price_at_first_mention": 343.92,
@@ -4042,6 +4068,19 @@
           "when_to_buy": "Current level of $320, with buying zone below $342 overhead resistance",
           "target_price": "$335-$340 on positive earnings",
           "cautions": "Capex spending is a key focus; free cash flow expected to be negative in the near term due to AI infrastructure investments. Earnings reaction will be critical."
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "The Stock Market Is About to Do the Unthinkable",
+          "url": "https://www.youtube.com/watch?v=Y6uVz67WfyQ",
+          "upload_date": "20261025",
+          "date_label": "25 Oct 2026",
+          "ticker": "GOOGL",
+          "company_name": "Alphabet Inc.",
+          "reason": "Google is sitting at support around the 315 level even though it lost the 200-day moving average. Trading at 24 forward PE, which the creator describes as an insane valuation for one of the best companies to ever exist. Google is the best-scored stock in the Traveling Trader proprietary scoring system, ranking higher than Nvidia, Microsoft, and Meta. The creator is bullish on Google for long-term positioning and plans to provide detailed fundamental analysis in upcoming videos.",
+          "when_to_buy": "At current support levels around 315; creator expects this to be an attractive entry point",
+          "target_price": null,
+          "cautions": "Google reports earnings this coming week, which introduces near-term event risk. Stock recently lost its 200-day moving average, though it remains at key support."
         }
       ],
       "avoids": [],
@@ -4512,7 +4551,7 @@
         "ma200": 85.81,
         "ma_signal": "golden_cross",
         "pe_trailing": null,
-        "pe_forward": 41.1682,
+        "pe_forward": 40.8833,
         "peg_ratio": 1.36,
         "revenue_growth": 0.254,
         "earnings_growth": null,
@@ -5411,7 +5450,7 @@
     {
       "ticker": "META",
       "company_name": "Meta Platforms",
-      "buy_count": 20,
+      "buy_count": 21,
       "avoid_count": 1,
       "first_mention_date": "27 Sep 2026",
       "price_at_first_mention": 751.66,
@@ -5436,7 +5475,7 @@
         "ma200": 631.66,
         "ma_signal": "golden_cross",
         "pe_trailing": 21.92494,
-        "pe_forward": 18.455109,
+        "pe_forward": 18.33438,
         "peg_ratio": 0.85,
         "revenue_growth": 0.261,
         "earnings_growth": 2.648,
@@ -5449,8 +5488,8 @@
         "analyst_buy": 55,
         "analyst_hold": 7,
         "analyst_sell": 0,
-        "analyst_target": 844.26,
-        "analyst_upside_pct": 31.4,
+        "analyst_target": 844.77,
+        "analyst_upside_pct": 31.5,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -5714,6 +5753,19 @@
           "when_to_buy": "$630-$645 buying zone; stock recently at $642",
           "target_price": "$700+ levels possible if it clears $663 resistance",
           "cautions": "Stock is under pressure despite strong fundamentals; near-term volatility likely. Free cash flow despite capex is positive but needs to be monitored."
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "The Stock Market Is About to Do the Unthinkable",
+          "url": "https://www.youtube.com/watch?v=Y6uVz67WfyQ",
+          "upload_date": "20261025",
+          "date_label": "25 Oct 2026",
+          "ticker": "META",
+          "company_name": "Meta Platforms Inc.",
+          "reason": "Meta is sitting at support and currently trading at 18 forward PE, which the creator describes as wild valuation for one of the best companies on planet Earth. Although Meta recently fell into negative free cash flows for the first time since 2012, the creator views this as an asymmetric opportunity because these companies can essentially turn on free cash flows whenever they want once they stop spending. Meta scores extremely high on the Traveling Trader proprietary scoring system. The creator explicitly states 'I don't think now that you can go wrong with buying any of the proven tech stocks that generate cash' and included Meta in this group.",
+          "when_to_buy": "At current levels; creator is actively looking to position in Meta",
+          "target_price": null,
+          "cautions": "Meta recently reported negative free cash flows for the first time since 2012, which the market dislikes. However, creator views this as temporary and expects recovery once the company resumes normal spending discipline."
         }
       ],
       "avoids": [
@@ -5798,7 +5850,7 @@
     {
       "ticker": "MRVL",
       "company_name": "Marvell Technology Inc.",
-      "buy_count": 5,
+      "buy_count": 6,
       "avoid_count": 0,
       "first_mention_date": "02 Oct 2026",
       "price_at_first_mention": 268.08,
@@ -5906,6 +5958,19 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": "Marvell is 'probably one of the more expensive plays' with a forward P/E ratio of approximately 49 for fiscal 2027. High valuation leaves limited margin for error. The creator acknowledges execution risk and notes that 'if the opportunity is real and they follow suit with the numbers...this is just the beginning,' suggesting the stock prices in significant success."
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "The Stock Market Is About to Do the Unthinkable",
+          "url": "https://www.youtube.com/watch?v=Y6uVz67WfyQ",
+          "upload_date": "20261025",
+          "date_label": "25 Oct 2026",
+          "ticker": "MRVL",
+          "company_name": "Marvell Technology Inc.",
+          "reason": "Marvell is mentioned as a semiconductor stock with attractive buyable levels. Creator is watching the stock at the 200-day moving average and expects violent bouncebacks once midterm volatility clears and market enters recovery phase. Semiconductor sector valuations are compressed and represent asymmetrical opportunities.",
+          "when_to_buy": "At 200-day moving average support; after midterm volatility clears",
+          "target_price": null,
+          "cautions": "Marvell is in the semiconductor sector which is already in a bare market with potential downside to July lows. On watch list pending further weakness."
         }
       ],
       "avoids": [],
@@ -5914,7 +5979,7 @@
     {
       "ticker": "MSFT",
       "company_name": "Microsoft Corporation",
-      "buy_count": 4,
+      "buy_count": 5,
       "avoid_count": 0,
       "first_mention_date": "08 Oct 2026",
       "price_at_first_mention": 529.76,
@@ -5939,7 +6004,7 @@
         "ma200": 435.37,
         "ma_signal": "golden_cross",
         "pe_trailing": 29.220612,
-        "pe_forward": 22.127527,
+        "pe_forward": 22.128946,
         "peg_ratio": 1.7,
         "revenue_growth": 0.177,
         "earnings_growth": 0.317,
@@ -6009,6 +6074,19 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": "Critical to see Azure growth acceleration and capex trajectory. Free cash flow generation during heavy AI capex cycle is a competitive advantage."
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "The Stock Market Is About to Do the Unthinkable",
+          "url": "https://www.youtube.com/watch?v=Y6uVz67WfyQ",
+          "upload_date": "20261025",
+          "date_label": "25 Oct 2026",
+          "ticker": "MSFT",
+          "company_name": "Microsoft Corporation",
+          "reason": "Microsoft has created a triple top at all-time highs and is one of the major tech holdings making up most of the NASDAQ. At less than 20 forward PE (down from above 30), the valuation is extremely compressed. Microsoft scores extremely high on the Traveling Trader proprietary scoring system and generates strong cash flows. The creator is positioning to buy proven tech stocks that generate cash at these depressed valuations.",
+          "when_to_buy": "On further weakness; creator suggests any additional NASDAQ declines of 2-3% would present asymmetrical opportunities",
+          "target_price": null,
+          "cautions": "Currently at all-time highs with potential for further consolidation. Creator noted the short-term chart shows some resistance at current levels."
         }
       ],
       "avoids": [],
@@ -6660,6 +6738,31 @@
       "description": "Provides full-stack GPU cloud infrastructure for AI applications"
     },
     {
+      "ticker": "NEOCLOUDS",
+      "company_name": "Neo-Cloud stocks (sector, not specific ticker)",
+      "buy_count": 0,
+      "avoid_count": 1,
+      "first_mention_date": "25 Oct 2026",
+      "price_at_first_mention": null,
+      "pct_change_since_rec": null,
+      "market": null,
+      "buys": [],
+      "avoids": [
+        {
+          "channel": "The Traveling Trader",
+          "title": "The Stock Market Is About to Do the Unthinkable",
+          "url": "https://www.youtube.com/watch?v=Y6uVz67WfyQ",
+          "upload_date": "20261025",
+          "date_label": "25 Oct 2026",
+          "ticker": "NEOCLOUDS",
+          "company_name": "Neo-Cloud stocks (sector, not specific ticker)",
+          "reason": "Creator stated 'Neoclouds are not my favorite type of investment' and 'I personally am not invested in neoclouds for the long term.' These are AI infrastructure buildout stocks that rallied significantly even while the broader market was not performing well. They have now experienced significant valuation destruction and broken down after their euphoric rally. However, creator notes their destruction and valuation 'becomes too risky to ignore at least in the midterm,' suggesting extremely depressed valuations may eventually create opportunity.",
+          "risk": "Valuation destruction and sector-wide breakdown after euphoric rally phase. These stocks rallied without corresponding broad market strength, suggesting speculative excess."
+        }
+      ],
+      "description": null
+    },
+    {
       "ticker": "NET",
       "company_name": "Cloudflare",
       "buy_count": 1,
@@ -6778,7 +6881,7 @@
         "ma200": 82.27,
         "ma_signal": "death_cross",
         "pe_trailing": 19.031792,
-        "pe_forward": 17.47055,
+        "pe_forward": 17.471663,
         "peg_ratio": 1.04,
         "revenue_growth": 0.118,
         "earnings_growth": 0.475,
@@ -7218,10 +7321,10 @@
     },
     {
       "ticker": "NVDA",
-      "company_name": "Nvidia Corporation",
-      "buy_count": 20,
+      "company_name": "Nvidia",
+      "buy_count": 21,
       "avoid_count": 1,
-      "first_mention_date": "25 Sep 2026",
+      "first_mention_date": "27 Sep 2026",
       "price_at_first_mention": 225.07,
       "pct_change_since_rec": -6.3,
       "market": {
@@ -7263,19 +7366,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "CouchInvestor",
-          "title": "The Market May Be Wrong About These 2 AI Stocks",
-          "url": "https://www.youtube.com/watch?v=uFY_WUwAY7k",
-          "upload_date": "20260925",
-          "date_label": "25 Sep 2026",
-          "ticker": "NVDA",
-          "company_name": "Nvidia Corporation",
-          "reason": "Nvidia is trading at 18.7x forward earnings with a PEG ratio of 0.5, indicating attractive valuation despite expected growth. CEO Jensen Huang stated the company will grow at least 70% next year, which is described as the floor with ceiling potentially near 100%. Nvidia has a $5.4 trillion market cap and dominates across multiple AI applications including data center training, inference, autonomous vehicles, robotics, physical AI, and edge computing. The company provides clear revenue per gigawatt metrics (approximately 40 gigawatts generating roughly $1.6 trillion in potential revenue). Nvidia has new revenue streams opening up through partnerships with cloud players with revenue-sharing models, and maintains superior margins at 65.2% operating margin. The stock has shown consistent correlation with Broadcom but recently outperformed, suggesting continued strength. Jose concluded that while both stocks are attractive, Nvidia has more visible opportunities and broader exposure to emerging AI markets, making it the preferred choice if forced to pick one stock.",
-          "when_to_buy": "At current valuation levels; no specific price target mentioned but discussed as attractive at current prices",
-          "target_price": null,
-          "cautions": "Risk of custom ASIC development by major customers (hyperscalers building their own chips) could cannibalize demand. Gross margins expected to compress in near-term due to high memory costs but should recover in 12-18 months as supply comes online. CapEx growth rates expected to moderate in 2028, which could create negative headline pressure even though absolute dollar growth continues. Concentration risk exists with major customers like Anthropic and OpenAI, though hyperscalers represent the larger portion of commitments."
-        },
         {
           "channel": "CouchInvestor",
           "title": "I Just Bought $15,000 of a New Stock. Here's Why I Sold 3 Others",
@@ -7522,6 +7612,32 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": null
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "The Stock Market Is About to Do the Unthinkable",
+          "url": "https://www.youtube.com/watch?v=Y6uVz67WfyQ",
+          "upload_date": "20261025",
+          "date_label": "25 Oct 2026",
+          "ticker": "NVDA",
+          "company_name": "Nvidia Corporation",
+          "reason": "Nvidia is sitting right on the 100-day moving average after crushing earnings with a record year. The creator is bullish on tech stocks given the compressed valuations and notes that information technology is currently trading at less than 20 forward PE, down from above 30 just a few months ago. Tech stocks represent an asymmetrical buying opportunity at current levels, and Nvidia scores extremely high on the Traveling Trader proprietary scoring system.",
+          "when_to_buy": "On any additional dips; creator expects potential 2-3% further decline in NASDAQ which would represent entry opportunity",
+          "target_price": null,
+          "cautions": "Nvidia is exposed to AI capex trends and semiconductor sector volatility. The semiconductor index was down nearly 7% in recent trading, indicating sector-wide weakness."
+        },
+        {
+          "channel": "Jose Najarro Stocks",
+          "title": "We Think Wall Street Is Getting the AI Stock Selloff Wrong",
+          "url": "https://www.youtube.com/watch?v=WCBrbbiIGKA",
+          "upload_date": "20261026",
+          "date_label": "26 Oct 2026",
+          "ticker": "NVDA",
+          "company_name": "Nvidia Corporation",
+          "reason": "Nvidia is positioned as one of the best players to reduce financing fear in the AI ecosystem through multiple levers. First, the DGX pod (factory-integrated modular AI infrastructure) shortens deployment from 6 months to as little as 14 days, reducing the period where invested capital doesn't earn revenue and lowering lender risk. Second, Nvidia created a financing platform with major capital partners (Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, KKR) targeted to mobilize over $500 billion in third-party capital, reducing borrowing costs for AI infrastructure developers. Third, Nvidia provides revenue commitments and backstops for selected capacity projects. The creator believes these initiatives are meaningful for reducing overall ecosystem risk and improving the success rate of AI infrastructure buildout. Nvidia is also seeing sustained demand upstream in the supply chain with companies like Lambda Research reporting continued demand for chips and equipment.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": "The DGX pod deployment benefits are not yet proven in practice\u2014the creator states 'this is just a thought, it's not something that we can actually prove that is happening right now.' The financing platform is pledged capital that may not be fully deployed, and Nvidia is not making loans itself but facilitating third-party capital. Success depends on whether the underlying AI demand materializes and whether borrowers can actually generate returns."
         }
       ],
       "avoids": [
@@ -7566,8 +7682,8 @@
         "ma50": 41.9,
         "ma200": 43.8,
         "ma_signal": "death_cross",
-        "pe_trailing": 9.188235,
-        "pe_forward": 11.392766,
+        "pe_trailing": 9.547677,
+        "pe_forward": 11.353192,
         "peg_ratio": 4.36,
         "revenue_growth": 0.021,
         "earnings_growth": -0.206,
@@ -7580,8 +7696,8 @@
         "analyst_buy": 4,
         "analyst_hold": 10,
         "analyst_sell": 0,
-        "analyst_target": 45.21,
-        "analyst_upside_pct": 15.8,
+        "analyst_target": 45.14,
+        "analyst_upside_pct": 15.6,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -7902,8 +8018,8 @@
         "analyst_buy": 11,
         "analyst_hold": 2,
         "analyst_sell": 0,
-        "analyst_target": 24.23,
-        "analyst_upside_pct": 61.3,
+        "analyst_target": 24.18,
+        "analyst_upside_pct": 61.0,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -8678,8 +8794,8 @@
         "analyst_buy": 27,
         "analyst_hold": 2,
         "analyst_sell": 0,
-        "analyst_target": 153.79,
-        "analyst_upside_pct": 106.1,
+        "analyst_target": 152.9,
+        "analyst_upside_pct": 104.9,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -8962,7 +9078,7 @@
         "ma200": 18.05,
         "ma_signal": "death_cross",
         "pe_trailing": 29.82653,
-        "pe_forward": 17.723959,
+        "pe_forward": 17.767054,
         "peg_ratio": 0.52,
         "revenue_growth": 0.426,
         "earnings_growth": 0.404,

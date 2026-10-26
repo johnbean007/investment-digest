@@ -30176,6 +30176,182 @@
         "TSLA": 372.22,
         "NVDA": 210.96
       }
+    },
+    "Y6uVz67WfyQ": {
+      "channel": "The Traveling Trader",
+      "title": "The Stock Market Is About to Do the Unthinkable",
+      "upload_date": "20261025",
+      "url": "https://www.youtube.com/watch?v=Y6uVz67WfyQ",
+      "processed_at": "2026-10-26T10:31:15.912703",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Nvidia is sitting right on the 100-day moving average after crushing earnings with a record year. The creator is bullish on tech stocks given the compressed valuations and notes that information technology is currently trading at less than 20 forward PE, down from above 30 just a few months ago. Tech stocks represent an asymmetrical buying opportunity at current levels, and Nvidia scores extremely high on the Traveling Trader proprietary scoring system.",
+            "when_to_buy": "On any additional dips; creator expects potential 2-3% further decline in NASDAQ which would represent entry opportunity",
+            "target_price": null,
+            "cautions": "Nvidia is exposed to AI capex trends and semiconductor sector volatility. The semiconductor index was down nearly 7% in recent trading, indicating sector-wide weakness."
+          },
+          {
+            "ticker": "MSFT",
+            "company_name": "Microsoft Corporation",
+            "reason": "Microsoft has created a triple top at all-time highs and is one of the major tech holdings making up most of the NASDAQ. At less than 20 forward PE (down from above 30), the valuation is extremely compressed. Microsoft scores extremely high on the Traveling Trader proprietary scoring system and generates strong cash flows. The creator is positioning to buy proven tech stocks that generate cash at these depressed valuations.",
+            "when_to_buy": "On further weakness; creator suggests any additional NASDAQ declines of 2-3% would present asymmetrical opportunities",
+            "target_price": null,
+            "cautions": "Currently at all-time highs with potential for further consolidation. Creator noted the short-term chart shows some resistance at current levels."
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms Inc.",
+            "reason": "Meta is sitting at support and currently trading at 18 forward PE, which the creator describes as wild valuation for one of the best companies on planet Earth. Although Meta recently fell into negative free cash flows for the first time since 2012, the creator views this as an asymmetric opportunity because these companies can essentially turn on free cash flows whenever they want once they stop spending. Meta scores extremely high on the Traveling Trader proprietary scoring system. The creator explicitly states 'I don't think now that you can go wrong with buying any of the proven tech stocks that generate cash' and included Meta in this group.",
+            "when_to_buy": "At current levels; creator is actively looking to position in Meta",
+            "target_price": null,
+            "cautions": "Meta recently reported negative free cash flows for the first time since 2012, which the market dislikes. However, creator views this as temporary and expects recovery once the company resumes normal spending discipline."
+          },
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet Inc.",
+            "reason": "Google is sitting at support around the 315 level even though it lost the 200-day moving average. Trading at 24 forward PE, which the creator describes as an insane valuation for one of the best companies to ever exist. Google is the best-scored stock in the Traveling Trader proprietary scoring system, ranking higher than Nvidia, Microsoft, and Meta. The creator is bullish on Google for long-term positioning and plans to provide detailed fundamental analysis in upcoming videos.",
+            "when_to_buy": "At current support levels around 315; creator expects this to be an attractive entry point",
+            "target_price": null,
+            "cautions": "Google reports earnings this coming week, which introduces near-term event risk. Stock recently lost its 200-day moving average, though it remains at key support."
+          },
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon.com Inc.",
+            "reason": "Amazon is trading at 23 forward PE, representing extremely compressed valuation. Creator is bullish on Amazon for the long term and notes it as one of the major tech holdings. It is a few points away from the 200-day moving average, presenting a potential entry point. The creator included Amazon in the group of proven tech stocks that generate cash where 'I don't think now that you can go wrong with buying.'",
+            "when_to_buy": "On approach to or touch of 200-day moving average",
+            "target_price": null,
+            "cautions": "Amazon's short-term chart is 'one of the messiest,' indicating consolidation and volatility. Creator is more bullish on medium-to-long-term positioning than near-term swing trading opportunities."
+          },
+          {
+            "ticker": "ASML",
+            "company_name": "ASML Holding N.V.",
+            "reason": "ASML is included in the Traveling Trader portfolio and scores extremely high on the proprietary scoring system, ranking among the top holdings alongside Nvidia, Microsoft, Meta, Google, and Novo. Creator is positioned in ASML as part of the tech and semiconductor ecosystem.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "ARM",
+            "company_name": "Arm Holdings",
+            "reason": "ARM is trading near the 200-day moving average and the creator is watching for the stock to reach the 180 level where there are equal highs that represent resistance turned potential support. Creator believes semiconductor stocks are 'almost a no-brainer' given valuations and the sector's bare market status. Once midterm volatility clears, ARM is expected to see violent bouncebacks.",
+            "when_to_buy": "Waiting for ARM to reach approximately 180 level for entry",
+            "target_price": "180 (resistance turned support level)",
+            "cautions": "ARM is in a sector (SOXX) already in a bare market and there is a chance the sector could take out the July low. Requires fundamental analysis of the company before investing."
+          },
+          {
+            "ticker": "AVGO",
+            "company_name": "Broadcom Inc.",
+            "reason": "Broadcom is mentioned as one of the semiconductor stocks the creator thinks will see violent bouncebacks once the market bounces back and clears midterm volatility. Semiconductor stocks are viewed as almost a no-brainer at current valuations given the sector is already in a bare market.",
+            "when_to_buy": "After midterm volatility clears and market begins to recover",
+            "target_price": null,
+            "cautions": "SOXX semiconductor ETF is sitting at 200-day moving average with potential to take out July lows. Sector is already in a bare market."
+          },
+          {
+            "ticker": "MRVL",
+            "company_name": "Marvell Technology Inc.",
+            "reason": "Marvell is mentioned as a semiconductor stock with attractive buyable levels. Creator is watching the stock at the 200-day moving average and expects violent bouncebacks once midterm volatility clears and market enters recovery phase. Semiconductor sector valuations are compressed and represent asymmetrical opportunities.",
+            "when_to_buy": "At 200-day moving average support; after midterm volatility clears",
+            "target_price": null,
+            "cautions": "Marvell is in the semiconductor sector which is already in a bare market with potential downside to July lows. On watch list pending further weakness."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "NEOCLOUDS",
+            "company_name": "Neo-Cloud stocks (sector, not specific ticker)",
+            "reason": "Creator stated 'Neoclouds are not my favorite type of investment' and 'I personally am not invested in neoclouds for the long term.' These are AI infrastructure buildout stocks that rallied significantly even while the broader market was not performing well. They have now experienced significant valuation destruction and broken down after their euphoric rally. However, creator notes their destruction and valuation 'becomes too risky to ignore at least in the midterm,' suggesting extremely depressed valuations may eventually create opportunity.",
+            "risk": "Valuation destruction and sector-wide breakdown after euphoric rally phase. These stocks rallied without corresponding broad market strength, suggesting speculative excess."
+          }
+        ],
+        "key_warnings": [
+          "NASDAQ may experience a third 3-10% correction in the same year; currently down 7% from all-time highs. Historical precedent shows this has only happened 5 times: 1987, 2002, 2008, 2022 (all bare markets) and 1999 (not in bare market). While this could signal a bare market, creator attributes current volatility to pre-midterm seasonality rather than fundamental deterioration.",
+          "Semiconductor sector is already in a bare market with SOXX sitting at 200-day moving average and potential to take out July 2025 lows. This represents sector-wide weakness despite individual stock valuations being attractive.",
+          "Treasury yields may have peaked: 10-year yield dropped below 5% for the first time since September despite geopolitical tension with Iran spiking oil prices. Declining yields even amid bad news suggests bond market is pricing in less catastrophe than stock market is currently pricing in volatility for. This is typically a positive contrarian signal.",
+          "AI infrastructure buildout stocks (neocloud stocks) experienced euphoric rallies and speculative excess before breaking down sharply in valuation. While depressed valuations may eventually create opportunity, creator is not currently invested in this sector for the long term.",
+          "Breadth is improving but was extremely weak through early October. NASDAQ stocks above 100-day moving average and S&P 500 stocks above major moving averages are only now trailing back into positive territory after months of deterioration. This suggests market recovery is just beginning and current environment remains fragile.",
+          "Swing trading environment is unfavorable: Creator stated 'I still think this is not a swing-friendly environment' and opted for long-term positioning instead. Market is grinding lower daily with elevated uncertainty around FOMC, midterms, earnings, and Treasury refunding (November 4th). Wait for clearer directional bias before increasing swing trade activity."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "AAPL",
+          "MSFT",
+          "MU",
+          "AMZN",
+          "AMD",
+          "TSLA",
+          "META",
+          "GOOGL",
+          "XLK",
+          "QQQ",
+          "SPY",
+          "SOXX",
+          "ARM",
+          "AVGO",
+          "MRVL",
+          "ASML",
+          "V",
+          "MA",
+          "LLY",
+          "XOM",
+          "NSDQ",
+          "NEOCLOUDS"
+        ]
+      },
+      "price_at_recommendation": {
+        "MSFT": 524.51,
+        "MRVL": 228.51,
+        "GOOGL": 320.21,
+        "AMZN": 248.0,
+        "AVGO": 321.68,
+        "ARM": 210.33,
+        "META": 642.62,
+        "ASML": 1571.8,
+        "NVDA": 210.96
+      }
+    },
+    "WCBrbbiIGKA": {
+      "channel": "Jose Najarro Stocks",
+      "title": "We Think Wall Street Is Getting the AI Stock Selloff Wrong",
+      "upload_date": "20261026",
+      "url": "https://www.youtube.com/watch?v=WCBrbbiIGKA",
+      "processed_at": "2026-10-26T10:31:36.911158",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Nvidia is positioned as one of the best players to reduce financing fear in the AI ecosystem through multiple levers. First, the DGX pod (factory-integrated modular AI infrastructure) shortens deployment from 6 months to as little as 14 days, reducing the period where invested capital doesn't earn revenue and lowering lender risk. Second, Nvidia created a financing platform with major capital partners (Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, KKR) targeted to mobilize over $500 billion in third-party capital, reducing borrowing costs for AI infrastructure developers. Third, Nvidia provides revenue commitments and backstops for selected capacity projects. The creator believes these initiatives are meaningful for reducing overall ecosystem risk and improving the success rate of AI infrastructure buildout. Nvidia is also seeing sustained demand upstream in the supply chain with companies like Lambda Research reporting continued demand for chips and equipment.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The DGX pod deployment benefits are not yet proven in practice\u2014the creator states 'this is just a thought, it's not something that we can actually prove that is happening right now.' The financing platform is pledged capital that may not be fully deployed, and Nvidia is not making loans itself but facilitating third-party capital. Success depends on whether the underlying AI demand materializes and whether borrowers can actually generate returns."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "AI infrastructure financing risk is real and intensifying. While AI demand remains strong, the market is now pricing in significant execution risk around whether NeoClouds and AI infrastructure developers can secure financing and complete buildouts before revenue generation. Elon Musk has publicly warned about compute being stranded in unfinished data centers and argued that firms without substantial non-AI revenue streams are struggling to access debt financing.",
+          "Overbuild risk in AI data centers. SemiAnalysis reports over 24 gigawatts across 40 selected campuses in advanced construction with most coming online in 2027, potentially reaching 50 gigawatts of power by 2027. The market is questioning whether this represents healthy capacity planning or dangerous overinvestment that could collapse GPU pricing and make projects uneconomical.",
+          "Timing and execution risk in infrastructure buildout. Even companies with genuine demand face multi-year delays in bringing capacity online due to permitting, construction, power, cooling, and networking requirements. If AI demand patterns shift or weaken during this 1-3 year buildout period, projects could become uneconomical and refinancing could become impossible at reasonable rates.",
+          "Debt cost inflation is a real headwind. Interest rates on AI infrastructure debt have risen from 8% to 10%+ levels. While the creator argues this doesn't automatically break the thesis if GPU pricing and demand remain strong, it does compress margins and increases the cash flow burden on NeoClouds, making survival harder for marginal players.",
+          "Free cash flow remains deeply negative for major AI spenders. Meta reported negative $2 billion free cash flow despite $32.7 billion operating cash flow due to $34.9 billion capex spending. While the creator believes this is temporary and will reverse as revenue grows faster than capex, the market is rightfully questioning whether this pattern persists longer than expected.",
+          "GPU pricing sustainability is uncertain. The entire bull case depends on sustained or rising GPU utilization rates and pricing. If efficiency improvements reduce compute demand faster than expected, or if oversupply emerges, GPU pricing could collapse, breaking the economics for highly leveraged NeoClouds and dramatically reducing semiconductor demand.",
+          "A NeoClouds shakeout is likely. The creator agrees with Elon Musk that smaller AI infrastructure developers without diversified revenue sources and strong balance sheets will likely fail to secure financing or complete buildouts. While this may benefit stronger players like SpaceX, it creates significant idiosyncratic risk for individual NeoClouds and AI infrastructure companies."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "META",
+          "LRCX",
+          "COREWEAVE",
+          "NEBIA",
+          "RNAI",
+          "APLD"
+        ]
+      },
+      "price_at_recommendation": {
+        "NVDA": 210.96
+      }
     }
   },
   "channel_ids": {
@@ -30187,6 +30363,6 @@
     "JoseNajarroStocks": "UC5cEHfCr6WOE1R1zcohd1IA",
     "FinTek": "UCxdWHEhEPiYhCADMrn4PdhQ"
   },
-  "last_eval_week": "2026-W43",
+  "last_eval_week": "2026-W44",
   "alerts": {}
 }

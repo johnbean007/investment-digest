@@ -30478,6 +30478,47 @@
         "SOFI": 14.5,
         "NU": 12.32
       }
+    },
+    "mghr6EDaL30": {
+      "channel": "CouchInvestor",
+      "title": "SOFI Q3 EARNINGS REPORT/CALL | GUIDANCE RAISED?",
+      "upload_date": "20261026",
+      "url": "https://www.youtube.com/watch?v=mghr6EDaL30",
+      "processed_at": "2026-10-26T22:24:42.246864",
+      "transcript_fails": 1,
+      "last_reason": "error"
+    },
+    "lbF1dMRllI4": {
+      "channel": "Daniel Pronk",
+      "title": "Anthropic Just Saved The AI Trade - Here's What You Need To Know",
+      "upload_date": "20261026",
+      "url": "https://www.youtube.com/watch?v=lbF1dMRllI4",
+      "processed_at": "2026-10-26T22:24:54.553774",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [
+          {
+            "ticker": "ANTHROPIC",
+            "company_name": "Anthropic",
+            "reason": "While Anthropic is financially healthy with $130 billion in liquid assets, profitable operations, and exceptional 31x revenue growth over five quarters, the creator explicitly states he is not looking to invest in the business or buy its IPO. The valuation is extremely high at 30-40x annualized revenue, which is a very high price to pay for any business. Additionally, 80% of revenue is consumption-based and could be at risk if AI models become commoditized. The company has approximately $800 billion worth of future spending commitments extending to 2036 that it must pay regardless of actual usage, representing a massive bet that Anthropic will remain a winner in AI for the next decade\u2014a bet the creator is unwilling to place.",
+            "risk": "Valuation risk: Trading at 30-40x annualized revenue. Revenue concentration risk: 80% of revenue is consumption-based and vulnerable to commoditization. Execution risk: Company must meet $800 billion in future compute spending commitments through 2036 or face severe financial stress. Model competition risk: If competitors gain market share or adoption slows, consumption-based revenue could decline sharply while fixed commitments remain."
+          }
+        ],
+        "key_warnings": [
+          "Hyperscaler stocks (Google Cloud, AWS, Microsoft Azure) are selling off following Anthropic's S1 filing because their revenue backlogs are heavily dependent on Anthropic's future spending commitments. Over $100 billion of Google's cloud backlog, $110 billion from Amazon, and $50 billion from Microsoft are tied to Anthropic, but the actual business profitability and demand for these services from Anthropic through 2030 and beyond remains highly speculative and uncertain.",
+          "AI industry funding sustainability concerns: While Anthropic's S1 demonstrates the company is profitable and cash-flow positive, the broader AI industry's massive spending commitments ($800 billion+ in Anthropic's case alone) hinge on uncertain ROI realization and continued model differentiation. If commoditization accelerates or enterprise AI adoption slows, the entire ecosystem's ability to justify these infrastructure investments could be questioned.",
+          "Consumption-based revenue model risk: Anthropic's revenue model is 80% consumption-based, making it volatile and vulnerable to customer churn, model commoditization, or competitive displacement. Unlike subscription revenue, this revenue can evaporate quickly if customers switch to cheaper competitors or reduce AI spending."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "FORINET",
+          "UBNT",
+          "MA",
+          "SNDK",
+          "MU"
+        ]
+      },
+      "price_at_recommendation": {}
     }
   },
   "channel_ids": {
@@ -30490,5 +30531,7 @@
     "FinTek": "UCxdWHEhEPiYhCADMrn4PdhQ"
   },
   "last_eval_week": "2026-W44",
-  "alerts": {}
+  "alerts": {
+    "fallback": "2026-10-26T22:24:59.370702"
+  }
 }

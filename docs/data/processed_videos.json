@@ -30408,6 +30408,76 @@
       "price_at_recommendation": {
         "KSPI": 90.75
       }
+    },
+    "B7qSvzcSMNc": {
+      "channel": "CouchInvestor",
+      "title": "I'll Buy or Sell SoFi After Earnings. Here's What Decides It",
+      "upload_date": "20261026",
+      "url": "https://www.youtube.com/watch?v=B7qSvzcSMNc",
+      "processed_at": "2026-10-26T17:01:08.656041",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "SOFI",
+            "company_name": "SoFi Technologies Inc.",
+            "reason": "The creator expects SoFi to report strong Q3 earnings, continuing a pattern of beating analyst estimates across revenue, EPS, and EBITDA metrics. The company is growing at 35% adjusted revenue growth this year with 25.3% expected next year, yet the stock has declined 50% year-to-date, representing an extreme overreaction driven by macro sentiment. Based on DCF analysis with conservative assumptions (30% compounded growth for 2.5 years), the stock has 51.3% upside with a base case valuation of $22.80. Management has also been buying shares at higher prices, signaling confidence. The creator states the stock is 'extremely undervalued' and plans to buy more shares if management provides strong guidance assurances and an excellent earnings report.",
+            "when_to_buy": "After earnings report next week if management provides strong forward guidance and assurances that the business can still meet targets despite the macro environment. Creator also advises letting 'huge sentiment and overreaction cool down a little bit' before deciding.",
+            "target_price": "Base case: $22.80 per share; Bull case: $28 per share; Bear case: $10 per share (assigned 20% probability)",
+            "cautions": "Stock has experienced a 55% drawdown from peak and is currently trading under $15. The key risk is if management cannot deliver on mid-term growth targets or if the high interest rate environment significantly impacts business fundamentals worse than expected. Macro sentiment is extremely negative. Creator notes the valuation was excessive at $30 per share earlier in the year."
+          },
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Described as a 'world-class company, world-class management that continues to execute correctly' in the context of data center and AI infrastructure. The creator uses Nvidia as an example of a good company that will succeed despite competitive pressures and fear-mongering from other market participants.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "No specific cautions mentioned for Nvidia in this video, though the creator discusses pressures in the AI infrastructure space."
+          },
+          {
+            "ticker": "CRNW",
+            "company_name": "CoreWeave",
+            "reason": "The creator notes the stock is 'already so much under pressure' and states 'they just have to deliver.' If CoreWeave can deliver on its guided targets and potentially over-deliver, it could represent an opportunity for investors.",
+            "when_to_buy": "After CoreWeave demonstrates delivery on their own guidance",
+            "target_price": null,
+            "cautions": "Stock is significantly under pressure and must deliver on guidance to avoid further decline. The creator provides this as a conditional opportunity rather than a strong buy recommendation."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "NU",
+            "company_name": "Nu Holdings",
+            "reason": "Stock has declined 22.3% pre-market due to political risk in South America following election results. The creator notes that while Nu and similar companies have 'continued to execute time and time again,' investing in South American fintech companies carries significant political and regulatory risk, as governments can shift from pro-business to anti-business policies.",
+            "risk": "Political and regulatory risk in South America; government policy volatility can dramatically impact valuations. Creator advises against jumping in immediately and recommends letting the 'huge overreaction cool down a little bit.'"
+          },
+          {
+            "ticker": "MELI",
+            "company_name": "Mercado Libre",
+            "reason": "Stock declined 14.3% pre-market due to South American political risk following election results. Similar to Nu, Mercado Libre operates in an environment where government sentiment can shift dramatically from pro-business to anti-business.",
+            "risk": "Political and regulatory risk in South America; the creator acknowledges that 'some of the time the government will be pro-business. Some of the time they will be anti. Some of the times, or maybe most of the time, they might even be corrupt.'"
+          }
+        ],
+        "key_warnings": [
+          "South American political and regulatory risk: Elections in South America can create significant downside for fintech and e-commerce companies. The creator advises against panic selling but recommends waiting for sentiment to cool before making investment decisions in companies like Nu Holdings, Mercado Libre, and De Local.",
+          "AI/Data Center sector fear-mongering: Elon Musk has been making repeated negative comments on X about Neo-Cloud data center companies, creating fear-driven stock declines. The creator cautions that this reflects Musk's attempt to benefit SpaceX (which has better access to capital) rather than genuine industry concerns. Bad companies won't execute regardless, and good companies will continue to execute. The constant negative commentary is a strategy to reduce competition rather than a reflection of real industry problems.",
+          "Macro sentiment driving valuations more than fundamentals: The creator emphasizes that SoFi's 50% decline year-to-date is purely 'macro driven sentiment' and 'an overreaction' given the company's strong execution and growth profile. Investors should be cautious about selling or avoiding quality businesses during periods of broad market negativity.",
+          "Interest rate environment impact on SoFi and financial services: The most critical factor for SoFi's forward performance is management's ability to navigate and maintain profitability in a high interest rate environment. The creator highlights this as the key question to answer during earnings."
+        ],
+        "tickers_mentioned": [
+          "SOFI",
+          "NU",
+          "MELI",
+          "DELOCL",
+          "NVDA",
+          "CRNW",
+          "SPCE"
+        ]
+      },
+      "price_at_recommendation": {
+        "MELI": 1642.37,
+        "NVDA": 216.21,
+        "SOFI": 14.5,
+        "NU": 12.32
+      }
     }
   },
   "channel_ids": {

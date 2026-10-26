@@ -30352,6 +30352,62 @@
       "price_at_recommendation": {
         "NVDA": 210.96
       }
+    },
+    "h1hXsBzAdaQ": {
+      "channel": "CouchInvestor",
+      "title": "Why Nebius Sells AI Words by the Million",
+      "upload_date": "20261026",
+      "url": "https://www.youtube.com/watch?v=h1hXsBzAdaQ",
+      "processed_at": "2026-10-26T14:54:57.968673",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NBIS",
+            "company_name": "Nebius",
+            "reason": "Nebius operates a token factory model generating a $3 billion run rate by monetizing AI inference through two revenue streams: renting GPU capacity (H100s at $450/hour) and selling tokens (15 cents per million tokens in, 60 cents per million tokens out). The AI cloud business achieves 50% adjusted EBITDA margins with payback periods of approximately 1 year and 10 months on deals. The investment thesis centers on the superior profitability of keeping GPU ovens busy and selling the output (tokens) rather than owning the GPUs themselves, positioning Nebius to capture significant value from the AI inference economy.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "The long-term winner in AI infrastructure may depend on the business model choice: renting GPU capacity versus selling AI-generated output (tokens). The video suggests that owning GPUs alone is not where the money is; rather, the profit comes from keeping the infrastructure busy and monetizing the tokens produced, implying that pure chip manufacturers may face margin compression compared to AI service operators with direct token monetization."
+        ],
+        "tickers_mentioned": [
+          "NBIS"
+        ]
+      },
+      "price_at_recommendation": {
+        "NBIS": 160.25
+      }
+    },
+    "AWXf_owoZLg": {
+      "channel": "FinTek",
+      "title": "Best High-Dividend Fintech Stock to BUY NOW",
+      "upload_date": "20261026",
+      "url": "https://www.youtube.com/watch?v=AWXf_owoZLg",
+      "processed_at": "2026-10-26T14:55:10.176360",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "KSPI",
+            "company_name": "Kaspi",
+            "reason": "Kaspi is a Kazakhstan-based fintech stock offering an 8.16% dividend yield. The company has a P/E ratio of 7.39, which is exceptionally low compared to US-based fintech stocks. Additionally, the company is growing its ad and delivery revenue at 49% year-over-year, demonstrating strong business growth. The stock price has been relatively stable, making it suitable for long-term holding despite recent 15% drawdowns from the creator's entry point.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The stock has experienced a 15% decline since the creator's initial purchase, indicating volatility or market headwinds. As a Kazakhstan-based company, it may carry geopolitical and emerging market risks not explicitly detailed in the transcript."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": [
+          "KSPI"
+        ]
+      },
+      "price_at_recommendation": {
+        "KSPI": 90.75
+      }
     }
   },
   "channel_ids": {

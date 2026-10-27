@@ -30484,8 +30484,8 @@
       "title": "SOFI Q3 EARNINGS REPORT/CALL | GUIDANCE RAISED?",
       "upload_date": "20261026",
       "url": "https://www.youtube.com/watch?v=mghr6EDaL30",
-      "processed_at": "2026-10-26T22:24:42.246864",
-      "transcript_fails": 1,
+      "processed_at": "2026-10-27T10:14:02.410822",
+      "transcript_fails": 2,
       "last_reason": "error"
     },
     "lbF1dMRllI4": {
@@ -30519,6 +30519,25 @@
         ]
       },
       "price_at_recommendation": {}
+    },
+    "JVL99PVmR68": {
+      "channel": "CouchInvestor",
+      "title": "Meta First Negative Free Cash Flow Since 2012",
+      "upload_date": "20261027",
+      "url": "https://www.youtube.com/watch?v=JVL99PVmR68",
+      "processed_at": "2026-10-27T10:13:52.531874",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Meta reported its first negative free cash flow quarter since 2012 at minus $2.1 billion, despite 26% revenue growth to $64.6 billion. This represents a significant deterioration from plus $10.6 billion free cash flow a year ago, driven by CapEx of $34.9 billion against operating cash flow of $32.8 billion. The 2026 CapEx guidance of $135-145 billion signals continued massive capital expenditure commitments that could strain cash generation.",
+          "Operating margin compression from 40% to 20% in the quarter, largely due to a $9.9 billion legal charge, reflects profitability pressures. The core question remains whether Meta's massive AI infrastructure investments will generate sufficient returns to justify the expense, with Zuckerberg targeting a 10x reduction in AI operating costs over the next year as the critical path to justification."
+        ],
+        "tickers_mentioned": [
+          "META"
+        ]
+      },
+      "price_at_recommendation": {}
     }
   },
   "channel_ids": {
@@ -30532,6 +30551,6 @@
   },
   "last_eval_week": "2026-W44",
   "alerts": {
-    "fallback": "2026-10-26T22:24:59.370702"
+    "fallback": "2026-10-27T10:14:04.640221"
   }
 }

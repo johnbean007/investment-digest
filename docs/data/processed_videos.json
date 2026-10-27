@@ -30482,11 +30482,13 @@
     "mghr6EDaL30": {
       "channel": "CouchInvestor",
       "title": "SOFI Q3 EARNINGS REPORT/CALL | GUIDANCE RAISED?",
-      "upload_date": "20261026",
+      "upload_date": "20261027",
       "url": "https://www.youtube.com/watch?v=mghr6EDaL30",
-      "processed_at": "2026-10-27T10:14:02.410822",
-      "transcript_fails": 2,
-      "last_reason": "error"
+      "processed_at": "2026-10-27T11:16:41.686599",
+      "transcript_fails": 3,
+      "last_reason": "unavailable",
+      "terminal": true,
+      "skipped": "no transcript"
     },
     "lbF1dMRllI4": {
       "channel": "Daniel Pronk",
@@ -30536,6 +30538,20 @@
         "tickers_mentioned": [
           "META"
         ]
+      },
+      "price_at_recommendation": {}
+    },
+    "Ra2OTk-v9jk": {
+      "channel": "CouchInvestor",
+      "title": "Why Rocket Lab Delayed Neutron for Air Pockets That Might Not Fail",
+      "upload_date": "20261027",
+      "url": "https://www.youtube.com/watch?v=Ra2OTk-v9jk",
+      "processed_at": "2026-10-27T11:16:56.349533",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": []
       },
       "price_at_recommendation": {}
     }

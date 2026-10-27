@@ -30554,6 +30554,33 @@
         "tickers_mentioned": []
       },
       "price_at_recommendation": {}
+    },
+    "6KWJoXfm4EY": {
+      "channel": "FinTek",
+      "title": "Best Value Big Tech Ai Stock (Oracle)",
+      "upload_date": "20261027",
+      "url": "https://www.youtube.com/watch?v=6KWJoXfm4EY",
+      "processed_at": "2026-10-27T13:39:21.727724",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "ORCL",
+            "company_name": "Oracle Corporation",
+            "reason": "Oracle just beat earnings at the beginning of September while doubling their cloud infrastructure revenue. The company's stock price is down over 50% in the past year, which could give investors a chance to buy into this big tech stock at a discount. The company is rated as 39% undervalued by Investing Pro, especially when looking at their long-term discounted cash flow growth rate. If the company can survive what is happening right now, there is decent long-term upside potential.",
+            "when_to_buy": "watch list \u2014 monitor over the next quarter before committing to a position",
+            "target_price": null,
+            "cautions": "The stock has declined over 50% in the past year, and the creator is waiting to see if the company can survive current challenges before making a full commitment."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": [
+          "ORCL"
+        ]
+      },
+      "price_at_recommendation": {
+        "ORCL": 130.29
+      }
     }
   },
   "channel_ids": {

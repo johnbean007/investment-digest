@@ -30976,6 +30976,15 @@
         "tickers_mentioned": []
       },
       "price_at_recommendation": {}
+    },
+    "VYg1Zy-EdJ8": {
+      "channel": "The Traveling Trader",
+      "title": "\ud83d\udea8 FED Decision! Live Trading FOMC",
+      "upload_date": "20261028",
+      "url": "https://www.youtube.com/watch?v=VYg1Zy-EdJ8",
+      "processed_at": "2026-10-28T15:55:57.143591",
+      "transcript_fails": 1,
+      "last_reason": "error"
     }
   },
   "channel_ids": {
@@ -30989,6 +30998,6 @@
   },
   "last_eval_week": "2026-W44",
   "alerts": {
-    "fallback": "2026-10-27T10:14:04.640221"
+    "fallback": "2026-10-28T15:55:57.920428"
   }
 }

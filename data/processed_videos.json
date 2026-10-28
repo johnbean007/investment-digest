@@ -30962,6 +30962,20 @@
         "MSFT": 531.33,
         "MSTR": 141.4
       }
+    },
+    "T1-RrfzuEAw": {
+      "channel": "CouchInvestor",
+      "title": "Why Anduril Built Steelfin Around One Third a PAC-3",
+      "upload_date": "20261028",
+      "url": "https://www.youtube.com/watch?v=T1-RrfzuEAw",
+      "processed_at": "2026-10-28T11:45:10.274904",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": []
+      },
+      "price_at_recommendation": {}
     }
   },
   "channel_ids": {

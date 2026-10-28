@@ -30581,6 +30581,387 @@
       "price_at_recommendation": {
         "ORCL": 130.29
       }
+    },
+    "ucT6ENJBzgo": {
+      "channel": "CouchInvestor",
+      "title": "Why One GPU Can Earn $38 an Hour Selling AI Tokens",
+      "upload_date": "20261028",
+      "url": "https://www.youtube.com/watch?v=ucT6ENJBzgo",
+      "processed_at": "2026-10-28T09:37:52.097597",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NBIS",
+            "company_name": "Nebius",
+            "reason": "Nebius operates a token factory business model with a three billion dollar annualized run rate as of June. The company earns revenue through two channels: renting GPUs (H100 at $450/hour on demand, $0.79 spot) and selling AI tokens. Token generation produces significantly higher revenue than GPU rental alone, with Deep Seek demonstrating one cluster earning $38 of revenue per GPU hour at off-peak prices. Nebius's AI cloud achieved a 50% adjusted EBITDA margin in the second quarter, and deals have an expected payback period of one year and ten months, indicating strong unit economics and rapid capital recovery.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Token factory scalability depends on sustained demand for AI inference and token generation at current price levels. The video indicates prices and demand remain strong currently, but this represents a dynamic market subject to competitive pricing pressure as more token factories enter the market."
+        ],
+        "tickers_mentioned": [
+          "NBIS"
+        ]
+      },
+      "price_at_recommendation": {
+        "NBIS": 170.47
+      }
+    },
+    "Qc9FFmWahvw": {
+      "channel": "CouchInvestor",
+      "title": "One Gigawatt Costs $50 Billion: How an AI Token Factory Like Nebius Pays It Back",
+      "upload_date": "20261027",
+      "url": "https://www.youtube.com/watch?v=Qc9FFmWahvw",
+      "processed_at": "2026-10-28T09:38:04.106214",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Nvidia is positioned as the primary beneficiary of the AI token factory model. The company's inference platform is called a token factory by Nvidia itself, with run rate revenue hitting $3 billion in June and guidance of $7-9 billion for year-end, demonstrating strong growth trajectory. Nvidia's AI cloud achieved a 50% adjusted EBITDA margin with deals showing an expected payback of 1 year and 10 months, indicating highly profitable operations. The company generated $89 billion in data center revenue last quarter, establishing itself as the core infrastructure provider selling the machines that power AI token factories.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The video raises concerns about Nvidia's business model sustainability: the company faces $20-25 billion in CapEx requirements this year, fast depreciation of assets, and potential risk from GPU prices falling. These factors suggest Nvidia could be viewed as a capital trap despite current profitability."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "AI token factory model presents a structural capital intensity risk. While token generation is currently profitable with strong margins (50% adjusted EBITDA), each gigawatt data center requires $50 billion in investment to generate $40 billion per year in revenue. The payback period of approximately 1.25 years is acceptable, but the model depends on sustained GPU demand and pricing. GPU price deflation poses a material risk to the entire business model's economics.",
+          "Fast depreciation and high annual CapEx requirements ($20-25 billion annually for major players) suggest this could be a capital trap despite current profitability. The sustainability of these returns depends on continuous capital deployment and the ability to maintain pricing power in a rapidly evolving AI infrastructure market."
+        ],
+        "tickers_mentioned": [
+          "NVDA"
+        ]
+      },
+      "price_at_recommendation": {
+        "NVDA": 217.94
+      }
+    },
+    "ICzMBBM5kak": {
+      "channel": "CouchInvestor",
+      "title": "I Said I\u2019d Decide After Earnings. Here\u2019s What I\u2019m Doing With SoFi",
+      "upload_date": "20261027",
+      "url": "https://www.youtube.com/watch?v=ICzMBBM5kak",
+      "processed_at": "2026-10-28T09:38:18.739526",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "SOFI",
+            "company_name": "SoFi (Social Finance, Inc.)",
+            "reason": "The company beat earnings across the board with revenue up 44% year-over-year, adjusted EBITDA at $470 million with 34% margin, and adjusted net income at $243 million with 18% margin. SoFi operates eight distinct businesses each generating over $100 million in annualized revenue and is targeting 100 million products by end of 2030 (4x increase from current). The company is expected to grow revenue 40% year-over-year for fiscal 2026 and 27% year-over-year for 2027, with adjusted EBITDA margin of 35% and net income margin of 20% in 2027. The creator believes the stock is undervalued and cheap relative to growth, with 2028 EPS expected to reach $1.20-$1.30 while still growing above 20%. The company does not need to raise capital (funded without raising) and has a track record of consistently beating guidance and raising targets. Management is described as very smart and conservative, executing well even in challenging macro environments.",
+            "when_to_buy": "Creator is increasing position immediately after earnings; questions whether this is the last time to buy under $16-$17 but indicates general conviction to buy at current levels",
+            "target_price": "$1.20-$1.30 EPS by 2028, suggesting significant upside from current price of approximately $16.40",
+            "cautions": "Fed meeting on Wednesday could impact stock price. Macro environment deterioration could put pressure on targets. Q4 lending expected to be flat compared to Q3. Some unanswered questions on credit card losses and Q4 lending dip. Stock was down 45% year-to-date at time of video despite company being a better business than at start of year."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Fed meeting on Wednesday could impact market sentiment. While not expecting a rate hike, the speech and commentary during the Fed meeting could move the market.",
+          "Macro environment challenges persist. Company guidance assumes up to two rate hikes for 2026 and two for 2027. If macro environment deteriorates further, it could pressure business performance and guidance targets.",
+          "Rate environment sensitivity. Company is a financial services/lending platform heavily dependent on interest rate environment. Home loan originations showed first quarter-over-quarter dip as rates went higher."
+        ],
+        "tickers_mentioned": [
+          "SOFI",
+          "NEBU",
+          "GOOGL",
+          "MSFT"
+        ]
+      },
+      "price_at_recommendation": {
+        "SOFI": 16.4
+      }
+    },
+    "Qf72K1Fends": {
+      "channel": "Jose Najarro Stocks",
+      "title": "SK hynix Just Confirmed an AI Chip Shortage Through 2029!!",
+      "upload_date": "20261028",
+      "url": "https://www.youtube.com/watch?v=Qf72K1Fends",
+      "processed_at": "2026-10-28T09:38:49.068779",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Nvidia remains a core beneficiary of the AI compute shortage that is expected to persist through 2029 and beyond. SK Hynix confirmed that HBM volume requirements exceed twice their current supply capacity, indicating massive demand for memory chips that will drive continued demand for GPUs. The creator argues that even if other players like Google and OpenAI diversify their chip sources, the overall compute starvation means companies cannot rely on a single supplier and will continue purchasing Nvidia's products at premium pricing. Nvidia's Vera Rubin platform is being deployed across major customers including Meta and Oracle, demonstrating continued market dominance and strategic partnerships.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The creator acknowledges that reports of OpenAI buying Google AI chips could be perceived as bearish sentiment for Nvidia, though he dismisses this concern, arguing that compute scarcity will continue to drive Nvidia demand regardless of diversification efforts."
+          },
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices Inc.",
+            "reason": "AMD is gaining significant traction as a secondary but important beneficiary of AI infrastructure buildout. AMD announced a $1 billion equity investment in Meta and is deploying its new MI450 Helio systems for testing at scale. The creator highlights that AMD's solutions are being incorporated into Oracle's AI stack and that roadmaps include AMD Helios alongside Nvidia and other solutions. This positions AMD as a key co-design partner for major cloud providers and AI companies seeking to diversify their compute infrastructure.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "SK",
+            "company_name": "SK Hynix Inc.",
+            "reason": "SK Hynix's earnings report provided critical evidence of the AI chip shortage extending through 2029 and potentially to 2030. Management stated that HBM and DRAM volumes through 2026 are effectively sold out when combining long-term agreements with customer demand still under discussion. HBM4 is exceeding planned yields with targets being raised, and long-term agreements have now allocated more than 50% of production capacity for 2027 and 2028, providing visibility for continued capex expansion. This makes SK Hynix a direct play on the memory shortage constraining the entire AI supply chain.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The creator notes a potential bearish case that the market may shift to lower stack requirements (e.g., four-high instead of twelve-high HBM configurations), though he observes that SK Hynix already reflects this in production plans and remains supply constrained regardless."
+          },
+          {
+            "ticker": "CRWD",
+            "company_name": "CoreWeave Inc.",
+            "reason": "CoreWeave is experiencing strong momentum as a data center infrastructure provider for AI workloads. The company reported $79 million in quarter 3 data center adjusted gross profit, up from $11 million in quarter 2, representing the first full quarter under Halo's phase 1 lease. All 133 megawatts of critical IT load have been delivered to CoreWeave, and phase 2 is fully financed and under construction with an initial data hall scheduled for quarter 2 of 2027. An additional 830 megawatts of approved Halos capacity remains unleashed, positioning CoreWeave for substantial future growth without needing to compete for credit market financing.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms Inc.",
+            "reason": "Meta announced major partnerships and capital commitments from industry leaders AMD ($1 billion equity investment) and Nvidia ($3 billion investment), validating Meta's AI infrastructure strategy and capital allocation. Meta is expanding deployment of Vera Rubin systems and deepening co-design partnerships with GPU manufacturers. The creator notes that Meta is currently trading at relatively attractive valuations while raising $25 billion to fund aggressive AI compute expansion, positioning it as a key beneficiary of the AI infrastructure buildout cycle.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "ORCL",
+            "company_name": "Oracle Corporation",
+            "reason": "Oracle is broadening its AI infrastructure offerings by integrating Nvidia's Vera Rubin and VL72 chips, which are already available. The company is expanding its AI stack roadmap to include AMD Helios solutions, and by 2027 plans to add Google TPUs and Cerebras inference capabilities. Oracle's investor day is scheduled for the day after this video, and the creator expresses excitement about potential updates to Oracle Cloud Infrastructure market expansion, positioning Oracle as a multi-vendor platform for enterprise AI.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "BROADCOM",
+            "company_name": "Broadcom Inc.",
+            "reason": "Broadcom is benefiting from AI infrastructure expansion through multiple vectors. OpenAI is working with Broadcom on designing their own AI chips, indicating demand for networking and custom silicon solutions. Broadcom is also being incorporated into Oracle's AI infrastructure roadmap and broader AI ecosystem expansion.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "CEREBRAS",
+            "company_name": "Cerebras Systems",
+            "reason": "Cerebras is gaining traction as an alternative inference solution with its products being deployed across major cloud infrastructure providers. The company is already working with OpenAI and is being included in Oracle's 2027 roadmap for inference capabilities, positioning it as a specialized play within the broader AI compute ecosystem.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Supply constraints in HBM memory and AI chips are expected to extend through 2029-2030, which could limit AI infrastructure investment growth despite strong demand. Companies may be unable to deploy as much compute capacity as desired due to chip availability limitations, potentially slowing AI adoption in some sectors.",
+          "There is uncertainty around future HBM stack requirements, with the market potentially shifting to lower stack heights (four-high instead of twelve-high or sixteen-high). This could pressure pricing and margins for memory manufacturers, though SK Hynix indicates this is already reflected in production planning."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "AMD",
+          "SK",
+          "META",
+          "GOOGL",
+          "OPENAI",
+          "AMZN",
+          "CEREBRAS",
+          "BROADCOM",
+          "ORCL",
+          "MSFT",
+          "CRWD"
+        ]
+      },
+      "price_at_recommendation": {
+        "AMD": 560.26,
+        "ORCL": 130.53,
+        "NVDA": 217.94,
+        "CRWD": 268.02,
+        "META": 620.19,
+        "SK": 16.69
+      }
+    },
+    "FTxfwE-3f8Q": {
+      "channel": "Jose Najarro Stocks",
+      "title": "ARE AI STOCKS BACK?? CAN MY PORTFOLIO BE SAVED? (AMD NVDA ANTHROPIC CRWV)",
+      "upload_date": "20261028",
+      "url": "https://www.youtube.com/watch?v=FTxfwE-3f8Q",
+      "processed_at": "2026-10-28T09:39:49.256435",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Steve positions Nvidia as his number one pick for the next year. Despite trading at 23.5x forward earnings with 10x forward multiple, Nvidia has expected 130% EPS growth over the next two fiscal years, making it cheaper than AMD on a growth-adjusted basis. Steve believes Nvidia deserves its valuation and that from today's levels, Nvidia has more ROI over the next year compared to AMD. He wants Nvidia to become the Berkshire Hathaway of tech, acquiring stakes in hyperscalers like Meta and other AI infrastructure players. Steve emphasizes that the picks and shovels (semiconductor makers) will continue generating profits as capex flows to them throughout 2027-2029.",
+            "when_to_buy": "During market dips; Steve has been buying during recent pullbacks",
+            "target_price": null,
+            "cautions": "Already at elevated valuations; Steve acknowledges market uncertainty but maintains conviction in long-term thesis"
+          },
+          {
+            "ticker": "ORCL",
+            "company_name": "Oracle Corporation",
+            "reason": "Steve identifies Oracle as a significantly mispriced opportunity. Oracle trades at only 8.4x forward earnings with expected 90% EPS growth over two years, or 16x this year's earnings. The market is pricing in failure of OpenAI contracts (force majeure event), but Steve believes this is unrealistic. Oracle is expanding partnerships with Nvidia on Helios rack and bringing in 2027 TPUs and Cerebras chips to their cloud solution, positioning themselves as chip-agnostic. Steve expects Oracle's investor day tomorrow to reveal stronger OCI (Oracle Cloud Infrastructure) growth projections, especially as data center build efficiency improves and revenue collection accelerates. Jose notes that Oracle was the first company to share multi-year cloud infrastructure trends, and improving data center efficiency means faster revenue realization.",
+            "when_to_buy": "Immediately; identified as a current buying opportunity before investor day",
+            "target_price": null,
+            "cautions": "Depends on successful execution of OpenAI contracts and cloud infrastructure buildout; market sentiment remains skeptical"
+          },
+          {
+            "ticker": "CRWV",
+            "company_name": "Coreweave Inc.",
+            "reason": "Jose and Steve both identify Coreweave as a major buying opportunity during the dip. Coreweave operates 1.5 gigawatts of active power data center capacity with strong GPU reliability, which allows them to charge premium pricing on long-term contracts. Steve bought more Coreweave during the recent dip and made it his fourth pick for the next year. The market is overreacting to increased debt financing costs while ignoring that GPU-per-hour pricing is increasing dramatically. The delta between rising debt costs and rising GPU pricing is actually very favorable for Coreweave. As long-term contracts expire and compute constraints persist, Coreweave will have paid-off GPUs to deploy at spot pricing or higher-margin short-term contracts. Steve believes there is significant ROI over the next year and challenges anyone to show him earnings reports over four quarters that don't justify the investment.",
+            "when_to_buy": "During current market dip; Steve explicitly bought more during recent selloff",
+            "target_price": "Steve references '60 whatever dollars' as current price level during the video",
+            "cautions": "Neocloud companies face financing headwinds and rising debt costs; however, creators argue this is outweighed by GPU pricing power and long-term contract profitability"
+          },
+          {
+            "ticker": "MSTR",
+            "company_name": "MicroStrategy",
+            "reason": "Steve's fifth pick for the next year. Represents a major AI/tech company play, though specific reasoning for this pick was not detailed in the transcript provided.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms Inc.",
+            "reason": "Jose and Steve both highlight Meta as a major winner. Meta has generated $617 billion in operating cash flow since Q4 2016 and $297 billion in free cash flow, demonstrating exceptional cash generation. Despite increased capex spending (now $319 billion deployed since Q4 2016), Meta can easily absorb this investment. Mark Zuckerberg is focusing on building AI infrastructure to support core ad business and developing Muse AI models to sell intelligence rather than just compute. Meta raised $25 billion in funding (6x oversubscribed) showing strong investor confidence. Steve's second pick for the next year; he will back Zuckerberg 'night and day.' The market is underestimating Meta's ability to monetize its AI investments and the efficiency gains from compute helping ad impressions and ad efficiency. Steve notes Meta's 26% year-over-year revenue growth will accelerate as data centers complete buildout over the next four quarters.",
+            "when_to_buy": "During recent market dips when stock has pulled back",
+            "target_price": null,
+            "cautions": "Market concerns about massive capex spending may cause near-term volatility; however, creators argue free cash flow generation supports investment thesis"
+          },
+          {
+            "ticker": "SPACEX",
+            "company_name": "SpaceX (Private - Valuation Discussion)",
+            "reason": "Steve's third pick for the next year, stating he was 'wrong' and apologizing to Elon Musk. SpaceX plans to build over 10 gigawatts of compute capacity next year, representing approximately $400 billion in capex (at $40 billion per gigawatt). SpaceX earnings report showed they expect compute demand will be so insane that they could potentially have six-month wait times to sell compute in 2027. This signals that GPU pricing will increase significantly. SpaceX demonstrates the scale and seriousness of AI compute investments by major players, forcing Meta, Google, and Amazon to increase their own capex to compete. Steve is 'SpaceX pill' and believes the engineers and Elon 'are incredible.'",
+            "when_to_buy": "Steve bought a little SpaceX and plans to buy more tomorrow to build a good position",
+            "target_price": null,
+            "cautions": "SpaceX is a private company; investment may not be directly accessible to most retail investors"
+          },
+          {
+            "ticker": "CREDO",
+            "company_name": "Credo Technology Group Inc.",
+            "reason": "Jose's networking play pick. Credo operates in high-speed optical and networking technology that improves total cost of ownership (TCO) for AI data centers. For advanced chips like Nvidia's NDL72 and Amazon's custom AI chips, optical and networking solutions from companies like Credo enable scale-out and scale-up approaches. Credo is entering the optics market and represents a picks-and-shovels play that will benefit from massive data center buildout. Jose bought Credo and Sterile Labs during the recent dip.",
+            "when_to_buy": "During market dips; Jose bought during recent selloff",
+            "target_price": null,
+            "cautions": "Small company (~$2 billion market cap); more speculative than mega-cap plays"
+          },
+          {
+            "ticker": "MU",
+            "company_name": "Micron Technology Inc.",
+            "reason": "Jose purchased Micron during the recent dip. SK Hynix reported earnings showing memory supply shortage will persist through 2030 even with expansion, meaning AI chip shortage and compute shortage will continue. Micron is building new memory fabs and standing up production, demonstrating confidence in multi-year returns. 50% of SK Hynix's long-term agreements are now securing 50% of capacity for 2027-2028, showing the urgency of memory supply. Steve calls Micron 'the best buy in the market' though notes he is 'too shook' to load up significantly. Memory makers are essential picks-and-shovels beneficiaries of AI capex.",
+            "when_to_buy": "During current market dips; Steve specifically recommends this valuation level",
+            "target_price": null,
+            "cautions": "Memory market cyclicality; however, AI supply constraints appear structural through 2030"
+          },
+          {
+            "ticker": "BROADCOM",
+            "company_name": "Broadcom Inc.",
+            "reason": "Trading at 11.2x forward earnings with strong expected growth. Broadcom is a picks-and-shovels semiconductor company that benefits from hyperscaler capex spending. Steve notes that in two months when 2026 year ends, Broadcom will trade at single-digit forward multiples (11.2x to single digits) if price doesn't move, representing significant value. Mentioned as one of the semiconductor plays that will capture capex flows.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Currently expensive at 11.2x forward; will become more attractive on price basis after 2026 earnings"
+          },
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices Inc.",
+            "reason": "Jose owns AMD and sees strong potential with 207% EPS growth expected. However, Steve is more cautious, believing AMD has 'run too far, too fast' at 24x forward earnings while Nvidia trades at 10x forward with 130% growth. Jose notes AMD trades at 73x this year's earnings vs. Broadcom at under 20x, suggesting relative valuation risk. Both acknowledge AMD is a great company but believe Nvidia offers better ROI from current levels over the next year. AMD represents the more aggressive growth play with execution risk.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Trading at 73x current year earnings, suggesting significant execution risk if company misses; Steve prefers Nvidia's valuation at same absolute growth rate"
+          },
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet Inc.",
+            "reason": "Google earnings coming tomorrow. Jose is excited to see Gemini performance and expects continued strong Google Cloud growth with double-digit results. However, Steve is more interested in Microsoft. Google Cloud has shown consistent strong revenue growth past two quarters, but Jose expects market already pricing this in. Both agree Google and Microsoft will beat earnings and raise guidance with bullish AI commentary.",
+            "when_to_buy": "Before Google earnings tomorrow",
+            "target_price": null,
+            "cautions": "Market may already be pricing in strong Google Cloud growth; less upside surprise potential than Microsoft Azure"
+          },
+          {
+            "ticker": "MSFT",
+            "company_name": "Microsoft Corporation",
+            "reason": "Microsoft earnings tomorrow. Steve and Jose are particularly excited for Azure growth acceleration. Azure revenue has been flatlined between 37-40% growth with Microsoft citing capacity constraints as the limiting factor. If Microsoft shows Azure acceleration beyond 40% this quarter due to improved capacity management, it would be significant market catalyst. Jose expects Microsoft to eventually stop talking about supply-demand balance timing and admit compute constraints persist much longer. Strong M365 licenses and Azure revenue drive value.",
+            "when_to_buy": "Before Microsoft earnings on Thursday",
+            "target_price": null,
+            "cautions": "Azure growth has disappointed on expectations; capacity constraints may persist longer than expected"
+          },
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon Inc.",
+            "reason": "Jose sees Amazon as being left in the wind initially but now hitting acceleration in AI investments. CEO commentary showed cloud workload adoption is still very low (far below 50% expected), meaning massive TAM remains. As AI adoption follows similar curve to cloud adoption (expected to take 15+ years), Amazon has significant growth runway. While Steve is choosing Meta over Amazon for the next year, he acknowledges Amazon is being 'left in the wind' and is close to being equally compelling.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Slower to commit to AI capex spending initially; execution risk on cloud TAM capture"
+          },
+          {
+            "ticker": "ASTR",
+            "company_name": "Axiom Space (implied reference) or other test equipment company",
+            "reason": "Jose mentions 'air test system' as an equipment player benefiting from AI infrastructure buildout. Small company with ~$2 billion market cap. Equipment makers benefit from picks-and-shovels thesis as data centers scale.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Very small market cap (~$2 billion); more speculative"
+          },
+          {
+            "ticker": "ANTHROPIC",
+            "company_name": "Anthropic",
+            "reason": "Anthropic S1 filing shows massive bullish metrics validating AI thesis. Revenue per dollar of compute improved to $28 (up from $40 cents in Q1 2025 - this appears to be a data point comparison showing efficiency). Company is 5 years old with $131.65 billion in cash and raising another $100+ billion in IPO. First half 2026 revenue was $16.29 billion with $11.56 billion in Q2 alone. 900% net revenue retention demonstrates strong product-market fit. Despite spending massive R&D on training and reinforcement learning, compute efficiency is improving dramatically, allowing them to collect huge margins. Inference market still healthy but represents small portion of revenue, meaning huge upside as inference scales. Company can easily pay multi-hundred billion dollar compute commitments over multi-year period given cash generation. Duet (Claude) AI agent still in testing/pre-release; once adopted will dramatically increase compute demand and revenue.",
+            "when_to_buy": "Before or around IPO announcement",
+            "target_price": null,
+            "cautions": "Pre-revenue IPO stage; large capex commitments ahead; depends on successful AI agent adoption"
+          },
+          {
+            "ticker": "SKH",
+            "company_name": "SK Hynix Inc.",
+            "reason": "SK Hynix reported earnings with bullish commentary. Memory supply shortage expected to persist through 2030 even with expansion, providing structural support for memory chip pricing and demand. 50% of long-term agreements now secure 50% of capacity for 2027-2028, showing customers locking in supply. Despite massive capex spending on new memory fab construction, company remains capacity constrained, validating multi-year tight supply thesis. Stock up 3% after-hours on earnings, expected to create bullish AI sentiment. Memory is critical picks-and-shovels component.",
+            "when_to_buy": "During recent market dips following earnings",
+            "target_price": null,
+            "cautions": "South Korean company with geopolitical exposure; capital intensity of memory business"
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "NEBA",
+            "company_name": "Nebius Inc.",
+            "reason": "Jose specifically states he does not own Nebius and chose not to buy during recent dip, instead doubling down on Coreweave. While Nebius is mentioned as a neocloud player with similar dynamics (short-term contracts, token selling, active compute), Jose prefers Coreweave's positioning. Both neocloud players face debt financing headwinds, but Jose sees more value in Coreweave's 1.5 gigawatt active power base and existing profitability trajectory.",
+            "risk": "Financing costs rising; market skepticism on neocloud valuations"
+          }
+        ],
+        "key_warnings": [
+          "The market is heavily discounting neocloud companies based on rising debt costs, but creators argue this ignores the offsetting benefit of rising GPU-per-hour pricing. The spread between debt costs and GPU pricing is actually widening in favor of neocloud operators.",
+          "Bears have been consistently wrong for multiple years citing various 'boogeyman' fears: capex slowdown (2024-2025), data center delays (2026), and now financing constraints (2027). Every bear case has 'gotten obliterated.' Creators warn against betting against AI and tech despite price action volatility.",
+          "AI infrastructure buildout will likely mirror 15+ year cloud adoption curve, not a 2-3 year hype cycle. Companies like Accenture continue profiting on cloud implementations 15 years later, suggesting AI implementation TAM remains massive and largely untapped.",
+          "Supply constraints for high-bandwidth memory, chips, and GPU compute are structural and expected to persist through 2028-2030, supporting multi-year capex thesis and semiconductor stock valuations.",
+          "Federal Reserve policy remains a near-term concern for stock market, but creators are not spending significant time on macro hedges.",
+          "Multiple AI companies are raising massive capital ($25B Meta secondary offering 6x oversubscribed, Anthropic raising $100B+), but this appears to validate competitive necessity rather than signal weakness."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "AMD",
+          "CRWV",
+          "ORCL",
+          "META",
+          "MSFT",
+          "GOOGL",
+          "AMZN",
+          "MU",
+          "SKH",
+          "BROADCOM",
+          "CREDO",
+          "NEBA",
+          "SPACEX",
+          "MSTR",
+          "ASTR",
+          "ANTHROPIC"
+        ]
+      },
+      "price_at_recommendation": {
+        "GOOGL": 320.58,
+        "AMD": 560.26,
+        "ORCL": 130.53,
+        "CRWV": 59.57,
+        "AMZN": 253.1,
+        "MU": 928.76,
+        "NVDA": 217.94,
+        "META": 620.19,
+        "MSFT": 531.33,
+        "MSTR": 141.4
+      }
     }
   },
   "channel_ids": {

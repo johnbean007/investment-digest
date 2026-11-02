@@ -31651,6 +31651,241 @@
         "AMD": 573.28,
         "GOOG": 286.21
       }
+    },
+    "e3HUOmaPz9c": {
+      "channel": "Mr. FIRED Up Wealth",
+      "title": "Why I'm Buying This Software Selloff, Best Stocks to Buy Now!",
+      "upload_date": "20261029",
+      "url": "https://www.youtube.com/watch?v=e3HUOmaPz9c",
+      "processed_at": "2026-10-31T15:30:36.435260",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "MSFT",
+            "company_name": "Microsoft Corporation",
+            "reason": "Microsoft had a great quarter with Azure growing 48%, which is amazing for a business that's been around for over a decade. The company is not only rolling out AI to consumers but also to the enterprise. Microsoft is a hyperscaler with massive scale and ecosystem that can compete against Amazon Web Services. CapEx guidance fell to $170 billion for the full year, showing efficiency. The creator bought this stock around 2012 and recommended it at $400 or less as a DCA opportunity, and it has performed very well over the years.",
+            "when_to_buy": "$400 or less via DCA",
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "CRWD",
+            "company_name": "CrowdStrike Holdings",
+            "reason": "CrowdStrike is built in the cloud for the cloud with almost all sticky subscription recurring revenue and no hardware cycle. It is best of breed for endpoint security and a cleaner business model than competitors like Fortinet. The creator has been invested since the IPO in 2019. It is a better long-term compounder compared to hybrid companies still selling lumpy firewall appliances. Up 135% in the past 6 months, showing strong performance despite being expensive on valuation metrics.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "CrowdStrike is not a cheap stock. Even using EV/NR metrics for SaaS, it is still expensive. The stock is down 6.89% in pre-market as part of profit-taking in the cybersecurity basket due to Fortinet's poor guidance."
+          },
+          {
+            "ticker": "AAOI",
+            "company_name": "Applied Optoelectronics",
+            "reason": "Management stated that monthly revenues in 2027 would be equivalent to annual revenue in 2025, meaning they expect to do in a month what they did in a year two years prior. Even if they completely miss and only achieve a quarter of that, the creator believes the stock is worth more. The risk-reward is favorable, especially below $75, and can be bought with dollar cost averaging while saving room for lower prices. The creator positions this as speculative/hyper-growth with high risk-reward.",
+            "when_to_buy": "Below $75 via dollar cost averaging; floor identified at $50",
+            "target_price": "$200+",
+            "cautions": "This is a speculative position with high risk. Could potentially go under $50 if management fails to deliver on metrics. Should only be held as 1-2% of portfolio, not a core position. Management is described as serviceable but not elite."
+          },
+          {
+            "ticker": "AVGO",
+            "company_name": "Broadcom Inc.",
+            "reason": "The creator has been buying Broadcom and filling the position nicely as it comes down. Described as higher conviction core position compared to AAOI. Good opportunity for DCA below $350. Broadcom is a much higher-quality company and should be bought before alternatives like AAOI. Benefits from continued AI infrastructure CapEx spending.",
+            "when_to_buy": "Below $350 via DCA",
+            "target_price": null,
+            "cautions": "Will face pressure if major customers like Microsoft reduce CapEx spending. Currently a high-beta stock experiencing profit-taking."
+          },
+          {
+            "ticker": "UBER",
+            "company_name": "Uber Technologies",
+            "reason": "The creator bought Uber in the community portfolio on October 28th at $64.77. Long-standing DCA recommendation at $65 or less. This represents a nibble position into a stock the creator has advocated for over a long period.",
+            "when_to_buy": "$65 or less via DCA",
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "MELI",
+            "company_name": "Mercado Libre",
+            "reason": "The creator added to an existing Mercado Libre position in the community portfolio under $1,600. The stock popped nicely after purchase. The creator was hopeful to add more heavily if price reached below $1,500 but was satisfied adding at under $1,600.",
+            "when_to_buy": "Under $1,600; desired entry was under $1,500",
+            "target_price": null,
+            "cautions": "The stock did not reach the desired $1,500 entry point where the creator wanted to add more heavily."
+          },
+          {
+            "ticker": "NOW",
+            "company_name": "ServiceNow Inc.",
+            "reason": "ServiceNow delivered solid earnings with revenue up 20.5% beating by $20 million. RPO at $29.7 billion with 22% year-over-year growth and 22.5% constant currency growth. The company raised its AI annual contract value to $1.7 billion, well above the $1 billion target, showing AI is not eating ServiceNow but enhancing it. The EPS miss of 2 cents was due to lower interest income and higher debt cost from an acquisition, not core operating issues. The creator would have bought this stock under $100 as a long-term investor.",
+            "when_to_buy": "Under $100 for long-term investors",
+            "target_price": null,
+            "cautions": "Very volatile, high beta stock that most people cannot stomach. The creator advises to avoid these SaaS cloud stocks for most investors due to volatility. Only suitable for long-term investors who can weather large swings. Currently down 18% from recent highs after the miss despite strong fundamentals."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "FORTINET",
+            "company_name": "Fortinet Inc.",
+            "reason": "Fortinet beats on earnings but cut its service revenue outlook and underwhelmed on the billings mix with strong hardware but slower subscriptions. The company reported a security breach, which is particularly damaging for a cybersecurity firm. The stock is down 25%. Fortinet still sells lumpy firewall appliances as a hybrid company, making it inferior to pure cloud-native cybersecurity companies. It cannot be compared apples-to-apples to CrowdStrike because of its different business model.",
+            "risk": "Down 25% on earnings miss and security breach; subscription model is slower than hardware sales"
+          },
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet Inc.",
+            "reason": "Google missed on both top and bottom lines with revenue of $127.58 billion versus expected $127.91 billion. The stock is down 11.34%. Google posted negative free cash flow of $9.1 billion versus an estimate of $3.5 billion due to AI CapEx buildout. Google is saying it will significantly increase CapEx spending in 2027, unlike Microsoft which is reducing CapEx guidance. This indicates continued massive spending with uncertain returns.",
+            "risk": "Down 11.34%; negative free cash flow; significant additional CapEx commitments for 2027 with uncertain ROI"
+          },
+          {
+            "ticker": "CORZ",
+            "company_name": "CoreWeave",
+            "reason": "CoreWeave and similar neo-cloud companies will face pressure from Microsoft's lower-than-expected CapEx guidance. Microsoft is a top customer for CoreWeave, and the company has become more reliant on neo-cloud firms for capacity. Lower CapEx spending from hyperscalers will crush these companies first as demand for their compute services declines.",
+            "risk": "Vulnerable to reduced CapEx spending from major hyperscaler customers; business model depends on continued AI infrastructure investment"
+          },
+          {
+            "ticker": "ANT",
+            "company_name": "Anthropic",
+            "reason": "Anthropic has $537 billion in disclosed computing and equipment commitments, which is substantial relative to the company's revenue. Michael Burry flagged slowing revenue growth with sales growth decelerating from 144% quarter-over-quarter to 46%, a massive slowdown. The creator agrees this is concerning. More efficient AI models and open-source alternatives could pressure pricing and demand. Anthropic's business model of constantly spending money to build compute to sell tokens faces long-term pressure as token prices and demand decline.",
+            "risk": "Massive computing commitments relative to slowing revenue growth; token pricing pressure from competition; business model vulnerable to slowdown in AI spending"
+          }
+        ],
+        "key_warnings": [
+          "Software and AI stocks are experiencing a sector-wide selloff after massive runs (100%+ gains in 6 months for many names). High valuations and elevated expectations heading into earnings have made the sector vulnerable. Any earnings miss or disappointing guidance sparks profit-taking.",
+          "Michael Burry warns the AI boom is catastrophically vulnerable due to interconnected financing arrangements and massive competing commitments. The industry's network of financial and commercial relationships make it vulnerable to even the slightest slowdown in growth. Half a trillion dollars in computing commitments exist in the market.",
+          "Neo-cloud companies and specialized AI infrastructure players face existential risk long-term. The creator believes there will be a cycle where AI data centers are overbuilt and demand slows. Companies whose business models depend on selling tokens at ever-lower prices with rising CapEx face severe pressure. The real winners will be hyperscalers (Amazon, Microsoft, Google, Oracle) that can scale AI to the masses with existing enterprise relationships and sales teams.",
+          "October volatility is expected before midterm elections. The creator has been advising about this volatility in advance and expects it to continue until the elections end.",
+          "If earnings from mega hyperscalers start showing they will not spend as much money on CapEx, it will change the market narrative negatively and pressure all AI-related stocks.",
+          "The market can experience FOMO-driven rallies followed by severe selloffs, as seen with Rocket Stock (going from $5 to $151 then back to $50). IPOs like Anthropic's can trigger similar parabolic moves followed by 50% retracements. Retail investors often get caught buying at the top during FOMO rallies.",
+          "Fears persist about AI agents disrupting traditional software demand despite evidence to the contrary. Any hiccup in earnings sparks these fears and the 'SaaS apocalypse' narrative, even when company fundamentals are solid.",
+          "Google Cloud revenue grew 103%, but the massive CapEx investment is creating negative free cash flow. This spending may not generate acceptable returns, creating questions about the ROI of massive AI infrastructure investments."
+        ],
+        "tickers_mentioned": [
+          "NOW",
+          "GOOGL",
+          "MSFT",
+          "CORZ",
+          "MBIA",
+          "FORTINET",
+          "CRWD",
+          "PANW",
+          "RBK",
+          "ZS",
+          "AMZN",
+          "ORCL",
+          "IBM",
+          "ANT",
+          "AAOI",
+          "AXON",
+          "AVGO",
+          "UBER",
+          "MELI",
+          "RKLB",
+          "TSLA"
+        ]
+      },
+      "price_at_recommendation": {
+        "GOOGL": 279.84,
+        "AVGO": 326.08,
+        "UBER": 65.25,
+        "MELI": 1624.53,
+        "MSFT": 521.91,
+        "CORZ": 13.25,
+        "CRWD": 250.43,
+        "NOW": 105.12,
+        "AAOI": 69.05
+      }
+    },
+    "Yd6Clc2Kq3I": {
+      "channel": "CouchInvestor",
+      "title": "Why Anthropic's Compute Bill Looks Like ~$855B",
+      "upload_date": "20261031",
+      "url": "https://www.youtube.com/watch?v=Yd6Clc2Kq3I",
+      "processed_at": "2026-11-02T09:36:11.720873",
+      "transcript_fails": 1,
+      "last_reason": "error"
+    },
+    "GIcMfKPZPk4": {
+      "channel": "CouchInvestor",
+      "title": "Nebius: Doubling MoM Is What a Demand Wave Looks Like",
+      "upload_date": "20261031",
+      "url": "https://www.youtube.com/watch?v=GIcMfKPZPk4",
+      "processed_at": "2026-11-02T09:36:15.930896",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": []
+      },
+      "price_at_recommendation": {}
+    },
+    "wnEpUgnbPu4": {
+      "channel": "CouchInvestor",
+      "title": "AWS AI Hit $25B in 3 Years. Early AWS Was $60M.",
+      "upload_date": "20261030",
+      "url": "https://www.youtube.com/watch?v=wnEpUgnbPu4",
+      "processed_at": "2026-11-02T09:36:26.775052",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon.com Inc.",
+            "reason": "AWS AI business has reached $25 billion in run rate within 3 years, growing several hundred times faster than early AWS which was at $60 million after 3 years. The creator suggests that the market still prices AWS like a mature cloud business, but Andy Jassy is describing this as a 'second founding' for the company. The implication is that AWS AI represents a transformational opportunity that may not be fully priced into Amazon's valuation, representing a new company-scale business within Amazon.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "AWS AI growth trajectory is several hundred times faster than early AWS, suggesting an unprecedented pace of business expansion that may not be sustainable or may face competitive pressures not yet reflected in market pricing."
+        ],
+        "tickers_mentioned": [
+          "AMZN"
+        ]
+      },
+      "price_at_recommendation": {
+        "AMZN": 240.35
+      }
+    },
+    "W1JLbXwGa30": {
+      "channel": "CouchInvestor",
+      "title": "Why Anthropic Raised $141B and Still Holds ~$132B",
+      "upload_date": "20261030",
+      "url": "https://www.youtube.com/watch?v=W1JLbXwGa30",
+      "processed_at": "2026-11-02T12:21:07.010582",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": []
+      },
+      "price_at_recommendation": {}
+    },
+    "W54Zh-HzplU": {
+      "channel": "CouchInvestor",
+      "title": "Reddit Beat Every Number Then Locked Out Its Own Free Visitors",
+      "upload_date": "20261030",
+      "url": "https://www.youtube.com/watch?v=W54Zh-HzplU",
+      "processed_at": "2026-11-02T12:21:16.806308",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Reddit's strategy to lock out free/logged-out users represents a fundamental shift in monetization model. While the company beat earnings on all metrics with 53% growth, the stock fell 17% after-hours due to revenue guidance coming in below estimates and projected daily user decline of low double-digit percentage this quarter. The company is explicitly trading user quantity for user quality by implementing a login wall, betting that fewer but engaged logged-in users with higher ARPU (up to $6.87 from $5.04) will generate more revenue than free traffic that Google can redirect via AI Overviews. This is a high-risk strategy dependent on whether monetization per user can offset user losses, particularly as logged-out US DAUQs already fell 4% this quarter."
+        ],
+        "tickers_mentioned": [
+          "RDDT"
+        ]
+      },
+      "price_at_recommendation": {}
+    },
+    "dV6N4HfILgM": {
+      "channel": "CouchInvestor",
+      "title": "Nebius Keeps Half Its GPUs Off Long Contracts",
+      "upload_date": "20261030",
+      "url": "https://www.youtube.com/watch?v=dV6N4HfILgM",
+      "processed_at": "2026-11-02T12:21:34.891645",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": []
+      },
+      "price_at_recommendation": {}
     }
   },
   "channel_ids": {
@@ -31662,8 +31897,8 @@
     "JoseNajarroStocks": "UC5cEHfCr6WOE1R1zcohd1IA",
     "FinTek": "UCxdWHEhEPiYhCADMrn4PdhQ"
   },
-  "last_eval_week": "2026-W44",
+  "last_eval_week": "2026-W45",
   "alerts": {
-    "fallback": "2026-10-28T15:55:57.920428"
+    "fallback": "2026-11-02T12:21:38.242518"
   }
 }

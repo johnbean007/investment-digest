@@ -31886,6 +31886,221 @@
         "tickers_mentioned": []
       },
       "price_at_recommendation": {}
+    },
+    "lwlsmcXSIJs": {
+      "channel": "CouchInvestor",
+      "title": "Why Palantir's $2.9 Billion Number Spooked Investors #shorts",
+      "upload_date": "20261103",
+      "url": "https://www.youtube.com/watch?v=lwlsmcXSIJs",
+      "processed_at": "2026-11-03T15:56:03.502854",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Palantir Technologies faces a potential slowdown in revenue growth despite record quarterly results. While Q3 revenue grew 96% to $2.31 billion, new total contract value (TCV) grew only 6% to $2.92 billion, and remaining deal value grew only 2%. Management attributes this to shorter contract durations on new deals, positioning them as pilots before expansion. However, this represents a significant deceleration in the forward pipeline compared to current revenue growth. If Q4 TCV and remaining deal value do not improve as management expects contracts to lengthen, the company's ability to sustain high growth rates will be constrained, as current revenue growth is outpacing future bookings. The critical metric to monitor is whether the $2.9 billion TCV figure rebounds, as this indicates whether the 'pantry restocking problem' resolves or persists into 2025."
+        ],
+        "tickers_mentioned": [
+          "PLTR"
+        ]
+      },
+      "price_at_recommendation": {}
+    },
+    "O5296APSfZY": {
+      "channel": "CouchInvestor",
+      "title": "Why Someone Is Building a Data Center Around the Moon",
+      "upload_date": "20261103",
+      "url": "https://www.youtube.com/watch?v=O5296APSfZY",
+      "processed_at": "2026-11-03T15:56:13.854773",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Nvidia is mentioned as providing the Jetson module that Firefly Aerospace is using to mitigate downlink constraints from the moon by running AI models in orbit rather than streaming all data back to Earth. This represents a real-world application of Nvidia's edge computing hardware in space environments, demonstrating demand for Nvidia's GPU technology in solving data transmission bottlenecks in aerospace applications.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "This is a demonstration project with no earlier launch date than 2028, followed by a 5-year orbital mission period, meaning any commercial viability is at least 10+ years away. The technology is unproven at scale and represents highly speculative investment timing."
+        ],
+        "tickers_mentioned": [
+          "NVDA"
+        ]
+      },
+      "price_at_recommendation": {
+        "NVDA": 207.7
+      }
+    },
+    "BsG1NNUHBhs": {
+      "channel": "CouchInvestor",
+      "title": "Nebius Just Did to GPUs What Airlines Did to Seats",
+      "upload_date": "20261103",
+      "url": "https://www.youtube.com/watch?v=BsG1NNUHBhs",
+      "processed_at": "2026-11-03T15:56:22.294768",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Nebius's introduction of live GPU spot pricing (99 cents to $9.50 for B300 GPUs) may indicate that spare GPU capacity is already priced into the market. The creator raises an open question about whether this represents bullish utilization upside or whether the 99 cent pricing already reflects the value of interruptible capacity, suggesting investors should evaluate whether GPU scarcity premiums persist or are being competed away through dynamic pricing mechanisms."
+        ],
+        "tickers_mentioned": []
+      },
+      "price_at_recommendation": {}
+    },
+    "3qLACnduHvg": {
+      "channel": "CouchInvestor",
+      "title": "Why Marvell Is Spending $115 Billion on This Company #shorts",
+      "upload_date": "20261103",
+      "url": "https://www.youtube.com/watch?v=3qLACnduHvg",
+      "processed_at": "2026-11-03T15:56:32.033612",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Marvell's acquisition of Lumentum at $115 billion (counting debt) involves significant dilution risk. The all-stock deal with a fixed 4.5 Marvell shares per Lumentum share provides no downside protection (no collar) for Lumentum shareholders if Marvell's stock declines. Since the deal announcement, Marvell's stock has fallen, reducing the real value of the offer. Analysts worry the new shares will dilute Marvell's earnings per share, meaning each existing share owns a smaller slice of profit.",
+          "Antitrust approval uncertainty poses material risk to deal completion. China's regulatory review could be lengthy, and deal closing is not expected until first half of 2028. If antitrust approval fails, Marvell owes a $3.2 billion termination fee.",
+          "Customer relationship risk: Lumentum's rivals who currently buy Marvell's digital signal processors (DSPs) may stop purchasing or walk away rather than fund a competitor's owner, potentially undermining Marvell's existing business relationships and revenue streams."
+        ],
+        "tickers_mentioned": [
+          "MRVL",
+          "LUMN"
+        ]
+      },
+      "price_at_recommendation": {}
+    },
+    "790PCi9l87M": {
+      "channel": "CouchInvestor",
+      "title": "This Is How Palantir Outgrows Everyone",
+      "upload_date": "20261102",
+      "url": "https://www.youtube.com/watch?v=790PCi9l87M",
+      "processed_at": "2026-11-03T15:56:43.100229",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "PLTR",
+            "company_name": "Palantir Technologies",
+            "reason": "Palantir's US commercial revenue grew 149%, demonstrating exceptional growth despite widespread AI availability to competitors. The company's competitive moat is its ontology\u2014a live map of customer operations that connects AI models to real-world objects and actions (trucks, orders, parts) with decision lineage tracking. While rivals can rent the same AI brain, Palantir sells the map itself, which is the structural advantage. US commercial remaining deal value reached $6.2 billion (up 124%), showing strong contract backlog. The ontology compounds in value as every new application reuses the same map, creating increasing returns. Customers are declining to pay for science projects and want working systems\u2014Palantir's tethered model approach directly addresses this shift in buyer behavior.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Commoditization of AI models: The creator emphasizes that AI models themselves are becoming commoditized\u2014any company can rent the same AI brain. The real differentiation lies in domain-specific infrastructure (like Palantir's ontology) that tethers AI to real-world business operations. Generic AI companies without this infrastructure moat face commoditization risk."
+        ],
+        "tickers_mentioned": [
+          "PLTR"
+        ]
+      },
+      "price_at_recommendation": {
+        "PLTR": 175.05
+      }
+    },
+    "ObZLYkCkpcc": {
+      "channel": "CouchInvestor",
+      "title": "Chip Stocks Are Crashing! Here\u2019s the Truth About the AI Trade",
+      "upload_date": "20261102",
+      "url": "https://www.youtube.com/watch?v=ObZLYkCkpcc",
+      "processed_at": "2026-11-03T15:57:12.404554",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Nvidia has a durable moat with 75% gross margins that most competitors cannot replicate. Unlike memory makers whose moat is timing-dependent, Nvidia controls the entire ecosystem of AI bottlenecks and has defensible competitive advantages even with competitors emerging. The creator argues Nvidia is more of an investment than a trade because it generates substantial free cash flow and can support shareholder returns through buybacks and dividends regardless of short-term stock price volatility. Fundamental earnings have not been revised down despite the stock decline, suggesting the selloff is driven by macro factors (midterms, Fed policy) rather than business deterioration.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Stock has experienced significant volatility and is down from highs. A comment in the video suggested 'if Nvidia falls below 200, the party's over,' but the creator disputed this notion, arguing fundamentals should drive valuation, not arbitrary price levels. Large cap tech including Google, Amazon, and Microsoft have also sold off alongside Nvidia, indicating broader sector headwinds."
+          },
+          {
+            "ticker": "MU",
+            "company_name": "Micron Technology Inc.",
+            "reason": "Micron is generating hundreds of billions in revenue and free cash flow over the next couple of years with three consecutive quarters of amazing earnings despite stock stagnation. The company has signed long-term agreements extending to 2035, providing visibility into future cash generation. The creator believes Micron will ultimately break new highs and can reward shareholders through massive share buybacks even if market cap doesn't increase significantly. With proper execution on these contracts, the company should be able to generate enough cash to repurchase large percentages of outstanding shares.",
+            "when_to_buy": "Current levels after the 5-month consolidation period appear to be the entry point, particularly if bought on dips like Amazon and Google experience. The creator explicitly states they are still invested in Micron with conviction it will break new highs.",
+            "target_price": null,
+            "cautions": "Micron is a cyclical business with a history of overbuilding and subsequent margin compression. The stock has failed to respond to three consecutive quarters of bullish earnings, suggesting either valuation concerns or market rotation away from the trade. The creator emphasizes Micron is more of a trade than a long-term investment for most participants \u2014 people are buying it for 20-30% upside in the near term, not for the next decade. If the capex cycle ends, there is no long-term thesis. The company's moat is based on capacity timing rather than sustainable competitive advantage like Nvidia possesses."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "INTC",
+            "company_name": "Intel Corporation",
+            "reason": "Intel lacks free cash flow generation in 2027 and beyond, making it fundamentally challenged compared to peers like AMD. The massive run-up to $147 was driven by political sentiment and stimulus expectations rather than genuine business fundamentals, and the subsequent crash to $79 demonstrates the move was not supported by underlying value. The creator argues that when a stock is overpaid and reaches euphoric levels, it doesn't mean it needs to return to those highs \u2014 it may never have deserved to be there in the first place.",
+            "risk": "Stock crashed from $147 to $97 and then to $79 after hours, indicating significant downside risk. The creator suggests there may not be a floor to these prices until the business actually catches up to a realistic valuation. Unless Intel Foundry announces concrete demand and the business stabilizes, further downside is possible."
+          },
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices Inc.",
+            "reason": "While AMD does generate free cash flow and is growing faster than Intel, the creator takes a cautious stance, noting they have never been highly bullish on AMD and are much more bullish on Nvidia. The stock rose to $680 from enthusiasm but has since declined to $530, yet the creator would not buy it even at $530 pre-earnings, suggesting the valuation remains elevated relative to risk/reward. AMD's midterm targets suggest the market may need to reassess where fair value actually is after the euphoric move.",
+            "risk": "Stock trading down from $680 highs but creator remains negative despite significant decline. Similar to AMD's history, overpaid valuations do not necessarily mean stocks will recover to previous highs. Sentiment on AMD remains negative even after the substantial dip, suggesting more downside risk exists."
+          }
+        ],
+        "key_warnings": [
+          "Semiconductor and AI bottleneck stocks are trades, not long-term investments for most investors. The creator emphasizes repeatedly that participants are buying these names for 20-30% upside or 2-3x returns in the near term, not for decade-long holds. Once the capex cycle or supply constraints ease, there is no reason to own them long-term, making timing critical. Most investors are poor at timing, which creates significant risk.",
+          "Extreme valuation disconnects occurred in 2024 where stocks like Marwell, Applied Materials, and others 3-4x'd year-to-date despite slowing momentum the last 5 months. When stocks reach 250 and are now at 100, it doesn't mean they deserve to return to 250 \u2014 they may have never deserved to be there. This suggests substantial downside risk remains for names that were purchased closer to euphoric highs.",
+          "Market sentiment can flip on a dime, but recent attempts at sentiment shifts (Meta, SpaceX, Google, Amazon rallies) have all been denied and sold into. The broader selloff appears driven by macro factors (2024 midterm election year volatility, Iran war concerns, Fed policy, bond yields) rather than semiconductor fundamentals deteriorating. However, five consecutive months of negative price action despite bullish earnings and capex guidance suggests either structural rotation out of semis or the market is discounting future earnings peaks in advance.",
+          "The memory chip cycle is fundamentally constrained by the industry's fear of repeating past overbuilding errors that destroyed stock prices. This creates artificial scarcity and pricing power in the near term, but does not represent a sustainable moat. Once memory makers gain confidence in demand, they will build capacity, which will compress margins from current euphoric levels to perhaps 50% or lower \u2014 a healthier but far less profitable state.",
+          "2024 is a midterm election year, and historically midterm election years have been brutal for stocks. The creator notes this may entirely explain the weakness without any underlying issue with the AI trade itself. 2018 and 2022 midterms were ugly but 2019 and 2023 were massive up years. If the pattern holds, once the midterms and geopolitical concerns clear, sentiment could flip dramatically in favor of high-beta semiconductor and optics names.",
+          "Do not assume stocks need to return to previous highs just because they fell from them. Overpaid valuations don't automatically reset to fair value on the upside \u2014 they may mean the stock was never worth that price. The burden is on the business to execute and grow into higher valuations, not on the stock price to mechanically recover."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "MU",
+          "AOI",
+          "MRVL",
+          "AMAT",
+          "AMD",
+          "INTC",
+          "GOOGL",
+          "MSFT",
+          "AMZN",
+          "META",
+          "TSMC",
+          "SK",
+          "SKIX",
+          "BRCM",
+          "BLOM",
+          "ROCKET"
+        ]
+      },
+      "price_at_recommendation": {
+        "INTC": 61.51,
+        "AMD": 491.39,
+        "MU": 859.74,
+        "NVDA": 207.73
+      }
+    },
+    "FJsKh4gzk38": {
+      "channel": "CouchInvestor",
+      "title": "Why Palantir Bootcamps Are a Cheat Code",
+      "upload_date": "20261102",
+      "url": "https://www.youtube.com/watch?v=FJsKh4gzk38",
+      "processed_at": "2026-11-03T15:57:19.868059",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": []
+      },
+      "price_at_recommendation": {}
+    },
+    "Jq6wfEGv6Y4": {
+      "channel": "CouchInvestor",
+      "title": "It Took 42 Launches to Build the ISS. Starlab Wants to Replace It With One.",
+      "upload_date": "20261102",
+      "url": "https://www.youtube.com/watch?v=Jq6wfEGv6Y4",
+      "processed_at": "2026-11-03T15:57:26.976772",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": []
+      },
+      "price_at_recommendation": {}
     }
   },
   "channel_ids": {

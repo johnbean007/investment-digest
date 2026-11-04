@@ -32101,6 +32101,424 @@
         "tickers_mentioned": []
       },
       "price_at_recommendation": {}
+    },
+    "Vdf362oyfUY": {
+      "channel": "CouchInvestor",
+      "title": "AMD Q3 EARNINGS REPORT BREAKDOWN | MARKET CLOSE",
+      "upload_date": "20261103",
+      "url": "https://www.youtube.com/watch?v=Vdf362oyfUY",
+      "processed_at": "2026-11-04T18:50:40.023705",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices",
+            "reason": "AMD reported Q3 2026 earnings with revenue of $13.4 billion (beating guidance of $13.1 billion) and EPS of $29 (beating $27 estimate), representing 45% year-over-year revenue growth and 74% EPS growth. Data center segment revenue nearly doubled year-over-year to $8.5 billion, driven by strong Epic server adoption and initial MI450 GPU shipments. The company guided Q4 2027 revenue to $17 billion (beating consensus of $16.2 billion) and expects 2027 revenue growth exceeding 80%, more than twice their long-term model. Data center is expected to represent more than 80% of revenue in 2027, with server revenue expected to double year-over-year driven by Venice processor ramp and agentic CPU workload growth. The stock was trading at $490 after-hours, up approximately 9%, and Neil (AMD bull) stated the company appears well-positioned given it's no longer at the $600 peak price level.",
+            "when_to_buy": "Neil suggested the stock below $500 is less of a 'price to perfection' scenario; stock was at $490 after-hours following earnings",
+            "target_price": "$650 (Stacy Rasgon/Bernstein rating)",
+            "cautions": "Client and gaming segments declined 8% year-over-year with gaming down 40% due to lower semi-custom sales; PC market expected to decline double-digit percentage in 2027; gross margins expected to compress to 55% in Q4 from 56% in Q3; HBM and component cost inflation creating margin pressure; stock momentum dependent on market sentiment about broader AI capex cycle"
+          },
+          {
+            "ticker": "SMCI",
+            "company_name": "Super Micro Computer",
+            "reason": "Super Micro reported preliminary Q4 2026 guidance of $19-19.5 billion revenue (beating Wall Street expectations of $16.5 billion by ~18%), representing approximately 4x revenue growth year-over-year from $5 billion in 2025. The company beat preliminary revenue guidance by $2.5 billion and raised gross margin guidance to 12-12% versus prior 10.4-10.8%, implying gross profit near $2.4 billion versus $467 million year-ago (approximately 5x increase). The massive upside driven by SpaceX demand for server racks and custom solutions; Tanner expects actual results near $19-19.5 billion high end given historical 1-2% beat pattern on preliminary updates. Stock up 7-8% after-hours despite conservative initial reaction, with significant visibility into 2027 growth as SpaceX Colossus 2 deployment continues.",
+            "when_to_buy": "After-hours trading showed stock up 7-8% post-earnings; Tanner noted SMCI holding gains despite broader semi weakness",
+            "target_price": null,
+            "cautions": "Market has been punishing even exceptional earnings results in semis; despite 4x revenue guidance beat, stock only up modestly after-hours; heavy concentration on single customer (SpaceX) creates customer concentration risk; broader market skepticism about AI capex sustainability may limit upside despite solid fundamentals"
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "INTC",
+            "company_name": "Intel Corporation",
+            "reason": "Intel reported poor Q3 results with significant weakness in client CPU business and data center performance issues related to Israeli supply chain disruptions and manufacturing capacity constraints. The company failed to meet expectations for its data center business, which was a key growth driver. AMD management highlighted that Intel's manufacturing footprint issues are limiting their ability to supply demand, contrasting sharply with AMD's stronger execution. Intel's PC market client revenue weakness and inability to capitalize on strong demand signal structural problems.",
+            "risk": "Stock down significant amount year-to-date; completely unable to compete with AMD in data center despite strong demand environment; client business facing secular decline as memory and component costs rise"
+          },
+          {
+            "ticker": "POET",
+            "company_name": "Poet Technologies",
+            "reason": "Poet was a $25 stock at its 2024 peak but has collapsed significantly. Tanner expressed concern about trusting the company given past incidents of reaching out to creators and attempting to pump the stock. He stated it's 'hard to trust it' given the company's history and noted he's not following the company closely enough to assess changes made since those concerns emerged. The stock appears to be benefiting purely from AMD's momentum rather than standalone fundamentals.",
+            "risk": "Stock down approximately 80% from 2024 peaks; company credibility issues; no fundamental improvement evident; stock benefiting only from sector momentum"
+          }
+        ],
+        "key_warnings": [
+          "Semiconductor sector faces significant headwinds despite strong earnings: Nearly all major semiconductor companies have reported strong Q3 results (AMD, SMCI, Arista, Astera Labs, Navitas) but stocks have struggled to maintain gains or have declined. This suggests the market is skeptical about the sustainability of AI capex spending and the pace of the data center buildout cycle. Investors are concerned about whether hyperscalers can finance multi-gigawatt deployments and whether custom accelerators will cannibalize GPU demand.",
+          "Memory and component cost inflation pressuring margins across the sector: Multiple companies including AMD, Nvidia (per commentary), and others are facing HBM (high-bandwidth memory) and component cost inflation that is compressing gross margins. This is particularly acute for GPU businesses given their high memory content. Companies are attempting to pass costs to customers but ability to do so is uncertain.",
+          "PC market structural decline weighing on semiconductor suppliers: The PC market is experiencing a subseasonal second half with higher memory and component costs depressing demand. AMD expects double-digit percentage decline in PC unit shipments in 2027. This represents a secular shift away from PC-focused revenue and forces semiconductor companies to increasingly depend on data center/AI workloads.",
+          "Elevated political uncertainty and Iran tensions creating near-term volatility: Midterm elections on November 3rd and potential Trump administration policies on Iran were cited as major uncertainty factors. These geopolitical factors could impact semiconductor supply chains, capex sentiment, and broader market sentiment independent of company fundamentals. Moderators noted election outcome could shift market sentiment significantly.",
+          "Financing concerns for data center capex buildout at scale: Multiple questions raised about whether hyperscalers and frontier labs have financing capacity and physical infrastructure (land, power, cooling) to support the massive capex deployment plans. While AMD management expressed confidence in customer financing, this remains a key point of investor skepticism. The scale ($3+ gigawatts planned for 2027 alone) is unprecedented and unproven."
+        ],
+        "tickers_mentioned": [
+          "AMD",
+          "SMCI",
+          "NVDA",
+          "INTC",
+          "POET",
+          "ANET",
+          "ASTERA",
+          "NAVITAS",
+          "DELL",
+          "HPE",
+          "ASML",
+          "MRVL",
+          "KLAC",
+          "LRCX",
+          "ALAB",
+          "DDOG",
+          "DUOL",
+          "BLOCK",
+          "SQ",
+          "TOAST",
+          "BOOKING",
+          "SK",
+          "MU",
+          "NSTG",
+          "CORE",
+          "OUSTER",
+          "AET",
+          "CERE",
+          "GLDRN",
+          "CIPHER",
+          "SPY"
+        ]
+      },
+      "price_at_recommendation": {
+        "INTC": 58.25,
+        "SMCI": 29.88,
+        "AMD": 481.81,
+        "POET": 4.92
+      }
+    },
+    "RMkESnL-fp8": {
+      "channel": "CouchInvestor",
+      "title": "Why Anthropic's Customers Expand ~900%",
+      "upload_date": "20261102",
+      "url": "https://www.youtube.com/watch?v=RMkESnL-fp8",
+      "processed_at": "2026-11-04T20:44:58.677126",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Model cycle risk dominates the Anthropic investment thesis. Over 80% of third quarter revenue came from models released in the prior 6 months, indicating heavy dependence on continuous model releases rather than sustainable customer expansion. Future revenue growth may be constrained if model release cadence slows or competitive models emerge.",
+          "Quality of revenue is deteriorating. Approximately 5-7% of 9-month 2026 revenue came from customers later found violating usage policies, suggesting potential future revenue clawbacks and customer churn risk.",
+          "Distribution concentration risk through cloud storefronts. Nearly 48% of first half revenue ran through CSP marketplaces that take a fee, reducing margins and creating dependency on cloud provider relationships and pricing terms.",
+          "Expansion story may be misleading. While net revenue retention of 900% appears strong, the critical question remains whether upside lives in existing customer logos or is driven primarily by the next model release cycle. The sustainability of expansion is unclear."
+        ],
+        "tickers_mentioned": []
+      },
+      "price_at_recommendation": {}
+    },
+    "n1BSLZFtEB0": {
+      "channel": "CouchInvestor",
+      "title": "Google Had Its Fastest Search Growth in 5 Years and Lost $500 Billion #shorts",
+      "upload_date": "20261102",
+      "url": "https://www.youtube.com/watch?v=n1BSLZFtEB0",
+      "processed_at": "2026-11-04T20:45:08.741001",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Google's AI integration into search results is creating a monetization headwind. While search grew 12% and is Alphabet's largest revenue driver at $63.4 billion, the shift toward AI-mode answers carries lower monetization per query. Currency fluctuations were cited as the single largest driver of revenue growth, masking underlying weakness in per-query economics. Investors should monitor whether Google can successfully scale ads within AI answers before assuming the business model remains intact.",
+          "Meta is gaining competitive ground on Google in advertising despite both companies investing heavily in AI. Meta's ad revenue grew 26% versus Google's 12%, driven by superior ad targeting efficiency (10% rise in impressions, 14% rise in price per ad). Meta's ad revenue ($63.1 billion) is now neck-and-neck with Google search ($63.4 billion), and the creator predicts Meta may surpass Google search next quarter. This represents a structural shift in the competitive advertising landscape."
+        ],
+        "tickers_mentioned": [
+          "GOOGL",
+          "META"
+        ]
+      },
+      "price_at_recommendation": {}
+    },
+    "arOWzikJ9Ak": {
+      "channel": "CouchInvestor",
+      "title": "Why Anduril Built a Laptop Around a 90% Auditable Parts List",
+      "upload_date": "20261101",
+      "url": "https://www.youtube.com/watch?v=arOWzikJ9Ak",
+      "processed_at": "2026-11-04T20:45:26.700497",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Supply chain transparency and domestic sourcing claims require verification. While Anduril claims over 90% of prototype component procurement cost comes from US and allied suppliers, the actual ship day percentage is stated as TBD and most likely will not be 100% American on day one. Critical components like displays are still only manufactured in China, creating a gap between the auditable supply chain narrative and current manufacturing reality. Investors should be cautious about the branding claims around 'made in America' until the company demonstrates actual delivery against these specifications."
+        ],
+        "tickers_mentioned": [
+          "QCOM"
+        ]
+      },
+      "price_at_recommendation": {}
+    },
+    "afHtfkDeg-s": {
+      "channel": "CouchInvestor",
+      "title": "I Sold an Entire Position This Week. Here\u2019s What I\u2019m Doing With the Money",
+      "upload_date": "20261101",
+      "url": "https://www.youtube.com/watch?v=afHtfkDeg-s",
+      "processed_at": "2026-11-04T20:46:24.509154",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet Inc.",
+            "reason": "Google Cloud is growing at 102.6% year-over-year and is now a $30.7 billion business per quarter. The creator's thesis is that Google Cloud's explosive growth doesn't mean search is dying, but rather that Google is diversifying into a second massive, highly profitable business. By end of 2027, Google Cloud could be as large as or larger than Search. Google generates $471 billion in revenue and is expected to grow 22-27% annually through 2028. The creator loaded up on Google last year when sentiment was negative and search growth slowed, viewing this as a buying opportunity. Search weakness is explained by AI Overview/AI Mode monetization lag, which the company is addressing. Google is trading at a forward P/E of 20.2x, which the creator views as attractive for one of the best businesses on the planet.",
+            "when_to_buy": "If stock stays at $280 or below, the creator will probably buy more shares. Current price mentioned as $279.",
+            "target_price": null,
+            "cautions": "Free cash flow is currently negative due to infrastructure investments for AI, though the creator expects this to turn positive by end of 2027. European Commission fines impacted this quarter's free cash flow. Search growth has decelerated to 12% due to FX headwinds, World Cup pull-forward demand in Q2, and AI Overview monetization gaps."
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms Inc.",
+            "reason": "Meta absolutely crushed earnings and demonstrated their advertising business is much better than everyone else in the industry, including Google. The creator states Meta's advertising business is going to be bigger than Google's. Meta is in the creator's main buy zone at current prices. The creator frequently returns to the idea that every time they consider buying other stocks, they think 'maybe I should just own more Meta' because of its outperformance and strength.",
+            "when_to_buy": "Current main buy zone is between $600-$625. Stock is trading below the 50-week ceiling of $630. Even at current prices, the creator says Meta is extremely undervalued.",
+            "target_price": null,
+            "cautions": "Stock dropped below $630 resistance level. Extremely macro-driven. Despite strength, still subject to market volatility."
+          },
+          {
+            "ticker": "BROADCOM",
+            "company_name": "Broadcom Inc.",
+            "reason": "The creator states Broadcom is definitely on their buy list and considers it extremely undervalued. It appears as a high-conviction holding in the creator's small eToro trading account meant to test aggressive market-beating strategies.",
+            "when_to_buy": "Currently in buying zone. Stock trading in the support area; main support sits near $309.",
+            "target_price": null,
+            "cautions": "Stock hasn't moved much week-over-week, suggesting consolidation. Limited detail provided on specific catalysts."
+          },
+          {
+            "ticker": "SOFI",
+            "company_name": "SoFi Technologies Inc.",
+            "reason": "SoFi is the creator's second-largest position (after NVDA) and is in the buying zone and at support area. The creator wants more exposure to non-AI-related financial names as they exit 2026 into 2027. SoFi saw positive stock movement during the week despite broader market weakness.",
+            "when_to_buy": "Currently at support area. Ceiling sits just above $17 per share.",
+            "target_price": null,
+            "cautions": "Extremely macro driven. Limited upside until macro environment stabilizes."
+          },
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices Inc.",
+            "reason": "AMD is the creator's third-largest position. The creator expects AMD to report much more positive results compared to Intel's recent huge miss. Reports Tuesday after close, which will be a catalyst for movement. AMD is positioned to benefit from the semiconductor cycle strength.",
+            "when_to_buy": "Stock at $504. Daily 50 resistance at $542.",
+            "target_price": null,
+            "cautions": "Daily 200 support sits at $402, indicating a potential big leg down if earnings disappoint. Semiconductor sector is highly cyclical and sentiment-driven. Results have not rewarded good performances in cybersecurity and other sectors recently."
+          },
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Nvidia is the creator's top position by weight in the portfolio despite taking a big hit. Implied to be a core AI infrastructure holding. The creator maintains conviction in the position as a long-term AI play.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Stock has declined significantly recently. Is a high-beta name subject to market volatility and sentiment swings on AI narrative."
+          },
+          {
+            "ticker": "RKLB",
+            "company_name": "Rocket Lab USA Inc.",
+            "reason": "Rocket Lab is in the creator's portfolio at a meaningful position weight. Shows the creator's exposure to space technology and emerging aerospace innovation. Remains in accumulation area with not much movement since last week.",
+            "when_to_buy": "Still in main buy zone. Not much movement week-over-week suggests it's consolidating at support levels.",
+            "target_price": null,
+            "cautions": "Execution risk on space launch systems. High-beta name."
+          },
+          {
+            "ticker": "UBER",
+            "company_name": "Uber Technologies Inc.",
+            "reason": "Uber is considered a cheap name that generates quite a lot of free cash flow. The creator still expects Uber to report very good numbers. Reports Wednesday before the market opens, which provides a catalyst. The Delivery Hero acquisition implementation is expected to take time but shows strategic expansion. Structural support is at $60 with first resistance at $72.",
+            "when_to_buy": "Currently trading near support. Weekly 200 ceiling sits just $2 above current price.",
+            "target_price": null,
+            "cautions": "Market wants to hear more about autonomous vehicle progress, though this isn't currently impacting the business meaningfully. Delivery Hero integration will take time. Extremely macro-driven valuation."
+          },
+          {
+            "ticker": "PALANTIR",
+            "company_name": "Palantir Technologies Inc.",
+            "reason": "Palantir is part of the creator's core portfolio. Reports Monday after close with expected strong growth across the board. The creator maintains a position despite market volatility.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Government contractor with concentration risk. Growth dependent on government spending and contracts."
+          },
+          {
+            "ticker": "DLOC",
+            "company_name": "dLocal Limited",
+            "reason": "dLocal appears in the creator's portfolio as a holding. Implied to be attractive based on relative valuation and growth potential in emerging markets payments.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Exposed to emerging market currency and political volatility, as evidenced by Brazilian election impact on Nu and Mercado Libre."
+          },
+          {
+            "ticker": "CWEB",
+            "company_name": "CoreWeave Inc.",
+            "reason": "CoreWeave is on paper quite undervalued based on projections and is in the creator's portfolio. AI infrastructure play benefiting from generative AI data center buildout. Reports earnings in next 2 weeks. Support at $50, trading at $54. Resistance above $80.",
+            "when_to_buy": "Currently in accumulation zone between $50-80 based on technical levels.",
+            "target_price": null,
+            "cautions": "Execution is key for this company. High-growth projections must materialize for valuation thesis to hold. Early-stage company with execution risk. Recently IPO'd and still proving business model."
+          },
+          {
+            "ticker": "OSCR",
+            "company_name": "Oscar Health Inc.",
+            "reason": "Oscar Health is part of the creator's core portfolio holdings. Implied to be selected for growth potential or turnaround opportunity in health insurance.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Health insurance is heavily regulated and faces margin pressure from medical cost inflation. Macro-dependent."
+          },
+          {
+            "ticker": "MU",
+            "company_name": "Micron Technology Inc.",
+            "reason": "Micron is held as house money in the portfolio (meaning gains made are already substantial). Trading at 10x earnings, which the creator says doesn't make sense given it's a quality semiconductor business. Creator is reconsidering the position as they think about deploying capital into higher-conviction ideas for 2027.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Memory prices and shortages create uncertainty about where earnings normalize. Could be dead money or simply pay a dividend if memory cycle doesn't recover. DRAM/NAND pricing cycles are difficult to predict. Valuation doesn't justify holding if memory prices remain depressed."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "RUBRIK",
+            "company_name": "Rubrik Inc.",
+            "reason": "The creator sold their entire position in Rubrik (which was up almost 90%) to consolidate into more undervalued names. While Rubrik is a good company, the valuation is stretched. At $25 billion market cap generating $1.54 billion in revenue with 20%+ expected growth, it carries a PEG ratio of 12.1 and trades at 10x sales multiple looking out to 2029. Even if the company generates $3-3.5 billion in revenue by fiscal 2029, it's still quite expensive and paying a lot for future growth. Cybersecurity names broadly are expensive and not justifying valuations on profitability metrics. Similar quality cybersecurity names like Fortinet have been crushed despite not being as expensive as Rubrik.",
+            "risk": "Stock has already run up significantly (+90% from creator's entry). Valuation does not leave room for execution misses or market multiple compression. Expected to trade at 10x sales out to 2029 assuming strong execution. Risk of 25%+ downside if the company disappoints on growth like Fortinet did."
+          },
+          {
+            "ticker": "REDDIT",
+            "company_name": "Reddit Inc.",
+            "reason": "Reddit took a huge hit on Friday (-44.2% from creator's cost basis) due to AI Overview concerns from Google. While the creator views this as an overreaction, they are not adding to the position. The core thesis remains unchanged but now includes real concerns: can Reddit secure a new AI data licensing deal with Google, Anthropic, or OpenAI? Can they stop the user base bleeding and actually grow it? Monetization per user is good in the short run, but long-term success requires user base growth. Google's AI Overview success directly threatens Reddit's traffic and business model. The creator is in 'wait and see' mode despite Reddit being on paper very cheap and undervalued.",
+            "risk": "User base erosion from AI Overview integration in Google Search. Dependency on securing AI data licensing deals which are uncertain. Required logged-in experience may hurt user engagement initially. Stock down 44.2% from creator's entry. Further downside if no major AI licensing deal materializes and user trends don't stabilize."
+          },
+          {
+            "ticker": "NFLX",
+            "company_name": "Netflix Inc.",
+            "reason": "Creator has a small Netflix position down 27.5% (-$2,000 on $5,400 position). While only a small position, the creator is considering consolidating it into higher-conviction ideas that have better upside potential. Netflix is being held but no longer seen as a priority allocation as the creator repositions for 2027.",
+            "risk": "Stock down 27.5% from creator's entry. Smaller position size suggests lower conviction. Streaming competition remains intense. Limited ability to significantly outperform market from current levels compared to higher-growth AI infrastructure names."
+          },
+          {
+            "ticker": "FORTINET",
+            "company_name": "Fortinet Inc.",
+            "reason": "Creator cites Fortinet as an example of a great cybersecurity company that was absolutely crushed (down 25% recently) and is actually less expensive than Rubrik. This is used as a cautionary tale that good companies and good reports are not getting rewarded in the current market if they belong to out-of-favor sectors like cybersecurity.",
+            "risk": "Down 25% despite being less expensive than Rubrik. Cybersecurity sector broadly under pressure. Earnings quality not being rewarded if sector sentiment is negative."
+          }
+        ],
+        "key_warnings": [
+          "Good reports are not getting rewarded in the current market. The creator observed that even strong earnings reports from quality companies in cybersecurity (Fortinet) and other sectors are resulting in 20-25% sell-offs. This suggests market-wide sector rotation and sentiment shifts that override fundamental strength.",
+          "Cybersecurity sector valuations are stretched and getting compressed. Names like Rubrik and Fortinet are expensive on forward earnings and not profitable on GAAP basis, yet market is punishing them. Creator is rotating away from the sector despite acknowledging quality businesses.",
+          "AI monetization uncertainty is pressuring companies. Both Google (through Reddit traffic loss to AI Overview) and Reddit (through lack of AI data licensing deals) are being pressured by uncertainty around how AI tools will monetize and who wins/loses from AI integration. This creates binary outcomes.",
+          "Emerging market volatility creating overreaction opportunities. Brazilian election caused Nu and Mercado Libre to take big hits despite strong long-term track records through prior turbulence. These moves appear to be overreactions that may present buying opportunities.",
+          "Semiconductor sector remains cyclical and sentiment-driven. Despite strong growth narratives, semiconductor stocks are subject to supply/demand cycle concerns and can face sharp reversals if memory prices or supply dynamics shift.",
+          "US Tech 100 is down 3.5% over the past year despite bull market narrative. The creator warns that despite being in a so-called bull market, major tech indices have not performed well, suggesting rotation away from mega-cap tech or weakness in the broader tech sector.",
+          "Portfolio concentration in growth/AI means higher beta and larger drawdowns. Creator acknowledges that while their portfolio beats the S&P 500 long-term (up 20% YTD vs S&P 10.8%), it experiences more aggressive drawdowns when market declines because of higher-growth company selection. Portfolio down 15% in the past month despite being up 20% YTD.",
+          "Macro environment remains uncertain with geopolitical risks. Iran tensions, inflation, and interest rate expectations create a complex backdrop. Fed expected to raise 25 basis points in December with 70% probability, adding uncertainty to equity valuations.",
+          "Mid-term election outcomes uncertain though current odds favor Democrats. While historically markets go up post-elections, current environment with geopolitical tensions and inflation makes outcome unpredictable."
+        ],
+        "tickers_mentioned": [
+          "AAPL",
+          "PLTR",
+          "ROKU",
+          "SMCI",
+          "FTNT",
+          "TEST",
+          "SHOP",
+          "AMD",
+          "NVDA",
+          "NAVI",
+          "ANET",
+          "BKNG",
+          "ALR",
+          "UBER",
+          "APPF",
+          "QCOM",
+          "AMC",
+          "FSLY",
+          "COHR",
+          "CAVA",
+          "ARM",
+          "LUMN",
+          "UNIT",
+          "CELH",
+          "LITE",
+          "AON",
+          "CLDR",
+          "ATLA",
+          "ABNB",
+          "IREN",
+          "NBST",
+          "GOOGL",
+          "META",
+          "RKLB",
+          "SOFI",
+          "AMZN",
+          "NU",
+          "MELI",
+          "NFLX",
+          "REDDIT",
+          "XOM",
+          "CWEB",
+          "RUBRIK",
+          "MICRON",
+          "RBMD",
+          "VOYG",
+          "OSCR",
+          "DLOC",
+          "PYPL",
+          "HOOD",
+          "GOOG"
+        ]
+      },
+      "price_at_recommendation": {
+        "GOOGL": 290.84,
+        "NFLX": 66.68,
+        "DLOC": 0.0,
+        "META": 630.11,
+        "UBER": 70.15,
+        "CWEB": 17.87,
+        "RKLB": 51.35,
+        "MU": 793.12,
+        "AMD": 481.02,
+        "NVDA": 200.89,
+        "SOFI": 17.39,
+        "OSCR": 35.45
+      }
+    },
+    "XkOtJW2LCk0": {
+      "channel": "CouchInvestor",
+      "title": "Why Anthropic's Partners Sell, Fund, and Compete",
+      "upload_date": "20261101",
+      "url": "https://www.youtube.com/watch?v=XkOtJW2LCk0",
+      "processed_at": "2026-11-04T20:46:33.262782",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Anthropic faces structural dependency risk on its major partners (Google, Amazon, Broadcom, AMD) who simultaneously act as suppliers, funders, and competitors. The core concern is whether a public company can remain dependent on suppliers who sit on all three sides of the deal\u2014selling chips and cloud services, funding operations through credit facilities and convertible notes, while also building competing AI models. This creates potential conflicts of interest that could limit Anthropic's strategic independence as it scales."
+        ],
+        "tickers_mentioned": [
+          "GOOGL",
+          "AMZN",
+          "AVGO",
+          "AMD"
+        ]
+      },
+      "price_at_recommendation": {}
+    },
+    "DMFBMyMZ9po": {
+      "channel": "CouchInvestor",
+      "title": "Amazon's Data Center Cash Cycle: 2 Years, Months, Then Break-Even",
+      "upload_date": "20261101",
+      "url": "https://www.youtube.com/watch?v=DMFBMyMZ9po",
+      "processed_at": "2026-11-04T20:46:40.554779",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": [
+          "AMZN"
+        ]
+      },
+      "price_at_recommendation": {}
+    },
+    "Eju9qHwScyg": {
+      "channel": "CouchInvestor",
+      "title": "Amazon Runs 2 Growth Engines Off 1 Scarce Memory Pool",
+      "upload_date": "20261031",
+      "url": "https://www.youtube.com/watch?v=Eju9qHwScyg",
+      "processed_at": "2026-11-04T20:46:49.830971",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Amazon faces a critical capital allocation trade-off between AI and core business growth due to scarce memory (HBM vs DRAM) availability. Both segments are growing rapidly, but limited memory supply forces difficult decisions on how much capacity to allocate to AI accelerators versus traditional cloud infrastructure. Amazon's strategy prioritizes customer relationships and 'customer obsession' as the allocation rule, but the underlying constraint suggests potential capacity limitations that could impact either AI or core AWS services depending on allocation decisions."
+        ],
+        "tickers_mentioned": [
+          "AMZN"
+        ]
+      },
+      "price_at_recommendation": {}
     }
   },
   "channel_ids": {
@@ -32113,7 +32531,5 @@
     "FinTek": "UCxdWHEhEPiYhCADMrn4PdhQ"
   },
   "last_eval_week": "2026-W45",
-  "alerts": {
-    "fallback": "2026-11-02T12:21:38.242518"
-  }
+  "alerts": {}
 }

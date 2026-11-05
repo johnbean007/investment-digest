@@ -31794,9 +31794,22 @@
       "title": "Why Anthropic's Compute Bill Looks Like ~$855B",
       "upload_date": "20261031",
       "url": "https://www.youtube.com/watch?v=Yd6Clc2Kq3I",
-      "processed_at": "2026-11-02T09:36:11.720873",
-      "transcript_fails": 1,
-      "last_reason": "error"
+      "processed_at": "2026-11-05T09:43:40.522604",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Anthropic faces a structural mismatch between fixed compute commitments (~$855B over multi-year periods with non-cancelable terms) and variable pay-as-you-go revenue. New capacity tranches will hit costs before revenue catches up, causing margin compression. The IPO investment thesis depends on whether demand can outrun the locked-in compute shelf\u2014if demand growth slows, the company will be burdened by massive fixed obligations.",
+          "Broadcom, Google, Amazon, and Microsoft have significant compute lease commitments (totaling ~$430B+ in named floors alone, with up-to deals adding more). These are non-cancelable multi-year obligations that create downside risk if AI demand fails to materialize or if utilization rates fall short of expectations."
+        ],
+        "tickers_mentioned": [
+          "AVGO",
+          "GOOGL",
+          "AMZN",
+          "MSFT"
+        ]
+      },
+      "price_at_recommendation": {}
     },
     "GIcMfKPZPk4": {
       "channel": "CouchInvestor",
@@ -32517,6 +32530,389 @@
         "tickers_mentioned": [
           "AMZN"
         ]
+      },
+      "price_at_recommendation": {}
+    },
+    "0M2-yDoGLYc": {
+      "channel": "CouchInvestor",
+      "title": "Are AI Stocks In Danger After the Midterms? Here's My Plan",
+      "upload_date": "20261104",
+      "url": "https://www.youtube.com/watch?v=0M2-yDoGLYc",
+      "processed_at": "2026-11-05T09:43:04.188090",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Nvidia is expected to grow at least 70% next fiscal year on a very large revenue base, which is described as astonishing. The company continues to show no signs of slowing down in the near term, with consistent growth expected across quarters and years. Despite being a $5 trillion behemoth, the growth trajectory remains robust and the forward valuation is considered quite cheap relative to growth.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Nvidia is currently down 2.2% along with other semiconductor names due to post-midterm election concerns about data centers, which the creator characterizes as market overreaction. The creator notes they are not personally buying AMD at current levels despite its strength, suggesting a cautious stance on entry points for the semiconductor complex despite bullish long-term views."
+          },
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices",
+            "reason": "AMD delivered a very good quarter with revenue beat and guidance beat, plus excellent 2027 guidance comments. The company is expected to grow over 80% next fiscal year, generating close to $100 billion in revenue by end of next fiscal year\u2014a 2x increase from $25 billion two years ago. Server CPU revenue will 2x and data center AI revenue will grow over 2x, with data center comprising over 80% of revenue. AMD's business is now growing into its previously elevated valuation, and the company was previously underestimated as a small player in semiconductors.",
+            "when_to_buy": null,
+            "target_price": "Approximately $94 billion in expected revenue for next fiscal year",
+            "cautions": "The creator personally is not buying AMD today despite still holding a significant position, because they find better risk-reward opportunities elsewhere like Broadcom and Nvidia, which they view as cheaper on a valuation basis. AMD is up 120% year to date and experiencing a 23-24% drawdown, so valuation discipline is warranted."
+          },
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Nvidia is considered quite cheap on a valuation basis compared to other mega-cap tech names. The company continues to demonstrate strong growth at 70%+ expected next fiscal year, and management commentary shows no signs of deceleration in demand or spending.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Nvidia shares are currently down 2.2% due to post-midterm concerns about data center regulations, which the creator views as market overreaction. The semiconductor sector as a whole has experienced a significant correction with 42 stocks down 40% or more from 52-week highs."
+          },
+          {
+            "ticker": "NUVB",
+            "company_name": "Nubeva (implied from 'Nevius' references - likely Nubeva or similar)",
+            "reason": "The creator is extremely bullish on Nubeva despite it taking a very big hit from headlines about data center permitting. The company reports next week and the creator is expecting a very good report with very good guidance, possibly including new ARR numbers for 2027. Based on current GPU pricing and contracts already set in stone for 2027, the numbers could surprise the market. Nubeva has a diversified portfolio of data centers around the world and is not reliant on Texas despite recent headline concerns.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Stock has been hit repeatedly because of headlines about data center regulations in Texas. GPU prices one year from now will look very different than today, so any 2027 ARR guidance should be taken with a grain of salt. The creator emphasizes watching quarterly execution and whether the company meets/beats targets rather than relying on forward ARR projections. The creator notes they are waiting for next week's earnings report before taking action."
+          },
+          {
+            "ticker": "UBER",
+            "company_name": "Uber Technologies",
+            "reason": "Uber had an excellent quarter with gross bookings up 20% year over year, non-GAAP operating income up 38%, non-GAAP EPS up 35%, and free cash flow of $10.4 billion for trailing 12 months. The company is profitable, growing, and investing in future initiatives. Delivery segment is performing extremely well with 23% bookings growth and grocery/retail run rate up 40% to $15 billion. The company is focused on organic growth, the autonomous vehicle ecosystem, and opportunistic buybacks while integrating recent acquisitions. The business continues to execute exactly as needed with hundreds of millions of trips weekly.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Uber is up 8.3% today but still down 13% year to date. Mobility segment slowed to 17% gross booking growth year over year due to driver supply constraints in Brazil, India and Canada, though global supply accelerated in October. Autonomous vehicle deployment remains not a meaningful needle mover for the business currently\u2014only 500 Uber Eats orders and 4 rides from agents out of 320 million total trips during Halloween week. M&A is now paused to focus on integrating recent deals including the pending Delivery Hero acquisition."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Post-midterm election concerns about data center permitting, particularly in Texas, are causing market panic and stock declines across the semiconductor and data center infrastructure sectors. However, the creator views this as overreaction because: (1) data center regulation is not new\u2014Texas GOP Governor Abbott announced similar concerns in September; (2) the incoming Texas governor's data center priorities (union jobs, transparency, cost verification) are mostly already being implemented by responsible operators; (3) mega-cap tech companies like Microsoft, Google, Meta, and Amazon that are also building data centers and buying chips are up significantly (Microsoft +6%, Google +4.8%, Amazon +6.7%), suggesting no fundamental slowdown in data center investment; and (4) historically, the S&P 500 goes up post-midterm elections. The creator emphasizes this is short-term noise that should not drive portfolio decisions.",
+          "The semiconductor sector is experiencing a significant correction with 42 stocks down 40% or more from their 52-week highs. While this may be a necessary valuation correction after excessive optimism (some names like Intel were up too much and should not have reached those levels), it does not mean all these names are extremely cheap. Investors should focus on company fundamentals, growth rates, and forward valuations rather than assuming all down 40%+ stocks are bargains.",
+          "Entropic and other AI infrastructure companies trading in private markets at extremely high valuations (Entropic at over $1 trillion) may not reflect realistic public market valuations. The creator notes that if Entropic were public, it would not trade at such a multiple. Additionally, while Entropic is growing extremely rapidly (1,100% YoY in Q3), quarter-over-quarter growth has slowed to 46.7%, and operating expenses are now ramping up substantially ($9.86 billion in compute and infrastructure expense in Q3 alone). If growth cannot continue to accelerate or the company doesn't become more efficient, profitability could face pressure. The business looks amazing but is likely extremely overvalued.",
+          "High-growth AI and semiconductor companies have significant uncertainty 5 years into the future. Howard Marks and the creator note that companies like Entropic cannot be valued on a traditional analytical value basis\u2014investors must place a bet on their future viability. This means there is no middle ground for some of these companies: they will either become gigantic profit machines or may not exist. The creator mitigates this risk by emphasizing that if any individual AI infrastructure company fails, the need for compute doesn't disappear\u2014it simply shifts to another provider.",
+          "Capital markets are tightening for less-established players. While companies willing to lend money have plenty of demand, lenders are becoming more selective and demanding higher yields for riskier borrowers. This creates a barrier to entry for new competitors trying to challenge established players like Entropic. New market entrants face much greater difficulty raising capital compared to first-movers, making it extremely difficult for a new company to go from zero to Entropic-scale in three years. Existing large players are more likely to capture AI infrastructure opportunities than new startups."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "AMD",
+          "BROADCOM",
+          "INTC",
+          "DELL",
+          "NUVB",
+          "MSFT",
+          "GOOGL",
+          "META",
+          "AMZN",
+          "POET",
+          "RGTI",
+          "CREDO",
+          "SNDK",
+          "MRVL",
+          "AAPL",
+          "UBER",
+          "AAPL"
+        ]
+      },
+      "price_at_recommendation": {
+        "NUVB": 4.73,
+        "NVDA": 200.13,
+        "UBER": 69.87,
+        "AMD": 488.78
+      }
+    },
+    "7P7M0xUv78E": {
+      "channel": "CouchInvestor",
+      "title": "Nebius Cools AI by Making the Coolant Hotter on Purpose",
+      "upload_date": "20261104",
+      "url": "https://www.youtube.com/watch?v=7P7M0xUv78E",
+      "processed_at": "2026-11-05T09:43:11.350050",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": []
+      },
+      "price_at_recommendation": {}
+    },
+    "HpBCfo-1su4": {
+      "channel": "CouchInvestor",
+      "title": "Why AMD Put 31 Terabytes in One Rack to Take On Nvidia #shorts",
+      "upload_date": "20261104",
+      "url": "https://www.youtube.com/watch?v=HpBCfo-1su4",
+      "processed_at": "2026-11-05T09:43:19.524499",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "AMD's rack-scale business strategy is very complex according to AMD's finance chief Jean Hu, and gigawatt-scale deals with customers play out over years, meaning revenue recognition and profitability timelines are uncertain and extended."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "AMD"
+        ]
+      },
+      "price_at_recommendation": {}
+    },
+    "ICCyBfBv6rk": {
+      "channel": "CouchInvestor",
+      "title": "Why CoreWeave Can't Cash In When GPU Rents Soar #shorts",
+      "upload_date": "20261104",
+      "url": "https://www.youtube.com/watch?v=ICCyBfBv6rk",
+      "processed_at": "2026-11-05T09:43:31.045548",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [
+          {
+            "ticker": "CLWD",
+            "company_name": "CoreWeave",
+            "reason": "CoreWeave has locked in long-term GPU rental contracts at below-market rates and cannot capture the significant upside from rising GPU prices as contracts mature. The company borrowed heavily to purchase Nvidia chips and rents them on long leases, meaning rental price increases only flow through as old contracts expire. However, the company's debt servicing costs are immediate and substantial\u2014it paid $640 million in interest last quarter against only $128 million in adjusted operating income. This creates a structural mismatch where the mortgage is due today while price upside is delayed until contract renewal. In contrast, competitor Nebius deliberately kept capacity free to capture current high prices at premium rates and secured prepayments covering half or more of build costs, demonstrating superior capital allocation and flexibility.",
+            "risk": "CoreWeave is locked into an unfavorable lease structure that prevents it from capitalizing on the GPU rental boom, creating ongoing margin pressure until contracts roll over and refinance risk if rates remain elevated or capacity prices decline."
+          }
+        ],
+        "key_warnings": [
+          "GPU rental market boom is creating significant pricing power, but companies with long-term fixed-rate contracts are unable to capture this upside. The gap between spot market GPU rental rates and locked-in contract rates represents a major risk for leveraged infrastructure providers who bet on market downturns but are now exposed to opportunity cost in a surge."
+        ],
+        "tickers_mentioned": [
+          "CLWD",
+          "NVDA"
+        ]
+      },
+      "price_at_recommendation": {}
+    },
+    "Yz06kjzQHJE": {
+      "channel": "CouchInvestor",
+      "title": "AI Stocks Are Crashing. Here\u2019s What I\u2019m Actually Doing",
+      "upload_date": "20261030",
+      "url": "https://www.youtube.com/watch?v=Yz06kjzQHJE",
+      "processed_at": "2026-11-05T09:44:07.814145",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon",
+            "reason": "Amazon is now extremely cheap for this type of business. AWS grew 39.3% year-over-year to close to $46 billion in revenue with 38.7% margins. AWS backlog grew to $578 billion with over 50% growth year-over-year. AWS is expected to grow 40% year-over-year in 2027 and over 40% in 2028. Operating margin reached a record 13.9%. The company is one of the best businesses to buy and hold, with confidence it will be a bigger and better company in 5-10 years. AWS has a $184 billion annualized revenue run rate and is accelerating for the sixth straight quarter.",
+            "when_to_buy": "After recent selloff despite strong earnings",
+            "target_price": null,
+            "cautions": "Stock is down despite great earnings due to market mood regarding capital spending and free cash flow concerns, but the core business fundamentals remain strong."
+          },
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet/Google",
+            "reason": "Google is one of the best businesses to own. Search as a percentage of overall revenue is now less than 50%, showing diversification. The company has demonstrated strong fundamentals and is a name where you buy and hold and sleep well at night, knowing the company will be bigger and better in 5-10 years.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Stock has underperformed or is down this year despite strong business performance."
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms",
+            "reason": "Meta is one of the best businesses to own with nothing wrong with it from a business perspective. It is one of those names where you buy and hold and sleep well at night. The creator expects it to be a bigger and better company in 5-10 years.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Stock has underperformed or is down this year despite strong business fundamentals."
+          },
+          {
+            "ticker": "MSFT",
+            "company_name": "Microsoft",
+            "reason": "Microsoft is one of the best businesses to own. It is a name where you buy and hold and sleep well at night, with confidence it will be a bigger and better company in 5-10 years. The company continues to demonstrate strong business performance despite recent market volatility.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "RDWR",
+            "company_name": "Rubrik",
+            "reason": "The valuation no longer makes sense relative to other companies in the market. The creator is considering selling completely out of Rubrik because it is too expensive when other companies are available at much cheaper valuations. Rubrik stock is subject to significant volatility on earnings with potential 20-30% daily crashes, whereas competitors offer better value.",
+            "risk": "Overvalued compared to peers; potential 20-30% single-day crashes on earnings"
+          },
+          {
+            "ticker": "RDDT",
+            "company_name": "Reddit",
+            "reason": "While Reddit beat on most financial metrics with 36% ARPU growth and 45% adjusted EBITDA margins, user metrics missed across the board including daily active users, weekly actives, and international users. Daily actives are flat quarter-over-quarter. Traffic fell meaningfully in Q3 with the decline accelerating late in the quarter, down more than 1 million referrals per week in October. If traffic trends continue, daily actives could fall by low double-digit percent from the 130 million base. The critical issue is that Reddit is losing traffic to AI overviews and AI modes from Google, which send very little traffic back to Reddit. Without a successful data licensing deal with major AI companies, Reddit faces a very bad scenario.",
+            "risk": "User base decline despite monetization improvements; AI competition reducing traffic; potential low double-digit percent decline in daily actives if current trends hold"
+          }
+        ],
+        "stocks_to_avoid_partially": [
+          {
+            "ticker": "INTC",
+            "company_name": "Intel",
+            "reason": "Intel presents a more complicated risk profile compared to mega-cap tech. The company is heavily dependent on the success of Intel Foundry Services for future growth and profitability. Q4 guidance missed significantly across revenue, gross margin, and EPS. The company is shutting down a fab in Israel, losing $300 million in Q4 revenue and 200 basis points of gross margin. PC inventory cleanup and supply constraints on servers are weighing on results. Free cash flow is expected to remain negative in fiscal 27 with inflection only in fiscal 28. The turnaround rally was based partly on vibes rather than fundamental near-term improvements, and the foundry business remains unproven with no guaranteed major customers.",
+            "risk": "Dependent on unproven foundry business; negative free cash flow through 2027; significant Q4 guidance misses; supply constraints expected to persist into 2028; 51% drawdown from peak despite 75% YTD gain"
+          }
+        ],
+        "key_warnings": [
+          "The market is headline-driven and mood-dependent. Strong earnings are resulting in negative stock reactions across the board in AI/semiconductor/cloud sectors. Do not attempt to trade on weekly options or short-term reactions despite positive fundamental results.",
+          "Valuation has run ahead of business fundamentals for many AI and semiconductor names. Year-to-date gains of 100%+ (AMD +158%, CrowdStrike +120%, Palo Alto +105%, Fortinet +74%) mean these stocks have outrun the business and now the business must catch up to valuation through earnings growth.",
+          "Macro headwinds present near-term pressure: midterm elections, Iran tensions, potential tax loss harvesting at year-end, and lingering inflation concerns. Historically, midterm years are not the strongest for equities.",
+          "The AI trade is not over, but sentiment has completely shifted despite companies consistently reporting strong growth. AWS backlog at $578 billion growing 50%+ YoY, demand remains constrained by supply, and all major cloud/semiconductor players expect strong growth through 2027-2028.",
+          "Free cash flow concerns are overstated for high-growth cloud companies. CAPEX spending appears high in absolute terms but is necessary for future capacity. Look at operating margins and core business profitability rather than free cash flow during heavy investment phases.",
+          "Supply chain constraints expected to persist into 2028 across semiconductor and data center industries, which could limit growth realization despite strong demand."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "BRCM",
+          "MU",
+          "AMD",
+          "INTC",
+          "RDDT",
+          "AMZN",
+          "GOOGL",
+          "MSFT",
+          "META",
+          "FORT",
+          "CRWD",
+          "PANW",
+          "RUBRIK",
+          "RDWR"
+        ]
+      },
+      "price_at_recommendation": {
+        "RDDT": 101.89,
+        "RDWR": 33.0,
+        "META": 630.0,
+        "MSFT": 555.8,
+        "GOOGL": 288.93,
+        "AMZN": 266.03
+      }
+    },
+    "QK2IrIm9iJI": {
+      "channel": "CouchInvestor",
+      "title": "AMAZON, SANDISK, REDDIT, & INTEL EARNINGS REPORT/ CALL BREAKDOWN",
+      "upload_date": "20261030",
+      "url": "https://www.youtube.com/watch?v=QK2IrIm9iJI",
+      "processed_at": "2026-11-05T09:44:51.924860",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon",
+            "reason": "Despite a 10% after-hours decline on modest misses, the creators believe Amazon presents a strong buying opportunity below $200. AWS grew 39.3% year-over-year with a $184 billion annualized revenue run rate and is projected to grow over 40% in both 2027 and 2028. The company expects AWS to become a trillion-dollar revenue business within 5-10 years. Operating margins hit an all-time high of 13.9%, and the company is on a path to have two trillion-dollar businesses (AWS and Stores). Unlike Google, Amazon doesn't have search engine risk. The e-commerce segment is growing meaningfully faster than competitors while expanding margins. The creators noted that a 10% drop on a triple-digit billion-dollar company is an overreaction, especially given the company's lack of the same structural headwinds facing other tech giants.",
+            "when_to_buy": "below $200",
+            "target_price": null,
+            "cautions": "Market sentiment is poor and likely to remain so. The stock could continue to decline even with good news given macro conditions. CapEx guidance of $220 billion in 2026 and 'meaningfully more' in 2027 raises questions about whether the company will need to dilute shareholders, though management expressed confidence in ROIC. Advertising revenue growth slowed to 12% year-over-year from 26% previously, impacted by Prime Day timing and search algorithm changes."
+          },
+          {
+            "ticker": "RIVN",
+            "company_name": "Rivian",
+            "reason": "Rivian beat on both EPS and revenue after hours and was the best performer, up 6%. The company has improved gross margins and is expected to deliver 70,000 vehicles compared to 42,000 last year. Revenue is up 16% and EPS performance beat expectations significantly. The creators noted this as a bright spot in an otherwise brutal earnings season.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The company faces weaker EV demand following reduced federal incentives, though the creators noted Democrats are planning to double the EV credit to $15,000 if they win the midterms. This introduces political risk."
+          },
+          {
+            "ticker": "SDSK",
+            "company_name": "SanDisk",
+            "reason": "SanDisk beat on both EPS and revenue by 7% on EPS and 3% on revenue, with revenue up 378% year-over-year. The stock briefly went green after hours. Importantly, SanDisk reported that its biggest customers who made long-term NAND deals are coming back a few months later saying they underestimated how much capacity they actually needed, indicating continued strong demand in memory. The company is getting requests for supply contracts through 2030.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The memory trade is volatile. Despite strong beats, the stock struggled to maintain gains in a brutal market environment. An 8-for-1 stock split was announced."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "INTC",
+            "company_name": "Intel",
+            "reason": "Intel missed on guidance dramatically, falling 17-20% after hours. The company guided for Q4 revenue of $15-16 billion versus street expectations of $17 billion, representing a sequential decline. Q4 EPS guidance came in at 25 cents versus 43 cents expected, a massive miss. The CFO cited falling demand due to expensive memory pricing making PC systems cost-prohibitive for budget-constrained CIOs. Gross margins are expected at 38% versus 42% expected, suggesting the company is losing pricing power despite claims of an AI-driven shortage. This contradicts the AI shortage narrative and suggests Intel cannot capitalize on demand like competitors. The stock was already down from $150 prior to earnings and had an aggressive multiple that compressed immediately on guidance miss.",
+            "risk": "Down 17-20% after hours; potential further downside if foundry business doesn't deliver. At $75+ prior to earnings, significant capital destruction has occurred."
+          },
+          {
+            "ticker": "RDIT",
+            "company_name": "Reddit",
+            "reason": "Reddit missed on daily active users (DAUs), coming in at 130.3 million versus 133 million expected. The company also reported that search referral traffic was 'meaningfully down,' which is concerning given the street believes Reddit's valuation is contingent on search visibility. DAU growth has stalled for the second or fourth consecutive quarter depending on the metric. The stock fell 10-18% after hours despite beating on revenue (up 53% year-over-year) and EPS (up 75% year-over-year). Management announced a controversial change to force logged-out users to sign up and log in to access content, which the creators view as a potentially detrimental user experience that could further depress adoption. While cash flow and ARPU metrics are strong, the core issue is user acquisition stagnation, which threatens long-term growth despite impressive near-term monetization.",
+            "risk": "Down 10-18% after hours. The stock fell from premium valuations (~30x PE) to low-20s PE on the miss, indicating market now expects deceleration ahead. DAU pressure is structural given US market saturation and inability to drive international adoption at the same rate as domestic."
+          },
+          {
+            "ticker": "TWLO",
+            "company_name": "Twilio",
+            "reason": "Twilio delivered a double beat, with EPS up 32% and revenue up 20% year-over-year, yet the stock fell 17% after hours. The company beat EPS by 12% and revenue by 3%, yet received no credit from the market. This illustrates the broader SaaS and AI sector selloff where good earnings cannot overcome macro sentiment.",
+            "risk": "Down 17% after hours despite strong fundamentals. The stock gapped from $300 in early October to $200 after hours, indicating technical breakdown and loss of momentum despite operational strength."
+          },
+          {
+            "ticker": "PINS",
+            "company_name": "Pinterest",
+            "reason": "Pinterest missed on both EPS and revenue despite recording record monthly active users of 661 million (5 million above estimates). EPS came in at $0.46 versus $0.48 expected, and revenue was $1.17 billion versus $1.21 billion expected. The company's Q4 revenue outlook is also below estimates. CEO attributed three percentage points of revenue deceleration to European regulatory changes impacting cross-border sellers. The stock fell 9-12% after hours despite user growth, indicating the market is focused on monetization deceleration rather than user metrics.",
+            "risk": "Down 9-12% after hours. European regulatory headwinds will persist into Q4."
+          },
+          {
+            "ticker": "RBLX",
+            "company_name": "Roblox",
+            "reason": "Roblox beat on DAUs (138 million versus 131 million expected) but the stock fell 9-10% after hours. More concerning, hours spent on the platform declined 15% year-over-year despite users growing, and revenue only grew 16%. This suggests user engagement is declining even as user count grows, a red flag for monetization sustainability.",
+            "risk": "Down 9-10% after hours. Engagement decline is structural given younger user demographics and macro uncertainty around entertainment spending."
+          },
+          {
+            "ticker": "COIN",
+            "company_name": "Coinbase",
+            "reason": "Coinbase beat on EPS by 2000% due to Bitcoin's surge, but missed revenue by 1%. CEO Brian Armstrong and other insiders are selling $1.3 billion in stock (13 million shares) through October 2027 via 10b5-1 plans, signaling lack of conviction at current levels. The stock is essentially flat after hours despite the EPS beat, indicating the market is concerned about insider selling and the sustainability of revenue growth.",
+            "risk": "Insider selling signals lack of conviction. Dependent on crypto prices which are volatile."
+          }
+        ],
+        "key_warnings": [
+          "Severe market sentiment deterioration: The creators emphasized that sentiment is at an extreme low and driving indiscriminate selling. Even Microsoft, which 'did everything perfectly,' lost the majority of its gains on the same day. Amazon is down 10% on modest misses while Google fell 12% yesterday. This suggests macro factors and sentiment, not fundamentals, are driving moves. The SPY is down 0.37% for the day, and the Nasdaq is down nearly 1.5% after hours. SaaS names like ServiceNow fell 26-27%. Even treasury yields are selling off, leaving few places to hide.",
+          "CapEx sustainability concerns: Every major mega-cap tech company has now guided for higher CapEx in 2027. Amazon expects $220 billion in 2026 and 'meaningfully more' in 2027. Microsoft, Google, and Meta have all signaled similar CapEx acceleration. The market is beginning to question whether these CapEx investments are sustainable and whether they will deliver returns, particularly given doubts about AI's ability to justify the spend. Intel's margin compression despite supposed supply constraints raises questions about whether CapEx is delivering pricing power as expected.",
+          "AI infrastructure shortage narrative breaking: Intel's guidance miss directly contradicts the 'shortage' narrative that has justified massive CapEx spending. Intel CFO cited falling demand due to high memory prices making systems unaffordable, not supply constraints. This suggests the shortage may be more limited than expected and concentrated in specific segments (hyperscaler GPU clusters), while broader AI infrastructure (CPUs, memory, networking) may have more capacity than anticipated. If this narrative breaks across the entire semiconductor complex, CapEx plans may face recalibration.",
+          "Advertising weakness broadening: Amazon's advertising growth slowed to 12% from 26% last quarter and 22% a year ago, representing a 50% deceleration. Google faced similar pressures. Reddit, Pinterest, and Roblox all saw advertising-related headwinds. Even Meta, which outperformed, may face headwinds as broader adoption slows. Agents potentially scraping content and shopping through horizontal platforms could further pressure ad growth. This is a critical margin driver for these companies.",
+          "Search traffic decline at Reddit as AI indexing shifts: Reddit reported that Google search referrals are 'meaningfully down' because 'AI is just not a traffic driver.' This suggests Google is shifting how it indexes content or that users are getting answers directly from AI chatbots rather than visiting Reddit. If this trend broadens, it could impact all content platforms that depend on search traffic for user acquisition.",
+          "Private market valuations are disconnected from public reality: Instinct is valued at $30 billion privately (up from $2.5 billion a month ago), Cognition at $70 billion, Canva at undisclosed levels, Stripe at $120-150 billion. Meanwhile, public companies like Reddit are valued at $20-30 billion despite stronger profitability and growth visibility. This valuation disconnect suggests either private markets are in a bubble or public markets are irrationally depressed. If private companies eventually IPO, they could face massive down-rounds, creating a market shock.",
+          "Crypto hedge failing: Bitcoin fell $700 and Binance suffered a suspected $2.7 billion outflow hack (unconfirmed). Polymarket was also hacked today. Crypto was supposed to be a hedge, but it's also selling off. This removes one of the last 'safe havens' investors had. Stan Druckenmiller's bullish post on Hyperliquid provided brief relief, but it's insufficient to offset broader crypto weakness.",
+          "Broad-based valuation compression risk: Mega-cap tech stocks that were trading at 25-30x forward PE are now compressing toward 20-25x despite growth rates of 20%+ and improving margins. If sentiment remains poor, further compression to 15-18x is possible, especially if companies face guidance misses. Amazon, despite strong AWS growth, fell 10% on modest misses. At current sentiment, good news no longer drives rallies."
+        ],
+        "tickers_mentioned": [
+          "AMZN",
+          "MSFT",
+          "GOOG",
+          "MU",
+          "INTC",
+          "SDSK",
+          "RDIT",
+          "AMD",
+          "NVDA",
+          "ARM",
+          "META",
+          "AAPL",
+          "SBUX",
+          "RBLX",
+          "COIN",
+          "PINS",
+          "TWLO",
+          "GDDY",
+          "MSTR",
+          "RIVN",
+          "AXTI",
+          "CRM",
+          "UBER",
+          "DASH",
+          "PLTR",
+          "PYPL",
+          "FSI",
+          "VEEV",
+          "LILLY",
+          "BTC",
+          "ETH"
+        ]
+      },
+      "price_at_recommendation": {
+        "PINS": 21.22,
+        "RIVN": 14.06,
+        "INTC": 58.27,
+        "TWLO": 213.5,
+        "RBLX": 49.31,
+        "AMZN": 266.03,
+        "COIN": 151.5
+      }
+    },
+    "Jjs0BHmm1TQ": {
+      "channel": "CouchInvestor",
+      "title": "GPU Rental Forwards Flipped to Contango",
+      "upload_date": "20261029",
+      "url": "https://www.youtube.com/watch?v=Jjs0BHmm1TQ",
+      "processed_at": "2026-11-05T09:45:00.203626",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "GPU rental forwards have flipped into contango, indicating strong demand for long-term GPU capacity. This suggests market participants expect sustained high rental rates and are willing to pay premiums to lock in capacity, contradicting expectations of falling GPU rental prices. The contango structure combined with rising Blackwell rental prices and longer GPU useful life (7-8 years per Jensen Huang) indicates the market may be underpricing the duration and stability of GPU demand."
+        ],
+        "tickers_mentioned": []
       },
       "price_at_recommendation": {}
     }

@@ -33702,6 +33702,592 @@
         "UBER": 68.78,
         "SHOP": 143.75
       }
+    },
+    "o3LCKjQRvzc": {
+      "channel": "CouchInvestor",
+      "title": "The Worst Business in Tech Just Printed an 80% Margin",
+      "upload_date": "20261106",
+      "url": "https://www.youtube.com/watch?v=o3LCKjQRvzc",
+      "processed_at": "2026-11-06T13:41:47.981434",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "SK Hynix",
+            "company_name": "SK Hynix",
+            "reason": "SK Hynix just printed an 80% operating margin, up from 47% a year ago, on record revenue. The company has signed long-term supply agreements with 14 major customers covering more than half of its 2027 and 2028 capacity. AI broke the traditional boom-bust cycle of the memory chip business by creating demand for HBM (high bandwidth memory) that is hard to manufacture and requires years to build new factories. SK Hynix expects demand to outrun supply through 2030, converting the memory market from a volatile spot market to a reservation book model with locked-in demand and scarce supply.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Supply may eventually catch up, which could pressure margins, though the creator suggests this is unlikely in the near term given the difficulty of building HBM production capacity."
+          },
+          {
+            "ticker": "MU",
+            "company_name": "Micron Technology",
+            "reason": "Micron runs the same playbook as SK Hynix with an 80.7% operating margin. Operating chief Manish Bhatia stated that over 75% of fiscal 2027 shipments are already committed. Like SK Hynix, Micron has converted from a spot market to a reservation book model with locked-in demand from AI customers needing HBM chips. The long-term supply agreements protect margins and reduce cyclicality through 2030.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Supply may eventually catch up, though current trajectory suggests demand will outrun supply through 2030."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "The traditional boom-bust-repeat cycle of the memory chip business has been disrupted by AI demand for HBM (high bandwidth memory). However, this favorable dynamic may reverse if and when new factories come online and supply catches up to demand. The creator emphasizes that the sustainability of these 80% margins depends on the continuation of supply scarcity, which could change after 2030."
+        ],
+        "tickers_mentioned": [
+          "SK Hynix",
+          "MU"
+        ]
+      },
+      "price_at_recommendation": {
+        "MU": 656.39
+      }
+    },
+    "c8x6S2vlQys": {
+      "channel": "Daniel Pronk",
+      "title": "Amazon Stock Is Crashing - Here's Why The Market Hated Earnings",
+      "upload_date": "20261029",
+      "url": "https://www.youtube.com/watch?v=c8x6S2vlQys",
+      "processed_at": "2026-11-06T13:42:06.092972",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon.com Inc.",
+            "reason": "Amazon beat its own guidance with operating income of $28.1 billion and record operating margins of 13.9%. AWS is accelerating at 39.3% growth with $184 billion in annualized revenue and projected to reach nearly $400 billion by 2028 with 40% growth expected in 2027-2028. Amazon believes it will have two $1 trillion revenue businesses over the next decade. The chips business is growing triple digits, Bedrock is the fastest-growing multi-billion-dollar service in AWS history, and overall AWS demand still far exceeds supply. Operating cash flow grew 29% year-over-year to $168.3 billion trailing twelve months, and the stock is trading at 15x operating cash flow, the lowest valuation since 2009 near the financial crisis, while margins are hitting all-time highs. The creator's conservative DCF projects 20%+ compounded annual growth rates over the next 3 years, and analyst estimates show 28% operating cash flow growth annually with potential for 30%+ CAGR if the multiple re-expands to 19x. The creator has added to their Amazon position and maintains it as the second-largest position in their portfolio.",
+            "when_to_buy": "Immediately after earnings; the creator bought in after-hours trading following the earnings report",
+            "target_price": "Potential for Amazon stock to re-expand to 20x price-to-operating-cash-flow multiple at some point in the future, with significant upside as AI capex ROI proves out and operating cash flows continue growing",
+            "cautions": "Amazon is currently very free cash flow negative, losing $47 billion in trailing twelve months free cash flow while raising $130 billion in debt to fund AI infrastructure buildout. This high debt-funded capex strategy is unsustainable long-term and the market does not like it. If the ROI on AI capex does not materialize, Amazon will be left with significant debt not producing actual profits. Advertising revenue growth significantly decelerated to 12% this quarter due to Prime Day timing, though underlying growth would have been over 20% on a like-for-like basis. There are also emerging fears about AI agents disrupting Amazon's advertising business."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Extreme market volatility during earnings season: stocks are getting 'nuked across the board' if earnings are even slightly off guidance. ServiceNow fell 26%, Fortinet 20%, Intel 17%, and Reddit 16% after earnings despite Amazon actually beating guidance. This suggests irrational market behavior where investors are extremely on edge and lacking emotional control.",
+          "Potential AI agent disruption to digital advertising: fears are emerging that AI agents could disrupt Amazon's, Google's, and other platforms' advertising businesses, which bears are expected to highlight over the next 3 months before Amazon's next earnings report.",
+          "Unsustainable debt-fueled capex model: Amazon and other hyperscalers are raising $100+ billion in debt annually to fund AI infrastructure buildout. This strategy is explicitly noted as 'not sustainable forever' even for a highly profitable company like Amazon. If the AI ROI does not materialize across the industry, these companies face significant balance sheet stress."
+        ],
+        "tickers_mentioned": [
+          "AMZN",
+          "NOW",
+          "FTNT",
+          "INTC",
+          "RDDT",
+          "GOOGL",
+          "META"
+        ]
+      },
+      "price_at_recommendation": {
+        "AMZN": 260.21
+      }
+    },
+    "W9hGHmpk4ZI": {
+      "channel": "The Traveling Trader",
+      "title": "The Stealth Bear Market is a GENERATIONAL Buying Opportunity",
+      "upload_date": "20261102",
+      "url": "https://www.youtube.com/watch?v=W9hGHmpk4ZI",
+      "processed_at": "2026-11-06T13:42:43.640839",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon",
+            "reason": "The creator considers Amazon mispriced after earnings. AWS revenue came in at $46 billion plus 39% year-over-year, beating expectations. Operating margins came in at 13.9% versus 9.7% expected. While the company barely missed on revenue despite 12% year-over-year growth, the negative free cash flows are attributed to temporary AI spending. The creator believes that by 2028, hyperscalers like Amazon will return to positive free cash flows and generate cash flows at unprecedented levels. AWS alone generates $161 billion in revenue, which exceeds the revenue of 476 companies in the S&P 500. The creator has already started buying the dip on Amazon.",
+            "when_to_buy": "On recent dip following earnings report",
+            "target_price": null,
+            "cautions": "Currently showing negative free cash flows due to AI infrastructure spending, though the creator believes this is temporary and justified by future returns."
+          },
+          {
+            "ticker": "QQQ",
+            "company_name": "Invesco QQQ Trust (Nasdaq-100 ETF)",
+            "reason": "The Nasdaq is sitting at the 200-day EMA at minus 9%, near a minus 10% correction level. Historically, 83% of the time the market is higher 6 months later after QQQ tags the 200 EMA. With 11 near-miss instances since 2000 where the market came within a hair of minus 10% correction, 82% of the time the S&P 500 or Nasdaq was higher 12 months later with a median gain of plus 18%. Combined with midterm seasonality where the S&P 500 is green 100% of the time 12 months after midterms, this creates an asymmetric opportunity. The creator has purchased QQQ on the drop.",
+            "when_to_buy": "On the current dip near the 200-day EMA at minus 9%",
+            "target_price": null,
+            "cautions": "The S&P 500 still has not taken out the September 16th FOMC low, and if that happens, QQQ could potentially take out July's FOMC low. Short-term between election day and end of year is a mixed bag with no clear edge."
+          },
+          {
+            "ticker": "AAPL",
+            "company_name": "Apple Inc.",
+            "reason": "Listed among important stocks trading in bear market territory that present buying opportunities. The Nasdaq currently has companies that generate cash better than any in stock market history. Apple is included in the list of potentially mispriced stocks during this market correction.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Apple has a beta of 2.5, meaning it is 2.5 times as volatile as the general market. Oversizing positions in high-beta stocks like Apple can result in portfolio deterioration during interim periods due to higher volatility."
+          },
+          {
+            "ticker": "APPF",
+            "company_name": "AppLovin Corporation",
+            "reason": "Trading at a forward PE of 11, which is significantly cheaper than its historical PE range of 20-50, presenting an asymmetric valuation opportunity. The company shows exceptional fundamentals: price-earnings growth ratio of 0.21 (very undervalued), return on invested capital of 64% (well above the elite company threshold of 20%), 5-year revenue CAGR of 31%, elite gross profit margin of 88%, and consistently increasing earnings per share and net income. The company has returned to positive and consistent earnings after a period of losses.",
+            "when_to_buy": "During current market dip as stocks reset",
+            "target_price": null,
+            "cautions": "AppLovin trades at a beta of approximately 2.5, making it 2.5 times more volatile than the general market. High-beta stocks should not be oversized in a portfolio as they can cause significant portfolio deterioration during downturns."
+          },
+          {
+            "ticker": "ARM",
+            "company_name": "Arm Holdings",
+            "reason": "The creator describes this as a very high-growth stock with a monopoly-like story that makes it interesting despite not being undervalued on a traditional valuation basis. The structural dominance of the business model and growth trajectory make it worthy of consideration during this market dip.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The creator explicitly states this stock is not undervalued, suggesting it should not be purchased for value reasons but rather for growth and business quality reasons."
+          },
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet Inc.",
+            "reason": "Google already owned by the creator. Listed as a stock that did not perform well on earnings (did not receive an A grade), but is included among important stocks trading in bear market territory worth considering. The company is showing negative free cash flows due to AI spending, but this is expected to reverse as the AI buildout is completed.",
+            "when_to_buy": "The creator is evaluating whether to increase or decrease position",
+            "target_price": null,
+            "cautions": "Negative free cash flows currently due to AI infrastructure investment. The tech sector forward PE is at 19.5 (down from over 30 just months ago), suggesting potential valuation relief but ongoing AI spending concerns remain."
+          },
+          {
+            "ticker": "AVGO",
+            "company_name": "Broadcom Inc.",
+            "reason": "Already owned by the creator and listed among stocks worth evaluating during this market correction. Included in the portfolio of important stocks trading in bear market territory.",
+            "when_to_buy": "The creator is evaluating whether to increase or decrease position",
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "VRT",
+            "company_name": "Vertiv Holdings Co.",
+            "reason": "The creator awarded this stock an A grade on earnings performance, indicating excellent execution and results during earnings season.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "SNDK",
+            "company_name": "SanDisk (referenced in transcript as Sandisk)",
+            "reason": "The creator awarded this stock an A grade on earnings performance.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "MSFT",
+            "company_name": "Microsoft Corporation",
+            "reason": "The creator awarded Microsoft an A grade on earnings. Microsoft has already figured out how to monetize AI without sacrificing free cash flows, making it a model for other hyperscalers. This demonstrates that profitability and cash generation are achievable alongside AI investment.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "FTNT",
+            "company_name": "Fortinet Inc.",
+            "reason": "While Fortinet did well on earnings and received a positive rating, the creator labeled it as 'an overreaction,' suggesting the stock price moved too much relative to the earnings results and may be overextended.",
+            "risk": null
+          },
+          {
+            "ticker": "CRM",
+            "company_name": "Salesforce Inc.",
+            "reason": "Listed as having 'really well' earnings performance but grouped with lower-tier performers rather than top performers, suggesting only moderate positive results.",
+            "risk": null
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms Inc.",
+            "reason": "Meta did not perform well on earnings and received a negative rating. The company is showing negative free cash flows due to AI spending. While the creator believes this is temporary, the near-term fundamentals remain challenged.",
+            "risk": "Negative free cash flows and disappointing earnings performance"
+          },
+          {
+            "ticker": "INTC",
+            "company_name": "Intel Corporation",
+            "reason": "Intel did not perform well on earnings and failed to meet creator expectations during earnings season.",
+            "risk": "Weak earnings performance"
+          },
+          {
+            "ticker": "NOW",
+            "company_name": "ServiceNow Inc.",
+            "reason": "ServiceNow did not perform well on earnings according to the creator's evaluation.",
+            "risk": "Disappointing earnings results"
+          }
+        ],
+        "key_warnings": [
+          "The market is experiencing a 'stealthy bear market' with multiple important stocks still trading in bear market territory. While this creates buying opportunities, caution is warranted regarding further downside, as the S&P 500 still has not broken below the September 16th FOMC low, and if it does, the Nasdaq could take out the July FOMC low.",
+          "High-beta stocks (2.5x market volatility or higher) should not be oversized in a portfolio. Many opportunities presenting during this correction have elevated beta exposure, which can cause significant interim portfolio deterioration. Portfolio allocation should match individual risk tolerance and time horizon.",
+          "Negative free cash flows across major hyperscalers (Amazon, Google, Meta) due to AI infrastructure spending present a risk in the near term, though the creator believes this will reverse by 2028. Investors should monitor quarterly cash flow trends closely.",
+          "The technology sector forward PE ratio is currently at 19.5 (down from over 30 recently), but this represents a valuation reset rather than a guaranteed floor. Further compression is possible if earnings expectations are cut.",
+          "Short-term market outlook between election day and end of year is mixed with no clear statistical edge, despite long-term midterm seasonality being very positive. Expect potential continued volatility through year-end.",
+          "The creator emphasizes that individual stock picking requires fundamental analysis capability. Those unable to perform this analysis should invest in broad-based ETFs like the S&P 500 rather than trying to pick individual stocks."
+        ],
+        "tickers_mentioned": [
+          "QQQ",
+          "SPY",
+          "AAPL",
+          "VRT",
+          "SNDK",
+          "MSFT",
+          "FTNT",
+          "CRM",
+          "META",
+          "GOOGL",
+          "INTC",
+          "NOW",
+          "AMZN",
+          "APPF",
+          "SOFI",
+          "ARM",
+          "AVGO",
+          "VOO",
+          "SCHD",
+          "VGIT",
+          "SGOV",
+          "TLT"
+        ]
+      },
+      "price_at_recommendation": {
+        "AMZN": 260.21,
+        "QQQ": 647.05,
+        "ARM": 166.72,
+        "META": 605.08,
+        "NOW": 102.36,
+        "FTNT": 122.51,
+        "APPF": 233.22,
+        "CRM": 222.41,
+        "INTC": 52.25,
+        "AAPL": 344.17,
+        "MSFT": 535.93,
+        "GOOGL": 282.57,
+        "AVGO": 291.53,
+        "VRT": 176.73,
+        "SNDK": 806.43
+      }
+    },
+    "rMpN3KdTzaA": {
+      "channel": "The Traveling Trader",
+      "title": "What the HELL Just Happened to the Stock Market?",
+      "upload_date": "20261030",
+      "url": "https://www.youtube.com/watch?v=rMpN3KdTzaA",
+      "processed_at": "2026-11-06T13:43:24.910372",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "VRT",
+            "company_name": "Vertiv Holdings",
+            "reason": "This was rated as the best earnings so far in the market out of all tech or AI-related companies. Forward year sales raised to 14.45 billion to 14.85 billion with Q4 guided above street. Headline beats on both sales and EPS, operating margin up 290 basis points, organic orders more than doubled year over year. The company has light capex and trades at a forward PE of 26 with a PEG of 0.441, which is excellent. This is an AI power play focused on critical power infrastructure for data centers, one of the most important sectors relating to AI.",
+            "when_to_buy": "Stock was added on October 20th at $200 and below. Currently down 35% from highs, hasn't broken out yet. Buy on dips and certainly on breakout.",
+            "target_price": null,
+            "cautions": "Creator wishes they had added it to main portfolio instead of just AI portfolio. Still down significantly from highs despite strong earnings."
+          },
+          {
+            "ticker": "MSFT",
+            "company_name": "Microsoft Corporation",
+            "reason": "Rated A- minus with an absolute monster earnings report. Forward guidance and Q2 revenue on Azure guided above street. Clean double beat on net income and earnings per share both at plus 18%. No legal charges, no paper losses. Operating margins at 50% up year over year with healthy operating cash and free cash flows. Commercial RPO (performance obligations) came in at plus 73% year-over-year at $677 billion with Azure growing 48%. The company demonstrates ability to grow CapEx substantially while maintaining positive free cash flows, which the market rewards.",
+            "when_to_buy": "Would add on dips despite current valuation. Currently trading at 27 PE, which is fairly cheap for Microsoft historically.",
+            "target_price": null,
+            "cautions": "Creator notes this is only 6% of their portfolio and wishes they had more, but wouldn't add at current levels\u2014only on dips."
+          },
+          {
+            "ticker": "CRM",
+            "company_name": "Salesforce Inc.",
+            "reason": "Solid earnings rated B with forward guidance raised and headline beats on both revenue and EPS. Operating margin came in around street expectations. Free cash flow up 81% in a seasonally light quarter. Current RPO (backlog for SaaS) at $33.5 billion up 14% year-over-year. Creator describes it as a great company with a great quarter that provides solid SaaS exposure.",
+            "when_to_buy": "If needing SaaS exposure, consider this stock. Creator suggests might even rotate out of ServiceNow into CRM.",
+            "target_price": null,
+            "cautions": "Stock was rewarded with 23% upside the next day but did lose some gains after hours."
+          },
+          {
+            "ticker": "FORT",
+            "company_name": "Fortinet Inc.",
+            "reason": "Rated as an actual massive overreaction with a solid earnings print. Forward 40-year revenue, billings, and earnings per share raised. Beat on revenue and earnings per share with operating margin up 130 basis points. Free cash flows up 52%. Forward PE of 36 and trailing PE of 44 is reasonable given the company's historical trading range in 40s-70s PE. Return on invested capital at 31% with 10-year revenue CAGR of 21%. Company is described as an absolute monster with strong fundamentals.",
+            "when_to_buy": "Recovered almost 8% intraday, representing a laughable discount based on earnings print. Would add to portfolio in a heartbeat if looking for cybersecurity exposure.",
+            "target_price": null,
+            "cautions": "Cybersecurity stocks are high beta and volatile. Should be sized appropriately in portfolio based on risk tolerance."
+          },
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon Inc.",
+            "reason": "Rated C but trading at levels from June and July around $226 after hours represents a decent area for long-term buy. AWS revenue up 46% year-over-year at $39 billion demonstrates strength in cloud business. Despite near-term negative free cash flow due to CapEx spending on AI infrastructure, these are stocks that will be amazing buys for 5-10 year timeframes as they build out cloud and AI capabilities.",
+            "when_to_buy": "Current lows from June and July around $226 after hours represent decent entry point for long-term investors.",
+            "target_price": null,
+            "cautions": "Missed both earnings and revenue, with Q4 revenue and operating income guided below street. Market will have hard time rewarding negative free cash flows in near term. Negative free cash flow doubled from -$5 billion to -$9 billion last quarter."
+          },
+          {
+            "ticker": "INTC",
+            "company_name": "Intel Corporation",
+            "reason": "Beat both earnings and revenue with growing data center revenue up 78% at $7.32 billion, showing AI gains. Adjusted free cash flows at $1.64 billion versus $0.9 billion previously, with operating cash doubled. Company is building out foundry business to become TSMC of the West, which will take years but foundry business is growing with gross margins up. Generated positive free cash flows despite heavy foundry investment spending.",
+            "when_to_buy": "Down to $71 after hours, filling gap from April earnings. Down 50% from highs. If you believe in foundry business, this is an attractive entry point.",
+            "target_price": null,
+            "cautions": "Rated C due to forward guidance being light. PC sector is still slowing down and will continue to slow. Trading at 41 forward PE which is still expensive. Foundry business will take years to materialize into meaningful returns."
+          },
+          {
+            "ticker": "SNDK",
+            "company_name": "Western Digital/SanDisk",
+            "reason": "Absolute A+ rating with beat on earnings, beat on revenue, and elevated forward guidance. Q2 revenue guidance $12.2-12.6 billion, EPS guidance $55-57 which is insane. Headline beat on both revenue and EPS with $5 billion buyback. Gross margins at 85.1% versus 29.9% last year. Free cash flow $6.3 billion versus $0.4 billion. Data center revenue up 61% quarter on quarter showing strong momentum in critical AI infrastructure.",
+            "when_to_buy": "Currently very flat after hours. If stock dips and takes out July lows, definitely add to portfolio.",
+            "target_price": null,
+            "cautions": "High beta stock, so should be sized appropriately. Story is somewhat priced in already. Recommend small position if adding to main portfolio, or full position in high-beta/aggressive portfolio."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet Inc.",
+            "reason": "Rated C+ and marked as hold. This was the worst surprise\u2014company missed revenue on every single service except one, including search revenue despite searches being up 12%, YouTube ads down, subscription revenue down, and platforms/devices revenue down. Only Google Cloud and Network revenue beat. Negative free cash flows doubled from -$5 billion to -$9 billion, first time ever reporting negative FCF last quarter. Company raised CapEx significantly through 2027, which will scare market on FCF trajectory. No formal guidance provided.",
+            "risk": "Currently trading at $278 and could take out March lows of $270. Trading at 14 PE (cheapest ever) but momentum is not on its side until another print. Momentum negative despite valuation becoming cheaper."
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms Inc.",
+            "reason": "Rated C+ with technically missed EPS despite forward guidance beating street. Costs grew 68% while revenue only grew 26%, massive margin compression. Operating margins came in at 35% minus charge versus 40%. Most concerning: dipped into negative free cash flows for first time since 2012 when company was young. Even though $9.9 billion legal charge explains some issues, underlying cost growth is unsustainable.",
+            "risk": "Free cash flow turned negative despite technically solid top-line. Cost structure expanding faster than revenue suggests structural profitability challenges ahead."
+          },
+          {
+            "ticker": "NOW",
+            "company_name": "ServiceNow Inc.",
+            "reason": "Rated C and dropped 27% in one day after earnings. Missed EPS by only 2 cents and performance obligation guidance came in at 18.5% versus street expectation of 19.8%. Gross margins came in at 80% versus expected 83%. Stock had been priced for perfection at 78 trailing PE, leaving no room for any miss whatsoever. Creator notes this is a high-beta stock with history of major drops after earnings.",
+            "risk": "Priced for perfection at 78 trailing PE means street will punish any miss. High beta stock (beta 1.1+) creates significant volatility. Stock dropped from $160 to $108 after hours. Pattern of major drops following earnings reports."
+          }
+        ],
+        "key_warnings": [
+          "Worst earnings season for mega-cap tech stocks in a very long time. Google and Amazon both missed earnings and revenue simultaneously, which is extremely unusual and concerning for the sector.",
+          "Historic technical pattern broken: Never had three minus 10% corrections in the Nasdaq in the same year without being in a bear market. Previous analysis suggested more downside to reach that threshold, indicating further market weakness possible.",
+          "Two FOMC meeting lows from July and September were never retouched before this point\u2014unprecedented pattern. Thesis was that at least one would be taken out before any rally could occur, creating downside pressure.",
+          "Free cash flow divergence emerging: Mag 7 stocks with positive FCF (MSFT, NVDA, AAPL) are up year-to-date, while those with negative FCF (GOOGL, META, AMZN) are down. Market currently punishing high capex investments even when directed toward AI infrastructure.",
+          "Market is rewarding companies that can grow CapEx while maintaining positive free cash flows (Microsoft model) but punishing those with negative FCF (Google, Meta, Amazon model). This creates timing risk for large cap tech.",
+          "Multiple stocks priced for perfection at extremely high multiples (ServiceNow at 78 PE, others at 50+ PE) leave no room for any earnings miss, creating extreme volatility and downside risk."
+        ],
+        "tickers_mentioned": [
+          "GOOGL",
+          "YOUTUBE",
+          "QQQ",
+          "SPY",
+          "MSFT",
+          "NVDA",
+          "AAPL",
+          "META",
+          "AMZN",
+          "VRT",
+          "NOW",
+          "FORT",
+          "CRM",
+          "INTC",
+          "SNDK",
+          "PALO",
+          "CRWD",
+          "TSMC"
+        ]
+      },
+      "price_at_recommendation": {
+        "AMZN": 260.21,
+        "META": 605.08,
+        "NOW": 102.36,
+        "CRM": 222.41,
+        "INTC": 52.25,
+        "MSFT": 535.93,
+        "GOOGL": 282.57,
+        "VRT": 176.73,
+        "SNDK": 806.43
+      }
+    },
+    "1yvtT98IhNE": {
+      "channel": "Jose Najarro Stocks",
+      "title": "AMD Stock: $17 BILLION Guidance \u2014 This Changes Everything!!",
+      "upload_date": "20261104",
+      "url": "https://www.youtube.com/watch?v=1yvtT98IhNE",
+      "processed_at": "2026-11-06T13:43:42.109916",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices",
+            "reason": "AMD beat Q3 expectations with $13.4B in revenue (vs. $13.1B expected) and $2.09 EPS (vs. $1.94 expected). Q4 guidance of $17B revenue at midpoint significantly exceeded expectations of $16.2B. The data center market is the primary growth driver, representing 64% of total revenue at $8.5B in Q3, up 97% year-over-year. The Helios AI accelerator platform is shipping to major customers (Meta, OpenAI, Anthropic, Oracle) with larger OEM/ODM deployments expected in Q4. Server CPU revenue is expected to grow 100% in 2027 (vs. prior 70% guidance), with total revenue expected to grow over 80% in 2027, potentially reaching $94B (from ~$52B in FY2026). The creator's model projects FY2027 revenue of $86-96B, placing AMD well-positioned for continued growth. The MI500 next-generation GPU already has multi-gigawatt discussions with frontier labs. AMD has superior supply chain partnership with TSMC compared to Intel, and the CPU market is performing extremely well. The creator states AMD will be worth 'way over a trillion dollars and way faster than most people expect' and considers it a 'very, very healthy stock' for the portfolio.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "High inventory levels ($11.5B at quarter end, up $3B sequentially) and weak free cash flow ($554M) due to ramp absorption, though the creator views this as building inventory for strong 2027 shipments. Client and gaming markets expected to be weak in Q4 and into 2027, though this is offset by data center strength. Margins on AI accelerators are lower (55% expected in Q4 vs. 56% in Q3), though AMD did not commit 55% as a floor. AI GPU margins are lower than traditional server CPUs. The creator acknowledges market volatility and that growth may not be a straight line. Two acquisitions (Talos and World Labs) expected to close by year-end, but the strategic vision and synergies with AMD are not clearly articulated by management. Forward P/E ratios of 31.8 for FY2027 (before guidance increase, likely moving to high 20s post-earnings) are not extreme but represent premium valuation."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Client and gaming markets across the semiconductor industry are expected to remain weak into 2027 due to elevated memory prices and consumer market weakness, similar to the challenges Intel faced. This headwind will partially offset strong data center growth but is expected to be outweighed by the magnitude of data center expansion.",
+          "The overall AI market is described as 'extremely volatile,' which could impact stock price movements despite fundamentally strong business prospects. The creator notes AMD may not move in a straight line despite bullish long-term outlook.",
+          "Memory pricing pressures are constraining consumer-facing segments (client and gaming), though AMD is less exposed than Intel given data center concentration."
+        ],
+        "tickers_mentioned": [
+          "AMD",
+          "INTC"
+        ]
+      },
+      "price_at_recommendation": {
+        "AMD": 404.4
+      }
+    },
+    "4tVb3mT76fk": {
+      "channel": "Jose Najarro Stocks",
+      "title": "Marvell and Lumentum: A Brilliant Deal or a $115B Mistake?",
+      "upload_date": "20261103",
+      "url": "https://www.youtube.com/watch?v=4tVb3mT76fk",
+      "processed_at": "2026-11-06T13:43:57.910123",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "MRVL",
+            "company_name": "Marvell Technology",
+            "reason": "The creator expresses strong bullish sentiment on Marvell's full-stack solution combining custom silicon, networking switches, optical DSPs with Lumentum's lasers, indium phosphide manufacturing, and optical transceivers. The creator states they are 'very bullish on the stack solution that they're bringing' and believes 'this could be a big win for Marvell if it becomes a reality because potentially they can win even more and more customers out of this.' The strategic co-design of electrical and optical components addresses the architectural shift in AI networks scaling from scale-up to scale-in architectures. The combined company is projected to have $17.7 billion in revenue with 39% adjusted operating margins and $1 billion in annual run-rate synergies. The creator notes that as a Marvell shareholder, they are 'more happy' than they would be as a Lumentum shareholder because the broader company provides better access to the full semiconductor stack.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The deal remains subject to regulatory approvals and the creator believes there could be pushback due to the optics market being supply-constrained. The deal is an all-stock transaction with a fixed 4.5 share exchange ratio, meaning Marvell share price fluctuations directly impact deal value. The creator notes concerns that Marvell might be buying near a short-term valuation peak, though they believe valuations are currently attractive. The deal is not expected to close until 2028, roughly 1.5 years away, creating extended execution risk and potential volatility. Both stocks declined significantly on announcement day (Marvell down 12.7%, Lumentum down 18.6%) despite strategic merits."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Broader sell-off in the AI space occurred during the announcement period, with concerns about cash spending and debt levels in the AI market creating downward pressure on semiconductor stocks.",
+          "Bond yields showing negative momentum in the broader market are creating headwinds for technology and semiconductor valuations.",
+          "While strong demand for semiconductor products and optics remains evident with Lumentum growing 136.5% YoY and guidance for continued 20%+ sequential growth, the creator notes this is a 'sucky time to be a semiconductor investor' and 'sucky time to be an AI investor' due to macro pressures, despite fundamentals remaining strong.",
+          "Fixed exchange ratio mechanics create ongoing stock price linkage between Marvell and Lumentum during the 1.5-year acquisition period, meaning Marvell share price declines directly reduce deal value for Lumentum shareholders and create mechanical selling pressure as the stocks become tied together."
+        ],
+        "tickers_mentioned": [
+          "MRVL",
+          "LUMN",
+          "NVL72",
+          "NVL144",
+          "NVL288",
+          "NVL576"
+        ]
+      },
+      "price_at_recommendation": {
+        "MRVL": 133.55
+      }
+    },
+    "LBnuDhoHKgs": {
+      "channel": "Jose Najarro Stocks",
+      "title": "AMD Earnings Could Shock Wall Street \u2014 5 AI Stocks to Watch!!",
+      "upload_date": "20261101",
+      "url": "https://www.youtube.com/watch?v=LBnuDhoHKgs",
+      "processed_at": "2026-11-06T13:44:32.612442",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices",
+            "reason": "The creator believes AMD is positioned to gain significant market share from Intel's supply chain failures and is expecting Q3 earnings to beat Wall Street expectations. AMD has a strong partnership with TSMC, conservative guidance historically, and the creator expects the CPU shortage to be larger than expected. The Helios rack is expected to start showing revenue this quarter. The key catalyst is Q4 and full-year guidance, which the creator believes will show massive growth from Helios ramp and server CPU demand. The creator states: 'I believe AMD is going to gobble up some market share for the foreseeable next quarters for this at least for the next three to four quarters because they have that partnership with TSMC.' Management has guided server CPUs to grow over 80% in second half 2026 and over 70% in 2027, with data center more than doubling in 2027.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Margin mix matters \u2014 some AI ramp solutions are still below corporate margins, which could negatively impact earnings. Market reaction to last earnings was negative (7% decline) as investors wanted more of the CPU/GPU story. Macro and geopolitical tensions could impact stock price. The creator is looking for guidance commentary on Helios system and any changes in market dynamics."
+          },
+          {
+            "ticker": "SMCI",
+            "company_name": "Super Micro Computer",
+            "reason": "Super Micro already provided preliminary results on October 20th showing massive upside: revenue of $19 billion versus original $15 billion guidance (a $4 billion beat), and gross margin improvement of 150-200 basis points to 12% midpoint versus expected 10.6%. The creator believes this demonstrates strong AI demand and pricing power in what was thought to be a competitive, low-margin market. The key catalyst is the full year 2027 outlook \u2014 if management increases guidance by at least $4 billion based on the preliminary results, the creator expects significant stock upside. The new CFO from Western Digital signals credibility and experience in the semiconductor industry.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The market will scrutinize whether the $4 billion revenue upgrade represents sustainable new demand or just revenue being pulled forward from future quarters. Sequential margin improvement may not be permanent \u2014 the last quarter benefited from favorable mix, deferred contracts, tariffs, and inventory reserves that may not repeat. Working capital intensity and cash flow conversion need to be monitored. If margins decline sequentially from the last quarter's 17.6%, that should be expected and not viewed negatively, but could still impact market sentiment."
+          },
+          {
+            "ticker": "IREN",
+            "company_name": "Core Scientific (I Rent reference \u2014 appears to be CoreWeave or similar Neo-cloud player)",
+            "reason": "This is one of the first smaller Neo-cloud players to report earnings and provide concrete evidence of progress. The market is expecting strong revenue growth: Q1 FY2027 guidance around $220 million (up from $137 million), Q2 around $372 million, and full year 2027 around $2.7 billion. This shows the market's expectations for significant revenue ramp. The creator is bullish on the company and believes this earnings report is the time management proves execution. Key catalysts include commissioning and customer acceptance progress, capacity schedules coming online, and how financing and prepayments are progressing. The creator states: 'This is going to be the time when you show up and you tell us, Look, this is how we do it.'",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Stock is down 40% since pre-earnings and 37% over 3 months, indicating significant skepticism. Management warned that cash operating expenses will rise ahead of revenue ramp as CapEx builds. Previous CapEx guidance was $25-30 billion and any changes to this are crucial. Financing environment is tight and any issues securing capital for expansion could derail plans. The company's ability to secure prepayments and financing at reasonable terms is critical and uncertain."
+          },
+          {
+            "ticker": "LUMN",
+            "company_name": "Lumentum Holdings",
+            "reason": "Lumentum is well-positioned in the optics market which faces severe supply constraints and has strong pricing power. The company has multiple product growth vectors beyond just CPO (Co-Packaged Optics): optical circuit switch (OCS) revenue expected above $100 million in Q1, 1.6 terabit transceivers beginning shipments in Q4, and laser units (EML) expected to grow above 50% by December quarter. These different product timelines create step-function growth opportunities. The creator expects upside if the company beats expectations, as consensus expectations are already in line. The stock has pulled back recently, creating a better entry point after gaining 21% over three months.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The Bloomberg report of potential Marvell acquisition discussions could create uncertainty, though management cannot discuss this unless officially announced. Wall Street consensus is already in line with guidance, so the market may punish the stock if results simply meet expectations rather than exceed them. High-power lasers for CPO have a later schedule with demand expected to ramp only in second half 2027, so near-term growth is dependent on OCS, transceivers, and EML products."
+          },
+          {
+            "ticker": "AXTI",
+            "company_name": "Axcelis Technologies",
+            "reason": "Air Test Technologies (AXTI) is a small company benefiting from the optics and AI semiconductor tailwinds. The company has announced multiple positive order events in recent months: $22 million in wafer-level follow-on orders (August 12), and hyperscaler customers requiring an extra $6 million in production for second-generation AI processors (October 7). A former Meta executive recently joined the board, signaling credibility. The company has been testing in memory, optics, CPU, and AI accelerator markets, with potential for significant upside if any of these testing phases convert to customer commitments. Most of FY2027 revenue comes from existing customers, but expansion into new non-customers could provide upside catalyst.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Memory market revenue is currently excluded from guidance as it's still being tested and not yet committed. The company is very small and stock has declined 28% over three months and 23% since last earnings (July 14). Stock performance is highly dependent on converting R&D/testing phases into production orders. Stock is relatively expensive on forward PE basis compared to other semiconductors, making it more of a growth/speculation play."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "INTC",
+            "company_name": "Intel Corporation",
+            "reason": "Intel has experienced a massive share loss in the server CPU market and provided horrible guidance for Q4 because management cannot supply the CPUs the market demands. The company's inability to meet server CPU demand is directly benefiting competitors like AMD. The creator references Intel's poor earnings performance as evidence of market share loss that AMD is positioned to capture.",
+            "risk": "Further downside as market share continues to shift to better-positioned competitors with superior supply chain partnerships like TSMC."
+          }
+        ],
+        "key_warnings": [
+          "Forward PE ratios for several of these semiconductor stocks are elevated compared to historical levels and broader market multiples, though the creator does not describe them as 'crazy overvalued.' AMD trading above 30x PE when macro processors trade in low 20s to high teens creates valuation risk if growth slows or macro conditions deteriorate.",
+          "Macro and geopolitical tensions could impact these stocks' performance despite strong underlying fundamentals. The creator explicitly notes: 'obviously, everybody's pretty excited about that... I'm not saying that we are at the bottom or the stocks can't go down. Stocks can obviously go down.'",
+          "Credit markets and financing availability are critical concerns for high-CapEx companies like I Rent. The creator questions whether the financing environment is 'truly as scary as the market makes it seem' and notes that securing financing at reasonable terms is uncertain.",
+          "Semiconductor supply chain dynamics are shifting rapidly. The critical question across multiple companies is whether current growth is sustainable or if revenue is being pulled forward. The creator warns about distinguishing between permanent demand shifts versus temporary revenue timing shifts."
+        ],
+        "tickers_mentioned": [
+          "AMD",
+          "SMCI",
+          "IREN",
+          "LUMN",
+          "AXTI",
+          "INTC",
+          "PLTR",
+          "NVDA"
+        ]
+      },
+      "price_at_recommendation": {
+        "IREN": 18.03,
+        "INTC": 52.25,
+        "LUMN": 3.98,
+        "AMD": 404.4,
+        "SMCI": 27.08,
+        "AXTI": 36.72
+      }
+    },
+    "OIbieiHWISE": {
+      "channel": "Jose Najarro Stocks",
+      "title": "If You Own AMD Stock, Intel's Earnings Crash Changes Everything",
+      "upload_date": "20261031",
+      "url": "https://www.youtube.com/watch?v=OIbieiHWISE",
+      "processed_at": "2026-11-06T13:44:59.383219",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices",
+            "reason": "AMD is positioned to benefit dramatically from Intel's server CPU supply shortage. AMD's revenue breakdown is opposite to Intel's - data center represents a much larger portion (16.7 billion) compared to client (3.1 billion), meaning weakness in consumer/client markets will have minimal impact on overall revenue while data center growth will drive significant gains. AMD management provided strong forward guidance expecting over 80% CPU revenue growth in H2 2026 and over 70% for full year 2027, which Lisa Su only communicates when confident in supply allocation. AMD is actively winning market share with customers like Meta deploying millions of EPYC CPUs and Oracle announcing massive orders. The partnership with TSMC appears to be a significant advantage compared to Intel's struggling internal manufacturing, as TSMC is investing heavily in 2nm and advanced node capacity. AMD is not just placing wafer orders but also investing in advanced packaging and equipment purchases with manufacturing partners to ensure supply meets demand.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Stock price may continue to decline despite bullish long-term fundamentals. Valuation expansion may be limited if AMD doesn't beat expectations. Capacity remains below what AMD wants, meaning supply constraints could persist. If consumer/client market weakness is more severe than expected, it could impact overall revenue despite strong data center growth."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "INTC",
+            "company_name": "Intel Corporation",
+            "reason": "Intel missed massively on Q4 2025 guidance, coming in at $15-16 billion versus analyst expectations of $16.8 billion. The company faces multiple severe structural supply chain issues: FAB 28 in Israel is experiencing disruption affecting older node server CPU supply with an estimated $300 million revenue impact and 2 percentage point gross margin hit in Q4 alone, with similar impacts expected in Q1. Intel's own internal manufacturing strategy, while theoretically providing total control, has backfired as they struggle to allocate resources across too many variables - they cannot execute reliably on their own supply chain despite owning both chip design and manufacturing. Future capacity improvements are not expected until 2027 (some into H2 2027), which is too far away to solve near-term problems. The market is punishing Intel because it should be the one player with complete supply chain control, yet it is failing to deliver while competitors benefit from the shortage. Management indicated market share next year will be a function of supply, and Intel clearly cannot supply adequately.",
+            "risk": "Stock fell nearly 30% following earnings miss. Further downside risk exists if FAB 28 disruption extends beyond Q1 2026 or if supply issues worsen. Gross margin compression of 2+ percentage points is significant. Intel risks losing market share to AMD for years given the long timeline to restore production capacity."
+          },
+          {
+            "ticker": "QCOM",
+            "company_name": "Qualcomm",
+            "reason": "Qualcomm's server CPU opportunity is not expected until 2028, which is too distant to capitalize on the current shortage cycle. The consumer market (where Qualcomm is entering with Windows PC CPUs) is described as very weak, and the creator expects phones and other consumer tech will also be weak, providing no near-term catalysts. While Qualcomm has some data center products coming in H2 2026, these are not proven and the company lacks the immediate supply to compete in the server CPU shortage.",
+            "risk": "Consumer market weakness will likely pressure results. Server CPU opportunity is too far out (2028) to drive near-term stock appreciation during the current shortage window. Forward PE of ~16x provides some valuation support but limited upside if consumer remains weak."
+          },
+          {
+            "ticker": "ARM",
+            "company_name": "Arm Holdings",
+            "reason": "ARM's AGI CPU commercial shipments are not expected until late 2026, which is too distant to benefit from the immediate server CPU shortage cycle. While ARM earns licensing and royalty fees from partners building CPUs, the company appears to have significant demand-supply imbalance (demand over $2 billion vs. support capacity of roughly $1 billion), but this is dependent on partner execution rather than ARM's direct control. The creator notes that valuation does not meet the price-to-risk-reward ratio, suggesting the stock is already pricing in positive outcomes.",
+            "risk": "Valuation appears stretched relative to risk-reward. Earnings timing and product ramps for AGI CPU are too far out to provide near-term catalysts. Dependent on partner execution for actual revenue realization. Market share wins in CPU licensing are not guaranteed."
+          }
+        ],
+        "key_warnings": [
+          "Consumer/Client computing market experiencing severe weakness with pricing of memory creating massive headwind - Intel's client business down 5% YoY in Q3 and expected to decline over 20% in Q4, which outweighs data center gains. This consumer weakness will impact the entire semiconductor sector.",
+          "Server CPU supply shortage is real and structural - substrate materials for advanced packaging are in massive shortage, wafer output from all manufacturers is missing demand, and even Intel with full internal control cannot execute. This shortage will likely persist into 2027.",
+          "Intel's internal FAB disruption in Israel (FAB 28) signals geopolitical/operational risks affecting semiconductor supply - the facility disruption is impacting older node server CPU supply with estimated 2-point gross margin hit and $300 million revenue impact, with potential for extended impact beyond Q1 2026.",
+          "Stock valuations vary significantly - AMD has room for expansion if it beats expectations and executes on guidance, Qualcomm at 16x forward PE has some downside protection, but ARM appears to have significant upside already priced in, making risk-reward unfavorable for ARM."
+        ],
+        "tickers_mentioned": [
+          "INTC",
+          "AMD",
+          "QCOM",
+          "ARM",
+          "NVDA",
+          "GOOGL",
+          "MSFT",
+          "AMZN"
+        ]
+      },
+      "price_at_recommendation": {
+        "QCOM": 156.75,
+        "ARM": 166.72,
+        "AMD": 404.4,
+        "INTC": 52.25
+      }
     }
   },
   "channel_ids": {

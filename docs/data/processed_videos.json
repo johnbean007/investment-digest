@@ -34288,6 +34288,332 @@
         "AMD": 404.4,
         "INTC": 52.25
       }
+    },
+    "7vOchO5Uifg": {
+      "channel": "Jose Najarro Stocks",
+      "title": "AI Stocks Just Crashed \u2014 Why I'm Not Panicking!!",
+      "upload_date": "20261106",
+      "url": "https://www.youtube.com/watch?v=7vOchO5Uifg",
+      "processed_at": "2026-11-07T08:16:51.464084",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "AI and NeoCloud stocks have experienced significant declines (Nebulas down 47-48% in 5 months, Oracle down 18% in past month, Kio down 48% in past month, Apply Digital down 40% in past month) due to fears about data center buildout slowdowns following midterm elections and new regulatory requirements in Texas. However, the creator believes this fear is overblown because existing construction projects will continue, regulations will only require data centers to work with communities (providing benefits like school funding, park sponsorship, managing electric prices) rather than stopping development entirely, and the fundamental demand for AI compute remains strong.",
+          "Near-term slowdown risk in new data center permits and buildouts due to new regulatory frameworks requiring community partnership and environmental protections, particularly in Texas. However, existing projects already in construction will continue for multiple quarters or even years, and capacity expansion slowdowns in the supply chain will actually extend the AI compute cycle longer by creating supply-demand imbalances that protect margins.",
+          "Market is overreacting to election results by expecting immediate policy implementation. Historically, campaign promises take significant time to execute, so market expectations of complete data center shutdowns are premature. Elected officials also have political incentive to protect voter retirement accounts and 401(k)s that have been hit by stock declines, creating pressure to support the AI/data center industry."
+        ],
+        "tickers_mentioned": [
+          "NEBULAS",
+          "ORCL",
+          "KIOXIA",
+          "APLD",
+          "IREN",
+          "LGND",
+          "CORE",
+          "MARA",
+          "RIOT",
+          "CLSK"
+        ]
+      },
+      "price_at_recommendation": {}
+    },
+    "bTAyRWr5ED4": {
+      "channel": "Jose Najarro Stocks",
+      "title": "Amazon and Intel Earnings Call Live -- THIS TIME WE RALLY?",
+      "upload_date": "20261029",
+      "url": "https://www.youtube.com/watch?v=bTAyRWr5ED4",
+      "processed_at": "2026-11-08T08:58:26.013955",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon.com Inc.",
+            "reason": "AWS growing 39.3% YoY with $184B annualized revenue run rate and expected to grow north of 40% in 2027 and 2028. AWS margins expanding rapidly despite CapEx investments. Operating margin hit all-time high of 13.9%. Retail business taking market share with improving margins approaching 15% operating margins. Strong momentum in advertising (12% growth), Prime Video (tens of billions revenue run rate now profitable), and custom chips business (triple-digit growth). Multiple speakers noted if Amazon falls below $200, it would be an amazing opportunity given the earnings quality. The company expects to become a trillion-dollar revenue business in AWS and stores within 5-10 years. CEO emphasized strong flywheel strategy and long-term platform economics regardless of supply scarcity.",
+            "when_to_buy": "Below $200 if market weakness continues, though stock down only 7% after hours despite slight revenue and EPS miss",
+            "target_price": null,
+            "cautions": "Missed Q3 EPS ($1.89 vs $1.96 expected) and revenue ($201.9B vs $202B expected) by small margins. AWS revenue missed guidance slightly. Advertising growth slowed to 12% YoY (down from 26% last quarter and 22% a year ago) due to Prime Day timing shift into Q2 and lapping prior year SEO changes. Q4 guidance for operating income at midpoint in line with expectations. Capital intensity remains very high with $220B expected 2026 cash CapEx and 'meaningfully more' expected in 2027."
+          },
+          {
+            "ticker": "MICRON",
+            "company_name": "Micron Technology Inc.",
+            "reason": "Jose disclosed he bought Micron about a week ago with cost basis around $90-$91 per share to get exposure to the memory name. Micron is benefiting from supply constraints in NAND and DRAM. SanDisk reported biggest customers with long-term NAND deals are coming back requesting significantly more supply than originally contracted, indicating massive underestimation of memory demand. Memory players are getting financial contracts through 2030, confirming extended demand visibility. Despite Micron being down 5% on the day, the foundational demand thesis remains intact with supply-constrained environment.",
+            "when_to_buy": "Jose entered around $90-91 per share, suggesting that level was attractive; stock is currently lower after hours",
+            "target_price": null,
+            "cautions": "Micron has not caught a bid despite memory pricing strength and complained by all major CEOs about expensive memory. Stock down 5% on day despite industry supply constraints, potentially due to broader semiconductor selloff following Intel's 20% after-hours decline. Market is currently focused on CapEx concerns rather than pricing power dynamics. Forward multiples may be compressed despite strong demand visibility."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "INTC",
+            "company_name": "Intel Corporation",
+            "reason": "Intel missed on Q4 guidance badly: revenue guided $15-16B vs Street estimate of $17B (sequential decline), and EPS guided 25 cents vs Street estimate of 43 cents\u2014a massive miss on both metrics. Gross margins guided to 38% vs Street expectations of 42%, showing deteriorating operating leverage precisely when AI shortage should provide pricing power. Sequential revenue decline in Q4 is particularly concerning given AI tailwinds and supposed supply shortages. CFO noted memory pricing fell off in late August/early September, but this creates confusion about actual demand strength. Stock down 20% after hours reflecting market disgust with forward guidance.",
+            "risk": "Stock crashed from $150 earlier this year to below $75 after hours. Further downside risk if foundry business momentum disappoints during earnings call. Valuation multiple compression likely to accelerate. Stock traded on hype/momentum momentum rather than fundamentals\u2014vulnerable to sharp repricing."
+          },
+          {
+            "ticker": "REDDIT",
+            "company_name": "Reddit Inc.",
+            "reason": "Despite beating on revenue (895M vs 878M expected) and EPS ($1.40 vs $1.35 expected), daily active users missed at 130.3M vs 133M expected. This is the second or fourth quarter in a row of DAU misses depending on methodology. Search referral traffic from Google is 'meaningfully down' per CEO. Company announced forced login requirement for all users (logged-out users can no longer access content), which is a desperate user acquisition move that will hurt user experience and likely drive away mobile users who currently scroll twice before being prompted to log in. Q4 revenue guidance came in lighter than expected. No AI data licensing deal announced despite being a key narrative catalyst. Stock down 10-18% after hours despite earnings beat because growth engine is broken\u2014ARPU expansion cannot offset user base stagnation long-term.",
+            "risk": "Stock down 10-18% after hours. User base growth has stalled; forced login will likely accelerate churn. High valuation multiple (was 30x PE) now compressing toward low 20s, but downside risk remains if user numbers continue to decline. International growth of 24% YoY insufficient to offset US stagnation. Without new user growth strategy beyond forced login, monetization will max out."
+          },
+          {
+            "ticker": "TWILIO",
+            "company_name": "Twilio Inc.",
+            "reason": "Despite beating on EPS by 12% (165 vs 147 expected) and revenue by 3% (1.56 vs 1.51 expected), with EPS up 32% YoY and revenue up 20% YoY, stock crashed 17% after hours. This represents the broader SaaS selloff ignoring fundamental strength. Company controls backend SMS infrastructure for critical services (bank login codes), making it an essential utility. The stock rallied from $117 bottom to $300 in early October and now trading at $200, showing it cannot hold gains despite operational execution.",
+            "risk": "Stock down 17% after hours despite double beat on earnings. Valuation vulnerability to multiple compression in risk-off environment. SaaS complex is being sold indiscriminately regardless of earnings quality, making fundamental thesis irrelevant in current market sentiment."
+          },
+          {
+            "ticker": "PINTEREST",
+            "company_name": "Pinterest Inc.",
+            "reason": "Missed on both EPS (46 cents vs 48 cents expected) and revenue ($1.17B vs $1.21B expected) despite beating on MAUs at record 661M. CEO blamed European regulatory changes (3 percentage points of revenue deceleration) with Q4 impact expected to continue. Growth deceleration in advertising business despite record user numbers indicates monetization challenges. Stock down 11-13% after hours despite user growth, suggesting investors skeptical of regulatory headwinds and ability to grow revenue.",
+            "risk": "Stock down 11-13% after hours. European regulatory headwinds will persist into Q4. Inability to monetize record user base at expected rates suggests structural challenges. Agentic shopping tools not negatively impacting traffic yet, but represents future risk to ad-dependent model."
+          }
+        ],
+        "key_warnings": [
+          "Massive across-the-board selloff in growth and cloud infrastructure names despite positive earnings: Amazon down 7-10%, Intel down 20%, Reddit down 10-18%, Twilio down 17%, Roblox down 10-17%, Pinterest down 11-13%, ServiceNow down 27%, Vertiv down 5%, and entire semiconductor complex getting hammered with Micron down 5%, AMD down 4-5%, Arm down 5-7%. This is not earnings-driven; this is a fundamental risk-off sentiment collapse. Even companies with triple beats (like AXTI, SanDisk) are down after hours, indicating mechanical selloff in high-beta growth regardless of results.",
+          "CapEx sustainability concerns are now the primary market fear: Every CEO is saying they will spend 'meaningfully more' in 2027 than 2026 ($220B already for Amazon). Market is questioning whether these investments will generate adequate returns and whether capital raise requirements will lead to dilution. Despite Microsoft having solid numbers, all mega-cap tech is trading down. Google's search business showed weakness (12% ads growth deceleration), Amazon's ads growth slowed to 12% (down from 26%), and Pinterest/Reddit advertising-dependent models are struggling. This suggests advertising weakness may be starting to crack despite mega-caps claiming resilience.",
+          "Artificial Intelligence investment cycle is facing existential credibility questions: Multiple speakers noted that despite all positive AWS commentary on AI, the market is selling AI infrastructure plays on fears of bubble/overinvestment. Cognition AI valuing at $70B in private markets, Instinct AI at $30B (up from $2.5B a month ago after $10B raise), while public market AI beneficiaries trade lower. The disconnect suggests either private market valuations are completely divorced from reality, or public markets are undervaluing AI opportunity. Market cannot decide. Intel's Q4 guide miss (sequential revenue decline) is being interpreted as proof that AI demand is not real/sustainable despite contradictory evidence from AWS, Azure, and Google Cloud all showing strong triple-digit AI revenue growth.",
+          "Semiconductor complex selling despite supply constraint narrative: Every CEO complained about memory being too expensive (Tim Cook, Intel CFO), Samsung and SK Hynix crushed earnings, SanDisk beat on heavy NAND demand with customers coming back for more supply, yet Micron down 5% and entire semi complex down. This suggests either: (1) market doubts durability of memory pricing power, (2) market fears demand will slow before supply catches up, (3) margins peaked and will compress, or (4) capex investment required to increase supply will hurt near-term profitability. Jose's thesis that semis with pricing power should get respect is being rejected by the market.",
+          "User growth is stalling/reversing across platforms affecting ad-dependent businesses: Reddit DAUs missed and are flat quarter-over-quarter (stalled US, weak international). Roblox hours spent down 15% YoY despite revenue growth. Pinterest growth deceleration from regulatory headwinds. This creates advertising headwind across the board despite Meta showing resilience. Market is concerned that user base stagnation = eventual ad revenue wall.",
+          "Crypto contagion risk from Binance hack: Reported 2.7B dollar outflow from Binance wallets across five blockchains in suspected hack (unconfirmed). Polymarket also hacked same day. Bitcoin down 79K (first time in months hitting this level). Binance hack could trigger cascading effects if confirmed, particularly given it's the world's largest crypto exchange. Stan Druckenmiller bullishly tweeting about Hyperliquid earlier today was overwhelmed by this negative news.",
+          "Forced logout/login strategies signal desperation in user growth: Reddit forcing logged-out users to create accounts is user experience hostile move that parallels Instagram/Meta family apps but is particularly risky for casual Reddit users on mobile. This suggests platforms are out of organic growth strategies and resorting to friction-inducing tactics to boost DAU metrics. Will likely backfire and accelerate churn.",
+          "Agentic AI and horizontal agents pose existential threat to retail/advertising business models: Amazon explicitly addressed agents cannibalizing ads but claimed impact is 'no' because experience is not good yet. However, if agents improve (and they will), this represents structural threat to Amazon Ads, retail ad networks, and search-dependent businesses like Pinterest/Reddit. Market is rightfully worried that agent adoption could hollow out digital advertising ecosystem and e-commerce discovery model. Amazon's Alexa shopping and agentic tools represent hedge, but Reddit/Pinterest have no equivalent play."
+        ],
+        "tickers_mentioned": [
+          "AMZN",
+          "INTC",
+          "GOOGL",
+          "MSFT",
+          "MCD",
+          "COIN",
+          "SBUX",
+          "RBLX",
+          "PINS",
+          "RIVN",
+          "MSTR",
+          "RDDT",
+          "GDDY",
+          "SNDK",
+          "PYPL",
+          "NFLX",
+          "ARM",
+          "AMD",
+          "NVDA",
+          "CORE",
+          "MU",
+          "AXTI",
+          "META",
+          "NOW",
+          "VRT",
+          "ROKU",
+          "TWLO",
+          "RKT",
+          "MNST",
+          "MNDY",
+          "SHOP",
+          "CPNG",
+          "ABNB",
+          "UBER",
+          "DASH",
+          "LYFT",
+          "TALO",
+          "PSTG",
+          "CRWD",
+          "NET",
+          "OKTA",
+          "DDOG",
+          "SNOW",
+          "DBX",
+          "SPLK",
+          "ESTC",
+          "SUMO",
+          "UPST",
+          "AFRM",
+          "SSNC",
+          "JKHY",
+          "SLAB",
+          "SWKS",
+          "QCOM",
+          "BRCM",
+          "TRVG",
+          "TSM",
+          "ASR",
+          "LRCX",
+          "KLAC",
+          "CDNS",
+          "SNPS",
+          "BTC",
+          "ETH",
+          "SOL",
+          "HYP",
+          "HOOD"
+        ]
+      },
+      "price_at_recommendation": {
+        "AMZN": 259.3,
+        "INTC": 56.28
+      }
+    },
+    "_968MVOAgkQ": {
+      "channel": "FinTek",
+      "title": "Top AI Cybersecurity Stock to BUY During the Dip",
+      "upload_date": "20261107",
+      "url": "https://www.youtube.com/watch?v=_968MVOAgkQ",
+      "processed_at": "2026-11-08T08:58:35.511850",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "CRWD",
+            "company_name": "CrowdStrike Holdings",
+            "reason": "CrowdStrike has been the leader in the magic quadrant for endpoint protection by Gartner for an extended period. The company is growing really quickly with annual recurring revenue up 25% year over year. The addressable market for their products is expected to be about $150 billion per year in 2026. Additionally, the company was recently named a leader in proactive security platforms by Forrester. The creator owns 464 shares currently valued at over $100,000, which is up nearly 600% over the time that they have owned the position.",
+            "when_to_buy": "during the dip",
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": [
+          "CRWD"
+        ]
+      },
+      "price_at_recommendation": {
+        "CRWD": 216.9
+      }
+    },
+    "1UOGDvj6aHw": {
+      "channel": "FinTek",
+      "title": "Is Intel Stock Catching up in AI?",
+      "upload_date": "20261106",
+      "url": "https://www.youtube.com/watch?v=1UOGDvj6aHw",
+      "processed_at": "2026-11-08T08:58:45.664407",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "INTC",
+            "company_name": "Intel Corporation",
+            "reason": "Intel operates in the AI hardware space and reported revenue up 25% year-over-year in their most recent earnings. More importantly, their data center and AI products specifically grew 59% in the past year, which could show significant payoff at the bottom line in a few years. Additionally, Intel recently partnered with Nvidia to jointly develop AI infrastructure, with Nvidia investing $5 billion into Intel as part of this deal, signaling confidence from a major industry player. The creator notes that Intel seems to be making the right choices today in positioning itself for AI growth.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The creator emphasizes that even though Intel seems to be making the right choices today, the payoff from these strategic moves will not materialize for quite a ways down the road, suggesting this is a longer-term investment thesis."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Intel's AI hardware and data center growth, while impressive at 59% year-over-year, will take considerable time to translate into bottom-line profitability. Investors should expect a multi-year timeline before seeing significant earnings impact from current AI initiatives and partnerships."
+        ],
+        "tickers_mentioned": [
+          "INTC",
+          "NVDA"
+        ]
+      },
+      "price_at_recommendation": {
+        "INTC": 56.28
+      }
+    },
+    "7OVx53D7xdI": {
+      "channel": "FinTek",
+      "title": "If You Missed Palantir or Nvidia, This is Even Bigger",
+      "upload_date": "20261104",
+      "url": "https://www.youtube.com/watch?v=7OVx53D7xdI",
+      "processed_at": "2026-11-08T08:59:13.375960",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "MOG",
+            "company_name": "Moog Inc.",
+            "reason": "Moog builds spacecraft platforms and hardware (steering mechanisms, onboard electronics, life support systems) that satellite and rocket companies need. The company is profitable today with over $1 billion in revenue last quarter (up 15% year-over-year) and $133 million in positive free cash flow. As the space market grows, Moog has more opportunities to sell essential subsystems. The company is growing its propulsion footprint by 80% with a facility expansion in New York. Additionally, Moog is seeing growing demand across all levels of NASA missions and is entering the 'new space' market of smaller, company-driven missions. Unlike many space companies, Moog is not burning through cash, which makes it attractive as a more stable investment in the space sector.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The stock has already jumped 75% in the past year to a PE ratio of 31, meaning investors are paying a premium. Only about 1/8 of the company's revenue comes directly from space, while around half of revenue is tied to defense spending, so near-term investors are essentially buying a defense supplier. The company received a one-time tariff refund that added 18% to profitability this quarter, which is temporary. The creator is waiting to see more traction in Moog's new space segment before buying in, especially since other pure-play space companies are growing at over 50% per year."
+          },
+          {
+            "ticker": "RKLB",
+            "company_name": "Rocket Lab USA Inc.",
+            "reason": "Rocket Lab builds and launches smaller spacecraft and rockets (like the Electron vehicle) into orbit, offering a more personalized service compared to larger competitors. Revenue is up 62% year-over-year, with most recent growth coming from their space systems segment rather than launches alone. The company is vertically integrated, developing both launch vehicles and spacecraft platforms that customers can customize. Rocket Lab recently won an $816 million space missile defense contract from the U.S. Space Development Agency at the end of 2025. The company has a backlog of over $2 billion, providing significant runway for future growth. They are developing Neutron, a medium-lift reusable rocket expected to launch in 2027 to compete with SpaceX's Falcon 9. As a pure-play commercial space company, it offers more direct exposure to the space market than diversified defense contractors.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The company has made recent acquisitions (Minarc for space laser communications, Geost for sensors, and signed a deal to acquire Iridium for GPS and Starlink-style networks) which cost money through debt or share issuance and complicate the business. There is always integration risk with acquiring new companies. The company is not yet profitable, losing $49 million last quarter (though better than the $66 million loss a year ago). Given the high valuation, the stock price is vulnerable to a hit if the company fails to continue growing at expected rates. The creator notes this is one of the purest ways to play the commercial space race short of buying SpaceX."
+          },
+          {
+            "ticker": "PL",
+            "company_name": "Planet Labs Inc.",
+            "reason": "Planet Labs builds and operates satellites specialized in gathering Earth imagery data that they sell to customers for applications like farmland monitoring, wildfire tracking, and border surveillance. Revenue was $116 million last quarter, up 58% year-over-year, with an over $800 million backlog. The company has recently acquired Synergies' Sentinel Hub software and begun placing Nvidia Jetson AI chips directly on their satellites to run analytics in space, sending only final intelligence to customers on the surface. Planet has a strategic partnership with Google: Google sold its Terrabeella satellite imagery business to Planet and signed a multi-year deal to buy imagery back. More significantly, Google launched Project Suncatcher, an AI data center satellite built in partnership with Planet that launched on a SpaceX rocket, suggesting potential for future acquisition by Alphabet. The creator likes the business model and acquisitions, viewing the Google partnership as key to the business. At a $5 billion market cap, it offers moonshot space exposure.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The majority of revenue (around 70%) comes from defense and intelligence contracts that are large, all-in-once deals, making revenue lumpy and hard to predict. The company is not profitable, posting a net loss of just over $9 million last quarter. The company is issuing a significant number of new shares to pay expensive engineering staff, which puts downward pressure on the stock price through share dilution. The creator notes this will only be a core holding for portfolio diversification, not as a primary position, and that valuing the company long-term really depends on predicting how many government contracts they will win."
+          },
+          {
+            "ticker": "WARP",
+            "company_name": "Warp ETF",
+            "reason": "The Warp ETF provides exposure to the entire space market through a basket of stocks including SpaceX, Rocket Lab, Viaat, and Firefly, avoiding the need to pick a single winner. If forced to buy only one ticker in the space sector, the creator states they would probably go with this ETF rather than a single company. This approach gives exposure to overall space market growth without concentrating risk on one company.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The ETF is still relatively small with only $40 million in assets under management and has a decently high expense ratio, which may limit its liquidity and increase costs for investors."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "The space market is highly speculative and capital-intensive. Most pure-play space companies like Rocket Lab and Planet Labs are not yet profitable and rely on continued revenue growth to justify high valuations. Any slowdown in government spending or commercial space adoption could cause significant stock price declines.",
+          "Revenue sources and contract lumpy-ness present forecasting challenges. Companies like Planet Labs derive 70% of revenue from defense and intelligence contracts that come in large, unpredictable batches, making consistent revenue projections difficult.",
+          "Share dilution from stock-based compensation is a significant headwind for smaller space companies. Planet Labs and Rocket Lab are issuing substantial shares to pay engineering talent, which dilutes existing shareholders regardless of business performance.",
+          "Integration risk from acquisitions is elevated in this sector. Rocket Lab's multiple recent acquisitions (Minarc, Geost, Iridium) and Planet Labs' acquisitions add complexity and carry execution risk that could destroy value if not properly integrated."
+        ],
+        "tickers_mentioned": [
+          "MOG",
+          "RKLB",
+          "PL",
+          "WARP",
+          "AMD",
+          "MU"
+        ]
+      },
+      "price_at_recommendation": {
+        "RKLB": 53.07,
+        "PL": 12.55,
+        "WARP": 17.21
+      }
+    },
+    "1bsSg9B4yP4": {
+      "channel": "FinTek",
+      "title": "Top \u201cBoring\u201d Stock for the $2.5T Robotics Supply Chain (RRX)",
+      "upload_date": "20261103",
+      "url": "https://www.youtube.com/watch?v=1bsSg9B4yP4",
+      "processed_at": "2026-11-08T08:59:22.383749",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "RRX",
+            "company_name": "Regal Rexnord",
+            "reason": "Regal Rexnord is part of the broader power and industrial motion market with 31% of sales ($478 million this quarter) coming from automation and motion control business. The company acquired Ultra Industrial Motion in 2020 for $5 billion, which represents around half of their current value. The creator characterizes it as a 'boring' stock but highlights that while the company is primarily industrial, it has substantial upside potential from automation exposure, positioning it to benefit from the $2.5 trillion robotics supply chain.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": [
+          "RRX"
+        ]
+      },
+      "price_at_recommendation": {
+        "RRX": 169.07
+      }
+    },
+    "jrJ6kBhJ63E": {
+      "channel": "FinTek",
+      "title": "Prediction Markets vs Sportsbooks, Explained",
+      "upload_date": "20261102",
+      "url": "https://www.youtube.com/watch?v=jrJ6kBhJ63E",
+      "processed_at": "2026-11-08T08:59:30.240178",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": []
+      },
+      "price_at_recommendation": {}
     }
   },
   "channel_ids": {

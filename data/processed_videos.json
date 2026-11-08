@@ -34614,6 +34614,561 @@
         "tickers_mentioned": []
       },
       "price_at_recommendation": {}
+    },
+    "S-p77T41-D8": {
+      "channel": "CouchInvestor",
+      "title": "2027 Market Predictions: Here\u2019s What We\u2019re Actually Doing",
+      "upload_date": "20261107",
+      "url": "https://www.youtube.com/watch?v=S-p77T41-D8",
+      "processed_at": "2026-11-08T10:04:02.956859",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Nvidia is described as having the biggest moat among semiconductor companies and is positioned as a form of safety even though debt and dilution may discount it. The company is expected to generate approximately $450 billion in free cash flow in fiscal 2029, almost half a trillion dollars in a single year. Even if capex decreases, the company will have massive cash generation to invest in future business improvements. Nvidia's 70% expected growth in 2027 on a $411 billion base is substantial despite being slower than 100% growth in the current year. It is the largest semiconductor position for one of the speakers and considered a safer bet long-term compared to other semiconductor names.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The multiple is getting discounted despite amazing growth. There is uncertainty about what a slowdown in capex growth means for Nvidia's valuation and future performance."
+          },
+          {
+            "ticker": "NFLX",
+            "company_name": "Netflix Inc.",
+            "reason": "Netflix is expected to grow EPS 20% over the next few years while trading at 5-year lows. The business model is phenomenal with strong subscriber retention; people are unlikely to cancel subscriptions overnight. The company represents a solid investment opportunity outside of AI capex dynamics.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The speaker states they do not love the content or business personally, despite acknowledging it as a phenomenal business opportunity."
+          },
+          {
+            "ticker": "UBER",
+            "company_name": "Uber Technologies Inc.",
+            "reason": "Uber is mentioned as one of many names out there with nothing to do with AI capex going up or down that will benefit regardless of labs producing revenue. It represents a diversified bet outside the AI infrastructure trade with asymmetrical risk-reward.",
+            "when_to_buy": "One speaker mentions potentially buying at $70 for a public portfolio",
+            "target_price": null,
+            "cautions": "Like all non-AI infrastructure plays, it lacks direct exposure to the AI capex cycle benefiting from memory and chip demand."
+          },
+          {
+            "ticker": "AAPL",
+            "company_name": "Apple Inc.",
+            "reason": "Apple represents a diversified tech position and is mentioned as part of the Magnificent 7. It is described as having valuations that don't make sense, but the market continues to pile in on it as the best performing Mag 7 stock this year, suggesting strong investor conviction.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The valuation on Apple doesn't make sense according to the speakers, and it may be benefiting from market rotation away from AI infrastructure trades rather than fundamental improvements."
+          },
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet Inc.",
+            "reason": "Google is positioned as a safe, boring answer for 2027. Multiple speakers indicate they would rather own more Google than bottleneck semiconductor names like Micron. The company can operate well in a higher interest rate environment with two expected rate hikes next year.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Described as a conservative choice rather than a high-growth opportunity; may underperform if semiconductor demand explodes."
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms Inc.",
+            "reason": "Meta is presented as having a much better shot at 20% stock price appreciation next year compared to highly volatile semiconductor names. It represents a more predictable growth trajectory and is positioned as a core Magnificent 7 holding for 2027 allocation.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "None explicitly stated, though it is positioned as a safer alternative to higher-risk semiconductor bets."
+          },
+          {
+            "ticker": "SOFI",
+            "company_name": "SoFi Technologies Inc.",
+            "reason": "SoFi is described as an excellent business and phenomenal company with very good fintech growth potential over the next couple years. It is positioned as outperforming despite being down 34-40% this year, with a thesis that it will do well in a higher rate environment. The company provided fiscal year 2027 guidance and appears comfortable with growth rates despite macro headwinds.",
+            "when_to_buy": "One speaker bought at $17 in January and is willing to buy more if it declines to around $12-14",
+            "target_price": null,
+            "cautions": "SoFi was down significantly this year despite strong fundamentals, demonstrating that good companies can experience prolonged underperformance. The company expects two rate hikes in fiscal 2027, which could impact profitability."
+          },
+          {
+            "ticker": "PLTR",
+            "company_name": "Palantir Technologies Inc.",
+            "reason": "Palantir is capturing enterprise demand for sovereign AI and generating insatiable demand from companies coming to them for AI solutions. The company is positioned as benefiting from AI infrastructure regardless of frontier model success. Multiple speakers are bullish on the company's long-term potential, with one speaker holding it and having gotten back in at $104-107.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The company has a market cap near $500 billion and needs to grow into this valuation. It is expected to reach approximately $8 billion in revenue this year with hopes for $20 billion next year. Enterprise AI demand from Palantir's customers does not necessarily translate to exponential demand for memory and semiconductors."
+          },
+          {
+            "ticker": "MU",
+            "company_name": "Micron Technology Inc.",
+            "reason": "Micron is presented as dramatically undervalued at current levels trading at 3 times earnings with exceptional growth rates. The company will generate $800 in EPS over the next four years alone. Memory is in structural shortage with high demand from hyperscalers (Amazon, Google, Meta, Apple). HBM is dominated by just three companies (Micron, SK Hynix, Samsung), providing pricing power. The company can generate hundreds of billions in free cash flow and theoretically pay back its entire stock price in 5-7 years through buybacks and earnings. One speaker bought at $60 and has seen it go to $800, demonstrating massive upside potential. John Ternus (Apple) and Elon Musk have repeatedly emphasized memory constraints.",
+            "when_to_buy": "At current levels around $780-800. One speaker indicates willingness to hold at $800 with a price target higher than $1,200, potentially reaching $1,600",
+            "target_price": "$1,200 to $1,600 potential; represents a 1.7 trillion dollar market cap; one calculation suggests it could reach $1,600 at 9 times forward earnings",
+            "cautions": "Micron is a cyclical business with history of boom-bust cycles, though current scale ($207 peak EPS in 2028 declining to $41 in 2033) is vastly different from historical cycles. Supply could come from new fabs or competitors like CXMT. Memory pricing power could decrease due to negotiations and innovation. This is a minority position for most speakers due to conviction concerns, not fundamental concerns. The market has discounted this stock significantly for 5 months despite no major negative news. If capex growth has peaked (not stopped), future cash flow growth will moderate and multiple compression could continue. Some speakers worry about taking a position when they cannot fully defend it, suggesting risks around execution and unknown variables. The stock was flat to down 40% from market peak after the driver in Singapore was bullish on it\u2014possibly a contrarian indicator."
+          },
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Beyond the primary recommendation, Nvidia is positioned as the largest semiconductor position for one speaker. The company represents a form of safety in the semiconductor space despite concerns about debt and dilution. Nvidia has a clear moat compared to commodity memory producers.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "One speaker acknowledges uncertainty about what slowing capex growth means for Nvidia's future trajectory, despite being their largest semiconductor position."
+          },
+          {
+            "ticker": "NEBS",
+            "company_name": "Nebius Global Inc.",
+            "reason": "Nebius is positioned as a well-priced opportunity in the neo-cloud space. One speaker indicates they have a meaningful position and view it as benefiting from AI infrastructure buildout. The company is perfectly positioned for data center constraints\u2014if buildouts must happen in Europe, Middle East, and Asia, Nebius is the company. They take on more prepayment, have debt matched by cash, and are benefiting from Microsoft partnership with on-time delivery. The company is trading below $140 after hours and represents significant value.",
+            "when_to_buy": "Below $140 after recent pullback; historically bought below $100 by one speaker",
+            "target_price": null,
+            "cautions": "Some concerns about capital constraints and potential data center moratoriums in the United States could impact growth. However, these constraints may actually benefit Nebius as buildouts shift internationally. One speaker mentions wanting to do a deeper dive on the company given potential headwinds."
+          },
+          {
+            "ticker": "SK",
+            "company_name": "SK Hynix Inc.",
+            "reason": "SK Hynix is mentioned as one of only three companies dominating HBM worldwide (along with Micron and Samsung). The company will generate hundreds of billions in revenue and free cash flow. Like Micron, it is positioned to benefit from structural memory shortages and will be among the first to adopt new technologies.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "As a Korean company, South Korean investors may be struggling due to not buying at lows, similar to the challenge of buying Micron at current valuations. SK Hynix faces the same cyclical risks and execution concerns as Micron."
+          },
+          {
+            "ticker": "ZETA",
+            "company_name": "Zeta Global Holdings Corp.",
+            "reason": "Zeta is described as a big winner for one speaker this year. At $32-34, the speaker is more excited to buy it next year and would like it even more with a 20-25% discount. The company has solid fundamentals and is positioned for long-term growth.",
+            "when_to_buy": "Current levels around $32-34; attractive if it declines 20-25%",
+            "target_price": null,
+            "cautions": "None explicitly stated; positioned as a solid compounder outside the AI infrastructure narrative."
+          },
+          {
+            "ticker": "SHOP",
+            "company_name": "Shopify Inc.",
+            "reason": "Shopify is positioned as a core holding that won't fall into the category of being dead in the next 10 years. The company has a multiple that is arguably aggressive but represents a safe long-term position. It has a history of sharp double-digit drops after earnings followed by higher highs, demonstrating the importance of long-term holding.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The valuation multiple is described as pretty aggressive, and the company frequently experiences sharp sell-offs after earnings that are not necessarily indicative of long-term prospects."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "MRVL",
+            "company_name": "Marvell Technology Inc.",
+            "reason": "Marvell announced a $150 billion acquisition of Lumentum despite already guiding for 60% compounded revenue growth through 2031. This deal involves 40% shareholder dilution and is indicative of late-stage cycle behavior. The acquisition suggests smaller companies are having problems getting access to components and need to consolidate. This type of deal structure is reminiscent of deals seen when things aren't at the earliest stage of the cycle. Marvell is described as already showing late-stage cycle consolidation behavior.",
+            "risk": "Significant shareholder dilution from the Lumentum acquisition; stock could underperform due to deal structure and integration risks despite underlying growth guidance."
+          },
+          {
+            "ticker": "LUMN",
+            "company_name": "Lumentum Holdings Inc.",
+            "reason": "Lumentum is being acquired by Marvell, suggesting the company could not sustain independent growth despite being sold out until 2029 and being a poster child for the bottleneck trade. The sale indicates something negative about the company's trajectory\u2014that management was forced into the deal despite apparent strong demand. This suggests the company may not be able to capture the value from its backlog.",
+            "risk": "Being acquired at a price that shareholders may view as a capitulation; the deal terms involve significant dilution for Marvell, suggesting unfavorable terms."
+          },
+          {
+            "ticker": "RDDT",
+            "company_name": "Reddit Inc.",
+            "reason": "Reddit crashed 30% after earnings due to concerns about Google search referral traffic changes affecting user growth. The company faces questions about whether it can survive without Google as a sales channel for new user acquisition. There are unanswered questions about execution and the company's ability to find new growth vectors if Google traffic declines. While one speaker did a full review indicating potential rebound, there are real structural concerns.",
+            "risk": "Down 30% after earnings with unresolved questions about user growth sources; potential thesis breaker if Google traffic remains a material headwind."
+          },
+          {
+            "ticker": "CXMT",
+            "company_name": "Cxmt (Competitor to Micron/Memory suppliers)",
+            "reason": "CXMT is mentioned as a company that could come out of nowhere to add supply to the memory market, potentially derailing companies like Micron. This represents a competitive threat to memory suppliers that investors should consider.",
+            "risk": "New entrants could disrupt memory supply dynamics and pricing power; represents execution risk for memory companies."
+          },
+          {
+            "ticker": "INST",
+            "company_name": "Instacart Inc.",
+            "reason": "Instacart is described as a bubble that should not be worth $40 billion, let alone $100 billion. The company is given as an example of how private company valuations can become disconnected from reality, creating false supply chain signals.",
+            "risk": "Valuation appears disconnected from fundamentals; represents a bubble that could collapse, affecting investor confidence in related supply chains."
+          },
+          {
+            "ticker": "FIG",
+            "company_name": "Figure AI Inc.",
+            "reason": "Figure AI is described as concerning and potentially in a bubble similar to Instacart. One speaker invested in the company but expressed concerns about the valuation disconnect. The concern is that even if Figure ships robots and buys Nvidia chips, a $300 billion valuation on five shipped prototypes would represent a bubble with implications across the entire supply chain.",
+            "risk": "Valuation appears disconnected from current product delivery and revenue; represents private market bubble risk; if the company fails, it won't buy Nvidia chips, creating false supply chain demand signals."
+          },
+          {
+            "ticker": "CRWD",
+            "company_name": "CrowdStrike Holdings Inc.",
+            "reason": "CrowdStrike is mentioned as a company whose valuation doesn't make sense at current levels. It is positioned as a name to avoid when looking for good risk-reward for a public portfolio.",
+            "risk": "Valuation is considered excessive; represents a crowded trade."
+          },
+          {
+            "ticker": "CDNS",
+            "company_name": "Cadence Design Systems Inc.",
+            "reason": "Cadence is grouped with other AI infrastructure beneficiaries but one speaker expresses skepticism about naming these as core examples of AI thesis validation, suggesting caution.",
+            "risk": "Valuation concerns relative to growth; positioning as AI beneficiary may be priced in."
+          }
+        ],
+        "key_warnings": [
+          "Capex Growth Peaked (Not Peaked Capex): Cathie Wood and others are saying capex growth has peaked, not that capex has stopped. This is critical because it means future cash flow growth will moderate, requiring higher discount rates for future earnings. This is a major valuation headwind for companies like Micron that are trading at low multiples but dependent on sustained growth.",
+          "Valuation Compression Risk: Many AI infrastructure stocks are experiencing multiple compression\u2014not just from earnings concerns but because the market is reassessing growth assumptions. Stocks like Micron are trading at 3-8x forward earnings, suggesting the market has already priced in significant risks. Even companies with excellent earnings growth may not appreciate if multiples continue to compress.",
+          "No Major AI Catalyst Since Claude 3: The market is questioning whether there will be another major AI breakthrough like Claude 3 (Codebreaker) to drive demand. Coding has been the primary use case justifying GPU/memory demand. Without a new killer application or breakthrough (potentially agents, but adoption is uncertain), memory and chip demand could plateau despite current commitments from hyperscalers.",
+          "Hyperscaler Capex Sustainability Questions: While hyperscalers like Amazon, Google, and Meta are committed to AI capex, there are concerns about whether these spending levels are sustainable or will decline as ROI becomes clearer. Market sells off whenever companies mention capex guidance, suggesting investor skepticism about justifying trillion-dollar compute commitments.",
+          "Leverage and Options Exposure: Retail investors have increased leverage through leaps and call options in 2023-2026 as volatility remained low. The recent 30-40% drawdowns in semiconductor stocks have already wiped out leveraged positions. Going into 2027, investors should be extremely careful with leverage as another drawdown could be devastating.",
+          "Commodity Dynamics for Memory: Memory is historically one of the most cyclical commodities. While current revenue and free cash flow levels are unprecedented, the cyclical nature means pricing power could erode through competition, new fab capacity, or technological disruption. Comparisons to previous cycles may not hold because the scale is different, but commodity pricing dynamics could still apply.",
+          "Private Market Valuation Bubbles Creating False Signals: Companies like Instacart and Figure AI are valued as if they are mature businesses despite minimal shipping/revenue. These bubbles create false supply chain demand signals\u2014if these companies fail or correct sharply, their capex collapse creates a domino effect. Supply chain analysis based on private company orders may be misleading.",
+          "Rotation Out of Semiconductor Momentum: This is the first significant period in two years where the 'buy the dip' V-shaped recovery pattern has not held. Previous dips (Iran war, Trump tariffs) bounced quickly. This suggests a more structural shift in market sentiment away from semiconductor infrastructure toward Magnificent 7 and other diversified tech.",
+          "Consolidation Signal: Deals like Marvell acquiring Lumentum are typically early signs of late-cycle consolidation. When smaller companies can't maintain independence despite strong backlog, it suggests supply constraints and margin pressures are pushing toward consolidation. This is not early-cycle behavior.",
+          "Geopolitical and Regulatory Risks: Data center moratoriums in the United States and potential tightening cycles could slow capex deployment. If buildout timing extends beyond current expectations, it could depress near-term demand for memory and semiconductors despite long-term need.",
+          "Debt and Dilution in Hyperscalers: While hyperscalers have strong cash generation, their massive capex is creating negative free cash flow and increasing debt loads. This dilution through share issuance or increased leverage could compress valuations even if earnings remain strong.",
+          "Forward P/E Multiple Uncertainty: Investors are debating whether stocks like Micron should trade at 3x, 6x, 8x, or 12x forward earnings given cyclical risks and capex growth deceleration. There is no consensus on 'fair value,' suggesting multiple compression could continue even if earnings don't decline."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "NFLX",
+          "UBER",
+          "AAPL",
+          "GOOGL",
+          "META",
+          "SOFI",
+          "PLTR",
+          "MU",
+          "SK",
+          "AMD",
+          "NEBS",
+          "MRVL",
+          "LUMN",
+          "RDDT",
+          "CXMT",
+          "INST",
+          "FIG",
+          "CRWD",
+          "MSFT",
+          "ZM",
+          "GRAB",
+          "SHOP",
+          "ZETA",
+          "XOM",
+          "CVX"
+        ]
+      },
+      "price_at_recommendation": {
+        "FIG": 18.81,
+        "PLTR": 160.38,
+        "UBER": 68.59,
+        "LUMN": 3.99,
+        "NVDA": 186.64,
+        "MU": 690.0,
+        "NFLX": 63.41,
+        "CRWD": 216.9,
+        "ZETA": 31.03,
+        "AAPL": 342.37,
+        "SOFI": 16.21,
+        "GOOGL": 284.78,
+        "SK": 12.12,
+        "CDNS": 319.92,
+        "SHOP": 148.91,
+        "META": 610.15,
+        "MRVL": 141.2,
+        "RDDT": 95.1
+      }
+    },
+    "XopekzfZKiQ": {
+      "channel": "Daniel Pronk",
+      "title": "2 Stocks I'm Buying While The Market Crashes",
+      "upload_date": "20261107",
+      "url": "https://www.youtube.com/watch?v=XopekzfZKiQ",
+      "processed_at": "2026-11-08T10:04:30.377626",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "ROAD",
+            "company_name": "Road Construction Partners",
+            "reason": "The creator believes the market has overreacted to a temporary margin compression caused by unusually wet Q4 weather and spiked diesel prices. Despite a 20% one-day drop, the stock is essentially flat over recent weeks after giving back a rally. The business fundamentals remain strong: Road is still growing revenues by 30%, net income by 40%, and EBITDA by 23% for fiscal 2026, with 7% organic growth and seven completed acquisitions. For fiscal 2027, the company is guiding 15% revenue and EBITDA growth with margins expected to reexpand in H2 2027 as diesel costs are priced into contract renewals. The creator views this as a short-term event that won't impact long-term fundamentals, and the stock is trading at 8.44x trailing 12-month EBITDA\u2014lower than 2022 lows when profits were actually declining and 2020 pandemic levels, despite higher margins and continued growth expectations. The creator's DCF analysis suggests conservative 13% CAGR even with pessimistic assumptions (10% EBITDA growth, 10x multiple), with upside to 24-30% CAGR if guidance is met.",
+            "when_to_buy": "Immediately; creator is actively adding to position while stock is down and multiples are at historically low levels",
+            "target_price": null,
+            "cautions": "Margins currently compressed due to weather and diesel cost volatility; Q4 expected to show flat year-over-year EBITDA growth; the business faces recurring short-term headwinds from weather and commodity price swings, though creator believes these are temporary and non-structural"
+          },
+          {
+            "ticker": "NWLI",
+            "company_name": "Nubank (New Bank)",
+            "reason": "The creator believes New Bank is trading at an unprecedented discount despite exceptional fundamentals. The stock is trading at 10.8x forward P/E while growing revenue and earnings by 50-56% with accelerated growth momentum, compared to its historical trading range of 20-46x earnings. The company is in the early stages of expanding into Mexico, a massive market with very low digital banking penetration and minimal credit card adoption. New Bank has compounded revenue growth at 81.2% over six years versus SoFi's 47%, produces approximately five times more earnings ($3.6B trailing 12-month vs SoFi's $737M), and offers a 20-year runway to digitize Latin America's economy alongside Mercado Libre. The creator argues New Bank is the superior business to SoFi on every metric\u2014larger, faster-growing, more profitable, with a wider market opportunity\u2014yet trades at half the price multiple (10.8x vs 20x). The recent selloff appears driven by Brazil election concerns, but the creator views this as a non-event given the winning candidate is the incumbent under whom New Bank already operates successfully.",
+            "when_to_buy": "Currently; creator has started a small position and plans to continue adding if price remains depressed",
+            "target_price": null,
+            "cautions": "Still a very small position in portfolio; creator is not making it a huge position due to overlap with Mercado Libre holdings (similar Brazil macro risks); Brazil political risk perceived but creator downplays it based on business continuity under current leadership; foreign bank valuations typically trade at discounts to domestic banks, though creator argues historical precedent supports higher multiples for New Bank"
+          },
+          {
+            "ticker": "MELI",
+            "company_name": "Mercado Libre",
+            "reason": "The creator posted a Q3 2026 earnings analysis video and explained they are buying more Mercado Libre shares (though full detailed reasoning is not provided in this transcript excerpt). Mentioned as part of the creator's digital payments/fintech thesis for Latin America alongside New Bank.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Brazil macro/political risk exists, though creator believes this is overblown and these businesses operate successfully regardless of political regime"
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "SOFI",
+            "company_name": "SoFi Technologies",
+            "reason": "While not explicitly recommended against, the creator makes a strong comparative argument for New Bank over SoFi. SoFi is trading at 20x forward P/E while growing revenue at only 47% CAGR (vs New Bank's 81.2%), producing $737M in trailing 12-month earnings (vs New Bank's $3.6B), and offers a more limited market runway. The creator states that New Bank is 'clearly in a category of its own' and that 'every way that I look at New Bank versus SoFi, New Bank comes out on top.' SoFi appears to be offered as an inferior alternative to New Bank on a relative valuation and growth basis.",
+            "risk": "Overvalued on a relative basis compared to New Bank; trading at double the valuation multiple despite inferior growth rates, earnings scale, and market opportunity"
+          }
+        ],
+        "key_warnings": [
+          "The market is extremely short-term focused and hyperfixated on quarterly noise. Both stocks experienced sharp selloffs (Road down 20%, New Bank down 20-30%) that the creator views as severe overreactions disconnected from long-term fundamentals. Investors should expect this volatility to continue.",
+          "Commodity and weather volatility can impact near-term margins and guidance: Road Construction Partners is exposed to diesel price fluctuations and weather-related work stoppages. While the creator believes these are temporary and manageable, they will continue to create earnings volatility quarter-to-quarter.",
+          "Political and macro risk in Brazil/Latin America: Both New Bank and Mercado Libre holdings carry Brazil-specific risks. The creator downplays these as non-events given business continuity, but macro headwinds in the region could persist.",
+          "The creator explicitly positions himself as a long-term investor, not a short-term trader. He acknowledges being 'trash' at predicting short-term price movements and recommends this approach only for those comfortable with volatility and multi-year holding periods."
+        ],
+        "tickers_mentioned": [
+          "ROAD",
+          "NWLI",
+          "MELI",
+          "BAM",
+          "SOFI"
+        ]
+      },
+      "price_at_recommendation": {
+        "MELI": 1510.0,
+        "ROAD": 77.18,
+        "SOFI": 16.21
+      }
+    },
+    "ncslbnvnaMI": {
+      "channel": "Jose Najarro Stocks",
+      "title": "Nvidia Stock Down 22% \u2014 Is Its 13x Forward P/E a STEAL?",
+      "upload_date": "20261108",
+      "url": "https://www.youtube.com/watch?v=ncslbnvnaMI",
+      "processed_at": "2026-11-08T10:04:55.063332",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Nvidia is trading at a forward PE ratio of 13.1x, which the creator considers extremely cheap compared to peers like Broadcom (15.4x), TSM (17.3x), Google and Meta (18s), Amazon (23x), Microsoft (25x), and AMD (32x). The company is expected to grow 70% next fiscal year with no change to this outlook from the creator's perspective. Nvidia builds complete AI data center solutions (GPUs, CPUs, Envy Link, Spectrum X, CUDA software) with a massive moat, not just individual chips. The creator believes the AI buildout cycle will continue well beyond 24 months and that capex will remain strong through calendar year 2027 and beyond. Hyperscalers and enterprise/sovereign customers are both growing revenue streams, with $40 billion coming from non-hyperscaler segments in the most recent quarter. Supply constraints rather than demand issues are limiting growth, and competition from AMD and others is not expected to materially impact Nvidia's ability to sell all available supply.",
+            "when_to_buy": null,
+            "target_price": "$213 (based on 15x forward PE applied to current earnings estimates)",
+            "cautions": "Market fears include: potential margin reset due to HBM pricing (Q4 guidance 71-72% vs Q3's 74%), customer concentration (five direct customers represent a significant portion of revenue and are building their own AI chips), competition from Google TPUs, Amazon Trainium, and AMD, rumors about Jensen Huang (though creator dismissed as speculation), potential slowdown in capex spending after 2028 peak, and uncertainty about whether current buildouts will translate into usable capacity and cash flow. Even a 20% earnings cut would leave the stock fairly valued at 15x PE."
+          },
+          {
+            "ticker": "BROADCOM",
+            "company_name": "Broadcom Inc.",
+            "reason": "The creator lists Broadcom as one of the cheap semiconductor plays at a forward PE ratio of 15.4x, placing it in the attractive valuation range alongside Nvidia in the AI semiconductor ecosystem.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "TSM",
+            "company_name": "Taiwan Semiconductor Manufacturing Company",
+            "reason": "The creator cites TSM as a cheap chip company at a forward PE ratio of 17.3x as part of the attractive semiconductor valuations in the AI buildout cycle.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices",
+            "reason": "AMD reported 97% year-over-year growth in data center revenue driven by Epic CPUs and the new Helios GPU system. The creator notes that AMD management stated supply, not demand, is the constraint on their growth. This is bullish evidence that the AI market demand is strong enough to absorb supply from multiple competitors. Some investors might prefer AMD at 32x forward PE if they believe AMD can grow faster than Nvidia and see forward PE ratios contract significantly over 12-36 months.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Trading at 32x forward PE, significantly more expensive than Nvidia. Competition and supply constraints may limit upside relative to more diversified players like Nvidia."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Market uncertainty about cycle duration: The market is pricing in fear that the AI capex cycle may peak in calendar year 2028 and decline afterward. This creates valuation uncertainty and volatility despite strong near-term (12-month) growth prospects. The creator believes this fear is overblown because even if capex peaks in 2028, a modest decline or flatline would not materially expand valuations beyond current levels.",
+          "Funding cost and capital availability concerns: Companies like CoreWeave (referred to as 'Iran' in transcript) are deliberately throttling capex growth despite strong demand because capital has become more expensive and must be deployed responsibly. This creates a macro headwind where even with strong demand, companies may slow investment if funding costs remain elevated.",
+          "Customer concentration risk: Nvidia has five direct customers representing a significant portion of total data center revenue, and these customers are actively building their own proprietary AI chips, which could reduce future Nvidia dependency.",
+          "Margin compression risk: Nvidia guidance shows gross margins declining from 74% (Q3) to 71-72% (Q4) primarily due to HBM memory pricing increases. While the creator attributes this to memory costs rather than competition, the market is concerned margins may face structural pressure from competition and demand softness.",
+          "Competitive chip proliferation: Google is selling TPUs externally, Amazon is ramping Trainium, and major cloud customers are developing proprietary chips. While the creator believes supply constraints still favor Nvidia, this reduces pricing power long-term.",
+          "Data center deployment execution risk: The creator emphasizes that capex spending must translate into actual usable capacity and cash generation. If deployments stall or utilization disappoints, the entire thesis breaks down.",
+          "Post-election policy uncertainty: Though the creator dismisses midterm election fears as overblown for near-term demand, there remains uncertainty about whether regulatory changes could impact data center buildout economics or energy availability."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "BROADCOM",
+          "TSM",
+          "GOOGL",
+          "META",
+          "AMZN",
+          "MSFT",
+          "AMD"
+        ]
+      },
+      "price_at_recommendation": {
+        "TSM": 375.44,
+        "AMD": 449.04,
+        "NVDA": 186.64
+      }
+    },
+    "x4hR4J7d8gc": {
+      "channel": "Jose Najarro Stocks",
+      "title": "Intel Stock CRASHES 23% \u2014 AMD's Biggest Opportunity Yet?",
+      "upload_date": "20261030",
+      "url": "https://www.youtube.com/watch?v=x4hR4J7d8gc",
+      "processed_at": "2026-11-08T10:05:20.430832",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices",
+            "reason": "Intel is experiencing severe supply constraints from their internal manufacturing lines, including a fab accident in Israel disrupting 10 nanometer supply. AMD manufactures everything at TSMC, which is not experiencing delays and is expanding capacity aggressively. The creator explicitly states: 'I do believe we're going to see AMD take a nice portion of the share that Intel is missing out on.' AMD has access to a broader range of process nodes (7nm to 3nm) without the supply bottlenecks Intel faces. With CPU market demand so strong that companies are signing long-term agreements, AMD's superior supply position positions it to gain market share and potentially increase pricing.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "The creator states: 'I am in the camp where Nvidia has a lot of cash at hands and as long as they're not funding it [completely], I don't think it's necessarily the worst thing.' Nvidia is supporting neo-cloud financing through revenue-sharing arrangements and lending, positioning itself to benefit from multiple revenue streams as GPU pricing continues to rise. The creator mentions Nvidia has 'multiple roles' as supplier, investor, customer, and debt guarantor for infrastructure buildout. The massive AI infrastructure buildout (evidenced by $220 billion in Amazon's 2026 CapEx plans) and continued strong demand for GPUs supports Nvidia's positioning. The creator personally holds Nvidia in their portfolio.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Concerns about credit drying up in the neo-cloud space and uncertainty around Nvidia's exact exposure and terms in the Anthropic/N Scale deal. The market is currently punishing the news. Final terms and exposures remain unconfirmed."
+          },
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon.com Inc.",
+            "reason": "AWS grew 39.3% year-over-year in Q3 2026 to $46 billion quarterly revenue, with an ARR approaching $184 billion. Amazon projects revenue growth rates exceeding 40% in both 2027 and 2028. The creator states: 'It tells me the opposite [of oversupply]. It tells me that any form of active player and anybody building AI infrastructure right now is going to be able to see strong revenue growth rate and with strong revenue growth rate, you're going to be able to make an amazing ROI.' Fortune 500 companies are spending over 7 times more on Bedrock year-over-year, and total token volume increased 17x. Amazon plans to start selling external Trainium chips in late 2027, adding additional revenue streams. The creator holds certain hyperscalers including Amazon in their portfolio.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Stock is down 7.3% after hours despite strong fundamentals. Operating margins in AWS are dropping sequentially (down 0.7 percentage points from Q2) due to lower margins in AI services compared to mature core business. Amazon is free cash flow negative by $42 billion in trailing 12 months and plans to spend more on CapEx in 2027, suggesting sustained negative FCF."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "INTC",
+            "company_name": "Intel Corporation",
+            "reason": "Intel reported Q4 2026 guidance of $15.5 billion at midpoint versus market expectations of $17 billion, a massive shortfall. The company faces two major headwinds: severe weakness in consumer PC market due to memory price increases and inventory correction, and a fab accident at Fab 22 in Israel disrupting 10 nanometer supply costing $300 million in revenue and 200 basis points of gross margin. Intel's data center revenue grew 78% year-over-year, but this positive is overshadowed by their inability to supply demand due to manufacturing constraints. The creator states: 'Intel right now is completely shooting away the consumer market...to be able to try to increase their server output,' indicating desperation to reallocate resources. Most critically, Intel's entire server CPU manufacturing is done internally and they face supply constraints through 2027-2028, while competitors like AMD use TSMC without delays. The CFO warned investors they do not expect free cash flow in 2027 as investment rises, and CapEx is expected to be $20 billion in 2026 with substantial increases in 2027.",
+            "risk": "Stock crashed 23% after hours on earnings. Near-term catalyst is continued supply constraint pain through 2027-2028 while the market consolidates market share to competitors with better supply positions."
+          }
+        ],
+        "key_warnings": [
+          "Neo-cloud financing credit drying up: Multiple reports indicate credit is tightening for neo-cloud data center companies like CoreWeave, Nebius, and Lambda Scale. While Nvidia is backstopping some of this financing, the market is fearful about credit availability, suggesting a potential correction in speculative neo-cloud infrastructure players.",
+          "PC market collapse impacting memory and consumer semiconductors: The consumer PC market is experiencing extreme weakness with memory prices spiking dramatically, creating headwinds across consumer electronics. This correction is expected to impact the overall PC recovery through 2027 per Intel's guidance.",
+          "AI infrastructure capex sustainability question: While current demand is strong with AWS projecting 40%+ growth, the CEO analysis reveals concerns about whether the current capex spending ($220 billion for Amazon alone in 2026) is economically sustainable. The market is questioning if there is genuine business demand or simply capacity being built speculatively.",
+          "Supply chain concentration risk: Intel's internal fab dependency has created a critical vulnerability, while competitors using TSMC have relative advantage. This structural disparity may persist for 2+ years, creating extended market share opportunity for competitors but also suggesting Intel faces prolonged challenges."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "AMZN",
+          "INTC",
+          "AMD",
+          "TSMC"
+        ]
+      },
+      "price_at_recommendation": {
+        "INTC": 56.28,
+        "AMZN": 259.3,
+        "AMD": 449.04,
+        "NVDA": 186.64
+      }
+    },
+    "6KUgNcskdOU": {
+      "channel": "FinTek",
+      "title": "Top 7 Stocks to BUY NOW (During the Dip)",
+      "upload_date": "20261031",
+      "url": "https://www.youtube.com/watch?v=6KUgNcskdOU",
+      "processed_at": "2026-11-08T10:06:00.906533",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NOVT",
+            "company_name": "Novanta Inc.",
+            "reason": "Novanta operates in the fast-growing robotics sector, which is expanding at 35-40% annually and expected to reach $2.5 trillion in sales by 2035. The company makes servo drives and encoders that control robot joint movement, connecting digital work to physical action. As the number of operational industrial robots has tripled over the past 10 years, Novanta benefits from increased robot joint sales. The company is also positioned in the medical sector with the Da Vinci surgery robot using their technology. Revenue growth is expected at 21% in the next quarter with solid net income and operating cash flow.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Novanta is a relatively small company with higher volatility typical of small caps. The company has significant exposure to the medical market (60% of revenue), making it price-sensitive to medical supplier trends. China is reducing robotics imports from the US and developing domestic robots, creating competitive risk for US-based suppliers, though Novanta's China revenue is currently small."
+          },
+          {
+            "ticker": "RKLB",
+            "company_name": "Rocket Lab USA Inc.",
+            "reason": "Rocket Lab operates in the rapidly expanding space economy, expected to nearly triple from 2023 to 2035 to $1.8 trillion annually. The company launches small satellites via the Electron rocket (97 successful launches) and generates 81% of revenue from Space Systems (spacecraft hardware, platforms, robotics, solar power solutions). Revenue is up 62% year-over-year with improving margins from consistent launches. The company is developing Neutron, a reusable heavy-lift rocket competing with SpaceX in a larger market segment. They maintain a strong backlog of $2.36 billion in customer orders.",
+            "when_to_buy": "Creator stated willingness to wait until the Iridium acquisition deal closes before investing",
+            "target_price": null,
+            "cautions": "The company is not yet profitable on either a GAAP or free cash flow basis, though it maintains a healthy $2.4 billion cash position. The stock is trading at $58 per share and is valued 50% overvalued by traditional valuation models, suggesting the market is pricing in assured growth\u2014any slowdown could cause rapid stock price declines. The planned $8 billion acquisition of Iridium satellite network will require either debt or equity dilution to finance, potentially diluting existing shareholders."
+          },
+          {
+            "ticker": "WARP",
+            "company_name": "Vaneck Space ETF",
+            "reason": "WARP provides diversified exposure to the space technology sector, holding companies across multiple segments including ground scanning, satellite communications, rocket launches, and defense. Top holdings include SpaceX and Rocket Lab, but the fund is weighted more heavily toward small-cap and mid-cap stocks than typical ETFs, providing exposure to multiple areas of the space stack rather than betting on a single winner.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "This ETF will be significantly more volatile than broad market ETFs due to heavy small-cap and mid-cap weighting. The expense ratio is 0.5%, approximately 10 times higher than typical Vanguard ETFs. The space sector remains speculative with execution risks across multiple companies."
+          },
+          {
+            "ticker": "ZS",
+            "company_name": "Zscaler Inc.",
+            "reason": "Zscaler specializes in zero trust cybersecurity architecture where every network point must authenticate before communication, becoming increasingly critical as AI agents and autonomous systems grow. With an 89% increase in AI-enabled attacks reported by Crowdstrike, demand for zero trust security is rising. The company has achieved 25% year-over-year revenue growth with $3.8 billion in annual recurring revenue (also up 25% YoY). Importantly, remaining performance obligations grew 27% and security for AI bookings are up 50% YoY, suggesting revenue growth acceleration. The company is approaching profitability for the first time (only $3.4 million net loss last quarter vs. $17.6 million previously), which could trigger S&P 500 inclusion\u2014stocks added to the S&P 500 see approximately 77% abnormal returns in the leadup. Currently valued fairly relative to growth, not expensive.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Zscaler is not yet profitable. As a SaaS company, it was initially hurt when markets thought AI would reduce software's value, though cybersecurity software has proven more resilient than basic applications to AI disruption."
+          },
+          {
+            "ticker": "NET",
+            "company_name": "Cloudflare Inc.",
+            "reason": "Cloudflare runs approximately 20% of the internet with global networks and can power roughly 45% of the Fortune 500. Unlike the neocloud middlemen that primarily offer compute and storage, Cloudflare is fundamentally different\u2014they operate as a security company, networking company, and platform provider. The company is positioned to help address AI-related security vulnerabilities (like the recent PHP vulnerability affecting 70% of websites) and launched their own zero trust security platform. Revenue has grown steadily over the past decade and increased 36% year-over-year in the most recent quarter. The company's business model creates a virtuous cycle: they build services to protect websites, then analyze traffic data to optimize services. Cloudflare is investing heavily in the 'agentic internet' where AI agents scrape data instead of humans visiting websites directly.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The company is valued at 40% overvalued at current price, requiring consistent growth continuation\u2014any slowdown could cause rapid stock price declines. Net income had been steadily improving but recently dipped to a $170 million gap net loss in the most recent quarter due to heavy reinvestment into AI infrastructure. The creator notes this is a stock that has already experienced significant appreciation from earlier entry points."
+          },
+          {
+            "ticker": "DDOG",
+            "company_name": "Datadog Inc.",
+            "reason": "Datadog operates similarly to Palantir but focuses on uniting applications, infrastructure, and security within a single platform rather than serving defense/government. The investment thesis is centered on 'data is the new oil'\u2014raw data is only valuable when refined into actionable insights. Datadog recently launched agent observability, enabling AI agents to access company data rather than hallucinating, ensuring findings are grounded in real data. The company is a leader in the Gartner magic quadrant for observability in both ability to execute and completeness of vision. Annual revenue has grown 40% compounded since 2020 with acceleration in recent quarters. The company has over 120% dollar-based net retention rate, meaning customers spend $1.20 next year for every dollar spent this year\u2014built-in growth before acquiring new customers.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Datadog is priced on the expensive side as the market is pricing in future growth. The company recognizes both subscription revenue and usage-based revenue; during economic downturns, usage-based platforms typically are hit before contracted subscription businesses."
+          },
+          {
+            "ticker": "CZPX",
+            "company_name": "Casper Inc./Caspian Bank",
+            "reason": "This Kazakhstan-based fintech super app offers bill payments, grocery shopping, online shopping, and banking in one platform. The company is valued 40% undervalued by most valuation models including price-to-book. Most remarkably, the stock offers a trailing dividend yield of 6.38% over the last 12 months, and with share buybacks included, provides an effective yield over 7%. This means investors receive a 7% return simply holding shares in an already undervalued stock, without requiring appreciation. Monish Pabry, a Warren Buffett-style investor, recently purchased the stock in his latest 13F filing.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Limited detail provided in video. The creator suggests the stock may see further accumulation from Pabry in upcoming 13F filings."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "CORE",
+            "company_name": "CoreWeave",
+            "reason": "The creator explicitly stated they never invested in CoreWeave because they didn't see how the neocloud business model could be sustainable long term. Neoclouds are middlemen that buy computers and rent them by the hour to AI startups, leading to growth-at-all-costs strategies with heavy debt accumulation. As soon as AI spending slows, these companies collapse.",
+            "risk": "Business model collapse if AI spending decelerates"
+          },
+          {
+            "ticker": "NBL",
+            "company_name": "Nibbius Group",
+            "reason": "The creator explicitly avoided Nibbius Group for the same reason as CoreWeave\u2014the neocloud business model is not sustainable long term. These companies operate as middlemen renting compute power to AI startups while taking on excessive debt.",
+            "risk": "Business model collapse if AI spending decelerates"
+          }
+        ],
+        "key_warnings": [
+          "Neocloud bubble risk: Companies that primarily offer compute and storage by the hour to AI startups are highly vulnerable to AI spending slowdowns and their debt loads make them fragile. The creator avoided companies like CoreWeave and Nibbius Group entirely based on this concern.",
+          "AI stock sell-off creating opportunity: Nvidia is down nearly 14% and Google down 20% in the past month, indicating a significant sell-off in AI stocks. This may create opportunities in non-AI technology sectors.",
+          "Valuation sensitivity for growth stocks: Multiple recommended stocks (Rocket Lab at 50% overvalued, Cloudflare at 40% overvalued, Datadog at elevated valuations) are highly dependent on continued growth execution. Any slowdown would trigger significant stock price declines.",
+          "Geopolitical risks in robotics and manufacturing: China is reducing US robotics imports and developing domestic alternatives, creating competitive pressure for US-based suppliers like Novanta.",
+          "AI-enabled cybersecurity threats are accelerating: Crowdstrike reported an 89% increase in attacks by AI-enabled adversaries, creating urgency around zero trust security adoption but also highlighting systemic vulnerability (e.g., PHP vulnerability affecting 70% of websites)."
+        ],
+        "tickers_mentioned": [
+          "NOVT",
+          "RKLB",
+          "WARP",
+          "ZS",
+          "NET",
+          "DDOG",
+          "CZPX",
+          "NVDA",
+          "GOOGL",
+          "CORE",
+          "NBL"
+        ]
+      },
+      "price_at_recommendation": {
+        "ZS": 197.66,
+        "NOVT": 135.15,
+        "WARP": 17.21,
+        "NET": 268.75,
+        "RKLB": 53.07,
+        "DDOG": 179.04
+      }
+    },
+    "b5X9SgE7iks": {
+      "channel": "FinTek",
+      "title": "How to Prepare for the Market Crash",
+      "upload_date": "20261030",
+      "url": "https://www.youtube.com/watch?v=b5X9SgE7iks",
+      "processed_at": "2026-11-08T10:06:10.298961",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Big tech companies are overweighted in index funds, creating overexposure risk for long-term buy and hold investors. A major AI crash would disproportionately impact retirement accounts holding standard index funds due to concentration in large tech stocks.",
+          "International index funds and small cap value index funds are recommended as diversification strategies to hedge against concentrated tech exposure rather than as direct buy recommendations.",
+          "Investors close to retirement should use asset allocation calculators to determine appropriate stock-to-bond ratios to weather market downturns, rather than maintaining aggressive equity positions."
+        ],
+        "tickers_mentioned": [
+          "GOOGL"
+        ]
+      },
+      "price_at_recommendation": {}
     }
   },
   "channel_ids": {

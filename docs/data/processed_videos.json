@@ -35169,6 +35169,380 @@
         ]
       },
       "price_at_recommendation": {}
+    },
+    "i8vFBCkcxqs": {
+      "channel": "CouchInvestor",
+      "title": "The Market Is Crashing and I Just Bought $8,000 of These 4 Stocks",
+      "upload_date": "20261108",
+      "url": "https://www.youtube.com/watch?v=i8vFBCkcxqs",
+      "processed_at": "2026-11-09T10:29:32.834318",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "The creator added 10 shares of Nvidia on Tuesday during the market dip. Nvidia is viewed as undervalued with significant growth potential remaining. The creator added to big tech companies that fluctuate less hard than higher-beta names like Nebius, making it a more stable core holding despite the market volatility.",
+            "when_to_buy": "On dips during market weakness; creator bought on Tuesday during the 6.18% portfolio decline",
+            "target_price": null,
+            "cautions": "Still maintains a smaller position size compared to higher-conviction plays like Nebius; lower beta means lower upside volatility than growth names"
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms Inc.",
+            "reason": "Creator added 3 shares of Meta on Tuesday and views it as extremely undervalued. Despite being in the low 600s and under pressure, the creator sees significant long-term value. The company has a major support area at 500-520, but the creator views current prices as attractive entry points for long-term investors.",
+            "when_to_buy": "Current levels (low 600s); creator actively bought on Tuesday dips",
+            "target_price": "630-640 would be good technical recovery; major support floor at 500-520",
+            "cautions": "Stock has been under pressure recently; significant downside risk if support at 500-520 breaks"
+          },
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet Inc.",
+            "reason": "Creator added 7 shares of Alphabet on Tuesday. Viewed as undervalued with significant growth potential remaining. Big tech companies held up well during recent market declines. Creator continues to hold this as a core position despite volatility.",
+            "when_to_buy": "Current levels around 284; creator bought on Tuesday during dip",
+            "target_price": "Target zone 260-270 for technical entry; currently at 284 which is above weekly 100-day moving average but below major resistance",
+            "cautions": "Currently trading above weekly 100-day MA but below resistance/ceiling; technical analysis suggests waiting for pullback but creator bought anyway on valuation grounds"
+          },
+          {
+            "ticker": "SOFI",
+            "company_name": "SoFi Technologies Inc.",
+            "reason": "Creator added 125 shares of SoFi on Tuesday. SoFi is viewed as a non-data-center-related fintech name that got hit hard but now sits in the buy zone at 16.21. This fintech name got caught in the broader selloff but offers value independent of the data center narrative.",
+            "when_to_buy": "Current price 16.21 is in the buy zone",
+            "target_price": "Support floor around 16.74; creator views current levels as attractive",
+            "cautions": "Still down considerably year-to-date; support level sits higher than current price at 16.74"
+          },
+          {
+            "ticker": "NBIT",
+            "company_name": "Nebius AI",
+            "reason": "Nebius is the creator's number one portfolio holding. The creator is extremely bullish going into earnings on Thursday before market open. Expecting strong pricing power on GPUs, potential guidance for 2027 ARR, and revenue expected to jump to $1.46 billion next quarter. The creator expects both Nebius and CoreWeave to crush earnings based on company performance and potential big stock price jumps. Post-earnings reactions have been violent on the upside (30%+) historically.",
+            "when_to_buy": "Creator is considering buying more ahead of Thursday earnings; current price around 217 resistance level with support at 106",
+            "target_price": "Weekly 50 MA at 160; big floor at 106 (hopefully not reached before earnings); resistance at 217",
+            "cautions": "High volatility name with significant beta; already a 10%+ position so creator won't drastically increase size; if market doesn't like guidance despite strong execution, stock could sell off despite good fundamentals"
+          },
+          {
+            "ticker": "COREWEAVE",
+            "company_name": "CoreWeave (Private/recently public)",
+            "reason": "CoreWeave reports Tuesday after market close and is a core focus for the creator. Expecting strong execution with contracts showing GPU pricing power. The company should get $40 million per megawatt on short-term contracts and potentially $22 million per megawatt on five-year contracts based on INE's recent pricing. Creator expects CoreWeave to crush earnings and deliver big stock price upside based on company performance matching or exceeding INE's results.",
+            "when_to_buy": "Creator plans to wait for earnings report on Tuesday to see guidance on GPU pricing and contract quality before making moves",
+            "target_price": null,
+            "cautions": "Stock has kept going lower leading into earnings; extreme volatility expected post-earnings both ways depending on guidance quality"
+          },
+          {
+            "ticker": "MU",
+            "company_name": "Micron Technology",
+            "reason": "Creator is thinking of buying Micron because at under $700, it is extremely cheap and being massively disrespected. Trading at forward earnings of 3-4x, price-to-free-cash-flow is very low. The key thesis is that HBM (High Bandwidth Memory) completely changes the cyclicality of the memory business by tying it to annual compute roadmaps rather than traditional supply-demand cycles. Expected free cash flow of $143B next fiscal year, $175B year after, and $178B the year after. Over fiscal 2028-2029 combined, reaching half a trillion dollars in free cash flow. Historical cycles don't apply because HBM creates annual refresh cycles. Company should generate 3+ years of very strong performance based on analyst estimates.",
+            "when_to_buy": "Current price under $700; creator views this as entry point; historically was even cheap at $1,000",
+            "target_price": null,
+            "cautions": "Historically cyclical company but creator argues 'this time is different' due to HBM; uncertainty on exact cycle length; capex will also increase; cyclical nature means eventual downturn, though creator thinks company will have built massive cash fortress by then"
+          },
+          {
+            "ticker": "AAXN",
+            "company_name": "Axon Enterprise Inc.",
+            "reason": "Axon is a high-quality business not playing the AI buildout narrative but got hit anyway. Creator currently owns small 2.36% position and wants to increase it above 3%. Reaffirmed over 30% 5-year revenue CAGR and over 600 basis points margin expansion. Software and services approaching 50% of revenue is positive for long-term margins. Made largest deal in company history with $1.2-2 billion investment for 37% of drone company Skyio, giving exclusive US/Canada public safety distribution. Software up 43% YoY, ARR up 40% to $1.8B, NRR at record 126%.",
+            "when_to_buy": "Current levels; creator is down 24% on position and buying more to average down",
+            "target_price": "2028 model targets $6B revenue, 28% adjusted EBITDA, 60% free cash flow conversion (implying ~29% annual growth in 2027-2028)",
+            "cautions": "Recent federal contract delays of $130M impacted guidance; rise in memory prices impacting margins (50 bps in 2026, 4x that in 2027); hardware growth slower at 16% YoY; however creator views delays as one-time issue that doesn't impact long-term midterm guidance"
+          },
+          {
+            "ticker": "ROCKET",
+            "company_name": "Rocket Lab USA Inc.",
+            "reason": "Rocket Lab reports Monday after hours. Creator expects okay-to-good report despite known delays in Neutron. Electron still doing very well. Could announce new Iridium satellite contracts. Creator confident it will be a good report because the big disappointment (Neutron delay) is already known and priced in. Expects management to discuss recent updates and address questions on Neutron timeline.",
+            "when_to_buy": "Current price around $53; reports Monday after hours",
+            "target_price": null,
+            "cautions": "Neutron delay is main risk; technical analysis not useful going into earnings; company needs to provide clear Neutron timeline to satisfy investors"
+          },
+          {
+            "ticker": "NWLI",
+            "company_name": "New Holdings (Nu Holdings)",
+            "reason": "New Holdings reports over the next couple of days and got hit due to Brazilian election concerns. Creator views this as opportunity for long-term investors, noting that New Holdings and Mercado Libre have gone through various cycles in South America and became better companies through them. Not paying much attention to technical analysis into earnings.",
+            "when_to_buy": "Current dip due to Brazilian election concerns; creator views as opportunity",
+            "target_price": null,
+            "cautions": "Brazilian political uncertainty creating near-term volatility; election-driven selloff may be temporary"
+          },
+          {
+            "ticker": "MELI",
+            "company_name": "Mercado Libre Inc.",
+            "reason": "Already reported with great growth but stock got hit due to margin compression. 30 consecutive quarters of over 30% revenue growth. Company in investment cycle, reinvesting in business. Creator likes the story and thinks this reinvestment is necessary for long-term future. Views as very good long-term company despite market not understanding or appreciating the business model.",
+            "when_to_buy": "Current levels after recent report; creator already owns position",
+            "target_price": "Currently at $1,510",
+            "cautions": "Market doesn't like the margin compression story and reinvestment cycle; stock pressure likely to continue until profitability improves"
+          },
+          {
+            "ticker": "UBER",
+            "company_name": "Uber Technologies Inc.",
+            "reason": "Uber reported with good report and good comments. Stock has been forming a base around high 60s to low 70s. Creator views this as solid business with good recent execution.",
+            "when_to_buy": "Current base around high 60s to low 70s",
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "AVGO",
+            "company_name": "Broadcom Inc.",
+            "reason": "Broadcom yet to report but moves a lot with AI semiconductor narrative. If positive news continues on semiconductors and AI buildout, stock could move back above $300 soon. Stock was at $35-37 early Friday. Creator may buy more if getting positive news.",
+            "when_to_buy": "First resistance at $39; wait for more positive news before adding",
+            "target_price": "Could move back above $300 on positive sentiment; currently appears to be around $37-39 range",
+            "cautions": "Highly dependent on AI buildout sentiment and semiconductor demand; cyclical to tech spending trends"
+          },
+          {
+            "ticker": "RDDT",
+            "company_name": "Reddit Inc.",
+            "reason": "Stock got hit violently and is now cheap on paper. Growing company but still has question marks. Creator still waiting for more information on logged-in user push and potential data/AI licensing deal that could be announced. Believes stock will stay around current levels to form a base until positive catalyst hits.",
+            "when_to_buy": "Waiting for catalyst before adding; current levels forming base",
+            "target_price": null,
+            "cautions": "Still significant question marks on monetization; needs positive catalyst to rerate; AI data licensing uncertainty"
+          },
+          {
+            "ticker": "NFLX",
+            "company_name": "Netflix Inc.",
+            "reason": "Very small position in Netflix. Stock in no man's land with zero momentum business-wise or stock-wise. Stuck in low 60s.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "No clear momentum or catalyst; position remains very small for reason; no conviction shown by creator"
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Market volatility and multiple dips: Retail has bought equities for 22 straight sessions but after each dip comes another, with multiple dips constituting a crash. Market sentiment is elevated as put-to-call ratio is highest since April 2025, which coincided with a previous market bottom.",
+          "Data center buildout political headwinds: Midterm election concerns are creating market overreaction in data center and semiconductor names. However, creator notes most politicians with average or higher IQ are not calling for stopping AI investment but rather doing it responsibly without burdening communities. Expected data center buildout remains on track with 33.8 GW coming online in 2027 (75% under construction) and 62.2 GW in 2028.",
+          "CPI and interest rate hike risk: October CPI expected above 2.1% core and above 2% headline, though seeing some improvement. Currently 77% probability of rate hike in December, which creator believes is already priced in. Macro data over next couple weeks could still impact rate expectations.",
+          "Cyclical memory downturn risk (Micron/memory): Creator acknowledges Micron is cyclical and eventual downturn is possible, though argues HBM changes the dynamics. Five-year forward looking but downside risk exists if HBM thesis proves wrong or cycle accelerates.",
+          "Growth stock volatility: Positions in high-beta names like Nebius are significantly more volatile than large-cap tech. Portfolio down 6.18% in week vs S&P down 2.66%, showing concentration risk in growth names."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "META",
+          "GOOGL",
+          "SOFI",
+          "NBIT",
+          "COREWEAVE",
+          "MU",
+          "AAXN",
+          "ROCKET",
+          "NWLI",
+          "MELI",
+          "UBER",
+          "AVGO",
+          "RDDT",
+          "NFLX",
+          "AMZN",
+          "AMD",
+          "DLOC",
+          "PLTR",
+          "HOOD",
+          "APPL",
+          "APPH",
+          "CSCO"
+        ]
+      },
+      "price_at_recommendation": {
+        "UBER": 68.59,
+        "AVGO": 293.69,
+        "SOFI": 16.21,
+        "RDDT": 95.1,
+        "NFLX": 63.41,
+        "META": 610.15,
+        "MU": 690.0,
+        "GOOGL": 284.78,
+        "MELI": 1510.0,
+        "NVDA": 186.64
+      }
+    },
+    "f_cPnwd5TS0": {
+      "channel": "The Traveling Trader",
+      "title": "The UNTHINKABLE is About to Happen to Stocks [Emergency Update]",
+      "upload_date": "20261108",
+      "url": "https://www.youtube.com/watch?v=f_cPnwd5TS0",
+      "processed_at": "2026-11-09T10:30:04.624878",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Nvidia is currently trading at 20 times forward earnings of next year and even less if considering 2028-2029 earnings, making it the cheapest it has been in at least 16 years. All while revenue is at all-time highs, EBITDA is at all-time highs, gross profit is at all-time highs, net income is at all-time highs, free cash flows are at all-time highs, earnings per share are at all-time highs, and the company has virtually no debt with a 0.17 debt-to-equity ratio. The company has compounded revenue at 100% per year for the last three years or 45% per year for the last 10 years. The creator believes this company will definitely be higher in 5 to 10 years given these fundamentals and valuations.",
+            "when_to_buy": "On market dips and corrections; creator is dollar cost averaging into positions on declines",
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "ASML",
+            "company_name": "ASML Holding N.V.",
+            "reason": "ASML is ranking really high in terms of valuation scores according to the creator's analysis. It is listed among stocks that are starting to look cheap from a value perspective in the current market environment.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet Inc.",
+            "reason": "Google is ranking really high in terms of valuation scores and is listed among stocks that are starting to look cheap to the creator. Google is also cited as a blue chip company suitable for long-term holding.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms Inc.",
+            "reason": "Meta is ranking really high in terms of valuation scores and is listed among stocks that are starting to look cheap from a value perspective in the current market environment.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "QQQ",
+            "company_name": "Invesco QQQ Trust",
+            "reason": "Creator is a big proponent of buying major US index funds on corrections. QQQ is currently down almost 14% from highs. Creator explicitly states he added to his QQQ position and will add more on further declines, recommending dollar cost averaging into index funds every minus 10% correction.",
+            "when_to_buy": "On every minus 10% correction from highs; will add more at minus 20% level near 634; creator already added at current -14% level",
+            "target_price": null,
+            "cautions": "Creator will not add significantly more until reaching minus 20% correction level"
+          },
+          {
+            "ticker": "SPY",
+            "company_name": "SPDR S&P 500 ETF Trust",
+            "reason": "Creator is a big proponent of buying major US index funds on corrections. SPY is currently down 6% from highs and has not yet reached the minus 10% correction threshold. Creator states he will be dollar cost averaging heavily into SPY once it reaches minus 10%.",
+            "when_to_buy": "Once SPY reaches minus 10% from highs, creator will dollar cost average heavily; will also add at minus 20% level",
+            "target_price": null,
+            "cautions": "Not yet at the minus 10% threshold as of video recording"
+          },
+          {
+            "ticker": "VOO",
+            "company_name": "Vanguard S&P 500 ETF",
+            "reason": "Creator recommends major US index funds like VOO as part of a balanced portfolio strategy, encouraging more people to own index funds rather than obsessing over individual stock picking.",
+            "when_to_buy": "On minus 10% corrections",
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "APPL",
+            "company_name": "AppLovin Corporation",
+            "reason": "Even after a 60-70% run up in the last week, AppLovin is trading at a 19.4 PE with 70% return on invested capital, 30% revenue CAGR for the last 5 years, and still has a price earnings growth of 0.34 (lower is better). These metrics suggest significant value and opportunity remain despite recent gains.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "IRON",
+            "company_name": "Iron (specific company not fully identified)",
+            "reason": "Creator uses Iron as an example of a stock he is NOT recommending. He explicitly states 'this is not an indictment to jump into [bad] stocks. If you really want to and you're like, I think Iron is the greatest company on Earth... be my guest. Do what you like. This is these aren't the stocks that I'm talking about.' Implies this is not a quality investment opportunity he endorses.",
+            "risk": null
+          },
+          {
+            "ticker": "CORW",
+            "company_name": "Core Weave (likely CoreWeave)",
+            "reason": "Creator uses CoreWeave as an example of a stock he is NOT recommending, similar to Iron. He states 'if you really want to and you're like... I think Core Weave is the greatest company on Earth, be my guest. Do what you like. This is these aren't the stocks that I'm talking about.' This is cited as an example of speculative high-beta positions that can lead to portfolio damage during corrections.",
+            "risk": "High volatility; creator explicitly warned against overweighting such positions"
+          },
+          {
+            "ticker": "NBIS",
+            "company_name": "Nebius (likely Nebius AI or similar)",
+            "reason": "Creator uses Nebius as an example of a stock he is NOT recommending. He notes that two people can be invested in the same stock like Nebius, but one person knows their proper allocation while another person 'just bought too much and now their portfolio is completely demolished.' This serves as a cautionary example of improper position sizing.",
+            "risk": "High volatility; improper sizing can lead to portfolio destruction during market corrections"
+          }
+        ],
+        "key_warnings": [
+          "Do not overweight high-beta stocks in your portfolio. Creator warns that having 50%+ of a portfolio in aggressive high-beta stocks creates excessive volatility mismatched with most investors' risk profiles and can lead to portfolio devastation during corrections like the one experienced post-midterms.",
+          "Swing trading long in the current environment is not advisable. Creator explicitly states 'this is not a time to swing trade, at least swing trade long' and prefers to wait for smoother market conditions before initiating long swing trades.",
+          "The market may still have downside before a sustained rally. Creator expects SPY to potentially take out the July FOMC low and anticipates QQQ could reach the 634 level, representing additional downside risk from current levels.",
+          "Avoid excessive speculation and penny stocks. The creator warns against jumping into low-quality stocks and emphasizes the importance of fundamental analysis when picking individual stocks.",
+          "Portfolio construction matters more than stock picking. A poorly allocated portfolio with too much concentration in high-beta stocks will underperform a well-balanced portfolio, even if the individual stock picks are correct.",
+          "The recent market decline was NOT anticipated to be 6.5% in one day. While the creator expected volatility and liquidity sweeps, the magnitude of the decline surprised even experienced traders, highlighting the unpredictability of black swan events.",
+          "Current valuations suggest this is NOT a dot-com bubble environment. Creator states 'we are not in dot com territory' and compares current conditions more to 2018, which eventually led to recovery and strong gains."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "ASML",
+          "GOOGL",
+          "META",
+          "AMZN",
+          "MSFT",
+          "BRK",
+          "LLY",
+          "QQQ",
+          "SPY",
+          "VOO",
+          "APPL",
+          "IRON",
+          "CORW",
+          "NBIS"
+        ]
+      },
+      "price_at_recommendation": {
+        "VOO": 675.99,
+        "NBIS": 129.49,
+        "QQQ": 656.1,
+        "SPY": 735.29,
+        "META": 610.15,
+        "GOOGL": 284.78,
+        "ASML": 1424.75,
+        "IRON": 78.91,
+        "NVDA": 186.64
+      }
+    },
+    "XpvoTf97TsE": {
+      "channel": "Jose Najarro Stocks",
+      "title": "Jensen Huang Affair and Nvidia Board Probe: What It Means for NVDA",
+      "upload_date": "20261109",
+      "url": "https://www.youtube.com/watch?v=XpvoTf97TsE",
+      "processed_at": "2026-11-09T10:30:24.604811",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Despite current volatility and personal scandals involving CEO Jensen Huang, the creator maintains that Nvidia's business fundamentals remain intact. The company has massive engineering resources, supply chain partners, and deep management teams capable of continuing operations without Jensen. Hyperscalers and neo-clouds will continue to buy Nvidia GPUs and systems regardless of CEO personal issues. The stock is trading at an extremely cheap valuation\u2014approximately 12.5 forward PE ratio as of the video date (down from 13.4 forward PE on Friday)\u2014even after a 3% overnight drop and 24% decline from October highs of $240. The creator explicitly states: 'my Nvidia thesis is still intact as long as the evidence hold. The team is deep. The man is there and the stock is extremely extreme cheap.'",
+            "when_to_buy": "Stock trading near $180 overnight as of video date; creator notes the 24% pullback from October highs presents valuation opportunity, though expects volatility through November 17-18 earnings and House briefing",
+            "target_price": null,
+            "cautions": "Two major risks identified: (1) CEO change risk\u2014if Jensen is forced to step down due to investigation findings, succession uncertainty could create stock volatility even if business fundamentals remain sound; (2) Policy and regulatory risk\u2014House briefing on November 18th could trigger volatility based on export control findings, potential national security concerns, or allegations of chip diversion to China. Creator emphasizes Jensen's credibility is damaged ('Jensen's word holds less weight now'), though company execution and filings still matter. Stock already down 24% from October highs and experiencing volatility. Expect significant price swings through earnings on November 17th and House briefing on November 18th."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Nvidia faces potential regulatory scrutiny over export controls and alleged chip diversion to China through Megaspeed, a Singapore-based GPU cloud company. U.S. intelligence reportedly concluded that a Megaspeed executive was collecting information for Beijing and recruited by China's Ministry of State Security to gather intelligence and influence Nvidia policy on advanced chip sales to China. While these are anonymously sourced allegations not yet proven, the House has requested a classified briefing with Jensen Huang on November 18th. Any confirmed involvement in export violations or national security breaches could trigger severe regulatory penalties and stock collapse.",
+          "CEO blackmail risk: Creator speculates whether Jensen Huang may have been blackmailed prior to the recent affair admission. The concern is not that Jensen holds classified secrets, but that blackmail could have influenced decisions around China export rules or persuading officials to loosen chip restrictions before the affair became public. If the affair was not the first blackmail attempt and if Jensen took unauthorized actions under previous pressure, this represents a serious legal and business risk that could emerge during investigations.",
+          "Megaspeed allegation risks: Short seller Culper Research (May 2024) alleged that Speed Matrix (Megaspeed subsidiary) was financed through Alibaba-linked entities, imported $4.6 billion in Nvidia server systems from 2024-2026, had links to Chinese AI labs (Obon, CMAI), and built dummy servers to escape regulators. The report claimed over 20% of Nvidia's fiscal 2026 compute revenue was driven by China. While Nvidia disputes these claims and conducted site visits finding no diversions, these allegations remain under investigation by Singapore police. Any substantiation could trigger major export control consequences.",
+          "Valuation remains stretched despite pullback: Even at the current 12.5 forward PE ratio after recent declines, Nvidia is still trading at a steep multiple relative to other semiconductor companies. Creator notes that 'even if earnings get cut, even if revenue slows down, this is still trading at a hefty valuation,' meaning multiple compression risk exists alongside political and regulatory headwinds."
+        ],
+        "tickers_mentioned": [
+          "NVDA"
+        ]
+      },
+      "price_at_recommendation": {
+        "NVDA": 186.64
+      }
+    },
+    "7_woyIbX4zU": {
+      "channel": "FinTek",
+      "title": "Don't Invest in US Stocks. Buy These Instead (During the Dip)",
+      "upload_date": "20261108",
+      "url": "https://www.youtube.com/watch?v=7_woyIbX4zU",
+      "processed_at": "2026-11-09T10:30:34.728386",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "EWJ",
+            "company_name": "iShares Japan Value ETF",
+            "reason": "Small-cap value stocks in Japan have the highest forecast from GMO and one of the lowest average valuations according to MSCI with a forward P/E ratio of 14, which is almost half the price of US growth stocks. This ETF provides exposure to Japanese value stocks that appear undervalued relative to US equities during a period when US stocks are hitting all-time highs and many investors believe the market is in a bubble.",
+            "when_to_buy": "During the dip",
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "US stocks are at all-time highs and many investors believe the market is in a bubble, suggesting elevated valuations and potential downside risk in the broad US equity market compared to undervalued international alternatives."
+        ],
+        "tickers_mentioned": [
+          "EWJ",
+          "7752.T",
+          "9984.T",
+          "8411.T",
+          "7203.T",
+          "8058.T"
+        ]
+      },
+      "price_at_recommendation": {
+        "EWJ": 88.26
+      }
     }
   },
   "channel_ids": {
@@ -35180,6 +35554,6 @@
     "JoseNajarroStocks": "UC5cEHfCr6WOE1R1zcohd1IA",
     "FinTek": "UCxdWHEhEPiYhCADMrn4PdhQ"
   },
-  "last_eval_week": "2026-W45",
+  "last_eval_week": "2026-W46",
   "alerts": {}
 }

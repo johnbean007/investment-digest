@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-08T11:12:21.999952",
-  "video_count": 128,
-  "stock_count": 178,
+  "generated_at": "2026-11-09T10:33:26.257495",
+  "video_count": 129,
+  "stock_count": 184,
   "stocks": [
     {
       "ticker": "AAOI",
@@ -31,7 +31,7 @@
         "ma200": 114.65,
         "ma_signal": "death_cross",
         "pe_trailing": null,
-        "pe_forward": 10.893089,
+        "pe_forward": 12.827534,
         "peg_ratio": 0.78,
         "revenue_growth": 1.275,
         "earnings_growth": null,
@@ -44,8 +44,8 @@
         "analyst_buy": 3,
         "analyst_hold": 3,
         "analyst_sell": 0,
-        "analyst_target": 156.0,
-        "analyst_upside_pct": 211.2,
+        "analyst_target": 135.0,
+        "analyst_upside_pct": 169.3,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -196,6 +196,33 @@
       "description": "Designs and manufactures iPhones, computers, tablets, wearables, and accessories"
     },
     {
+      "ticker": "AAXN",
+      "company_name": "Axon Enterprise Inc.",
+      "buy_count": 1,
+      "avoid_count": 0,
+      "first_mention_date": "08 Nov 2026",
+      "price_at_first_mention": null,
+      "pct_change_since_rec": null,
+      "market": null,
+      "buys": [
+        {
+          "channel": "CouchInvestor",
+          "title": "The Market Is Crashing and I Just Bought $8,000 of These 4 Stocks",
+          "url": "https://www.youtube.com/watch?v=i8vFBCkcxqs",
+          "upload_date": "20261108",
+          "date_label": "08 Nov 2026",
+          "ticker": "AAXN",
+          "company_name": "Axon Enterprise Inc.",
+          "reason": "Axon is a high-quality business not playing the AI buildout narrative but got hit anyway. Creator currently owns small 2.36% position and wants to increase it above 3%. Reaffirmed over 30% 5-year revenue CAGR and over 600 basis points margin expansion. Software and services approaching 50% of revenue is positive for long-term margins. Made largest deal in company history with $1.2-2 billion investment for 37% of drone company Skyio, giving exclusive US/Canada public safety distribution. Software up 43% YoY, ARR up 40% to $1.8B, NRR at record 126%.",
+          "when_to_buy": "Current levels; creator is down 24% on position and buying more to average down",
+          "target_price": "2028 model targets $6B revenue, 28% adjusted EBITDA, 60% free cash flow conversion (implying ~29% annual growth in 2027-2028)",
+          "cautions": "Recent federal contract delays of $130M impacted guidance; rise in memory prices impacting margins (50 bps in 2026, 4x that in 2027); hardware growth slower at 16% YoY; however creator views delays as one-time issue that doesn't impact long-term midterm guidance"
+        }
+      ],
+      "avoids": [],
+      "description": "Manufactures tasers, body cameras, and police software systems"
+    },
+    {
       "ticker": "ADBE",
       "company_name": "Adobe Inc.",
       "buy_count": 0,
@@ -236,8 +263,8 @@
         "analyst_buy": 12,
         "analyst_hold": 23,
         "analyst_sell": 5,
-        "analyst_target": 267.0,
-        "analyst_upside_pct": 11.6,
+        "analyst_target": 266.91,
+        "analyst_upside_pct": 11.5,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -430,10 +457,10 @@
     },
     {
       "ticker": "AMD",
-      "company_name": "Advanced Micro Devices Inc.",
+      "company_name": "Advanced Micro Devices",
       "buy_count": 15,
-      "avoid_count": 4,
-      "first_mention_date": "09 Oct 2026",
+      "avoid_count": 3,
+      "first_mention_date": "13 Oct 2026",
       "price_at_first_mention": 605.53,
       "pct_change_since_rec": -25.8,
       "market": {
@@ -456,7 +483,7 @@
         "ma200": 415.98,
         "ma_signal": "golden_cross",
         "pe_trailing": 95.94872,
-        "pe_forward": 25.453012,
+        "pe_forward": 25.43741,
         "peg_ratio": 0.4,
         "revenue_growth": 0.447,
         "earnings_growth": 0.938,
@@ -672,17 +699,6 @@
         }
       ],
       "avoids": [
-        {
-          "channel": "CouchInvestor",
-          "title": "4 Stocks in My Portfolio I Wouldn\u2019t Buy Right Now",
-          "url": "https://www.youtube.com/watch?v=J1BVUTa-52s",
-          "upload_date": "20261009",
-          "date_label": "09 Oct 2026",
-          "ticker": "AMD",
-          "company_name": "Advanced Micro Devices Inc.",
-          "reason": "AMD is up 184% year-to-date and worth over $180 billion (creator says $8 trillion but likely means $180B). Although the creator expects AMD to grow much faster than market expectations and is bullish on the company's acceleration in 2027, current valuation is very high at 57.3x forward PE and 116x free cash flow. The stock has already priced in expected growth and acceleration. The creator has cut the position by 25-30% because the price to buy more shares is quite high. While free cash flow growth is expected to be exceptional (121% next year, 85.1% in fiscal 28 reaching $30.3B), this exceptional growth is already reflected in the stock price.",
-          "risk": null
-        },
         {
           "channel": "Ticker Symbol: YOU",
           "title": "Dips Never Last. I'm Buying These Stocks NOW.",
@@ -1044,8 +1060,8 @@
         "analyst_buy": 31,
         "analyst_hold": 0,
         "analyst_sell": 0,
-        "analyst_target": 250.0,
-        "analyst_upside_pct": 46.4,
+        "analyst_target": 249.07,
+        "analyst_upside_pct": 45.8,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -1321,6 +1337,33 @@
       "description": "Cloud platform for property management accounting, leasing, and tenant communication"
     },
     {
+      "ticker": "APPL",
+      "company_name": "AppLovin Corporation",
+      "buy_count": 1,
+      "avoid_count": 0,
+      "first_mention_date": "08 Nov 2026",
+      "price_at_first_mention": null,
+      "pct_change_since_rec": null,
+      "market": null,
+      "buys": [
+        {
+          "channel": "The Traveling Trader",
+          "title": "The UNTHINKABLE is About to Happen to Stocks [Emergency Update]",
+          "url": "https://www.youtube.com/watch?v=f_cPnwd5TS0",
+          "upload_date": "20261108",
+          "date_label": "08 Nov 2026",
+          "ticker": "APPL",
+          "company_name": "AppLovin Corporation",
+          "reason": "Even after a 60-70% run up in the last week, AppLovin is trading at a 19.4 PE with 70% return on invested capital, 30% revenue CAGR for the last 5 years, and still has a price earnings growth of 0.34 (lower is better). These metrics suggest significant value and opportunity remain despite recent gains.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": null
+        }
+      ],
+      "avoids": [],
+      "description": "Develops mobile game monetization and analytics software platform"
+    },
+    {
       "ticker": "ARISTA",
       "company_name": "Arista Networks Inc.",
       "buy_count": 1,
@@ -1450,7 +1493,7 @@
     {
       "ticker": "ASML",
       "company_name": "ASML Holding N.V.",
-      "buy_count": 2,
+      "buy_count": 3,
       "avoid_count": 0,
       "first_mention_date": "25 Oct 2026",
       "price_at_first_mention": 1571.8,
@@ -1488,8 +1531,8 @@
         "analyst_buy": 38,
         "analyst_hold": 4,
         "analyst_sell": 1,
-        "analyst_target": 2137.25,
-        "analyst_upside_pct": 50.0,
+        "analyst_target": 2147.54,
+        "analyst_upside_pct": 50.7,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -1516,6 +1559,19 @@
           "ticker": "ASML",
           "company_name": "ASML Holding",
           "reason": "The creator specifically said he was betting on ASML as a company with safer supply chains and real pricing power amid oil price spikes and inflation concerns. Since this recommendation, ASML is up 20%, beating the S&P 500 by a large margin.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": null
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "The UNTHINKABLE is About to Happen to Stocks [Emergency Update]",
+          "url": "https://www.youtube.com/watch?v=f_cPnwd5TS0",
+          "upload_date": "20261108",
+          "date_label": "08 Nov 2026",
+          "ticker": "ASML",
+          "company_name": "ASML Holding N.V.",
+          "reason": "ASML is ranking really high in terms of valuation scores according to the creator's analysis. It is listed among stocks that are starting to look cheap from a value perspective in the current market environment.",
           "when_to_buy": null,
           "target_price": null,
           "cautions": null
@@ -1645,9 +1701,9 @@
     {
       "ticker": "AVGO",
       "company_name": "Broadcom Inc.",
-      "buy_count": 9,
+      "buy_count": 8,
       "avoid_count": 0,
-      "first_mention_date": "09 Oct 2026",
+      "first_mention_date": "13 Oct 2026",
       "price_at_first_mention": 357.31,
       "pct_change_since_rec": -17.8,
       "market": {
@@ -1690,19 +1746,6 @@
       },
       "buys": [
         {
-          "channel": "CouchInvestor",
-          "title": "4 Stocks in My Portfolio I Wouldn\u2019t Buy Right Now",
-          "url": "https://www.youtube.com/watch?v=J1BVUTa-52s",
-          "upload_date": "20261009",
-          "date_label": "09 Oct 2026",
-          "ticker": "AVGO",
-          "company_name": "Broadcom Inc.",
-          "reason": "The creator states they are shifting away from AMD exposure towards Broadcom while still being exposed to semiconductor growth. Broadcom is positioned as having more reasonable valuation with significant growth ahead, making it a more attractive alternative to AMD at current prices.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": null
-        },
-        {
           "channel": "Ticker Symbol: YOU",
           "title": "Top Stocks I'm Buying To Get Rich Without Getting Lucky",
           "url": "https://www.youtube.com/watch?v=P8b2tsNSxRQ",
@@ -1714,19 +1757,6 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": "Broadcom recently signed a custom chip deal with Marvell involving Google, indicating competition from chip designers is intensifying, though the foundry operator still does not have to compete."
-        },
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "CoreWeave, IREN & Nebius CRASH \u2014 I'm Watching These Dips",
-          "url": "https://www.youtube.com/watch?v=TgDV_-LeQSE",
-          "upload_date": "20261009",
-          "date_label": "09 Oct 2026",
-          "ticker": "AVGO",
-          "company_name": "Broadcom Corporation",
-          "reason": "The creator states he doesn't own Broadcom but 'definitely sees the bullish cases' and believes with the company trading at a price-to-earnings ratio of 20, 'this is one of those times when the market is wrong.' He suggests the stock took a huge hit in the recent sell-off and represents an opportunity.",
-          "when_to_buy": "Following the market dip, particularly at current valuation levels with a P/E ratio of 20",
-          "target_price": null,
-          "cautions": "The creator does not personally own this stock, suggesting he may still be in research mode. He is cautious about committing without his full thesis being developed."
         },
         {
           "channel": "Mr. FIRED Up Wealth",
@@ -1805,6 +1835,19 @@
           "when_to_buy": "The creator is evaluating whether to increase or decrease position",
           "target_price": null,
           "cautions": null
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "The Market Is Crashing and I Just Bought $8,000 of These 4 Stocks",
+          "url": "https://www.youtube.com/watch?v=i8vFBCkcxqs",
+          "upload_date": "20261108",
+          "date_label": "08 Nov 2026",
+          "ticker": "AVGO",
+          "company_name": "Broadcom Inc.",
+          "reason": "Broadcom yet to report but moves a lot with AI semiconductor narrative. If positive news continues on semiconductors and AI buildout, stock could move back above $300 soon. Stock was at $35-37 early Friday. Creator may buy more if getting positive news.",
+          "when_to_buy": "First resistance at $39; wait for more positive news before adding",
+          "target_price": "Could move back above $300 on positive sentiment; currently appears to be around $37-39 range",
+          "cautions": "Highly dependent on AI buildout sentiment and semiconductor demand; cyclical to tech spending trends"
         }
       ],
       "avoids": [],
@@ -2003,7 +2046,7 @@
         "currency": "USD",
         "sector": "Financial Services",
         "industry": "Asset Management",
-        "market_cap": 84574470144,
+        "market_cap": 84607647744,
         "current_price": 52.95,
         "daily_change_pct": 0.93,
         "month_change_pct": 18.99,
@@ -2017,7 +2060,7 @@
         "ma200": 47.19,
         "ma_signal": "death_cross",
         "pe_trailing": 17.949152,
-        "pe_forward": 24.683014,
+        "pe_forward": 24.604103,
         "peg_ratio": 0.94,
         "revenue_growth": 0.716,
         "earnings_growth": 2.727,
@@ -2380,7 +2423,7 @@
         "ma200": 58.09,
         "ma_signal": "golden_cross",
         "pe_trailing": 33.412586,
-        "pe_forward": 23.597975,
+        "pe_forward": 23.62049,
         "peg_ratio": 2.71,
         "revenue_growth": 0.132,
         "earnings_growth": 4.0,
@@ -2393,8 +2436,8 @@
         "analyst_buy": 14,
         "analyst_hold": 6,
         "analyst_sell": 0,
-        "analyst_target": 74.21,
-        "analyst_upside_pct": 55.3,
+        "analyst_target": 72.63,
+        "analyst_upside_pct": 52.0,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -2637,7 +2680,7 @@
         "ma200": 296.42,
         "ma_signal": "death_cross",
         "pe_trailing": 39.919254,
-        "pe_forward": 12.382523,
+        "pe_forward": 12.301797,
         "peg_ratio": 0.92,
         "revenue_growth": 0.499,
         "earnings_growth": 0.601,
@@ -2889,13 +2932,27 @@
     {
       "ticker": "COREWEAVE",
       "company_name": "CoreWeave",
-      "buy_count": 0,
+      "buy_count": 1,
       "avoid_count": 3,
       "first_mention_date": "15 Oct 2026",
       "price_at_first_mention": null,
       "pct_change_since_rec": null,
       "market": null,
-      "buys": [],
+      "buys": [
+        {
+          "channel": "CouchInvestor",
+          "title": "The Market Is Crashing and I Just Bought $8,000 of These 4 Stocks",
+          "url": "https://www.youtube.com/watch?v=i8vFBCkcxqs",
+          "upload_date": "20261108",
+          "date_label": "08 Nov 2026",
+          "ticker": "COREWEAVE",
+          "company_name": "CoreWeave (Private/recently public)",
+          "reason": "CoreWeave reports Tuesday after market close and is a core focus for the creator. Expecting strong execution with contracts showing GPU pricing power. The company should get $40 million per megawatt on short-term contracts and potentially $22 million per megawatt on five-year contracts based on INE's recent pricing. Creator expects CoreWeave to crush earnings and deliver big stock price upside based on company performance matching or exceeding INE's results.",
+          "when_to_buy": "Creator plans to wait for earnings report on Tuesday to see guidance on GPU pricing and contract quality before making moves",
+          "target_price": null,
+          "cautions": "Stock has kept going lower leading into earnings; extreme volatility expected post-earnings both ways depending on guidance quality"
+        }
+      ],
       "avoids": [
         {
           "channel": "CouchInvestor",
@@ -2934,6 +2991,31 @@
       "description": "Cloud infrastructure provider specializing in GPU computing"
     },
     {
+      "ticker": "CORW",
+      "company_name": "Core Weave (likely CoreWeave)",
+      "buy_count": 0,
+      "avoid_count": 1,
+      "first_mention_date": "08 Nov 2026",
+      "price_at_first_mention": null,
+      "pct_change_since_rec": null,
+      "market": null,
+      "buys": [],
+      "avoids": [
+        {
+          "channel": "The Traveling Trader",
+          "title": "The UNTHINKABLE is About to Happen to Stocks [Emergency Update]",
+          "url": "https://www.youtube.com/watch?v=f_cPnwd5TS0",
+          "upload_date": "20261108",
+          "date_label": "08 Nov 2026",
+          "ticker": "CORW",
+          "company_name": "Core Weave (likely CoreWeave)",
+          "reason": "Creator uses CoreWeave as an example of a stock he is NOT recommending, similar to Iron. He states 'if you really want to and you're like... I think Core Weave is the greatest company on Earth, be my guest. Do what you like. This is these aren't the stocks that I'm talking about.' This is cited as an example of speculative high-beta positions that can lead to portfolio damage during corrections.",
+          "risk": "High volatility; creator explicitly warned against overweighting such positions"
+        }
+      ],
+      "description": "Operates bitcoin mining and blockchain infrastructure"
+    },
+    {
       "ticker": "CORZ",
       "company_name": "CoreWeave",
       "buy_count": 0,
@@ -2961,7 +3043,7 @@
         "ma200": 19.51,
         "ma_signal": "death_cross",
         "pe_trailing": null,
-        "pe_forward": 90.21865,
+        "pe_forward": 68.96552,
         "peg_ratio": null,
         "revenue_growth": 1.871,
         "earnings_growth": null,
@@ -2974,8 +3056,8 @@
         "analyst_buy": 16,
         "analyst_hold": 1,
         "analyst_sell": 0,
-        "analyst_target": 28.48,
-        "analyst_upside_pct": 142.1,
+        "analyst_target": 28.33,
+        "analyst_upside_pct": 140.9,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -3333,9 +3415,9 @@
     {
       "ticker": "CRWD",
       "company_name": "CrowdStrike Holdings Inc.",
-      "buy_count": 5,
+      "buy_count": 4,
       "avoid_count": 2,
-      "first_mention_date": "09 Oct 2026",
+      "first_mention_date": "13 Oct 2026",
       "price_at_first_mention": 261.21,
       "pct_change_since_rec": -17.0,
       "market": {
@@ -3389,19 +3471,6 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": "Cyber security industry is expected to grow faster than historical precedent due to AI-enabled threats, creating higher execution demands."
-        },
-        {
-          "channel": "FinTek",
-          "title": "Why I Own $88,000 in Crowdstrike Stock",
-          "url": "https://www.youtube.com/watch?v=mYEiVRoa9t8",
-          "upload_date": "20261009",
-          "date_label": "09 Oct 2026",
-          "ticker": "CRWD",
-          "company_name": "CrowdStrike Holdings",
-          "reason": "CrowdStrike is the best in the world at what they do, sitting in the top right quadrant for Gartner on endpoint protection and in the top right for exposure management from IDC. The creator has held this as one of their biggest stock holdings for several years and is very happy to hold them over a long time horizon.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": "At today's prices, the stock is basically priced for perfection, and the creator does not see a ton of huge upside in the short term for this stock, only over a long time horizon."
         },
         {
           "channel": "Jose Najarro Stocks",
@@ -3497,7 +3566,7 @@
         "ma200": 90.17,
         "ma_signal": "death_cross",
         "pe_trailing": null,
-        "pe_forward": -22.619913,
+        "pe_forward": -22.85872,
         "peg_ratio": null,
         "revenue_growth": 1.125,
         "earnings_growth": null,
@@ -3563,11 +3632,11 @@
     {
       "ticker": "CWEB",
       "company_name": "CoreWeave",
-      "buy_count": 4,
+      "buy_count": 3,
       "avoid_count": 2,
-      "first_mention_date": "09 Oct 2026",
-      "price_at_first_mention": 18.6,
-      "pct_change_since_rec": 0.3,
+      "first_mention_date": "14 Oct 2026",
+      "price_at_first_mention": 18.14,
+      "pct_change_since_rec": 2.8,
       "market": {
         "ticker": "CWEB",
         "name": "Direxion Daily CSI China Intern",
@@ -3607,19 +3676,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "CoreWeave, IREN & Nebius CRASH \u2014 I'm Watching These Dips",
-          "url": "https://www.youtube.com/watch?v=TgDV_-LeQSE",
-          "upload_date": "20261009",
-          "date_label": "09 Oct 2026",
-          "ticker": "CWEB",
-          "company_name": "CoreWeave",
-          "reason": "The creator states that CoreWeave at $81 seems like a 'no-brainer' to him because he believes the AI compute market is truly here and the demand for AI compute will continue to be strong. He emphasizes that while there is always risk, his overall thesis about sustained AI compute demand remains intact despite the market sell-off. The dip presents an opportunity to buy into a stock he is extremely bullish on.",
-          "when_to_buy": "During market dips like the one experienced on the video date, particularly at depressed valuations following panic selling",
-          "target_price": null,
-          "cautions": "The creator acknowledges 'there's never a no-brainer' and that there is always risk involved. He also notes he already has this as a massive position in his portfolio and is not jumping in immediately, suggesting investors should have conviction before buying."
-        },
         {
           "channel": "Jose Najarro Stocks",
           "title": "CoreWeave Stock CRASHES 15% \u2014 Here's Why I'm BULLISH!!",
@@ -3994,6 +4050,70 @@
       "description": "Operates daily fantasy sports and online sports betting platforms"
     },
     {
+      "ticker": "EWJ",
+      "company_name": "iShares Japan Value ETF",
+      "buy_count": 1,
+      "avoid_count": 0,
+      "first_mention_date": "08 Nov 2026",
+      "price_at_first_mention": 88.26,
+      "pct_change_since_rec": 0.0,
+      "market": {
+        "ticker": "EWJ",
+        "name": "iShares MSCI Japan Index Fund",
+        "currency": "USD",
+        "sector": null,
+        "industry": null,
+        "market_cap": null,
+        "current_price": 88.26,
+        "daily_change_pct": 0.0,
+        "month_change_pct": -10.23,
+        "week52_high": 99.98,
+        "week52_high_date": "06 Oct 2026",
+        "week52_low": 79.48,
+        "week52_low_date": "20 Nov 2025",
+        "rsi": 25.7,
+        "rsi_label": "oversold",
+        "ma50": 96.12,
+        "ma200": 91.71,
+        "ma_signal": "golden_cross",
+        "pe_trailing": 14.380812,
+        "pe_forward": null,
+        "peg_ratio": null,
+        "revenue_growth": null,
+        "earnings_growth": null,
+        "free_cashflow": null,
+        "profit_margins": null,
+        "debt_to_equity": null,
+        "beta": null,
+        "short_percent": null,
+        "dividend_yield": 3.83,
+        "analyst_buy": null,
+        "analyst_hold": null,
+        "analyst_sell": null,
+        "analyst_target": null,
+        "analyst_upside_pct": null,
+        "earnings_date": null,
+        "earnings_days": null
+      },
+      "buys": [
+        {
+          "channel": "FinTek",
+          "title": "Don't Invest in US Stocks. Buy These Instead (During the Dip)",
+          "url": "https://www.youtube.com/watch?v=7_woyIbX4zU",
+          "upload_date": "20261108",
+          "date_label": "08 Nov 2026",
+          "ticker": "EWJ",
+          "company_name": "iShares Japan Value ETF",
+          "reason": "Small-cap value stocks in Japan have the highest forecast from GMO and one of the lowest average valuations according to MSCI with a forward P/E ratio of 14, which is almost half the price of US growth stocks. This ETF provides exposure to Japanese value stocks that appear undervalued relative to US equities during a period when US stocks are hitting all-time highs and many investors believe the market is in a bubble.",
+          "when_to_buy": "During the dip",
+          "target_price": null,
+          "cautions": null
+        }
+      ],
+      "avoids": [],
+      "description": "Tracks large and mid-cap Japanese equities"
+    },
+    {
       "ticker": "FFHC",
       "company_name": "FormFactor",
       "buy_count": 1,
@@ -4046,7 +4166,7 @@
         "currency": "USD",
         "sector": "Technology",
         "industry": "Software - Application",
-        "market_cap": 15216614400,
+        "market_cap": 15063932928,
         "current_price": 704.55,
         "daily_change_pct": -0.4,
         "month_change_pct": 3.34,
@@ -4124,7 +4244,7 @@
         "ma200": 22.88,
         "ma_signal": "death_cross",
         "pe_trailing": null,
-        "pe_forward": 47.79206,
+        "pe_forward": 47.490406,
         "peg_ratio": 7.95,
         "revenue_growth": 0.428,
         "earnings_growth": null,
@@ -4137,8 +4257,8 @@
         "analyst_buy": 5,
         "analyst_hold": 9,
         "analyst_sell": 0,
-        "analyst_target": 27.77,
-        "analyst_upside_pct": 47.6,
+        "analyst_target": 27.41,
+        "analyst_upside_pct": 45.7,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -4459,7 +4579,7 @@
     {
       "ticker": "GOOGL",
       "company_name": "Alphabet Inc.",
-      "buy_count": 19,
+      "buy_count": 21,
       "avoid_count": 3,
       "first_mention_date": "13 Oct 2026",
       "price_at_first_mention": 353.78,
@@ -4749,6 +4869,32 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": "Described as a conservative choice rather than a high-growth opportunity; may underperform if semiconductor demand explodes."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "The Market Is Crashing and I Just Bought $8,000 of These 4 Stocks",
+          "url": "https://www.youtube.com/watch?v=i8vFBCkcxqs",
+          "upload_date": "20261108",
+          "date_label": "08 Nov 2026",
+          "ticker": "GOOGL",
+          "company_name": "Alphabet Inc.",
+          "reason": "Creator added 7 shares of Alphabet on Tuesday. Viewed as undervalued with significant growth potential remaining. Big tech companies held up well during recent market declines. Creator continues to hold this as a core position despite volatility.",
+          "when_to_buy": "Current levels around 284; creator bought on Tuesday during dip",
+          "target_price": "Target zone 260-270 for technical entry; currently at 284 which is above weekly 100-day moving average but below major resistance",
+          "cautions": "Currently trading above weekly 100-day MA but below resistance/ceiling; technical analysis suggests waiting for pullback but creator bought anyway on valuation grounds"
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "The UNTHINKABLE is About to Happen to Stocks [Emergency Update]",
+          "url": "https://www.youtube.com/watch?v=f_cPnwd5TS0",
+          "upload_date": "20261108",
+          "date_label": "08 Nov 2026",
+          "ticker": "GOOGL",
+          "company_name": "Alphabet Inc.",
+          "reason": "Google is ranking really high in terms of valuation scores and is listed among stocks that are starting to look cheap to the creator. Google is also cited as a blue chip company suitable for long-term holding.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": null
         }
       ],
       "avoids": [
@@ -5402,12 +5548,12 @@
     },
     {
       "ticker": "IREN",
-      "company_name": "Iren (implied - likely a clean energy or infrastructure play based on context)",
-      "buy_count": 3,
+      "company_name": "Iren (iRen)",
+      "buy_count": 2,
       "avoid_count": 1,
-      "first_mention_date": "09 Oct 2026",
-      "price_at_first_mention": 34.8,
-      "pct_change_since_rec": -37.8,
+      "first_mention_date": "01 Nov 2026",
+      "price_at_first_mention": 18.03,
+      "pct_change_since_rec": 20.0,
       "market": {
         "ticker": "IREN",
         "name": "IREN LIMITED",
@@ -5428,7 +5574,7 @@
         "ma200": 43.55,
         "ma_signal": "death_cross",
         "pe_trailing": null,
-        "pe_forward": -3.9132004,
+        "pe_forward": -5.4889026,
         "peg_ratio": 3.11,
         "revenue_growth": -0.05,
         "earnings_growth": null,
@@ -5441,25 +5587,12 @@
         "analyst_buy": 13,
         "analyst_hold": 3,
         "analyst_sell": 1,
-        "analyst_target": 64.08,
-        "analyst_upside_pct": 196.1,
+        "analyst_target": 61.34,
+        "analyst_upside_pct": 183.5,
         "earnings_date": null,
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "CoreWeave, IREN & Nebius CRASH \u2014 I'm Watching These Dips",
-          "url": "https://www.youtube.com/watch?v=TgDV_-LeQSE",
-          "upload_date": "20261009",
-          "date_label": "09 Oct 2026",
-          "ticker": "IREN",
-          "company_name": "Iren (implied - likely a clean energy or infrastructure play based on context)",
-          "reason": "The creator mentions Iran (IREN) as one of the stocks that experienced a 7% decline and states he would 'not mind buying at these levels' if he didn't already have a position. This indicates he views the dip as an opportunity for new investors to establish positions.",
-          "when_to_buy": "During the market dip when the stock was down approximately 7%",
-          "target_price": null,
-          "cautions": "The creator already has a massive position in this stock and is not jumping in immediately. He suggests this is only attractive for investors who don't already have exposure."
-        },
         {
           "channel": "CouchInvestor",
           "title": "BLOODBATH DAY! Iren (AAOI, NET) Earnings Call | Q3 2026 Breakdown",
@@ -5506,7 +5639,7 @@
       "ticker": "IRON",
       "company_name": "Irontock",
       "buy_count": 0,
-      "avoid_count": 1,
+      "avoid_count": 2,
       "first_mention_date": "16 Oct 2026",
       "price_at_first_mention": 56.84,
       "pct_change_since_rec": 38.8,
@@ -5560,6 +5693,17 @@
           "company_name": "Irontock",
           "reason": "Irontock is down 42% over the past couple of weeks and is selling off in sympathy with CoreWeave's financial distress. While the creator notes it has a better balance sheet than CoreWeave, it remains a very expensive stock that lacks long-term competitive moats. The neocloud sector is being repriced as investors recognize these are largely commodity businesses benefiting from temporary supply-demand imbalances in GPU rental rather than sustainable business models.",
           "risk": "Down 42% in recent weeks. Belongs to neocloud sector facing structural questions about long-term viability and commodity nature of the business."
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "The UNTHINKABLE is About to Happen to Stocks [Emergency Update]",
+          "url": "https://www.youtube.com/watch?v=f_cPnwd5TS0",
+          "upload_date": "20261108",
+          "date_label": "08 Nov 2026",
+          "ticker": "IRON",
+          "company_name": "Iron (specific company not fully identified)",
+          "reason": "Creator uses Iron as an example of a stock he is NOT recommending. He explicitly states 'this is not an indictment to jump into [bad] stocks. If you really want to and you're like, I think Iron is the greatest company on Earth... be my guest. Do what you like. This is these aren't the stocks that I'm talking about.' Implies this is not a quality investment opportunity he endorses.",
+          "risk": null
         }
       ],
       "description": "Develops medicines for blood cell disorders and iron metabolism diseases"
@@ -5578,7 +5722,7 @@
         "currency": "USD",
         "sector": "Healthcare",
         "industry": "Medical Instruments & Supplies",
-        "market_cap": 159964299264,
+        "market_cap": 156960276480,
         "current_price": 452.8,
         "daily_change_pct": -3.36,
         "month_change_pct": 9.23,
@@ -5795,8 +5939,8 @@
         "analyst_buy": 4,
         "analyst_hold": 3,
         "analyst_sell": 0,
-        "analyst_target": 106.02,
-        "analyst_upside_pct": 15.6,
+        "analyst_target": 105.8,
+        "analyst_upside_pct": 15.4,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -5908,7 +6052,7 @@
         "currency": "USD",
         "sector": "Technology",
         "industry": "Semiconductor Equipment & Materials",
-        "market_cap": 250835501056,
+        "market_cap": 250383826944,
         "current_price": 200.44,
         "daily_change_pct": 8.23,
         "month_change_pct": -39.17,
@@ -6020,7 +6164,7 @@
         "ma200": 7.15,
         "ma_signal": "death_cross",
         "pe_trailing": null,
-        "pe_forward": -13.299557,
+        "pe_forward": -11.14494,
         "peg_ratio": 17.14,
         "revenue_growth": -0.121,
         "earnings_growth": null,
@@ -6033,8 +6177,8 @@
         "analyst_buy": 1,
         "analyst_hold": 9,
         "analyst_sell": 1,
-        "analyst_target": 6.28,
-        "analyst_upside_pct": 57.3,
+        "analyst_target": 6.17,
+        "analyst_upside_pct": 54.6,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -6095,7 +6239,7 @@
         "currency": "USD",
         "sector": "Technology",
         "industry": "Software - Application",
-        "market_cap": 6480801280,
+        "market_cap": 6458247168,
         "current_price": 17.09,
         "daily_change_pct": -4.2,
         "month_change_pct": 9.55,
@@ -6109,7 +6253,7 @@
         "ma200": 15.09,
         "ma_signal": "golden_cross",
         "pe_trailing": 2.5356085,
-        "pe_forward": 7.8937645,
+        "pe_forward": 8.356968,
         "peg_ratio": 0.15,
         "revenue_growth": 0.081,
         "earnings_growth": null,
@@ -6171,7 +6315,7 @@
         "ma200": 279.63,
         "ma_signal": "death_cross",
         "pe_trailing": 21.876581,
-        "pe_forward": 20.176636,
+        "pe_forward": 20.221846,
         "peg_ratio": 2.94,
         "revenue_growth": 0.011,
         "earnings_growth": 0.104,
@@ -6184,8 +6328,8 @@
         "analyst_buy": 19,
         "analyst_hold": 14,
         "analyst_sell": 1,
-        "analyst_target": 299.52,
-        "analyst_upside_pct": 8.3,
+        "analyst_target": 299.0,
+        "analyst_upside_pct": 8.1,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -6223,7 +6367,7 @@
     {
       "ticker": "MELI",
       "company_name": "MercadoLibre Inc.",
-      "buy_count": 7,
+      "buy_count": 8,
       "avoid_count": 1,
       "first_mention_date": "11 Oct 2026",
       "price_at_first_mention": 1876.04,
@@ -6248,7 +6392,7 @@
         "ma200": 1801.82,
         "ma_signal": "golden_cross",
         "pe_trailing": 40.50429,
-        "pe_forward": 27.49209,
+        "pe_forward": 27.876175,
         "peg_ratio": 0.82,
         "revenue_growth": 0.451,
         "earnings_growth": 0.063,
@@ -6261,8 +6405,8 @@
         "analyst_buy": 19,
         "analyst_hold": 5,
         "analyst_sell": 0,
-        "analyst_target": 2259.55,
-        "analyst_upside_pct": 49.6,
+        "analyst_target": 2248.01,
+        "analyst_upside_pct": 48.9,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -6357,6 +6501,19 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": "Brazil macro/political risk exists, though creator believes this is overblown and these businesses operate successfully regardless of political regime"
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "The Market Is Crashing and I Just Bought $8,000 of These 4 Stocks",
+          "url": "https://www.youtube.com/watch?v=i8vFBCkcxqs",
+          "upload_date": "20261108",
+          "date_label": "08 Nov 2026",
+          "ticker": "MELI",
+          "company_name": "Mercado Libre Inc.",
+          "reason": "Already reported with great growth but stock got hit due to margin compression. 30 consecutive quarters of over 30% revenue growth. Company in investment cycle, reinvesting in business. Creator likes the story and thinks this reinvestment is necessary for long-term future. Views as very good long-term company despite market not understanding or appreciating the business model.",
+          "when_to_buy": "Current levels after recent report; creator already owns position",
+          "target_price": "Currently at $1,510",
+          "cautions": "Market doesn't like the margin compression story and reinvestment cycle; stock pressure likely to continue until profitability improves"
         }
       ],
       "avoids": [
@@ -6377,7 +6534,7 @@
     {
       "ticker": "META",
       "company_name": "Meta Platforms Inc.",
-      "buy_count": 20,
+      "buy_count": 22,
       "avoid_count": 3,
       "first_mention_date": "11 Oct 2026",
       "price_at_first_mention": 762.5,
@@ -6680,6 +6837,32 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": "None explicitly stated, though it is positioned as a safer alternative to higher-risk semiconductor bets."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "The Market Is Crashing and I Just Bought $8,000 of These 4 Stocks",
+          "url": "https://www.youtube.com/watch?v=i8vFBCkcxqs",
+          "upload_date": "20261108",
+          "date_label": "08 Nov 2026",
+          "ticker": "META",
+          "company_name": "Meta Platforms Inc.",
+          "reason": "Creator added 3 shares of Meta on Tuesday and views it as extremely undervalued. Despite being in the low 600s and under pressure, the creator sees significant long-term value. The company has a major support area at 500-520, but the creator views current prices as attractive entry points for long-term investors.",
+          "when_to_buy": "Current levels (low 600s); creator actively bought on Tuesday dips",
+          "target_price": "630-640 would be good technical recovery; major support floor at 500-520",
+          "cautions": "Stock has been under pressure recently; significant downside risk if support at 500-520 breaks"
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "The UNTHINKABLE is About to Happen to Stocks [Emergency Update]",
+          "url": "https://www.youtube.com/watch?v=f_cPnwd5TS0",
+          "upload_date": "20261108",
+          "date_label": "08 Nov 2026",
+          "ticker": "META",
+          "company_name": "Meta Platforms Inc.",
+          "reason": "Meta is ranking really high in terms of valuation scores and is listed among stocks that are starting to look cheap from a value perspective in the current market environment.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": null
         }
       ],
       "avoids": [
@@ -6787,7 +6970,7 @@
         "currency": "USD",
         "sector": "Basic Materials",
         "industry": "Other Industrial Metals & Mining",
-        "market_cap": 6311301120,
+        "market_cap": 6312468480,
         "current_price": 35.41,
         "daily_change_pct": 4.95,
         "month_change_pct": -23.54,
@@ -6814,8 +6997,8 @@
         "analyst_buy": 18,
         "analyst_hold": 0,
         "analyst_sell": 0,
-        "analyst_target": 68.24,
-        "analyst_upside_pct": 92.7,
+        "analyst_target": 69.44,
+        "analyst_upside_pct": 96.1,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -6851,7 +7034,7 @@
         "currency": "USD",
         "sector": "Healthcare",
         "industry": "Biotechnology",
-        "market_cap": 101481775104,
+        "market_cap": 102850600960,
         "current_price": 254.19,
         "daily_change_pct": 5.27,
         "month_change_pct": 29.37,
@@ -6865,7 +7048,7 @@
         "ma200": 91.47,
         "ma_signal": "golden_cross",
         "pe_trailing": null,
-        "pe_forward": -57.806976,
+        "pe_forward": -57.493958,
         "peg_ratio": null,
         "revenue_growth": 0.292,
         "earnings_growth": null,
@@ -7042,7 +7225,7 @@
         "ma200": 438.85,
         "ma_signal": "golden_cross",
         "pe_trailing": 27.693632,
-        "pe_forward": 21.944775,
+        "pe_forward": 21.929937,
         "peg_ratio": 1.57,
         "revenue_growth": 0.188,
         "earnings_growth": 0.323,
@@ -7055,8 +7238,8 @@
         "analyst_buy": 52,
         "analyst_hold": 3,
         "analyst_sell": 0,
-        "analyst_target": 634.14,
-        "analyst_upside_pct": 19.5,
+        "analyst_target": 636.12,
+        "analyst_upside_pct": 19.9,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -7287,7 +7470,7 @@
     {
       "ticker": "MU",
       "company_name": "Micron Technology Inc.",
-      "buy_count": 12,
+      "buy_count": 13,
       "avoid_count": 2,
       "first_mention_date": "13 Oct 2026",
       "price_at_first_mention": 953.19,
@@ -7486,6 +7669,19 @@
           "when_to_buy": "At current levels around $780-800. One speaker indicates willingness to hold at $800 with a price target higher than $1,200, potentially reaching $1,600",
           "target_price": "$1,200 to $1,600 potential; represents a 1.7 trillion dollar market cap; one calculation suggests it could reach $1,600 at 9 times forward earnings",
           "cautions": "Micron is a cyclical business with history of boom-bust cycles, though current scale ($207 peak EPS in 2028 declining to $41 in 2033) is vastly different from historical cycles. Supply could come from new fabs or competitors like CXMT. Memory pricing power could decrease due to negotiations and innovation. This is a minority position for most speakers due to conviction concerns, not fundamental concerns. The market has discounted this stock significantly for 5 months despite no major negative news. If capex growth has peaked (not stopped), future cash flow growth will moderate and multiple compression could continue. Some speakers worry about taking a position when they cannot fully defend it, suggesting risks around execution and unknown variables. The stock was flat to down 40% from market peak after the driver in Singapore was bullish on it\u2014possibly a contrarian indicator."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "The Market Is Crashing and I Just Bought $8,000 of These 4 Stocks",
+          "url": "https://www.youtube.com/watch?v=i8vFBCkcxqs",
+          "upload_date": "20261108",
+          "date_label": "08 Nov 2026",
+          "ticker": "MU",
+          "company_name": "Micron Technology",
+          "reason": "Creator is thinking of buying Micron because at under $700, it is extremely cheap and being massively disrespected. Trading at forward earnings of 3-4x, price-to-free-cash-flow is very low. The key thesis is that HBM (High Bandwidth Memory) completely changes the cyclicality of the memory business by tying it to annual compute roadmaps rather than traditional supply-demand cycles. Expected free cash flow of $143B next fiscal year, $175B year after, and $178B the year after. Over fiscal 2028-2029 combined, reaching half a trillion dollars in free cash flow. Historical cycles don't apply because HBM creates annual refresh cycles. Company should generate 3+ years of very strong performance based on analyst estimates.",
+          "when_to_buy": "Current price under $700; creator views this as entry point; historically was even cheap at $1,000",
+          "target_price": null,
+          "cautions": "Historically cyclical company but creator argues 'this time is different' due to HBM; uncertainty on exact cycle length; capex will also increase; cyclical nature means eventual downturn, though creator thinks company will have built massive cash fortress by then"
         }
       ],
       "avoids": [
@@ -7518,7 +7714,7 @@
       "ticker": "NBIS",
       "company_name": "Nebius",
       "buy_count": 6,
-      "avoid_count": 1,
+      "avoid_count": 2,
       "first_mention_date": "15 Oct 2026",
       "price_at_first_mention": 186.01,
       "pct_change_since_rec": -30.4,
@@ -7542,7 +7738,7 @@
         "ma200": 178.38,
         "ma_signal": "golden_cross",
         "pe_trailing": 101.16407,
-        "pe_forward": -35.99114,
+        "pe_forward": -37.23074,
         "peg_ratio": 0.29,
         "revenue_growth": 4.54,
         "earnings_growth": null,
@@ -7555,8 +7751,8 @@
         "analyst_buy": 11,
         "analyst_hold": 6,
         "analyst_sell": 1,
-        "analyst_target": 281.0,
-        "analyst_upside_pct": 117.0,
+        "analyst_target": 278.05,
+        "analyst_upside_pct": 114.7,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -7651,9 +7847,47 @@
           "company_name": "NBIS",
           "reason": "NBIS is down 33% and selling off alongside other neoclouds despite having the best balance sheet, growth, and cash flows in the group. The creator explicitly states he is not interested in owning any of these neocloud businesses because they lack high-quality long-term business models and competitive moats. These companies are largely benefiting from temporary supply-demand dynamics in GPU rental but lack sustainable differentiation or durable advantages.",
           "risk": "Down 33%. Part of neocloud sector facing investor exodus and repricing due to questions about long-term business quality and sustainability."
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "The UNTHINKABLE is About to Happen to Stocks [Emergency Update]",
+          "url": "https://www.youtube.com/watch?v=f_cPnwd5TS0",
+          "upload_date": "20261108",
+          "date_label": "08 Nov 2026",
+          "ticker": "NBIS",
+          "company_name": "Nebius (likely Nebius AI or similar)",
+          "reason": "Creator uses Nebius as an example of a stock he is NOT recommending. He notes that two people can be invested in the same stock like Nebius, but one person knows their proper allocation while another person 'just bought too much and now their portfolio is completely demolished.' This serves as a cautionary example of improper position sizing.",
+          "risk": "High volatility; improper sizing can lead to portfolio destruction during market corrections"
         }
       ],
       "description": "Provides full-stack GPU cloud infrastructure for AI applications"
+    },
+    {
+      "ticker": "NBIT",
+      "company_name": "Nebius AI",
+      "buy_count": 1,
+      "avoid_count": 0,
+      "first_mention_date": "08 Nov 2026",
+      "price_at_first_mention": null,
+      "pct_change_since_rec": null,
+      "market": null,
+      "buys": [
+        {
+          "channel": "CouchInvestor",
+          "title": "The Market Is Crashing and I Just Bought $8,000 of These 4 Stocks",
+          "url": "https://www.youtube.com/watch?v=i8vFBCkcxqs",
+          "upload_date": "20261108",
+          "date_label": "08 Nov 2026",
+          "ticker": "NBIT",
+          "company_name": "Nebius AI",
+          "reason": "Nebius is the creator's number one portfolio holding. The creator is extremely bullish going into earnings on Thursday before market open. Expecting strong pricing power on GPUs, potential guidance for 2027 ARR, and revenue expected to jump to $1.46 billion next quarter. The creator expects both Nebius and CoreWeave to crush earnings based on company performance and potential big stock price jumps. Post-earnings reactions have been violent on the upside (30%+) historically.",
+          "when_to_buy": "Creator is considering buying more ahead of Thursday earnings; current price around 217 resistance level with support at 106",
+          "target_price": "Weekly 50 MA at 160; big floor at 106 (hopefully not reached before earnings); resistance at 217",
+          "cautions": "High volatility name with significant beta; already a 10%+ position so creator won't drastically increase size; if market doesn't like guidance despite strong execution, stock could sell off despite good fundamentals"
+        }
+      ],
+      "avoids": [],
+      "description": "Cloud infrastructure and AI computing services provider"
     },
     {
       "ticker": "NBL",
@@ -7953,7 +8187,7 @@
         "ma200": 250.24,
         "ma_signal": "golden_cross",
         "pe_trailing": null,
-        "pe_forward": 148.00883,
+        "pe_forward": 146.83546,
         "peg_ratio": 2.38,
         "revenue_growth": 0.392,
         "earnings_growth": null,
@@ -7966,8 +8200,8 @@
         "analyst_buy": 24,
         "analyst_hold": 8,
         "analyst_sell": 2,
-        "analyst_target": 340.03,
-        "analyst_upside_pct": 26.5,
+        "analyst_target": 340.58,
+        "analyst_upside_pct": 26.7,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -7992,8 +8226,8 @@
     {
       "ticker": "NFLX",
       "company_name": "Netflix Inc.",
-      "buy_count": 5,
-      "avoid_count": 5,
+      "buy_count": 6,
+      "avoid_count": 4,
       "first_mention_date": "13 Oct 2026",
       "price_at_first_mention": 70.46,
       "pct_change_since_rec": -10.0,
@@ -8100,20 +8334,22 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": "The speaker states they do not love the content or business personally, despite acknowledging it as a phenomenal business opportunity."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "The Market Is Crashing and I Just Bought $8,000 of These 4 Stocks",
+          "url": "https://www.youtube.com/watch?v=i8vFBCkcxqs",
+          "upload_date": "20261108",
+          "date_label": "08 Nov 2026",
+          "ticker": "NFLX",
+          "company_name": "Netflix Inc.",
+          "reason": "Very small position in Netflix. Stock in no man's land with zero momentum business-wise or stock-wise. Stuck in low 60s.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": "No clear momentum or catalyst; position remains very small for reason; no conviction shown by creator"
         }
       ],
       "avoids": [
-        {
-          "channel": "CouchInvestor",
-          "title": "4 Stocks in My Portfolio I Wouldn\u2019t Buy Right Now",
-          "url": "https://www.youtube.com/watch?v=J1BVUTa-52s",
-          "upload_date": "20261009",
-          "date_label": "09 Oct 2026",
-          "ticker": "NFLX",
-          "company_name": "Netflix Inc.",
-          "reason": "While Netflix is described as a well-run, profitable business with good margins (operating margin closing in on 30%, free cash flow margin 23.1%), the creator is not willing to buy more because growth is decelerating. The CEO has flagged unhappiness with company growth rates. Expected growth is only 10% by fiscal 2028, which is below the mid-teens growth rate the creator expects from a growth investment. The creator wants to see better results and improved growth trajectory before adding more shares.",
-          "risk": null
-        },
         {
           "channel": "CouchInvestor",
           "title": "SPACEX EARNINGS REPORT/CALL | NETFLIX EARNINGS | MARKET CLOSE",
@@ -8579,8 +8815,8 @@
         "analyst_buy": 11,
         "analyst_hold": 1,
         "analyst_sell": 0,
-        "analyst_target": 13.0,
-        "analyst_upside_pct": 212.5,
+        "analyst_target": 12.64,
+        "analyst_upside_pct": 203.8,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -8605,9 +8841,9 @@
     {
       "ticker": "NVDA",
       "company_name": "Nvidia Corporation",
-      "buy_count": 29,
+      "buy_count": 31,
       "avoid_count": 2,
-      "first_mention_date": "09 Oct 2026",
+      "first_mention_date": "13 Oct 2026",
       "price_at_first_mention": 228.52,
       "pct_change_since_rec": -18.3,
       "market": {
@@ -8649,19 +8885,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "CouchInvestor",
-          "title": "4 Stocks in My Portfolio I Wouldn\u2019t Buy Right Now",
-          "url": "https://www.youtube.com/watch?v=J1BVUTa-52s",
-          "upload_date": "20261009",
-          "date_label": "09 Oct 2026",
-          "ticker": "NVDA",
-          "company_name": "Nvidia Corporation",
-          "reason": "The creator mentions parking money in Nvidia as an alternative to AMD, suggesting it still has attractive growth prospects relative to valuation compared to AMD's current pricing. Nvidia is presented as having better value than AMD at current levels.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": null
-        },
         {
           "channel": "Ticker Symbol: YOU",
           "title": "Top Stocks I'm Buying To Get Rich Without Getting Lucky",
@@ -9025,6 +9248,45 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": "Concerns about credit drying up in the neo-cloud space and uncertainty around Nvidia's exact exposure and terms in the Anthropic/N Scale deal. The market is currently punishing the news. Final terms and exposures remain unconfirmed."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "The Market Is Crashing and I Just Bought $8,000 of These 4 Stocks",
+          "url": "https://www.youtube.com/watch?v=i8vFBCkcxqs",
+          "upload_date": "20261108",
+          "date_label": "08 Nov 2026",
+          "ticker": "NVDA",
+          "company_name": "Nvidia Corporation",
+          "reason": "The creator added 10 shares of Nvidia on Tuesday during the market dip. Nvidia is viewed as undervalued with significant growth potential remaining. The creator added to big tech companies that fluctuate less hard than higher-beta names like Nebius, making it a more stable core holding despite the market volatility.",
+          "when_to_buy": "On dips during market weakness; creator bought on Tuesday during the 6.18% portfolio decline",
+          "target_price": null,
+          "cautions": "Still maintains a smaller position size compared to higher-conviction plays like Nebius; lower beta means lower upside volatility than growth names"
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "The UNTHINKABLE is About to Happen to Stocks [Emergency Update]",
+          "url": "https://www.youtube.com/watch?v=f_cPnwd5TS0",
+          "upload_date": "20261108",
+          "date_label": "08 Nov 2026",
+          "ticker": "NVDA",
+          "company_name": "Nvidia Corporation",
+          "reason": "Nvidia is currently trading at 20 times forward earnings of next year and even less if considering 2028-2029 earnings, making it the cheapest it has been in at least 16 years. All while revenue is at all-time highs, EBITDA is at all-time highs, gross profit is at all-time highs, net income is at all-time highs, free cash flows are at all-time highs, earnings per share are at all-time highs, and the company has virtually no debt with a 0.17 debt-to-equity ratio. The company has compounded revenue at 100% per year for the last three years or 45% per year for the last 10 years. The creator believes this company will definitely be higher in 5 to 10 years given these fundamentals and valuations.",
+          "when_to_buy": "On market dips and corrections; creator is dollar cost averaging into positions on declines",
+          "target_price": null,
+          "cautions": null
+        },
+        {
+          "channel": "Jose Najarro Stocks",
+          "title": "Jensen Huang Affair and Nvidia Board Probe: What It Means for NVDA",
+          "url": "https://www.youtube.com/watch?v=XpvoTf97TsE",
+          "upload_date": "20261109",
+          "date_label": "09 Nov 2026",
+          "ticker": "NVDA",
+          "company_name": "Nvidia Corporation",
+          "reason": "Despite current volatility and personal scandals involving CEO Jensen Huang, the creator maintains that Nvidia's business fundamentals remain intact. The company has massive engineering resources, supply chain partners, and deep management teams capable of continuing operations without Jensen. Hyperscalers and neo-clouds will continue to buy Nvidia GPUs and systems regardless of CEO personal issues. The stock is trading at an extremely cheap valuation\u2014approximately 12.5 forward PE ratio as of the video date (down from 13.4 forward PE on Friday)\u2014even after a 3% overnight drop and 24% decline from October highs of $240. The creator explicitly states: 'my Nvidia thesis is still intact as long as the evidence hold. The team is deep. The man is there and the stock is extremely extreme cheap.'",
+          "when_to_buy": "Stock trading near $180 overnight as of video date; creator notes the 24% pullback from October highs presents valuation opportunity, though expects volatility through November 17-18 earnings and House briefing",
+          "target_price": null,
+          "cautions": "Two major risks identified: (1) CEO change risk\u2014if Jensen is forced to step down due to investigation findings, succession uncertainty could create stock volatility even if business fundamentals remain sound; (2) Policy and regulatory risk\u2014House briefing on November 18th could trigger volatility based on export control findings, potential national security concerns, or allegations of chip diversion to China. Creator emphasizes Jensen's credibility is damaged ('Jensen's word holds less weight now'), though company execution and filings still matter. Stock already down 24% from October highs and experiencing volatility. Expect significant price swings through earnings on November 17th and House briefing on November 18th."
         }
       ],
       "avoids": [
@@ -9056,7 +9318,7 @@
     {
       "ticker": "NWLI",
       "company_name": "Nubank (New Bank)",
-      "buy_count": 1,
+      "buy_count": 2,
       "avoid_count": 0,
       "first_mention_date": "07 Nov 2026",
       "price_at_first_mention": null,
@@ -9075,6 +9337,19 @@
           "when_to_buy": "Currently; creator has started a small position and plans to continue adding if price remains depressed",
           "target_price": null,
           "cautions": "Still a very small position in portfolio; creator is not making it a huge position due to overlap with Mercado Libre holdings (similar Brazil macro risks); Brazil political risk perceived but creator downplays it based on business continuity under current leadership; foreign bank valuations typically trade at discounts to domestic banks, though creator argues historical precedent supports higher multiples for New Bank"
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "The Market Is Crashing and I Just Bought $8,000 of These 4 Stocks",
+          "url": "https://www.youtube.com/watch?v=i8vFBCkcxqs",
+          "upload_date": "20261108",
+          "date_label": "08 Nov 2026",
+          "ticker": "NWLI",
+          "company_name": "New Holdings (Nu Holdings)",
+          "reason": "New Holdings reports over the next couple of days and got hit due to Brazilian election concerns. Creator views this as opportunity for long-term investors, noting that New Holdings and Mercado Libre have gone through various cycles in South America and became better companies through them. Not paying much attention to technical analysis into earnings.",
+          "when_to_buy": "Current dip due to Brazilian election concerns; creator views as opportunity",
+          "target_price": null,
+          "cautions": "Brazilian political uncertainty creating near-term volatility; election-driven selloff may be temporary"
         }
       ],
       "avoids": [],
@@ -9288,7 +9563,7 @@
         "ma200": 24.01,
         "ma_signal": "golden_cross",
         "pe_trailing": 13.622222,
-        "pe_forward": 13.800462,
+        "pe_forward": 13.265412,
         "peg_ratio": null,
         "revenue_growth": 0.721,
         "earnings_growth": null,
@@ -9301,8 +9576,8 @@
         "analyst_buy": 3,
         "analyst_hold": 7,
         "analyst_sell": 1,
-        "analyst_target": 37.1,
-        "analyst_upside_pct": 21.0,
+        "analyst_target": 37.0,
+        "analyst_upside_pct": 20.7,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -9431,8 +9706,8 @@
         "analyst_buy": 11,
         "analyst_hold": 2,
         "analyst_sell": 0,
-        "analyst_target": 23.84,
-        "analyst_upside_pct": 59.9,
+        "analyst_target": 23.92,
+        "analyst_upside_pct": 60.4,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -9495,8 +9770,8 @@
         "analyst_buy": 12,
         "analyst_hold": 8,
         "analyst_sell": 0,
-        "analyst_target": 23.37,
-        "analyst_upside_pct": 34.1,
+        "analyst_target": 23.32,
+        "analyst_upside_pct": 33.8,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -9984,7 +10259,7 @@
     {
       "ticker": "QQQ",
       "company_name": "Invesco QQQ Trust (NASDAQ-100 ETF)",
-      "buy_count": 1,
+      "buy_count": 2,
       "avoid_count": 2,
       "first_mention_date": "13 Oct 2026",
       "price_at_first_mention": 743.57,
@@ -10040,6 +10315,19 @@
           "when_to_buy": "On the current dip near the 200-day EMA at minus 9%",
           "target_price": null,
           "cautions": "The S&P 500 still has not taken out the September 16th FOMC low, and if that happens, QQQ could potentially take out July's FOMC low. Short-term between election day and end of year is a mixed bag with no clear edge."
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "The UNTHINKABLE is About to Happen to Stocks [Emergency Update]",
+          "url": "https://www.youtube.com/watch?v=f_cPnwd5TS0",
+          "upload_date": "20261108",
+          "date_label": "08 Nov 2026",
+          "ticker": "QQQ",
+          "company_name": "Invesco QQQ Trust",
+          "reason": "Creator is a big proponent of buying major US index funds on corrections. QQQ is currently down almost 14% from highs. Creator explicitly states he added to his QQQ position and will add more on further declines, recommending dollar cost averaging into index funds every minus 10% correction.",
+          "when_to_buy": "On every minus 10% correction from highs; will add more at minus 20% level near 634; creator already added at current -14% level",
+          "target_price": null,
+          "cautions": "Creator will not add significantly more until reaching minus 20% correction level"
         }
       ],
       "avoids": [
@@ -10160,8 +10448,8 @@
     {
       "ticker": "RDDT",
       "company_name": "Reddit Inc.",
-      "buy_count": 3,
-      "avoid_count": 5,
+      "buy_count": 4,
+      "avoid_count": 4,
       "first_mention_date": "13 Oct 2026",
       "price_at_first_mention": 155.29,
       "pct_change_since_rec": -38.8,
@@ -10242,20 +10530,22 @@
           "when_to_buy": "In buying zone; base support at $140",
           "target_price": "Ceiling at $153; resistance at $171",
           "cautions": "Key earnings will reveal progress on ARPU growth and AI data licensing deals. Needs to demonstrate advertiser demand strength similar to Meta for upside validation."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "The Market Is Crashing and I Just Bought $8,000 of These 4 Stocks",
+          "url": "https://www.youtube.com/watch?v=i8vFBCkcxqs",
+          "upload_date": "20261108",
+          "date_label": "08 Nov 2026",
+          "ticker": "RDDT",
+          "company_name": "Reddit Inc.",
+          "reason": "Stock got hit violently and is now cheap on paper. Growing company but still has question marks. Creator still waiting for more information on logged-in user push and potential data/AI licensing deal that could be announced. Believes stock will stay around current levels to form a base until positive catalyst hits.",
+          "when_to_buy": "Waiting for catalyst before adding; current levels forming base",
+          "target_price": null,
+          "cautions": "Still significant question marks on monetization; needs positive catalyst to rerate; AI data licensing uncertainty"
         }
       ],
       "avoids": [
-        {
-          "channel": "CouchInvestor",
-          "title": "4 Stocks in My Portfolio I Wouldn\u2019t Buy Right Now",
-          "url": "https://www.youtube.com/watch?v=J1BVUTa-52s",
-          "upload_date": "20261009",
-          "date_label": "09 Oct 2026",
-          "ticker": "RDDT",
-          "company_name": "Reddit Inc.",
-          "reason": "Despite Reddit being undervalued based on DCF analysis with reasonable valuations (26x forward PE, 0.7 PEG ratio, 20.4x price to free cash flow forward), the creator has only opened a small starter position and is not willing to add more. The key catalyst missing is news around AI data licensing deals \u2014 the creator believes Reddit's data is valuable and crucial to the investment thesis, but there is no clarity on whether third-party companies are actually paying Reddit for data usage.",
-          "risk": null
-        },
         {
           "channel": "CouchInvestor",
           "title": "AI Stocks Are Crashing. Here\u2019s What I\u2019m Actually Doing",
@@ -10647,8 +10937,8 @@
         "analyst_buy": 5,
         "analyst_hold": 1,
         "analyst_sell": 0,
-        "analyst_target": 138.14,
-        "analyst_upside_pct": 79.0,
+        "analyst_target": 123.71,
+        "analyst_upside_pct": 60.3,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -10686,7 +10976,7 @@
     {
       "ticker": "ROCKET",
       "company_name": "Rocket Lab USA Inc.",
-      "buy_count": 1,
+      "buy_count": 2,
       "avoid_count": 0,
       "first_mention_date": "18 Oct 2026",
       "price_at_first_mention": null,
@@ -10705,6 +10995,19 @@
           "when_to_buy": "Main buy zone is at current price around $50. Weekly simple moving average sits at $55, so could potentially drop a bit lower to get better entry. The creator bought more at these levels.",
           "target_price": null,
           "cautions": "Neutron got delayed yet again and will not launch until Q2 2027 at the earliest due to structural issues requiring changes and extended testing periods. The messaging from the company could have been better - they should have disclosed the extent of the delay upfront rather than delaying multiple times. Neutron is very important to the company's long-term thesis."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "The Market Is Crashing and I Just Bought $8,000 of These 4 Stocks",
+          "url": "https://www.youtube.com/watch?v=i8vFBCkcxqs",
+          "upload_date": "20261108",
+          "date_label": "08 Nov 2026",
+          "ticker": "ROCKET",
+          "company_name": "Rocket Lab USA Inc.",
+          "reason": "Rocket Lab reports Monday after hours. Creator expects okay-to-good report despite known delays in Neutron. Electron still doing very well. Could announce new Iridium satellite contracts. Creator confident it will be a good report because the big disappointment (Neutron delay) is already known and priced in. Expects management to discuss recent updates and address questions on Neutron timeline.",
+          "when_to_buy": "Current price around $53; reports Monday after hours",
+          "target_price": null,
+          "cautions": "Neutron delay is main risk; technical analysis not useful going into earnings; company needs to provide clear Neutron timeline to satisfy investors"
         }
       ],
       "avoids": [],
@@ -10738,7 +11041,7 @@
         "ma200": 425.53,
         "ma_signal": "golden_cross",
         "pe_trailing": 29.972885,
-        "pe_forward": 22.435078,
+        "pe_forward": 22.524523,
         "peg_ratio": 1.6,
         "revenue_growth": 0.007,
         "earnings_growth": 1.528,
@@ -10837,31 +11140,6 @@
       ],
       "avoids": [],
       "description": "Makes motion control, industrial drivetrain, and power management products for automation"
-    },
-    {
-      "ticker": "RUBK",
-      "company_name": "Rubrik Inc.",
-      "buy_count": 0,
-      "avoid_count": 1,
-      "first_mention_date": "09 Oct 2026",
-      "price_at_first_mention": null,
-      "pct_change_since_rec": null,
-      "market": null,
-      "buys": [],
-      "avoids": [
-        {
-          "channel": "CouchInvestor",
-          "title": "4 Stocks in My Portfolio I Wouldn\u2019t Buy Right Now",
-          "url": "https://www.youtube.com/watch?v=J1BVUTa-52s",
-          "upload_date": "20261009",
-          "date_label": "09 Oct 2026",
-          "ticker": "RUBK",
-          "company_name": "Rubrik Inc.",
-          "reason": "Although Rubrik is up 60.7% year-to-date and expected to grow above 20%, the stock has run up too fast and is extremely expensive at $25 billion valuation. The company is not profitable with negative operating margin of -18.3%, negative net profit margin of -16.5%, and negative Ebitda margin of -15.4%. Valuation metrics are extreme: 250x forward earnings and 12x PEG ratio. The creator believes a lot of future success and very good execution is baked into current pricing. The stock is described as priced to perfection and then some.",
-          "risk": "Stock crash risk if company fails to deliver earnings growth that justifies current valuation"
-        }
-      ],
-      "description": "Provides data backup, recovery, and ransomware protection software"
     },
     {
       "ticker": "RUBRIK",
@@ -11472,7 +11750,7 @@
         "ma200": 241.04,
         "ma_signal": "golden_cross",
         "pe_trailing": null,
-        "pe_forward": 91.13432,
+        "pe_forward": 90.6802,
         "peg_ratio": 4.94,
         "revenue_growth": 0.351,
         "earnings_growth": null,
@@ -11485,8 +11763,8 @@
         "analyst_buy": 44,
         "analyst_hold": 5,
         "analyst_sell": 2,
-        "analyst_target": 426.5,
-        "analyst_upside_pct": 54.6,
+        "analyst_target": 427.33,
+        "analyst_upside_pct": 54.9,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -11509,8 +11787,8 @@
     {
       "ticker": "SOFI",
       "company_name": "SoFi Technologies Inc.",
-      "buy_count": 7,
-      "avoid_count": 2,
+      "buy_count": 8,
+      "avoid_count": 1,
       "first_mention_date": "13 Oct 2026",
       "price_at_first_mention": 15.24,
       "pct_change_since_rec": 6.4,
@@ -11643,20 +11921,22 @@
           "when_to_buy": "One speaker bought at $17 in January and is willing to buy more if it declines to around $12-14",
           "target_price": null,
           "cautions": "SoFi was down significantly this year despite strong fundamentals, demonstrating that good companies can experience prolonged underperformance. The company expects two rate hikes in fiscal 2027, which could impact profitability."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "The Market Is Crashing and I Just Bought $8,000 of These 4 Stocks",
+          "url": "https://www.youtube.com/watch?v=i8vFBCkcxqs",
+          "upload_date": "20261108",
+          "date_label": "08 Nov 2026",
+          "ticker": "SOFI",
+          "company_name": "SoFi Technologies Inc.",
+          "reason": "Creator added 125 shares of SoFi on Tuesday. SoFi is viewed as a non-data-center-related fintech name that got hit hard but now sits in the buy zone at 16.21. This fintech name got caught in the broader selloff but offers value independent of the data center narrative.",
+          "when_to_buy": "Current price 16.21 is in the buy zone",
+          "target_price": "Support floor around 16.74; creator views current levels as attractive",
+          "cautions": "Still down considerably year-to-date; support level sits higher than current price at 16.74"
         }
       ],
       "avoids": [
-        {
-          "channel": "CouchInvestor",
-          "title": "4 Stocks in My Portfolio I Wouldn\u2019t Buy Right Now",
-          "url": "https://www.youtube.com/watch?v=J1BVUTa-52s",
-          "upload_date": "20261009",
-          "date_label": "09 Oct 2026",
-          "ticker": "SOFI",
-          "company_name": "SoFi Technologies Inc.",
-          "reason": "While SoFi is described as a great business that is doing well and is undervalued, the creator is not adding to the position due to macro headwinds affecting fintech names broadly. The stock's decline is macro-driven, not business-driven. Despite being bullish on SoFi and already holding a large position (up over 30%), the creator is choosing to wait to see if macro conditions improve and if the business can accelerate faster than market expectations.",
-          "risk": "Macro headwinds and rate hike expectations in 2027 could pressure the stock despite strong business fundamentals"
-        },
         {
           "channel": "Daniel Pronk",
           "title": "2 Stocks I'm Buying While The Market Crashes",
@@ -11912,6 +12192,70 @@
         }
       ],
       "description": "Suborbital spaceplane development and operations"
+    },
+    {
+      "ticker": "SPY",
+      "company_name": "SPDR S&P 500 ETF Trust",
+      "buy_count": 1,
+      "avoid_count": 0,
+      "first_mention_date": "08 Nov 2026",
+      "price_at_first_mention": 735.29,
+      "pct_change_since_rec": 0.0,
+      "market": {
+        "ticker": "SPY",
+        "name": "State Street SPDR S&P 500 ETF T",
+        "currency": "USD",
+        "sector": null,
+        "industry": null,
+        "market_cap": null,
+        "current_price": 735.29,
+        "daily_change_pct": 0.31,
+        "month_change_pct": -5.39,
+        "week52_high": 781.62,
+        "week52_high_date": "06 Oct 2026",
+        "week52_low": 629.28,
+        "week52_low_date": "30 Mar 2026",
+        "rsi": 35.2,
+        "rsi_label": "neutral",
+        "ma50": 765.15,
+        "ma200": 727.65,
+        "ma_signal": "golden_cross",
+        "pe_trailing": 23.39276,
+        "pe_forward": null,
+        "peg_ratio": null,
+        "revenue_growth": null,
+        "earnings_growth": null,
+        "free_cashflow": null,
+        "profit_margins": null,
+        "debt_to_equity": null,
+        "beta": null,
+        "short_percent": null,
+        "dividend_yield": 1.0,
+        "analyst_buy": null,
+        "analyst_hold": null,
+        "analyst_sell": null,
+        "analyst_target": null,
+        "analyst_upside_pct": null,
+        "earnings_date": null,
+        "earnings_days": null
+      },
+      "buys": [
+        {
+          "channel": "The Traveling Trader",
+          "title": "The UNTHINKABLE is About to Happen to Stocks [Emergency Update]",
+          "url": "https://www.youtube.com/watch?v=f_cPnwd5TS0",
+          "upload_date": "20261108",
+          "date_label": "08 Nov 2026",
+          "ticker": "SPY",
+          "company_name": "SPDR S&P 500 ETF Trust",
+          "reason": "Creator is a big proponent of buying major US index funds on corrections. SPY is currently down 6% from highs and has not yet reached the minus 10% correction threshold. Creator states he will be dollar cost averaging heavily into SPY once it reaches minus 10%.",
+          "when_to_buy": "Once SPY reaches minus 10% from highs, creator will dollar cost average heavily; will also add at minus 20% level",
+          "target_price": null,
+          "cautions": "Not yet at the minus 10% threshold as of video recording"
+        }
+      ],
+      "avoids": [],
+      "description": "Exchange-traded fund tracking the S&P 500 Index of large-cap US stocks"
     },
     {
       "ticker": "SYM",
@@ -12272,7 +12616,7 @@
         "ma200": 190.92,
         "ma_signal": "golden_cross",
         "pe_trailing": 25.379398,
-        "pe_forward": 29.460361,
+        "pe_forward": 29.457613,
         "peg_ratio": 0.3,
         "revenue_growth": 0.199,
         "earnings_growth": 3.451,
@@ -12373,7 +12717,7 @@
     {
       "ticker": "UBER",
       "company_name": "Uber Technologies Inc.",
-      "buy_count": 9,
+      "buy_count": 10,
       "avoid_count": 1,
       "first_mention_date": "13 Oct 2026",
       "price_at_first_mention": 71.32,
@@ -12533,6 +12877,19 @@
           "when_to_buy": "One speaker mentions potentially buying at $70 for a public portfolio",
           "target_price": null,
           "cautions": "Like all non-AI infrastructure plays, it lacks direct exposure to the AI capex cycle benefiting from memory and chip demand."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "The Market Is Crashing and I Just Bought $8,000 of These 4 Stocks",
+          "url": "https://www.youtube.com/watch?v=i8vFBCkcxqs",
+          "upload_date": "20261108",
+          "date_label": "08 Nov 2026",
+          "ticker": "UBER",
+          "company_name": "Uber Technologies Inc.",
+          "reason": "Uber reported with good report and good comments. Stock has been forming a base around high 60s to low 70s. Creator views this as solid business with good recent execution.",
+          "when_to_buy": "Current base around high 60s to low 70s",
+          "target_price": null,
+          "cautions": null
         }
       ],
       "avoids": [
@@ -12626,6 +12983,70 @@
       ],
       "avoids": [],
       "description": "ETF tracking large, mid-size and small U.S. information technology companies"
+    },
+    {
+      "ticker": "VOO",
+      "company_name": "Vanguard S&P 500 ETF",
+      "buy_count": 1,
+      "avoid_count": 0,
+      "first_mention_date": "08 Nov 2026",
+      "price_at_first_mention": 675.99,
+      "pct_change_since_rec": 0.0,
+      "market": {
+        "ticker": "VOO",
+        "name": "Vanguard S&P 500 ETF",
+        "currency": "USD",
+        "sector": null,
+        "industry": null,
+        "market_cap": null,
+        "current_price": 675.99,
+        "daily_change_pct": 0.3,
+        "month_change_pct": -5.37,
+        "week52_high": 718.47,
+        "week52_high_date": "06 Oct 2026",
+        "week52_low": 578.46,
+        "week52_low_date": "30 Mar 2026",
+        "rsi": 35.2,
+        "rsi_label": "neutral",
+        "ma50": 703.32,
+        "ma200": 668.73,
+        "ma_signal": "golden_cross",
+        "pe_trailing": 23.34822,
+        "pe_forward": null,
+        "peg_ratio": null,
+        "revenue_growth": null,
+        "earnings_growth": null,
+        "free_cashflow": null,
+        "profit_margins": null,
+        "debt_to_equity": null,
+        "beta": null,
+        "short_percent": null,
+        "dividend_yield": 1.07,
+        "analyst_buy": null,
+        "analyst_hold": null,
+        "analyst_sell": null,
+        "analyst_target": null,
+        "analyst_upside_pct": null,
+        "earnings_date": null,
+        "earnings_days": null
+      },
+      "buys": [
+        {
+          "channel": "The Traveling Trader",
+          "title": "The UNTHINKABLE is About to Happen to Stocks [Emergency Update]",
+          "url": "https://www.youtube.com/watch?v=f_cPnwd5TS0",
+          "upload_date": "20261108",
+          "date_label": "08 Nov 2026",
+          "ticker": "VOO",
+          "company_name": "Vanguard S&P 500 ETF",
+          "reason": "Creator recommends major US index funds like VOO as part of a balanced portfolio strategy, encouraging more people to own index funds rather than obsessing over individual stock picking.",
+          "when_to_buy": "On minus 10% corrections",
+          "target_price": null,
+          "cautions": null
+        }
+      ],
+      "avoids": [],
+      "description": "Tracks the S&P 500 index of large US companies"
     },
     {
       "ticker": "VOY",

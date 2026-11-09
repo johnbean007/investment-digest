@@ -35543,6 +35543,45 @@
       "price_at_recommendation": {
         "EWJ": 88.26
       }
+    },
+    "U2lrv2YBpeY": {
+      "channel": "CouchInvestor",
+      "title": "Why a $12.7 Billion Startup Deleted the Runway #shorts",
+      "upload_date": "20261109",
+      "url": "https://www.youtube.com/watch?v=U2lrv2YBpeY",
+      "processed_at": "2026-11-09T14:03:42.670559",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": []
+      },
+      "price_at_recommendation": {}
+    },
+    "QizCDo-YXuc": {
+      "channel": "FinTek",
+      "title": "Top Robotics Stock Supplier to BUY NOW",
+      "upload_date": "20261109",
+      "url": "https://www.youtube.com/watch?v=QizCDo-YXuc",
+      "processed_at": "2026-11-09T14:03:54.394297",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "6752",
+            "company_name": "Panasonic Corporation",
+            "reason": "Panasonic makes battery cells supplied to major builders like Tesla and signed a multi-year deal with Amazon to supply cells for their robo taxis. The company's energy business grew 43% year-over-year, demonstrating strong demand. The energy business is profitable for Panasonic, and the company is well-positioned to benefit as battery demand continues to rise in the robotics and electric vehicle sectors.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "A significant portion of the energy business growth was driven by backup battery supplies for data centers rather than robo taxi batteries specifically, which may not be as sustainable as growth in the primary robotics application."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": [
+          "6752"
+        ]
+      },
+      "price_at_recommendation": {}
     }
   },
   "channel_ids": {

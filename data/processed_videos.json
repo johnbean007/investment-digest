@@ -35582,6 +35582,59 @@
         ]
       },
       "price_at_recommendation": {}
+    },
+    "ru4tyw428JI": {
+      "channel": "CouchInvestor",
+      "title": "A \u20ac4M Missile to Kill a Cheap Drone. Helsing Is Aiming for Under \u20ac100K",
+      "upload_date": "20261110",
+      "url": "https://www.youtube.com/watch?v=ru4tyw428JI",
+      "processed_at": "2026-11-10T12:57:23.144978",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": []
+      },
+      "price_at_recommendation": {}
+    },
+    "r3tRjXz8JQE": {
+      "channel": "CouchInvestor",
+      "title": "Rocket Lab Raised Prices $15M on a Rocket That Never Flew",
+      "upload_date": "20261110",
+      "url": "https://www.youtube.com/watch?v=r3tRjXz8JQE",
+      "processed_at": "2026-11-10T12:57:32.334864",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Rocket Lab's Neutron rocket represents execution risk: the company has raised prices from $55M to $70M per launch for a rocket that has never flown, with the first launch now scheduled for 2027. While the company has signed eight missions at the new price point with seats booked into the 2030s, there is significant risk that a multi-year gap between booking and first flight could result in customer cancellations, schedule delays, or failure to achieve promised performance specifications. The scarcity in the space industry appears to be launch seats rather than rockets, creating potential oversupply risk if competitors successfully launch comparable offerings."
+        ],
+        "tickers_mentioned": []
+      },
+      "price_at_recommendation": {}
+    },
+    "sl0bbtbqPQA": {
+      "channel": "CouchInvestor",
+      "title": "I Get Paid to Promise My Shares Away",
+      "upload_date": "20261110",
+      "url": "https://www.youtube.com/watch?v=sl0bbtbqPQA",
+      "processed_at": "2026-11-10T12:57:39.458225",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": []
+      },
+      "price_at_recommendation": {}
+    },
+    "PGJrX-tRg7s": {
+      "channel": "The Traveling Trader",
+      "title": "\ud83d\udd34 Day Trading LIVE | CPI Inflation Report",
+      "upload_date": "20261110",
+      "url": "https://www.youtube.com/watch?v=PGJrX-tRg7s",
+      "processed_at": "2026-11-10T12:57:51.504206",
+      "transcript_fails": 1,
+      "last_reason": "error"
     }
   },
   "channel_ids": {
@@ -35594,5 +35647,7 @@
     "FinTek": "UCxdWHEhEPiYhCADMrn4PdhQ"
   },
   "last_eval_week": "2026-W46",
-  "alerts": {}
+  "alerts": {
+    "fallback": "2026-11-10T12:57:52.284210"
+  }
 }

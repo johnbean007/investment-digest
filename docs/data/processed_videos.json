@@ -35943,6 +35943,28 @@
         "tickers_mentioned": []
       },
       "price_at_recommendation": {}
+    },
+    "Dch3SfJmXN0": {
+      "channel": "Mr. FIRED Up Wealth",
+      "title": "Jensen Huang Resigns, What's Next for Nvidia, Best Stocks to Buy Now",
+      "upload_date": "20261112",
+      "url": "https://www.youtube.com/watch?v=Dch3SfJmXN0",
+      "processed_at": "2026-11-12T15:06:52.749356",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Nvidia (NVDA) faces severe near-term uncertainty due to CEO Jensen Huang's resignation following infidelity admissions and allegations of involvement in unauthorized chip shipments to China. The stock has fallen from $173 to $151-158 in pre-market trading (12%+ decline). Analyst downgrades are incoming with JP Morgan cutting price target from $320 to $215, Stifel from $315 to $205, and others following. The creator expects the stock could trade in the $125-150 range in the near term, with possible deeper declines to $110-120 depending on investigation findings. Market sentiment dominance (60-70% of short-term price action) combined with leadership uncertainty will create significant volatility. An independent board investigation outcome is pending, and earnings are scheduled for November 17th. The creator explicitly states 'if you can't stomach the possible scenarios, avoid the stock until there's clarity' and emphasizes that while fundamental business remains strong, sentiment-driven selling pressure will persist. No buy recommendation is offered; positioning depends entirely on individual risk tolerance for extended downside.",
+          "Broader market fragility with macro overhang. The creator states they have 'hated this year' despite making money, indicating difficult market conditions. Anthropic IPO scheduled for days ahead could lead to additional volatility. The AI capex cycle that has driven Nvidia and mega-cap growth stocks is expected to decelerate at some point, creating future headwinds for AI stocks when Wall Street shifts to forward guidance concerns."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "AMD",
+          "BROADCOM",
+          "TSLA"
+        ]
+      },
+      "price_at_recommendation": {}
     }
   },
   "channel_ids": {

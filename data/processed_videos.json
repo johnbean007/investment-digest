@@ -35965,6 +35965,25 @@
         ]
       },
       "price_at_recommendation": {}
+    },
+    "jfdPJWN6Qdc": {
+      "channel": "CouchInvestor",
+      "title": "Why Memory Chips Boom and Bust",
+      "upload_date": "20261112",
+      "url": "https://www.youtube.com/watch?v=jfdPJWN6Qdc",
+      "processed_at": "2026-11-12T16:10:45.137467",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Memory chip industry exhibits cyclical boom-bust patterns driven by structural overcapacity. When prices are high, all manufacturers simultaneously build new factories costing billions of dollars and taking years to complete. By the time factories come online, oversupply crashes prices, which then discourages new factory construction until prices spike again. This cycle repeats historically without fail. Micron exemplifies this volatility: fiscal 2023 revenue fell almost in half with a $5.8 billion loss, followed by record revenue over $37 billion two years later.",
+          "HBM (High Bandwidth Memory) demand from AI may temporarily disrupt the traditional cycle by creating contracted supply commitments sold out a year in advance. However, the video cautions that contracts delay cycles rather than stop them. Every memory boom in history has claimed that 'this time is different,' but the fundamental structural dynamics of the industry have always reasserted themselves. Investors should be skeptical of claims that AI demand has permanently altered the cyclical nature of memory chip markets."
+        ],
+        "tickers_mentioned": [
+          "MU"
+        ]
+      },
+      "price_at_recommendation": {}
     }
   },
   "channel_ids": {

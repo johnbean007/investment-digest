@@ -35707,11 +35707,13 @@
     "o7djftF74UM": {
       "channel": "CouchInvestor",
       "title": "NEBIUS Q3 EARNINGS REPORT BREAKDOWN!",
-      "upload_date": "20261111",
+      "upload_date": "20261112",
       "url": "https://www.youtube.com/watch?v=o7djftF74UM",
-      "processed_at": "2026-11-12T11:43:09.159778",
-      "transcript_fails": 3,
-      "last_reason": "error"
+      "processed_at": "2026-11-12T12:46:21.719473",
+      "transcript_fails": 4,
+      "last_reason": "unavailable",
+      "terminal": true,
+      "skipped": "no transcript"
     },
     "i4Rh8-uJ_Jw": {
       "channel": "CouchInvestor",

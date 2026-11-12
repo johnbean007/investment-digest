@@ -35635,6 +35635,225 @@
       "processed_at": "2026-11-10T12:57:51.504206",
       "transcript_fails": 1,
       "last_reason": "error"
+    },
+    "iun5ny7a3zQ": {
+      "channel": "CouchInvestor",
+      "title": "Why a $30,000 GPU Gets Old So Fast",
+      "upload_date": "20261112",
+      "url": "https://www.youtube.com/watch?v=iun5ny7a3zQ",
+      "processed_at": "2026-11-12T08:49:10.438721",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "GPU depreciation risk: AI chip depreciation schedules directly impact corporate profitability. Companies like Microsoft, Alphabet, CoreWeave, Amazon, and Nebius are adjusting their server depreciation estimates (ranging from 4-6 years), which affects how quickly costs are recognized. Nvidia releases new GPU generations roughly annually, causing previous-generation chips to lose performance value rapidly. However, older GPUs maintain some utility by being repurposed for less demanding tasks (e.g., training chips becoming chatbot servers), extending their revenue-generating life. The critical risk is that if actual useful life of a $30,000 GPU is significantly shorter than the depreciation schedule assumed in financial statements (e.g., 3 years vs. 6 years booked), companies will face unexpected write-downs and margin compression. Investors should monitor whether tech giants are adjusting their depreciation estimates downward, which would signal deteriorating GPU economics."
+        ],
+        "tickers_mentioned": [
+          "MSFT",
+          "GOOGL",
+          "AMZN",
+          "NVDA"
+        ]
+      },
+      "price_at_recommendation": {}
+    },
+    "o7djftF74UM": {
+      "channel": "CouchInvestor",
+      "title": "NEBIUS Q3 EARNINGS REPORT BREAKDOWN!",
+      "upload_date": "20261111",
+      "url": "https://www.youtube.com/watch?v=o7djftF74UM",
+      "processed_at": "2026-11-12T08:49:19.738536",
+      "transcript_fails": 1,
+      "last_reason": "error"
+    },
+    "i4Rh8-uJ_Jw": {
+      "channel": "CouchInvestor",
+      "title": "We Need To Talk About Nvidia, CoreWeave and Nebius Before Tomorrow",
+      "upload_date": "20261111",
+      "url": "https://www.youtube.com/watch?v=i4Rh8-uJ_Jw",
+      "processed_at": "2026-11-12T09:35:07.746106",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Nvidia is trading at a trailing PE of 21.9x and forward PE of 14.3x, which the creator considers very cheap for a fast-growing, highly profitable company. The market is expecting 91.2% revenue growth next quarter and 68-70% annual revenue growth, with major customers (OpenAI, Anthropic, Amazon, Google, Meta) continuing to buy chips. The roadmap for the next couple of years remains unchanged regardless of leadership uncertainties. Even if Jensen steps down, the creator believes Nvidia could follow an Apple-like succession story where the company remains well-run with strong products, and the core business thesis remains intact.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Leadership overhang risk due to Jensen Huang's acknowledged affair and potential involvement in export control evasion scandal involving Alice Huang. Board is conducting a 4-6 week review. Potential for tighter export policies and legal/political pressure. However, the creator believes these are short-term overhangs that do not change the fundamental business quality, as Nvidia is already highly profitable with proven products and committed customers."
+          },
+          {
+            "ticker": "CWEB",
+            "company_name": "CoreWeave",
+            "reason": "CoreWeave delivered excellent earnings with 168% year-over-year revenue growth and 42% quarter-over-quarter growth, beating guidance at $2.26 billion adjusted EBITDA with a 62% margin. The critical trend is that adjusted EBITDA margins, depreciation-amortization-to-revenue, and interest-expense-to-revenue are all improving every quarter after bottoming in Q1. The company has a massive $132.5 billion revenue backlog (up 138% YoY) with 36% due in next 24 months. Guidance was raised for full-year FY26 revenue to $13-13.3 billion. A major catalyst is the 300,000 paid-off GPUs coming off contract in 2027-2028 that can be resold at higher prices, potentially unlocking $10 billion of new annualized revenue without significant additional capex. The company is reaching a stage where it can grow without aggressively tapping debt markets.",
+            "when_to_buy": "Stock is down 29.3% year-to-date and 60% from 52-week highs; creator is bullish on reaching $100 over the next couple of months, referencing the stock's recent highs this year.",
+            "target_price": "$100",
+            "cautions": "Gap net loss still occurring; depreciation, amortization, and interest expenses remain high as a percent of revenue, though trending in right direction. Full positive net income not expected until 2028. Capex is elevated at $14.5 billion. High debt load remains a concern, though management indicated they won't exceed $5 billion in parent-level capital raises through 2027."
+          },
+          {
+            "ticker": "NEBIUS",
+            "company_name": "Nebius",
+            "reason": "Nebius reports earnings tomorrow and should benefit from the positive sentiment generated by Iran and CoreWeave's strong results. Market expectations are already extremely high with 520% year-over-year revenue growth expected, and there is no scenario where Nebius's numbers don't look incredibly good given the sector trends. The creator expects revenue growth to beat expectations and sees potential for Nebius to raise or meet 2027 ARR targets significantly, potentially exceeding $25 billion based on management commentary at GTC Berlin. With 1 gigawatt of Vera Rubin deployment planned for 2027 (back-half loaded, with full impact in 2028), combined with strong GPU pricing trends seen at CoreWeave and Iran, the creator expects Nebius to crush earnings tomorrow.",
+            "when_to_buy": "Creator is personally not buying before earnings despite high temptation, as stock has made very big moves after each quarterly report. Stock is down from recent highs but up 13-14% on the day (as of video recording). Creator already holds a big position and is considering only a small add around $150 (previous add was at $160).",
+            "target_price": null,
+            "cautions": "Stock is highly volatile around earnings announcements, making it a risky 'earnings gamble.' Previous quarters showed significant stock moves (up 20-30%) following reports. Creator recommends caution for those without existing positions, though for those with conviction the risk-reward may be worthwhile given the expected strong numbers."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Nvidia faces a major leadership and regulatory overhang related to the Jensen Huang affair and potential export control evasion involving Alice Huang's network allegedly moving $7.5 billion and 240,000 chips to Chinese firms. A congressional briefing is expected, and Jensen may testify before Congress next week. While the creator believes the business fundamentals remain strong, this could create a 2-6 month overhang of uncertainty and potential additional regulatory restrictions on exports. The core thesis remains intact, but stock prices could remain pressured near-term on headlines.",
+          "Recent weeks have seen significant 'fear mongering' and 'scary headlines' in the AI/semiconductor space, but the creator emphasizes that the fundamental thesis for semiconductors, AI cloud players, and big tech has not changed\u2014only valuations and stock prices have moved. Investors should distinguish between short-term volatility/sentiment and long-term business trajectory. Bad actors may deservedly fall from all-time highs, but quality companies with proven products remain attractive despite recent corrections."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "CWEB",
+          "NEBIUS"
+        ]
+      },
+      "price_at_recommendation": {
+        "NVDA": 173.73,
+        "CWEB": 16.88
+      }
+    },
+    "V7BXbfSqUN4": {
+      "channel": "CouchInvestor",
+      "title": "The Machine Behind Every Advanced AI Chip",
+      "upload_date": "20261111",
+      "url": "https://www.youtube.com/watch?v=V7BXbfSqUN4",
+      "processed_at": "2026-11-12T09:35:18.138617",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "ASML",
+            "company_name": "ASML Holding N.V.",
+            "reason": "ASML is the only company on Earth capable of building the extreme ultraviolet (EUV) lithography machines that are essential for manufacturing advanced AI chips. These machines cost over $200 million for current models and over $400 million for the newest versions, representing a critical bottleneck in the global semiconductor supply chain. Every advanced AI chip production depends on ASML's proprietary technology, giving the company monopolistic control over a foundational technology required for all AI development.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": [
+          "ASML"
+        ]
+      },
+      "price_at_recommendation": {
+        "ASML": 1534.42
+      }
+    },
+    "Nui9q9CkaUQ": {
+      "channel": "CouchInvestor",
+      "title": "Rocket Lab's Fairing Opens Like a Mouth Then Closes #shorts",
+      "upload_date": "20261111",
+      "url": "https://www.youtube.com/watch?v=Nui9q9CkaUQ",
+      "processed_at": "2026-11-12T09:35:25.441406",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": []
+      },
+      "price_at_recommendation": {}
+    },
+    "UoZ_PK4pXkI": {
+      "channel": "CouchInvestor",
+      "title": "Every Satellite Is Already Falling",
+      "upload_date": "20261111",
+      "url": "https://www.youtube.com/watch?v=UoZ_PK4pXkI",
+      "processed_at": "2026-11-12T09:35:34.980674",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Satellite constellation maintenance creates a perpetual launch requirement that represents a recurring subscription-like cost model. The video illustrates that a 10,000-satellite constellation with 5-year lifespans requires replacing approximately 2,000 satellites annually indefinitely just to maintain current capacity. This structural economics means satellite operators must continuously contract launch services, making long-term profitability dependent on sustained launch provider access and pricing. The key insight is that satellite constellations are not finished products but require permanent operational expenditure, which creates potential financial strain for operators and concentrated economic power with launch providers who 'collect on that subscription.'"
+        ],
+        "tickers_mentioned": []
+      },
+      "price_at_recommendation": {}
+    },
+    "HSKsXRvCqY0": {
+      "channel": "CouchInvestor",
+      "title": "COREWEAVE Q3 EARNINGS REPORT BREAKDOWN",
+      "upload_date": "20261110",
+      "url": "https://www.youtube.com/watch?v=HSKsXRvCqY0",
+      "processed_at": "2026-11-12T09:36:06.498494",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "CWEV",
+            "company_name": "CoreWeave",
+            "reason": "CoreWeave delivered a quadruple beat on Q3 earnings with revenue of $3.7B (vs. $3.54B expected), adjusted EBITDA of $2.26B (vs. $2.05B expected), operating income of $207M (vs. $63M expected), and EPS loss of $1.27 (vs. $1.46 expected). The company is growing revenue 168% year-over-year with adjusted operating margins expanding to 10% (a quarter ahead of plan). Revenue backlog reached $133B (up from $104B), demonstrating exceptional customer demand. The business model is sound with $9B in customer prepayments expected in the next 3 months and the company already paying down $4B in debt. Management raised 2026 revenue guidance to $13-13.3B and expects to exit 2026 with $20-21B in ARR. The company has 10x as much qualified demand as available capacity through end of 2027, with 10% of Fortune 500 companies now as customers. CoreWeave is positioned as the Neo Cloud winner with more active compute than SpaceX, trading at only $25B market cap versus $133B backlog.",
+            "when_to_buy": "After market open following earnings; stock was up 5.9% after hours during the call",
+            "target_price": null,
+            "cautions": "Debt is growing faster than revenue (255% debt growth vs. 168% revenue growth year-over-year). The company carries $65B in total debt with only $4B in cash, requiring $1B+ in quarterly interest payments. Interest expense is expected to exceed $1B in Q4 2026. The business model is highly dependent on continued access to capital markets and ability to execute construction timelines. If the company misses on capex deployment, delays revenue recognition, or cannot refinance debt at attractive rates, the stock could face significant pressure. Stock has already been cut in half from recent highs due to broader AI market weakness. Success requires flawless execution and continued strong customer demand."
+          },
+          {
+            "ticker": "NEBS",
+            "company_name": "Nebius",
+            "reason": "Mentioned as the analysts' preferred Neo Cloud winner over CoreWeave. Nebius is taking on much less risk while growing faster, with expected 2027 ARR of approximately $23B. The company represents a less leveraged way to play the Neo Cloud infrastructure buildout with potentially better risk-adjusted returns compared to CoreWeave's higher debt load.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Nebius was up only 5% after hours, suggesting more muted market enthusiasm. No specific details on current valuation, debt levels, or competitive positioning versus CoreWeave were provided in the video."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Nvidia is under severe investigation for alleged export control violations, involvement in chip smuggling to China through shell companies, and CEO Jensen Huang is facing serious personal and professional allegations. The New York Times and Bloomberg reported that Jensen Huang allegedly had a romantic relationship with an alleged Chinese intelligence officer, raising national security concerns. Nvidia was caught in multiple lies: initially denying the affair through its spokesman, then the board pre-judging an independent investigation by stating national security was not compromised before the investigation even began. Subsequent reporting suggests potential illegal funneling of chips to China and attempted interference with Commerce Department investigations into Megaspeed. The DOJ has a track record of prosecuting similar cases with 20-year jail sentences. Jensen Huang is scheduled to testify before Congress the day after Nvidia earnings, facing multiple ongoing investigations. The stock has fallen to a 10-year low forward P/E multiple and is down 5.8% on the day of this call (168 to 158). Expert analysis suggests Jensen Huang cannot survive as CEO given the magnitude of potential legal exposure, though there is a small probability he could remain if he finds a fall guy or if presidential pardon occurs.",
+            "risk": "Stock down to 10-year low forward P/E valuation; could face further downside if Jensen is forced out, if investigation reveals broader Nvidia involvement in export control violations, or if capex plans are curtailed due to regulatory restrictions. Downside could be significant if criminal charges are filed against Nvidia as an entity or if major customer contracts are cancelled due to reputational/regulatory concerns."
+          },
+          {
+            "ticker": "MSFT",
+            "company_name": "Microsoft Corporation",
+            "reason": "Microsoft was down on the day Anthropic announced new AI products including a competitor to Microsoft Word and Office ecosystem products. Anthropic launched new AI-powered tools for documents, spreadsheets, and presentations while also unveiling an AI agent for taking meeting notes (competing with Microsoft Teams/Copilot). While the presenters acknowledged Microsoft's strong bundling and existing Copilot integration, the announcement represents competitive pressure in the productivity software space where Microsoft has historically dominated.",
+            "risk": "Increased competition from Anthropic in productivity software markets. However, analysts noted that competitors like Google Sheets and others have existed for years, and Microsoft's integrated bundling strategy may insulate it from immediate disruption."
+          }
+        ],
+        "key_warnings": [
+          "The AI infrastructure market is experiencing a significant downturn. Nvidia, the cornerstone semiconductor company for AI, took its worst hit since March 2024 (down 5.8%), dragging down the entire Neo Cloud sector. Market sentiment has shifted from exuberance to what analysts call an 'AI mini bear market' with unprecedented bearishness on AI names not seen in years.",
+          "The Federal Reserve is likely to raise rates by 25-50 basis points in December following a hotter-than-expected CPI report. Rising interest rates directly impact leveraged companies like CoreWeave, increasing debt service costs and making capital raising more expensive. The weighted average cost of CoreWeave's debt is 7.9%, and unsecured debt is now yielding 15-17% in the market.",
+          "Capital markets have become significantly more hostile to AI infrastructure companies. CoreWeave bonds are trading at 15-17% yields (up from 9.2%), indicating severe loss of confidence. Unsecured debt markets are essentially closed to companies at current yields. This creates refinancing risk and forces reliance on secured asset-level financing which limits flexibility.",
+          "Supply-demand dynamics for GPU capacity are uncertain. While CoreWeave management is extremely bullish, there is material concern across Wall Street that substantial new supply is coming online in 2025-2026 that could overwhelm demand. The 'wall of supply' thesis suggests normalized or oversupply could arrive faster than consensus expects, which would compress margins and reduce pricing power across the sector.",
+          "Macro environment weakness is impacting multiple sectors beyond AI. Costco announced a record $30 special dividend, suggesting corporate cash is being deployed defensively. Multiple analysts reference being in a 'mini timeout' on AI names and investors gravitating toward 'safer platforms' like Amazon and Microsoft for near-term capital deployment.",
+          "Jensen Huang's legal situation creates headline risk and uncertainty for the entire semiconductor sector. Ongoing investigations, Congressional testimony, and potential prosecution create daily negative newsflow that could trigger capitulation in AI-related stocks. The timing (day after Nvidia earnings, before Congressional testimony) suggests volatility will persist.",
+          "Neo Cloud companies are highly capital intensive and dependent on continued access to debt markets at reasonable rates. Any tightening of credit conditions, rating downgrades, or loss of investor confidence could force dilutive equity raises or project delays. The sector is fragile to adverse macro shifts."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "AMD",
+          "BROADCOM",
+          "MSFT",
+          "GOOGL",
+          "CWEV",
+          "NEBS",
+          "RGEN",
+          "SONO",
+          "ORCL",
+          "COST",
+          "SMCI",
+          "AMZN"
+        ]
+      },
+      "price_at_recommendation": {
+        "NVDA": 173.73,
+        "MSFT": 521.12
+      }
+    },
+    "GFcwZgsYUcw": {
+      "channel": "CouchInvestor",
+      "title": "Why Rockets Are Mostly Fuel",
+      "upload_date": "20261110",
+      "url": "https://www.youtube.com/watch?v=GFcwZgsYUcw",
+      "processed_at": "2026-11-12T09:36:13.470174",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": []
+      },
+      "price_at_recommendation": {}
     }
   },
   "channel_ids": {
@@ -35648,6 +35867,6 @@
   },
   "last_eval_week": "2026-W46",
   "alerts": {
-    "fallback": "2026-11-10T12:57:52.284210"
+    "fallback": "2026-11-12T09:36:16.708320"
   }
 }

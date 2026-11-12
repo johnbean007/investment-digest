@@ -35709,8 +35709,8 @@
       "title": "NEBIUS Q3 EARNINGS REPORT BREAKDOWN!",
       "upload_date": "20261111",
       "url": "https://www.youtube.com/watch?v=o7djftF74UM",
-      "processed_at": "2026-11-12T10:39:16.151376",
-      "transcript_fails": 2,
+      "processed_at": "2026-11-12T11:43:09.159778",
+      "transcript_fails": 3,
       "last_reason": "error"
     },
     "i4Rh8-uJ_Jw": {
@@ -35925,6 +35925,20 @@
           "META",
           "TASA"
         ]
+      },
+      "price_at_recommendation": {}
+    },
+    "jWiWdUmArfQ": {
+      "channel": "CouchInvestor",
+      "title": "Blue Origin Built a Nose That Fits a Whole Rocket #shorts",
+      "upload_date": "20261112",
+      "url": "https://www.youtube.com/watch?v=jWiWdUmArfQ",
+      "processed_at": "2026-11-12T11:43:00.220223",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": []
       },
       "price_at_recommendation": {}
     }

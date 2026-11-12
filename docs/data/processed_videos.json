@@ -35632,9 +35632,56 @@
       "title": "\ud83d\udd34 Day Trading LIVE | CPI Inflation Report",
       "upload_date": "20261110",
       "url": "https://www.youtube.com/watch?v=PGJrX-tRg7s",
-      "processed_at": "2026-11-10T12:57:51.504206",
-      "transcript_fails": 1,
-      "last_reason": "error"
+      "processed_at": "2026-11-12T10:39:47.148666",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "The creator states his cost base is below $100 and suggests it's a good time to buy Nvidia, describing it as a buying opportunity amid market fear. Despite recent weakness (down 30% over six consecutive weeks), he views the current dip as a potential entry point. He acknowledges that even if CEO Jensen Huang were to face legal issues related to alleged chip shipments to China, there is precedent from Apple, Microsoft, and Amazon showing that companies can thrive after CEO transitions if competent leadership is in place.",
+            "when_to_buy": "Current levels after correction; creator has personal cost base below $100",
+            "target_price": "Creator expects Nvidia to trade in the 160s (per discussion of price levels), though this appears to be a near-term support level rather than a bullish target",
+            "cautions": "Nvidia has declined 30% over six straight weeks. There is a potential legal/national security concern regarding alleged $7.5 billion in chip shipments to China facilitated by the company, though the creator does not believe this was intentional. CEO succession risk exists, though historical precedent suggests limited long-term damage if leadership transition occurs. The semiconductor sector is highly interest-rate sensitive."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices",
+            "reason": "The creator dismisses speculation that AMD could become the semiconductor industry leader, stating emphatically 'No, it can't. Dude, you crazy.' He points out that Nvidia is a $4 trillion company while AMD has a market cap of approximately $851 billion, making any near-term leadership challenge from AMD unrealistic given the massive valuation gap.",
+            "risk": "Market cap disparity makes competitive threat unrealistic; limited upside potential relative to Nvidia"
+          }
+        ],
+        "key_warnings": [
+          "CPI inflation report came in hotter than expected (0.4% month-over-month vs. 0.3% forecast; core CPI 0.3% vs. 0.2% forecast), suggesting the Federal Reserve will likely maintain or accelerate interest rate hikes. Fed Governor Christopher Waller indicated potential for 50 basis point hikes if inflation remains elevated.",
+          "The creator identifies residual seasonality issues in CPI data \u2014 the government has not properly corrected for seasonal patterns, with January historically seeing natural inflation spikes as companies pass along price pressures. This suggests CPI numbers could look even hotter starting in January.",
+          "Oil prices have crashed over the last 6-7 trading days but remain significantly higher year-over-year. Approximately one-third of global refining capacity is shut down (between Russia-Ukraine war and Iran situation), meaning refined products will likely remain sticky even if crude oil prices decline further. This will keep food and energy costs elevated longer than expected.",
+          "Higher interest rates will compress valuations across the market, particularly in growth and technology stocks. Short rates moving higher and long rates expected to move higher will make it difficult to justify bullish multiple expansion. Earnings may be up 14% next year but multiple compression is likely.",
+          "The AI trade and capital expenditure cycle are highly interest-rate sensitive. Hyperscalers are raising debt capital regularly, and if rates continue rising, capex spending may slow. If the AI capex buildout broadens into the wider economy, this could tighten the labor market further, pushing unemployment below 4% and forcing even more aggressive Fed action.",
+          "The creator maintains a bearish near-term outlook, expecting the S&P 500 (SPY) to eventually take out the July FOMC low and the Nasdaq (QQQ) to drop to approximately the 634 level. While he expects eventual recovery (citing 2018 precedent where bottoming occurred on Christmas Eve followed by 67% rally), he does not believe the current correction is over.",
+          "Gamma positioning is inconclusive due to significant hedging activity around CPI data release, making typical gamma-based level analysis unreliable on data days.",
+          "Political uncertainty surrounding the AI trade creates additional headwinds for the technology sector beyond just interest rate sensitivity."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "AMD",
+          "INTC",
+          "SPY",
+          "QQQ",
+          "ENQ",
+          "MNQ",
+          "ES",
+          "SOXS",
+          "BRCM",
+          "MRVL",
+          "BABA",
+          "VIX"
+        ]
+      },
+      "price_at_recommendation": {
+        "NVDA": 173.73,
+        "AMD": 552.9
+      }
     },
     "iun5ny7a3zQ": {
       "channel": "CouchInvestor",
@@ -35662,8 +35709,8 @@
       "title": "NEBIUS Q3 EARNINGS REPORT BREAKDOWN!",
       "upload_date": "20261111",
       "url": "https://www.youtube.com/watch?v=o7djftF74UM",
-      "processed_at": "2026-11-12T08:49:19.738536",
-      "transcript_fails": 1,
+      "processed_at": "2026-11-12T10:39:16.151376",
+      "transcript_fails": 2,
       "last_reason": "error"
     },
     "i4Rh8-uJ_Jw": {
@@ -35852,6 +35899,32 @@
         "stocks_to_avoid": [],
         "key_warnings": [],
         "tickers_mentioned": []
+      },
+      "price_at_recommendation": {}
+    },
+    "fpJfxrgZz1o": {
+      "channel": "Daniel Pronk",
+      "title": "Nvidia Stock Is Crashing - Here's What You Need To Know",
+      "upload_date": "20261111",
+      "url": "https://www.youtube.com/watch?v=fpJfxrgZz1o",
+      "processed_at": "2026-11-12T10:39:25.921687",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Nvidia faces significant uncertainty related to CEO Jensen Huang's personal conduct and alleged national security concerns involving chip diversion to China. While the creator believes the affair itself is unlikely to permanently damage long-term fundamentals, the lack of a succession plan creates substantial risk if Jensen were forced to step down, as he has 60 directors reporting directly to him and is deeply intertwined with the company's vision and government relationships.",
+          "Nvidia's competitive moat is at risk from Amazon, Google, and AMD competition. While Nvidia will likely continue growing its top-line revenue due to strong AI demand, the creator questions whether monopoly-like margins are sustainable long-term. Competitors may eventually catch up in technology and compete on price, eroding Nvidia's pricing power and margins.",
+          "The AI buildout cycle will eventually slow down. The creator believes hyperscalers cannot indefinitely increase capex spending on AI infrastructure. When the buildout slows, chip businesses historically see slowdowns or declines in fundamentals, similar to previous cycles. This cycle is expected to last approximately four more years before a potential slowdown.",
+          "At a 15x forward P/E ratio, Nvidia is priced for significant growth to justify valuations. The creator's DCF model shows only an 18% compounded annual growth rate over 8 years based on analyst estimates, which is solid but more uncertain than other market opportunities and not exceptional from a long-term perspective. The valuation depends entirely on whether analyst projections of $640 billion in earnings by 2031 actually materialize."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "AMZN",
+          "GOOGL",
+          "AMD",
+          "META",
+          "TASA"
+        ]
       },
       "price_at_recommendation": {}
     }

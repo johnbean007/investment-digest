@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12T09:39:04.468555",
-  "video_count": 138,
+  "generated_at": "2026-11-12T10:42:49.891009",
+  "video_count": 140,
   "stock_count": 185,
   "stocks": [
     {
@@ -486,7 +486,7 @@
       "ticker": "AMD",
       "company_name": "Advanced Micro Devices",
       "buy_count": 15,
-      "avoid_count": 3,
+      "avoid_count": 4,
       "first_mention_date": "13 Oct 2026",
       "price_at_first_mention": 605.53,
       "pct_change_since_rec": -8.7,
@@ -758,6 +758,17 @@
           "company_name": "Advanced Micro Devices Inc.",
           "reason": "While AMD does generate free cash flow and is growing faster than Intel, the creator takes a cautious stance, noting they have never been highly bullish on AMD and are much more bullish on Nvidia. The stock rose to $680 from enthusiasm but has since declined to $530, yet the creator would not buy it even at $530 pre-earnings, suggesting the valuation remains elevated relative to risk/reward. AMD's midterm targets suggest the market may need to reassess where fair value actually is after the euphoric move.",
           "risk": "Stock trading down from $680 highs but creator remains negative despite significant decline. Similar to AMD's history, overpaid valuations do not necessarily mean stocks will recover to previous highs. Sentiment on AMD remains negative even after the substantial dip, suggesting more downside risk exists."
+        },
+        {
+          "channel": "The Traveling Trader",
+          "title": "\ud83d\udd34 Day Trading LIVE | CPI Inflation Report",
+          "url": "https://www.youtube.com/watch?v=PGJrX-tRg7s",
+          "upload_date": "20261110",
+          "date_label": "10 Nov 2026",
+          "ticker": "AMD",
+          "company_name": "Advanced Micro Devices",
+          "reason": "The creator dismisses speculation that AMD could become the semiconductor industry leader, stating emphatically 'No, it can't. Dude, you crazy.' He points out that Nvidia is a $4 trillion company while AMD has a market cap of approximately $851 billion, making any near-term leadership challenge from AMD unrealistic given the massive valuation gap.",
+          "risk": "Market cap disparity makes competitive threat unrealistic; limited upside potential relative to Nvidia"
         }
       ],
       "description": "Designs and manufactures CPUs, GPUs, and AI accelerators for data centers"
@@ -1545,8 +1556,8 @@
         "analyst_buy": 38,
         "analyst_hold": 4,
         "analyst_sell": 1,
-        "analyst_target": 2128.48,
-        "analyst_upside_pct": 38.7,
+        "analyst_target": 2129.42,
+        "analyst_upside_pct": 38.8,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -5931,19 +5942,19 @@
         "pe_trailing": 7.9010606,
         "pe_forward": 0.0131462915,
         "peg_ratio": null,
-        "revenue_growth": 0.136,
-        "earnings_growth": 0.002,
-        "free_cashflow": -612422385664,
-        "profit_margins": 0.24152,
+        "revenue_growth": -0.006,
+        "earnings_growth": 0.014,
+        "free_cashflow": null,
+        "profit_margins": 0.24120001,
         "debt_to_equity": 22.171,
         "beta": 0.23,
-        "short_percent": 0.0073,
-        "dividend_yield": 6.41,
+        "short_percent": 0.0069999998,
+        "dividend_yield": 6.42,
         "analyst_buy": 4,
         "analyst_hold": 3,
         "analyst_sell": 0,
-        "analyst_target": 106.14,
-        "analyst_upside_pct": 18.7,
+        "analyst_target": 106.08,
+        "analyst_upside_pct": 18.6,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -8842,7 +8853,7 @@
     {
       "ticker": "NVDA",
       "company_name": "Nvidia Corporation",
-      "buy_count": 32,
+      "buy_count": 33,
       "avoid_count": 3,
       "first_mention_date": "13 Oct 2026",
       "price_at_first_mention": 228.52,
@@ -9290,6 +9301,19 @@
           "cautions": "Two major risks identified: (1) CEO change risk\u2014if Jensen is forced to step down due to investigation findings, succession uncertainty could create stock volatility even if business fundamentals remain sound; (2) Policy and regulatory risk\u2014House briefing on November 18th could trigger volatility based on export control findings, potential national security concerns, or allegations of chip diversion to China. Creator emphasizes Jensen's credibility is damaged ('Jensen's word holds less weight now'), though company execution and filings still matter. Stock already down 24% from October highs and experiencing volatility. Expect significant price swings through earnings on November 17th and House briefing on November 18th."
         },
         {
+          "channel": "The Traveling Trader",
+          "title": "\ud83d\udd34 Day Trading LIVE | CPI Inflation Report",
+          "url": "https://www.youtube.com/watch?v=PGJrX-tRg7s",
+          "upload_date": "20261110",
+          "date_label": "10 Nov 2026",
+          "ticker": "NVDA",
+          "company_name": "Nvidia Corporation",
+          "reason": "The creator states his cost base is below $100 and suggests it's a good time to buy Nvidia, describing it as a buying opportunity amid market fear. Despite recent weakness (down 30% over six consecutive weeks), he views the current dip as a potential entry point. He acknowledges that even if CEO Jensen Huang were to face legal issues related to alleged chip shipments to China, there is precedent from Apple, Microsoft, and Amazon showing that companies can thrive after CEO transitions if competent leadership is in place.",
+          "when_to_buy": "Current levels after correction; creator has personal cost base below $100",
+          "target_price": "Creator expects Nvidia to trade in the 160s (per discussion of price levels), though this appears to be a near-term support level rather than a bullish target",
+          "cautions": "Nvidia has declined 30% over six straight weeks. There is a potential legal/national security concern regarding alleged $7.5 billion in chip shipments to China facilitated by the company, though the creator does not believe this was intentional. CEO succession risk exists, though historical precedent suggests limited long-term damage if leadership transition occurs. The semiconductor sector is highly interest-rate sensitive."
+        },
+        {
           "channel": "CouchInvestor",
           "title": "We Need To Talk About Nvidia, CoreWeave and Nebius Before Tomorrow",
           "url": "https://www.youtube.com/watch?v=i4Rh8-uJ_Jw",
@@ -9704,8 +9728,8 @@
         "analyst_buy": 11,
         "analyst_hold": 2,
         "analyst_sell": 0,
-        "analyst_target": 23.66,
-        "analyst_upside_pct": 58.6,
+        "analyst_target": 23.68,
+        "analyst_upside_pct": 58.7,
         "earnings_date": null,
         "earnings_days": null
       },

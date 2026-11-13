@@ -36064,9 +36064,97 @@
       "title": "\ud83d\udd34 Day Trading LIVE | PPI Inflation Report",
       "upload_date": "20261113",
       "url": "https://www.youtube.com/watch?v=SmAZJ6R-evM",
-      "processed_at": "2026-11-13T11:23:22.036320",
-      "transcript_fails": 2,
-      "last_reason": "error"
+      "processed_at": "2026-11-13T22:55:10.148669",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "The creator established a bearish thesis on Nvidia based on multiple factors: (1) Jensen Huang's resignation creates uncertainty about future leadership and company direction under interim CFO Colette Kress; (2) The stock broke below previous support levels and is likely to retest the lows of the news candle from Jensen's departure announcement; (3) Potential revenue implications from investigation into export control violations related to chip sales to China\u2014if proven that chips were illegally funneled to China under Jensen's watch, those revenues would need to be written off; (4) The interim CEO's historically prudent approach to financing may curtail circular financing deals with Anthropic and OpenAI that have artificially inflated reported revenues; (5) News candles typically get swept on both sides, and the high of the Jensen resignation candle was already taken out, suggesting the low will be taken next. The creator bought puts targeting the low of the news candle and noted the stock traded at $150 yesterday (38% down from highs), presenting further downside risk.",
+            "risk": "The creator expects the stock to test and potentially sweep the low of the news candle from Jensen's departure. Puts were positioned to capture this move. Further downside possible if China export control investigation yields negative results or if new leadership makes restrictive financing decisions that reduce reported revenues."
+          },
+          {
+            "ticker": "SOXS",
+            "company_name": "Direxion Daily Semiconductor Bear 3X Shares",
+            "reason": "The creator criticized shorting the inverse leveraged ETF (SOXS) as a 'backwards way of trading.' While betting on semiconductor weakness, using an inverse leveraged ETF creates structural decay and amplified losses. The creator's specific criticism was that one viewer was using SOXS shorts when they should be using direct shorts or puts on semiconductor stocks instead.",
+            "risk": "Inverse leveraged ETFs experience natural decay over time. SOXS is designed for short-term tactical trades only, not position holding. Structural underperformance vs. direct short positions in the underlying sector."
+          },
+          {
+            "ticker": "SQQ",
+            "company_name": "Direxion Daily Nasdaq-100 Bear 3X Shares",
+            "reason": "The creator strongly advised against buying and holding SQQ as an investment strategy. He showed the chart declining from $10 million (reverse split adjusted) to $43, demonstrating the catastrophic erosion of capital from holding an inverse 3x leveraged ETF long-term. He stated: 'If you're saying is buying this a good strategy, what part of this does it look like a good strategy?' This is strictly a short-term trading vehicle, not an investment tool. For young people specifically, the creator argued this defeats the purpose of having time to compound growth.",
+            "risk": "Inverse leveraged ETFs decay dramatically over time due to daily rebalancing mechanics. Holding SQQ as an investment will result in permanent capital loss even if the underlying index recovers. The chart shows losses of 99.57% from peak to current levels on a reverse split-adjusted basis."
+          },
+          {
+            "ticker": "NETFLIX",
+            "company_name": "Netflix Inc.",
+            "reason": "The creator described Netflix as 'a very very very uneventful, non-exciting company' with 'decent fundamentals, but no reason for it to trade at growth multiples.' Specific concerns: (1) Free cash flow is stagnant\u2014the company no longer reports user growth; (2) The recent bump in profitability was a one-time event from advertising rebate, lasting only two quarters; (3) Revenue growth is flat. While trading at a reasonable 17x PE with 27% return on invested capital and 21% annual revenue compounding, there is no catalyst for multiple expansion.",
+            "risk": "No upside catalyst identified. Multiple contraction risk if growth fails to materialize. Stock is priced appropriately for current fundamentals with limited appreciation potential."
+          },
+          {
+            "ticker": "HOOD",
+            "company_name": "Robinhood Markets Inc.",
+            "reason": "The creator analyzed Robinhood's latest earnings and found deteriorating fundamentals: (1) Revenue growth slowed to 12% in Q3 from 32% in Q2\u2014a dramatic deceleration; (2) Net interest revenue fell 9%; (3) Cash balances dropped 9%; (4) Trading volumes are lower. Despite the decline in fundamentals, the stock fell from $89 to $69 but is now trading at 41.8x PE, which the creator stated is fairly valued or overvalued relative to the deteriorating business metrics.",
+            "risk": "Deceleration in all key metrics suggests further downside if trends continue. High valuation multiple (41.8x PE) leaves little room for error. Lower trading volumes and falling cash balances indicate weakness in core business."
+          },
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet Inc. (Google)",
+            "reason": "When asked if he would buy Google calls, the creator dismissed the idea as random trading without a thesis. He stated 'I like Google. I just don't see the need to buy calls here. There's no setup here.' The creator did not provide detailed fundamental criticism but indicated no technical or fundamental setup exists to justify directional bullish positioning at current levels.",
+            "risk": "No identified technical setup or catalyst for upside. Buying calls would represent speculative positioning without thesis."
+          },
+          {
+            "ticker": "UBER",
+            "company_name": "Uber Technologies Inc.",
+            "reason": "The creator grouped Uber with Netflix, Nike, Lululemon, SoFi as stocks with 'decent fundamentals' but 'nothing really exciting.' He stated: 'All these stocks are in the same bucket' and later clarified 'Uber looks like [ __ ] too.' While not elaborated in detail, he indicated no bullish thesis or setup exists at current levels.",
+            "risk": "Stagnant or unexciting business dynamics. No identified catalyst for appreciation."
+          }
+        ],
+        "key_warnings": [
+          "The semiconductor sector (SMH, SOXL) is showing severe weakness. The creator identified SMH with a gamma level at $475 (for 0 DTE options), which was hit during the live stream. SMH fell from prior highs to $474.85, a significant break that suggests further downside to prior support levels. The creator anticipates QQQ (Nasdaq-100) could fall significantly below current levels, potentially testing the 'bloodbath low from last Thursday' and eventually the FOMC low from July, which would represent 5-10%+ downside from current levels.",
+          "Nvidia's scandal\u2014involving allegations of unauthorized chip sales to China via intermediaries, personal conduct issues leading to Jensen Huang's resignation, and unknown legal exposure\u2014creates binary risk. While the immediate uncertainty has been partially resolved by Jensen's departure, several unknown negatives remain: (1) the ongoing investigation into export controls and potential national security violations; (2) whether revenue from China-directed sales will be clawed back; (3) unknown allegations about the interim CEO's knowledge or involvement. The creator emphasized that 'there is no going about it' that further negative news could emerge.",
+          "The broader market is in a corrective phase. The S&P 500 is down but still only 2% from all-time highs, indicating complacency in some areas. However, the Nasdaq-100 (QQQ) is down 8-9% and the creator expects further significant downside, particularly in growth and semiconductor stocks. The creator stated 'I think this entire low on Nvidia gets swept' and expects QQQ 'easily' to take out prior lows. Investors should not assume the January bounce will rescue positions; 'the Fed may want to get beyond that to see how companies raise prices in January,' suggesting earnings surprises and margin pressures lie ahead.",
+          "PPI and inflation remain stubbornly elevated in categories not driven by commodity prices. The Chicago Fed President highlighted that 'services' inflation (particularly health costs and health insurance) continues to show 'stalled progress' and is 'not really going away no matter what happens to the price of oil.' There is also a seasonal issue: fall PPI/CPI numbers look artificially good, but January-March historically see price increases resurface. If the fall numbers are already troubling, Q1 2025 could see renewed inflation concerns and potential policy tightening.",
+          "Do not buy growth stocks randomly or chase popular names. The creator heavily criticized retail investors buying calls on Nvidia, Google, and other stocks 'randomly' without a thesis. He stated: 'Stop doing random [ __ ] and you will be a 50% better trader the minute you stop doing that.' Random speculation (especially on high-IV securities like Nvidia into earnings) will result in losses. Any position must have a specific technical setup, price target, and risk management framework, not just the hope that 'this stock will go up.'"
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "SOXL",
+          "SMH",
+          "SOXS",
+          "QQQ",
+          "ES",
+          "NQ",
+          "SPY",
+          "KIQ",
+          "BROADCOM",
+          "NETFLIX",
+          "HOOD",
+          "NEO",
+          "GOOGL",
+          "UBER",
+          "NIKE",
+          "LULULEMON",
+          "SOFI",
+          "PAYPAL",
+          "SQQ",
+          "INTEL",
+          "META",
+          "AMAZON",
+          "APPLE",
+          "MICROSOFT",
+          "GME",
+          "AAPL"
+        ]
+      },
+      "price_at_recommendation": {
+        "GOOGL": 295.77,
+        "UBER": 69.69,
+        "SOXS": 50.78,
+        "HOOD": 77.86,
+        "NVDA": 162.85
+      }
     },
     "h4k6-xHcwlw": {
       "channel": "Jose Najarro Stocks",
@@ -36120,6 +36208,211 @@
         "buy_recommendations": [],
         "stocks_to_avoid": [],
         "key_warnings": [],
+        "tickers_mentioned": []
+      },
+      "price_at_recommendation": {}
+    },
+    "66RFXm4jz6U": {
+      "channel": "CouchInvestor",
+      "title": "Nvidia\u2019s Drama Could Be a Gift for These 4 Stocks",
+      "upload_date": "20261113",
+      "url": "https://www.youtube.com/watch?v=66RFXm4jz6U",
+      "processed_at": "2026-11-13T22:53:44.970527",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet Inc.",
+            "reason": "Alphabet is trading at an attractive forward P/E of 21.1 times while benefiting from growing GCP and TPU business momentum. The company is expected to benefit if Nvidia fails to execute, as Google's TPU business will become significantly larger by 2027. Google Cloud continues to accelerate growth, and the company is investing heavily because return on invested capital exceeds cost of capital. The capex growth cycle is slowing down, which means an inflection point is approaching where the company will generate substantial free cash flow while maintaining profitability. By fiscal 2028, Google is expected to generate $350.6 billion in operating cash flow. Despite year-to-date decline of 7.5% and 3-month decline of 15.2%, the stock gets overlooked by the market.",
+            "when_to_buy": "Around $300 per share or lower, especially post-Nvidia earnings report",
+            "target_price": null,
+            "cautions": "Stock has declined significantly and investor sentiment is negative; patience may be required for inflection point to materialize"
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms Inc.",
+            "reason": "Meta had a better earnings report than most competitors, with the core advertising business outperforming other advertisers. The company is still expected to grow revenue by 28% in the current fiscal year, 21.7% next fiscal year, and 19.2% in fiscal 2028, which is exceptional growth for a company of its size. Meta's core advertising business remains very profitable and growing quickly, and Reels momentum continues to expand. Although currently not generating free cash flow due to heavy AI investments, the company will return to significant free cash flow generation by fiscal 2028, expected to generate $216.4 billion in operating cash flow. Trading at 21.5 times trailing earnings and 19.1 times forward earnings, the stock lacks respect relative to its growth profile.",
+            "when_to_buy": "Post-Nvidia earnings report when market sentiment stabilizes",
+            "target_price": null,
+            "cautions": "Company is currently not generating free cash flow due to heavy investment spending; valuation may be pressured until profitability metrics improve"
+          },
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Despite recent drama surrounding Jensen Huang's departure, Nvidia is trading at only 13.2 times forward earnings and 14.6 times forward price-to-free cash flow, representing attractive valuation for exceptional growth prospects. The company is expected to grow revenue 90.8% in fiscal 2027, then 68% in fiscal 2028, and 30.8% in fiscal 2029, reaching over $900 billion in revenue. By fiscal 2029, Nvidia is expected to generate close to half a trillion dollars in free cash flow. The company's roadmap for the next 3 years is already set and unlikely to change materially. The board and management teams beneath Jensen are very capable, and Nvidia is fundamentally different from Intel's past failures\u2014it continues innovating and pushing boundaries rather than just paying executives and buying back stock. Nvidia is not a one-person company and its competitive moat remains strong.",
+            "when_to_buy": "Post-Nvidia earnings report on Tuesday; willing to wait for clarity on guidance and forward strategy",
+            "target_price": null,
+            "cautions": "Significant negative sentiment following Jensen Huang situation; continued headlines and investigation uncertainty may create short-term volatility. If guidance disappoints (stays below 80% revenue growth for next year), stock could face further pressure. Long-term position requires patience through near-term chaos."
+          },
+          {
+            "ticker": "MU",
+            "company_name": "Micron Technology Inc.",
+            "reason": "Micron trades at an extremely attractive forward P/E of 4.3 times while expected to generate record revenue and free cash flow over the next several years. Even accounting for potential cycle peaks in the next two years, Micron will become extremely profitable with revenue generation dwarfing anything in the company's history combined over the last 10 years. Free cash flow is already exceeding anything generated since 2012 combined, and fiscal 2027-2029 expected free cash flows ($232.4 billion in 2028 operating cash flow) are unprecedented. HBM partnerships and long-term agreements suggest the current cycle will peak later than historical precedent and decline less sharply due to HBM demand and the one-year GPU cadence. Even with substantial stock appreciation from current levels, the risk-reward is favorable. Creator has been net seller this year but added in low $700s due to strong margin of safety.",
+            "when_to_buy": "Low $700s range; also willing to wait for post-Nvidia earnings report stability",
+            "target_price": null,
+            "cautions": "Memory chip cycles are inherently cyclical; revenue and profitability could decline significantly post-2029. Creator does not view this as a 5-10 year hold despite strong fundamentals. Stock could face downside if cycle peaks sooner than expected or declines sharply. Creator only needs stock to reach $1,000 to $3,000 range for acceptable returns, not extreme multiples."
+          },
+          {
+            "ticker": "AVGO",
+            "company_name": "Broadcom Inc.",
+            "reason": "Broadcom is still trading at fairly cheap valuation with incredible growth rates. The company could benefit from further weakness in Nvidia's competitive position in the long term, though this is not the primary investment thesis. Broadcom has demonstrated strong execution and growth trajectory with expected 2026 operating cash flow of $137.6 billion. The company has defensive qualities as semiconductor infrastructure supplier.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Broadcom's upside is dependent partly on Nvidia's execution faltering, which creator believes is unlikely; stock price already appreciates significantly in recent days (was up considerably on anti-Nvidia sentiment)"
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Market panic around Nvidia/Jensen Huang situation is overblown and creating irrational selling. The situation escalated with unusual speed and pressure that 'doesn't smell right,' warranting investigation into the investigation itself. Investors should maintain perspective and not panic-sell quality companies.",
+          "Nvidia board composition is concerning\u2014filled with people from entertainment, sports, food, and finance backgrounds rather than semiconductor, AI, robotics, and technology experts. This is a structural weakness that should have been addressed by Jensen and other board members, though it does not invalidate Nvidia's long-term competitive position.",
+          "NeoCloud space companies (Nebius, CoreWeave, Lambda) are experiencing significant weakness (down 9.5%-13% daily) based on reports that Nvidia CFO Colette was critical of large NeoCloud investments and backing. However, these companies have already secured substantial prepayments covering most costs and have strong balance sheets; the headline risk is oversold and investment theses for existing NeoCloud companies remain intact.",
+          "Avoid making emotional investment decisions based on headline volatility. Wait for Nvidia earnings report (Tuesday) and market stabilization (VIX normalization) before making significant portfolio moves. Current market volatility is creating opportunities but requires disciplined, well-researched entries rather than panic buying or selling."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "AVGO",
+          "AMD",
+          "GOOGL",
+          "META",
+          "AMZN",
+          "AAPL",
+          "MU",
+          "NBIS",
+          "CORE",
+          "IRNC",
+          "SOFI",
+          "NEHO"
+        ]
+      },
+      "price_at_recommendation": {
+        "META": 641.69,
+        "GOOGL": 295.77,
+        "MU": 778.31,
+        "AVGO": 347.01,
+        "NVDA": 162.85
+      }
+    },
+    "UibCqBu0IRc": {
+      "channel": "CouchInvestor",
+      "title": "Space Insurers Took In $550 Million and Paid Out Almost $1 Billion",
+      "upload_date": "20261113",
+      "url": "https://www.youtube.com/watch?v=UibCqBu0IRc",
+      "processed_at": "2026-11-13T22:53:53.857766",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Space insurance market is extremely concentrated and fragile, with only ~$550 million in annual premiums. A single or two major satellite losses can wipe out an entire year's premium revenue, creating significant underwriting risk. In 2023, insurers paid out nearly $1 billion against $550 million in premiums collected. Most losses were not launch failures but in-orbit satellite malfunctions, indicating the risk profile is worse than traditionally expected. This structural imbalance is causing some insurers to exit the market and remaining competitors to raise prices significantly."
+        ],
+        "tickers_mentioned": []
+      },
+      "price_at_recommendation": {}
+    },
+    "nvRkMsYj_O8": {
+      "channel": "Ticker Symbol: YOU",
+      "title": "What Jensen Huang's Downfall Means for NVIDIA Stock",
+      "upload_date": "20261113",
+      "url": "https://www.youtube.com/watch?v=nvRkMsYj_O8",
+      "processed_at": "2026-11-13T22:54:11.023913",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "The creator is dollar cost averaging into Nvidia despite Jensen Huang's resignation because the stock is trading at less than 14 times forward earnings while the S&P 500 trades at about 18 times, making Nvidia almost 25% cheaper than the overall market despite data center revenue more than doubling year-over-year. The business Jensen built is still booming with strong partner demand evidenced by Coreweave's 138% year-over-year backlog growth and reported 5x AI output improvement on new Vera Rubin racks. All six financial firms that downgraded Nvidia still have price targets above current trading levels, and even major competitors Google and Amazon continue buying Nvidia chips, indicating sustained competitive moat through CUDA ecosystem and 20 years of AI tools. The creator has been a shareholder for over 10 years and views this as one of the deepest discounts he has ever seen for one of the best AI stocks.",
+            "when_to_buy": "Dollar cost average over the next few months as the board selects a permanent CEO replacement and as earnings are reported on November 17th with interim CEO Colette Crest.",
+            "target_price": null,
+            "cautions": "Nvidia lost its only CEO in 33 years with no permanent replacement yet identified, creating leadership uncertainty. The company has no succession planning precedent and had about 60 executives reporting directly to Jensen, an unusually flat structure. Nvidia faces emerging competition from Google's TPUs and Amazon's Tranium chips which are becoming easier to adopt after open-source PyTorch compatibility was released. The CEO transition occurs amid a chip war with the US government investigating Chinese espionage allegations related to Jensen's affair with a former executive at a company serving Chinese clients, creating potential regulatory risk and congressional scrutiny. Bernstein cut their price target in half and Evercore slashed theirs by 60%, though both remain above current prices."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "US-China chip war and regulatory risk: The US government is investigating alleged Chinese espionage connected to Nvidia's CEO and the company's customer Megapeace, which sells Nvidia chips to Chinese companies like Alibaba. Congressional briefings have been requested and lawmakers are pushing for stricter limits on chip exports to China, creating potential restrictions on Nvidia's largest growth market.",
+          "Leadership transition risk during competitive inflection: Nvidia is losing its founder and only CEO ever during a critical period when major customers Google and Amazon are launching competing custom AI chips (TPUs and Tranium). The company warned in its February annual report about high dependence on its long-standing executive team and risks of failing at effective succession planning.",
+          "Emerging competitive threats from hyperscalers: Google and Amazon are designing their own AI chips optimized for their products and are now selling them externally. Google Cloud TPU sales are a meaningful contributor to 30.7 billion in quarterly revenue and have close to 100 customers. Amazon has over $225 billion in Tranium commitments (up 20x year-over-year) and plans to sell outside AWS next year. Both companies claim price-performance advantages, though Nvidia's CUDA ecosystem and 20 years of software development still provide defensibility."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "AMZN",
+          "GOOGL",
+          "MSFT",
+          "GOOG",
+          "CRU",
+          "COREWEAVE"
+        ]
+      },
+      "price_at_recommendation": {
+        "NVDA": 162.85
+      }
+    },
+    "Mw5EXAyrPr4": {
+      "channel": "Daniel Pronk",
+      "title": "New Updates On The Top 2 Stocks I'm Buying Now",
+      "upload_date": "20261113",
+      "url": "https://www.youtube.com/watch?v=Mw5EXAyrPr4",
+      "processed_at": "2026-11-13T22:54:33.060143",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NU",
+            "company_name": "Nu Holdings (Nubank/New Bank)",
+            "reason": "New Bank reported 37% revenue growth year-over-year to $6.3 billion USD, with gross profits up 35% and earnings up 31%. The company maintains a 32% return on equity and is expanding aggressively across Latin America with 143 million customers in Brazil (65% of adult population), 16.6 million in Mexico (up 27%, now 17% of adult population), and 6.1 million in Colombia (up 62%, now 15% of adult population). The business model is traveling well internationally with recent US expansion launching into underserved markets. The creator's DCF analysis shows 26.4% compounded annual growth rate over 3 years with conservative assumptions of 20% annual earnings growth and 17x terminal multiple, implying a double by 2029. More optimistically, with 25% growth and 20x multiple, the CAGR reaches 39%. The stock trades at only 11.8x forward earnings despite 30%+ growth, which the creator views as extremely undervalued relative to historical median multiple of 28x. Average revenue per active customer is $17.70 and growing as customer cohorts mature, while cost to serve customers remains at only $110, creating significant margin expansion potential. The business has demonstrated strong credit underwriting with a 234% coverage ratio on 90+ day non-performing loans, allowing for potential doubling of defaults while remaining solvent.",
+            "when_to_buy": "Already accumulating; was buying at 10.5x forward earnings at lows; still attractive after 10% rally",
+            "target_price": "26.4% CAGR implied to $7.43+ per share by 2029 under conservative case; 39% CAGR under realistic case",
+            "cautions": "Non-performing loans ticking up to 3-year highs due to macro headwinds in Latin America, though still well-covered. Operates in volatile emerging markets. Carries similar thesis and risks as MercadoLibre, so position is limited to avoid over-concentration. Short-term volatility expected but long-term thesis intact."
+          },
+          {
+            "ticker": "ROAD",
+            "company_name": "Construction Partners Inc.",
+            "reason": "Construction Partners is a consolidator in a highly fragmented construction industry with the CEO signaling confidence in business fundamentals despite recent market pessimism. The company delivered 7% organic growth in 2026 with 30% overall revenue growth and 24% EBITDA growth, and has already completed three acquisitions in the first five weeks of fiscal 2027. Management guidance for 2027 projects 15% revenue growth and 15% EBITDA growth (7% organic, 8% from acquisitions) with $290 million in acquisition revenue already secured, effectively sandbagging the guidance as any additional growth will beat targets. The long-term 2030 targets remain $6 billion in revenue and $1 billion in EBITDA, which management stated they can achieve without entering new states or major acquisitions, though they are in discussions for larger deals that could accelerate growth beyond targets. CEO took full accountability for Q4 overoptimism caused by diesel price volatility (40% rise) and weather, and committed to more conservative guidance going forward. The creator's DCF assumes 17% growth to fiscal 2030 reaching $1 billion EBITDA with conservative 10x EBITDA multiple (below historical 15x median), yielding 22.7% CAGR through 2030.",
+            "when_to_buy": "Aggressively buying during current 50% correction; trading at 8.3x trailing EBITDA, same valuation as May 2020 and March 2020 crash lows despite projecting 15% growth",
+            "target_price": "22.7% CAGR implied through 2030 based on hitting $1 billion EBITDA target; significantly upside if multiple expands toward historical 15x EBITDA median",
+            "cautions": "Elevated debt-to-EBITDA ratio currently, though management confident it will normalize as cash generation continues. Quarterly earnings volatile due to weather and oil price sensitivity. Short-term margin compression from inflation, but expected to expand long-term. Market currently extremely pessimistic and short-term focused."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Macro headwinds in Latin America causing rising defaults across the region, impacting fintech lenders and financial institutions operating there. However, New Bank's underwriting appears to be outperforming the market.",
+          "Diesel price volatility significantly impacts Construction Partners' margins and guidance accuracy; 40% quarterly swings create guidance risk.",
+          "Market is extremely short-term focused and pessimistic, pricing in catastrophic scenarios despite strong long-term business fundamentals and management guidance. Both stocks trading at severe discounts to intrinsic value based on 3-5 year horizon."
+        ],
+        "tickers_mentioned": [
+          "NU",
+          "ROAD",
+          "MELI"
+        ]
+      },
+      "price_at_recommendation": {
+        "ROAD": 80.75,
+        "NU": 13.22
+      }
+    },
+    "dNC-Ebb2GR4": {
+      "channel": "The Traveling Trader",
+      "title": "\ud83d\udd34 Day Trading LIVE | CPI Inflation Report",
+      "upload_date": "20261113",
+      "url": "https://www.youtube.com/watch?v=dNC-Ebb2GR4",
+      "processed_at": "2026-11-13T22:55:17.253317",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": []
+      },
+      "price_at_recommendation": {}
+    },
+    "ANfEnlNY72U": {
+      "channel": "The Traveling Trader",
+      "title": "\ud83d\udd34 Day Trading LIVE | CPI Inflation Report",
+      "upload_date": "20261113",
+      "url": "https://www.youtube.com/watch?v=ANfEnlNY72U",
+      "processed_at": "2026-11-13T22:55:25.203115",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Core inflation came in as expected at 0.3%. Final demand excluding food, energy and trade came in hotter than expected at 0.5% versus consensus of 0.3%, indicating stronger underlying inflation pressures. Headline inflation came in lighter than expected."
+        ],
         "tickers_mentioned": []
       },
       "price_at_recommendation": {}

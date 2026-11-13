@@ -35984,6 +35984,131 @@
         ]
       },
       "price_at_recommendation": {}
+    },
+    "S-Uvxa15nl0": {
+      "channel": "CouchInvestor",
+      "title": "The AWS CEO Says Inference Is Not Even at 1%",
+      "upload_date": "20261113",
+      "url": "https://www.youtube.com/watch?v=S-Uvxa15nl0",
+      "processed_at": "2026-11-13T09:38:35.891286",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "AI inference is still in very early stages of adoption at less than 1% penetration according to AWS CEO Matt Garman. This suggests massive future growth potential but also indicates the market is in early innings with execution risks ahead.",
+          "Despite massive capital spending ($720+ billion annually by Amazon, Microsoft, Google, and Meta combined on AI infrastructure), there is insufficient capacity to meet demand. Specialist AI cloud providers (NeoClouds) are emerging to fill gaps, indicating fragmentation of the market and potential margin pressures across the sector.",
+          "The economics of AI show a consistent pattern: each 50% reduction in inference costs drives an order of magnitude increase in usage. This deflationary dynamic means revenue growth depends on volume expansion rather than pricing power, creating potential margin compression risks for infrastructure providers."
+        ],
+        "tickers_mentioned": []
+      },
+      "price_at_recommendation": {}
+    },
+    "m7fgqwlXfss": {
+      "channel": "CouchInvestor",
+      "title": "Why Robots Are Shaped Like You",
+      "upload_date": "20261113",
+      "url": "https://www.youtube.com/watch?v=m7fgqwlXfss",
+      "processed_at": "2026-11-13T09:38:43.077362",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": []
+      },
+      "price_at_recommendation": {}
+    },
+    "wv8qzrG8M1M": {
+      "channel": "CouchInvestor",
+      "title": "Jensen Just Resigned, and Nebius Crashed. Here\u2019s What I\u2019m Doing",
+      "upload_date": "20261112",
+      "url": "https://www.youtube.com/watch?v=wv8qzrG8M1M",
+      "processed_at": "2026-11-13T09:39:03.206377",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Despite Jensen Huang's resignation and the stock being down 5.7%, the creator believes Nvidia remains a tremendous business that will still grow at least 70% over the next fiscal year, possibly 80%. The company's roadmap for the next couple of years has already been set, and existing contracts with TSMC, Meta, Microsoft, Google, Amazon, and SpaceX are unlikely to change due to leadership transition. The 40+ thousand employees at Nvidia will continue executing on the business. The creator emphasizes that while the leadership change has an impact, it does not fundamentally alter the company's strong competitive position and customer relationships.",
+            "when_to_buy": "The creator suggests waiting until after the earnings report (Tuesday after market close) for more clarity rather than buying immediately at $163 per share, which is trading at approximately 13 times earnings.",
+            "target_price": null,
+            "cautions": "Stock is currently under pressure and market sentiment is uncertain. Some executives may leave and employee morale may be affected. There is also confusion around the Alice Wong situation and Deep Seek investments. The creator advises patience and waiting for earnings clarity before making a move, even if the stock recovers."
+          },
+          {
+            "ticker": "NEBU",
+            "company_name": "Nebius",
+            "reason": "Despite a 18.4% stock decline, the creator remains bullish on Nebius as a company in the making that will become a huge company in the future. The business is expecting a 4x increase in revenue in 2027 (to $12.5 billion at midpoint) from 2026 levels, while expecting to reach profitability in Q4 2027. Key metrics are improving: prepayments jumped from $10 billion committed to $17-20 billion expected, prepayment coverage of capex improved from 50-60% to over 100%, payback period improved from 1 year 10 months to 1 year 7 months, and ACV per megawatt increased to over $25 million. Customer concentration improved with over 90% of deals now including prepayments. The company is also increasing control over its own destiny with owned capacity growing from just over 10% in 2026 base to over 50% and 75% for subsequent gigawatts.",
+            "when_to_buy": "The creator has an average cost basis of $59 per share and is considering adding more to the position over the next couple of days, but wants to wait for the market to settle down from the Jensen Nvidia situation first.",
+            "target_price": null,
+            "cautions": "The stock is currently trading around $120-125 per share, significantly down from $200+, which creates losses for later investors. Data One, a third-party partner, caused delays in capacity deployment, pushing over half of Microsoft capacity build to Q2 2027 instead of year-end 2026. The company is facing high capex requirements of $40-45 billion for 2027 while only generating $3-3.2 billion in 2026 revenue, creating near-term profitability challenges. The company stopped providing ARR guidance, which some investors may view negatively. Short-term traders will be negatively impacted by the stock decline and capex-heavy growth phase."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Market sentiment is highly reactive and irrational. Nvidia was green on Wednesday but turned red after Jensen Huang's resignation announcement on Thursday, despite the underlying business fundamentals not changing. The market also appears to have forgotten about the Alice Wong/Deep Seek situation between days, suggesting investors should not follow short-term market sentiment swings.",
+          "Leadership transitions at major technology companies can create uncertainty and executive departures, which may impact employee morale and retention at Nvidia despite strong business fundamentals.",
+          "Third-party dependencies create execution risk. Nebius experienced delays due to Data One winding down temporary power generation faster than expected, demonstrating that even strong businesses can face supply chain and partner-related setbacks. Increased vertical integration is a response to this risk."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "BROADCOM",
+          "AMD",
+          "NEBU"
+        ]
+      },
+      "price_at_recommendation": {
+        "NVDA": 166.19
+      }
+    },
+    "SmAZJ6R-evM": {
+      "channel": "The Traveling Trader",
+      "title": "\ud83d\udd34 Day Trading LIVE | PPI Inflation Report",
+      "upload_date": "20261113",
+      "url": "https://www.youtube.com/watch?v=SmAZJ6R-evM",
+      "processed_at": "2026-11-13T09:39:13.688582",
+      "transcript_fails": 1,
+      "last_reason": "error"
+    },
+    "h4k6-xHcwlw": {
+      "channel": "Jose Najarro Stocks",
+      "title": "Nvidia CEO Jensen Huang Is OUT \u2014 Why I'm NOT Selling NVDA Stock!!",
+      "upload_date": "20261112",
+      "url": "https://www.youtube.com/watch?v=h4k6-xHcwlw",
+      "processed_at": "2026-11-13T09:39:29.650373",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Jose is NOT selling his NVDA shares despite Jensen Huang's departure as CEO. He believes Nvidia will be fine long-term because Jensen has built a management architecture that allows the company to survive without him as a single point of failure. The company has already made the hard strategic decisions (DGX cloud, DGX pods, supply chain investments, partnerships with neocloud companies) that positioned it for the AI wave. The timing of the CEO transition is favorable because it happens after the foundational work is done and during the maturity phase of the AI story, not at the beginning or end. Jensen has ensured all management knows everything, creating redundancy. The stock is trading at a forward PE ratio of approximately 10-11, which Jose considers extremely cheap. Demand for chips remains strong and the roadmap for the next 2-3 years is already built. Jose has no intentions of selling and believes Nvidia will continue to dominate for the next 2-3 years minimum.",
+            "when_to_buy": "During the selloff mentioned in the video; Jose indicates current levels are attractive",
+            "target_price": null,
+            "cautions": "Risk of liability if Jensen's internal affairs involved abuse of power or breaches of confidentiality. Risk of key executive departures if Jensen starts a competing company out of anger at being pushed out. Risk of partnership disruptions if Jensen's relationships with supply chain partners are damaged. Uncertainty around the new CEO selection\u2014Jose prefers an internal candidate over external. Potential ongoing negative news cycles around the affair situation creating stock volatility. If the new CEO lacks vision for post-AI transition strategy, that could be problematic when the AI wave eventually ends. Market may attribute any future mistakes to Jensen's absence even if they would have occurred anyway."
+          },
+          {
+            "ticker": "CORE",
+            "company_name": "Coreweave",
+            "reason": "Jose is actively buying CORE and recently increased his exposure dramatically during the market selloff. He states Coreweave had significantly better earnings than Nebius and believes the market has overreacted. He purchased shares in the $40s-$48 range and explicitly states he is 'very bullish' on Coreweave. He emphasizes multiple times that people should not think he is selling out of this position and that he 'would still be buying at these levels.' Jose considers this one of his favorite plays.",
+            "when_to_buy": "During the selloff at price levels in the $40-$48 range; Jose continues to view current levels as attractive",
+            "target_price": null,
+            "cautions": "Jose expresses a preference for Coreweave over Nebius but does not detail specific risks. The comparison suggests Nebius may have weaker fundamentals, but Jose does not recommend avoiding Nebius entirely."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "CEO transition risk at major AI infrastructure companies creates uncertainty and potential volatility. The market may overreact to any operational stumbles by attributing them to leadership change rather than actual company weakness, creating downside volatility even if fundamentals remain intact.",
+          "Counterparty risk with Jensen Huang: if he becomes angry about his forced departure and starts a competing company, there is potential for talent drain and executive departures from Nvidia, which could harm the company's competitive position.",
+          "Uncertainty around undisclosed details of Jensen Huang's personal conduct: while Jensen cited an affair as the reason for resignation, the full scope of potential liabilities (sexual harassment claims, abuse of power, confidentiality breaches) remains unknown and could create surprise negative news flow.",
+          "Partnership dependency risk: Nvidia has built strong relationships across the supply chain and with major customers under Jensen Huang's leadership. If those relationships weaken due to leadership transition or if Jensen is unable to personally reinforce them, there could be unexpected business disruptions."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "CORE",
+          "NEBS"
+        ]
+      },
+      "price_at_recommendation": {
+        "NVDA": 166.19
+      }
     }
   },
   "channel_ids": {
@@ -35997,6 +36122,6 @@
   },
   "last_eval_week": "2026-W46",
   "alerts": {
-    "fallback": "2026-11-12T09:36:16.708320"
+    "fallback": "2026-11-13T09:39:33.361535"
   }
 }

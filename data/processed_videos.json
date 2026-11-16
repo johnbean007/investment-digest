@@ -36790,6 +36790,102 @@
         ]
       },
       "price_at_recommendation": {}
+    },
+    "8yMqYBgl13Q": {
+      "channel": "CouchInvestor",
+      "title": "Robinhood Made $4.5 Billion From Trades That Cost You Nothing",
+      "upload_date": "20261116",
+      "url": "https://www.youtube.com/watch?v=8yMqYBgl13Q",
+      "processed_at": "2026-11-16T16:01:51.437409",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": []
+      },
+      "price_at_recommendation": {}
+    },
+    "WqZsylMRHyY": {
+      "channel": "FinTek",
+      "title": "Michael Burry\u2019s Biggest Bet Just Made Him a Fortune",
+      "upload_date": "20261116",
+      "url": "https://www.youtube.com/watch?v=WqZsylMRHyY",
+      "processed_at": "2026-11-16T16:02:17.114043",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "MELI",
+            "company_name": "MercadoLibre",
+            "reason": "Michael Burry added to his position in November because he believes investors may have punished it too harshly over concerns around currency weakness and its lending business. It provides exposure outside the US tech bubble, allowing investors to maintain upside exposure while reducing concentration in expensive AI stocks.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "JD",
+            "company_name": "JD.com",
+            "reason": "Michael Burry bought more shares in November as a Chinese online retailer that provides exposure outside the US tech bubble. This diversification helps reduce risk from the concentrated US AI tech market while maintaining growth exposure.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "ACOP",
+            "company_name": "Aeroo Copper",
+            "reason": "Michael Burry purchased this mining company because he expects AI will force countries to upgrade their aging power grids and wiring for data centers, creating huge demand for copper. This allows him to bet against expensive AI stocks while buying a company expected to benefit from AI technology's infrastructure requirements.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Michael Burry made significant put option bets against Nvidia starting in August 2024, betting that the stock would decline. He widened this bet in October by betting against the SMH semiconductor fund and NASDAQ 100, both heavily weighted toward Nvidia. His concern centers on the circular financing structure where Nvidia helps finance customers who buy its chips, creating systemic risk.",
+            "risk": "Burry's puts against Nvidia and semiconductor stocks have already tripled to 3.5x in value as of November, suggesting further downside risk in his view."
+          },
+          {
+            "ticker": "PLTR",
+            "company_name": "Palantir Technologies",
+            "reason": "Michael Burry maintained separate put options against Palantir through November despite the company beating earnings expectations. The stock fell 17% even after beating forecasts, boosting the value of his puts. His concern is less about debt/bankruptcy risk and more about stretched valuation and reliance on broader AI market growth.",
+            "risk": "Stock down 17% despite beating earnings forecasts; Burry continues to hold puts against it, indicating he sees further downside."
+          },
+          {
+            "ticker": "CWEB",
+            "company_name": "CoreWeave",
+            "reason": "Michael Burry cited this GPU rental company as an example of dangerous leverage in the AI infrastructure space. CoreWeave reported $2.6 billion in revenue but $640 million in annual interest costs (25% of revenue), and despite doubling sales, remains unprofitable before interest. The company is dependent on continued high revenue from rented hardware to service debt taken to purchase that hardware.",
+            "risk": "High debt burden with 25% of revenue consumed by interest payments; unprofitable company dependent on sustained AI infrastructure demand; vulnerable to lower demand, pricing pressure, or hardware obsolescence."
+          }
+        ],
+        "key_warnings": [
+          "AI infrastructure circular financing creates systemic risk: approximately $3 trillion in debt and lease obligations (much not on company balance sheets) exists where equipment sellers like Nvidia finance buyers who then purchase more equipment. If demand falls short or hardware becomes obsolete, losses can spread rapidly through the system.",
+          "Computer leasing market parallel from 1960s: Computer leasing stocks boomed in late 1960s but crashed 66% by 1970 despite continued computer demand because companies couldn't earn back upfront hardware investments as newer technology made old equipment worthless. AI cloud companies with heavy debt burdens buying GPUs face similar risk today at much larger scale.",
+          "Neocloud business model risk: Companies like CoreWeave borrow heavily to buy data center compute and rent it out, but face two failure modes: (1) AI demand falls short creating excess capacity, or (2) demand continues growing but newer chips make old hardware obsolete, leaving companies unable to pay back debt on old equipment.",
+          "Customer infrastructure commitments create inflexibility: Companies like Anthropic must pay for committed computing resources regardless of actual usage under their agreements. If AI demand grows slower than expected, they remain stuck with large bills, creating forced demand that obscures true market weakness.",
+          "Margin debt amplification risk: Approximately $1.5 trillion in margin debt exists as of September. If markets decline 10%+, margin calls could force widespread selling, creating a downward spiral especially in concentrated tech indexes where a few AI stocks dominate.",
+          "Valuation concerns in AI stocks: Even beaten-down AI stocks like Palantir remain at stretched valuations dependent on continued broad AI market growth. Semiconductor stocks (SMH fund) fell 19% between October 9 and November 9, but Burry is keeping his bets against them at 3x larger size than October, suggesting he sees further downside.",
+          "Concentration risk in S&P 500 and major indexes: The index is heavily concentrated in just a few large companies mostly involved in AI, amplifying systemic risk if the AI sector experiences a broader correction."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "PLTR",
+          "SMH",
+          "QQQ",
+          "CAT",
+          "CWEB",
+          "MELI",
+          "JD",
+          "ACOP"
+        ]
+      },
+      "price_at_recommendation": {
+        "NVDA": 159.14,
+        "CWEB": 15.57,
+        "PLTR": 164.1,
+        "MELI": 1473.74,
+        "JD": 27.82
+      }
     }
   },
   "channel_ids": {

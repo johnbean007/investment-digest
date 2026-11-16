@@ -36416,6 +36416,380 @@
         "tickers_mentioned": []
       },
       "price_at_recommendation": {}
+    },
+    "djvJs85PHZE": {
+      "channel": "CouchInvestor",
+      "title": "Nvidia Pitched Turning 130 Old Phone Buildings Into AI Sites",
+      "upload_date": "20261116",
+      "url": "https://www.youtube.com/watch?v=djvJs85PHZE",
+      "processed_at": "2026-11-16T12:54:36.990825",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "The Nvidia pitch to Apollo/Brightspeed regarding conversion of 130 old telephone buildings into AI data center sites is a reported pitch only, not a signed deal. Key economics remain uncertain including chip rental terms, permitting requirements, and operational viability. The proposal is speculative at this stage."
+        ],
+        "tickers_mentioned": []
+      },
+      "price_at_recommendation": {}
+    },
+    "S7dbxX3kO6o": {
+      "channel": "CouchInvestor",
+      "title": "Some Tech Companies Shrink Your Stake by About 40% in 10 Years",
+      "upload_date": "20261116",
+      "url": "https://www.youtube.com/watch?v=S7dbxX3kO6o",
+      "processed_at": "2026-11-16T12:54:45.650245",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Share dilution is a significant factor affecting shareholder value in tech companies. Fast-growing tech companies can add approximately 5% new shares annually through employee stock compensation and equity raises. Over a 10-year period with 5% annual dilution, an investor's ownership stake can shrink by approximately 40% (from 1% to 0.6%). However, dilution itself is not necessarily harmful if the company's business grows faster than share count increases. The critical metric is whether earnings per share growth and intrinsic value per share grow despite dilution, which depends on the company using newly issued shares productively to grow the overall enterprise value faster than it dilutes existing shareholders."
+        ],
+        "tickers_mentioned": []
+      },
+      "price_at_recommendation": {}
+    },
+    "oV8-eSOiu2U": {
+      "channel": "CouchInvestor",
+      "title": "I Bought $8,100 of 4 Stocks, Including One I Sold Earlier This Year",
+      "upload_date": "20261115",
+      "url": "https://www.youtube.com/watch?v=oV8-eSOiu2U",
+      "processed_at": "2026-11-16T12:55:50.974826",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "GOOGL",
+            "company_name": "Google/Alphabet",
+            "reason": "Creator states Google is 'a pretty cheap name to buy and own' that is gaining momentum in cloud business and their own chips business (TPU). The stock closed at $295.70 and needs to close above $300 for momentum. Creator says 'I wouldn't sleep too long on Google' implying it's an opportunity worth considering soon.",
+            "when_to_buy": "On pullbacks or when it closes above $300 for confirmation of momentum",
+            "target_price": "Above $300 for momentum confirmation",
+            "cautions": "Currently in 'no man's land' technically. Floor support at $264."
+          },
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon",
+            "reason": "Creator describes Amazon as 'a very good name to own for the long run.' It has been doing well post-earnings despite market turbulence, closed at $266, and is above the pullback buy zone floor area of $250-$255 where it had been sitting. Strong technical position with upward momentum.",
+            "when_to_buy": "On pullbacks to $250-$255 support area or at current levels above support",
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms",
+            "reason": "Creator states Meta is 'still extremely undervalued in my eyes.' Stock recovered above $610 to close at $641. Creator plans to 'probably still be buying more meta' in upcoming period. Floor at $630 with resistance at $666. Positioned as an accumulation opportunity at current valuations.",
+            "when_to_buy": "On pullbacks to $630 support or gradual accumulation at current levels",
+            "target_price": "Resistance at $666",
+            "cautions": "Floor support is $630; below that would be concerning."
+          },
+          {
+            "ticker": "RKLB",
+            "company_name": "Rocket Lab USA Inc.",
+            "reason": "Creator bought more Rocket Lab after strong post-earnings recovery. Stock was down 8% post-earnings then completely recovered and went higher. Currently above buy zone but not by much. Closed week strong with momentum. Creator increased position by 5.17% (extra 30 shares at ~$59).",
+            "when_to_buy": "Current levels or on pullbacks from current resistance",
+            "target_price": "Resistance at $66.34",
+            "cautions": "Currently above buy zone; creator suggests being cautious about chasing it higher. Resistance sits at $66.34."
+          },
+          {
+            "ticker": "SOFI",
+            "company_name": "SoFi Technologies Inc.",
+            "reason": "Creator views SoFi as 'cheap of course' and plans continued accumulation. Despite being under pressure due to macro/interest rate concerns, it represents a buying opportunity. Currently cannot close well above $16 but creator plans to continue buying more in upcoming period.",
+            "when_to_buy": "On weakness; creator plans to 'probably still be buying more' SoFi",
+            "target_price": "Above $16 for momentum",
+            "cautions": "Under pressure because of macro uncertainty around rate hikes (25 vs 50 basis points expected). Currently in 'no man's land' technically."
+          },
+          {
+            "ticker": "NEW",
+            "company_name": "Nu Holdings Ltd.",
+            "reason": "Creator bought $8,100 of this stock (one of four stocks purchased). Company had record quarter with net income above $1 billion, 143 million customers up 3.7 million from Q3. Recurring risk-adjusted net interest margin up to 12.7% from 11.9%. Creator states 'I'm quite happy with new holdings' and plans to 'probably buy more new.' Company recently got banking license in Brazil and is well-positioned given their experience with Brazilian economy.",
+            "when_to_buy": "Creator is actively accumulating; plans to buy more in upcoming period",
+            "target_price": null,
+            "cautions": "Brazil macroeconomic risks \u2014 management assumes future will be worse than past. Non-performing loans 90+ days went from 6.9% to 7.3%. However, creator notes company provisions match or exceed delinquency every quarter and company has historical experience managing through downturns."
+          },
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Despite Jensen Wong's resignation and leadership uncertainty, creator considers Nvidia 'very cheap' at 13.5x forward earnings with stock down 32.3% and worth less than $4 trillion. Expecting $108.7 billion in revenue (98% YoY growth) and $44.2 billion free cash flow (100% YoY growth). Company guidance for next fiscal year is 'at least 70% growth' with potential to revise upside if supply allows. Creator states the company 'is big enough' to deliver on guidance regardless of leadership changes. Next fiscal year expected to show 90% growth. Recently bought more at $178 despite timing concerns around Jensen's departure.",
+            "when_to_buy": "Creator recently purchased despite recent weakness; stock appears oversold given valuation metrics",
+            "target_price": null,
+            "cautions": "Leadership overhang is 'definitely real' with Jensen Wong's resignation creating uncertainty about CEO succession. However, roadmap is set and growth agreements are in place. Analyst estimates for next year guidance already declining from 68% to 67.2%, suggesting some market concern about post-Jensen execution. Creator still rates it very cheap and worth accumulating over time despite near-term sentiment challenges."
+          },
+          {
+            "ticker": "AXON",
+            "company_name": "Axon Enterprise Inc.",
+            "reason": "Creator increased Axon position by 18.42% at $312, despite being down 21% overall on the position. Implies belief in recovery and long-term value. Creator describes current levels as point where more comfort is needed but position is small enough to justify adding. Needs to push well above $315 per share to gain more momentum.",
+            "when_to_buy": "Creator just added at $312; suggests current levels for accumulation",
+            "target_price": "Well above $315 for comfort",
+            "cautions": "Still down 21% on position despite recent purchase. Needs momentum confirmation above $315."
+          },
+          {
+            "ticker": "MU",
+            "company_name": "Micron Technology Inc.",
+            "reason": "Creator increased Micron position by 16.6% (extra four shares at $714), first buy 'in quite a while' because 'it was a bit too cheap to ignore again.' Creator frames this as a risk-reward play: not a 10-year hold, but if it reaches $1,000 in coming weeks/months, returns are quite good and even at $1,000 it won't be super expensive. Creator doesn't see downside risk at current valuation.",
+            "when_to_buy": "Creator just bought at $714; suggests current levels",
+            "target_price": "Potential move to $1,000 in coming weeks/months",
+            "cautions": "Creator frames this as a medium-term trade, not long-term hold. Market cyclicality in memory chip sector."
+          },
+          {
+            "ticker": "NERU",
+            "company_name": "Neo Cloud/AI Infrastructure (referenced as Nebu/Nebus)",
+            "reason": "Creator ranked Neo as #1 position despite it being a 'falling knife' and 'definitely is' falling. Creator is 'still extremely bullish' on the stock and explicitly states willingness to add more if still at $115-$130 post-Nvidia earnings 'because yes, I do still think that these names are undervalued based on my assumptions.' Extremely volatile name (up 20% or down 20% in a week possible), but creator sees long-term value in AI infrastructure buildout. Plans to hold call options and not make moves until after Nvidia earnings.",
+            "when_to_buy": "Post-Nvidia earnings if stock is around $115-$130",
+            "target_price": null,
+            "cautions": "Extremely volatile stock \u2014 weekly range can be $100-$150+. 'Not for everyone.' Currently a 'falling knife' with floor at $106.90 (100-week moving average). Creator already down significantly on this position but holding due to conviction in AI infrastructure thesis."
+          },
+          {
+            "ticker": "CORE",
+            "company_name": "Coreweave",
+            "reason": "Creator states 'I'm bullish on core' and still holds call options ($100 calls for January 2028). Despite stock being extremely volatile (can go up/down 20% weekly), creator sees trajectory as positive and doesn't expect changes post-Jensen at Nvidia. Creator notes Coreweave's earnings were 'a bit better' than Nebus and company is 'on the right trajectory.' Also noting that Neo/Coreweave is in similar bucket as infrastructure plays benefiting from AI buildout.",
+            "when_to_buy": "Creator already has call options (Jan 2028 $100 calls); current levels for accumulation unclear but implied interest in continuing",
+            "target_price": "$100 (call strike)",
+            "cautions": "Extremely volatile stock like Nebus. Creator admits already down $6,700 on call options. Very high risk/high reward play. Not for conservative investors."
+          },
+          {
+            "ticker": "CEREBRAS",
+            "company_name": "Cerebras Systems",
+            "reason": "Very good quarter with strong growth. Q4 core revenue guidance up 39% quarter-over-quarter. Core gross margin jumped from 41% to 48% Q3-Q4. Revenue growth target for 2027 is approximately 3x increase. Major deal with OpenAI provides 750 megawatt of capacity on take-or-pay terms. This represents significant booked but not yet earned revenue. Despite execution delays, creator acknowledges this is normal for such huge growth buildout.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Company is running 90 days behind schedule on data center buildout. Delays are in land, power, shell, chips and materials. While late, Cerebras owes OpenAI credits against future purchases. However, management targets being back on schedule by H2 2027. Market hates the word 'delays' but creator contextualizes this as normal for large infrastructure buildout. Only cancellation would happen if delays exceed 90 days on either side."
+          },
+          {
+            "ticker": "MELI",
+            "company_name": "Mercado Libre",
+            "reason": "Creator states they are 'close to the buy zone right now.' Despite high per-share price, creator emphasizes 'just because it costs a lot to buy a share doesn't mean that this is an expensive name.' Positioned as getting 'quite a lot of growth ahead' with 'disconnect from the market' suggesting undervaluation. Currently near first weekly 200 ceiling at $1,760 and daily 50 at $1,859.",
+            "when_to_buy": "On pullbacks toward the noted support levels ($1,760 weekly; $1,859 daily)",
+            "target_price": null,
+            "cautions": "High nominal share price may limit accessibility for some investors without fractional shares."
+          },
+          {
+            "ticker": "UBER",
+            "company_name": "Uber Technologies",
+            "reason": "Creator describes Uber as 'a cheap name, it's a profitable name, it's still a growth name.' Despite inability to stay above $70 per share, it is in 'comfortable buying area' post-earnings. Creator notes recent announcements from the company and frames current positioning as 'maybe it is still in accumulation mode.'",
+            "when_to_buy": "Current levels represent accumulation zone; pullbacks welcome",
+            "target_price": "Cannot stay above $70 is a resistance level",
+            "cautions": "Cannot sustain moves above $70 per share currently; suggests resistance there."
+          },
+          {
+            "ticker": "BROA",
+            "company_name": "Broadcom Inc.",
+            "reason": "Creator views Broadcom as benefiting from 'anti-Nvidia trade' given weakness in Nvidia and Jensen leadership uncertainty. Stock jumped and went back above $300-$325. Creator suggests this as part of AMD/Broadcom complex benefiting from Nvidia sentiment shift. Plans to continue 'probably still be buying more...Broadcom' with upcoming cash injection.",
+            "when_to_buy": "On pullbacks; creator suggests looking 'for a pullback' before adding more shares",
+            "target_price": "Above $300-$325",
+            "cautions": "Very correlated to Nvidia sentiment \u2014 both Broadcom and AMD moved significantly based on Jensen news, suggesting sentiment-driven rather than fundamental-driven. High volatility around Nvidia developments."
+          },
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices",
+            "reason": "Creator ranks AMD as #3 in portfolio (5% position). Benefiting from 'anti-Nvidia trade' given weakness in Nvidia and Jensen uncertainty. When positive Nvidia news emerged, AMD fell along with Broadcom, suggesting both are plays on Nvidia execution concerns rather than standalone fundamentals.",
+            "when_to_buy": "On pullbacks; implied accumulation on weakness given position size",
+            "target_price": null,
+            "cautions": "Very correlated to Nvidia sentiment. Creator acknowledges this is part of rotation/hedge play against Nvidia. Subject to the same leader/execution risks as the overall AI chip market."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "RDDT",
+            "company_name": "Reddit Inc.",
+            "reason": "Creator explicitly states 'hands off this one' as of now. Stock is in 'no man's land falling knife' and creator 'really want[s] to see Reddit push well above $100 to gain a bit of momentum.' Creator sees no point adding to Reddit until specific catalysts emerge. While Reddit is a holding, creator is not actively buying.",
+            "risk": "Needs clear catalyst; current price below $100 represents a holding pattern rather than buying opportunity. Creator waiting for either next earnings with proof that forced login monetization is working or a data licensing deal announcement."
+          },
+          {
+            "ticker": "NFLX",
+            "company_name": "Netflix Inc.",
+            "reason": "Creator states they 'still own a tiny position' but describes Netflix as 'cheap on paper, but seems to be a dead money as of right now.' Stock stuck in low $60s for extended period. Despite being cheap valuation-wise, momentum is severely lacking.",
+            "risk": "Stock cannot move above $70 and has been stuck in $60 range. Creator needs to see move back above $70 'pretty soon' to become bullish again. Despite technical weakness, only holds 'tiny position,' suggesting limited conviction."
+          }
+        ],
+        "key_warnings": [
+          "Nvidia leadership crisis creating significant near-term uncertainty: Jensen Wong, founder and CEO of 30+ years, recently resigned/was ousted (details unclear). CFO Colette Crest is now interim CEO. Prediction markets show CEO succession is uncertain with Renee Haas (ARM CEO) at 27%, Ian Buck (VP of Hyper Scale/HPC) at 23%, and Jensen returning at 9%. Creator emphasizes 'nobody knows what's going on here' and this is 'definitely not the end of the story.' Over 100,000 people have signed petition for Jensen's reinstatement. This creates overhang on Nvidia stock (down 32.3%) despite strong fundamentals and guidance. Affects entire AI ecosystem including Neo Cloud companies (Coreweave, Nebus, Cerebras).",
+          "Federal Reserve decision on interest rates in December creates macro uncertainty: 86.6% probability of 25 basis point rate hike, 9.9% over 25bps, 3.9% no change. Some discussion of potential 50 basis point hike. This creates headwinds for interest-rate-sensitive companies like SoFi. Creator expects 25bps 'to close out the year' but uncertainty remains.",
+          "Portfolio significantly underperforming S&P 500 on monthly basis: Over past month, creator's portfolio down 14.31% while S&P down only 1.16% and NASDAQ down 4.21%. Year-to-date still ahead (15.4% vs 10.6% S&P), but recent weakness suggests higher concentration in cyclical/volatile names. This reflects significant exposure to volatile AI infrastructure plays (Nebus, Coreweave) and China-focused plays.",
+          "Extreme volatility in AI infrastructure names requires risk management: Neo Cloud companies (Nebus, Coreweave) and Chinese AI plays experiencing weekly swings of 20%+ (e.g., Nebus went from $150-160 to $115 in one week). Creator explicitly warns 'not for everyone.' This is acceptable for traders but risky for long-term portfolios.",
+          "China-focused holdings subject to macro and regulatory risks: Significant upcoming earnings week is 'ironically enough when Nvidia reports' but also features heavy China exposure (Alibaba, Tencent, JD.com). Macro concerns around Chinese economy and regulatory environment not explicitly detailed but implied by portfolio concentration.",
+          "Data center buildout delays are becoming systemic: Coreweave, Nebus, and Cerebras all reporting delays in data center construction. While creator contextualizes as 'normal for huge growth buildout,' market 'hates the word delays.' This suggests potential execution risks across AI infrastructure space affecting revenue timing and profitability.",
+          "Cerebras has potential OpenAI deal risks: 90-day cancellation provision exists for OpenAI partnership if delays extend beyond 90 days. Credits owed to OpenAI against future purchases reduce near-term revenue. While management says no cancellations yet and other customers would absorb capacity, this represents concentration risk."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "GOOGL",
+          "RKLB",
+          "SOFI",
+          "AMZN",
+          "META",
+          "NFLX",
+          "NERU",
+          "CORE",
+          "RDDT",
+          "AXON",
+          "MELI",
+          "UBER",
+          "BROA",
+          "AMD",
+          "NEW",
+          "NXPI",
+          "HOME",
+          "JD",
+          "DIS",
+          "TGT",
+          "TJX",
+          "TCEHY",
+          "PANW",
+          "PDD",
+          "WMT",
+          "BABA",
+          "BJ",
+          "PYPL",
+          "CRWD",
+          "MU",
+          "CERABAS"
+        ]
+      },
+      "price_at_recommendation": {
+        "MU": 778.31,
+        "RDDT": 98.45,
+        "AMD": 534.06,
+        "UBER": 69.69,
+        "AMZN": 266.66,
+        "NFLX": 62.15,
+        "NVDA": 162.85,
+        "GOOGL": 295.77,
+        "MELI": 1491.49,
+        "SOFI": 15.42,
+        "AXON": 315.43,
+        "RKLB": 61.53,
+        "META": 641.69
+      }
+    },
+    "evbO6f8DA4I": {
+      "channel": "The Traveling Trader",
+      "title": "The Nvidia Scandal is WORSE Than You Think",
+      "upload_date": "20261115",
+      "url": "https://www.youtube.com/watch?v=evbO6f8DA4I",
+      "processed_at": "2026-11-16T13:21:36.694327",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Despite Jensen Huang's resignation and the scandal, Nvidia is trading at approximately 12 times forward earnings, the cheapest it has been in 15 years. The company still generates $60 billion in net income quarterly with $108 billion in guided revenue, up 106% year-over-year. Even without growth, Nvidia has sufficient cash flow to meet its $530 billion in commitments. The creator purchased Nvidia at market open on November 12th (the resignation announcement) as a clearing event, stating there is no worse news coming, and considers it a solid long-term investment despite leadership uncertainty. The creator recommends a normal position size (not overweight, but not zero exposure).",
+            "when_to_buy": "Market open November 12th following Jensen Huang's resignation announcement was identified as a clearing event opportunity. Creator suggests the November 17th earnings call will be a key catalyst to monitor confidence restoration.",
+            "target_price": null,
+            "cautions": "Nvidia's valuation is based on intangible relationships (handshake deals with TSMC), Jensen's generous circular financing deals which new interim CEO Colette Crest may not continue, potential tighter export controls on China sales, $530 billion in commitments against declining free cash flow ($21.3B down from $48.6B last quarter), lack of insurance for legal costs, and uncertainty around permanent CEO selection. Relationships between TSMC and Nvidia appear heavily dependent on Jensen personally. If circular financing pulls back, future growth could be impacted. More federal investigations and revelations could emerge through December hearings."
+          },
+          {
+            "ticker": "SOXX",
+            "company_name": "Invesco Semiconductor ETF",
+            "reason": "Creator recommends semiconductor ETFs as an easier way to gain chip sector exposure given the Nvidia uncertainty. SOXX is better diversified than SMH, with only 8% allocation to Nvidia versus SMH's 20%, allowing investors to hedge against Nvidia-specific risks while maintaining semiconductor sector exposure. The ETF is down 31% from highs and in a bear market, presenting a dip-buying opportunity. This approach provides optionality: if Nvidia earnings show demand remains strong, the ETF rallies; if Nvidia struggles and competitors gain share, other chip stocks in the ETF can still provide returns.",
+            "when_to_buy": "SOXX is currently in a bear market down 31% from highs. Creator suggests this is an attractive entry point for long-term semiconductor sector exposure, with earnings catalysts approaching.",
+            "target_price": null,
+            "cautions": "SOXX shares sector-wide risks including potential export controls on chips to China, AMD competition (up 140% YTD and 17% from last Monday to Thursday), and overall semiconductor sector weakness. Performance depends on broader chip sector recovery."
+          },
+          {
+            "ticker": "SMH",
+            "company_name": "Semiconductor ETF",
+            "reason": "Similar thesis to SOXX but with higher Nvidia concentration (20% vs 8%). SMH provides semiconductor sector exposure while remaining in a bear market down 27% from highs. Creator presents this as an alternative to concentrated Nvidia exposure, allowing investors to bet on chip sector recovery with less Nvidia-specific risk than buying NVDA directly.",
+            "when_to_buy": "SMH is currently down 27% from highs in a bear market, presenting a potential entry point. Creator views this as a safer risk-reward for long-term chip sector exposure compared to concentrated Nvidia bets.",
+            "target_price": null,
+            "cautions": "Still contains significant Nvidia exposure at 20% weighting. Subject to same sector risks as SOXX including export controls, competition, and macro demand concerns. TSMC at 9% weighting also faces supplier relationship risks stemming from Jensen's departure."
+          },
+          {
+            "ticker": "BROADCOM",
+            "company_name": "Broadcom Inc.",
+            "reason": "Creator identifies Broadcom as the most compelling asymmetric bet, winning in multiple scenarios. If AI demand stays strong, Broadcom's networking and custom chip revenue grows alongside Nvidia. If customers diversify away from Nvidia or there is a void to fill from Jensen's departure, Broadcom's custom chip business captures incremental spend. Broadcom has multiple revenue streams (networking, custom chips, VMware software) and already serves Google, Meta, and OpenAI. This optionality makes it attractive regardless of Nvidia outcome.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Creator does not provide specific timing or valuation metrics. Broadcom's upside depends on execution of custom chip strategy and ability to capture share from Nvidia or diversification trends. Success not guaranteed if Nvidia successfully navigates transition."
+          },
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet Inc.",
+            "reason": "Creator mentions Alphabet as a potential beneficiary, noting that Google TPUs show excellent competitive performance against Nvidia GPUs in benchmark tests. Alphabet is trading at less than 15x PE ratio, making it attractively valued. As a potential recipient of diversified compute spend from companies moving away from Nvidia concentration, Alphabet could benefit from shifts in AI infrastructure.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Creator does not provide detailed analysis or conviction level for Alphabet. TPU competitiveness is noted but broader adoption and competitive advantages versus Nvidia are not deeply discussed. This is a secondary beneficiary thesis rather than primary recommendation."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "COREWEAVE",
+            "company_name": "CoreWeave (AI Infrastructure)",
+            "reason": "Creator expresses strong negative conviction, stating 'I hated these before Jensen and I hate them after.' CoreWeave is extremely debt-heavy with 1,650% debt-to-equity ratio (16.5 debt/equity). The business model is entirely dependent on buying Nvidia chips and renting compute capacity, making it vulnerable to circular financing drying up under new Nvidia leadership. Without access to Nvidia's backing and financing deals that enabled rapid expansion, CoreWeave cannot continue capital deployment. The company requires continuous debt financing to build infrastructure, and the loss of Nvidia's support removes a critical funding mechanism.",
+            "risk": "Very high. The debt-heavy structure combined with dependence on Nvidia financing deals makes CoreWeave vulnerable to insolvency if Nvidia circular financing ceases. Creator states the business is 'completely dead' without continued Nvidia support."
+          },
+          {
+            "ticker": "NEBIUS",
+            "company_name": "Nebius (AI Infrastructure)",
+            "reason": "Creator groups Nebius with other neocloud/AI infrastructure providers as 'completely exposed' to Nvidia drama and loss of circular financing. These businesses relied on circular deals where Nvidia would finance chip purchases, enabling compute rental operations. Creator expresses disdain for the entire category, stating he did not like these investments before the scandal and certainly does not now.",
+            "risk": "Very high. Neocloud providers depend on debt and Nvidia's backing. Without circular financing, their business models break down. While stocks are 'beaten up' and could rally short-term, they remain structurally compromised as long-term investments."
+          },
+          {
+            "ticker": "IRON",
+            "company_name": "Lambda Labs or similar AI Infrastructure Provider",
+            "reason": "Creator mentions 'Iron' (unclear exact ticker) alongside CoreWeave and Nebius as neocloud providers heavily dependent on circular financing. These compute rental businesses bought Nvidia chips funded by Nvidia and rented capacity. The loss of this financing mechanism removes their primary growth enabler.",
+            "risk": "Very high. Without Nvidia circular financing, these providers cannot scale. Creator views them as fundamentally broken investment theses post-Jensen."
+          }
+        ],
+        "key_warnings": [
+          "Export control uncertainty: Potential for tighter US export controls on chips to China could significantly limit Nvidia revenue and earnings. Congressional investigations underway. December hearings will likely determine whether export restrictions tighten, with implications across the entire sector.",
+          "Leadership vacuum and CEO selection risk: Nvidia's future success heavily depends on who becomes permanent CEO. Creator emphasizes it must be an engineer with deep architectural knowledge, not a finance or general business executive. Handpicked successors (like Apple's Tim Cook or MSFTs Satya Nadella) worked, but forced succession (like Apple's John Scully under crisis) can be disastrous. Intel's Brian Kraack departure provides cautionary example. Market may not regain full confidence until credible permanent CEO named.",
+          "Supplier relationship risk: TSMC relationship appears based on personal handshake deals between Jensen and TSMC leadership spanning three decades with no written contract. Jensen explicitly stated they had done hundreds of billions in business without contracts. TSMC prioritizes Nvidia supply due to this relationship. New CEO may lose this priority if TSMC prioritizes other customers (Samsung, AMD, Apple) with limited foundry capacity.",
+          "Circular financing drying up: New interim CEO Colette Crest reportedly opposed some circular financing deals (cut OpenAI backstop from proposed $250B). If she pulls back on these investments, Nvidia's ability to generate future orders and commitments decreases, impacting growth even if demand exists. This affects future-period guidance more than current earnings.",
+          "Open federal investigations and geopolitical overlay: Multiple unresolved questions create ongoing headline risk through at least December 2025. Was Alice Wong actually working for Chinese intelligence? Where did Mega Speed's $4.8B in Nvidia chips go? Why was Mega Speed never added to entity list? Who made decisions on export controls and when? Congressional testimony scheduled. Any findings could result in regulations, executive sanctions on Nvidia, or restrictions on China sales. Current valuation assumes no major enforcement action.",
+          "Free cash flow deterioration: Free cash flow dropped sharply from $48.6B last quarter to $21.3B current quarter due to increased capex. While Nvidia can service $530B in commitments, declining cash generation combined with uncertain future revenue growth creates refinancing risks if conditions worsen.",
+          "Litigation and insurance gaps: Financial Times reports Nvidia carries no insurance for its own legal costs, which is extraordinary for a $4 trillion market cap company. Multiple ongoing investigations and potential lawsuits (national security, shareholder, etc.) could create unexpected liability without insurance coverage.",
+          "AMD competitive threat: AMD gained 17% from Monday to Thursday following scandal and is up 140% year-to-date, suggesting market is rotating toward alternative suppliers. NVIDIA's dominance in AI chips is not guaranteed if leadership instability drives customers to diversify.",
+          "Neocloud provider collapse risk: CoreWeave, Nebius, and similar circular financing-dependent providers could face insolvency if Nvidia cuts financing. This could reduce Nvidia's future order backlog as these customers disappear, impacting future quarters beyond current commitments."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "AMD",
+          "BROADCOM",
+          "GOOGL",
+          "ARM",
+          "COREWEAVE",
+          "NEBIUS",
+          "IRON",
+          "SMH",
+          "SOXX",
+          "TSMC",
+          "AAPL",
+          "MSFT",
+          "INTC",
+          "HPQ",
+          "AMZN"
+        ]
+      },
+      "price_at_recommendation": {
+        "SOXX": 149.3,
+        "NVDA": 162.85,
+        "GOOGL": 295.77,
+        "SMH": 486.75,
+        "IRON": 80.0
+      }
+    },
+    "UphQ4_qKucM": {
+      "channel": "Jose Najarro Stocks",
+      "title": "If You Own Nvidia Stock, You NEED to Hear This!!",
+      "upload_date": "20261114",
+      "url": "https://www.youtube.com/watch?v=UphQ4_qKucM",
+      "processed_at": "2026-11-16T13:21:54.612113",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "NVIDIA faces significant leadership uncertainty following Jensen Huang's forced resignation. The board appointed CFO Colette Kress as interim CEO, which has raised concerns about decision-making speed and visionary leadership. The creator views NVIDIA as a 'hold' rather than a buy opportunity due to this uncertainty and potential loss of Jensen's unique deal-making capabilities with suppliers.",
+          "NVIDIA's competitive moat in the AI chip supply chain may be eroding. Jensen Huang personally negotiated exclusive supply agreements with component manufacturers that competitors cannot easily replicate. With Jensen gone, there is uncertainty whether the new leadership can maintain these relationships at the same pace and effectiveness, potentially allowing competitors like Google (TPUs), AMD, Microsoft, Meta, and others to gain market share.",
+          "Risk of talent exodus from NVIDIA. Jensen Huang has been exceptionally good at retaining executive talent with very few high-profile departures. With his departure, venture capital firms may aggressively recruit senior NVIDIA talent to start competing AI chip companies, which could weaken NVIDIA's ability to execute.",
+          "Governance and board composition concerns. NVIDIA's board lacks technology industry expertise, consisting of former executives from Taco Bell, Eli Lilly, PepsiCo, Goldman Sachs, and other non-tech companies. Critics argue this board is not qualified to lead the world's most critical AI semiconductor company, and their decision to quickly remove Jensen without full investigation suggests poor judgment.",
+          "Operational decision-making may slow significantly. Jensen made critical technical decisions unilaterally (e.g., changing major chip components 3 months before tape-out), which created competitive advantages. The new leadership structure may require decisions to go through multiple approval layers, slowing execution compared to competitors and potentially causing NVIDIA to lose critical supplier relationships before decisions are finalized.",
+          "Supply chain vulnerability with new leadership. Dylan Patel of Semi Analysis notes that Google, Microsoft, and other competitors are actively 'begging' suppliers for capacity now that Jensen is gone. These competitors may move faster through traditional corporate approval processes than NVIDIA's new leadership, potentially shifting long-term supplier commitments away from NVIDIA.",
+          "Stock has already declined significantly. NVIDIA stock is down 26% over the past month and below $4 trillion market cap. The creator advises not rushing to buy the dip due to ongoing uncertainty about whether the company can maintain its competitive advantages under new leadership, though a full collapse is not expected."
+        ],
+        "tickers_mentioned": [
+          "NVDA"
+        ]
+      },
+      "price_at_recommendation": {}
     }
   },
   "channel_ids": {
@@ -36427,7 +36801,7 @@
     "JoseNajarroStocks": "UC5cEHfCr6WOE1R1zcohd1IA",
     "FinTek": "UCxdWHEhEPiYhCADMrn4PdhQ"
   },
-  "last_eval_week": "2026-W46",
+  "last_eval_week": "2026-W47",
   "alerts": {
     "fallback": "2026-11-13T09:39:33.361535"
   }

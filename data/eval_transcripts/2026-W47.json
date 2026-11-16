@@ -1,0 +1,17 @@
+{
+  "video_id": "djvJs85PHZE",
+  "channel": "CouchInvestor",
+  "title": "Nvidia Pitched Turning 130 Old Phone Buildings Into AI Sites",
+  "url": "https://www.youtube.com/watch?v=djvJs85PHZE",
+  "upload_date": "20261116",
+  "captured_at": "2026-11-16T12:54:36.990407",
+  "transcript": "Why AI wants old phone buildings. Every town has one, a windowless telephone building. It used to switch your landline calls. Now a lot of that space sits empty. But look at what's still wired in, a big power connection, fiber to the whole network, backup batteries and generators, and it's already set up for equipment. That's exactly what new AI data centers wait years for, especially the power. In many places the grid hookup is the longest line. So Nvidia reportedly pitched Apollo, which owns Bright Speed, on turning more than 130 of its phone buildings into small AI sites, about 1 gigawatt in total by Nvidia's own estimate, roughly 7 to 8 megawatts each. Why small? These aren't for training giant models, therefore inference, answering your questions close to where you are. Now the fine print. This is a reported pitch, not a signed deal. Who rents the chips, the economics, the permits, all still open, and being close to users only helps so much. But the big idea is real. In AI power is the new real estate, which is why AI wants old phone buildings.",
+  "analysis": {
+    "buy_recommendations": [],
+    "stocks_to_avoid": [],
+    "key_warnings": [
+      "The Nvidia pitch to Apollo/Brightspeed regarding conversion of 130 old telephone buildings into AI data center sites is a reported pitch only, not a signed deal. Key economics remain uncertain including chip rental terms, permitting requirements, and operational viability. The proposal is speculative at this stage."
+    ],
+    "tickers_mentioned": []
+  }
+}

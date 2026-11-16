@@ -36886,6 +36886,67 @@
         "MELI": 1473.74,
         "JD": 27.82
       }
+    },
+    "j_kJFhFvhXY": {
+      "channel": "CouchInvestor",
+      "title": "Is The AI Trade Actually Over? Here\u2019s The Truth",
+      "upload_date": "20261116",
+      "url": "https://www.youtube.com/watch?v=j_kJFhFvhXY",
+      "processed_at": "2026-11-16T21:27:09.131771",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "AI semiconductor and cloud growth stocks are experiencing significant selloffs despite underlying fundamentals remaining intact. SemiAnalysis cut estimates aggressively (19-41% reductions from 2027 onwards), but growth is still expected at 24% CAGR through 2030. The market is in a 'pure hate vibe' and overreacting to estimate cuts rather than recognizing that hyperscaler capex will still reach $1.45 trillion in fiscal 2027 and remain at $1.5 trillion+ annually. Investors should not panic sell based on headline revisions from research firms with inconsistent track records.",
+          "SemiAnalysis credibility concerns: The firm was 'nobody' 2-3 years ago and only became popular when bullish during the market uptrend. Their original estimates were unrealistically high compared to Wall Street consensus (Morgan Stanley, UBS, Goldman Sachs, Wells Fargo), suggesting their revised downside estimates may also be unreliable. Their previous assumptions about SpaceX ($35 billion quarterly run rate by end of fiscal 27) and Microsoft's growth were 'outrageous' and nonsensical.",
+          "Market irrationality: All AI semiconductor and cloud growth names are selling off simultaneously (Nvidia down 4%, Micron 6.5%, Broadcom 4.2%, AMD 5%, Amazon down 3%, Google down 3%, Meta down 2.5%), suggesting panic-driven movement rather than differentiated risk assessment. The market shows 'zero winners' despite valuations not being stretched on big tech or many semiconductor companies.",
+          "Nvidia faces specific pressure from competition and niche exposure: SemiAnalysis projects Nvidia absorbs 66% of cumulative accelerator wafer area cuts through 2030 and a 39% decrease in 2028 shipments due to competition from TPU, Trainium, AMD GPUs, and customer in-house chips. Nvidia has highest exposure to NeoCloud customers (smaller players with higher financing risk). However, Nvidia's $2.9x quarterly revenue forward commitments suggest they are already securing demand for their guided 70%+ revenue growth in fiscal 2028.",
+          "NeoCloud financing risks have diminished but remain elevated: Smaller NeoCloud players like those without hyperscaler commitments face reduced access to capital and are absorbing disproportionate cuts. However, the two largest NeoCloud names (CoreWeave and Nebius) have reportedly reduced external financing needs for 2026 onwards based on recent reports. Early-2025 timing makes this less of a concern now than it would have been at the start of 2025.",
+          "Political and regulatory risks could delay data center capacity: 4.8 GW of US data center supply planned for H2 2027 and H1 2028 is at risk of delays from midterm election regulatory impacts, which could trim 2028 capacity. However, recent bipartisan support for responsible data center buildouts suggests this may matter less than other factors. SemiAnalysis ranks this third in importance."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "MU",
+          "AVGO",
+          "AMD",
+          "AMZN",
+          "GOOGL",
+          "META",
+          "MSFT",
+          "ORCL",
+          "CRWD"
+        ]
+      },
+      "price_at_recommendation": {}
+    },
+    "ro12y589YEA": {
+      "channel": "Jose Najarro Stocks",
+      "title": "Nvidia Earnings Without Jensen Huang: What Could Go Wrong?",
+      "upload_date": "20261116",
+      "url": "https://www.youtube.com/watch?v=ro12y589YEA",
+      "processed_at": "2026-11-16T21:27:24.467018",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Nvidia faces significant near-term uncertainty due to CEO Jensen Huang's resignation effective immediately, with interim CFO Colette Crest taking dual CEO/CFO roles during critical earnings announcement. The market is treating any potential guidance miss or margin reset as validation of the bearish thesis that Nvidia's performance was entirely dependent on Jensen Huang's leadership.",
+          "Semi-Analysis cut its AI chip spending forecast significantly for outyears (2027-2030), with 2027 declining from $770 billion to $627 billion and 2030 from $1.5 trillion to $923 billion. While near-term growth remains strong (60% in 2027, 21% in 2028), the real concern is 2029 showing only 5% growth (essentially flat). Nvidia absorbs approximately 66% of this cut according to Semi-Analysis analysis.",
+          "New Commerce Department export licensing rules effective November 15th now require licenses for advanced AI chips going to Singapore, Malaysia, Thailand, Indonesia, and Brazil, with Malaysia being a significant billing location for Nvidia. This regulatory change could impact guidance if it affects revenue recognition or future sales expectations.",
+          "Microsoft capital expenditure guidance was reduced to approximately $170 billion for calendar 2026 due to third-party capacity delivery delays, and similar capacity delays are affecting other Neo-Cloud players. While companies frame these as timing delays rather than cancellations, it signals potential slowdown in hyperscaler spending acceleration that was previously expected.",
+          "Market is demonstrating extreme emotion and panic-selling despite fundamental support: Semi-Analysis capex cuts are still higher than broader analyst expectations, and all four major hyperscalers (Alphabet, Amazon, Microsoft, Meta) indicated increased spending commitments for 2027 on recent earnings calls. Multiple analyst price targets have been reset sharply downward (from $328 to $235 average on TipRanks) primarily on multiple compression rather than earnings cuts, suggesting valuation reset rather than demand destruction."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "GOOGL",
+          "AMZN",
+          "MSFT",
+          "META",
+          "AVGO",
+          "AMD",
+          "MU"
+        ]
+      },
+      "price_at_recommendation": {}
     }
   },
   "channel_ids": {

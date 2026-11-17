@@ -37003,9 +37003,25 @@
       "title": "NVIDIA EARNINGS DAY, MORE INFO ON THE SCANDAL, MAX PAIN FOR STOCKS",
       "upload_date": "20261117",
       "url": "https://www.youtube.com/watch?v=20Az04--Pzk",
-      "processed_at": "2026-11-17T14:33:42.785053",
-      "transcript_fails": 1,
+      "processed_at": "2026-11-17T15:46:03.908184",
+      "transcript_fails": 2,
       "last_reason": "error"
+    },
+    "iyuYBtLrNf4": {
+      "channel": "CouchInvestor",
+      "title": "Your Bank Pays You Almost Nothing to Use Your Money",
+      "upload_date": "20261117",
+      "url": "https://www.youtube.com/watch?v=iyuYBtLrNf4",
+      "processed_at": "2026-11-17T15:45:54.587113",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Banking system liquidity risk: The video highlights systemic fragility in the banking sector. While banks profit from net interest margins (the spread between deposit rates paid to customers and lending rates charged to borrowers), the entire system depends on two critical conditions: (1) borrowers continuing to pay their obligations, and (2) depositors remaining confident and not simultaneously withdrawing funds. Historical precedent shows this can fail catastrophically\u2014hundreds of US banks failed after 2008, and Silicon Valley Bank collapsed in 2023 when depositors withdrew over $40 billion in a single day, demonstrating that bank solvency is contingent on depositor confidence and borrower creditworthiness. This creates systemic risk during economic downturns or periods of financial stress."
+        ],
+        "tickers_mentioned": []
+      },
+      "price_at_recommendation": {}
     }
   },
   "channel_ids": {

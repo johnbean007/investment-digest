@@ -36963,6 +36963,40 @@
         "tickers_mentioned": []
       },
       "price_at_recommendation": {}
+    },
+    "NKBmG7LxIfA": {
+      "channel": "CouchInvestor",
+      "title": "When Rates Jumped 4.25 Points, the Nasdaq Lost a Third",
+      "upload_date": "20261117",
+      "url": "https://www.youtube.com/watch?v=NKBmG7LxIfA",
+      "processed_at": "2026-11-17T11:00:46.120308",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Rising interest rates disproportionately hurt growth stocks and tech-heavy indices like the NASDAQ. The relationship between rates and stock valuations operates through the present value of future cash flows: a $100 cash flow 20 years in the future is worth approximately $38 at 5% rates but only $15 at 10% rates\u2014a 61% reduction in value. This effect is more pronounced for companies with long cash flow timelines (growth stocks) versus short timelines (mature businesses). In 2022, when US rates jumped 4.25 percentage points, the NASDAQ fell 33%. However, rate movements alone do not determine stock performance; growth fundamentals matter independently. The NASDAQ rose 43% in 2023 despite even higher rates, demonstrating that the direction of rate changes and broader market sentiment can override the mechanical discount rate effect. Investors should distinguish between rate-driven valuation compression and actual business deterioration."
+        ],
+        "tickers_mentioned": [
+          "NASDAQ"
+        ]
+      },
+      "price_at_recommendation": {}
+    },
+    "vJwnSFjayrQ": {
+      "channel": "CouchInvestor",
+      "title": "7.3% of Nubank's Loans Are Late. That's Actually Good News",
+      "upload_date": "20261117",
+      "url": "https://www.youtube.com/watch?v=vJwnSFjayrQ",
+      "processed_at": "2026-11-17T11:00:55.413191",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Nubank's 7.3% late loan rate on its loan book may appear alarming at first glance, but requires deeper analysis of portfolio composition and loss provisioning. The concerning metric is contextualized by the fact that a significant portion of the loan book (non-interest-bearing card bills paid in full) generates no losses. The more relevant metric for credit quality is the 15-90 day late payment rate on interest-charging loans, which improved from 8.2% to 8%. While the share of very late loans continues to rise, Nubank has provisioned 234% of late loans for losses, suggesting conservative loss reserves. Investors should not rely on headline delinquency figures alone but examine portfolio mix shift, early warning indicators, and loss provisioning adequacy."
+        ],
+        "tickers_mentioned": []
+      },
+      "price_at_recommendation": {}
     }
   },
   "channel_ids": {

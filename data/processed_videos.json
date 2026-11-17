@@ -36947,6 +36947,22 @@
         ]
       },
       "price_at_recommendation": {}
+    },
+    "lhUhtSNADJ4": {
+      "channel": "CouchInvestor",
+      "title": "Microsoft Signed Nebius for Up to $19.4 Billion",
+      "upload_date": "20261117",
+      "url": "https://www.youtube.com/watch?v=lhUhtSNADJ4",
+      "processed_at": "2026-11-17T08:55:28.717532",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Nebius faces significant competitive pressure across all four layers of its business model. Each layer has giant rivals, indicating intense competition in GPU rental, cloud services, token production, and AI agent tools. Additionally, the company's expansion strategy requires substantial capital expenditure and dilution through new share issuance to fund acquisitions, which could pressure shareholder returns."
+        ],
+        "tickers_mentioned": []
+      },
+      "price_at_recommendation": {}
     }
   },
   "channel_ids": {

@@ -36997,6 +36997,15 @@
         "tickers_mentioned": []
       },
       "price_at_recommendation": {}
+    },
+    "20Az04--Pzk": {
+      "channel": "CouchInvestor",
+      "title": "NVIDIA EARNINGS DAY, MORE INFO ON THE SCANDAL, MAX PAIN FOR STOCKS",
+      "upload_date": "20261117",
+      "url": "https://www.youtube.com/watch?v=20Az04--Pzk",
+      "processed_at": "2026-11-17T14:33:42.785053",
+      "transcript_fails": 1,
+      "last_reason": "error"
     }
   },
   "channel_ids": {
@@ -37010,6 +37019,6 @@
   },
   "last_eval_week": "2026-W47",
   "alerts": {
-    "fallback": "2026-11-13T09:39:33.361535"
+    "fallback": "2026-11-17T14:33:44.647454"
   }
 }

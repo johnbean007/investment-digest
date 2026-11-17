@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T12:10:03.149709",
+  "generated_at": "2026-11-17T13:13:07.258003",
   "video_count": 155,
   "stock_count": 185,
   "stocks": [
@@ -448,7 +448,7 @@
         "currency": "USD",
         "sector": "Technology",
         "industry": "Semiconductors",
-        "market_cap": 827063205888,
+        "market_cap": 834616492032,
         "current_price": 504.28,
         "daily_change_pct": -5.58,
         "month_change_pct": -6.28,
@@ -1484,7 +1484,7 @@
         "analyst_buy": 38,
         "analyst_hold": 4,
         "analyst_sell": 1,
-        "analyst_target": 2108.82,
+        "analyst_target": 2108.12,
         "analyst_upside_pct": 49.9,
         "earnings_date": null,
         "earnings_days": null
@@ -2695,7 +2695,7 @@
         "ma200": 315.41,
         "ma_signal": "golden_cross",
         "pe_trailing": 19.885237,
-        "pe_forward": 16.447924,
+        "pe_forward": 16.453321,
         "peg_ratio": 0.79,
         "revenue_growth": 0.055,
         "earnings_growth": null,
@@ -5558,8 +5558,8 @@
         "analyst_buy": 33,
         "analyst_hold": 2,
         "analyst_sell": 1,
-        "analyst_target": 38.94,
-        "analyst_upside_pct": 41.4,
+        "analyst_target": 38.88,
+        "analyst_upside_pct": 41.2,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -5686,8 +5686,8 @@
         "analyst_buy": 4,
         "analyst_hold": 3,
         "analyst_sell": 0,
-        "analyst_target": 106.94,
-        "analyst_upside_pct": 16.9,
+        "analyst_target": 106.99,
+        "analyst_upside_pct": 17.0,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -9524,7 +9524,7 @@
         "analyst_hold": 2,
         "analyst_sell": 0,
         "analyst_target": 23.72,
-        "analyst_upside_pct": 84.8,
+        "analyst_upside_pct": 84.7,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -9897,7 +9897,7 @@
         "currency": "USD",
         "sector": "Technology",
         "industry": "Semiconductors",
-        "market_cap": 806450624,
+        "market_cap": 811846208,
         "current_price": 4.66,
         "daily_change_pct": -9.16,
         "month_change_pct": -15.58,

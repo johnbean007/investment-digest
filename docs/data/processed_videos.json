@@ -37640,6 +37640,33 @@
         ]
       },
       "price_at_recommendation": {}
+    },
+    "FtyJ7aWShxQ": {
+      "channel": "FinTek",
+      "title": "Top Robotics Supply Chain Stock to BUY NOW for 2027",
+      "upload_date": "20261118",
+      "url": "https://www.youtube.com/watch?v=FtyJ7aWShxQ",
+      "processed_at": "2026-11-18T13:38:11.238754",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "MP",
+            "company_name": "MP Materials",
+            "reason": "MP Materials helps build an end-to-end American supply chain with raw materials for emerging technologies. The company has announced Project Swarm to build an end-to-end drone supply chain in the US for MP Materials magnets, demonstrating interest from drone makers. Revenue exceeded $100 million, up 89% year-over-year, showing strong growth momentum. The investment thesis is a bet on continued growth rather than established profits today.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The company is not yet profitable, so investors are betting on future growth rather than current earnings. This makes it a higher-risk, growth-dependent investment."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": [
+          "MP"
+        ]
+      },
+      "price_at_recommendation": {
+        "MP": 34.86
+      }
     }
   },
   "channel_ids": {

@@ -37620,6 +37620,26 @@
         "tickers_mentioned": []
       },
       "price_at_recommendation": {}
+    },
+    "d20ddX0mQqU": {
+      "channel": "CouchInvestor",
+      "title": "Down 50% Then Up 50% Still Leaves You Down 25%",
+      "upload_date": "20261118",
+      "url": "https://www.youtube.com/watch?v=d20ddX0mQqU",
+      "processed_at": "2026-11-18T11:04:26.608015",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Asymmetric mathematics of losses and gains: A 50% loss requires a 100% gain to break even. Losses compound faster than gains recover them. A 20% decline requires 25% gain to recover; an 80% decline requires 400% gain to recover. This creates a mathematical disadvantage where investors must size positions appropriately to manage downside risk.",
+          "Market recovery timelines can be extended: The NASDAQ lost nearly 80% after 2000 and took 15 years to return to its previous highs. Investors should prepare for prolonged recovery periods and avoid panic selling during downturns, as selling locks in losses.",
+          "Position sizing is critical risk management: Individual stock positions should be sized conservatively relative to total portfolio (example: 5% of portfolio maximum) so that even significant declines (50%) in any single holding represent manageable portfolio losses (2.5%) rather than disasters. Larger position sizes amplify the negative impact of downturns."
+        ],
+        "tickers_mentioned": [
+          "NASDAQ"
+        ]
+      },
+      "price_at_recommendation": {}
     }
   },
   "channel_ids": {

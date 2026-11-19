@@ -37720,6 +37720,42 @@
         ]
       },
       "price_at_recommendation": {}
+    },
+    "gJYfKQfjqj4": {
+      "channel": "CouchInvestor",
+      "title": "Apple Has Spent Over $900 Billion Buying Its Own Shares",
+      "upload_date": "20261119",
+      "url": "https://www.youtube.com/watch?v=gJYfKQfjqj4",
+      "processed_at": "2026-11-19T12:36:11.049719",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Share buybacks are only beneficial when executed at reasonable valuations. Paying too much for shares in a buyback program destroys shareholder value by swapping real cash for overpriced equity. Additionally, capital deployed to buybacks represents an opportunity cost\u2014every dollar spent on buybacks is a dollar not invested in research, development, or growth initiatives that could drive future profitability and competitive advantage."
+        ],
+        "tickers_mentioned": [
+          "AAPL"
+        ]
+      },
+      "price_at_recommendation": {}
+    },
+    "_73AIg30e6w": {
+      "channel": "CouchInvestor",
+      "title": "Traders Shorted More GameStop Shares Than the Company Had",
+      "upload_date": "20261119",
+      "url": "https://www.youtube.com/watch?v=_73AIg30e6w",
+      "processed_at": "2026-11-19T12:36:29.670703",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Short squeezes can create extreme price volatility and disconnect from fundamental value. The GameStop case in January 2021 saw the price rise from $20 to $347 in two weeks, driven not primarily by short covering but by retail buying momentum. Investors should be aware that stocks with short interest exceeding 100% of float are susceptible to rapid price appreciation followed by potential collapses, and that losses on short positions can exceed initial investment amounts."
+        ],
+        "tickers_mentioned": [
+          "GME"
+        ]
+      },
+      "price_at_recommendation": {}
     }
   },
   "channel_ids": {

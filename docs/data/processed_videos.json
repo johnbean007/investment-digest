@@ -37667,6 +37667,59 @@
       "price_at_recommendation": {
         "MP": 34.86
       }
+    },
+    "3w-pXY9LKiU": {
+      "channel": "CouchInvestor",
+      "title": "Apple and Nvidia Don't Even Own the Factory That Makes Their Chips",
+      "upload_date": "20261118",
+      "url": "https://www.youtube.com/watch?v=3w-pXY9LKiU",
+      "processed_at": "2026-11-19T09:34:28.179246",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "TSMC geopolitical concentration risk: TSMC manufactures the majority of advanced chips for both Apple and Nvidia, with newest chip production concentrated in Taiwan, located across the water from China. While TSMC is building additional capacity in Arizona, Japan, and Germany, a disruption on the Taiwan island could impact the entire global tech ecosystem. The creator emphasizes that most of the advanced chip manufacturing capacity sits on one island, creating systemic vulnerability for the entire technology sector."
+        ],
+        "tickers_mentioned": [
+          "AAPL",
+          "NVDA",
+          "TSM"
+        ]
+      },
+      "price_at_recommendation": {}
+    },
+    "CE70E2DZYZU": {
+      "channel": "Ticker Symbol: YOU",
+      "title": "Get In Early. This Stock Will Make Millionaires By 2029.",
+      "upload_date": "20261118",
+      "url": "https://www.youtube.com/watch?v=CE70E2DZYZU",
+      "processed_at": "2026-11-19T09:34:48.100128",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "CRBS",
+            "company_name": "Cerebras Systems",
+            "reason": "Creator is starting to slowly build a position in Cerebras stock after waiting for earnings and the lockup period to expire. The company shows strong fundamentals: core revenue grew 70% year-over-year beating guidance, cloud revenue almost quadrupled, core cloud margins almost tripled from 16.5% to 46.9%, and they achieved core net income of $30 million when analysts expected losses. The stock has fallen approximately two-thirds from its IPO price, making it significantly cheaper. The creator believes the wafer-scale chip technology provides a legitimate competitive advantage with potential for revenues to triple to $3 billion next year. The company has signed major deals with Oracle, Microsoft, and Amazon in addition to its OpenAI contract, reducing customer concentration risk over time. The valuation of 26x core revenue this year and 8x next year is more reasonable than the IPO pricing, though still dependent on execution.",
+            "when_to_buy": "Starting small and building position slowly after lockup period expiration. Creator expects to see audited financials from annual report in early 2025, Oracle and Microsoft revenues on the books, OpenAI delivery delays resolved, and margins moving toward 60% long-term target before significantly increasing position.",
+            "target_price": null,
+            "cautions": "Significant execution risks remain. Customer concentration is severe: OpenAI represents 34% of current revenue with 72% of revenue coming from just two customers (OpenAI and MBZ UAI). Cerebras is behind schedule delivering compute capacity to OpenAI with potential contract cancellation if delays exceed 90 days. The company is burning cash rapidly at $1.4 billion in first 9 months of 2024. Hardware margins fell from 50% to 31% year-over-year due to strategic discounting. Short seller report claims chips wear out in 1.4-2.3 years instead of the 3-5 year depreciation schedule used in accounting, though CEO disputes this and claims TSMC qualified them for 10 years at 105\u00b0C. OpenAI warrants could dilute shareholders by approximately 10% as they vest. Revenue projections assume tripling to $3 billion, which requires near-perfect execution. Approximately 45% of revenue still comes from UAE which operates under strict export licenses that can be revoked. Warrants held by OpenAI represent approximately 14% of shares outstanding."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Cerebras faces severe customer concentration risk with 72% of revenue from two customers (OpenAI at 34%, MBZ UAI and AI University at 38%) and the majority of backlog from OpenAI alone. This creates significant dependency risk if either customer reduces orders, encounters financial difficulties, or cancels contracts due to delivery delays.",
+          "Export control and geopolitical risk: approximately 45% of Cerebras revenue comes from the UAE and is subject to strict U.S. export licenses that can be revoked at any time, creating regulatory uncertainty around a major revenue stream.",
+          "Chip durability and lifespan uncertainty: A credible short seller report claims Cerebras wafer-scale chips have useful lifespans of only 1.4-2.3 years versus the 3-5 year depreciation schedule used in financial reporting. While the CEO disputes this, the discrepancy is material to margins and equipment replacement costs, and the actual lifespan remains unproven in long-term field deployment.",
+          "Execution risk on major contracts: Cerebras is currently behind schedule on OpenAI compute capacity delivery due to data center and power infrastructure delays that could extend into 2027. If cumulative delays exceed 90 days on any contract phase, customers have termination rights.",
+          "High cash burn and capital intensity: The company is burning approximately $1.4 billion annually and requires massive ongoing capital expenditures to build data center infrastructure, with payback occurring over years rather than upfront, creating long-term funding requirements.",
+          "Valuation dependent on aggressive growth: Stock valuation of 26x this year's core revenue and 8x next year's assumes revenue will triple to $3 billion in 2025, representing highly aggressive growth that requires near-perfect execution across multiple fronts."
+        ],
+        "tickers_mentioned": [
+          "CRBS",
+          "NVDA"
+        ]
+      },
+      "price_at_recommendation": {}
     }
   },
   "channel_ids": {

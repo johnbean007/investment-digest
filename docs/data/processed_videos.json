@@ -37756,6 +37756,15 @@
         ]
       },
       "price_at_recommendation": {}
+    },
+    "nr6cAdgojNQ": {
+      "channel": "FinTek",
+      "title": "The Danger of Shorting the Stock Market",
+      "upload_date": "20261119",
+      "url": "https://www.youtube.com/watch?v=nr6cAdgojNQ",
+      "processed_at": "2026-11-23T08:57:48.878920",
+      "transcript_fails": 1,
+      "last_reason": "error"
     }
   },
   "channel_ids": {
@@ -37769,6 +37778,6 @@
   },
   "last_eval_week": "2026-W47",
   "alerts": {
-    "fallback": "2026-11-17T14:33:44.647454"
+    "fallback": "2026-11-23T08:57:49.022737"
   }
 }

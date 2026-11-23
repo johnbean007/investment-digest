@@ -37765,6 +37765,409 @@
       "processed_at": "2026-11-23T08:57:48.878920",
       "transcript_fails": 1,
       "last_reason": "error"
+    },
+    "mYiLeZ6r0_0": {
+      "channel": "Mr. FIRED Up Wealth",
+      "title": "Why I'm Buying These 10 Stocks! Best Stocks to Buy Now!",
+      "upload_date": "20261119",
+      "url": "https://www.youtube.com/watch?v=mYiLeZ6r0_0",
+      "processed_at": "2026-11-23T10:32:57.594213",
+      "analysis_fails": 1
+    },
+    "zaUp2uH6Zy0": {
+      "channel": "CouchInvestor",
+      "title": "Goldman's Boss Calls 5% Normal. History Agrees",
+      "upload_date": "20261123",
+      "url": "https://www.youtube.com/watch?v=zaUp2uH6Zy0",
+      "processed_at": "2026-11-23T10:33:03.504097",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "The 10-year US Treasury yield at 5% represents a return to historical norms after an exceptional 19-year period of artificially suppressed interest rates (2007-2026). This shift signals a structural change in the operating environment for investors and the broader economy. A generation of investors have operated exclusively in a cheap money regime and must adapt to fundamentally different market conditions and valuation frameworks."
+        ],
+        "tickers_mentioned": []
+      },
+      "price_at_recommendation": {}
+    },
+    "nhrwP7oBiFc": {
+      "channel": "CouchInvestor",
+      "title": "Google Pays Apple About $20 Billion a Year for the iPhone Search Box",
+      "upload_date": "20261123",
+      "url": "https://www.youtube.com/watch?v=nhrwP7oBiFc",
+      "processed_at": "2026-11-23T10:33:12.778832",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Google's $20 billion annual payment to Apple for default search box placement on iPhone is under legal threat following a federal court ruling that Google broke antitrust law. While Google can continue payments, they are now limited to one-year deals instead of longer-term agreements, and Google is appealing the ruling. This regulatory uncertainty creates instability in a core revenue channel for both companies.",
+          "AI chatbots represent an emerging competitive threat to Google's search monopoly and the search box business model itself. The video notes that AI chatbots could 'build a new door,' suggesting that Google's paid access to the iPhone search box may become less valuable if users shift to alternative search methods or AI-powered discovery tools."
+        ],
+        "tickers_mentioned": [
+          "GOOGL",
+          "AAPL"
+        ]
+      },
+      "price_at_recommendation": {}
+    },
+    "c5d18sEbQ6Y": {
+      "channel": "CouchInvestor",
+      "title": "My Worst Week In The Stock Market. An Honest Review",
+      "upload_date": "20261122",
+      "url": "https://www.youtube.com/watch?v=c5d18sEbQ6Y",
+      "processed_at": "2026-11-23T10:34:00.703611",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NEBS",
+            "company_name": "Nebius",
+            "reason": "Creator bought more shares during the crash at $90 and believes it will be worth significantly more in the future. Despite being down from $300 to $81, the creator maintains conviction in the company's business fundamentals. The creator emphasized that if they didn't believe in the company, they wouldn't be buying it. Nebius is pursuing short-term contracts at premium prices with payback periods of less than a year, which allows faster capacity buildout. The company signed partnerships with Palantir and is focused on AI infrastructure, which the creator views as a natural path for enterprise adoption.",
+            "when_to_buy": "Creator bought at $90 during the crash; current price mentioned as $81.31",
+            "target_price": "Creator did not provide a specific target price but expects it to return to significantly higher levels than current $81",
+            "cautions": "Creator acknowledges Nebius was 'overly bullish' at $300 but doesn't think it should be at $80 either. The stock is highly volatile and can move 20% in either direction in a single day. Creator owns a large position and admits they may have been 'too optimistic' about growth rates in the near term."
+          },
+          {
+            "ticker": "SOFI",
+            "company_name": "SoFi Technologies",
+            "reason": "Creator bought more shares during the crash. The fintech company is viewed as very profitable and growing rapidly. Creator maintained this position despite the severe market selloff, indicating conviction in the long-term business thesis.",
+            "when_to_buy": "Creator bought during the crash week at unspecified prices",
+            "target_price": null,
+            "cautions": "Stock is currently under its weekly 200-day moving average at $11.25, technically in 'no man's land.' Despite cheap valuation, the technical picture is weak."
+          },
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet Inc.",
+            "reason": "Creator bought more Google shares during the crash despite the stock being down significantly. Google's core business continues to grow, Google Cloud is becoming increasingly profitable and much bigger. Creator believes the valuation is attractive relative to the company's fundamentals and growth prospects.",
+            "when_to_buy": "Creator bought during the crash week at unspecified prices; stock closed the week at $265",
+            "target_price": null,
+            "cautions": "Stock is now back under $300 and just under the weekly 100-day moving average at $265. Creator expressed confusion why Google is down the same amount as SpaceX despite being a much safer bet with proven profitable core businesses."
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms",
+            "reason": "Creator bought more Meta shares during the crash. Meta was described as 'consistently undervalued' and the creator bought additional shares at current prices. The company's core business is super profitable and established, making it a safer bet than many high-growth competitors.",
+            "when_to_buy": "Creator bought during the crash week at unspecified prices; stock closed at $560",
+            "target_price": null,
+            "cautions": "Meta is currently in 'no man's land' technically, back under $600. Creator noted the stock is not in the strongest technical position despite fundamental attractiveness."
+          },
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Creator bought a small amount of Nvidia during the crash because they believe it's 'too cheap' at current levels. Despite Nvidia increasing their outlook to at least 75% growth next year (up from 70%), the stock has collapsed 48.5% from $242 peak. The company's roadmap hasn't changed and long-term growth prospects remain intact. Creator views the valuation as extreme relative to the business fundamentals.",
+            "when_to_buy": "Creator bought a small position during the crash at unspecified prices; stock is at $125, down 48.5% from $242 peak",
+            "target_price": null,
+            "cautions": "Nvidia faces significant headwinds from the Jensen Huang affair scandal and alleged export violations to China. The stock has fallen for seven consecutive weeks and RSI is at 15, indicating extreme oversold conditions. Creator acknowledges these are unprecedented risks but believes they are priced in. The timing of buying is difficult given the negative headlines."
+          },
+          {
+            "ticker": "MU",
+            "company_name": "Micron Technology",
+            "reason": "Creator bought more Micron shares during the crash. Micron was 'consistently undervalued' throughout the year and creator has taken profits before. The company has HPM (high bandwidth memory) exposure which provides growth optionality. At current levels, valuation appears attractive relative to growth prospects.",
+            "when_to_buy": "Creator bought during the crash week at unspecified prices; stock is currently under $600",
+            "target_price": null,
+            "cautions": "Stock is currently in 'no man's land' technically, well below moving averages. This is a volatile semiconductor name that experienced extreme drawdowns in the recent crash. Creator noted that just because a stock is cheaper doesn't mean it's undervalued."
+          },
+          {
+            "ticker": "AVGO",
+            "company_name": "Broadcom",
+            "reason": "Broadcom is viewed as 'very good company' at current valuation. Trading at approximately 10 times 2028 earnings. The company is expected to generate $15 billion of AI revenue by 2028 and double that again. Despite Google's shift toward MediaTek for some DPUs, Broadcom will still be used as the primary supplier. Valuation-wise considered 'quite cheap' for the growth profile.",
+            "when_to_buy": "Stock closed the week at $341, closer to $300 per share",
+            "target_price": "Creator referenced $314 as a 100-day moving average level to reclaim for momentum",
+            "cautions": "Broadcom took a hit due to Google's headline about using MediaTek for some DPU generations, though this represents only a small portion of Google's AI chip needs. Currently back toward the lower end of the trading range."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "RDDT",
+            "company_name": "Reddit",
+            "reason": "Creator has lower conviction in Reddit compared to other high-growth names like Nebius and Micron. The position is in the 'avoid bucket' at the moment due to multiple overhangs. The stock has lost 50% of its value and there is uncertainty around Google traffic loss and AI data licensing deals. Creator owns a small position but would not add to it at current prices.",
+            "risk": "Stock is down approximately 50% and trading in weak technical position. Uncertainty around data licensing deals and Google traffic represents ongoing downside risk."
+          },
+          {
+            "ticker": "AXON",
+            "company_name": "Axon Enterprise",
+            "reason": "Creator has lower conviction in Axon compared to higher-growth names. This is described as 'not a name that is cheap, just a name that gets less expensive.' The stock is in the 'avoid area' currently. While a good company, it does not have the growth profile to justify accumulation at current prices when better opportunities exist.",
+            "risk": "Stock is back under $300 per share with a major floor at $250. Would need to reclaim significant price action to get back to $400 per share, representing substantial risk."
+          },
+          {
+            "ticker": "CORE",
+            "company_name": "Core Scientific",
+            "reason": "Creator views Core as a 'falling knife, falling snowball, falling burning rocket' - completely broken. The stock is in the 'avoid area' until there is clarity and sentiment change. While the company is much bigger today than at IPO, the stock has underperformed dramatically.",
+            "risk": "Stock is under IPO price despite company being much larger. Technically broken with no clear support levels. Requires significant positive catalyst before accumulation is warranted."
+          },
+          {
+            "ticker": "RLH",
+            "company_name": "Rocket Lab",
+            "reason": "Despite creator's love for the company and long-term belief in the story, it is in the 'avoid' category currently. The stock 'gets just less expensive, not undervalued.' The company needs catalysts from the Neutron Rocket or more contracts to justify accumulation. Creator prefers to wait for better risk/reward.",
+            "risk": "Stock at $45 per share and needs catalysts to move higher. Currently expensive on a valuation basis despite recent declines. Primarily dependent on execution of Neutron Rocket development."
+          },
+          {
+            "ticker": "NFLX",
+            "company_name": "Netflix",
+            "reason": "Despite being at historical low valuations relative to history, Netflix is in the 'avoid' category. While cheaper than 5 years ago on a 10-year average basis, the company is growing much slower than it did 5-10 years ago. Creator wants to see growth reaccelerate before adding to the small existing position.",
+            "risk": "Growth has decelerated significantly from historical levels. While margins have expanded and profitability improved, the lack of revenue growth acceleration limits upside potential."
+          },
+          {
+            "ticker": "UBER",
+            "company_name": "Uber Technologies",
+            "reason": "Currently in 'no man's land' with an overhang on the company due to concerns about robotaxi disruption. Creator believes robo-taxis will not take over Uber's 16 billion trips anytime soon, but the market is pricing in this uncertainty. While fundamentally undervalued, the technical picture is weak.",
+            "risk": "Overhang from robotaxi competition concerns. Stock is in weak technical position. Requires clarity on autonomous vehicle timeline and competitive threats before accumulation."
+          },
+          {
+            "ticker": "PLTR",
+            "company_name": "Palantir Technologies",
+            "reason": "Creator did not explicitly recommend Palantir. While mentioned in context of Nebius partnerships, it was not flagged as a buy recommendation during the crash.",
+            "risk": null
+          }
+        ],
+        "key_warnings": [
+          "Market experienced its worst week since 2008/COVID: NASDAQ down 10.5% in one week, which happens approximately once every 200 weeks. This is the fourth biggest VIX spike since 1990 (up 86% in one week). Tech stocks are down 17.2%, the worst since 2003 (worse than 2008, 2018, 2020 COVID crash). This level of decline is statistically extreme but not unprecedented.",
+          "Nvidia crisis creating systemic risk: Nvidia has experienced 7 consecutive weeks of red candles (not seen since 2008) and is down 48.5% from peak. The alleged Jensen Huang affair scandal combined with export violation concerns has created a trust/governance crisis at the company. Potential leadership uncertainty and regulatory investigation could extend the drawdown.",
+          "Semiconductor and AI infrastructure sector experiencing severe repricing: Beyond Nvidia, semiconductor names are collapsing. SanDisk down 72% from peak, Micron under $600, CoreWeave down 71%, Nebius down 72%. While some overvaluation has been corrected, further capitulation is possible if demand growth slows. Neo-cloud and AI infrastructure buildout may face financing challenges.",
+          "Valuation compression despite earnings growth: S&P 500 P/E has compressed from $23 (late 2025) to $17 (current), below 5-10 year average of $19-20. While this provides some downside protection, the compression happened very fast and suggests potential for further mean reversion if economic growth disappoints.",
+          "Fed policy uncertainty: Probable rate hike expected in December 2026, with unclear cadence for 2027. Rising interest rates would increase borrowing costs for heavily-capex dependent companies like neo-cloud operators. This could constrain ability to finance rapid expansion.",
+          "Market breadth deterioration: Many high-conviction names (Axon, CoreWeave, Palantir, Rocket Lab, etc.) remain broken technically despite fundamental quality. Indicates panic selling has extended beyond the most obvious culprits. This suggests potential for further indiscriminate selling.",
+          "Short-term vs. Long-term split: While historical data shows markets typically higher 1-year after major drops (66% of the time, up 17.7% on average when drops don't reach -20%), the path is not smooth. Fast drops have often seen additional 10-14% declines before recovery, meaning further pain may be ahead before the bounce occurs."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "NEBS",
+          "GOOGL",
+          "META",
+          "AMD",
+          "SOFI",
+          "RDDT",
+          "NFLX",
+          "MRVL",
+          "AXON",
+          "PLTR",
+          "RLH",
+          "MU",
+          "AVGO",
+          "SNDK",
+          "CORE",
+          "IN",
+          "UBER",
+          "MELI",
+          "NEW",
+          "PYPL",
+          "AMZN",
+          "TSLA",
+          "HOOD",
+          "COIN",
+          "ORCL",
+          "HPE",
+          "WORK",
+          "ZM",
+          "COIN",
+          "ENTPS",
+          "DELL",
+          "NVR",
+          "SAM",
+          "VEEV",
+          "SPLK",
+          "PSTG",
+          "CRWD",
+          "NET",
+          "DBX",
+          "MNST",
+          "CPRT",
+          "DECK",
+          "LRCX",
+          "ASML",
+          "QCOM",
+          "INTC",
+          "TXN",
+          "STM",
+          "SMCI",
+          "SUPER",
+          "AI",
+          "CWAN",
+          "NVO"
+        ]
+      },
+      "price_at_recommendation": {
+        "UBER": 63.47,
+        "PLTR": 143.49,
+        "RDDT": 85.33,
+        "NFLX": 56.73,
+        "NVDA": 125.53,
+        "MU": 594.51,
+        "AVGO": 304.41,
+        "GOOGL": 265.29,
+        "SOFI": 12.48,
+        "META": 560.84,
+        "AXON": 291.14
+      }
+    },
+    "MW7pgnUxz9w": {
+      "channel": "CouchInvestor",
+      "title": "Grab\u2019s Next Move: What Investors Need to Know Right Now",
+      "upload_date": "20261121",
+      "url": "https://www.youtube.com/watch?v=MW7pgnUxz9w",
+      "processed_at": "2026-11-23T10:34:08.307501",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": []
+      },
+      "price_at_recommendation": {}
+    },
+    "DZE-l6hOQLo": {
+      "channel": "CouchInvestor",
+      "title": "Let's Talk About The Market",
+      "upload_date": "20261120",
+      "url": "https://www.youtube.com/watch?v=DZE-l6hOQLo",
+      "processed_at": "2026-11-23T10:34:37.897569",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "UBER",
+            "company_name": "Uber Technologies",
+            "reason": "Trading at a forward PE of 16.3x, which the creator considers cheap. The company is growing and very profitable despite trailing PE pressures from UK business changes. The creator owns this stock and sees margin of safety at current levels. Long-term growth potential exists beyond current overhang concerns about autonomous vehicles, which the creator believes will not materially harm the overall business.",
+            "when_to_buy": "Current levels during market correction",
+            "target_price": null,
+            "cautions": "Market overhang regarding future autonomous vehicle disruption to the business model. Trailing PE of 140.1x is inflated due to UK business complications, so forward-looking metrics are more relevant."
+          },
+          {
+            "ticker": "NFLX",
+            "company_name": "Netflix",
+            "reason": "Very cheap valuation at current levels, trading at the lowest multiples in approximately 10 years. Very profitable company still growing, though growth has decelerated. Potential major growth catalyst: Netflix competing for World Cup US streaming rights, which could be a very big growth driver if secured. This could accelerate growth and re-rate the multiple.",
+            "when_to_buy": "Current market correction levels",
+            "target_price": null,
+            "cautions": "Market concerns about growth deceleration compared to historical rates. Lower multiple reflects slower growth rate compared to past performance. World Cup rights acquisition is speculative."
+          },
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices",
+            "reason": "Down approximately 9-10% in recent selloff. Part of semiconductor ecosystem expected to see significant growth in 2027 and 2028. Companies have provided guidance extending to 2029-2030 showing expected growth ahead. Creators believe the fundamental business thesis has not changed despite price decline.",
+            "when_to_buy": "During current market correction",
+            "target_price": null,
+            "cautions": "Stock is cyclical in nature. Recent sharp declines (down 9-10% in recent trading days) reflect sector-wide weakness unrelated to company-specific issues."
+          },
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet Inc.",
+            "reason": "Up 1.7% during broader market selloff, showing relative strength. Gemini AI model has gained dominant market share, reaching 83.7% by end of 2026 (up from 7.3% in September). Demonstrates strong competitive positioning in AI race after period of doubt. Creator emphasizes Google as prime example of when to 'place your bets' during extreme fear and doubt about the company.",
+            "when_to_buy": "During periods of extreme market fear and doubt about Google's AI capabilities",
+            "target_price": null,
+            "cautions": "Had experienced significant doubt and negative sentiment before recent Gemini improvements. Market sentiment had written off Google as 'completely dead' in AI before recent recovery."
+          },
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Despite being down 6.3% in recent trading and down significantly from prior highs, expected to grow 75% next fiscal year. Creator owns the stock and believes the fundamental thesis has not changed. Semiconductor buildout story continues through 2027-2028, not just in United States but globally. Creator believes fundamental business metrics (revenue growth, cash from operations, guidance, management commentary) remain strong.",
+            "when_to_buy": "Current levels during market correction",
+            "target_price": null,
+            "cautions": "CEO Jensen Huang no longer leading company (probability of return estimated at 8%). Recent sharp declines of 6.3% reflect broader semiconductor sector weakness. Creator expresses uncertainty about CEO succession situation though believes internal hiring makes most sense for company."
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms",
+            "reason": "Creator mentions Meta as owned position with strong business fundamentals. Part of median five hyperscalers trading at 22x forward earnings, described as 'some of the best businesses on the planet' at non-expensive valuations. Expected to continue growth trajectory through 2027-2028.",
+            "when_to_buy": "Current market levels",
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "NEBS",
+            "company_name": "Nebius AI",
+            "reason": "Creator mentions as owned position. Expected to participate in AI infrastructure buildout through 2027-2028. Creator acknowledges this may have been only mistake in portfolio management was not taking profits on this position, but long-term thesis remains intact.",
+            "when_to_buy": "Current levels, though creator notes hindsight suggests profit-taking would have been prudent",
+            "target_price": null,
+            "cautions": "Creator regrets not taking profits from this position earlier during the year-to-date rally. High volatility and concentration in AI theme creates risk."
+          },
+          {
+            "ticker": "PLTR",
+            "company_name": "Palantir Technologies",
+            "reason": "Stock down to $146, reflecting significant selloff in growth/AI category stocks. Creator mentions as part of portfolio exposure to growth and infrastructure names experiencing sharp declines.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Down significantly from prior highs. Creator does not provide explicit bullish case for this holding, only mentions as part of portfolio experiencing pain."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "RDDT",
+            "company_name": "Reddit Inc.",
+            "reason": "While listed among cheap stocks by forward PE of 13.1x, creator explicitly notes there are legitimate questions around the business itself going forward. Trailing PE of 18.3x suggests market still pricing in uncertainty despite attractive forward multiple. Creator acknowledges this explains why stock is under pressure despite low forward valuation.",
+            "risk": "Business model uncertainty and execution risks not fully priced into forward multiples."
+          }
+        ],
+        "key_warnings": [
+          "Market experiencing 8.3% decline in S&P 500 (possibly 8.5-8.6%) after 46 days, well above median correction duration of 26 days. While this exceeds median, creator provides historical context showing many similar corrections have reversed without further major declines. NASDAQ down more than S&P 500.",
+          "November 2026 is shaping up as one of the worst months since 2009, currently down 5.27%. Creator notes this is unusual as November historically tends to be positive or flat, contrasting with 2022's rebound period.",
+          "Questions about AI spending justification, return on investment, and business legitimacy are now being widely asked. Creator warns this is counterintuitive timing \u2014 these questions should have been asked at all-time highs, not during market bottoms. Suggests many investors may not have solid thesis for their holdings if they're only asking due diligence questions when stocks decline.",
+          "Fed decision in December carries uncertainty around rate hikes. While 92% probability of 25 basis point hike is expected, creator cautions against 50 or 100 basis point increases. Market may be near inflection point where further rate acceleration becomes counterproductive.",
+          "Nvidia CEO succession situation creates uncertainty. Jensen Huang is no longer CEO with only 8% probability of return, though creator believes internal promotion makes most sense. Odds of various internal candidates becoming permanent CEO range from 9% to 28%, adding execution risk."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "MU",
+          "AMD",
+          "AVGO",
+          "NOW",
+          "CRM",
+          "ADBE",
+          "ORCL",
+          "PLTR",
+          "IBM",
+          "GOOGL",
+          "UBER",
+          "NFLX",
+          "RDDT",
+          "NEBS",
+          "META",
+          "SMH",
+          "ARM",
+          "SNAP"
+        ]
+      },
+      "price_at_recommendation": {
+        "UBER": 63.47,
+        "PLTR": 143.49,
+        "RDDT": 85.33,
+        "NFLX": 56.73,
+        "AMD": 424.39,
+        "NVDA": 125.53,
+        "GOOGL": 265.29,
+        "META": 560.84
+      }
+    },
+    "jcZrTzhXxVc": {
+      "channel": "CouchInvestor",
+      "title": "Visa Never Lends You a Cent",
+      "upload_date": "20261120",
+      "url": "https://www.youtube.com/watch?v=jcZrTzhXxVc",
+      "processed_at": "2026-11-23T10:34:46.126089",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Visa's business model faces regulatory scrutiny over swipe fees that stores complain about. Regulators are actively watching the payments industry, creating potential headwinds for fee-based revenue models.",
+          "Instant bank payments and alternative payment infrastructure are emerging as competitive threats to Visa's traditional toll-based model. New payment roads being built by banks could disrupt Visa's revenue stream as they bypass Visa's network."
+        ],
+        "tickers_mentioned": []
+      },
+      "price_at_recommendation": {}
+    },
+    "1OpwpCUW41E": {
+      "channel": "CouchInvestor",
+      "title": "Rocket Lab Is Secretly a Satellite Company",
+      "upload_date": "20261120",
+      "url": "https://www.youtube.com/watch?v=1OpwpCUW41E",
+      "processed_at": "2026-11-23T10:34:54.881521",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Rocket Lab's business model transition creates execution risk. The company is pivoting from a pure rocket launch provider (Electron) to a vertically integrated space systems company through significant acquisitions of satellite component manufacturers and operators. The core risk is that Neutron, its critical large rocket platform, continues to experience delays. This delay impacts the company's ability to generate returns on its substantial capital deployment through acquisitions and new share issuance, while the satellite business cannot fully offset the dependency on successful Neutron launches for long-term value creation."
+        ],
+        "tickers_mentioned": [
+          "RKLB"
+        ]
+      },
+      "price_at_recommendation": {}
     }
   },
   "channel_ids": {
@@ -37776,7 +38179,7 @@
     "JoseNajarroStocks": "UC5cEHfCr6WOE1R1zcohd1IA",
     "FinTek": "UCxdWHEhEPiYhCADMrn4PdhQ"
   },
-  "last_eval_week": "2026-W47",
+  "last_eval_week": "2026-W48",
   "alerts": {
     "fallback": "2026-11-23T08:57:49.022737"
   }

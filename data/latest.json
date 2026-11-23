@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-23T10:37:37.766195",
-  "video_count": 151,
-  "stock_count": 164,
+  "generated_at": "2026-11-23T12:31:43.749962",
+  "video_count": 159,
+  "stock_count": 173,
   "stocks": [
     {
       "ticker": "6752",
@@ -237,6 +237,70 @@
       "description": "Manufactures tasers, body cameras, and police software systems"
     },
     {
+      "ticker": "ABOT",
+      "company_name": "Anthropic (inferred from IPO discussion)",
+      "buy_count": 1,
+      "avoid_count": 0,
+      "first_mention_date": "19 Nov 2026",
+      "price_at_first_mention": 39.91,
+      "pct_change_since_rec": 0.0,
+      "market": {
+        "ticker": "ABOT",
+        "name": "ABACUS FCF INNOVATION LEADERS E",
+        "currency": "USD",
+        "sector": null,
+        "industry": null,
+        "market_cap": null,
+        "current_price": 39.91,
+        "daily_change_pct": -3.75,
+        "month_change_pct": -13.03,
+        "week52_high": 46.73,
+        "week52_high_date": "27 Oct 2026",
+        "week52_low": 32.14,
+        "week52_low_date": "27 Mar 2026",
+        "rsi": 27.5,
+        "rsi_label": "oversold",
+        "ma50": 44.14,
+        "ma200": 39.49,
+        "ma_signal": "golden_cross",
+        "pe_trailing": null,
+        "pe_forward": null,
+        "peg_ratio": null,
+        "revenue_growth": null,
+        "earnings_growth": null,
+        "free_cashflow": null,
+        "profit_margins": null,
+        "debt_to_equity": null,
+        "beta": null,
+        "short_percent": null,
+        "dividend_yield": null,
+        "analyst_buy": null,
+        "analyst_hold": null,
+        "analyst_sell": null,
+        "analyst_target": null,
+        "analyst_upside_pct": null,
+        "earnings_date": null,
+        "earnings_days": null
+      },
+      "buys": [
+        {
+          "channel": "Mr. FIRED Up Wealth",
+          "title": "Why I'm Buying These 10 Stocks! Best Stocks to Buy Now!",
+          "url": "https://www.youtube.com/watch?v=mYiLeZ6r0_0",
+          "upload_date": "20261119",
+          "date_label": "19 Nov 2026",
+          "ticker": "ABOT",
+          "company_name": "Anthropic (inferred from IPO discussion)",
+          "reason": "Just completed IPO at $83/share, priced above $70-$78 range with 6X oversubscription indicating strong demand. Frontier model developer expected to ramp up ASIC deployments. This will benefit picks-and-shovels like Broadcom more than the IPO itself.",
+          "when_to_buy": null,
+          "target_price": "$83 IPO price",
+          "cautions": "Creator generally does not buy IPOs. Recommends waiting 12-18 months. Historical data shows most IPOs (Facebook, CrowdStrike, Snowflake, Palantir, Robinhood, Coinbase) have ~55% average 1-year drawdown. Stock likely to pull back to $60s-$70s range is possible. Expect volatility and reckoning after initial retail excitement."
+        }
+      ],
+      "avoids": [],
+      "description": null
+    },
+    {
       "ticker": "ACOP",
       "company_name": "Aeroo Copper",
       "buy_count": 1,
@@ -422,7 +486,7 @@
     {
       "ticker": "AMD",
       "company_name": "Advanced Micro Devices Inc.",
-      "buy_count": 16,
+      "buy_count": 17,
       "avoid_count": 3,
       "first_mention_date": "28 Oct 2026",
       "price_at_first_mention": 560.26,
@@ -662,6 +726,19 @@
           "cautions": "AMD remains in a secondary competitive position to Nvidia. Nvidia's supply commitments and customer lock-in through software (CUDA) and long-term contracts limit AMD's upside. Memory pricing pressures that affect Nvidia also affect AMD's input costs."
         },
         {
+          "channel": "Mr. FIRED Up Wealth",
+          "title": "Why I'm Buying These 10 Stocks! Best Stocks to Buy Now!",
+          "url": "https://www.youtube.com/watch?v=mYiLeZ6r0_0",
+          "upload_date": "20261119",
+          "date_label": "19 Nov 2026",
+          "ticker": "AMD",
+          "company_name": "Advanced Micro Devices",
+          "reason": "Best of breed for data center CPUs with GPU capabilities as a bonus. Already owned at much lower prices from years ago ($75-$80 range). Recommended for those seeking safer play than Nvidia. Market willing to pay premium for certainty. Expected to grow AI GPU capacity share from 3% in 2026 to 10% in 2028.",
+          "when_to_buy": "Previously recommended in $30s, $75-$80, $110 or less with DCA approach",
+          "target_price": "Fibonacci resistance levels: R2 $654, R3 $718",
+          "cautions": "Already expensive valuation. Subject to short-seller reports (Hunter Brook shorted citing China export concerns). Creator not currently buying new positions at these levels. Market may punish any negative catalyst."
+        },
+        {
           "channel": "CouchInvestor",
           "title": "Let's Talk About The Market",
           "url": "https://www.youtube.com/watch?v=DZE-l6hOQLo",
@@ -715,7 +792,7 @@
     {
       "ticker": "AMZN",
       "company_name": "Amazon.com Inc.",
-      "buy_count": 13,
+      "buy_count": 14,
       "avoid_count": 1,
       "first_mention_date": "25 Oct 2026",
       "price_at_first_mention": 248.0,
@@ -927,6 +1004,19 @@
           "when_to_buy": "On pullbacks to $250-$255 support area or at current levels above support",
           "target_price": null,
           "cautions": null
+        },
+        {
+          "channel": "Daniel Pronk",
+          "title": "The AI Bubble Has Popped - What I'm Doing Now",
+          "url": "https://www.youtube.com/watch?v=vEJ58cI6zSY",
+          "upload_date": "20261119",
+          "date_label": "19 Nov 2026",
+          "ticker": "AMZN",
+          "company_name": "Amazon.com Inc.",
+          "reason": "Daniel Pronk has increased Amazon to a 15% position (second largest holding) and remains extremely bullish. He believes AWS is a durable, defensive business that benefits from AI acceleration as companies need to move core workloads to the cloud to leverage AI. AWS has millions of diversified customers across enterprises, startups, and governments, not concentrated bets like neo-clouds. AWS's AI workloads are primarily inference-based (embedded in applications), which is more consistent and durable than training. Even if frontier model companies fail, inference usage will continue and customers will switch models rather than stop using compute. Amazon's fundamentals are growing faster than its share price, margins are expanding, cash flows are growing, and multiples are compressing, creating an increasingly attractive valuation. The thesis is durable: as long as companies use more AI and compute over time, AWS will capture that spend.",
+          "when_to_buy": "Current market weakness presents buying opportunities; Pronk is actively adding to position",
+          "target_price": null,
+          "cautions": null
         }
       ],
       "avoids": [
@@ -1024,7 +1114,7 @@
       "ticker": "ANTHROPIC",
       "company_name": "Anthropic",
       "buy_count": 1,
-      "avoid_count": 1,
+      "avoid_count": 2,
       "first_mention_date": "26 Oct 2026",
       "price_at_first_mention": null,
       "pct_change_since_rec": null,
@@ -1055,6 +1145,17 @@
           "company_name": "Anthropic",
           "reason": "While Anthropic is financially healthy with $130 billion in liquid assets, profitable operations, and exceptional 31x revenue growth over five quarters, the creator explicitly states he is not looking to invest in the business or buy its IPO. The valuation is extremely high at 30-40x annualized revenue, which is a very high price to pay for any business. Additionally, 80% of revenue is consumption-based and could be at risk if AI models become commoditized. The company has approximately $800 billion worth of future spending commitments extending to 2036 that it must pay regardless of actual usage, representing a massive bet that Anthropic will remain a winner in AI for the next decade\u2014a bet the creator is unwilling to place.",
           "risk": "Valuation risk: Trading at 30-40x annualized revenue. Revenue concentration risk: 80% of revenue is consumption-based and vulnerable to commoditization. Execution risk: Company must meet $800 billion in future compute spending commitments through 2036 or face severe financial stress. Model competition risk: If competitors gain market share or adoption slows, consumption-based revenue could decline sharply while fixed commitments remain."
+        },
+        {
+          "channel": "Daniel Pronk",
+          "title": "The AI Bubble Has Popped - What I'm Doing Now",
+          "url": "https://www.youtube.com/watch?v=vEJ58cI6zSY",
+          "upload_date": "20261119",
+          "date_label": "19 Nov 2026",
+          "ticker": "ANTHROPIC",
+          "company_name": "Anthropic",
+          "reason": "Daniel Pronk explicitly states he is NOT buying the Anthropic IPO. He cites Peter Lynch's principle that when everyone is excited about something, it typically means you're paying a premium for that excitement. IPOs are generally overpriced according to 'The Intelligent Investor,' as companies intentionally go public at peak valuations and peak investor enthusiasm to raise maximum capital. Banks and insiders have already made their profits and unload stock onto retail investors at the worst entry point. Historically, IPOs underperform dramatically in the years after their IPO, and that is when you should actually consider buying newly listed companies. The fact that his lawyer asked him about the IPO demonstrates how mainstream the hype has become, which makes it unattractive.",
+          "risk": "Peak valuation at IPO; retail investors buying at peak enthusiasm; historical IPO underperformance; execution risk for a frontier lab company moving to public markets"
         }
       ],
       "description": "AI safety research company behind the Claude language models"
@@ -1384,8 +1485,8 @@
         "analyst_buy": 38,
         "analyst_hold": 4,
         "analyst_sell": 1,
-        "analyst_target": 2107.39,
-        "analyst_upside_pct": 66.4,
+        "analyst_target": 2105.77,
+        "analyst_upside_pct": 66.3,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -1503,7 +1604,7 @@
     {
       "ticker": "AVGO",
       "company_name": "Broadcom Inc.",
-      "buy_count": 7,
+      "buy_count": 9,
       "avoid_count": 0,
       "first_mention_date": "25 Oct 2026",
       "price_at_first_mention": 321.68,
@@ -1626,6 +1727,19 @@
           "cautions": "Creator admits they should have accumulated more aggressively at lower prices but still maintaining position"
         },
         {
+          "channel": "Mr. FIRED Up Wealth",
+          "title": "Why I'm Buying These 10 Stocks! Best Stocks to Buy Now!",
+          "url": "https://www.youtube.com/watch?v=mYiLeZ6r0_0",
+          "upload_date": "20261119",
+          "date_label": "19 Nov 2026",
+          "ticker": "AVGO",
+          "company_name": "Broadcom",
+          "reason": "Declared as core position with over 5% portfolio allocation. Described as one of the highest quality companies to buy in the AI trade with a solid balance sheet. Expected to benefit most if OpenAI and Anthropic frontier models become dominant, as Broadcom will gain capacity share in ASIC deployments from low 20s in 2026 to 30% in 2028. Best pick-and-shovel play for new AI model deployment. DCA position with 88 shares accumulated at $28,400 invested, worth $32,278 as of recording.",
+          "when_to_buy": "Creator using DCA (dollar cost averaging) approach with ongoing accumulation; unpopular opinion: best buy among AMD, Broadcom, and Nvidia at current levels for new investors",
+          "target_price": null,
+          "cautions": "Not cheap. Will not deliver 10x returns like earlier stage names. Creator started new position in community portfolio but long-term 5-year holding. Stock has had pullback volatility."
+        },
+        {
           "channel": "CouchInvestor",
           "title": "My Worst Week In The Stock Market. An Honest Review",
           "url": "https://www.youtube.com/watch?v=c5d18sEbQ6Y",
@@ -1637,6 +1751,19 @@
           "when_to_buy": "Stock closed the week at $341, closer to $300 per share",
           "target_price": "Creator referenced $314 as a 100-day moving average level to reclaim for momentum",
           "cautions": "Broadcom took a hit due to Google's headline about using MediaTek for some DPU generations, though this represents only a small portion of Google's AI chip needs. Currently back toward the lower end of the trading range."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "What the Anthropic IPO Means for My AI Stocks",
+          "url": "https://www.youtube.com/watch?v=95t1TqHptd4",
+          "upload_date": "20261119",
+          "date_label": "19 Nov 2026",
+          "ticker": "AVGO",
+          "company_name": "Broadcom Inc.",
+          "reason": "Valued at $1.7 trillion while potentially becoming a supplier to Entropic. AI revenue is expected to double to $115 billion next year and double again to $230 billion the year after. By fiscal 28, the company is expected to generate $136 billion in free cash flow. The company represents the clear winner in the semiconductor supply chain as TPUs become more popular and new AI chips emerge from various companies. Valuation is attractive even when averaging trailing (46.5x) and forward (21x) PE multiples when considering the expected growth trajectory.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": "Trailing PE of 46.5 times is not cheap in absolute terms. Success depends on maintaining market share as competition emerges from companies like Marvell and MediaTek. The stock is only up 4.8% year to date and experiencing a 24.4% drawdown despite strong fundamentals."
         }
       ],
       "avoids": [],
@@ -1645,7 +1772,7 @@
     {
       "ticker": "AXON",
       "company_name": "Axon Enterprise Inc.",
-      "buy_count": 2,
+      "buy_count": 3,
       "avoid_count": 2,
       "first_mention_date": "25 Oct 2026",
       "price_at_first_mention": 420.37,
@@ -1714,6 +1841,19 @@
           "when_to_buy": "Creator just added at $312; suggests current levels for accumulation",
           "target_price": "Well above $315 for comfort",
           "cautions": "Still down 21% on position despite recent purchase. Needs momentum confirmation above $315."
+        },
+        {
+          "channel": "Mr. FIRED Up Wealth",
+          "title": "Why I'm Buying These 10 Stocks! Best Stocks to Buy Now!",
+          "url": "https://www.youtube.com/watch?v=mYiLeZ6r0_0",
+          "upload_date": "20261119",
+          "date_label": "19 Nov 2026",
+          "ticker": "AXON",
+          "company_name": "Axon Enterprise",
+          "reason": "Previously recommended at lower prices; stock ripped up then came back to breakeven/slightly lower. Bought at $295 yesterday. Hybrid SaaS company with recurring revenue model from cloud services, body cameras, and drones. Moat-like qualities in government/federal sector with very low competition. Unique business model difficult to replicate.",
+          "when_to_buy": "$295-$300 level considered attractive entry",
+          "target_price": null,
+          "cautions": "Not cheap and carries higher EV/NTM revenue premium typical of recurring revenue SaaS models. Creator warns this premium is justified but not understood by all investors. Stock recently pulled back significantly from highs."
         }
       ],
       "avoids": [
@@ -2262,7 +2402,7 @@
     {
       "ticker": "COHR",
       "company_name": "Coherent Corporation",
-      "buy_count": 2,
+      "buy_count": 3,
       "avoid_count": 0,
       "first_mention_date": "24 Oct 2026",
       "price_at_first_mention": 209.29,
@@ -2331,6 +2471,19 @@
           "when_to_buy": "Creator mentions this as historical reference showing importance of trimming parabolic runs. Could represent buying opportunity at these levels for patient investors",
           "target_price": null,
           "cautions": "Stock went from $440 all-time high to $168, demonstrating extreme volatility. Profit margins not specified as strongly as competitors. Speculative play requiring long holding horizon and small position size. Exposure to potential data center demand destruction."
+        },
+        {
+          "channel": "Mr. FIRED Up Wealth",
+          "title": "Why I'm Buying These 10 Stocks! Best Stocks to Buy Now!",
+          "url": "https://www.youtube.com/watch?v=mYiLeZ6r0_0",
+          "upload_date": "20261119",
+          "date_label": "19 Nov 2026",
+          "ticker": "COHR",
+          "company_name": "Coherent Corp",
+          "reason": "Previously recommended in $60s range April/May 2025 as best-of-breed. Creator already owns house shares from earlier buy and trim. Stock went from $60 to $45 to $439 (10x move) and recently pulled back to $229 from highs of $439. Creator recommended in write-ups months ago, and community members successfully DCA'd the position.",
+          "when_to_buy": "Previously recommended at $60s range; already owned at house shares; current pullback to $229 not trigger for new buys given already owned",
+          "target_price": null,
+          "cautions": "Very expensive stock even at current levels ($229). Extremely volatile with massive parabolic moves up and down. Creator warns that after 10x moves, 50% retracements are normal. Stock likely to remain volatile."
         }
       ],
       "avoids": [],
@@ -2849,7 +3002,7 @@
     {
       "ticker": "CRWD",
       "company_name": "CoreWeave Inc.",
-      "buy_count": 3,
+      "buy_count": 4,
       "avoid_count": 2,
       "first_mention_date": "28 Oct 2026",
       "price_at_first_mention": 268.02,
@@ -2874,7 +3027,7 @@
         "ma200": 176.19,
         "ma_signal": "golden_cross",
         "pe_trailing": 3824.0002,
-        "pe_forward": 142.32985,
+        "pe_forward": 142.27956,
         "peg_ratio": 5.92,
         "revenue_growth": 0.258,
         "earnings_growth": null,
@@ -2887,8 +3040,8 @@
         "analyst_buy": 40,
         "analyst_hold": 12,
         "analyst_sell": 1,
-        "analyst_target": 251.28,
-        "analyst_upside_pct": 9.5,
+        "analyst_target": 251.98,
+        "analyst_upside_pct": 9.8,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -2931,6 +3084,19 @@
           "when_to_buy": "during the dip",
           "target_price": null,
           "cautions": null
+        },
+        {
+          "channel": "Mr. FIRED Up Wealth",
+          "title": "Why I'm Buying These 10 Stocks! Best Stocks to Buy Now!",
+          "url": "https://www.youtube.com/watch?v=mYiLeZ6r0_0",
+          "upload_date": "20261119",
+          "date_label": "19 Nov 2026",
+          "ticker": "CRWD",
+          "company_name": "CrowdStrike",
+          "reason": "Stock owned since 2019 and has done very well. Up approximately 293% over the past five years and closer to 1500% since IPO back in 2019. Even those who bought during the 2024 outage are up nicely. The creator considers this a high-quality cybersecurity play with recurring revenue model.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": "Stock is expensive but the creator is not selling and remains bullish long-term."
         }
       ],
       "avoids": [
@@ -3148,6 +3314,33 @@
         }
       ],
       "description": null
+    },
+    {
+      "ticker": "CWEQ",
+      "company_name": "CoreWeave",
+      "buy_count": 1,
+      "avoid_count": 0,
+      "first_mention_date": "19 Nov 2026",
+      "price_at_first_mention": null,
+      "pct_change_since_rec": null,
+      "market": null,
+      "buys": [
+        {
+          "channel": "CouchInvestor",
+          "title": "What the Anthropic IPO Means for My AI Stocks",
+          "url": "https://www.youtube.com/watch?v=95t1TqHptd4",
+          "upload_date": "20261119",
+          "date_label": "19 Nov 2026",
+          "ticker": "CWEQ",
+          "company_name": "CoreWeave",
+          "reason": "Backlog of $130 billion with revenue expected to reach $27 billion in fiscal 27 and $45.1 billion in fiscal 28. Adjusted EBITDA margin already at 10%, showing rapid margin improvement. Like Nebius, 2027 represents a tipping point where the core business will start contributing more meaningfully. Nvidia's backing and improved prepayment collections (now 1 year 7 months from 1 year 10 months) indicate the business is strengthening. These are execution stories\u2014if the company executes correctly, it will become much larger without needing to exceed expectations.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": "Delays are a significant risk given the massive scale of infrastructure projects. The company is still quite small, making execution delays proportionally more impactful to business results. CapEx remains substantial. Nvidia backing is helpful but the company must still execute independently to reach projected growth."
+        }
+      ],
+      "avoids": [],
+      "description": "Provides GPU cloud infrastructure and data centre services for AI workloads"
     },
     {
       "ticker": "CWEV",
@@ -3444,6 +3637,31 @@
         }
       ],
       "description": "Operates daily fantasy sports and online sports betting platforms"
+    },
+    {
+      "ticker": "ENTC",
+      "company_name": "Entropic",
+      "buy_count": 0,
+      "avoid_count": 1,
+      "first_mention_date": "19 Nov 2026",
+      "price_at_first_mention": null,
+      "pct_change_since_rec": null,
+      "market": null,
+      "buys": [],
+      "avoids": [
+        {
+          "channel": "CouchInvestor",
+          "title": "What the Anthropic IPO Means for My AI Stocks",
+          "url": "https://www.youtube.com/watch?v=95t1TqHptd4",
+          "upload_date": "20261119",
+          "date_label": "19 Nov 2026",
+          "ticker": "ENTC",
+          "company_name": "Entropic",
+          "reason": "Despite going public at $83 per share with a market cap comparable to Meta's size, the creator explicitly states 'I rather buy certain other companies.' Revenue projections appear unrealistic, with fiscal 28 projected at $1.6 trillion in revenue, which seems implausible. Analyst expectations for forward growth are extremely aggressive with expectations of 43.2% quarter-over-quarter growth followed by sustained 19-20% growth rates. While the company shows positive operating cash flow trends, significant questions remain about whether these cash flow levels can be maintained as the company pays for new gigawatt capacity and potentially faces declining token prices and compute pricing pressures.",
+          "risk": "Revenue projections appear inflated (reaching $1.6 trillion by fiscal 28). Margin compression risks exist from declining token prices and potential need to offer compute discounts. Operating cash flow sustainability is uncertain as capital expenditure accelerates for new capacity. The creator is not a buyer at current valuations."
+        }
+      ],
+      "description": "Designs and manufactures mixed-signal semiconductors and analog chips"
     },
     {
       "ticker": "EWJ",
@@ -3810,7 +4028,7 @@
     {
       "ticker": "GLW",
       "company_name": "Corning Inc.",
-      "buy_count": 1,
+      "buy_count": 2,
       "avoid_count": 0,
       "first_mention_date": "05 Nov 2026",
       "price_at_first_mention": 103.43,
@@ -3866,6 +4084,19 @@
           "when_to_buy": "Creator added a small position around $100 price level",
           "target_price": "Creator indicated $100 was approximate entry area with potential for $87.99 S3 support level",
           "cautions": "Growth at 17.6% with valuation at 4.24 P/E is not cheap. Air pocket chart pattern suggests stock came down from parabolic run. Could go lower. Only add as small speculative position (1-2% of portfolio). Data center policy changes could impact demand."
+        },
+        {
+          "channel": "Mr. FIRED Up Wealth",
+          "title": "Why I'm Buying These 10 Stocks! Best Stocks to Buy Now!",
+          "url": "https://www.youtube.com/watch?v=mYiLeZ6r0_0",
+          "upload_date": "20261119",
+          "date_label": "19 Nov 2026",
+          "ticker": "GLW",
+          "company_name": "Corning Inc.",
+          "reason": "Photonics player added as 1% position. Went from $36 to $270 (10x) then pulled back significantly. Creator drew yellow support circle and stock is now below it. At $100-$110 level represents attractive risk/reward on Fibonacci retracement. Creator comfortable with company longer-term despite current weakness.",
+          "when_to_buy": "Current levels between $100-$110 considered attractive; stock is below creator's initial target circles, presenting opportunity",
+          "target_price": null,
+          "cautions": "Very volatile history (10x up then major pullback). Lower margin photonics business carries more risk. S3 Fibonacci at $87 may break further; trend line support as low as $55. Creator owns only 1% position. Not core holding."
         }
       ],
       "avoids": [],
@@ -3936,7 +4167,7 @@
     {
       "ticker": "GOOGL",
       "company_name": "Alphabet Inc.",
-      "buy_count": 18,
+      "buy_count": 19,
       "avoid_count": 4,
       "first_mention_date": "25 Oct 2026",
       "price_at_first_mention": 320.21,
@@ -4213,6 +4444,19 @@
           "when_to_buy": "During periods of extreme market fear and doubt about Google's AI capabilities",
           "target_price": null,
           "cautions": "Had experienced significant doubt and negative sentiment before recent Gemini improvements. Market sentiment had written off Google as 'completely dead' in AI before recent recovery."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "What the Anthropic IPO Means for My AI Stocks",
+          "url": "https://www.youtube.com/watch?v=95t1TqHptd4",
+          "upload_date": "20261119",
+          "date_label": "19 Nov 2026",
+          "ticker": "GOOGL",
+          "company_name": "Alphabet Inc.",
+          "reason": "Trading at 21.1 times forward PE, which is cheap for a company of this quality. Google Cloud is experiencing tremendous growth with 36.2% margins and $30.7 billion in revenue, potentially becoming as large as the search business within a year. The business is already very profitable with strong free cash flow generation expected from fiscal 27 onwards. Even with concerns about search monetization and AI mode lag, the diversification into Cloud and TPU businesses provides multiple growth engines and risk mitigation.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": "Free cash flow is currently negative and expected to remain so through fiscal 26, with the flip expected in fiscal 27. Search business faced headwinds last quarter with AI mode monetization lagging and FX headwinds. Market concerns exist around search performance relative to the broader business."
         }
       ],
       "avoids": [
@@ -4579,6 +4823,95 @@
       "description": "Manufactures processors and semiconductors for computing and data centers"
     },
     {
+      "ticker": "IONQ",
+      "company_name": "IonQ",
+      "buy_count": 1,
+      "avoid_count": 0,
+      "first_mention_date": "19 Nov 2026",
+      "price_at_first_mention": 20.72,
+      "pct_change_since_rec": 0.0,
+      "market": {
+        "ticker": "IONQ",
+        "name": "IonQ, Inc.",
+        "currency": "USD",
+        "sector": "Technology",
+        "industry": "Computer Hardware",
+        "market_cap": 9590912000,
+        "current_price": 20.72,
+        "daily_change_pct": -8.76,
+        "month_change_pct": -35.81,
+        "week52_high": 73.65,
+        "week52_high_date": "03 Jun 2026",
+        "week52_low": 20.51,
+        "week52_low_date": "20 Nov 2026",
+        "rsi": 29.2,
+        "rsi_label": "oversold",
+        "ma50": 34.88,
+        "ma200": 40.91,
+        "ma_signal": "death_cross",
+        "pe_trailing": 11.976878,
+        "pe_forward": -14.583333,
+        "peg_ratio": null,
+        "revenue_growth": 3.36,
+        "earnings_growth": null,
+        "free_cashflow": -120702872,
+        "profit_margins": 0.67091006,
+        "debt_to_equity": 3.07,
+        "beta": 3.409,
+        "short_percent": 0.1176,
+        "dividend_yield": 0.0,
+        "analyst_buy": 11,
+        "analyst_hold": 2,
+        "analyst_sell": 0,
+        "analyst_target": 54.27,
+        "analyst_upside_pct": 161.9,
+        "earnings_date": null,
+        "earnings_days": null
+      },
+      "buys": [
+        {
+          "channel": "Mr. FIRED Up Wealth",
+          "title": "Why I'm Buying These 10 Stocks! Best Stocks to Buy Now!",
+          "url": "https://www.youtube.com/watch?v=mYiLeZ6r0_0",
+          "upload_date": "20261119",
+          "date_label": "19 Nov 2026",
+          "ticker": "IONQ",
+          "company_name": "IonQ",
+          "reason": "Favorite small cap stock. Creator interviewed CEO. Company connected to Skywater Technology out of Bloomington, Minnesota. Creator provided specific Patreon write-up with entry ranges using Fibonacci analysis. Bought when stock came into creator's identified support range.",
+          "when_to_buy": "In the yellow circle range identified on chart/Patreon write-up; uses technical Fibonacci levels for entry",
+          "target_price": null,
+          "cautions": "Small cap speculation. Stock can be volatile and may retest lows. Creator bought in ranges, not perfectly at bottom."
+        }
+      ],
+      "avoids": [],
+      "description": "Develops and provides cloud access to quantum computing systems"
+    },
+    {
+      "ticker": "IPOB",
+      "company_name": "IPO stocks in general",
+      "buy_count": 0,
+      "avoid_count": 1,
+      "first_mention_date": "19 Nov 2026",
+      "price_at_first_mention": null,
+      "pct_change_since_rec": null,
+      "market": null,
+      "buys": [],
+      "avoids": [
+        {
+          "channel": "Mr. FIRED Up Wealth",
+          "title": "Why I'm Buying These 10 Stocks! Best Stocks to Buy Now!",
+          "url": "https://www.youtube.com/watch?v=mYiLeZ6r0_0",
+          "upload_date": "20261119",
+          "date_label": "19 Nov 2026",
+          "ticker": "IPOB",
+          "company_name": "IPO stocks in general",
+          "reason": "Creator shows historical chart proving most IPOs experience significant drawdowns within one year. Average 1-year drawdown across Facebook, CrowdStrike, Snowflake, Palantir, Robinhood, and Coinbase is approximately 55%. Creator specifically warns against buying IPOs on opening day when stocks spike 20%+. Better risk/reward to wait 12-18 months after IPO.",
+          "risk": "55% average 1-year drawdown; possible pullback to 60-70% below IPO price in first year"
+        }
+      ],
+      "description": null
+    },
+    {
       "ticker": "IREN",
       "company_name": "Iren (iRen)",
       "buy_count": 2,
@@ -4909,8 +5242,8 @@
         "analyst_buy": 4,
         "analyst_hold": 3,
         "analyst_sell": 0,
-        "analyst_target": 104.69,
-        "analyst_upside_pct": 25.4,
+        "analyst_target": 104.34,
+        "analyst_upside_pct": 24.9,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -4931,6 +5264,70 @@
       ],
       "avoids": [],
       "description": "Operates payments platform, marketplace, and fintech services in Central Asia"
+    },
+    {
+      "ticker": "LITE",
+      "company_name": "Lumentum Holdings",
+      "buy_count": 1,
+      "avoid_count": 0,
+      "first_mention_date": "19 Nov 2026",
+      "price_at_first_mention": 460.54,
+      "pct_change_since_rec": 0.0,
+      "market": {
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "currency": "USD",
+        "sector": "Technology",
+        "industry": "Communication Equipment",
+        "market_cap": 41764028416,
+        "current_price": 460.54,
+        "daily_change_pct": -13.94,
+        "month_change_pct": -45.86,
+        "week52_high": 1143.0,
+        "week52_high_date": "09 Oct 2026",
+        "week52_low": 266.0,
+        "week52_low_date": "21 Nov 2025",
+        "rsi": 30.1,
+        "rsi_label": "neutral",
+        "ma50": 826.06,
+        "ma200": 816.04,
+        "ma_signal": "golden_cross",
+        "pe_trailing": null,
+        "pe_forward": 11.474908,
+        "peg_ratio": 0.63,
+        "revenue_growth": 1.365,
+        "earnings_growth": 69.8,
+        "free_cashflow": 142850000,
+        "profit_margins": -1.75777,
+        "debt_to_equity": 31.278,
+        "beta": 1.645,
+        "short_percent": 0.089700006,
+        "dividend_yield": 0.0,
+        "analyst_buy": 22,
+        "analyst_hold": 4,
+        "analyst_sell": 0,
+        "analyst_target": 1048.34,
+        "analyst_upside_pct": 127.6,
+        "earnings_date": null,
+        "earnings_days": null
+      },
+      "buys": [
+        {
+          "channel": "Mr. FIRED Up Wealth",
+          "title": "Why I'm Buying These 10 Stocks! Best Stocks to Buy Now!",
+          "url": "https://www.youtube.com/watch?v=mYiLeZ6r0_0",
+          "upload_date": "20261119",
+          "date_label": "19 Nov 2026",
+          "ticker": "LITE",
+          "company_name": "Lumentum Holdings",
+          "reason": "Photonics player purchased as smaller speculative position. Creator provided analysis on Discord that buying Lumentum gives effective $122.50 entry into Marvell shares at 16% discount if Marvell acquisition closes. Attractive entry for Marvell exposure without direct ownership uncertainty. Standalone optics upside as hedge if deal falls through.",
+          "when_to_buy": "Current levels provide 16% discount to Marvell deal value with effective entry of $122.50/share",
+          "target_price": null,
+          "cautions": "Binary risk on acquisition. Deal not closing until H1 2028 (long wait). Only suitable if wanting cheaper conditional entry plus standalone upside hedge. Creator prefers buying Marvell directly for clean exposure without deal risk."
+        }
+      ],
+      "avoids": [],
+      "description": "Manufactures optical and photonic chips for data centers and industrial lasers"
     },
     {
       "ticker": "LUMN",
@@ -5086,7 +5483,7 @@
     {
       "ticker": "MELI",
       "company_name": "Mercado Libre",
-      "buy_count": 7,
+      "buy_count": 8,
       "avoid_count": 1,
       "first_mention_date": "26 Oct 2026",
       "price_at_first_mention": 1642.37,
@@ -5220,6 +5617,19 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": null
+        },
+        {
+          "channel": "Mr. FIRED Up Wealth",
+          "title": "Why I'm Buying These 10 Stocks! Best Stocks to Buy Now!",
+          "url": "https://www.youtube.com/watch?v=mYiLeZ6r0_0",
+          "upload_date": "20261119",
+          "date_label": "19 Nov 2026",
+          "ticker": "MELI",
+          "company_name": "Mercado Libre",
+          "reason": "Attractive at current levels and even lower than creator's preferred entry. Very long-term story. Creator believes stock has potential to be worth significantly more in five years. Willing to add more shares. Even down 15% on position, not losing sleep over it.",
+          "when_to_buy": "Creator's strong preference is $1,200; currently below that level; below $1,400 is attractive; S3 Fibonacci now around $1,352",
+          "target_price": "Creator believes stock worth significantly more in 5-year timeframe",
+          "cautions": "Very long-term play (5-year minimum). Not suitable for investors seeking quick returns. Significant downside risk if thesis is wrong. Creator acknowledges this could be wrong. Currently down 15% on position."
         }
       ],
       "avoids": [
@@ -5727,7 +6137,7 @@
     {
       "ticker": "MRVL",
       "company_name": "Marvell Technology Inc.",
-      "buy_count": 2,
+      "buy_count": 3,
       "avoid_count": 1,
       "first_mention_date": "25 Oct 2026",
       "price_at_first_mention": 228.51,
@@ -5796,6 +6206,19 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": "The deal remains subject to regulatory approvals and the creator believes there could be pushback due to the optics market being supply-constrained. The deal is an all-stock transaction with a fixed 4.5 share exchange ratio, meaning Marvell share price fluctuations directly impact deal value. The creator notes concerns that Marvell might be buying near a short-term valuation peak, though they believe valuations are currently attractive. The deal is not expected to close until 2028, roughly 1.5 years away, creating extended execution risk and potential volatility. Both stocks declined significantly on announcement day (Marvell down 12.7%, Lumentum down 18.6%) despite strategic merits."
+        },
+        {
+          "channel": "Mr. FIRED Up Wealth",
+          "title": "Why I'm Buying These 10 Stocks! Best Stocks to Buy Now!",
+          "url": "https://www.youtube.com/watch?v=mYiLeZ6r0_0",
+          "upload_date": "20261119",
+          "date_label": "19 Nov 2026",
+          "ticker": "MRVL",
+          "company_name": "Marvell Technology",
+          "reason": "Recommended long ago back in 2020-2021 at much lower prices. Creator owns house shares position (free shares after selling original cost basis and profit). Owned in both main and community growth portfolios. Best-of-breed for data center CPUs. Acquiring Lumentum for photonics exposure.",
+          "when_to_buy": "Previously recommended in $30s range years ago; currently held as house shares position",
+          "target_price": null,
+          "cautions": "Creator already owns at much lower prices. Acquisition deal won't close until H1 2028. Only buy directly if wanting clean exposure without deal uncertainty."
         }
       ],
       "avoids": [
@@ -6097,7 +6520,7 @@
     {
       "ticker": "MU",
       "company_name": "Micron Technology Inc.",
-      "buy_count": 13,
+      "buy_count": 14,
       "avoid_count": 1,
       "first_mention_date": "25 Oct 2026",
       "price_at_first_mention": 877.55,
@@ -6309,6 +6732,19 @@
           "when_to_buy": "Creator bought during the crash week at unspecified prices; stock is currently under $600",
           "target_price": null,
           "cautions": "Stock is currently in 'no man's land' technically, well below moving averages. This is a volatile semiconductor name that experienced extreme drawdowns in the recent crash. Creator noted that just because a stock is cheaper doesn't mean it's undervalued."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "What the Anthropic IPO Means for My AI Stocks",
+          "url": "https://www.youtube.com/watch?v=95t1TqHptd4",
+          "upload_date": "20261119",
+          "date_label": "19 Nov 2026",
+          "ticker": "MU",
+          "company_name": "Micron Technology Inc.",
+          "reason": "Trading at single-digit average of trailing and forward PE multiples, which is extremely cheap given current and future growth rates. Projected to generate $179.1 billion in free cash flow by fiscal 29, with fiscal 26 alone generating close to $59 billion\u2014more free cash flow in one year than the previous 10 years combined. Expected to generate nearly half a trillion dollars in free cash flow through fiscal 29, providing significant downside protection. Long-term agreements signed through 2030-2031 suggest the down cycle will be less harsh than historical precedent.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": "This is a cyclical business and will eventually enter a down cycle. The company is experiencing a 39% drawdown from recent highs. Peak revenue may occur in fiscal 29 with limited growth between fiscal 28 and 29. Despite strong fundamentals, cyclical nature means volatility should be expected."
         }
       ],
       "avoids": [
@@ -6329,7 +6765,7 @@
     {
       "ticker": "NBIS",
       "company_name": "Nebius",
-      "buy_count": 2,
+      "buy_count": 3,
       "avoid_count": 1,
       "first_mention_date": "26 Oct 2026",
       "price_at_first_mention": 160.25,
@@ -6398,6 +6834,19 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": null
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "What the Anthropic IPO Means for My AI Stocks",
+          "url": "https://www.youtube.com/watch?v=95t1TqHptd4",
+          "upload_date": "20261119",
+          "date_label": "19 Nov 2026",
+          "ticker": "NBIS",
+          "company_name": "Nebius",
+          "reason": "Despite Jensen Huang stepping down, Nvidia has made clear that nothing has changed regarding their commitments and backing to Nebius. Revenue expected to increase 4x next year to fiscal 27, then double again to $25.8 billion in fiscal 28. 2027 is positioned as a monster year that will lead to profitability by fiscal 28. Prepayments are increasing and time to collect payment has decreased from 1 year 10 months to 1 year 7 months, indicating improving business dynamics. These metrics suggest the company is landing on its own two feet with strong execution.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": "Company is experiencing a 60% drawdown from recent highs. Success is contingent on no further delays\u2014a significant risk given the massive construction projects required to bring compute online. CapEx remains quite large. The business is still small enough that execution delays significantly impact results, though delays don't stop interest payments."
         }
       ],
       "avoids": [
@@ -6771,7 +7220,7 @@
     {
       "ticker": "NET",
       "company_name": "Cloudflare Inc.",
-      "buy_count": 1,
+      "buy_count": 2,
       "avoid_count": 0,
       "first_mention_date": "31 Oct 2026",
       "price_at_first_mention": 268.75,
@@ -6827,6 +7276,19 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": "The company is valued at 40% overvalued at current price, requiring consistent growth continuation\u2014any slowdown could cause rapid stock price declines. Net income had been steadily improving but recently dipped to a $170 million gap net loss in the most recent quarter due to heavy reinvestment into AI infrastructure. The creator notes this is a stock that has already experienced significant appreciation from earlier entry points."
+        },
+        {
+          "channel": "Mr. FIRED Up Wealth",
+          "title": "Why I'm Buying These 10 Stocks! Best Stocks to Buy Now!",
+          "url": "https://www.youtube.com/watch?v=mYiLeZ6r0_0",
+          "upload_date": "20261119",
+          "date_label": "19 Nov 2026",
+          "ticker": "NET",
+          "company_name": "Cloudflare",
+          "reason": "A Fired Up Wealth favorite purchased on Discord in 2020 in the $30-$35 range. Up approximately 1,600% since 2019 IPO and up nicely today on the back of Palo Alto results. The creator believes in the cybersecurity thesis as AI transforms the world.",
+          "when_to_buy": "Originally bought in 2020 at $30-$35 range",
+          "target_price": null,
+          "cautions": "Stock is expensive. The creator warns this was a past recommendation at much lower prices and advocates against buying at current all-time high levels."
         }
       ],
       "avoids": [],
@@ -7425,8 +7887,8 @@
     {
       "ticker": "NVDA",
       "company_name": "Nvidia Corporation",
-      "buy_count": 39,
-      "avoid_count": 4,
+      "buy_count": 40,
+      "avoid_count": 5,
       "first_mention_date": "25 Oct 2026",
       "price_at_first_mention": 210.96,
       "pct_change_since_rec": -40.5,
@@ -7952,6 +8414,19 @@
           "cautions": "SEC and DOJ investigations into Jensen Huang and company disclosures create regulatory overhang. Potential talent exodus if Jensen does not return as CEO\u2014some senior employees have expressed departure concerns tied to his leadership. Gross margins expected to compress from 74.8% in Q3 to 71-72% in Q4 and 72-73% in fiscal 2028, driven by memory pricing pressures and increased operating expenses ($10.7B guidance vs. $9.9B expected). China revenue restrictions eliminate future revenue from licensed Hopper data center products to China. Neocloud financing risks: commitments of $32 billion are conditional on customer financing and deployment; if capital markets tighten, these could be reduced. Memory supply commitments jumped 675% year-over-year due to pricing pressure, which could impact margins if demand weakens."
         },
         {
+          "channel": "Mr. FIRED Up Wealth",
+          "title": "Why I'm Buying These 10 Stocks! Best Stocks to Buy Now!",
+          "url": "https://www.youtube.com/watch?v=mYiLeZ6r0_0",
+          "upload_date": "20261119",
+          "date_label": "19 Nov 2026",
+          "ticker": "NVDA",
+          "company_name": "Nvidia",
+          "reason": "Creator's largest holding owned since 2017 under $4 per share. Still bullish on the company despite recent volatility from Jensen Huang resignation news. The creator believes the stock has the most risk of the three major AI chip players (AMD, Broadcom, Nvidia) but is worth $200 per share. Best-of-breed for GPUs with continued dominance expected despite market share loss projections.",
+          "when_to_buy": "Creator already owns at much lower prices; not currently buying new positions, but if starting fresh, would focus on Broadcom instead",
+          "target_price": "$200 per share",
+          "cautions": "Most risky of the three AI chip stocks. Stock has experienced significant volatility. Market uncertainty around future AI capex cycles. Jensen Huang resignation created fear and uncertainty. If starting new, Broadcom is preferred at current levels due to better risk/reward profile."
+        },
+        {
           "channel": "CouchInvestor",
           "title": "My Worst Week In The Stock Market. An Honest Review",
           "url": "https://www.youtube.com/watch?v=c5d18sEbQ6Y",
@@ -8022,6 +8497,17 @@
           "company_name": "Nvidia Corporation",
           "reason": "Michael Burry made significant put option bets against Nvidia starting in August 2024, betting that the stock would decline. He widened this bet in October by betting against the SMH semiconductor fund and NASDAQ 100, both heavily weighted toward Nvidia. His concern centers on the circular financing structure where Nvidia helps finance customers who buy its chips, creating systemic risk.",
           "risk": "Burry's puts against Nvidia and semiconductor stocks have already tripled to 3.5x in value as of November, suggesting further downside risk in his view."
+        },
+        {
+          "channel": "Daniel Pronk",
+          "title": "The AI Bubble Has Popped - What I'm Doing Now",
+          "url": "https://www.youtube.com/watch?v=vEJ58cI6zSY",
+          "upload_date": "20261119",
+          "date_label": "19 Nov 2026",
+          "ticker": "NVDA",
+          "company_name": "Nvidia Corporation",
+          "reason": "Despite acknowledging Nvidia's exceptional fundamentals (100%+ growth across all metrics, 70% expected growth next year, trading at 14x forward PE), Daniel Pronk states he is NOT buying Nvidia and explicitly puts semiconductors in his 'too hard pile.' His primary concern is uncertainty about long-term chip industry economics: he cannot confidently predict what margins, growth, competition, and custom chip adoption will look like beyond 2030. While he thinks the company will be fine without Jensen Huang and momentum will continue, he lacks conviction in long-term profitability due to eventual hyperscaler spending deceleration, potential margin compression, and increased competition. He emphasizes that without an edge and confidence in long-term profits, he will not enter a position. The Jensen Huang leadership departure has also created market uncertainty and loss of confidence despite being unlikely to fundamentally harm the business.",
+          "risk": "Semiconductor industry is cyclical; hyperscaler CAPEX growth expected to decelerate from 58% (2027) to 10% (2028); potential margin compression from competition and custom chips; long-term profitability beyond 2030 uncertain"
         }
       ],
       "description": "Designs GPUs and AI data center processors"
@@ -8094,7 +8580,7 @@
     {
       "ticker": "ORCL",
       "company_name": "Oracle Corporation",
-      "buy_count": 4,
+      "buy_count": 5,
       "avoid_count": 0,
       "first_mention_date": "27 Oct 2026",
       "price_at_first_mention": 130.29,
@@ -8189,6 +8675,19 @@
           "when_to_buy": "Creator buying at current depressed levels ($113 area); planning to DCA into weakness over 2-3 years",
           "target_price": null,
           "cautions": "Currently burning significant cash which makes it unfashionable. Stock could go below $100 before recovery. Not recommended if you need near-term gains. Requires conviction and long holding period. Company is still unprofitable/cash flow negative, making it vulnerable in downturns."
+        },
+        {
+          "channel": "Mr. FIRED Up Wealth",
+          "title": "Why I'm Buying These 10 Stocks! Best Stocks to Buy Now!",
+          "url": "https://www.youtube.com/watch?v=mYiLeZ6r0_0",
+          "upload_date": "20261119",
+          "date_label": "19 Nov 2026",
+          "ticker": "ORCL",
+          "company_name": "Oracle Corporation",
+          "reason": "Creator still believes Oracle will be a hyper-scaler and will be fine despite debt load. Creator believes stock is worth more than trading at. Will take time to play out, potentially 3 years. Creator is buying despite market negativity.",
+          "when_to_buy": "Current levels; creator buying despite negative sentiment",
+          "target_price": "Creator believes worth more than current price; exact target not specified",
+          "cautions": "Market sentiment drives 60-70% of market movement; market currently believes Oracle going to zero/bankrupt. Significant debt load. Long-term play (3+ years to prove thesis). High sentiment risk."
         }
       ],
       "avoids": [],
@@ -8338,8 +8837,8 @@
         "analyst_buy": 11,
         "analyst_hold": 2,
         "analyst_sell": 0,
-        "analyst_target": 23.43,
-        "analyst_upside_pct": 100.8,
+        "analyst_target": 23.45,
+        "analyst_upside_pct": 101.0,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -8360,6 +8859,70 @@
       ],
       "avoids": [],
       "description": "Digital payments and financial services platform in Japan"
+    },
+    {
+      "ticker": "PENG",
+      "company_name": "Penguin Solutions",
+      "buy_count": 1,
+      "avoid_count": 0,
+      "first_mention_date": "19 Nov 2026",
+      "price_at_first_mention": 36.05,
+      "pct_change_since_rec": 0.0,
+      "market": {
+        "ticker": "PENG",
+        "name": "Penguin Solutions, Inc.",
+        "currency": "USD",
+        "sector": "Technology",
+        "industry": "Information Technology Services",
+        "market_cap": 2185229824,
+        "current_price": 36.05,
+        "daily_change_pct": -15.2,
+        "month_change_pct": -38.25,
+        "week52_high": 89.86,
+        "week52_high_date": "09 Jul 2026",
+        "week52_low": 16.04,
+        "week52_low_date": "30 Mar 2026",
+        "rsi": 34.5,
+        "rsi_label": "neutral",
+        "ma50": 54.62,
+        "ma200": 45.9,
+        "ma_signal": "golden_cross",
+        "pe_trailing": 13.865385,
+        "pe_forward": 6.8588276,
+        "peg_ratio": null,
+        "revenue_growth": 0.677,
+        "earnings_growth": 11.878,
+        "free_cashflow": -124298624,
+        "profit_margins": 0.10431,
+        "debt_to_equity": 115.312,
+        "beta": 2.881,
+        "short_percent": 0.1407,
+        "dividend_yield": 0.0,
+        "analyst_buy": 7,
+        "analyst_hold": 0,
+        "analyst_sell": 1,
+        "analyst_target": 85.62,
+        "analyst_upside_pct": 137.5,
+        "earnings_date": null,
+        "earnings_days": null
+      },
+      "buys": [
+        {
+          "channel": "Mr. FIRED Up Wealth",
+          "title": "Why I'm Buying These 10 Stocks! Best Stocks to Buy Now!",
+          "url": "https://www.youtube.com/watch?v=mYiLeZ6r0_0",
+          "upload_date": "20261119",
+          "date_label": "19 Nov 2026",
+          "ticker": "PENG",
+          "company_name": "Penguin Solutions",
+          "reason": "Speculative AI-related play that went from $16 to $89. Stock pulled back to DCA levels below creator's initial entry circles. Created Patreon exclusive write-up with specific DCA areas. Currently up 16-18% on the position. Creator sees attractive risk/reward at current levels with Fibonacci support.",
+          "when_to_buy": "In the ranges shown on chart; approached as small 1% speculative position",
+          "target_price": null,
+          "cautions": "Creator explicitly labels this as spec (1% position). Stock is volatile and went below initial target zones due to black swan event (Jensen resignation). S3 Fibonacci at $30 could break lower. Creator warns this is not highest quality, only 1% allocation appropriate."
+        }
+      ],
+      "avoids": [],
+      "description": "Designs, builds, and operates data centres for enterprise AI workloads"
     },
     {
       "ticker": "PENN",
@@ -8772,6 +9335,33 @@
         }
       ],
       "description": "Manufactures photonic integrated circuits for semiconductor applications"
+    },
+    {
+      "ticker": "PSTG",
+      "company_name": "Palo Alto Networks",
+      "buy_count": 1,
+      "avoid_count": 0,
+      "first_mention_date": "19 Nov 2026",
+      "price_at_first_mention": null,
+      "pct_change_since_rec": null,
+      "market": null,
+      "buys": [
+        {
+          "channel": "Mr. FIRED Up Wealth",
+          "title": "Why I'm Buying These 10 Stocks! Best Stocks to Buy Now!",
+          "url": "https://www.youtube.com/watch?v=mYiLeZ6r0_0",
+          "upload_date": "20261119",
+          "date_label": "19 Nov 2026",
+          "ticker": "PSTG",
+          "company_name": "Palo Alto Networks",
+          "reason": "Had a nice earnings report with stock up 10% yesterday and another 7.5% today. The creator recommends cybersecurity stocks because as AI changes the world, you will need more cybersecurity not less. This was a previous channel recommendation at much lower prices with approximately 100% returns since last recommendation. The creator believes cybersecurity is a critical investment theme as AI deployment accelerates.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": "Stock is not cheap and already expensive. The creator warns against FOMO chasing at all-time highs."
+        }
+      ],
+      "avoids": [],
+      "description": "Develops cybersecurity software and cloud security platforms"
     },
     {
       "ticker": "QCOM",
@@ -10309,6 +10899,70 @@
       "description": "Cloud-based data platform with AI applications"
     },
     {
+      "ticker": "SNPS",
+      "company_name": "Synopsys (inferred from context - SanDisk reference)",
+      "buy_count": 1,
+      "avoid_count": 0,
+      "first_mention_date": "19 Nov 2026",
+      "price_at_first_mention": 396.17,
+      "pct_change_since_rec": 0.0,
+      "market": {
+        "ticker": "SNPS",
+        "name": "Synopsys, Inc.",
+        "currency": "USD",
+        "sector": "Technology",
+        "industry": "Software - Infrastructure",
+        "market_cap": 75920687104,
+        "current_price": 396.17,
+        "daily_change_pct": -8.06,
+        "month_change_pct": -12.19,
+        "week52_high": 539.48,
+        "week52_high_date": "26 May 2026",
+        "week52_low": 362.55,
+        "week52_low_date": "15 Sep 2026",
+        "rsi": 30.7,
+        "rsi_label": "neutral",
+        "ma50": 448.45,
+        "ma200": 440.92,
+        "ma_signal": "golden_cross",
+        "pe_trailing": 69.994705,
+        "pe_forward": 21.196693,
+        "peg_ratio": 2.06,
+        "revenue_growth": 0.424,
+        "earnings_growth": 0.893,
+        "free_cashflow": 3425542400,
+        "profit_margins": 0.11432999,
+        "debt_to_equity": 34.804,
+        "beta": 1.184,
+        "short_percent": 0.033099998,
+        "dividend_yield": 0.0,
+        "analyst_buy": 19,
+        "analyst_hold": 5,
+        "analyst_sell": 1,
+        "analyst_target": 591.49,
+        "analyst_upside_pct": 49.3,
+        "earnings_date": null,
+        "earnings_days": null
+      },
+      "buys": [
+        {
+          "channel": "Mr. FIRED Up Wealth",
+          "title": "Why I'm Buying These 10 Stocks! Best Stocks to Buy Now!",
+          "url": "https://www.youtube.com/watch?v=mYiLeZ6r0_0",
+          "upload_date": "20261119",
+          "date_label": "19 Nov 2026",
+          "ticker": "SNPS",
+          "company_name": "Synopsys (inferred from context - SanDisk reference)",
+          "reason": "Semiconductor stock down 66-70% from highs due to AI capex cycle fears. Trading at 2.74 forward PE ratio with significant fear baked into valuation. Creator bought at $775.77 price point as new 1% position. Stock went from $40 (summer 2025) to $2,354 high, now experiencing 50%+ retracement. At these depressed valuations with strong Fibonacci support levels (S2 and S3), represents attractive risk/reward.",
+          "when_to_buy": "$775.77 entry point (described as new position); can wait for further pullback to S3 Fibonacci level around $669 or lower",
+          "target_price": "Creator believes stock has significant upside despite current weakness",
+          "cautions": "Very volatile stock. Down 66-70% from highs. Creator considers this speculative. S3 Fibonacci support at $669 could break further. Not for risk-averse investors. Creator owns only 1% position size."
+        }
+      ],
+      "avoids": [],
+      "description": "Provides design automation and IP software for semiconductor and electronics development"
+    },
+    {
       "ticker": "SOFI",
       "company_name": "SoFi Technologies Inc.",
       "buy_count": 9,
@@ -11519,7 +12173,7 @@
     {
       "ticker": "VST",
       "company_name": "Vistra Corp.",
-      "buy_count": 1,
+      "buy_count": 2,
       "avoid_count": 0,
       "first_mention_date": "05 Nov 2026",
       "price_at_first_mention": 112.89,
@@ -11575,6 +12229,19 @@
           "when_to_buy": "Buy zone $120 and below; red buy area ideally $100-$120 range; has earnings tomorrow",
           "target_price": "Creator indicated previous target around $125 before selloff; now potentially lower given market correction",
           "cautions": "Texas data center policy changes could impact demand for power generation, though creator believes impact is overdone. Stock could test lower to around $100. Earnings tomorrow could add further volatility. Creator acknowledges uncertainty around Texas policy but views as temporary delay rather than fundamental impairment to existing projects."
+        },
+        {
+          "channel": "Mr. FIRED Up Wealth",
+          "title": "Why I'm Buying These 10 Stocks! Best Stocks to Buy Now!",
+          "url": "https://www.youtube.com/watch?v=mYiLeZ6r0_0",
+          "upload_date": "20261119",
+          "date_label": "19 Nov 2026",
+          "ticker": "VST",
+          "company_name": "Vistra Corp",
+          "reason": "Energy company trading at $125, represents throwing out the baby with the bathwater. Creator believes political concerns about Texas won't impact energy demand. Even at $125 not a bad entry. Creator got some shares at $110 (great buy). Position up 5-10%. Pays nice dividend. Not expensive. Fits multiple risk tolerances. Up 41% profits with 10-20% growth. PE ratio 13.9 vs sector median 19. PEG ratio 0.1.",
+          "when_to_buy": "Creator identified DCA area; still in that DCA zone; got shares at $110; $125 also acceptable entry",
+          "target_price": null,
+          "cautions": "Not high-flyer name. More respectable, boring energy play. Lower margin profile. Subject to political sentiment about Texas but creator believes fundamentals unaffected."
         }
       ],
       "avoids": [],
@@ -11826,8 +12493,8 @@
         "analyst_buy": 37,
         "analyst_hold": 9,
         "analyst_sell": 0,
-        "analyst_target": 235.94,
-        "analyst_upside_pct": 21.1,
+        "analyst_target": 236.34,
+        "analyst_upside_pct": 21.3,
         "earnings_date": null,
         "earnings_days": null
       },

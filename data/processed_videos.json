@@ -37762,9 +37762,18 @@
       "title": "The Danger of Shorting the Stock Market",
       "upload_date": "20261119",
       "url": "https://www.youtube.com/watch?v=nr6cAdgojNQ",
-      "processed_at": "2026-11-23T08:57:48.878920",
-      "transcript_fails": 1,
-      "last_reason": "error"
+      "processed_at": "2026-11-23T13:38:59.289476",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Shorting stocks is extremely dangerous and should be avoided. Even if your prediction about a stock's decline is correct, imperfect timing can result in substantial losses. The example of Burry demonstrates this risk: he correctly predicted the housing crash in 2005, but the market did not collapse until 2008\u2014a 3-year period during which he was exposed to significant losses and nearly went bankrupt despite being fundamentally right.",
+          "Market timing is unreliable and tends to underperform a buy-and-hold strategy. Study after study shows that staying invested through market downturns outperforms attempting to time the market. Over a 20-year period, the stock market has never delivered a negative return, suggesting that patience and long-term investing are superior strategies to active trading or shorting.",
+          "Even investors approaching retirement should not abandon equity exposure entirely. Calculators exist to determine an appropriate stock-to-bond allocation based on individual circumstances that can weather market downturns, indicating that some equity risk remains prudent even for those nearing retirement."
+        ],
+        "tickers_mentioned": []
+      },
+      "price_at_recommendation": {}
     },
     "mYiLeZ6r0_0": {
       "channel": "Mr. FIRED Up Wealth",
@@ -38605,6 +38614,507 @@
       "price_at_recommendation": {
         "NVDA": 125.53,
         "AMZN": 246.82
+      }
+    },
+    "eVtG-toIr8Y": {
+      "channel": "The Traveling Trader",
+      "title": "Is this just a correction or a BEAR MARKET? [How to Know & When to Buy]",
+      "upload_date": "20261122",
+      "url": "https://www.youtube.com/watch?v=eVtG-toIr8Y",
+      "processed_at": "2026-11-23T13:36:40.450477",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "SPY",
+            "company_name": "SPDR S&P 500 ETF Trust",
+            "reason": "The creator makes a habit of buying the indices every time they hit minus 10% increments. SPY just hit the buy level last week because it is down 11%. The creator believes this represents a buying opportunity, especially given that the S&P 500 trailing PE is below the 10-year average and even below 2017 levels, making the market extremely cheap. The creator suggests buying during minus 10% or minus 20% declines as pretty easy buying opportunities.",
+            "when_to_buy": "At minus 10% drawdown levels; creator purchased when SPY was down 11% from highs",
+            "target_price": null,
+            "cautions": "Creator still expects the SPY has a chance of getting to the fake Iran peace deal gap, which means further downside is possible. Creator recommends using a collar strategy to protect downside risk when buying the dip in uncertain times."
+          },
+          {
+            "ticker": "QQQ",
+            "company_name": "Invesco QQQ Trust",
+            "reason": "The creator purchased QQQ because it hit the buy level at minus 20% drawdown. Because QQQ is more volatile than SPY, it has a chance of taking out the low from March, which is this year's low. The creator believes that minus 10% or minus 20% declines in the indices represent buying opportunities. QQQ is down almost 20% from highs with tech leading the way, similar to 2018 market structure.",
+            "when_to_buy": "At minus 20% drawdown levels; creator purchased when QQQ was down 20% from highs",
+            "target_price": "Creator suggests QQQ could reach approximately 27% drawdown (around the golden pocket, a little bit past halfway Fibonacci move from the liberation day low to October 2026 high). Potential support around 27% drawdown level.",
+            "cautions": "Creator recommends using a collar strategy to protect downside. The creator still expects further downside potential and does not expect an instant rebound. The market does not care about cost basis, and creator warns not to make brash decisions based on false expectations of immediate recovery."
+          },
+          {
+            "ticker": "COST",
+            "company_name": "Costco Wholesale Corporation",
+            "reason": "Creator mentions Costco as an example of a defensive stock and leader that could be at a discount if the entire market falls together. Creator uses Costco as an example of a company whose moving averages and market structure should be monitored to determine market direction. If the equal weight index (RSP) starts falling at similar rates to the cap-weighted S&P 500, it will actually be good news because great defensive stocks like Costco will be at a discount.",
+            "when_to_buy": "If and when the entire market experiences broader deterioration and equal weight index starts falling in line with cap-weighted index, presenting a discount opportunity",
+            "target_price": null,
+            "cautions": "Creator uses Costco primarily as an example for technical analysis and market structure monitoring rather than a specific buy recommendation. Creator mentions some people might have missed Costco in this year's rotation."
+          },
+          {
+            "ticker": "WMT",
+            "company_name": "Walmart Inc.",
+            "reason": "Creator mentions Walmart as an example of a defensive stock similar to Costco that could be at a discount if the entire market falls together. If the equal weight index starts falling at similar rates to the S&P 500, defensive stocks like Walmart will be available at discounts that may have been missed during the year's sector rotations.",
+            "when_to_buy": "If and when broader market deterioration occurs and equal weight index aligns with cap-weighted index performance",
+            "target_price": null,
+            "cautions": "Creator uses Walmart primarily as an example rather than a specific buy recommendation. Creator mentions this would be good news for investors looking to build positions in defensive stocks."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Creator identifies Nvidia as facing significant headwinds and black swan events. Jensen Huang has a hearing scheduled for December 1st, and Nvidia is now being investigated by the SEC. Creator notes that although Nvidia was at one point the largest company in the world, it is experiencing a correction as tech leads the sell-off. The Nasdaq Composite has fallen 23.6% with tech leading the way, and Nvidia is part of this concentrated damage in the AI and tech sector.",
+            "risk": "Creator identifies Jensen's December 1st hearing and SEC investigation as black swan events for the company. Nvidia was at one point the largest company in the world, so issues with this company represent a black swan for the market at large in creator's opinion. The concentration of losses in tech and AI presents systemic risk."
+          }
+        ],
+        "key_warnings": [
+          "High-Beta and Leveraged Growth Stocks: Going into 2027 with higher yields, creator wants to focus on companies able to generate cash flows easily with ironclad balance sheets and wants to avoid high beta stuff that requires a lot of debt and equity issuance to stay alive. Creator warns that many portfolios are experiencing 50%+ drawdowns while the S&P 500 is only down 11%, indicating excess exposure to high-beta tech and growth stocks.",
+          "Portfolio Beta Risk: Investors must understand their portfolio's beta. If portfolio beta is above one, the portfolio is more volatile than the S&P 500 by that measure. Some portfolios with high beta (e.g., 4x) are experiencing 60% drawdowns while S&P 500 is down 11%, indicating a mismatch between investor profile and actual portfolio construction.",
+          "Breadth Deterioration as Bear Market Signal: Creator is monitoring whether damage spreads beyond AI and tech to the broader market. If equal weight S&P (RSP) starts falling in line with cap-weighted S&P 500, and if non-tech stocks start making 52-week lows, this would be a primary clue that market is tipping into prolonged bear market versus correction. Currently equal weight is down 7% versus 11%, but breadth deterioration is starting to happen.",
+          "Fed Rate Hike Uncertainty: There is an 88% chance the Fed will raise rates in December 2026. Inflation data has come in terribly on both CPI and PPI. While the Fed was also raising in 2018 (which led to a correction), creator is uncertain about Fed's messaging on quantitative tightening, growth data, and financial conditions. Fed policy decisions could determine whether this is a 2018-style correction or 2022-style bear market.",
+          "Credit Spreads and Financial Conditions: Creator is monitoring credit spreads via BOFA US high yield spreads. Credit spreads are currently at the same level as the March low (liberation day). Widening credit spreads would signify volatility in credit markets and potential systemic risk. If yields start rising and credit spreads widen, this increases probability of prolonged bear market.",
+          "Failed Breakouts as Continuation Signal: Creator is watching for a pattern of sharp retracements followed by moves that quickly create lower lows. If breakouts keep failing and the market creates lower lows instead of holding support, creator will prepare for a more prolonged downturn versus a quick 2018-style correction.",
+          "Earnings Estimate Risk: Although earnings estimates have not been cut yet and Q3 2026 earnings grew 31.9%, there is emerging discussion on CNBC about whether earnings estimates were overshoot and should be pulled back. Any material downward revisions to forward earnings estimates would be a major signal of deteriorating fundamentals and increased probability of bear market continuation.",
+          "Tech Sector Concentration Risk: The Nasdaq Composite has fallen 23.6% (into bear market territory) while S&P 500 is in correction. Tech has led the sell-off and is down almost 20% from highs. This concentration of losses in one sector means broader market has not yet deteriorated, but if breadth spreads, could indicate systemic weakness. Correction is still concentrated but starting to spread through broader market.",
+          "Accidental Portfolio Oversizing: Creator warns investors to cut positions that were accidentally oversized on. Many investors do not know their portfolio's beta or why they bought certain positions. Those experiencing disproportionate drawdowns should rebalance and ensure portfolio matches their actual investor profile (time horizon, income, risk tolerance, experience)."
+        ],
+        "tickers_mentioned": [
+          "SPY",
+          "QQQ",
+          "RSP",
+          "COST",
+          "WMT",
+          "NVDA"
+        ]
+      },
+      "price_at_recommendation": {
+        "QQQ": 608.45,
+        "SPY": 689.81,
+        "WMT": 127.95,
+        "NVDA": 125.53,
+        "COST": 1102.15
+      }
+    },
+    "G-cf81GwVO4": {
+      "channel": "The Traveling Trader",
+      "title": "\ud83d\udd34 How to Become a Confident Investor: FREE Masterclass",
+      "upload_date": "20261121",
+      "url": "https://www.youtube.com/watch?v=G-cf81GwVO4",
+      "processed_at": "2026-11-23T13:37:03.330642",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms Inc.",
+            "reason": "Meta trades at a 16.4x PE with 6% price earnings growth, return on invested capital of 18%, 10-year revenue CAGR of 27%, pays a dividend, and shows increasing revenue, gross profit, and cash from operations. The creator stated he would buy Meta with the intention of holding for the long term because he believes it will eventually grow into earnings despite current market downturn.",
+            "when_to_buy": "During market corrections; creator mentioned current market drawdown as an opportunity",
+            "target_price": null,
+            "cautions": "Creator emphasizes not to place stop losses on quality stocks like Meta during downturns, as stops will likely be hit at the bottom before rebounds occur."
+          },
+          {
+            "ticker": "BROADCOM",
+            "company_name": "Broadcom Inc.",
+            "reason": "Broadcom has excellent return on invested capital at nearly 24% (above the 20% threshold creator seeks) and a price earnings growth of 0.3, indicating the company is projected to grow with earnings growth higher relative to price, making it attractively valued.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "CWEB",
+            "company_name": "Coreweave Inc.",
+            "reason": "Coreweave has no earnings, debt to equity of 1,600% (extremely high leverage), and operates in a capital-intensive data center business with questionable unit economics. Creator stated he would only trade it tactically for price movements, not allocate it as a long-term holding, saying 'as a business these are terrible businesses.' Creator does not believe in Coreweave as a long-term investment despite potential for price rebounds.",
+            "risk": "Extremely high leverage and no earnings make this a speculative position; creator's beta for Coreweave is 7.6, meaning extreme volatility and significant downside risk during market downturns."
+          },
+          {
+            "ticker": "NEBIUS",
+            "company_name": "Nebius N.V.",
+            "reason": "Similar to Coreweave, Nebius is a data center/AI infrastructure company that creator grouped with other neoclouds as having poor business fundamentals. Creator expressed skepticism about allocating meaningfully to such companies for long-term holding despite potential for trading rebounds.",
+            "risk": "High beta, no earnings, and cyclical nature of data center demand create significant volatility and downside risk."
+          }
+        ],
+        "key_warnings": [
+          "NASDAQ (QQQ) has entered bear market territory (down 20%) and creator expects potential further downside to March lows or even lower: 'I would not be surprised if we take out the low of the year.' Investors should expect continued volatility and additional drawdowns before recovery.",
+          "Nvidia faces significant headwinds including SEC investigation, loss of CEO, geopolitical risks (China sales now projected at zero dollars), and uncertainty around leadership. Creator stated: 'I do think that Jensen is going to be relieved of any wrongdoing' but current risks are substantial. This is a black swan event on an individual stock level.",
+          "Hyperscalers (Google, Amazon, Meta) are tanking free cash flows due to excessive AI spending, raising profitability concerns across the mega-cap technology sector.",
+          "Bond yields are rising due to inflation coming in hotter than expected multiple months in a row, creating headwinds for growth stocks and increasing discount rates.",
+          "Credit default swaps for companies like Coreweave have risen to the highest amounts ever, signaling extreme credit stress in the neoclouddata center space.",
+          "Market valuations are currently extremely low, but creator warns investors to expect stock prices to continue declining after purchase: 'I want you to assume that the price is going to go down more. You are not going to catch the actual bottom. Nobody is.' This is designed to prevent panic selling.",
+          "Most individual investors' portfolios do not reflect their actual risk tolerance due to bad decision-making. Creator states: 'Most people do not want to take that much risk, but because of bad decision-making and bad habits, they end up with a risky portfolio.' This mismatch is the primary cause of investors abandoning the market during downturns."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "MSFT",
+          "AAPL",
+          "TSLA",
+          "AMZN",
+          "GOOGL",
+          "META",
+          "NFLX",
+          "NKE",
+          "LULU",
+          "DIS",
+          "PII",
+          "ADBE",
+          "AMD",
+          "BROADCOM",
+          "SNDK",
+          "CWEB",
+          "NEBIUS",
+          "TQQQ",
+          "SOX",
+          "SOXL",
+          "QQQ",
+          "SPY",
+          "VTSAX",
+          "VTI",
+          "VUG",
+          "SCHD",
+          "VGIT",
+          "TLT",
+          "ESGOV",
+          "BRK.B",
+          "AAPL",
+          "KO",
+          "CVX"
+        ]
+      },
+      "price_at_recommendation": {
+        "CWEB": 12.82,
+        "META": 560.84
+      }
+    },
+    "NoziXUK8lzU": {
+      "channel": "The Traveling Trader",
+      "title": "what a mess...how i'm investing now [What & Where I'm Buying]",
+      "upload_date": "20261120",
+      "url": "https://www.youtube.com/watch?v=NoziXUK8lzU",
+      "processed_at": "2026-11-23T13:37:45.940425",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "QQQ",
+            "company_name": "Invesco QQQ Trust (NASDAQ-100 ETF)",
+            "reason": "The creator buys indices on minus 10% increments. QQQ has already hit the minus 10% level from 52-week highs. The creator is waiting for the minus 20% level to add another tranche, which would be around 634, representing a gap up from the fake Iran peace deal back in April. This level represents a historic opportunity as tech valuations have dropped to levels not seen since 2020.",
+            "when_to_buy": "Already bought at -10%; waiting for -20% decline to add more (around 634 level)",
+            "target_price": "634",
+            "cautions": "The creator wishes they had kept a longer-term short in hindsight rather than being in and out of shorts throughout the decline, suggesting this is a volatile position to manage."
+          },
+          {
+            "ticker": "SPY",
+            "company_name": "SPDR S&P 500 ETF Trust",
+            "reason": "The S&P 500 is tracking very closely to 2018 as it takes out key technical levels. The creator notes that typical corrections of 10-20% on the S&P 500 show mostly positive returns 3, 6, and 12 months ahead. This is marked as a great opportunity to diversify away from pure tech exposure while the broader market is finally correcting alongside tech.",
+            "when_to_buy": "Waiting for the minus 10% level from 52-week high close, which is around 571",
+            "target_price": null,
+            "cautions": "A 20% decline on the S&P 500 would take it below the March low, which is possible but not the base case according to the creator. The creator expects this to be a typical seasonal correction, not a bear market."
+          },
+          {
+            "ticker": "RSP",
+            "company_name": "Invesco S&P 500 Equal Weight ETF",
+            "reason": "The creator will balance SPY investment with S&P 500 equal weight exposure. The S&P 500 equal weight performed exceptionally well compared to the market-cap weighted S&P 500 this year when the market was tanking and the equal weight was making new all-time highs. Currently down only 5%, providing diversification from mega-cap concentration.",
+            "when_to_buy": "Dollar cost averaging when it reaches the 200-day moving average",
+            "target_price": null,
+            "cautions": "The creator emphasizes not double-buying exposure to the Magnificent 7 stocks (Amazon, Microsoft, Google, Apple, Meta) since they dominate both SPY and QQQ holdings."
+          },
+          {
+            "ticker": "LLY",
+            "company_name": "Eli Lilly and Company",
+            "reason": "The creator has wanted to own this healthcare stock for a long time but has repeatedly missed the boat. It trades like a tech stock with exceptional fundamentals: 31% return on invested capital, 10-year CAGR of almost 13%, all-time high revenue, gross profit, cash from operations, and free cash flow. It is worth 1.27 trillion with insane earnings per share growth. The creator states they will not miss this opportunity this time.",
+            "when_to_buy": "Dollar cost average on a 10% pullback and/or when it reaches moving averages again",
+            "target_price": null,
+            "cautions": "Currently down only 8.5% from highs, so the creator is waiting for a larger pullback before significant accumulation."
+          },
+          {
+            "ticker": "SCHD",
+            "company_name": "Schwab US Dividend Equity ETF",
+            "reason": "An income-focused ETF with a 3% yield that provides diversification away from pure tech exposure as the entire market corrects. Holdings include Qualcomm, Texas Instruments, Proctor and Gamble, Coca-Cola, Chevron, Merck, Amgen, United Healthcare, ConocoPhillips, Home Depot, and Pepsi. The creator notes the entirety of the market is finally ready to correct and give opportunities, and SCHD is now on discount.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "CIBR",
+            "company_name": "First Trust NASDAQ Cybersecurity ETF",
+            "reason": "The creator was underweight in cybersecurity for the entire year and is now looking at this pullback as an opportunity. CIBR holds Crowdstrike, Broadcom, Palo Alto Networks, Cisco, Okta, Cloudflare, Zscaler, and other cybersecurity leaders, providing sector diversification without picking individual names.",
+            "when_to_buy": "Dollar cost average when CIBR retraces down to at least the 0.5 Fibonacci level to the 200-day moving average, around 85 dollars",
+            "target_price": "85",
+            "cautions": "The creator notes there needs to be more of a retracement before accumulation begins."
+          },
+          {
+            "ticker": "ASML",
+            "company_name": "ASML Holding N.V.",
+            "reason": "ASML is one of two strongest monopolies in the stock market with no real competition, making it devoid of potential moat loss and market share threats. During previous opportunities (liberation day), the stock purchased at 600 rose to 2,000. Currently down 32% from highs, it represents value if it reaches the 1,100 level. At that level, the forward PE would be around 19 (from current 24.5 PE).",
+            "when_to_buy": "If ASML drops to around the 1,100 level (currently trading at 1,342)",
+            "target_price": "1100",
+            "cautions": "This is acknowledged by the creator as 'a long shot' and dependent on a significant further decline. The creator emphasizes uncertainty about the timeline for this level to be reached."
+          },
+          {
+            "ticker": "TSM",
+            "company_name": "Taiwan Semiconductor Manufacturing Company",
+            "reason": "TSM is one of the two strongest monopolies in the stock market with no real competition, making it virtually immune to competitive threats and market share loss. It represents a core semiconductor play with structural competitive advantages.",
+            "when_to_buy": "Target entry around the 0.5 Fibonacci level of the entire move, approximately 310 dollars",
+            "target_price": "310",
+            "cautions": "The creator presents this as a speculative target that requires significant further decline from current levels."
+          },
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "On paper, Nvidia is super cheap right now. The creator believes it represents great long-term value, especially if the company remains fundamentally intact. The stock swept the Jensen resignation candle as of the time of recording, completing a technical pattern.",
+            "when_to_buy": "Potentially if stock drops towards 100 dollars and Jensen is cleared of government wrongdoing with no pending investigations",
+            "target_price": "100",
+            "cautions": "The creator strongly cautions that it will not be smooth sailing in the near term despite long-term value. There are numerous unknowns including: a new CEO (possibly Colette Kress or Renee Haas from ARM) instead of Jensen; next earnings are February 24, 2027 (far away); December hearings with Jensen pending; and the creator believes Jensen could return if stock drops to 100 and he is cleared. The creator explicitly states 'it's not going to be smooth sailing from here' and emphasizes 'tons of unknowns' that will create volatility."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "COST",
+            "company_name": "Costco Wholesale Corporation",
+            "reason": "Although Costco is a great defensive retail staples stock, it has already run so high since the end of September that the creator sees no current opportunity. The creator explicitly states 'I don't think there's an opportunity here just yet' and that the stock has already appreciated significantly, making it less attractive at current levels.",
+            "risk": null
+          },
+          {
+            "ticker": "WMT",
+            "company_name": "Walmart Inc.",
+            "reason": "Although Walmart is a great defensive retail staples stock, it has already run so high since the end of September that the creator sees no current opportunity. The creator notes 'these stocks have already ran so high' and states these may be appropriate for new investors to diversify but not at current valuations.",
+            "risk": null
+          },
+          {
+            "ticker": "TGT",
+            "company_name": "Target Corporation",
+            "reason": "Target, included in defensive retail staples recommendations, has already appreciated significantly since the end of September. The creator sees no near-term buying opportunity given the stock's recent strong performance.",
+            "risk": null
+          }
+        ],
+        "key_warnings": [
+          "The S&P 500 is very close to historic correction territory at minus 10%, having dropped below the 200-day moving average and the FOMC low from July that it hadn't taken out for months. While this appears to present a buying opportunity, the creator cautions that the market could potentially decline to a 20% correction (bear market), which would take the S&P 500 below the March low and create more stubborn price action and friction going forward.",
+          "Tech sector is currently in a bear market, down more than 20% from highs, though the creator's historical analysis shows that when XLK (tech sector) closes down more than 20% with RSI oversold, it has generated strong asymmetric returns 3, 6, and 12 months later (6 of 6, 5 of 6, and 4 of 6 times green respectively, with the two exceptions being 2000 and 2008).",
+          "The creator notes this volatility is seasonal around the midterms with elevated oil prices and bond yields, combined with the Fed's hiking cycle. However, historical data since 1942 shows that the 12 months following midterms (or the specific period from midterms to June) have been positive every single year, suggesting this is likely a temporary correction rather than a sustained bear market.",
+          "Nvidia faces significant near-term uncertainty despite long-term value: a change in leadership from Jensen Huang (who was ousted), pending December hearings with Jensen, and February 2027 earnings (far away). The creator cautions rocky conditions until these uncertainties resolve, though believes Jensen could potentially return if the stock drops to 100 and he is cleared of wrongdoing.",
+          "Mega-cap tech concentration risk: The creator repeatedly warns investors not to double-buy exposure to the Magnificent 7 stocks (Amazon, Microsoft, Google, Apple, Meta), which dominate both SPY and QQQ holdings. Investors should be very aware of their total exposure to these names and balance accordingly with equal-weight indices and other sectors.",
+          "The creator's portfolio rebalancing follows a systematic approach: buying indices on minus 10% increments and subsequently on minus 20% increments. Dollar cost averaging is emphasized rather than attempting to time the absolute bottom, with the philosophy that compounding over time through buying at discounted levels is more important than maximizing individual moves."
+        ],
+        "tickers_mentioned": [
+          "SPY",
+          "QQQ",
+          "XLK",
+          "RSP",
+          "LLY",
+          "SCHD",
+          "CIBR",
+          "COST",
+          "WMT",
+          "TGT",
+          "NVDA",
+          "TSM",
+          "ASML",
+          "AAPL",
+          "MSFT",
+          "GOOGL",
+          "AMZN",
+          "META",
+          "QCOM",
+          "TXN",
+          "PG",
+          "KO",
+          "CVX",
+          "MRK",
+          "AMGN",
+          "UNH",
+          "COP",
+          "HD",
+          "PEP",
+          "CRWD",
+          "AVGO",
+          "PANW",
+          "CSCO",
+          "OKTA",
+          "NET",
+          "ZS"
+        ]
+      },
+      "price_at_recommendation": {
+        "QQQ": 608.45,
+        "TSM": 318.71,
+        "SPY": 689.81,
+        "WMT": 127.95,
+        "NVDA": 125.53,
+        "ASML": 1266.22,
+        "SCHD": 33.94,
+        "RSP": 207.44,
+        "CIBR": 91.43,
+        "LLY": 1347.11,
+        "TGT": 165.83,
+        "COST": 1102.15
+      }
+    },
+    "nzJDTRHSzFA": {
+      "channel": "Jose Najarro Stocks",
+      "title": "Nvidia Stock Is Crashing... Are We Near the Final Flush?",
+      "upload_date": "20261122",
+      "url": "https://www.youtube.com/watch?v=nzJDTRHSzFA",
+      "processed_at": "2026-11-23T13:38:18.630476",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Despite a 14% drop on Friday and market fear, the creator maintains that Nvidia's underlying thesis remains intact. Demand for AI, supply chain, and money flowing into the market have not fundamentally changed. The CEO change is viewed as a controlled risk that does not justify a 50% drop. The creator believes the stock is in a rare buying opportunity near the final flush of the market downturn rather than the beginning. Even with recent declines, the stock has outperformed the market over the past 5 years. The creator personally bought more shares on Friday, able to purchase twice the shares at current prices compared to previous valuations.",
+            "when_to_buy": "Current prices during the market downturn (video recorded after Friday's 14% drop). Creator actively bought on Friday.",
+            "target_price": null,
+            "cautions": "CEO change (Jensen Huang no longer at helm) presents some risk. The creator acknowledges this is not a guaranteed opportunity but a probability of success that has become higher at current prices. Early investors with lower cost basis will have different mentality than recent purchasers at $218-$225."
+          },
+          {
+            "ticker": "CORE",
+            "company_name": "Core (CoreWeave implied)",
+            "reason": "Neo-cloud players that can turn on and deploy GPUs efficiently and effectively are positioned as great winners at current prices. CoreWeave mentioned they are turning on compute much faster than expected, saw revenue guidance boost, and dramatically improved adjusted operating income by reducing the gap between money burning and revenue collection. The creator views this operational efficiency as a key differentiator in the AI infrastructure buildout.",
+            "when_to_buy": "Current market downturn prices. Creator views neo-cloud players as sitting at great valuations.",
+            "target_price": null,
+            "cautions": "Success depends on the company's ability to execute efficiently on GPU deployment and infrastructure buildout. Market timing risk exists for infrastructure plays."
+          },
+          {
+            "ticker": "NBIS",
+            "company_name": "Nebius (implied from 'Nebus')",
+            "reason": "Listed among neo-cloud and hyperscaler players doing well and positioned at great prices during the downturn. The creator groups this company with others capable of efficiently turning on GPUs and hyperscale infrastructure.",
+            "when_to_buy": "Current market downturn valuations",
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices",
+            "reason": "Creator mentions AMD as a long-term holding purchased before the AI rally. Currently trading at 23x forward PE, which the creator views as reasonable given the AI infrastructure buildout thesis and constrained GPU supply through 2029+.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Trading at higher forward PE (23x) compared to memory chip makers (2-3x forward PE) but lower than Broadcom (15x) and Marvell (16x)."
+          },
+          {
+            "ticker": "MRVL",
+            "company_name": "Marvell Technology",
+            "reason": "Memory play positioned to benefit from constrained HBM and DRAM production sold out through 2029. Creator mentions memory companies trading at 2-3 forward PE ratios as insanely cheap valuations. GPU prices staying elevated and constrained memory supply creates tailwind for memory chip suppliers.",
+            "when_to_buy": "Current downturn valuations, trading at 16x forward PE",
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "BRCM",
+            "company_name": "Broadcom",
+            "reason": "Memory and infrastructure play benefiting from AI buildout. Trading at 15x forward PE, which creator views as reasonable given HBM and memory supply constraints through 2029 and beyond.",
+            "when_to_buy": "Current market valuations",
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Market is in heavy fear and capitulation phase with new investors buying at peaks and selling at bottoms. Media amplification of negative news creates emotional trading. The creator warns against being the last seller during the flush \u2014 timing the market bottom is risky.",
+          "AI infrastructure requires massive upfront capital deployment with working capital needs potentially in the hundreds of billions. Any delays in turning on compute and generating revenue can create cash shortage problems, as noted by Elon Musk. This favors operationally efficient players over those with execution risks.",
+          "GPU supply is severely constrained with prices likely to remain elevated. HBM and DRAM production sold out through 2029+ creates supply bottleneck. This validates the AI buildout thesis but also creates execution risk for companies unable to secure adequate supply.",
+          "Nvidia CEO transition creates regulatory and leadership uncertainty. While the creator downplays this risk, it remains a factor in current market weakness and sentiment.",
+          "The creator emphasizes this is a cyclical downturn similar to past semiconductor cycles. Emotional decision-making during fear phases often locks in losses. Many new investors may have entered at market peaks in 2024-2025 and are more vulnerable to panic selling."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "AMD",
+          "MRVL",
+          "BRCM",
+          "CORE",
+          "NBIS"
+        ]
+      },
+      "price_at_recommendation": {
+        "NVDA": 125.53,
+        "NBIS": 81.31,
+        "AMD": 424.39,
+        "MRVL": 122.28
+      }
+    },
+    "DrmcpWPI6X8": {
+      "channel": "FinTek",
+      "title": "QCOM is the Next Nvidia of Robotics Chips",
+      "upload_date": "20261122",
+      "url": "https://www.youtube.com/watch?v=DrmcpWPI6X8",
+      "processed_at": "2026-11-23T13:38:29.718491",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "QCOM",
+            "company_name": "Qualcomm",
+            "reason": "Qualcomm is positioned as a long-term growth opportunity in robotics chips, with expectations to hit $8 billion in sales by 2029. The company has demonstrated strong growth in adjacent markets, with connected device chips growing 9% year-over-year and car chips growing 61% year-over-year, indicating successful expansion beyond their core phone chip business. The robotics segment, while currently small, represents a significant future growth driver that could transform the company's revenue profile.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The robotics business is still pretty small for this company, and it will be a long-term hold until robotics starts to seriously move the needle for the company. This is not a near-term catalyst play and requires patience for the robotics segment to mature and significantly contribute to revenue."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Robotics chip market adoption timeline remains uncertain. While Qualcomm shows promise, investors should recognize that the robotics business is currently immaterial to the company's financials and may take years before it becomes a meaningful revenue contributor. This requires a multi-year investment horizon rather than short-term returns."
+        ],
+        "tickers_mentioned": [
+          "QCOM",
+          "NVDA"
+        ]
+      },
+      "price_at_recommendation": {
+        "QCOM": 149.94
+      }
+    },
+    "tGvb4x0aRkM": {
+      "channel": "FinTek",
+      "title": "Most Undervalued Stocks For 2027",
+      "upload_date": "20261121",
+      "url": "https://www.youtube.com/watch?v=tGvb4x0aRkM",
+      "processed_at": "2026-11-23T13:38:39.261650",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "EFV",
+            "company_name": "iShares MSCI EAFE Value ETF",
+            "reason": "European value stocks are trading at an average PE ratio of 12, which is significantly cheaper than US value stocks. The ETF provides exposure to undervalued companies including Nestle, Mitsubishi, Shell, and HSBC Holdings. This represents a tactical opportunity to gain value exposure in a market segment that appears undervalued relative to current valuations elsewhere.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "The Warren Buffett indicator is sitting well over 200%, indicating that overall stock market valuations are extremely elevated relative to historical norms. This suggests significant caution is warranted for broad market exposure despite stocks continuing to hit all-time highs."
+        ],
+        "tickers_mentioned": [
+          "EFV",
+          "NSRGY",
+          "MITSY",
+          "SHEL",
+          "HSBC"
+        ]
+      },
+      "price_at_recommendation": {
+        "EFV": 37.45
+      }
+    },
+    "8vvBT0va3y4": {
+      "channel": "FinTek",
+      "title": "Google Stock\u2019s Comeback will be Legendary",
+      "upload_date": "20261120",
+      "url": "https://www.youtube.com/watch?v=8vvBT0va3y4",
+      "processed_at": "2026-11-23T13:38:49.220979",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "GOOGL",
+            "company_name": "Google (Alphabet Inc.)",
+            "reason": "Google is a leader in emerging technologies. Google Cloud specifically has demonstrated exceptional growth and profitability expansion, growing from $2.8 billion to $8.8 billion in their most recent quarter, representing a tripling of profitability over the past year. The company has reported a cloud backlog of $514 billion, providing substantial runway for future growth. The creator personally owns 123 shares valued at $42,000, which have appreciated over 100% since purchase.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": [
+          "GOOGL"
+        ]
+      },
+      "price_at_recommendation": {
+        "GOOGL": 265.29
       }
     }
   },

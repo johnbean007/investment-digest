@@ -39116,6 +39116,226 @@
       "price_at_recommendation": {
         "GOOGL": 265.29
       }
+    },
+    "40_-S2iXUHg": {
+      "channel": "CouchInvestor",
+      "title": "AI STOCKS FALLS AGAIN, ANTHROPIC IPO FAIL, WHAT'S NEXT?",
+      "upload_date": "20261124",
+      "url": "https://www.youtube.com/watch?v=40_-S2iXUHg",
+      "processed_at": "2026-11-24T21:29:06.851682",
+      "transcript_fails": 1,
+      "last_reason": "unavailable",
+      "terminal": true,
+      "skipped": "no transcript"
+    },
+    "qEAARuj4YYM": {
+      "channel": "CouchInvestor",
+      "title": "America Owes $39 Trillion, and About Three Quarters of It to Itself",
+      "upload_date": "20261124",
+      "url": "https://www.youtube.com/watch?v=qEAARuj4YYM",
+      "processed_at": "2026-11-24T21:29:11.018136",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": []
+      },
+      "price_at_recommendation": {}
+    },
+    "8Ys12SgQb4Y": {
+      "channel": "CouchInvestor",
+      "title": "Two Friends, Same $30,000 Car. One Paid $11,324 More",
+      "upload_date": "20261124",
+      "url": "https://www.youtube.com/watch?v=8Ys12SgQb4Y",
+      "processed_at": "2026-11-24T21:29:18.366124",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": []
+      },
+      "price_at_recommendation": {}
+    },
+    "JPJgyQpCrpQ": {
+      "channel": "CouchInvestor",
+      "title": "The Fed Wants Prices to Rise 2% a Year on Purpose",
+      "upload_date": "20261124",
+      "url": "https://www.youtube.com/watch?v=JPJgyQpCrpQ",
+      "processed_at": "2026-11-24T21:29:27.074609",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "The Federal Reserve's 2% inflation target, while intended to prevent deflation and support economic growth, has a significant long-term erosion effect on currency purchasing power. At 2% annual inflation, a dollar loses half its buying power in approximately 35 years. This represents a structural headwind for savers and fixed-income investors, as the Fed has acknowledged that the 2% figure is partly convention rather than scientifically determined. Investors should account for this systematic depreciation in real returns when planning long-term portfolios."
+        ],
+        "tickers_mentioned": []
+      },
+      "price_at_recommendation": {}
+    },
+    "WsvXVkbdKK8": {
+      "channel": "CouchInvestor",
+      "title": "Mayo's AI Found Cancer on Scans Read as Normal",
+      "upload_date": "20261124",
+      "url": "https://www.youtube.com/watch?v=WsvXVkbdKK8",
+      "processed_at": "2026-11-24T21:29:34.216934",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": []
+      },
+      "price_at_recommendation": {}
+    },
+    "YSo4KS0kMb4": {
+      "channel": "CouchInvestor",
+      "title": "How Insurers Lose Money and Still Get Rich",
+      "upload_date": "20261124",
+      "url": "https://www.youtube.com/watch?v=YSo4KS0kMb4",
+      "processed_at": "2026-11-24T21:29:42.550565",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Insurance industry business model risk: Insurers depend on 'float' \u2014 premiums collected that are invested while claims are pending. While this creates a profitable investing opportunity, catastrophic disaster years can rapidly drain the float. Additionally, poor investment timing or performance can coincide with claim payouts, creating compounded losses. The sustainability of insurer profitability depends on maintaining adequate float levels and disciplined capital deployment."
+        ],
+        "tickers_mentioned": [
+          "BRK.B"
+        ]
+      },
+      "price_at_recommendation": {}
+    },
+    "GLGwJ2uHlzc": {
+      "channel": "CouchInvestor",
+      "title": "Jensen Huang Is Back at Nvidia. Here's What I'm Doing Now",
+      "upload_date": "20261123",
+      "url": "https://www.youtube.com/watch?v=GLGwJ2uHlzc",
+      "processed_at": "2026-11-24T21:30:19.287638",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "The creator bought Nvidia last week and continues to hold because the investment thesis was not broken despite the recent crash. With Jensen Huang reinstated as CEO, the key man risk concern has been removed, which was a major overhang on the stock. The creator believes this removal of the overhang, combined with Nvidia's valuation being reasonable (not expensive), makes it attractive. The company is a core part of the AI growth story which the creator views as bullish.",
+            "when_to_buy": "Creator bought last week during the crash. The logic is that if comfortable buying last week, comfortable buying this week as well.",
+            "target_price": null,
+            "cautions": "Key man risk still exists structurally at Nvidia despite Jensen's return. The creator hopes that Jensen 2.0 will include proper succession planning and board restructuring to prevent future concentration risk. There is still uncertainty pending a closed-door hearing next week and other hearings mid-December."
+          },
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet Inc.",
+            "reason": "The creator bought Google last week and views it as a good company where the thesis was not broken despite market fear. Google trades at 20.4 times forward earnings, which the creator considers cheap and not expensive. The company generates substantial free cash flow. With the removal of the Jensen overhang creating a sentiment shift, the creator believes there is potential for sustained upside as valuations are attractive.",
+            "when_to_buy": "Creator bought last week. The rationale is buying into fear when valuations are reasonable.",
+            "target_price": "$300-$320 before end of year is possible, though the creator does not think it will go all the way back to $400 per share in the near term.",
+            "cautions": "While a sentiment shift is possible, one day of green is not enough data. The creator acknowledges this is still early and multiple positive days would be needed to confirm a real sentiment change."
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms Inc.",
+            "reason": "The creator bought Meta last week as a core holding, believing the business thesis was not broken despite the crash. Meta trades at reasonable valuations and the creator considers it a good company. With the sentiment shift from Jensen's reinstatement removing the AI ecosystem overhang, the creator sees potential for Meta to participate in sustained upside recovery.",
+            "when_to_buy": "Creator bought last week during the market crash on valuation and business fundamentals.",
+            "target_price": null,
+            "cautions": "Still far from recent highs from early November and early October. Recovery will likely not be immediate and may take time."
+          },
+          {
+            "ticker": "MSFT",
+            "company_name": "Microsoft Corporation",
+            "reason": "The creator mentions Microsoft as a name that is still not expensive at 23.9 times earnings and generates strong free cash flow. With the removal of the ecosystem overhang from Jensen's reinstatement, Microsoft may benefit from a sentiment shift as investors re-evaluate tech names on valuation and cash flow generation.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The creator did not explicitly state a personal position in Microsoft, so this appears to be a general observation about valuation attractiveness rather than a specific recommendation."
+          },
+          {
+            "ticker": "BRCM",
+            "company_name": "Broadcom Inc.",
+            "reason": "The creator notes that Broadcom is up significantly on the day Jensen was reinstated, and mentions it is still not expensive valuation-wise. As part of the AI semiconductor ecosystem, Broadcom benefits from the removal of the key man risk overhang at Nvidia.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "The creator did not state a personal position in Broadcom, treating it more as an observation of ecosystem beneficiary."
+          },
+          {
+            "ticker": "MU",
+            "company_name": "Micron Technology",
+            "reason": "The creator bought Micron last week and continues to hold. Micron is part of the AI hardware ecosystem and benefits from removal of the Nvidia key man risk overhang. The creator believes the investment thesis remains intact despite the recent crash.",
+            "when_to_buy": "Creator bought last week during market stress.",
+            "target_price": null,
+            "cautions": "Still down significantly from recent highs and may experience continued volatility as the market reassesses tech valuations."
+          },
+          {
+            "ticker": "NEBS",
+            "company_name": "Nebeus (or similar Neo-Cloud name)",
+            "reason": "The creator bought Nebeus last week as part of their AI/cloud infrastructure exposure. The stock was up nearly 110 at its high point during the Jensen reinstatement day, suggesting strong ecosystem sentiment. However, the creator notes they are observing profit-taking.",
+            "when_to_buy": "Creator bought last week. The timeframe for continued buying depends on stabilization of these highly volatile names.",
+            "target_price": null,
+            "cautions": "These NeoCloud stocks are extremely volatile and have experienced severe drawdowns from recent peaks. Profit-taking is occurring as buyers from last week's rally are selling into strength. The creator warns that these names may still decline further before sustained recovery."
+          },
+          {
+            "ticker": "SOFI",
+            "company_name": "SoFi Technologies",
+            "reason": "The creator bought SoFi last week, indicating belief that the thesis was not broken despite market stress. The creator included this in their portfolio of purchases made on valuation and business fundamentals.",
+            "when_to_buy": "Creator bought last week during the market crash.",
+            "target_price": null,
+            "cautions": "The creator did not elaborate on specific cautions for SoFi beyond general market uncertainty. This appears to be a valuation-based purchase during distress selling."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "CRWD",
+            "company_name": "CrowdStrike Holdings",
+            "reason": "CrowdStrike announced an all-stock acquisition of Zscaler. The creator notes that CrowdStrike is using its expensive stock to acquire another expensive stock (Zscaler), which is dilutive to existing shareholders. While the creator acknowledges consolidation in cybersecurity was inevitable (citing Palo Alto's acquisitions), the specific structure of this deal using expensive CrowdStrike stock is unfavorable to current shareholders.",
+            "risk": "Stock down 10.1% on the acquisition announcement due to dilution concerns. Shareholder value will be pressured by the all-stock deal structure and integration risks."
+          }
+        ],
+        "key_warnings": [
+          "The market experienced an extreme selloff this past week, with the NASDAQ 100 down 10.4-10.5%, which occurs only about once every 200 weeks. This is the worst week for tech stocks since 2003 (down 17.2%), worse than 2022, COVID crash, 2018 correction, or the 2008 financial crisis in relative terms. Only 11 out of 2,133 weeks since 1986 have been this bad or worse.",
+          "The S&P 500 is down 12.3% from October 6 record highs, representing the fastest drop to 10% decline since 1928 at the 11th fastest pace in 94 years. While most fast drops did not become bear markets, almost half of 20% drops historically became bear markets including 2007, warranting caution.",
+          "Tech stocks specifically are down 17.2% and are breaking down in ways reminiscent of 2000 (the dot-com bust when tech fell over 50%), though today's tech companies are vastly more profitable. This is the second worst underperformance of tech relative to the broader market in 20 years.",
+          "The VIX spiked 86% in one week from 19.3 to 35.9, the fourth biggest weekly jump since 1990. While historically high fear has led to above-average gains, there are edge cases like 2007 where fear stayed elevated and stocks fell another 45% over 2 years before recovery.",
+          "Probable rate hikes are still expected to continue, with one rate hike expected in December 2026 and uncertainty about cadence in 2027. This macroeconomic headwind could continue to pressure equity valuations.",
+          "Although valuations have become more attractive (S&P 500 at $17 price-to-earnings ratio, below 5-year and 10-year averages of $19-$20), cheaper valuations do not guarantee immediate recovery. Historical data shows after big fear spikes, averages include another 10-14% dip before recovery despite eventual strength. Recovery is not guaranteed to be immediate or V-shaped.",
+          "While Jensen Huang's reinstatement removed a major overhang, significant structural uncertainty remains at Nvidia including key man risk, lack of succession planning, closed-door hearings next week, and other hearings mid-December. These could introduce new concerns.",
+          "This is a shortened trading week with lower volume (Thursday market closed, Friday half-day), so volatility and rebounds may be distorted by light volume. Creator explicitly states that one day of gains is not enough data to confirm a sustained sentiment shift."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "ARM",
+          "AMD",
+          "BRCM",
+          "MU",
+          "GOOGL",
+          "META",
+          "CRWD",
+          "ZS",
+          "PANW",
+          "IRON",
+          "CRVW",
+          "NEBS",
+          "MSFT",
+          "SOFI"
+        ]
+      },
+      "price_at_recommendation": {
+        "SOFI": 12.86,
+        "NVDA": 155.38,
+        "GOOGL": 279.05,
+        "META": 589.82,
+        "MU": 629.79,
+        "MSFT": 496.13,
+        "CRWD": 210.86
+      }
+    },
+    "5TR5kQh_HQ8": {
+      "channel": "CouchInvestor",
+      "title": "Theaters Keep the Popcorn Money Because Studios Take the Ticket",
+      "upload_date": "20261123",
+      "url": "https://www.youtube.com/watch?v=5TR5kQh_HQ8",
+      "processed_at": "2026-11-24T21:30:26.671820",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": []
+      },
+      "price_at_recommendation": {}
     }
   },
   "channel_ids": {

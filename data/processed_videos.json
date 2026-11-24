@@ -39336,6 +39336,325 @@
         "tickers_mentioned": []
       },
       "price_at_recommendation": {}
+    },
+    "4lDl2CxlURY": {
+      "channel": "Ticker Symbol: YOU",
+      "title": "What Jensen's Return to NVIDIA Means for Every Investor",
+      "upload_date": "20261124",
+      "url": "https://www.youtube.com/watch?v=4lDl2CxlURY",
+      "processed_at": "2026-11-24T22:34:14.181614",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Nvidia beat the market in all four of the last four market recoveries (March 2020, October 2022, April 2025, March 2025), going up by 52% on average 3 months after each bottom. Revenues grew 103% year-over-year with raised outlook for next year. Stock is 31% below its high while the underlying business continues to grow with revenues of $116 billion last quarter and guidance to $130 billion this quarter. The company trades at 11 times forward earnings, a significant discount to the S&P 500's 17x multiple. Even after the 30% single-day recovery, the stock is positioned for further upside as investor sentiment normalizes from extreme fear levels.",
+            "when_to_buy": "After results of SEC investigations into Nvidia's accounting, California attorney general subpoena findings regarding China chip exports, and Jensen Huang's December 1st Congressional closed-door interview are clarified. Also after inflation data on November 25th, Federal Reserve meeting on December 9th, and inflation numbers on December 10th.",
+            "target_price": null,
+            "cautions": "SEC is investigating Nvidia's accounting practices. California's attorney general subpoenaed Nvidia over whether their chips reach China. Jensen Huang's return as CEO is still subject to ongoing Board investigation. If any investigations find real wrongdoing, Nvidia stock could decline significantly like Intel did. All these stocks depend on big tech companies continuing to spend on AI and the market continuing to trust leadership."
+          },
+          {
+            "ticker": "AVGO",
+            "company_name": "Broadcom Inc.",
+            "reason": "Broadcom designs custom chips for major AI companies and network infrastructure connecting them, making them one of Nvidia's biggest direct competitors. Stock is still 35% off its June high despite strong fundamentals. Revenues grew 86% year-over-year with AI chip revenue more than tripling. The company maintains exceptional 46% free cash flow margins while trading at only 16 times next year's earnings, cheaper than the S&P 500 as a whole. Broadcom beat the market in at least three of the last four recoveries and meets all criteria: growing revenues, growing earnings, and positive free cash flow.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "All these stocks depend on big tech companies continuing to spend on AI and the market continuing to trust leadership. If either stops, these stocks will feel it first."
+          },
+          {
+            "ticker": "TSM",
+            "company_name": "Taiwan Semiconductor Manufacturing Company",
+            "reason": "TSMC manufactures the world's most advanced chips for every major tech giant including Nvidia, AMD, Apple, Google, Microsoft, and Amazon. Last quarter revenues grew 41% with 66% gross margins and company is guiding for another 14% quarter-over-quarter jump. Trades at 16 times next year's earnings, slightly lower than the S&P 500 multiple. TSMC beat the market in at least three of the last four recoveries and demonstrates strong revenue growth, positive earnings, and positive free cash flow.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "All these stocks depend on big tech companies continuing to spend on AI and the market continuing to trust leadership. If either stops, these stocks will feel it first."
+          },
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices",
+            "reason": "AMD revenues grew 45% year-over-year with its data center business almost doubling. The company expects to make about $17 billion this quarter, implying 66% growth year-over-year. AMD beat the market in at least three of the last four recoveries and meets criteria of growing revenues, growing earnings, and positive free cash flow. It offers exposure to the AI boom through its competitive position against Nvidia.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "AMD is the riskiest stock on this list, trading at 25 times next year's earnings while growing slower and having lower margins than Nvidia, Broadcom, and TSMC. All these stocks depend on big tech companies continuing to spend on AI and the market continuing to trust leadership."
+          },
+          {
+            "ticker": "SMH",
+            "company_name": "Vaneck Semiconductor ETF",
+            "reason": "SMH holds 26 of the biggest chip companies and beat the market in all four of the latest recoveries. The fund fell 40% from its June high and remains 31% below it even after Monday's rally. Top four holdings (Nvidia, TSMC, Broadcom, AMD) make up about 40% of the fund, providing diversified exposure to all the strongest semiconductor stocks. For investors wanting diversification with less risk and not wanting to pick individual stocks, this provides the same growth potential without single-stock risk. Meets all criteria of revenue growth and positive free cash flow across its holdings.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "All holdings depend on big tech companies continuing to spend on AI and the market continuing to trust leadership. If either stops, these stocks will feel it first."
+          },
+          {
+            "ticker": "VGT",
+            "company_name": "Vanguard Information Technology ETF",
+            "reason": "VGT is a much broader technology fund with over 300 stocks, a 0.1% annual fee, and a history of beating both the S&P 500 and the NASDAQ 100 across almost every timeframe. For investors wanting to diversify more and take on less risk, especially given market craziness, this ETF would make the cut based on historical performance in market recoveries. Provides broad exposure to the technology sector while maintaining low fees.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Broad market exposure means less concentrated upside from AI chip stocks specifically. All holdings depend on big tech companies continuing to spend on AI and the market continuing to trust leadership."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "INTC",
+            "company_name": "Intel Corporation",
+            "reason": "Intel serves as a cautionary tale of a beaten-down stock that is actually a beaten-down business. While Intel's price-to-sales ratio appeared cheaper than Nvidia's by over 80% from 2022 through 2025, the stock lost 28% while Nvidia gained 500%. Intel's revenues fell for 3 years in a row and they cut their famously huge dividend by two-thirds before suspending it altogether. The underlying business deteriorated while the stock price fell, demonstrating that a cheap valuation multiple is not always a buying opportunity. Sometimes a stock is cheap for a reason.",
+            "risk": "Stock has lost 28% during Nvidia's 500% gain, indicating fundamental business deterioration rather than temporary market pullback"
+          },
+          {
+            "ticker": "TSLA",
+            "company_name": "Tesla Inc.",
+            "reason": "Tesla does not make the creator's watchlist because earnings are down by approximately 75% since 2022. While the stock crashed along with other tech stocks, the underlying business metrics have deteriorated significantly, making it a beaten-down business rather than a beaten-down stock with growth potential.",
+            "risk": "75% earnings decline since 2022; negative business momentum despite market recovery opportunity"
+          },
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon Inc.",
+            "reason": "Amazon does not make the creator's watchlist because free cash flow was negative $47 billion over the last year. Despite being a major tech company, Amazon's cash generation is negative, which is a key disqualifying factor when looking for stocks to buy during market crashes. The company fails the positive free cash flow requirement.",
+            "risk": "Negative $47 billion free cash flow over the last year; lack of cash generation despite market downturn"
+          }
+        ],
+        "key_warnings": [
+          "Inflation came in hotter than expected, causing the market to price in another Federal Reserve rate hike expected on December 9th. This macro headwind is affecting all growth stocks, not just AI stocks.",
+          "The entire chip sector crashed by 42% from highs to Friday's close, suggesting this is not just about Nvidia or specific company issues but broader market concerns about tech spending and growth.",
+          "Three major regulatory risks face the semiconductor industry: SEC investigation into Nvidia's accounting practices, California attorney general subpoena regarding whether Nvidia chips reach China, and Jensen Huang's expected Congressional closed-door interview on December 1st. Any real wrongdoing findings could significantly impact the sector.",
+          "AI stocks are experiencing extreme emotional volatility disconnected from business fundamentals. While revenues continue growing at 41-103% rates, stock prices have crashed 40-50%, indicating investor sentiment (not business quality) is driving prices. This creates both risk and opportunity but requires patience to execute properly.",
+          "All recommended semiconductor and tech stocks depend on two critical factors continuing: (1) big tech companies spending money on AI, and (2) the market continuing to trust leadership. If either factor changes, these stocks will decline significantly, as demonstrated when Jensen left Nvidia.",
+          "Even after Nvidia's 30% single-day recovery, the stock is still 45% below its October record high, and the broader chip sector remains significantly depressed. Full recovery could take months, requiring investors to be patient with capital deployment."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "INTC",
+          "AVGO",
+          "TSM",
+          "AMD",
+          "TSLA",
+          "AMZN",
+          "SMH",
+          "VGT"
+        ]
+      },
+      "price_at_recommendation": {
+        "AVGO": 301.08,
+        "AMZN": 252.29,
+        "INTC": 54.8,
+        "AMD": 413.27,
+        "SMH": 426.75,
+        "TSLA": 384.68,
+        "TSM": 349.2,
+        "VGT": 103.32,
+        "NVDA": 155.38
+      }
+    },
+    "crFI9NZdANY": {
+      "channel": "Daniel Pronk",
+      "title": "AMD Stock Is Crashing - Is It A Buy Now?",
+      "upload_date": "20261124",
+      "url": "https://www.youtube.com/watch?v=crFI9NZdANY",
+      "processed_at": "2026-11-24T22:34:30.153027",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Nvidia is priced as if it will see no growth for the next few years, which creates a significant margin of safety. The business is doing roughly 10 times the revenue of AMD, is growing its revenue faster than AMD despite working from a significantly larger base, has much higher margins than AMD, produces roughly 20 times higher free cash flow than AMD which is also growing faster, and trades at approximately one-third the forward price-to-earnings, forward price-to-operating cash flow, and forward price-to-free cash flow multiples of AMD. If Nvidia can even continue to grow at very modest rates over the next few years, it could still offer decent returns from current prices. The creator's DCF analysis shows that Nvidia only needs 5% annual earnings growth and an 18x exit multiple to deliver a 10% annualized return, suggesting the stock is not pricing in much growth expectations and therefore offers an attractive risk-reward profile compared to AMD.",
+            "when_to_buy": null,
+            "target_price": "$545 per share (based on analyst consensus of 51% annual earnings growth through 2029 with 25x exit multiple; creator's conservative scenario estimates ~$412 fair value implying modest returns)",
+            "cautions": "The creator emphasizes that no one knows what the semiconductor industry will look like by 2029, so investing based on analyst growth estimates carries significant uncertainty. Even the conservative DCF assumes continued growth, and if Nvidia's business actually decelerates, the stock could underperform."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices",
+            "reason": "AMD is currently priced for significant earnings growth (the market is pricing in approximately 51% annual earnings growth over the next 3 years with a 25x exit multiple to justify current valuations). While AMD's business is fundamentally strong with 97% year-over-year data center revenue growth, record quarters, and expected revenue growth exceeding 80% next year, the stock's valuation leaves minimal margin of safety. AMD trades at approximately 3x the forward price-to-free cash flow multiple of Nvidia and roughly triple on forward price-to-operating cash flow basis. If AMD misses guidance for any reason over the next few years, the stock could significantly underperform or produce negative results given the high growth expectations already priced in.",
+            "risk": "Downside risk if the company misses its aggressive growth targets, particularly given the market's pricing-in of 51%+ annual earnings growth. The stock could underperform or produce negative returns if growth decelerates."
+          }
+        ],
+        "key_warnings": [
+          "Semiconductor industry uncertainty through 2029: The creator emphasizes that no one truly knows what the semiconductor industry landscape will look like by the end of 2029, making long-term DCF projections and analyst estimates highly speculative, particularly for companies priced at extreme multiples expecting sustained ultra-high growth rates.",
+          "Valuation risk in high-growth semiconductor stocks: AMD is priced for tremendous growth continuation with limited margin of safety, meaning any deviation from guidance could result in sharp stock declines. This is in contrast to Nvidia, which is priced conservatively relative to its growth potential."
+        ],
+        "tickers_mentioned": [
+          "AMD",
+          "NVDA"
+        ]
+      },
+      "price_at_recommendation": {
+        "AMD": 413.27,
+        "NVDA": 155.38
+      }
+    },
+    "Obe61geAjLY": {
+      "channel": "Daniel Pronk",
+      "title": "Stocks I'm Buying As The Market Rallies",
+      "upload_date": "20261123",
+      "url": "https://www.youtube.com/watch?v=Obe61geAjLY",
+      "processed_at": "2026-11-24T22:34:55.106430",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon",
+            "reason": "Daniel believes Amazon is one of the clearest winners of artificial intelligence over the long term. CEO Andy Jassy confirmed very strong visibility into demand with AWS capex largely reserved through 2027-2029, expecting meaningful capex increases next year. Amazon's underlying fundamentals have grown at 31% annually over the past 5 years while the share price only compounded at 9% annually. The company is trading at 16.5x operating cash flow versus its historical median of 25x, while simultaneously achieving all-time high margins and accelerating revenue and profit growth. Daniel views this as one of the cleanest setups in the market with Amazon well-positioned to benefit from AI as companies need compute and cloud services. Jassy emphasized that data center buildout is critical infrastructure for the nation's AI future and will generate compelling free cash flow returns of approximately 20% ROIC over the longer term.",
+            "when_to_buy": "During market corrections like Friday when the stock was down over 4% with no fundamental reason",
+            "target_price": null,
+            "cautions": "Heavy capex spending currently impacts free cash flow, though this is expected to monetize into strong future cash flow returns. The investment thesis requires a long-term perspective of several years for capex to pay off."
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms",
+            "reason": "Daniel views Meta as one of the best businesses in the world trading at extremely cheap valuations. The stock was trading under $600 with a trailing 12-month P/E of 19x and forward P/E under 18x while growing top-line revenue over 25% year-over-year. Meta is a clear beneficiary of artificial intelligence and is gaining the most advertising dollars among all companies (Meta, Google, Amazon), suggesting superior ROI for advertisers. Daniel is gaining conviction in Claude AI, which he uses daily for personal and business purposes and credits with saving him $7,000 in taxes by identifying and fixing a Google AdSense account issue. Claude has over 10 million daily active users and is becoming a valuable AI agent tool. Meta is about to overtake Google as the largest online advertising company in the world. Despite Claude likely being a margin drag initially, Daniel sees massive future potential.",
+            "when_to_buy": "During corrections when the stock corrects below $600 per share",
+            "target_price": null,
+            "cautions": "Claude AI is not yet meaningfully contributing to Meta's business and will initially be a margin drag. The tool is not yet launched worldwide. Investors must have a long-term perspective to realize AI benefits."
+          },
+          {
+            "ticker": "MELI",
+            "company_name": "Mercado Libre",
+            "reason": "Daniel has been buying Mercado Libre consistently and views it as deeply undervalued despite being down 20%+ from his $1,800 entry point over 2 years. The business has grown revenue from $3.3 billion in November 2020 to $38.5 billion today (over 10x growth) while the share price remains flat. All valuation metrics (P/E, P/B, P/FCF, P/Operating Income) are trading 50% below their 5-year averages. The company is growing top-line revenue at 45% year-over-year despite macro headwinds and $40 billion in annual revenue. Brazil (50% of business) is experiencing currency headwinds from real devaluation, but historically the business has recovered and continued compounding even through prior devaluation periods in 2024-2025 (maintained 37% total growth, 29% Brazil growth in USD). Mexico revenue reached $8.8 billion growing 50%+ annually with 60 million offers on their largest sales day ever and 50% same/next-day delivery. Ecuador showing 200% growth for two consecutive years with expectations for 200% growth again in 2027. Mercado Pago accounts for 34% of payment volume on the e-commerce platform. Daniel's DCF uses conservative 20% EBIT growth over 3 years with 25x exit multiple (current multiple) and still generates 22.4% CAGR with $2,000 fair value.",
+            "when_to_buy": "Continuously on weakness; Daniel has been buying all the way down from $1,800",
+            "target_price": "$2,000 per share based on conservative DCF assumptions",
+            "cautions": "Brazilian real devaluation creates short-term currency headwinds as Brazil represents 50% of revenue and company reports in USD. Currency headwinds have historically caused short-term growth deceleration but have not permanently impacted the business. Stock has been down significantly despite strong fundamentals."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Market volatility and bear market rallies: Daniel notes the S&P 500 was up 5% on the day driven largely by Nvidia's 30% single-day gain following CEO reinstatement. He cautions that bear market rallies are typically the most extreme and volatile, and the market may continue lower. Investors should be prepared for continued volatility and not assume the bottom is in.",
+          "Political influence on markets: President Trump's involvement in Nvidia's CEO reinstatement raises concerns about political entanglement with private companies. Trump reportedly met with Nvidia's board and pressured them to reinstate Jensen Huang, potentially even purchasing Nvidia shares before the reinstatement. Daniel questions whether political involvement in corporate governance is appropriate and healthy for markets.",
+          "Market indiscriminate selling: During Friday's correction with the market down over 10%, quality companies like Amazon were selling off over 4% with no fundamental deterioration. Daniel warns that indiscriminate selling creates opportunities but also signals broader market stress."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "AMZN",
+          "META",
+          "MELI"
+        ]
+      },
+      "price_at_recommendation": {
+        "AMZN": 252.29,
+        "META": 589.82,
+        "MELI": 1450.31
+      }
+    },
+    "1ij_FpoVa9E": {
+      "channel": "The Traveling Trader",
+      "title": "The UNTHINKABLE is About to Happen to NVIDIA (Why I'm SHORT)",
+      "upload_date": "20261124",
+      "url": "https://www.youtube.com/watch?v=1ij_FpoVa9E",
+      "processed_at": "2026-11-24T22:35:19.670813",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Even at $165, Nvidia is considered a great opportunity from a valuation perspective. The creator notes that if investors were told back in October when Nvidia was trading at $240 that they could buy it at $165, they would take that opportunity. Any retracement from $165 would be a buying opportunity for the long term. The creator emphasizes that NVDA is cheap from a valuation perspective and that this represents an asymmetrical opportunity.",
+            "when_to_buy": "Current price around $165; also on any retracement of the gap up from Jensen Huang's reinstatement announcement",
+            "target_price": null,
+            "cautions": "The creator expects more weakness and potential retracement before a sustained rally. There are still pending hearings on December 1st with House committees regarding chip-smuggling allegations, the relationship with Alice Huang, and company oversight. An SEC probe into Nvidia remains open. The reinstatement was influenced by Donald Trump, which presents potential conflict of interest concerns and may draw Democratic investigation. The creator believes this announcement may be faded in the short term despite the positive reaction."
+          },
+          {
+            "ticker": "QQQ",
+            "company_name": "Invesco QQQ Trust (NASDAQ-100 ETF)",
+            "reason": "The creator stated they will never pass up an opportunity to buy the indices on corrections. QQQ represents a buying opportunity during market corrections. The creator sent out buy signals on QQQ on November 20th and plans to add hedges to play out their thesis of further weakness before eventual recovery.",
+            "when_to_buy": "During market corrections; the creator bought on November 20th; willing to buy on retracements",
+            "target_price": null,
+            "cautions": "The creator expects QQQ to retrace the recent gap up and potentially take out the OPEX low around 606 before the final bottom is established. While violent bounces occur during bear markets and corrections, the creator does not believe the bottom is in yet. This is part of a broader pattern where the market needs more weakness before clearing out for a sustained rally."
+          },
+          {
+            "ticker": "SPY",
+            "company_name": "SPDR S&P 500 ETF Trust",
+            "reason": "The creator stated they will never pass up an opportunity to buy the indices on corrections. SPY represents a buying opportunity during the current market correction. The creator sent out buy signals on SPY on November 20th and maintains that buying opportunities exist even with current weakness.",
+            "when_to_buy": "During market corrections; the creator bought on November 20th",
+            "target_price": null,
+            "cautions": "While the S&P 500 is in correction territory, the creator does not expect it to enter a bear market. The creator acknowledges they could be wrong about this assessment. Despite the recent 4% gap up at open, this type of move is overwhelmingly bearish in the short term based on historical precedent."
+          },
+          {
+            "ticker": "TSM",
+            "company_name": "Taiwan Semiconductor Manufacturing Company",
+            "reason": "In the previous video, the creator mentioned being interested in buying TSM as an opportunity during the market correction, alongside other quality semiconductor exposure.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "ASML",
+            "company_name": "ASML Holding N.V.",
+            "reason": "In the previous video, the creator mentioned being interested in buying ASML as an opportunity during the market correction, alongside other semiconductor-related opportunities.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "The stock market has become too dependent on the AI narrative and is hanging on the idea of AI propping up GDP and the economy. Any disturbance in this AI story causes sharp selloffs, while any perception of reversal causes immediate rallies. This fragility suggests structural weakness.",
+          "Be cautious of dead cat bounces disguised as market recoveries. The 7% QQQ rally and 5% S&P 500 rally following Jensen Huang's reinstatement may be a classic dead cat bounce. The creator's analysis shows that every single +5% Monday in QQQ history occurred during the Great Depression, dotcom bust, GFC, and COVID \u2014 suggesting this is a bare market signal, not a bullish reversal.",
+          "The NASDAQ is in a bear market and the S&P 500 is in correction territory. The market is expected to take out the OPEX lows (QQQ around 606) before establishing a true bottom. Historical patterns from 2018 suggest further significant weakness is likely before a sustained recovery.",
+          "Political influence on markets has created structural risks and conflicts of interest. The President's involvement in compelling the Nvidia board to reinstate Jensen Huang, combined with the President's own stock portfolio holdings in NVDA and Intel, represents a dangerous precedent of private sector influence on market-moving decisions. This may draw Democratic investigation and further volatility.",
+          "Nvidia faces multiple pending legal investigations and hearings through December 1st regarding chip-smuggling allegations, relationships with Chinese entities, and company oversight. An SEC probe remains open. These unresolved matters create headline risk and potential for negative surprises that could drive further weakness despite the recent reinstatement.",
+          "The market is driven by algorithmic liquidity targeting, not fundamental news. The creator notes that OPEX lows have been taken for 45 consecutive times in QQQ, which cannot be explained by coincidental news headlines. This algorithmic targeting suggests price targets are predetermined by technical levels, not sentiment.",
+          "Expect continued high volatility and shakiness before any final bottom. The creator explicitly states they do not think the bottom is in and expects more weakness before the market clears out. Any euphoric rallies should be viewed with skepticism as fading opportunities rather than trend reversals."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "QQQ",
+          "SPY",
+          "TSM",
+          "ASML",
+          "INTC"
+        ]
+      },
+      "price_at_recommendation": {
+        "NVDA": 155.38,
+        "SPY": 718.78,
+        "QQQ": 638.1,
+        "ASML": 1336.06,
+        "TSM": 349.2
+      }
+    },
+    "QbyXtMgLV3Q": {
+      "channel": "Jose Najarro Stocks",
+      "title": "Jensen Is Back as NVIDIA CEO \u2014 NVDA Stock Jumps 31%",
+      "upload_date": "20261124",
+      "url": "https://www.youtube.com/watch?v=QbyXtMgLV3Q",
+      "processed_at": "2026-11-24T22:35:34.929749",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NVDA",
+            "company_name": "NVIDIA Corporation",
+            "reason": "Jensen Huang has been reinstated as CEO and president, which the creator views as transformative for the company. The creator believes Jensen now has a renewed mentality of strictly focusing on the company and dominating the market after being punished for previous actions. The reinstatement eliminates key risks around AI supply chain investment dying down and reduces uncertainty about leadership. The creator is bullish on the AI industry broadly and sees Jensen's return as eliminating a major risk factor. The creator states the stock is sitting at $166 after hours and believes it can reach $200 within 6 to 12 months, with the possibility of reaching that target earlier than expected.",
+            "when_to_buy": "Current entry point around $166 after hours",
+            "target_price": "$200 within 6 to 12 months",
+            "cautions": "The stock may experience significant volatility in the near term as new media reports and updates emerge. There is a political risk factor: if the presidential administration changes in the future, it could create negative tailwinds for NVIDIA since the current administration appears to be backing Jensen's reinstatement. This could add volatility risk and uncertainty around government support. There could also be real downturns despite the bullish thesis."
+          },
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices",
+            "reason": "AMD's MI 450 chip and Helios rack technology are progressing well and being deployed in Microsoft Azure Labs with early success. The creator notes that many believed the MI 450 would not be completed this quickly, but recent proof-of-life shots show it performing extremely well. The AI market remains compute constrained with extremely heavy demand for chips, making AMD well-positioned. The creator is bullish on the AI chip market and believes the Neo Cloud business is extremely strong for those who can turn on GPUs. The creator is excited for AMD's next earnings report and owns the stock.",
+            "when_to_buy": null,
+            "target_price": "Creator mentions AMD was at one point a trillion dollar company and still believes it could get there",
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "NVIDIA's reinstatement of Jensen Huang has become a political issue involving the Trump administration. If there is a shift in political parties during the next presidential election, it could negatively impact NVIDIA and create uncertainty around government support for the company. While this is not stated as a reason to break the investment thesis, it does open up political risk and potential future volatility based on administrative changes.",
+          "Overall market volatility should be expected around NVIDIA and AI stocks as new reports, media coverage, and political developments emerge. These factors could create sharp downturns despite the bullish fundamental thesis."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "NEBIUS",
+          "CAVA",
+          "INTC",
+          "AMD"
+        ]
+      },
+      "price_at_recommendation": {
+        "AMD": 413.27,
+        "NVDA": 155.38
+      }
     }
   },
   "channel_ids": {

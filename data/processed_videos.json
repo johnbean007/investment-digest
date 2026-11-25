@@ -39655,6 +39655,78 @@
         "AMD": 413.27,
         "NVDA": 155.38
       }
+    },
+    "-0h_Lrrb7SQ": {
+      "channel": "CouchInvestor",
+      "title": "Goldman's CEO Says AI's Biggest Winners Don't Exist Yet",
+      "upload_date": "20261125",
+      "url": "https://www.youtube.com/watch?v=-0h_Lrrb7SQ",
+      "processed_at": "2026-11-25T09:59:49.005672",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Goldman Sachs CEO David Solomon warns that the biggest value creation in AI over the next 10-15 years will come from the application layer and businesses built on top of AI infrastructure, not from infrastructure and initial model investments themselves. The current autumn slide in AI stocks represents a recalibration of growth expectations in the short term. This suggests investors should not expect immediate returns from infrastructure spending and should instead focus on identifying future application-layer winners that do not yet exist, making current AI infrastructure investments potentially overvalued."
+        ],
+        "tickers_mentioned": []
+      },
+      "price_at_recommendation": {}
+    },
+    "UWSfiQHfMIQ": {
+      "channel": "CouchInvestor",
+      "title": "Gas Prices Shoot Up Like a Rocket and Drift Down Like a Feather",
+      "upload_date": "20261125",
+      "url": "https://www.youtube.com/watch?v=UWSfiQHfMIQ",
+      "processed_at": "2026-11-25T09:59:55.870837",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": []
+      },
+      "price_at_recommendation": {}
+    },
+    "eI6WYsAwHLM": {
+      "channel": "FinTek",
+      "title": "The Biggest Investing Opportunity of Your Life",
+      "upload_date": "20261125",
+      "url": "https://www.youtube.com/watch?v=eI6WYsAwHLM",
+      "processed_at": "2026-11-25T10:00:16.181480",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "BRK.B",
+            "company_name": "Berkshire Hathaway",
+            "reason": "Berkshire is aggressively buying back its own stock at prices around $496-$500+ per share in Q3, with an additional $2 billion buyback reported in October. The company only repurchases shares when management believes they are trading below intrinsic value. This insider buying signal combined with the company's positioning for future market opportunities suggests confidence in valuation. Additionally, Berkshire's massive $1.3 trillion in total assets with 27% in cash equivalents positions it to capitalize on upcoming market dislocations while earning higher returns on Treasury bills in a rising rate environment.",
+            "when_to_buy": "Current levels or on weakness; Berkshire is actively buying at current prices",
+            "target_price": null,
+            "cautions": "Berkshire is primarily a holding company focused on long-term value creation rather than near-term returns. The stock's performance depends on management's ability to deploy capital effectively when opportunities arise, which may take time."
+          },
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet Inc.",
+            "reason": "Berkshire invested $17 billion more in Alphabet in September, bringing their total stake to over $36 billion, making it their third-largest position, even bigger than Coca-Cola. Warren Buffett personally initiated this investment approximately 15 months ago and negotiated a 6.5% discount on the initial share price. The company generates over $80 billion in advertising revenue in Q2 alone and Google Cloud brings in nearly $25 billion in revenue. Greg Abel, as former head of Berkshire's energy business, has unique insights into AI data center electricity demand and infrastructure needs, which informed this investment thesis.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Buffett historically avoided tech stocks, so this represents a departure from his traditional investment approach. The investment thesis depends partly on proprietary insights from Berkshire's utility business regarding AI data center infrastructure constraints, which may not be accessible to typical investors."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Technology stock valuations are extremely expensive. The Schiller PE ratio is currently near 40, levels not seen since the dot-com bubble, indicating valuations are well above historical averages despite recent tech stock pullbacks. This suggests limited margin of safety for tech investors at current prices.",
+          "Rising interest rates threaten both stock valuations and highly leveraged companies. Companies raised $680 billion for advanced computing projects as of October 2024, up from $130 billion in 2023, and these companies must pay interest on loans regardless of whether AI projects are profitable. Additionally, $4 trillion in lease obligations and commitments remain off balance sheets. If revenue disappoints or rates continue rising, debt servicing becomes problematic, potentially creating a contagion effect across the market.",
+          "AI investment bubble risks exist due to concentrated debt and unproven returns. The concentration of S&P 500 returns in technology stocks means that any slowdown in AI revenue or inability to service $4 trillion in off-balance-sheet obligations could quickly drag the entire stock market lower. Higher interest rates make borrowing more expensive and make safer investments like Treasury bills more attractive, potentially causing a reallocation away from expensive growth stocks.",
+          "Fed policy suggests potential for further rate increases. The Fed's October meeting minutes show almost all participants thought more rate increases would be needed, and Fed Governor Christopher Waller urged for either a half-point hike in December or faster increases in 2027. Consumer prices rose 6% in September and 4% in October, still climbing, which supports the case for continued monetary tightening that would pressure stock prices."
+        ],
+        "tickers_mentioned": [
+          "BRK.B",
+          "GOOGL",
+          "SPY"
+        ]
+      },
+      "price_at_recommendation": {
+        "GOOGL": 279.05
+      }
     }
   },
   "channel_ids": {

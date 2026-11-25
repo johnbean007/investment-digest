@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-25T10:03:20.478110",
-  "video_count": 178,
+  "generated_at": "2026-11-25T11:06:18.658304",
+  "video_count": 179,
   "stock_count": 176,
   "stocks": [
     {
@@ -3116,7 +3116,7 @@
         "ma200": 177.29,
         "ma_signal": "golden_cross",
         "pe_trailing": 1757.1667,
-        "pe_forward": 127.59057,
+        "pe_forward": 127.68483,
         "peg_ratio": null,
         "revenue_growth": 0.283,
         "earnings_growth": null,
@@ -10672,7 +10672,7 @@
         "ma200": 130.74,
         "ma_signal": "golden_cross",
         "pe_trailing": 81.171776,
-        "pe_forward": 53.786083,
+        "pe_forward": 53.784115,
         "peg_ratio": 2.58,
         "revenue_growth": 0.316,
         "earnings_growth": 0.795,

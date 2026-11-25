@@ -39727,6 +39727,27 @@
       "price_at_recommendation": {
         "GOOGL": 279.05
       }
+    },
+    "Y-KjzTKGmNQ": {
+      "channel": "CouchInvestor",
+      "title": "Microsoft Is Restarting a Three Mile Island Reactor to Power AI",
+      "upload_date": "20261125",
+      "url": "https://www.youtube.com/watch?v=Y-KjzTKGmNQ",
+      "processed_at": "2026-11-25T11:03:33.942787",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "AI data center power demand is shifting from a chip bottleneck to an electricity bottleneck. Companies are committing to long-term 20-year nuclear power contracts to secure reliable round-the-clock electricity for AI operations. If AI demand cools or slows, these long-term nuclear deals could become economically expensive for tech companies, creating potential stranded costs and financial liabilities."
+        ],
+        "tickers_mentioned": [
+          "MSFT",
+          "META",
+          "GOOGL",
+          "AMZN"
+        ]
+      },
+      "price_at_recommendation": {}
     }
   },
   "channel_ids": {

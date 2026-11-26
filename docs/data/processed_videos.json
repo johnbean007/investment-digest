@@ -39748,6 +39748,525 @@
         ]
       },
       "price_at_recommendation": {}
+    },
+    "MyU2lMEaURY": {
+      "channel": "Mr. FIRED Up Wealth",
+      "title": "Why I'm Buying This Stock Market Crash, Best Stocks to Buy Now!",
+      "upload_date": "20261125",
+      "url": "https://www.youtube.com/watch?v=MyU2lMEaURY",
+      "processed_at": "2026-11-26T00:00:08.101679",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "SNDK",
+            "company_name": "SanDisk",
+            "reason": "Stock is below all moving averages and S3 Fibonacci support level at $83.65, now trading at $70.87 in pre-market. Creator believes the stock is worth at least $125, representing significant upside from current depressed levels. The sell-off is technical in nature driven by leverage unwinding and panic, not fundamental deterioration. Creator is comfortable buying at $85 with conviction it will recover.",
+            "when_to_buy": "Current levels ($70-$85 range); could drift lower to around $65-$70 but represents good value",
+            "target_price": "$125 minimum",
+            "cautions": "Stock could go lower than $70 before bottoming due to ongoing technical damage and leverage unwinding. Creator warns against trying to catch the exact bottom; focus on building position at reasonable prices rather than perfection."
+          },
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia",
+            "reason": "Bottomed at $125 after initial panic selling, then ripped to $165 before pulling back to $145. Creator expects stock to find footing in the $125-$150 range near-term. Longer-term, analyst price targets are being raised and creator sees potential for stock to exceed $200 next year. Despite recent AI drama and Nvidia CEO concerns, fundamentals remain intact for long-term growth.",
+            "when_to_buy": "$125-$150 range is attractive for accumulation; could potentially see sub-$100 but likely finds support in current range",
+            "target_price": "$200+ in next year; near-term support $125-$150",
+            "cautions": "Could potentially test under $100 before final bottom. Extreme volatility expected. Creator warns to be careful buying Nvidia-heavy ETFs (VGT, SMHX, QQQ, SPY all have significant Nvidia exposure) if trying to diversify exposure."
+          },
+          {
+            "ticker": "MU",
+            "company_name": "Micron Technology",
+            "reason": "Originally recommended at under $100, stock ripped to $125+. Even after 50% pullback to $575, still provides exceptional opportunity. Creator drew yellow circle around 50% retracement zone at $517 as optimal DCA area. Stock went from $100 to $1,250+ in roughly 1.5 years, demonstrating the power of semiconductor cycle recoveries. Creator is overweight this in both main and community portfolios.",
+            "when_to_buy": "DCA in zone of $517-$575; has additional limit orders at $575, $550, $525 for systematic accumulation",
+            "target_price": "Could return to previous highs of $1,250+",
+            "cautions": "Creator specifically warns not to beat yourself up over selling at $1,000 when it later went to $1,250\u2014trimming into strength was prudent risk management. Stock could go lower than current support zones. Even if down 10% at the bottom, long-term returns will be significant if patient."
+          },
+          {
+            "ticker": "BROA",
+            "company_name": "Broadcom",
+            "reason": "Currently trading at $287 in pre-market, well below support. Creator likes the stock anywhere in this zone as long-term hold (2-3 years). S3 Fibonacci support at $280 likely holds as floor. Semiconductors are core to AI infrastructure buildout and Broadcom benefits from multiple tailwinds once market stabilizes.",
+            "when_to_buy": "Under $300, anywhere in $280-$300 range is attractive for DCA",
+            "target_price": "Easily recovers above $300; likely higher over 2-3 year period",
+            "cautions": "S3 support at $280 might be tested, possibly down to $275. Part of heavily sold semiconductor complex, so will face continued pressure if technical selling persists."
+          },
+          {
+            "ticker": "LUMN",
+            "company_name": "Lumentum Holdings",
+            "reason": "Creator drew support zone (yellow circle) in summer and stated he would buy if it came down to this level. Stock is now at the bottom of that zone. Creator specifically identified photonics as a secular growth theme and Lumentum as quality player in this space. This is DCA zone, not reversal zone, so patience needed.",
+            "when_to_buy": "Current zone $350-$500 is designated DCA area; worst case could come down to $350 (bottom of red support line)",
+            "target_price": "Will recover toward $500+ once stabilization occurs",
+            "cautions": "Could potentially test $350 level. All these stocks are below moving averages with technical damage. This is meant as long-term position (2-3 years), not quick trade."
+          },
+          {
+            "ticker": "ORCL",
+            "company_name": "Oracle",
+            "reason": "Oracle offers full AI stack (applications, speech, language, ERP, human capital management, AI agent marketplace) unlike single-layer competitors. This provides diversified revenue exposure vs. pure-play AI vendors. Company has 50+ year history (founded 1970s building databases for CIA), established recurring revenue base, and proven enterprise technology boom participation. Pays 1.83% dividend. Creator considers this 6/10 risk vs. higher-risk neoclouds. Owns in main portfolio (less risky positions).",
+            "when_to_buy": "Currently trading near $100; creator likes it even at $150. This is lower-risk entry for conservative growth",
+            "target_price": "Not explicitly stated",
+            "cautions": "Creator warns not to confuse Oracle with neoclouds\u2014Oracle is lower-risk, established dividend payer. If you believe company is at risk of bankruptcy or obsolescence, skip entirely. This is for investors comfortable with enterprise legacy tech."
+          },
+          {
+            "ticker": "AXON",
+            "company_name": "Axon Enterprise",
+            "reason": "Attractive when under $300, now stabilizing around $309-$320. Creator believes risk/reward is favorable for 1-2 year holding period. Could easily retest or exceed current levels once market stabilizes. Part of community portfolio buying list.",
+            "when_to_buy": "Especially attractive under $300; $309 current level still reasonable entry",
+            "target_price": "Could easily retest current levels ($300+) within 1-2 years",
+            "cautions": "None explicitly stated beyond general market risks"
+          },
+          {
+            "ticker": "VGT",
+            "company_name": "Vanguard Information Technology ETF",
+            "reason": "Diversified tech ETF with holdings in Apple (17%), Nvidia (17%), Microsoft (12%), Broadcom, Palantir, Applied Materials, AMD, Micron. Up 86% over last 5 years vs. SPY at 56% and QQQ around 63%. Provides broad exposure to quality tech names without having to pick individual stocks. Currently under $100 at $99.50, good for core growth portfolios.",
+            "when_to_buy": "Under $100 attractive; could see $93-$95 if market continues lower",
+            "target_price": "Not explicitly stated; long-term uptrend expected",
+            "cautions": "Contains significant Nvidia exposure (17%), so not diversified if trying to reduce Nvidia concentration. All holdings below moving averages with technical damage expected to persist."
+          },
+          {
+            "ticker": "SMHX",
+            "company_name": "Semiconductors ETF (Fabulous Semiconductor ETF)",
+            "reason": "Broken S3 support at $41.14, now at $41 in pre-market. Contains Nvidia (18%), Broadcom (13.5%), AMD, Monolithic Power, Synopsys. Provides diversified semiconductor exposure. If DCAing properly, 41-35 range is reasonable accumulation zone. Market is trying to erase entire AI semiconductor trade.",
+            "when_to_buy": "Current $35-$41 range is DCA zone",
+            "target_price": "Could return to previous highs over 1-2 years; risk/reward favorable from current levels",
+            "cautions": "Could come down to $35 or lower. Sector-wide technical damage. All major holdings broken below support levels. Expect continued pressure and drift lower before capitulation."
+          },
+          {
+            "ticker": "VUG",
+            "company_name": "Vanguard S&P 500 ETF",
+            "reason": "S&P 500 ETF provides broad market exposure. Bottom at $631, now at $646. Currently retracing higher after initial panic. Creator likes having ETFs in growth portfolios alongside individual stocks. Good core holding for retirement accounts and diversified growth.",
+            "when_to_buy": "Current levels or on further weakness; could come down to $575 if earnings cliff scenarios play out",
+            "target_price": "Not explicitly stated",
+            "cautions": "Could test $575 if AI earnings disappointment becomes reality. Below all moving averages. Impossible to know exact bottom. Creator emphasizes uncertainty\u2014no one knows exact reversal price."
+          },
+          {
+            "ticker": "MU",
+            "company_name": "Micron (Dividend Portfolio)",
+            "reason": "Same bull case as community portfolio. Creator also owns in dividend portfolio despite small dividend, to maintain 1% allocation and not break discipline. Provides dividend component to growth upside capture.",
+            "when_to_buy": "Same DCA zones as community portfolio: $517-$575 and lower limit orders at $550, $525",
+            "target_price": "Same as above: potential return to $1,250+ levels",
+            "cautions": "Same risks as main thesis"
+          },
+          {
+            "ticker": "AOI",
+            "company_name": "Listed as spec stock (ticker incomplete in transcript)",
+            "reason": "Listed at $29.97 as spec stock in limit orders. Very limited detail provided.",
+            "when_to_buy": "Current levels only as small position",
+            "target_price": null,
+            "cautions": "Spec stock - do not go heavy. Creator warns when everything is on sale, buy quality (the steak and lobster, not hot dogs). This is small-cap speculation only."
+          },
+          {
+            "ticker": "ROCKET",
+            "company_name": "Rocket Lab",
+            "reason": "Bought in community portfolio at under $4/share. Mentioned as example of early conviction pick that has appreciated significantly. Part of secular growth theme portfolio.",
+            "when_to_buy": "Already owned; mentioned as historical reference",
+            "target_price": "Not stated; but implicit strong appreciation from $4 entry",
+            "cautions": "None explicitly stated"
+          },
+          {
+            "ticker": "ASII",
+            "company_name": "Astera Labs (inferred from 'Astera Labs')",
+            "reason": "Bought at $50-$75 and trimmed at $400-$450. Currently being re-accumulated as technical weakness presents opportunity. Part of data center and photonics growth theme.",
+            "when_to_buy": "Current weakness levels for re-entry after previous trim",
+            "target_price": "$400-$450+ (previous trim levels suggest this is baseline)",
+            "cautions": "Creator trimmed into strength previously, showing discipline; not chasing every bounce"
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Leverage Unwinding Risk: Record $1.5 trillion in margin debt, much of it in naked calls on bull side. As technical damage accelerates, forced deleveraging will cause cascading selling pressure. This unwinding takes time to resolve and doesn't happen overnight\u2014expect continued downward pressure and volatility.",
+          "Fed Rate Hike Cycle: PCE inflation at 3.8% suggests Fed will raise rates 25-50 basis points. Historical pattern shows Fed rate hikes drive markets lower until Fed begins easing. Don't fight the Fed. If Fed continues tightening, expect continued equity pressure. 2022-2023 rate hike cycle saw continuous declines until reversal in late 2023.",
+          "AI Trade Reversal Risk: Market trying to 'erase' entire AI semiconductor trade like it never happened. If earnings cliff becomes reality (earnings falling off cliff but valuations staying elevated = P/E going from 3x to 10x), even 'cheap' valuations could compress further. AI hype has potentially gotten ahead of fundamentals.",
+          "Tariff and Geopolitical Risk: US proposing new tariffs on 14 trading partners including China and EU. April 2025 tariff announcement caused significant selloff. Additional tariff uncertainty coming will continue to pressure markets. Geopolitical risks (outages, potential cyber concerns) add to uncertainty.",
+          "Consumer and Fiscal Strain: $2 trillion federal deficit, $1.3 trillion consumer credit card debt, consumers crunched by inflation with limited purchasing power. Consumer spending weakness could hurt corporate earnings across multiple sectors.",
+          "FOMO Chasing Risk: Don't chase stocks that go from $3 to $300 (examples: Micron, Nvidia during AI bubble). These air pockets get at least 50% retracement, often worse during panic selling. Retail investors' biggest mistake is running out of cash during selloffs\u2014maintain reserves for DCA.",
+          "Technical Damage Deep: All major indices and growth stocks below all moving averages, broken below Fibonacci support levels (S3), and are drifting lower. True capitulation and bottoming process still needed. Expect more pressure before stabilization. Trying to catch exact bottom is impossible\u2014use DCA strategy instead.",
+          "Risk of Further Downside: Creator emphasizes these stocks can go lower than any price mentioned. While his targets reflect long-term conviction, medium-term risk is real. Personal discipline required\u2014don't go all-in. Build positions gradually. If you can't handle 50%+ drawdowns, stay in index funds (Buffett advice)."
+        ],
+        "tickers_mentioned": [
+          "SNDK",
+          "NVDA",
+          "MU",
+          "BROA",
+          "LUMN",
+          "ORCL",
+          "AXON",
+          "VGT",
+          "SMHX",
+          "VUG",
+          "AOI",
+          "ROCKET",
+          "ASII",
+          "AMD",
+          "MSFT",
+          "AAPL",
+          "PLTR",
+          "AMAT",
+          "SNPS",
+          "MPWR",
+          "QQQ",
+          "SPY",
+          "VIX"
+        ]
+      },
+      "price_at_recommendation": {
+        "VUG": 79.1,
+        "ORCL": 103.88,
+        "AXON": 343.05,
+        "LUMN": 3.66,
+        "SMHX": 43.15,
+        "VGT": 102.56,
+        "MU": 601.25,
+        "SNDK": 73.61,
+        "NVDA": 149.3,
+        "ASII": 0.0
+      }
+    },
+    "9iiGDjUbcNI": {
+      "channel": "CouchInvestor",
+      "title": "The Jensen Pump Lasted One Day. Let's Talk About This Crash",
+      "upload_date": "20261125",
+      "url": "https://www.youtube.com/watch?v=9iiGDjUbcNI",
+      "processed_at": "2026-11-26T10:20:40.357183",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "DELL",
+            "company_name": "Dell Technologies",
+            "reason": "Dell absolutely crushed their quarterly earnings across the board with excellent commentary. AI server orders in one quarter reached $60.2 billion with $132.3 billion of AI orders waiting to be delivered (a record). The company raised full-year guidance to around $22 billion, up nearly 80%. Server and storage group now represents 68% of sales and 83% of profits, with regular servers up 235% and data center group up almost 200%. Dell took in almost three times more AI orders than it shipped this quarter, with management stating demand will outrun supply even more in 2027 than in 2026, and no customers have pushed back orders. Despite crushing earnings, the stock is down 8% showing a disconnect between fundamentals and market sentiment.",
+            "when_to_buy": "Current prices after the sell-off present an opportunity, though the creator acknowledges timing is uncertain",
+            "target_price": null,
+            "cautions": "Market is currently ignoring strong fundamentals and punishing the stock despite exceptional results. Macro environment uncertainty could continue to pressure the stock short-term despite strong business performance."
+          },
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "High-quality company with strong growth rates and excellent fundamentals. The creator considers Nvidia undervalued at current levels relative to its 10-year median PE ratios. The AI buildout story and data center demand thesis remains intact despite current market volatility. The stock recently rebounded to its 200-day moving average on the weekly chart, showing technical support.",
+            "when_to_buy": "Current prices represent an opportunity for long-term investors, though creator acknowledges further downside is possible",
+            "target_price": null,
+            "cautions": "Stock has declined approximately 40% from 52-week highs. Market sentiment is extremely negative and could push prices lower before reversal. Recent bounce lasted only one day, showing volatility."
+          },
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices",
+            "reason": "AMD shows strong year-over-year growth rates and attractive valuation metrics at current levels. The stock has declined significantly from 52-week highs but fundamentals remain strong. The company is part of the AI and semiconductor buildout story which the creator believes will continue.",
+            "when_to_buy": "Current depressed prices after down 40% from 52-week highs present opportunity for long-term investors",
+            "target_price": null,
+            "cautions": "Stock down 8.74% in this session and approximately 40% from 52-week highs. Semiconductor sector experiencing severe volatility and negative sentiment."
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms",
+            "reason": "Meta has negative free cash flow over the past 12 months but strong year-over-year growth rates. Despite this, the company is trading at very attractive prices on a forward PE basis. The creator considers it undervalued. Additionally, Meta's Muse shopping assistant presents a significant growth opportunity going into Q4 and 2025, with potential Amazon partnership discussions indicating the product's strategic value. Early Meta data showing Muse helping with advertising suggests monetization is already beginning.",
+            "when_to_buy": "Current depressed prices after the sell-off, with potential for significant upside if Muse gains traction during holiday season",
+            "target_price": null,
+            "cautions": "Free cash flow currently negative and expected to remain in negative territory for next 12 months. Heavily exposed to advertising market dynamics. Muse is still very early stage and monetization is not yet proven at scale."
+          },
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet (Google)",
+            "reason": "Google shows strong year-over-year growth and excellent free cash flow margins. Despite negative short-term free cash flow over the past 12 months, the company's fundamentals remain strong. Trading at attractive forward PE multiples compared to historical valuations, the creator considers it undervalued at current levels.",
+            "when_to_buy": "Current prices after down approximately 10% present opportunity for value investors",
+            "target_price": null,
+            "cautions": "Free cash flow has turned negative over past 12 months as capex increases. Macro headwinds and advertising market uncertainty affecting sentiment."
+          },
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon",
+            "reason": "Amazon shows strong year-over-year growth rates and excellent fundamentals. Despite negative free cash flow in the most recent 12-month period, forward metrics suggest improvement. Trading at attractive valuations relative to historical levels and 10-year median PE. The company is engaged in strategic discussions with Meta regarding Muse shopping integration, suggesting high-level business development activity.",
+            "when_to_buy": "Current depressed prices after down and sub-$240 levels present opportunity",
+            "target_price": null,
+            "cautions": "Free cash flow currently negative as capex increases. Amazon's advertising revenue model is threatened by AI shopping agents like Muse. Market sentiment extremely negative."
+          },
+          {
+            "ticker": "MICRON",
+            "company_name": "Micron Technology",
+            "reason": "Micron shows strong growth rates and attractive valuation metrics. The stock has been hit particularly hard, down over 50% from 52-week highs, suggesting oversold conditions. Memory and storage demand from AI and data center buildout should support long-term growth.",
+            "when_to_buy": "Current prices after down over 50% from 52-week highs and down another 10-11% today present deep value opportunity",
+            "target_price": null,
+            "cautions": "Stock down 51.4% from 52-week highs and continues to decline. Currently trading around $563 with significant downside volatility. Semiconductor cycle and capex cycle uncertainty."
+          },
+          {
+            "ticker": "FICO",
+            "company_name": "Fair Isaac Corporation",
+            "reason": "FICO has been beaten down significantly, down 62.1% from 52-week highs, but the creator suggests it was not extremely overvalued at previous levels and is very undervalued today. The company's business model and fundamentals remain strong despite market pessimism.",
+            "when_to_buy": "Current prices after 62% decline from 52-week highs represent a potential opportunity",
+            "target_price": null,
+            "cautions": "Stock has experienced the largest drawdown of the names discussed. Market showing severe repricing of this business."
+          },
+          {
+            "ticker": "SOFI",
+            "company_name": "SoFi Technologies",
+            "reason": "SoFi has been beaten down significantly, down 58.2% from 52-week highs, but creator indicates it was not extremely overvalued at previous levels and is very undervalued today. The fintech growth story remains intact despite current market volatility.",
+            "when_to_buy": "Current depressed prices after 58% decline present opportunity, though creator acknowledges further downside possible",
+            "target_price": null,
+            "cautions": "Severe drawdown from recent highs. Fintech sector experiencing significant repricing and negative sentiment."
+          },
+          {
+            "ticker": "HOOD",
+            "company_name": "Robinhood Markets",
+            "reason": "Robin Hood has been beaten down significantly, down 58.2% from 52-week highs, but creator suggests it was not extremely overvalued at previous levels and is very undervalued today. The fintech and retail investment platform story continues to have long-term potential.",
+            "when_to_buy": "Current prices after 58% decline from highs present value opportunity",
+            "target_price": null,
+            "cautions": "Severe repricing from recent valuations. Retail investor sentiment and market volatility heavily impact this business."
+          },
+          {
+            "ticker": "AXON",
+            "company_name": "Axon Enterprise",
+            "reason": "Axon has declined 51.7% from 52-week highs but fundamentals remain intact. The creator considers it undervalued at current levels, trading below historical median valuations.",
+            "when_to_buy": "Current depressed prices after over 50% decline",
+            "target_price": null,
+            "cautions": "Security and enterprise software sector facing significant repricing. Stock down over 50% from recent highs."
+          },
+          {
+            "ticker": "MRLL",
+            "company_name": "Marelli",
+            "reason": "Marelli down 60.8% from 52-week highs but fundamentals have not been extremely overvalued. Strong growth rates and reasonable valuations suggest the stock is very undervalued today.",
+            "when_to_buy": "Current prices after 60% decline present value opportunity",
+            "target_price": null,
+            "cautions": "Automotive supplier sector experiencing significant volatility. Stock has experienced one of the largest drawdowns."
+          },
+          {
+            "ticker": "ORCL",
+            "company_name": "Oracle Corporation",
+            "reason": "Oracle down 58.2% from 52-week highs but was not extremely overvalued at previous levels. Strong cloud and database business fundamentals remain intact. Cloud growth and AI infrastructure demand should support long-term thesis.",
+            "when_to_buy": "Current depressed prices after nearly 60% decline from highs",
+            "target_price": null,
+            "cautions": "Enterprise software sector facing significant repricing. Oracle still has Oracle earnings coming in next weeks which will be important data point."
+          },
+          {
+            "ticker": "NFLX",
+            "company_name": "Netflix",
+            "reason": "Netflix is trading quite cheap, especially relative to previous valuations. Down 46.8% from 52-week highs, the company shows strong growth rates and reasonable forward valuations.",
+            "when_to_buy": "Current prices represent attractive entry point",
+            "target_price": null,
+            "cautions": "Streaming sector facing competitive and subscriber growth pressures. Valuation compression from previous highs."
+          },
+          {
+            "ticker": "PLTR",
+            "company_name": "Palantir Technologies",
+            "reason": "While Palantir remains expensive with forward PE of 162.9x and trailing PE of 107.7x, the creator notes this valuation reflects the company's very rapid growth rates. The investment thesis depends on either the stock not appreciating much as valuation multiples compress naturally, continued earnings acceleration, or both.",
+            "when_to_buy": "Only suitable for investors with extremely high growth expectations and long time horizons",
+            "target_price": null,
+            "cautions": "Trading at extreme valuation multiples (107.7x trailing PE, 162.9x forward PE). Stock only becomes cheaper if valuation multiples compress or growth accelerates substantially. High risk/high reward profile."
+          },
+          {
+            "ticker": "SHOP",
+            "company_name": "Shopify",
+            "reason": "Similar to Palantir, Shopify remains expensive but the creator notes such high-quality, high-growth names are rarely undervalued \u2014 they simply become less expensive. The company's growth and market position justify consideration for long-term growth portfolios.",
+            "when_to_buy": "For investors with very long time horizons and high growth expectations",
+            "target_price": null,
+            "cautions": "Still trading at premium valuations despite recent repricing. Becomes cheaper through earnings growth or multiple compression, not absolute price declines necessarily."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Market is experiencing severe repricing across technology and semiconductor sectors. The S&P 500 has broken below a 19-month rising trend line, with the bounce back to this trend line facing resistance at 7,300. The creator warns that for meaningful momentum to return, the index needs to break back above this trend line.",
+          "Three major technical/valuation warning signs: (1) Many high-quality names are down over 50% from 52-week highs despite intact fundamentals, suggesting potential overshooting. (2) PCE inflation came in at 3.8% overall and 3.3% core, above the 2% Fed target, with rate cuts unlikely in the near term. (3) The Federal Reserve is expected to implement a 25 basis point rate hike in December with 100% probability according to market pricing.",
+          "Inflation remains sticky with gasoline up 38% year-over-year, everyday services rising, housing up 3.3%, utilities 4.6%, and insurance/banking 4.2%. Only December's PCE report (released in January) will show improvement if WTI crude stays under $100 for a full month. Current inflation is well above the Fed's 2% target.",
+          "Capex is increasing dramatically across technology and infrastructure companies while free cash flow is declining in several mega-cap names (Google, Meta). This dynamic will persist through 2025 as AI infrastructure buildout continues, creating potential headwinds for investors seeking near-term cash generation.",
+          "Market sentiment is extremely negative despite strong economic growth (4.3% GDP growth in Q3, fastest since mid-2023). The creator warns this disconnect between fundamentals and sentiment could represent either a buying opportunity or a warning sign of further downside. No recession signals exist but market volatility remains extreme.",
+          "Hedge fund activity shows they just added back the most positions in over four years, but this includes both bullish and bearish bets, meaning willingness to take risk rather than certainty of market direction. Forced selling may be slowing but is not confirmed.",
+          "This is a short trading week (Thursday is Thanksgiving, Friday half-day) with lower participation. Volume has been elevated despite lower participation. The creator warns that meaningful breakouts may not occur until the following week, making near-term forecasting difficult."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "AVGO",
+          "MU",
+          "AMD",
+          "AMZN",
+          "GOOGL",
+          "META",
+          "DELL",
+          "ORCL",
+          "BRCD",
+          "FICO",
+          "MRLL",
+          "AXON",
+          "NFLX",
+          "UBER",
+          "HOOD",
+          "SOFI",
+          "PLTR",
+          "SHOP",
+          "PYPL",
+          "V",
+          "MA",
+          "SO",
+          "DUO",
+          "UNH",
+          "CRM",
+          "NEBU",
+          "CORE",
+          "IN",
+          "INTC",
+          "OSCAR"
+        ]
+      },
+      "price_at_recommendation": {
+        "GOOGL": 273.1,
+        "ORCL": 103.88,
+        "HOOD": 65.78,
+        "AXON": 343.05,
+        "SOFI": 13.07,
+        "PLTR": 163.59,
+        "NFLX": 59.41,
+        "SHOP": 133.4,
+        "FICO": 699.81,
+        "AMD": 406.03,
+        "DELL": 297.06,
+        "AMZN": 244.43,
+        "NVDA": 149.3,
+        "META": 609.89
+      }
+    },
+    "1G1L4SHeqDs": {
+      "channel": "CouchInvestor",
+      "title": "Google Builds Its Own AI Host Chips, Then Picked AMD Anyway",
+      "upload_date": "20261125",
+      "url": "https://www.youtube.com/watch?v=1G1L4SHeqDs",
+      "processed_at": "2026-11-26T10:20:49.752998",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices",
+            "reason": "AMD has secured a strategic position as the host CPU of choice for more than 10 giant cloud companies, including being selected by Google for its newest TPU v5 TX system despite Google building its own Axion host chips. AMD's EPYC processors enable hardware-enforced confidential computing with secure encrypted virtualization that extends encryption to TPUs, covering prompts, model weights, and data in use. Additionally, AMD has a dual-sided advantage in the AI chip market, sitting under both the custom chip camp (like Google's TPUs) and running alongside NVIDIA GPUs and custom chips like AMD's own Instinct chips across multiple major cloud providers and Frontier AI Labs.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": [
+          "AMD",
+          "NVDA"
+        ]
+      },
+      "price_at_recommendation": {
+        "AMD": 406.03
+      }
+    },
+    "FUPKwHArq54": {
+      "channel": "Daniel Pronk",
+      "title": "Investors Keep Selling - I Think They're Wrong",
+      "upload_date": "20261125",
+      "url": "https://www.youtube.com/watch?v=FUPKwHArq54",
+      "processed_at": "2026-11-26T10:21:13.434966",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon",
+            "reason": "Daniel Pronk is aggressively buying Amazon because AWS revenue growth is approaching 40%, the fastest rate in 5 years, driven by customer demand for compute infrastructure. Amazon's operating margin is at all-time highs while its price-to-operating cash flow is the lowest since 2010, representing a valuation disconnect. The underlying business fundamentals are accelerating with broad-based AI adoption across tens of thousands of customers, not just frontier labs. Pronk believes the capex investments will convert to significant free cash flow over the next 2-3 years as the data center buildout enters its harvest phase, making current valuations extremely attractive for long-term investors.",
+            "when_to_buy": "During current market volatility and sell-off; creator has been aggressively deploying capital",
+            "target_price": null,
+            "cautions": "Capital-intensive business with delayed cash flow conversion; currently in investment phase rather than harvest phase, so free cash flow is suppressed despite accelerating revenue and margins"
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms",
+            "reason": "Meta is experiencing direct, tangible benefits from AI investments evidenced by a 33% decline in customer cost per acquisition, which improves customer ROI on advertising spend. Meta is capturing more new advertising dollars than Amazon and Google combined, with trailing twelve-month revenue of $242 billion growing 26% for three consecutive quarters\u2014exceptional growth rates for a company of this size. Revenue growth is accelerating consistently, demonstrating that AI is meaningfully improving Meta's advertising algorithms and business performance. At current valuations, Pronk views Meta as significantly undervalued relative to its AI-driven growth trajectory.",
+            "when_to_buy": "During current market sell-off; creator is aggressively buying",
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet (Google Cloud)",
+            "reason": "Google Cloud grew revenue 102% in the last quarter despite operating at a $31 billion quarterly revenue run rate, demonstrating startup-level growth for a hundred-billion-dollar-revenue-run-rate business. This explosive growth validates that Google's AI and cloud infrastructure investments are paying off in real time. Pronk argues this is direct proof that hyperscaler capex is translating into measurable business results and market demand.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "DELL",
+            "company_name": "Dell Technologies",
+            "reason": "Dell reported revenue growth of 103% year-over-year and EPS growth of 287% year-over-year, with backlog growing to $132.3 billion. The company has 7,500 customers globally wanting to spend more on data center infrastructure. Dell management indicated AI agentic opportunity is still ahead with many customers still in proof-of-concept phase, demand is durable and accelerating with no sign of slowdown, and they expect 87x inference growth by 2030 with 200 gigawatts of compute being built globally. This represents strong evidence that AI infrastructure buildout is real, broad-based, and durable.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "CONM",
+            "company_name": "Construction Partners",
+            "reason": "Pronk has been adding to this position aggressively despite recent sell-offs. While it is a road maintenance and construction company not directly exposed to AI, he views it as a beneficiary of indiscriminate selling where quality companies unrelated to AI narratives are being sold off unreasonably. He views this as an opportunity to acquire solid businesses at attractive prices during panic selling.",
+            "when_to_buy": "During current market volatility",
+            "target_price": null,
+            "cautions": "Not directly exposed to AI growth; benefits are indirect through market dislocation rather than fundamental AI tailwinds"
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Market is experiencing indiscriminate selling where high-quality businesses with strong fundamentals are being sold off alongside AI stocks. Creator views this as a buying opportunity rather than a bearish signal, but investors should be aware of continued volatility risk in near-term.",
+          "Hyperscaler capex spending (Amazon, Meta, Google, Microsoft) is not yet converting to free cash flow because these companies are in an investment/buildout phase, not harvest phase. Free cash flow conversion is expected to materialize over next 2-3 years. Investors must have long-term time horizon.",
+          "Political headwinds around data center buildout and AI regulation exist, with some Democratic politicians expressing desire to slow AI development. However, creator and industry experts (Bill Aman) believe these are political posturing and unlikely to meaningfully slow buildout given national security and economic benefits.",
+          "October PCE inflation reading came in at 3.8%, the second-highest since April 2023, suggesting inflation is not declining as quickly as hoped. Fed may continue raising rates longer than market expects, creating ongoing macro uncertainty and volatility."
+        ],
+        "tickers_mentioned": [
+          "AMZN",
+          "META",
+          "GOOGL",
+          "MSFT",
+          "NVDA",
+          "AMD",
+          "DELL",
+          "CONM"
+        ]
+      },
+      "price_at_recommendation": {
+        "GOOGL": 273.1,
+        "DELL": 297.06,
+        "AMZN": 244.43,
+        "META": 609.89
+      }
+    },
+    "NeO6nowU380": {
+      "channel": "FinTek",
+      "title": "Top 3 Cheap Stocks to BUY NOW (For 2027)",
+      "upload_date": "20261126",
+      "url": "https://www.youtube.com/watch?v=NeO6nowU380",
+      "processed_at": "2026-11-26T10:21:25.984789",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "GRAB",
+            "company_name": "Grab",
+            "reason": "Grab combines Uber-style rides, food delivery, and banking services in Southeast Asia. The company is growing rapidly and management is actively buying back shares. According to investing.com's valuation models, the stock has 15% upside potential.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "BYD",
+            "company_name": "BYD (Chinese electric car maker)",
+            "reason": "BYD is a Chinese electric car manufacturer that has attracted significant investment from big short investor Michael Burry, who has been buying up shares. The stock is trading at cheap valuation levels according to the creator.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Low cash flow is identified as a notable risk for this investment."
+          },
+          {
+            "ticker": null,
+            "company_name": "AI data center connectivity stock (ticker not explicitly stated)",
+            "reason": "This stock connects AI data centers with sales to AI and cloud customers more than doubling last quarter. The company holds more cash than debt, indicating a strong balance sheet.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Upside potential is described as more limited compared to the other recommendations."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "AI stocks have been selling off recently, suggesting sector-wide valuation pressure and potential continued volatility in the AI investment space."
+        ],
+        "tickers_mentioned": [
+          "GRAB",
+          "BYD",
+          "NOK"
+        ]
+      },
+      "price_at_recommendation": {
+        "GRAB": 2.84,
+        "BYD": 77.91
+      }
     }
   },
   "channel_ids": {

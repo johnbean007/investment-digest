@@ -40267,6 +40267,276 @@
         "GRAB": 2.84,
         "BYD": 77.91
       }
+    },
+    "DKh21b2IjAM": {
+      "channel": "CouchInvestor",
+      "title": "Coca-Cola Doesn't Actually Make Coke",
+      "upload_date": "20261126",
+      "url": "https://www.youtube.com/watch?v=DKh21b2IjAM",
+      "processed_at": "2026-11-26T11:24:57.258987",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Coca-Cola's business model creates systemic risk exposure to bottling partner performance. If bottlers struggle financially, Coca-Cola's revenue and profitability suffer despite the company only handling concentrate and branding. Additionally, sugar taxes impact the entire distribution system, affecting both Coca-Cola and its bottling partners, creating regulatory headwinds for the sector."
+        ],
+        "tickers_mentioned": []
+      },
+      "price_at_recommendation": {}
+    },
+    "9WgYqZU4CG8": {
+      "channel": "CouchInvestor",
+      "title": "2 Cents of Every Dollar. That's All the Store Keeps",
+      "upload_date": "20261126",
+      "url": "https://www.youtube.com/watch?v=9WgYqZU4CG8",
+      "processed_at": "2026-11-26T11:25:05.912336",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Grocery retail operates on extremely thin margins of approximately 2% net profit. The business model is highly vulnerable to price wars and cost spikes, which can rapidly erode profitability. Investors should be cautious of grocery retail stocks during periods of inflation or competitive pricing pressures, as these slim margins provide little buffer against adverse conditions."
+        ],
+        "tickers_mentioned": []
+      },
+      "price_at_recommendation": {}
+    },
+    "wYPu7JWd3Ws": {
+      "channel": "CouchInvestor",
+      "title": "Starbucks Is Holding $1.75 Billion of Your Money",
+      "upload_date": "20261126",
+      "url": "https://www.youtube.com/watch?v=wYPu7JWd3Ws",
+      "processed_at": "2026-11-26T11:25:15.461603",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Starbucks holds $1.75 billion in customer funds (loaded cards, app balances, and earned rewards) that represents a liability on the balance sheet, not earned revenue. This creates a structural advantage for the company as it receives customer cash upfront interest-free, but it also represents deferred revenue and customer obligations. Additionally, a portion of this money constitutes 'breakage' (forgotten or lost cards) which eventually becomes revenue, but changes to rewards programs risk alienating loyal customers who fund this float."
+        ],
+        "tickers_mentioned": [
+          "SBUX"
+        ]
+      },
+      "price_at_recommendation": {}
+    },
+    "FCR7XzDtY_g": {
+      "channel": "CouchInvestor",
+      "title": "STOCKS TRY TO GO GREEN, BURRY WAS RIGHT? | MARKET CLOSE",
+      "upload_date": "20261125",
+      "url": "https://www.youtube.com/watch?v=FCR7XzDtY_g",
+      "processed_at": "2026-11-26T11:26:04.550625",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Despite recent 50% drawdowns, Nvidia has historically recovered from similar volatility. The company continues to dominate semiconductor supply for AI infrastructure. Insider purchases and potential accelerated buybacks at current prices provide support. The AI capex cycle is expected to continue with JP Morgan projecting 1.4-1.45 trillion in AI spending for 2027, requiring continued chip purchases.",
+            "when_to_buy": "Current levels under $150 per share were considered attractive; stock down 5% on the day at $150",
+            "target_price": null,
+            "cautions": "Stock has experienced 7 consecutive weeks of red, worst since 2008. High volatility and concentration risk in broader indices due to market weighting."
+          },
+          {
+            "ticker": "MU",
+            "company_name": "Micron Technology",
+            "reason": "Memory chip demand is structurally different than past cycles due to custom HBM requirements. Companies must work directly with tech giants on custom architectures refreshed every 6 months, creating recurring orders rather than commodity gluts. Micron has no debt versus high debt in previous cycles, strong cash flow generation, and benefits from U.S. hawkish sentiment toward Chinese memory competitors. Stock crashed to under $600 on the day with strong upside potential.",
+            "when_to_buy": "Stock under $600 per share considered attractive entry point on the day; could potentially return to $1000 within months",
+            "target_price": "$1000 potential over next couple months",
+            "cautions": "Memory sector has had brutal history of margin compression and cyclicality. Market skepticism about memory pricing and profitability persists despite different structural setup this cycle."
+          },
+          {
+            "ticker": "PLTR",
+            "company_name": "Palantir Technologies",
+            "reason": "Stock pulled back significantly from recent highs, creating better entry points. Peter Thiel purchased $122.5 million worth of shares at $143 on Friday, signaling insider confidence. Company continues expanding AI capabilities and commercial applications with strong growth potential.",
+            "when_to_buy": "Peter Thiel bought at $143 on Friday; stock back above $163 by end of day",
+            "target_price": null,
+            "cautions": "Past valuations have been stretched; stock highly volatile with beta risk."
+          },
+          {
+            "ticker": "ANET",
+            "company_name": "Arista Networks",
+            "reason": "Networking infrastructure play benefits from AI capex spending. Part of ecosystem of companies providing supporting infrastructure for AI data centers and GPU connectivity.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "CRDO",
+            "company_name": "Credo Technology",
+            "reason": "High-speed connectivity and networking solutions critical for AI infrastructure buildout. Positioned to benefit from continued capex spending on data centers and AI compute infrastructure.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "COREWEAVE",
+            "company_name": "CoreWeave",
+            "reason": "Despite credit concerns and high debt levels, company is experiencing faster than expected data center build-out. 100,000+ GPUs coming out of long-term contracts next year will generate significant revenue without debt servicing pressure. If company survives, potential for massive returns. Credit default swaps pricing in 70% default probability appear overly pessimistic given strong revenue growth and backlog.",
+            "when_to_buy": "Stock hit all-time lows around $37.40 on the day, well below $115 IPO pricing",
+            "target_price": null,
+            "cautions": "High leverage with credit default swaps pricing in 70% five-year default probability. Bond yields around 18% reflect market concern. If demand collapses or financing dries up, company faces serious distress. Requires monitoring of backlog and contract execution."
+          },
+          {
+            "ticker": "ORCL",
+            "company_name": "Oracle Corporation",
+            "reason": "Company stated it will be cash flow positive in second half of FY2028 and project $30 billion in free cash flow in FY2029. Despite capex requirements for AI infrastructure, company has secured funding for all OpenAI-related projects. Operating in seller's market for GPU compute allows pricing power and ability to renegotiate contracts. Strong visibility into AI spending through OpenAI partnership.",
+            "when_to_buy": "Stock fell below $100 per share during selloff",
+            "target_price": null,
+            "cautions": "Credit default swaps rising alongside CoreWeave, suggesting bond market concern about debt levels. Capex spending on data centers is substantial and execution risk remains."
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms",
+            "reason": "Stock down significantly from highs, creating better entry opportunity. Company continuing AI infrastructure investment with Ray-Ban smart glasses and other AI initiatives expanding. Despite market skepticism, fundamentals improving with AI monetization opportunities emerging.",
+            "when_to_buy": "Current levels after recent pullback",
+            "target_price": null,
+            "cautions": "Paused buyback programs due to lack of free cash flow during heavy AI capex phase. Uncertainty around AI monetization timeline."
+          },
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet/Google",
+            "reason": "Major capex spender on AI infrastructure with estimated $322.6 billion in capex for 2027 according to JP Morgan. Company has visibility into AI development roadmap and market opportunities. Stock pulled back significantly from highs.",
+            "when_to_buy": "Recent pullback creates entry opportunity",
+            "target_price": null,
+            "cautions": "Heavy capex spending limiting near-term free cash flow. Uncertainty around AI monetization and ROI on infrastructure spending."
+          },
+          {
+            "ticker": "MSFT",
+            "company_name": "Microsoft Corporation",
+            "reason": "Partnership with OpenAI provides deep visibility into AI development roadmap and spending requirements. Company investing heavily in infrastructure but has strong cash generation to support capex. Major cloud infrastructure provider benefiting from AI demand.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Heavy AI capex requirements limiting near-term cash returns. Execution risk on AI monetization through cloud services."
+          },
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices",
+            "reason": "Stock under $400 per share represents attractive entry point. Provides alternative to Nvidia for AI chip supply and benefits from competitive pressure. Part of semiconductor ecosystem benefiting from AI capex cycle.",
+            "when_to_buy": "Stock under $400 during the day",
+            "target_price": null,
+            "cautions": "Faces intense competition from Nvidia. Execution risk on new products. Customer concentration risk."
+          },
+          {
+            "ticker": "ASML",
+            "company_name": "ASML Holding",
+            "reason": "Semiconductor equipment provider critical to chip manufacturing for AI processors. Benefits from sustained capex spending on semiconductor fabs.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "BRCH",
+            "company_name": "Broadcom",
+            "reason": "Semiconductor infrastructure and networking components essential for data center and AI systems. Expected to report earnings soon with visibility into continued strong demand.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": null
+          },
+          {
+            "ticker": "SPACEX",
+            "company_name": "SpaceX",
+            "reason": "Stock pulled back below IPO pricing under $114 per share in morning before recovering. Company building critical infrastructure for future with Starlink satellite constellation. FCC authorization for 1 million satellites provides unlimited growth optionality for compute infrastructure in space. Aggressive capex spending on infrastructure creates long-term competitive moat.",
+            "when_to_buy": "Stock under $114 in morning, recovered to above $125 by close",
+            "target_price": null,
+            "cautions": "Very high capex requirements create financing risk. Early stage commercial revenue. Geopolitical risk."
+          },
+          {
+            "ticker": "TSLA",
+            "company_name": "Tesla",
+            "reason": "Company building Optimus humanoid robot which could represent massive long-term value creation. Physical AI represents next frontier after generative AI. Potential merger with SpaceX (51% probability) would combine autonomous vehicles, robotics, and space infrastructure.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Optimus is early stage and uncertain timeline to meaningful commercial deployment. Optimus development is cash intensive. Merger with SpaceX faces regulatory and execution uncertainty."
+          },
+          {
+            "ticker": "NEBS",
+            "company_name": "Nebius",
+            "reason": "High-growth AI infrastructure provider benefiting from Europe's focus on sovereign AI capabilities. Despite permitting delays, company continuing to build cloud infrastructure at accelerating pace. Revenue growing rapidly and capex spending not constrained by lack of capital but by company choice.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Recent permitting delays pushed back buildout timelines. Smaller player facing execution risk. European regulatory uncertainty."
+          },
+          {
+            "ticker": "COHG",
+            "company_name": "Coherent",
+            "reason": "CEO purchased $15.2 million worth of stock on Friday during the dip, signaling insider confidence in company value. Insider purchases during major market selloffs historically precede recoveries.",
+            "when_to_buy": "CEO bought on Friday during dip",
+            "target_price": null,
+            "cautions": null
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "PALO",
+            "company_name": "Palo Alto Networks",
+            "reason": "Company facing lawsuit from former regional VP alleging accounting fraud to inflate revenue and earnings. Allegations include wrongful termination connected to raising accounting concerns. While company denies allegations, the investigation and legal uncertainty creates risk.",
+            "risk": "Stock down 5.3% to $337 on lawsuit news. Forward PE of 234x and trailing PE of 712x valuations are historically extreme and leave no room for disappointment. If fraud allegations have merit, stock could face severe write-downs."
+          },
+          {
+            "ticker": "DLO",
+            "company_name": "Datadog",
+            "reason": "Stock hasn't moved meaningfully despite market opportunities and company execution. Expensive valuation with limited upside relative to other opportunities in portfolio. Creators considering trimming position to redeploy capital into higher-beta, higher-growth names like Micron.",
+            "risk": "Stock likely to remain range-bound near current levels. Opportunity cost versus higher-growth semiconductor and AI infrastructure plays."
+          }
+        ],
+        "key_warnings": [
+          "Market volatility at extreme levels: S&P 500 has experienced seven consecutive down weeks since 2008, with NASDAQ experiencing multiple 6%+ swings in single days driven by single catalyst (Jensen Huang situation). Highest volatility environment potentially since 2020.",
+          "Jevon's Paradox concerns: RAMP data suggests AI token pricing has fallen faster than usage growth, potentially indicating spending slowdown. However, conflicting data shows GPU pricing UP 4.4-10.9% month-over-month in November per JP Morgan, suggesting continued demand pressure and limited supply.",
+          "Macro headwinds mounting: Multiple unresolved geopolitical risks (Iran conflict potential), interest rate uncertainty (expectations for potential 2027 rate hikes despite inflation concerns), energy price volatility, potential policy moratoriums under new administration affecting data center costs and capital availability.",
+          "Credit market stress in infrastructure names: CoreWeave CDS pricing in 70% five-year default probability despite strong business metrics. Oracle credit concerns also rising. Bond markets pricing in distress that may not be justified by business fundamentals, creating disconnect between bonds and equity opportunities.",
+          "Concentration and beta risk: AI and semiconductor stocks now represent outsized portion of S&P 500. Single-stock movements (Nvidia down 50%, memory stocks down 40-60%) are driving broader index volatility, creating amplified drawdown risk for diversified portfolios.",
+          "Capex cycle maturation risk: JP Morgan projects AI capex spending growth to slow sharply in 2028 (from 2027 levels of 1.45 trillion down to 1.61 trillion in 2028). Market pricing in potential demand cliff after 2027, creating valuation uncertainty.",
+          "Chinese competition narrowing: Reports indicate Chinese open-source models falling behind due to distillation difficulty increasing from 1 prompt to 10 prompts for same output. U.S. AI lead widening but could spur aggressive Chinese catch-up spending, creating geopolitical AI race risk."
+        ],
+        "tickers_mentioned": [
+          "NVDA",
+          "QQQ",
+          "SPY",
+          "MU",
+          "ORCL",
+          "META",
+          "PLTR",
+          "CRPO",
+          "SPACEX",
+          "ANTHROPIC",
+          "AAPL",
+          "MSFT",
+          "GOOGL",
+          "AMZN",
+          "TSLA",
+          "AMD",
+          "ANET",
+          "CRDO",
+          "COREWEAVE",
+          "NEBS",
+          "BRCH",
+          "ASML",
+          "COHR",
+          "PALO",
+          "DLO",
+          "DELL",
+          "CrowdStrike",
+          "ZS",
+          "ADBE",
+          "FIGMA",
+          "CRWD"
+        ]
+      },
+      "price_at_recommendation": {
+        "MSFT": 489.93,
+        "ANET": 163.99,
+        "GOOGL": 273.1,
+        "ASML": 1303.08,
+        "CRDO": 106.8,
+        "PALO": 10.04,
+        "DLO": 12.57,
+        "PLTR": 163.59,
+        "META": 609.89,
+        "MU": 601.25,
+        "TSLA": 380.14,
+        "AMD": 406.03,
+        "ORCL": 103.88,
+        "COHG": 0.03,
+        "NVDA": 149.3
+      }
     }
   },
   "channel_ids": {

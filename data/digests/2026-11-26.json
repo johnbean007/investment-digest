@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-26T10:24:43.792766",
-  "video_count": 184,
-  "stock_count": 184,
+  "generated_at": "2026-11-26T11:29:32.403292",
+  "video_count": 183,
+  "stock_count": 188,
   "stocks": [
     {
       "ticker": "6752",
@@ -486,7 +486,7 @@
     {
       "ticker": "AMD",
       "company_name": "Advanced Micro Devices Inc.",
-      "buy_count": 22,
+      "buy_count": 23,
       "avoid_count": 4,
       "first_mention_date": "28 Oct 2026",
       "price_at_first_mention": 560.26,
@@ -815,6 +815,19 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": null
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "STOCKS TRY TO GO GREEN, BURRY WAS RIGHT? | MARKET CLOSE",
+          "url": "https://www.youtube.com/watch?v=FCR7XzDtY_g",
+          "upload_date": "20261125",
+          "date_label": "25 Nov 2026",
+          "ticker": "AMD",
+          "company_name": "Advanced Micro Devices",
+          "reason": "Stock under $400 per share represents attractive entry point. Provides alternative to Nvidia for AI chip supply and benefits from competitive pressure. Part of semiconductor ecosystem benefiting from AI capex cycle.",
+          "when_to_buy": "Stock under $400 during the day",
+          "target_price": null,
+          "cautions": "Faces intense competition from Nvidia. Execution risk on new products. Customer concentration risk."
         }
       ],
       "avoids": [
@@ -1135,6 +1148,70 @@
       "description": "Operates e-commerce platform, cloud services, and digital advertising"
     },
     {
+      "ticker": "ANET",
+      "company_name": "Arista Networks",
+      "buy_count": 1,
+      "avoid_count": 0,
+      "first_mention_date": "25 Nov 2026",
+      "price_at_first_mention": 163.99,
+      "pct_change_since_rec": 0.0,
+      "market": {
+        "ticker": "ANET",
+        "name": "Arista Networks, Inc.",
+        "currency": "USD",
+        "sector": "Technology",
+        "industry": "Computer Hardware",
+        "market_cap": 207185362944,
+        "current_price": 163.99,
+        "daily_change_pct": -2.71,
+        "month_change_pct": -7.48,
+        "week52_high": 217.41,
+        "week52_high_date": "09 Oct 2026",
+        "week52_low": 115.42,
+        "week52_low_date": "30 Mar 2026",
+        "rsi": 41.3,
+        "rsi_label": "neutral",
+        "ma50": 190.67,
+        "ma200": 169.02,
+        "ma_signal": "golden_cross",
+        "pe_trailing": 41.307304,
+        "pe_forward": 27.164154,
+        "peg_ratio": 1.1,
+        "revenue_growth": 0.585,
+        "earnings_growth": 0.821,
+        "free_cashflow": 3001337600,
+        "profit_margins": 0.39966,
+        "debt_to_equity": null,
+        "beta": 1.637,
+        "short_percent": 0.015700001,
+        "dividend_yield": 0.0,
+        "analyst_buy": 31,
+        "analyst_hold": 0,
+        "analyst_sell": 0,
+        "analyst_target": 248.61,
+        "analyst_upside_pct": 51.6,
+        "earnings_date": null,
+        "earnings_days": null
+      },
+      "buys": [
+        {
+          "channel": "CouchInvestor",
+          "title": "STOCKS TRY TO GO GREEN, BURRY WAS RIGHT? | MARKET CLOSE",
+          "url": "https://www.youtube.com/watch?v=FCR7XzDtY_g",
+          "upload_date": "20261125",
+          "date_label": "25 Nov 2026",
+          "ticker": "ANET",
+          "company_name": "Arista Networks",
+          "reason": "Networking infrastructure play benefits from AI capex spending. Part of ecosystem of companies providing supporting infrastructure for AI data centers and GPU connectivity.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": null
+        }
+      ],
+      "avoids": [],
+      "description": "Develops networking software and solutions for data centers and cloud"
+    },
+    {
       "ticker": "ANT",
       "company_name": "Anthropic",
       "buy_count": 1,
@@ -1214,8 +1291,8 @@
       "ticker": "ANTHROPIC",
       "company_name": "Anthropic",
       "buy_count": 1,
-      "avoid_count": 2,
-      "first_mention_date": "26 Oct 2026",
+      "avoid_count": 1,
+      "first_mention_date": "28 Oct 2026",
       "price_at_first_mention": null,
       "pct_change_since_rec": null,
       "market": null,
@@ -1235,17 +1312,6 @@
         }
       ],
       "avoids": [
-        {
-          "channel": "Daniel Pronk",
-          "title": "Anthropic Just Saved The AI Trade - Here's What You Need To Know",
-          "url": "https://www.youtube.com/watch?v=lbF1dMRllI4",
-          "upload_date": "20261026",
-          "date_label": "26 Oct 2026",
-          "ticker": "ANTHROPIC",
-          "company_name": "Anthropic",
-          "reason": "While Anthropic is financially healthy with $130 billion in liquid assets, profitable operations, and exceptional 31x revenue growth over five quarters, the creator explicitly states he is not looking to invest in the business or buy its IPO. The valuation is extremely high at 30-40x annualized revenue, which is a very high price to pay for any business. Additionally, 80% of revenue is consumption-based and could be at risk if AI models become commoditized. The company has approximately $800 billion worth of future spending commitments extending to 2036 that it must pay regardless of actual usage, representing a massive bet that Anthropic will remain a winner in AI for the next decade\u2014a bet the creator is unwilling to place.",
-          "risk": "Valuation risk: Trading at 30-40x annualized revenue. Revenue concentration risk: 80% of revenue is consumption-based and vulnerable to commoditization. Execution risk: Company must meet $800 billion in future compute spending commitments through 2036 or face severe financial stress. Model competition risk: If competitors gain market share or adoption slows, consumption-based revenue could decline sharply while fixed commitments remain."
-        },
         {
           "channel": "Daniel Pronk",
           "title": "The AI Bubble Has Popped - What I'm Doing Now",
@@ -1625,7 +1691,7 @@
     {
       "ticker": "ASML",
       "company_name": "ASML Holding",
-      "buy_count": 5,
+      "buy_count": 6,
       "avoid_count": 0,
       "first_mention_date": "04 Nov 2026",
       "price_at_first_mention": 1356.65,
@@ -1663,8 +1729,8 @@
         "analyst_buy": 38,
         "analyst_hold": 4,
         "analyst_sell": 1,
-        "analyst_target": 2111.72,
-        "analyst_upside_pct": 62.1,
+        "analyst_target": 2111.49,
+        "analyst_upside_pct": 62.0,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -1730,6 +1796,19 @@
           "ticker": "ASML",
           "company_name": "ASML Holding N.V.",
           "reason": "In the previous video, the creator mentioned being interested in buying ASML as an opportunity during the market correction, alongside other semiconductor-related opportunities.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": null
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "STOCKS TRY TO GO GREEN, BURRY WAS RIGHT? | MARKET CLOSE",
+          "url": "https://www.youtube.com/watch?v=FCR7XzDtY_g",
+          "upload_date": "20261125",
+          "date_label": "25 Nov 2026",
+          "ticker": "ASML",
+          "company_name": "ASML Holding",
+          "reason": "Semiconductor equipment provider critical to chip manufacturing for AI processors. Benefits from sustained capex spending on semiconductor fabs.",
           "when_to_buy": null,
           "target_price": null,
           "cautions": null
@@ -2213,6 +2292,33 @@
       ],
       "avoids": [],
       "description": "Manufactures medical devices, diagnostic equipment, and healthcare supplies"
+    },
+    {
+      "ticker": "BRCH",
+      "company_name": "Broadcom",
+      "buy_count": 1,
+      "avoid_count": 0,
+      "first_mention_date": "25 Nov 2026",
+      "price_at_first_mention": null,
+      "pct_change_since_rec": null,
+      "market": null,
+      "buys": [
+        {
+          "channel": "CouchInvestor",
+          "title": "STOCKS TRY TO GO GREEN, BURRY WAS RIGHT? | MARKET CLOSE",
+          "url": "https://www.youtube.com/watch?v=FCR7XzDtY_g",
+          "upload_date": "20261125",
+          "date_label": "25 Nov 2026",
+          "ticker": "BRCH",
+          "company_name": "Broadcom",
+          "reason": "Semiconductor infrastructure and networking components essential for data center and AI systems. Expected to report earnings soon with visibility into continued strong demand.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": null
+        }
+      ],
+      "avoids": [],
+      "description": "Designs and manufactures semiconductors for infrastructure and broadband"
     },
     {
       "ticker": "BRCM",
@@ -2734,6 +2840,70 @@
       "description": "GPU cloud infrastructure platform for AI and machine learning workloads"
     },
     {
+      "ticker": "COHG",
+      "company_name": "Coherent",
+      "buy_count": 1,
+      "avoid_count": 0,
+      "first_mention_date": "25 Nov 2026",
+      "price_at_first_mention": 0.03,
+      "pct_change_since_rec": 0.0,
+      "market": {
+        "ticker": "COHG",
+        "name": "Cheetah Oil & Gas, Ltd.",
+        "currency": "USD",
+        "sector": "Financial Services",
+        "industry": "Shell Companies",
+        "market_cap": 991526,
+        "current_price": 0.03,
+        "daily_change_pct": 0.0,
+        "month_change_pct": -25.0,
+        "week52_high": 0.34,
+        "week52_high_date": "18 Aug 2026",
+        "week52_low": 0.0,
+        "week52_low_date": "26 Nov 2025",
+        "rsi": 36.7,
+        "rsi_label": "neutral",
+        "ma50": 0.06,
+        "ma200": 0.04,
+        "ma_signal": "golden_cross",
+        "pe_trailing": null,
+        "pe_forward": null,
+        "peg_ratio": null,
+        "revenue_growth": 1.729,
+        "earnings_growth": null,
+        "free_cashflow": -273671,
+        "profit_margins": -0.72584,
+        "debt_to_equity": null,
+        "beta": 961.539,
+        "short_percent": null,
+        "dividend_yield": 0.0,
+        "analyst_buy": null,
+        "analyst_hold": null,
+        "analyst_sell": null,
+        "analyst_target": null,
+        "analyst_upside_pct": null,
+        "earnings_date": null,
+        "earnings_days": null
+      },
+      "buys": [
+        {
+          "channel": "CouchInvestor",
+          "title": "STOCKS TRY TO GO GREEN, BURRY WAS RIGHT? | MARKET CLOSE",
+          "url": "https://www.youtube.com/watch?v=FCR7XzDtY_g",
+          "upload_date": "20261125",
+          "date_label": "25 Nov 2026",
+          "ticker": "COHG",
+          "company_name": "Coherent",
+          "reason": "CEO purchased $15.2 million worth of stock on Friday during the dip, signaling insider confidence in company value. Insider purchases during major market selloffs historically precede recoveries.",
+          "when_to_buy": "CEO bought on Friday during dip",
+          "target_price": null,
+          "cautions": null
+        }
+      ],
+      "avoids": [],
+      "description": "Explores for and produces oil and natural gas"
+    },
+    {
       "ticker": "COHR",
       "company_name": "Coherent Corp.",
       "buy_count": 2,
@@ -2978,7 +3148,7 @@
     {
       "ticker": "COREWEAVE",
       "company_name": "CoreWeave (Private/recently public)",
-      "buy_count": 3,
+      "buy_count": 4,
       "avoid_count": 1,
       "first_mention_date": "08 Nov 2026",
       "price_at_first_mention": null,
@@ -3024,6 +3194,19 @@
           "when_to_buy": "CoreWeave was up 4% after hours. No specific entry price mentioned.",
           "target_price": null,
           "cautions": "Same financing risks as Nebius: neocloud agreements are conditional on customer financing and deployment. If capital markets tighten, CoreWeave may face difficulty raising funds for expansion. Nvidia's shift toward 'disciplined and selective' support could limit future infrastructure guarantees."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "STOCKS TRY TO GO GREEN, BURRY WAS RIGHT? | MARKET CLOSE",
+          "url": "https://www.youtube.com/watch?v=FCR7XzDtY_g",
+          "upload_date": "20261125",
+          "date_label": "25 Nov 2026",
+          "ticker": "COREWEAVE",
+          "company_name": "CoreWeave",
+          "reason": "Despite credit concerns and high debt levels, company is experiencing faster than expected data center build-out. 100,000+ GPUs coming out of long-term contracts next year will generate significant revenue without debt servicing pressure. If company survives, potential for massive returns. Credit default swaps pricing in 70% default probability appear overly pessimistic given strong revenue growth and backlog.",
+          "when_to_buy": "Stock hit all-time lows around $37.40 on the day, well below $115 IPO pricing",
+          "target_price": null,
+          "cautions": "High leverage with credit default swaps pricing in 70% five-year default probability. Bond yields around 18% reflect market concern. If demand collapses or financing dries up, company faces serious distress. Requires monitoring of backlog and contract execution."
         }
       ],
       "avoids": [
@@ -3232,6 +3415,70 @@
       "description": "Manufactures large-scale AI processor chips and systems"
     },
     {
+      "ticker": "CRDO",
+      "company_name": "Credo Technology",
+      "buy_count": 1,
+      "avoid_count": 0,
+      "first_mention_date": "25 Nov 2026",
+      "price_at_first_mention": 106.8,
+      "pct_change_since_rec": 0.0,
+      "market": {
+        "ticker": "CRDO",
+        "name": "Credo Technology Group Holding ",
+        "currency": "USD",
+        "sector": "Technology",
+        "industry": "Semiconductors",
+        "market_cap": 20072325120,
+        "current_price": 106.8,
+        "daily_change_pct": 0.31,
+        "month_change_pct": -29.35,
+        "week52_high": 308.67,
+        "week52_high_date": "22 Jun 2026",
+        "week52_low": 86.48,
+        "week52_low_date": "30 Mar 2026",
+        "rsi": 38.1,
+        "rsi_label": "neutral",
+        "ma50": 164.87,
+        "ma200": 180.86,
+        "ma_signal": "death_cross",
+        "pe_trailing": 37.870567,
+        "pe_forward": 10.996609,
+        "peg_ratio": 0.11,
+        "revenue_growth": 1.147,
+        "earnings_growth": 0.971,
+        "free_cashflow": 248290880,
+        "profit_margins": 0.33833,
+        "debt_to_equity": 0.96,
+        "beta": 3.292,
+        "short_percent": 0.052600004,
+        "dividend_yield": 0.0,
+        "analyst_buy": 18,
+        "analyst_hold": 1,
+        "analyst_sell": 0,
+        "analyst_target": 269.05,
+        "analyst_upside_pct": 151.9,
+        "earnings_date": null,
+        "earnings_days": null
+      },
+      "buys": [
+        {
+          "channel": "CouchInvestor",
+          "title": "STOCKS TRY TO GO GREEN, BURRY WAS RIGHT? | MARKET CLOSE",
+          "url": "https://www.youtube.com/watch?v=FCR7XzDtY_g",
+          "upload_date": "20261125",
+          "date_label": "25 Nov 2026",
+          "ticker": "CRDO",
+          "company_name": "Credo Technology",
+          "reason": "High-speed connectivity and networking solutions critical for AI infrastructure buildout. Positioned to benefit from continued capex spending on data centers and AI compute infrastructure.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": null
+        }
+      ],
+      "avoids": [],
+      "description": "Provides high-speed connectivity solutions for Ethernet and PCIe applications"
+    },
+    {
       "ticker": "CREDO",
       "company_name": "Credo Technology Group Inc.",
       "buy_count": 1,
@@ -3333,33 +3580,6 @@
         }
       ],
       "description": "Offers customer relationship management and AI agent automation software"
-    },
-    {
-      "ticker": "CRNW",
-      "company_name": "CoreWeave",
-      "buy_count": 1,
-      "avoid_count": 0,
-      "first_mention_date": "26 Oct 2026",
-      "price_at_first_mention": null,
-      "pct_change_since_rec": null,
-      "market": null,
-      "buys": [
-        {
-          "channel": "CouchInvestor",
-          "title": "I'll Buy or Sell SoFi After Earnings. Here's What Decides It",
-          "url": "https://www.youtube.com/watch?v=B7qSvzcSMNc",
-          "upload_date": "20261026",
-          "date_label": "26 Oct 2026",
-          "ticker": "CRNW",
-          "company_name": "CoreWeave",
-          "reason": "The creator notes the stock is 'already so much under pressure' and states 'they just have to deliver.' If CoreWeave can deliver on its guided targets and potentially over-deliver, it could represent an opportunity for investors.",
-          "when_to_buy": "After CoreWeave demonstrates delivery on their own guidance",
-          "target_price": null,
-          "cautions": "Stock is significantly under pressure and must deliver on guidance to avoid further decline. The creator provides this as a conditional opportunity rather than a strong buy recommendation."
-        }
-      ],
-      "avoids": [],
-      "description": "Provides cloud infrastructure and GPUs for AI and machine learning workloads"
     },
     {
       "ticker": "CRWD",
@@ -3958,6 +4178,68 @@
       ],
       "avoids": [],
       "description": "Manufactures servers, storage systems, and enterprise computing products"
+    },
+    {
+      "ticker": "DLO",
+      "company_name": "Datadog",
+      "buy_count": 0,
+      "avoid_count": 1,
+      "first_mention_date": "25 Nov 2026",
+      "price_at_first_mention": 12.57,
+      "pct_change_since_rec": 0.0,
+      "market": {
+        "ticker": "DLO",
+        "name": "DLocal Limited",
+        "currency": "USD",
+        "sector": "Technology",
+        "industry": "Software - Infrastructure",
+        "market_cap": 3600927232,
+        "current_price": 12.57,
+        "daily_change_pct": 2.2,
+        "month_change_pct": -12.95,
+        "week52_high": 16.15,
+        "week52_high_date": "03 Sep 2026",
+        "week52_low": 10.64,
+        "week52_low_date": "18 May 2026",
+        "rsi": 41.2,
+        "rsi_label": "neutral",
+        "ma50": 13.98,
+        "ma200": 13.42,
+        "ma_signal": "golden_cross",
+        "pe_trailing": 16.986486,
+        "pe_forward": 11.286398,
+        "peg_ratio": 0.62,
+        "revenue_growth": 0.409,
+        "earnings_growth": 0.353,
+        "free_cashflow": 424456736,
+        "profit_margins": 0.14949,
+        "debt_to_equity": 28.981,
+        "beta": 0.873,
+        "short_percent": 0.1526,
+        "dividend_yield": 1.54,
+        "analyst_buy": 9,
+        "analyst_hold": 1,
+        "analyst_sell": 0,
+        "analyst_target": 18.5,
+        "analyst_upside_pct": 47.2,
+        "earnings_date": null,
+        "earnings_days": null
+      },
+      "buys": [],
+      "avoids": [
+        {
+          "channel": "CouchInvestor",
+          "title": "STOCKS TRY TO GO GREEN, BURRY WAS RIGHT? | MARKET CLOSE",
+          "url": "https://www.youtube.com/watch?v=FCR7XzDtY_g",
+          "upload_date": "20261125",
+          "date_label": "25 Nov 2026",
+          "ticker": "DLO",
+          "company_name": "Datadog",
+          "reason": "Stock hasn't moved meaningfully despite market opportunities and company execution. Expensive valuation with limited upside relative to other opportunities in portfolio. Creators considering trimming position to redeploy capital into higher-beta, higher-growth names like Micron.",
+          "risk": "Stock likely to remain range-bound near current levels. Opportunity cost versus higher-growth semiconductor and AI infrastructure plays."
+        }
+      ],
+      "description": "Provides payment processing and local payment methods for merchants"
     },
     {
       "ticker": "DLOC",
@@ -4654,7 +4936,7 @@
     {
       "ticker": "GOOGL",
       "company_name": "Alphabet Inc.",
-      "buy_count": 22,
+      "buy_count": 23,
       "avoid_count": 4,
       "first_mention_date": "28 Oct 2026",
       "price_at_first_mention": 320.58,
@@ -4983,6 +5265,19 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": null
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "STOCKS TRY TO GO GREEN, BURRY WAS RIGHT? | MARKET CLOSE",
+          "url": "https://www.youtube.com/watch?v=FCR7XzDtY_g",
+          "upload_date": "20261125",
+          "date_label": "25 Nov 2026",
+          "ticker": "GOOGL",
+          "company_name": "Alphabet/Google",
+          "reason": "Major capex spender on AI infrastructure with estimated $322.6 billion in capex for 2027 according to JP Morgan. Company has visibility into AI development roadmap and market opportunities. Stock pulled back significantly from highs.",
+          "when_to_buy": "Recent pullback creates entry opportunity",
+          "target_price": null,
+          "cautions": "Heavy capex spending limiting near-term free cash flow. Uncertainty around AI monetization and ROI on infrastructure spending."
         }
       ],
       "avoids": [
@@ -5690,7 +5985,7 @@
         "ma_signal": "death_cross",
         "pe_trailing": 16.184048,
         "pe_forward": 6.230301,
-        "peg_ratio": 1.57,
+        "peg_ratio": 1.59,
         "revenue_growth": 0.035,
         "earnings_growth": 0.355,
         "free_cashflow": 7100375040,
@@ -5788,70 +6083,6 @@
       ],
       "avoids": [],
       "description": "Makes inspection and metrology equipment for semiconductor manufacturing"
-    },
-    {
-      "ticker": "KSPI",
-      "company_name": "Kaspi",
-      "buy_count": 1,
-      "avoid_count": 0,
-      "first_mention_date": "26 Oct 2026",
-      "price_at_first_mention": 90.75,
-      "pct_change_since_rec": -2.0,
-      "market": {
-        "ticker": "KSPI",
-        "name": "Joint Stock Company Kaspi.kz - ",
-        "currency": "USD",
-        "sector": "Technology",
-        "industry": "Software - Infrastructure",
-        "market_cap": 16904824832,
-        "current_price": 88.96,
-        "daily_change_pct": 2.14,
-        "month_change_pct": -1.31,
-        "week52_high": 109.94,
-        "week52_high_date": "26 Aug 2026",
-        "week52_low": 68.59,
-        "week52_low_date": "13 Mar 2026",
-        "rsi": 47.6,
-        "rsi_label": "neutral",
-        "ma50": 92.28,
-        "ma200": 85.19,
-        "ma_signal": "golden_cross",
-        "pe_trailing": 7.9075556,
-        "pe_forward": 0.013075738,
-        "peg_ratio": 0.32,
-        "revenue_growth": -0.031,
-        "earnings_growth": 0.001,
-        "free_cashflow": -356926488576,
-        "profit_margins": 0.24327,
-        "debt_to_equity": 20.265,
-        "beta": 0.23,
-        "short_percent": 0.0082,
-        "dividend_yield": 6.45,
-        "analyst_buy": 4,
-        "analyst_hold": 3,
-        "analyst_sell": 0,
-        "analyst_target": 103.42,
-        "analyst_upside_pct": 16.3,
-        "earnings_date": null,
-        "earnings_days": null
-      },
-      "buys": [
-        {
-          "channel": "FinTek",
-          "title": "Best High-Dividend Fintech Stock to BUY NOW",
-          "url": "https://www.youtube.com/watch?v=AWXf_owoZLg",
-          "upload_date": "20261026",
-          "date_label": "26 Oct 2026",
-          "ticker": "KSPI",
-          "company_name": "Kaspi",
-          "reason": "Kaspi is a Kazakhstan-based fintech stock offering an 8.16% dividend yield. The company has a P/E ratio of 7.39, which is exceptionally low compared to US-based fintech stocks. Additionally, the company is growing its ad and delivery revenue at 49% year-over-year, demonstrating strong business growth. The stock price has been relatively stable, making it suitable for long-term holding despite recent 15% drawdowns from the creator's entry point.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": "The stock has experienced a 15% decline since the creator's initial purchase, indicating volatility or market headwinds. As a Kazakhstan-based company, it may carry geopolitical and emerging market risks not explicitly detailed in the transcript."
-        }
-      ],
-      "avoids": [],
-      "description": "Operates payments platform, marketplace, and fintech services in Central Asia"
     },
     {
       "ticker": "LITE",
@@ -6149,10 +6380,10 @@
       "ticker": "MELI",
       "company_name": "Mercado Libre",
       "buy_count": 9,
-      "avoid_count": 1,
-      "first_mention_date": "26 Oct 2026",
-      "price_at_first_mention": 1642.37,
-      "pct_change_since_rec": -10.7,
+      "avoid_count": 0,
+      "first_mention_date": "29 Oct 2026",
+      "price_at_first_mention": 1624.53,
+      "pct_change_since_rec": -9.7,
       "market": {
         "ticker": "MELI",
         "name": "MercadoLibre, Inc.",
@@ -6310,25 +6541,13 @@
           "cautions": "Brazilian real devaluation creates short-term currency headwinds as Brazil represents 50% of revenue and company reports in USD. Currency headwinds have historically caused short-term growth deceleration but have not permanently impacted the business. Stock has been down significantly despite strong fundamentals."
         }
       ],
-      "avoids": [
-        {
-          "channel": "CouchInvestor",
-          "title": "I'll Buy or Sell SoFi After Earnings. Here's What Decides It",
-          "url": "https://www.youtube.com/watch?v=B7qSvzcSMNc",
-          "upload_date": "20261026",
-          "date_label": "26 Oct 2026",
-          "ticker": "MELI",
-          "company_name": "Mercado Libre",
-          "reason": "Stock declined 14.3% pre-market due to South American political risk following election results. Similar to Nu, Mercado Libre operates in an environment where government sentiment can shift dramatically from pro-business to anti-business.",
-          "risk": "Political and regulatory risk in South America; the creator acknowledges that 'some of the time the government will be pro-business. Some of the time they will be anti. Some of the times, or maybe most of the time, they might even be corrupt.'"
-        }
-      ],
+      "avoids": [],
       "description": "Operates e-commerce marketplace and fintech platform"
     },
     {
       "ticker": "META",
       "company_name": "Meta Platforms Inc.",
-      "buy_count": 18,
+      "buy_count": 19,
       "avoid_count": 3,
       "first_mention_date": "28 Oct 2026",
       "price_at_first_mention": 620.19,
@@ -6605,6 +6824,19 @@
           "when_to_buy": "During current market sell-off; creator is aggressively buying",
           "target_price": null,
           "cautions": null
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "STOCKS TRY TO GO GREEN, BURRY WAS RIGHT? | MARKET CLOSE",
+          "url": "https://www.youtube.com/watch?v=FCR7XzDtY_g",
+          "upload_date": "20261125",
+          "date_label": "25 Nov 2026",
+          "ticker": "META",
+          "company_name": "Meta Platforms",
+          "reason": "Stock down significantly from highs, creating better entry opportunity. Company continuing AI infrastructure investment with Ray-Ban smart glasses and other AI initiatives expanding. Despite market skepticism, fundamentals improving with AI monetization opportunities emerging.",
+          "when_to_buy": "Current levels after recent pullback",
+          "target_price": null,
+          "cautions": "Paused buyback programs due to lack of free cash flow during heavy AI capex phase. Uncertainty around AI monetization timeline."
         }
       ],
       "avoids": [
@@ -6996,7 +7228,7 @@
     {
       "ticker": "MSFT",
       "company_name": "Microsoft Corporation",
-      "buy_count": 9,
+      "buy_count": 10,
       "avoid_count": 2,
       "first_mention_date": "28 Oct 2026",
       "price_at_first_mention": 531.33,
@@ -7156,6 +7388,19 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": "The creator did not explicitly state a personal position in Microsoft, so this appears to be a general observation about valuation attractiveness rather than a specific recommendation."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "STOCKS TRY TO GO GREEN, BURRY WAS RIGHT? | MARKET CLOSE",
+          "url": "https://www.youtube.com/watch?v=FCR7XzDtY_g",
+          "upload_date": "20261125",
+          "date_label": "25 Nov 2026",
+          "ticker": "MSFT",
+          "company_name": "Microsoft Corporation",
+          "reason": "Partnership with OpenAI provides deep visibility into AI development roadmap and spending requirements. Company investing heavily in infrastructure but has strong cash generation to support capex. Major cloud infrastructure provider benefiting from AI demand.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": "Heavy AI capex requirements limiting near-term cash returns. Execution risk on AI monetization through cloud services."
         }
       ],
       "avoids": [
@@ -7264,7 +7509,7 @@
     {
       "ticker": "MU",
       "company_name": "Micron Technology Inc.",
-      "buy_count": 16,
+      "buy_count": 17,
       "avoid_count": 1,
       "first_mention_date": "28 Oct 2026",
       "price_at_first_mention": 928.76,
@@ -7515,6 +7760,19 @@
           "when_to_buy": "Same DCA zones as community portfolio: $517-$575 and lower limit orders at $550, $525",
           "target_price": "Same as above: potential return to $1,250+ levels",
           "cautions": "Same risks as main thesis"
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "STOCKS TRY TO GO GREEN, BURRY WAS RIGHT? | MARKET CLOSE",
+          "url": "https://www.youtube.com/watch?v=FCR7XzDtY_g",
+          "upload_date": "20261125",
+          "date_label": "25 Nov 2026",
+          "ticker": "MU",
+          "company_name": "Micron Technology",
+          "reason": "Memory chip demand is structurally different than past cycles due to custom HBM requirements. Companies must work directly with tech giants on custom architectures refreshed every 6 months, creating recurring orders rather than commodity gluts. Micron has no debt versus high debt in previous cycles, strong cash flow generation, and benefits from U.S. hawkish sentiment toward Chinese memory competitors. Stock crashed to under $600 on the day with strong upside potential.",
+          "when_to_buy": "Stock under $600 per share considered attractive entry point on the day; could potentially return to $1000 within months",
+          "target_price": "$1000 potential over next couple months",
+          "cautions": "Memory sector has had brutal history of margin compression and cyclicality. Market skepticism about memory pricing and profitability persists despite different structural setup this cycle."
         }
       ],
       "avoids": [
@@ -7535,11 +7793,11 @@
     {
       "ticker": "NBIS",
       "company_name": "Nebius",
-      "buy_count": 4,
+      "buy_count": 3,
       "avoid_count": 1,
-      "first_mention_date": "26 Oct 2026",
-      "price_at_first_mention": 160.25,
-      "pct_change_since_rec": -47.0,
+      "first_mention_date": "28 Oct 2026",
+      "price_at_first_mention": 170.47,
+      "pct_change_since_rec": -50.1,
       "market": {
         "ticker": "NBIS",
         "name": "Nebius Group N.V.",
@@ -7579,19 +7837,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "CouchInvestor",
-          "title": "Why Nebius Sells AI Words by the Million",
-          "url": "https://www.youtube.com/watch?v=h1hXsBzAdaQ",
-          "upload_date": "20261026",
-          "date_label": "26 Oct 2026",
-          "ticker": "NBIS",
-          "company_name": "Nebius",
-          "reason": "Nebius operates a token factory model generating a $3 billion run rate by monetizing AI inference through two revenue streams: renting GPU capacity (H100s at $450/hour) and selling tokens (15 cents per million tokens in, 60 cents per million tokens out). The AI cloud business achieves 50% adjusted EBITDA margins with payback periods of approximately 1 year and 10 months on deals. The investment thesis centers on the superior profitability of keeping GPU ovens busy and selling the output (tokens) rather than owning the GPUs themselves, positioning Nebius to capture significant value from the AI inference economy.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": null
-        },
         {
           "channel": "CouchInvestor",
           "title": "Why One GPU Can Earn $38 an Hour Selling AI Tokens",
@@ -7831,7 +8076,7 @@
     {
       "ticker": "NEBS",
       "company_name": "Nebius Global Inc.",
-      "buy_count": 5,
+      "buy_count": 6,
       "avoid_count": 0,
       "first_mention_date": "07 Nov 2026",
       "price_at_first_mention": null,
@@ -7902,6 +8147,19 @@
           "when_to_buy": "Creator bought last week. The timeframe for continued buying depends on stabilization of these highly volatile names.",
           "target_price": null,
           "cautions": "These NeoCloud stocks are extremely volatile and have experienced severe drawdowns from recent peaks. Profit-taking is occurring as buyers from last week's rally are selling into strength. The creator warns that these names may still decline further before sustained recovery."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "STOCKS TRY TO GO GREEN, BURRY WAS RIGHT? | MARKET CLOSE",
+          "url": "https://www.youtube.com/watch?v=FCR7XzDtY_g",
+          "upload_date": "20261125",
+          "date_label": "25 Nov 2026",
+          "ticker": "NEBS",
+          "company_name": "Nebius",
+          "reason": "High-growth AI infrastructure provider benefiting from Europe's focus on sovereign AI capabilities. Despite permitting delays, company continuing to build cloud infrastructure at accelerating pace. Revenue growing rapidly and capex spending not constrained by lack of capital but by company choice.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": "Recent permitting delays pushed back buildout timelines. Smaller player facing execution risk. European regulatory uncertainty."
         }
       ],
       "avoids": [],
@@ -8438,12 +8696,12 @@
     },
     {
       "ticker": "NU",
-      "company_name": "Nu Holdings",
+      "company_name": "Nu Holdings (Nubank/New Bank)",
       "buy_count": 1,
-      "avoid_count": 1,
-      "first_mention_date": "26 Oct 2026",
-      "price_at_first_mention": 12.32,
-      "pct_change_since_rec": 0.3,
+      "avoid_count": 0,
+      "first_mention_date": "13 Nov 2026",
+      "price_at_first_mention": 13.22,
+      "pct_change_since_rec": -6.5,
       "market": {
         "ticker": "NU",
         "name": "Nu Holdings Ltd.",
@@ -8497,19 +8755,7 @@
           "cautions": "Non-performing loans ticking up to 3-year highs due to macro headwinds in Latin America, though still well-covered. Operates in volatile emerging markets. Carries similar thesis and risks as MercadoLibre, so position is limited to avoid over-concentration. Short-term volatility expected but long-term thesis intact."
         }
       ],
-      "avoids": [
-        {
-          "channel": "CouchInvestor",
-          "title": "I'll Buy or Sell SoFi After Earnings. Here's What Decides It",
-          "url": "https://www.youtube.com/watch?v=B7qSvzcSMNc",
-          "upload_date": "20261026",
-          "date_label": "26 Oct 2026",
-          "ticker": "NU",
-          "company_name": "Nu Holdings",
-          "reason": "Stock has declined 22.3% pre-market due to political risk in South America following election results. The creator notes that while Nu and similar companies have 'continued to execute time and time again,' investing in South American fintech companies carries significant political and regulatory risk, as governments can shift from pro-business to anti-business policies.",
-          "risk": "Political and regulatory risk in South America; government policy volatility can dramatically impact valuations. Creator advises against jumping in immediately and recommends letting the 'huge overreaction cool down a little bit.'"
-        }
-      ],
+      "avoids": [],
       "description": "Provides digital banking and fintech services"
     },
     {
@@ -8579,11 +8825,11 @@
     {
       "ticker": "NVDA",
       "company_name": "Nvidia Corporation",
-      "buy_count": 46,
+      "buy_count": 45,
       "avoid_count": 6,
-      "first_mention_date": "26 Oct 2026",
-      "price_at_first_mention": 210.96,
-      "pct_change_since_rec": -29.2,
+      "first_mention_date": "27 Oct 2026",
+      "price_at_first_mention": 217.94,
+      "pct_change_since_rec": -31.5,
       "market": {
         "ticker": "NVDA",
         "name": "NVIDIA Corporation",
@@ -8623,32 +8869,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "We Think Wall Street Is Getting the AI Stock Selloff Wrong",
-          "url": "https://www.youtube.com/watch?v=WCBrbbiIGKA",
-          "upload_date": "20261026",
-          "date_label": "26 Oct 2026",
-          "ticker": "NVDA",
-          "company_name": "Nvidia Corporation",
-          "reason": "Nvidia is positioned as one of the best players to reduce financing fear in the AI ecosystem through multiple levers. First, the DGX pod (factory-integrated modular AI infrastructure) shortens deployment from 6 months to as little as 14 days, reducing the period where invested capital doesn't earn revenue and lowering lender risk. Second, Nvidia created a financing platform with major capital partners (Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, KKR) targeted to mobilize over $500 billion in third-party capital, reducing borrowing costs for AI infrastructure developers. Third, Nvidia provides revenue commitments and backstops for selected capacity projects. The creator believes these initiatives are meaningful for reducing overall ecosystem risk and improving the success rate of AI infrastructure buildout. Nvidia is also seeing sustained demand upstream in the supply chain with companies like Lambda Research reporting continued demand for chips and equipment.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": "The DGX pod deployment benefits are not yet proven in practice\u2014the creator states 'this is just a thought, it's not something that we can actually prove that is happening right now.' The financing platform is pledged capital that may not be fully deployed, and Nvidia is not making loans itself but facilitating third-party capital. Success depends on whether the underlying AI demand materializes and whether borrowers can actually generate returns."
-        },
-        {
-          "channel": "CouchInvestor",
-          "title": "I'll Buy or Sell SoFi After Earnings. Here's What Decides It",
-          "url": "https://www.youtube.com/watch?v=B7qSvzcSMNc",
-          "upload_date": "20261026",
-          "date_label": "26 Oct 2026",
-          "ticker": "NVDA",
-          "company_name": "Nvidia Corporation",
-          "reason": "Described as a 'world-class company, world-class management that continues to execute correctly' in the context of data center and AI infrastructure. The creator uses Nvidia as an example of a good company that will succeed despite competitive pressures and fear-mongering from other market participants.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": "No specific cautions mentioned for Nvidia in this video, though the creator discusses pressures in the AI infrastructure space."
-        },
         {
           "channel": "CouchInvestor",
           "title": "One Gigawatt Costs $50 Billion: How an AI Token Factory Like Nebius Pays It Back",
@@ -9221,6 +9441,19 @@
           "when_to_buy": "Current prices represent an opportunity for long-term investors, though creator acknowledges further downside is possible",
           "target_price": null,
           "cautions": "Stock has declined approximately 40% from 52-week highs. Market sentiment is extremely negative and could push prices lower before reversal. Recent bounce lasted only one day, showing volatility."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "STOCKS TRY TO GO GREEN, BURRY WAS RIGHT? | MARKET CLOSE",
+          "url": "https://www.youtube.com/watch?v=FCR7XzDtY_g",
+          "upload_date": "20261125",
+          "date_label": "25 Nov 2026",
+          "ticker": "NVDA",
+          "company_name": "Nvidia Corporation",
+          "reason": "Despite recent 50% drawdowns, Nvidia has historically recovered from similar volatility. The company continues to dominate semiconductor supply for AI infrastructure. Insider purchases and potential accelerated buybacks at current prices provide support. The AI capex cycle is expected to continue with JP Morgan projecting 1.4-1.45 trillion in AI spending for 2027, requiring continued chip purchases.",
+          "when_to_buy": "Current levels under $150 per share were considered attractive; stock down 5% on the day at $150",
+          "target_price": null,
+          "cautions": "Stock has experienced 7 consecutive weeks of red, worst since 2008. High volatility and concentration risk in broader indices due to market weighting."
         }
       ],
       "avoids": [
@@ -9361,7 +9594,7 @@
     {
       "ticker": "ORCL",
       "company_name": "Oracle Corporation",
-      "buy_count": 7,
+      "buy_count": 8,
       "avoid_count": 0,
       "first_mention_date": "27 Oct 2026",
       "price_at_first_mention": 130.29,
@@ -9387,7 +9620,7 @@
         "ma_signal": "death_cross",
         "pe_trailing": 16.282131,
         "pe_forward": 9.393415,
-        "peg_ratio": 2.52,
+        "peg_ratio": 2.83,
         "revenue_growth": 0.296,
         "earnings_growth": 0.545,
         "free_cashflow": -45853626368,
@@ -9495,6 +9728,19 @@
           "when_to_buy": "Current depressed prices after nearly 60% decline from highs",
           "target_price": null,
           "cautions": "Enterprise software sector facing significant repricing. Oracle still has Oracle earnings coming in next weeks which will be important data point."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "STOCKS TRY TO GO GREEN, BURRY WAS RIGHT? | MARKET CLOSE",
+          "url": "https://www.youtube.com/watch?v=FCR7XzDtY_g",
+          "upload_date": "20261125",
+          "date_label": "25 Nov 2026",
+          "ticker": "ORCL",
+          "company_name": "Oracle Corporation",
+          "reason": "Company stated it will be cash flow positive in second half of FY2028 and project $30 billion in free cash flow in FY2029. Despite capex requirements for AI infrastructure, company has secured funding for all OpenAI-related projects. Operating in seller's market for GPU compute allows pricing power and ability to renegotiate contracts. Strong visibility into AI spending through OpenAI partnership.",
+          "when_to_buy": "Stock fell below $100 per share during selloff",
+          "target_price": null,
+          "cautions": "Credit default swaps rising alongside CoreWeave, suggesting bond market concern about debt levels. Capex spending on data centers is substantial and execution risk remains."
         }
       ],
       "avoids": [],
@@ -9602,6 +9848,68 @@
         }
       ],
       "description": "Data integration and analysis software for defense intelligence"
+    },
+    {
+      "ticker": "PALO",
+      "company_name": "Palo Alto Networks",
+      "buy_count": 0,
+      "avoid_count": 1,
+      "first_mention_date": "25 Nov 2026",
+      "price_at_first_mention": 10.04,
+      "pct_change_since_rec": 0.0,
+      "market": {
+        "ticker": "PALO",
+        "name": "Paloma Acquisition Corp I",
+        "currency": "USD",
+        "sector": "Financial Services",
+        "industry": "Shell Companies",
+        "market_cap": 211758656,
+        "current_price": 10.04,
+        "daily_change_pct": 0.2,
+        "month_change_pct": 0.5,
+        "week52_high": 10.08,
+        "week52_high_date": "16 Sep 2026",
+        "week52_low": 9.84,
+        "week52_low_date": "28 Apr 2026",
+        "rsi": 71.6,
+        "rsi_label": "overbought",
+        "ma50": null,
+        "ma200": null,
+        "ma_signal": null,
+        "pe_trailing": null,
+        "pe_forward": null,
+        "peg_ratio": null,
+        "revenue_growth": null,
+        "earnings_growth": null,
+        "free_cashflow": null,
+        "profit_margins": 0.0,
+        "debt_to_equity": null,
+        "beta": null,
+        "short_percent": null,
+        "dividend_yield": 0.0,
+        "analyst_buy": null,
+        "analyst_hold": null,
+        "analyst_sell": null,
+        "analyst_target": null,
+        "analyst_upside_pct": null,
+        "earnings_date": null,
+        "earnings_days": null
+      },
+      "buys": [],
+      "avoids": [
+        {
+          "channel": "CouchInvestor",
+          "title": "STOCKS TRY TO GO GREEN, BURRY WAS RIGHT? | MARKET CLOSE",
+          "url": "https://www.youtube.com/watch?v=FCR7XzDtY_g",
+          "upload_date": "20261125",
+          "date_label": "25 Nov 2026",
+          "ticker": "PALO",
+          "company_name": "Palo Alto Networks",
+          "reason": "Company facing lawsuit from former regional VP alleging accounting fraud to inflate revenue and earnings. Allegations include wrongful termination connected to raising accounting concerns. While company denies allegations, the investigation and legal uncertainty creates risk.",
+          "risk": "Stock down 5.3% to $337 on lawsuit news. Forward PE of 234x and trailing PE of 712x valuations are historically extreme and leave no room for disappointment. If fraud allegations have merit, stock could face severe write-downs."
+        }
+      ],
+      "description": null
     },
     {
       "ticker": "PENG",
@@ -9885,7 +10193,7 @@
     {
       "ticker": "PLTR",
       "company_name": "Palantir Technologies",
-      "buy_count": 4,
+      "buy_count": 5,
       "avoid_count": 4,
       "first_mention_date": "02 Nov 2026",
       "price_at_first_mention": 175.05,
@@ -9980,6 +10288,19 @@
           "when_to_buy": "Only suitable for investors with extremely high growth expectations and long time horizons",
           "target_price": null,
           "cautions": "Trading at extreme valuation multiples (107.7x trailing PE, 162.9x forward PE). Stock only becomes cheaper if valuation multiples compress or growth accelerates substantially. High risk/high reward profile."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "STOCKS TRY TO GO GREEN, BURRY WAS RIGHT? | MARKET CLOSE",
+          "url": "https://www.youtube.com/watch?v=FCR7XzDtY_g",
+          "upload_date": "20261125",
+          "date_label": "25 Nov 2026",
+          "ticker": "PLTR",
+          "company_name": "Palantir Technologies",
+          "reason": "Stock pulled back significantly from recent highs, creating better entry points. Peter Thiel purchased $122.5 million worth of shares at $143 on Friday, signaling insider confidence. Company continues expanding AI capabilities and commercial applications with strong growth potential.",
+          "when_to_buy": "Peter Thiel bought at $143 on Friday; stock back above $163 by end of day",
+          "target_price": null,
+          "cautions": "Past valuations have been stretched; stock highly volatile with beta risk."
         }
       ],
       "avoids": [
@@ -10148,7 +10469,7 @@
         "ma_signal": "golden_cross",
         "pe_trailing": 13.280315,
         "pe_forward": 13.845359,
-        "peg_ratio": 1.18,
+        "peg_ratio": 1.3,
         "revenue_growth": -0.084,
         "earnings_growth": null,
         "free_cashflow": 9107125248,
@@ -11950,12 +12271,12 @@
     },
     {
       "ticker": "SOFI",
-      "company_name": "SoFi Technologies Inc.",
-      "buy_count": 10,
+      "company_name": "SoFi (Social Finance, Inc.)",
+      "buy_count": 9,
       "avoid_count": 1,
-      "first_mention_date": "26 Oct 2026",
-      "price_at_first_mention": 14.5,
-      "pct_change_since_rec": -9.9,
+      "first_mention_date": "27 Oct 2026",
+      "price_at_first_mention": 16.4,
+      "pct_change_since_rec": -20.3,
       "market": {
         "ticker": "SOFI",
         "name": "SoFi Technologies, Inc.",
@@ -11995,19 +12316,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "CouchInvestor",
-          "title": "I'll Buy or Sell SoFi After Earnings. Here's What Decides It",
-          "url": "https://www.youtube.com/watch?v=B7qSvzcSMNc",
-          "upload_date": "20261026",
-          "date_label": "26 Oct 2026",
-          "ticker": "SOFI",
-          "company_name": "SoFi Technologies Inc.",
-          "reason": "The creator expects SoFi to report strong Q3 earnings, continuing a pattern of beating analyst estimates across revenue, EPS, and EBITDA metrics. The company is growing at 35% adjusted revenue growth this year with 25.3% expected next year, yet the stock has declined 50% year-to-date, representing an extreme overreaction driven by macro sentiment. Based on DCF analysis with conservative assumptions (30% compounded growth for 2.5 years), the stock has 51.3% upside with a base case valuation of $22.80. Management has also been buying shares at higher prices, signaling confidence. The creator states the stock is 'extremely undervalued' and plans to buy more shares if management provides strong guidance assurances and an excellent earnings report.",
-          "when_to_buy": "After earnings report next week if management provides strong forward guidance and assurances that the business can still meet targets despite the macro environment. Creator also advises letting 'huge sentiment and overreaction cool down a little bit' before deciding.",
-          "target_price": "Base case: $22.80 per share; Bull case: $28 per share; Bear case: $10 per share (assigned 20% probability)",
-          "cautions": "Stock has experienced a 55% drawdown from peak and is currently trading under $15. The key risk is if management cannot deliver on mid-term growth targets or if the high interest rate environment significantly impacts business fundamentals worse than expected. Macro sentiment is extremely negative. Creator notes the valuation was excessive at $30 per share earlier in the year."
-        },
         {
           "channel": "CouchInvestor",
           "title": "I Said I\u2019d Decide After Earnings. Here\u2019s What I\u2019m Doing With SoFi",
@@ -12295,7 +12603,7 @@
     {
       "ticker": "SPACEX",
       "company_name": "SpaceX (Private - Valuation Discussion)",
-      "buy_count": 3,
+      "buy_count": 4,
       "avoid_count": 1,
       "first_mention_date": "28 Oct 2026",
       "price_at_first_mention": null,
@@ -12341,6 +12649,19 @@
           "when_to_buy": null,
           "target_price": null,
           "cautions": "SpaceX is a private company and not directly investable. Investors must track its impact through Nvidia's revenue guidance and hyperscaler segment growth."
+        },
+        {
+          "channel": "CouchInvestor",
+          "title": "STOCKS TRY TO GO GREEN, BURRY WAS RIGHT? | MARKET CLOSE",
+          "url": "https://www.youtube.com/watch?v=FCR7XzDtY_g",
+          "upload_date": "20261125",
+          "date_label": "25 Nov 2026",
+          "ticker": "SPACEX",
+          "company_name": "SpaceX",
+          "reason": "Stock pulled back below IPO pricing under $114 per share in morning before recovering. Company building critical infrastructure for future with Starlink satellite constellation. FCC authorization for 1 million satellites provides unlimited growth optionality for compute infrastructure in space. Aggressive capex spending on infrastructure creates long-term competitive moat.",
+          "when_to_buy": "Stock under $114 in morning, recovered to above $125 by close",
+          "target_price": null,
+          "cautions": "Very high capex requirements create financing risk. Early stage commercial revenue. Geopolitical risk."
         }
       ],
       "avoids": [
@@ -12578,7 +12899,7 @@
     {
       "ticker": "TSLA",
       "company_name": "Tesla Inc.",
-      "buy_count": 0,
+      "buy_count": 1,
       "avoid_count": 2,
       "first_mention_date": "17 Nov 2026",
       "price_at_first_mention": 380.11,
@@ -12621,7 +12942,21 @@
         "earnings_date": null,
         "earnings_days": null
       },
-      "buys": [],
+      "buys": [
+        {
+          "channel": "CouchInvestor",
+          "title": "STOCKS TRY TO GO GREEN, BURRY WAS RIGHT? | MARKET CLOSE",
+          "url": "https://www.youtube.com/watch?v=FCR7XzDtY_g",
+          "upload_date": "20261125",
+          "date_label": "25 Nov 2026",
+          "ticker": "TSLA",
+          "company_name": "Tesla",
+          "reason": "Company building Optimus humanoid robot which could represent massive long-term value creation. Physical AI represents next frontier after generative AI. Potential merger with SpaceX (51% probability) would combine autonomous vehicles, robotics, and space infrastructure.",
+          "when_to_buy": null,
+          "target_price": null,
+          "cautions": "Optimus is early stage and uncertain timeline to meaningful commercial deployment. Optimus development is cash intensive. Merger with SpaceX faces regulatory and execution uncertainty."
+        }
+      ],
       "avoids": [
         {
           "channel": "CouchInvestor",
@@ -12677,7 +13012,7 @@
         "ma_signal": "golden_cross",
         "pe_trailing": 22.18665,
         "pe_forward": 14.639117,
-        "peg_ratio": 0.59,
+        "peg_ratio": 0.68,
         "revenue_growth": 0.509,
         "earnings_growth": 0.687,
         "free_cashflow": 1042594725888,
@@ -13466,7 +13801,7 @@
         "ma_signal": "death_cross",
         "pe_trailing": 56.565216,
         "pe_forward": 16.38546,
-        "peg_ratio": 17.74,
+        "peg_ratio": 18.44,
         "revenue_growth": 0.221,
         "earnings_growth": -0.622,
         "free_cashflow": 135212496,

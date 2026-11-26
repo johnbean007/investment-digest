@@ -40537,6 +40537,20 @@
         "COHG": 0.03,
         "NVDA": 149.3
       }
+    },
+    "3mPerjDN9oI": {
+      "channel": "CouchInvestor",
+      "title": "McDonald's Makes $10 Billion a Year as a Landlord",
+      "upload_date": "20261126",
+      "url": "https://www.youtube.com/watch?v=3mPerjDN9oI",
+      "processed_at": "2026-11-26T15:39:49.077481",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [],
+        "tickers_mentioned": []
+      },
+      "price_at_recommendation": {}
     }
   },
   "channel_ids": {

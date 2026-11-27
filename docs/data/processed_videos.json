@@ -40661,6 +40661,214 @@
         "tickers_mentioned": []
       },
       "price_at_recommendation": {}
+    },
+    "ehv5PkZLOaA": {
+      "channel": "CouchInvestor",
+      "title": "If You Put $10,000 in These 10 Stocks in January, Here's What You'd Have",
+      "upload_date": "20261127",
+      "url": "https://www.youtube.com/watch?v=ehv5PkZLOaA",
+      "processed_at": "2026-11-27T19:44:43.119320",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "AMZN",
+            "company_name": "Amazon",
+            "reason": "Revenue increased 15% over the last 12 months with operating cash flow up 29%. Despite heavy capex spending (up 79%), the company maintains strong profitability with operating cash flow of $168.3 billion. Valuation is attractive compared to historical levels. Amazon also owns a significant stake in Anthropic, which is now public and could provide upside in Q4 earnings. The creator suggests this is a name where investors can sleep well at night owning it going into 2027.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Company is currently free cash flow negative due to heavy AI capex investments, though operating cash flow remains strong and growing."
+          },
+          {
+            "ticker": "GOOGL",
+            "company_name": "Alphabet",
+            "reason": "Revenue increased 22% year-over-year with operating cash flow up 19% despite capex more than doubling. Valuation is described as very favorable and undervalued. The creator explicitly states that going into 2027, most investors would sleep very well at night owning Alphabet. The company demonstrates strong underlying business fundamentals even while investing heavily in AI infrastructure.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Company is currently free cash flow negative due to heavy capex spending on AI infrastructure, though this is expected to improve as capex growth moderates."
+          },
+          {
+            "ticker": "META",
+            "company_name": "Meta Platforms",
+            "reason": "Revenue up 28% year-over-year with operating cash flow up 24%. Despite heavy capex spending (up 66%), the company shows strong growth metrics. Valuation is described as quite undervalued compared to historical levels. The company is part of the AI ecosystem buildout with significant capital investments.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Company is currently free cash flow negative and expected to remain so through fiscal 2028 due to aggressive capex spending on AI and metaverse infrastructure."
+          },
+          {
+            "ticker": "ORCL",
+            "company_name": "Oracle",
+            "reason": "Revenue up 22% year-over-year with operating cash flow surging 118% year-over-year while capex is up 176%. Valuation looks extremely cheap, trading at low multiples. Management has guided to returning to positive free cash flow in the second half of fiscal 2028 and generating $30 billion or more of free cash flow in fiscal 2029. If this materializes, even the debt concerns will dissipate over time.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Company currently has debt issues and negative free cash flow, though management's guidance suggests this will reverse soon. Stock has not yet reported quarterly earnings for the current season."
+          },
+          {
+            "ticker": "NVDA",
+            "company_name": "Nvidia Corporation",
+            "reason": "Revenue up 93% year-over-year with operating cash flow up 91% and free cash flow up 92%. Nvidia is described as a very profitable and very cheap company on paper. Unlike competitors, Nvidia has positive and growing free cash flow while others are negative, making it a clear beneficiary of the AI infrastructure buildout without the capex drag.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Stock experienced a hit due to Jensen Huang situation, but valuation remains attractive even after decline."
+          },
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices",
+            "reason": "Revenue up 42% year-over-year with operating cash flow up 66% and free cash flow up 55%. While not as cheap as Nvidia, AMD is less expensive than before and offers a good valuation opportunity. With the significant stock decline, forward PE is now much more attractive than the high trailing PE.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Not as cheap or undervalued as Nvidia, though still a decent opportunity. Last 12 months earnings are very high, but forward earnings are much lower."
+          },
+          {
+            "ticker": "MU",
+            "company_name": "Micron Technology",
+            "reason": "Micron shows the most dramatic fundamentals with revenue up 256% year-over-year and operating cash flow up 411% year-over-year. Despite 94% capex growth, free cash flow has exploded. Trading at a trailing PE of 8x and forward PE of 3.3x versus a 10-year median of 15.7x provides extraordinary margin of safety. Even if the stock only returns to recent performance levels, it has significant upside potential. The creator describes the opportunity as very good with an exceptional margin of safety.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Creator describes Micron as either the most disconnected name on the street or one that bulls will get burned on over the next couple of years. This extreme valuation disconnect requires careful monitoring of fundamentals."
+          },
+          {
+            "ticker": "PLTR",
+            "company_name": "Palantir Technologies",
+            "reason": "Revenue up 87% year-over-year with operating cash flow up 125% and free cash flow up 126%. This is positioned as an AI winner with a super profitable business model featuring positive free cash flow, which distinguishes it from other expensive AI names. The company offers a way to play the AI winner story without paying for negative free cash flow. While forward PE is expensive, it's less expensive than before.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Forward PE valuation is still expensive, so this is for investors willing to pay a premium for growth and profitability."
+          },
+          {
+            "ticker": "SHOP",
+            "company_name": "Shopify",
+            "reason": "Revenue growth 32% year-over-year with operating cash flow up 39% and free cash flow up 40%. This is a less expensive name than before while maintaining strong profitability. Investors still pay a premium valuation compared to the 10-year median, but the high-quality business fundamentals justify consideration for growth-oriented portfolios.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Still trading at a premium valuation relative to both 10-year median and mean, so this is for investors comfortable paying for growth."
+          },
+          {
+            "ticker": "NFLX",
+            "company_name": "Netflix",
+            "reason": "Revenue growth 15% year-over-year with operating cash flow up 29% and free cash flow up 27%. Trading at 16.8x trailing PE and 16x forward PE versus a 10-year median of 56.1x, representing significant discount. Netflix is a highly profitable company with improving margins suitable as a defensive AI-unrelated play. This is an option for investors seeking lower-growth but profitable companies going into 2027.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Growth is slowing to low double digits (around 10-11% going forward) compared to historical rates. This is a defensive name, not a growth story."
+          },
+          {
+            "ticker": "UBER",
+            "company_name": "Uber Technologies",
+            "reason": "Revenue growth 14% year-over-year with operating cash flow up 20% and free cash flow up 20%. The business appears stronger by the year despite concerns about autonomous vehicles. Trading at 37.7x trailing PE and 15x forward PE versus 18x 10-year median, representing decent value. This is a profitable, growing name that is under pressure but has solid fundamentals.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Stock is under pressure due to: (1) significant acquisition activity, and (2) concerns about whether autonomous vehicles will destroy or strengthen the business. The UK business change artificially depresses the revenue growth rate figure."
+          },
+          {
+            "ticker": "AXON",
+            "company_name": "Axon Enterprise",
+            "reason": "Revenue growth 34% year-over-year with operating cash flow up 18%. This is positioned as a defensive growth name that benefits from AI without being directly dependent on AI capex spending. The company has a growing ecosystem and should become more profitable in the future while returning value through share buybacks and appreciation. Good for investors seeking growth without direct AI capex exposure.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Trading at over 100x trailing PE and elevated forward PE, so it's expensive on absolute terms. Free cash flow was down 13%, showing some pressure. This is not a cheap name, just less expensive than before."
+          },
+          {
+            "ticker": "SOFI",
+            "company_name": "SoFi Technologies",
+            "reason": "Despite taking a huge hit, revenue still increased 27% year-over-year with operating cash flow up 38% and free cash flow up 39%. Trailing PE of 19.3x, forward PE of 16.3x (fiscal estimates), and 14.7x (street estimates) versus 10-year median of 50x represents significant discount. The business model is sound and management has provided guidance for 2027 that looks impressive. The company benefits from high interest rate environments.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Company has faced political pressure and business model concerns, though fundamentals remain solid. High interest rate environment is favorable, but rates could decline. Stock has declined significantly from 52-week highs."
+          },
+          {
+            "ticker": "HOOD",
+            "company_name": "Robinhood Markets",
+            "reason": "Revenue growth 21% year-over-year (recently slowed to 12% in last quarter) with operating cash flow up 159% and free cash flow up 160%. Company is diversifying business model beyond just trading (savings accounts, retirement accounts, credit cards) to reduce cyclicality. Can profit from both high and low interest rate environments. Trading at more respectable PE multiples after decline from sky-high valuations.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Business is cyclical and sensitive to market conditions. Recent revenue growth has slowed to 12%. In bear markets, trading activity and growth company performance suffer. High interest rates help but could also hurt growth."
+          },
+          {
+            "ticker": "FICO",
+            "company_name": "Fair Isaac Corporation",
+            "reason": "While specific metrics were not detailed in the transcript, FICO was mentioned as being down 62% from 52-week highs and included in a list of potential opportunities. Creator indicates seven out of 16 names analyzed are down more than half, suggesting oversold conditions.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "Stock is down 62% from 52-week highs, indicating significant market pressure."
+          },
+          {
+            "ticker": "TSLA",
+            "company_name": "Tesla",
+            "reason": "Stock is down only 15.5% year-to-date, outperforming the broader market decline among big tech names. This suggests relative resilience compared to other large-cap tech stocks.",
+            "when_to_buy": null,
+            "target_price": null,
+            "cautions": "While less negative than some peers, still down year-to-date. Creator did not provide detailed fundamental analysis or strong endorsement of the stock."
+          }
+        ],
+        "stocks_to_avoid": [
+          {
+            "ticker": "NFLX",
+            "company_name": "Netflix",
+            "reason": "Actually not recommended to avoid but positioned as a defensive, lower-growth option. If seeking pure AI growth exposure, Netflix is not relevant. Growth is slowing to only 10-11% prospectively versus its historical rates.",
+            "risk": null
+          },
+          {
+            "ticker": "ORCL",
+            "company_name": "Oracle",
+            "reason": "While fundamentals are strong, there are debt issues that could concern some investors. Additionally, company has not yet reported quarterly figures and stock is down 46.7% year-to-date. Creator adds caveat to only consider this if setting debt issues aside.",
+            "risk": "Debt issues could impact credit profile if free cash flow guidance is not achieved. Down 46.7% YTD."
+          }
+        ],
+        "key_warnings": [
+          "Market experienced bear market conditions across software, tech, fintech, and internet stocks over the past couple of months, with seven out of 16 analyzed names down more than 50% from 52-week highs. While the index is not officially in bear market, the correction has been severe in these sectors.",
+          "Many of the mega-cap tech companies (Amazon, Alphabet, Meta, Oracle) are currently free cash flow negative due to heavy capex spending on AI infrastructure. This situation is expected to persist through 2028 for most companies. Combined AI capex from tracked companies is projected at $1.4-1.6 trillion for fiscal 2027-2028, raising questions about sustainability and return on investment.",
+          "Valuation multiples across both semiconductor and big tech/internet stocks are at significant discounts to 10-year medians, but creator emphasizes that low PE alone does not make a name an obvious buy. Investors must understand the context, business fundamentals, and reasons for valuation discounts before investing.",
+          "Many of the analyzed fintech and software names are expensive on absolute valuation terms (high forward PE) even though they're less expensive than recent highs. Investors paying premium multiples are betting on continued growth acceleration.",
+          "Free cash flow situation is mixed across the ecosystem. Only Amazon and Microsoft among major AI investors are expected to have positive free cash flow by 2028, while SpaceX is dragging down overall numbers by -$66.2 billion, Meta remains negative, and Oracle is expected to be -$27 billion. This raises questions about the viability of current capex spending levels."
+        ],
+        "tickers_mentioned": [
+          "AMZN",
+          "GOOGL",
+          "META",
+          "ORCL",
+          "NVDA",
+          "AMD",
+          "MU",
+          "MRVL",
+          "INTC",
+          "ASML",
+          "AMAT",
+          "TSM",
+          "KLAC",
+          "LRCX",
+          "QCOM",
+          "AVGO",
+          "AAPL",
+          "MSFT",
+          "TSLA",
+          "NFLX",
+          "PLTR",
+          "SHOP",
+          "UBER",
+          "AXON",
+          "FICO",
+          "HOOD",
+          "SOFI",
+          "RDDT"
+        ]
+      },
+      "price_at_recommendation": {
+        "SOFI": 13.37,
+        "AXON": 363.48,
+        "HOOD": 67.92,
+        "SHOP": 141.78,
+        "MU": 646.95,
+        "FICO": 708.57,
+        "NFLX": 60.93,
+        "META": 628.96,
+        "AMD": 424.54,
+        "PLTR": 172.17,
+        "TSLA": 400.0,
+        "UBER": 66.63,
+        "ORCL": 107.13,
+        "NVDA": 150.49,
+        "AMZN": 254.12,
+        "GOOGL": 274.96
+      }
     }
   },
   "channel_ids": {

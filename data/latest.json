@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T11:20:50.505437",
+  "generated_at": "2026-11-27T12:24:08.879947",
   "video_count": 183,
   "stock_count": 188,
   "stocks": [
@@ -1742,7 +1742,7 @@
         "analyst_buy": 38,
         "analyst_hold": 4,
         "analyst_sell": 1,
-        "analyst_target": 2134.07,
+        "analyst_target": 2134.53,
         "analyst_upside_pct": 63.8,
         "earnings_date": null,
         "earnings_days": null
@@ -8414,7 +8414,7 @@
         "ma200": 79.59,
         "ma_signal": "death_cross",
         "pe_trailing": 17.17052,
-        "pe_forward": 15.7609625,
+        "pe_forward": 15.763513,
         "peg_ratio": 0.66,
         "revenue_growth": 0.118,
         "earnings_growth": 0.475,
@@ -12795,7 +12795,7 @@
         "currency": "USD",
         "sector": "Consumer Defensive",
         "industry": "Discount Stores",
-        "market_cap": 77969956864,
+        "market_cap": 77971251200,
         "current_price": 172.22,
         "daily_change_pct": -2.18,
         "month_change_pct": 16.77,

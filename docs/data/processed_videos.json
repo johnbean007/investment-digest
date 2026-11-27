@@ -40645,6 +40645,22 @@
       "last_reason": "unavailable",
       "terminal": true,
       "skipped": "no transcript"
+    },
+    "q8DYaAYuzxk": {
+      "channel": "CouchInvestor",
+      "title": "Your Bank Probably Doesn't Own Your Mortgage",
+      "upload_date": "20261127",
+      "url": "https://www.youtube.com/watch?v=q8DYaAYuzxk",
+      "processed_at": "2026-11-27T15:34:38.147903",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Mortgage-backed securities market ($9 trillion) poses systemic financial risk. The 2008 financial crisis demonstrated how bad loans bundled into mortgage-backed securities can cause widespread damage across the financial system when they fail. The same securitization mechanism that guarantees mortgages through Fannie Mae, Freddie Mac, and Ginnie Mae can amplify and distribute risk throughout banks, pension funds, and the Federal Reserve."
+        ],
+        "tickers_mentioned": []
+      },
+      "price_at_recommendation": {}
     }
   },
   "channel_ids": {

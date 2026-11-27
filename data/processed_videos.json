@@ -40582,6 +40582,44 @@
       "price_at_recommendation": {
         "AMD": 406.03
       }
+    },
+    "QZxJA1bojBM": {
+      "channel": "CouchInvestor",
+      "title": "Tesla and SpaceX Together Are Worth $3.5 Trillion",
+      "upload_date": "20261127",
+      "url": "https://www.youtube.com/watch?v=QZxJA1bojBM",
+      "processed_at": "2026-11-27T10:14:05.005764",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "Tesla-SpaceX merger would require 50% shareholder approval, creating significant execution risk. Geopolitical complications arise from SpaceX being a US defense contractor while Tesla has substantial operations in China, a huge market for the company. This regulatory and political headwind could prevent deal completion.",
+          "SpaceX AI division has only recently turned profitable despite spending over $16 billion in a single quarter, indicating massive capital intensity and cash burn in the AI/data center business. Combining this with Tesla's operations creates execution risk around profitability and return on invested capital.",
+          "Merger creates corporate structure complexity with unclear strategic direction: unclear whether Tesla is becoming a rocket company or SpaceX is entering automotive, suggesting potential strategic misalignment and distraction from core business focus."
+        ],
+        "tickers_mentioned": [
+          "TSLA"
+        ]
+      },
+      "price_at_recommendation": {}
+    },
+    "rVEc5OQSEPo": {
+      "channel": "CouchInvestor",
+      "title": "57% of Amazon's Profit Isn't From Shopping",
+      "upload_date": "20261127",
+      "url": "https://www.youtube.com/watch?v=rVEc5OQSEPo",
+      "processed_at": "2026-11-27T10:14:13.108209",
+      "analysis": {
+        "buy_recommendations": [],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "AWS faces intense competition from Microsoft and Google in cloud computing and AI data center services. Building AI data centers requires enormous capital expenditures, which could pressure Amazon's profitability despite AWS's strong current earnings contribution of $45.6 billion in operating profit (57% of Amazon's total ~$80 billion)."
+        ],
+        "tickers_mentioned": [
+          "AMZN"
+        ]
+      },
+      "price_at_recommendation": {}
     }
   },
   "channel_ids": {

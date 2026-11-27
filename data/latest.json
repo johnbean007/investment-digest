@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-27T06:23:26.600634",
-  "video_count": 180,
+  "generated_at": "2026-11-27T10:17:25.811243",
+  "video_count": 182,
   "stock_count": 188,
   "stocks": [
     {
@@ -1742,8 +1742,8 @@
         "analyst_buy": 38,
         "analyst_hold": 4,
         "analyst_sell": 1,
-        "analyst_target": 2137.11,
-        "analyst_upside_pct": 64.0,
+        "analyst_target": 2133.6,
+        "analyst_upside_pct": 63.7,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -6010,8 +6010,8 @@
         "analyst_buy": 33,
         "analyst_hold": 2,
         "analyst_sell": 1,
-        "analyst_target": 36.84,
-        "analyst_upside_pct": 39.6,
+        "analyst_target": 36.91,
+        "analyst_upside_pct": 39.9,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -12813,9 +12813,9 @@
         "peg_ratio": 8.61,
         "revenue_growth": 0.071,
         "earnings_growth": 0.755,
-        "free_cashflow": 2464875008,
+        "free_cashflow": 2441750016,
         "profit_margins": 0.04488,
-        "debt_to_equity": 103.713,
+        "debt_to_equity": 104.361,
         "beta": 0.932,
         "short_percent": 0.0367,
         "dividend_yield": 2.69,
@@ -12985,7 +12985,7 @@
         "ma200": 402.23,
         "ma_signal": "golden_cross",
         "pe_trailing": 22.18665,
-        "pe_forward": 14.662347,
+        "pe_forward": 14.62036,
         "peg_ratio": 0.68,
         "revenue_growth": 0.509,
         "earnings_growth": 0.687,

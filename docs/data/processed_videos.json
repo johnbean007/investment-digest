@@ -40634,6 +40634,17 @@
         "tickers_mentioned": []
       },
       "price_at_recommendation": {}
+    },
+    "DTa7liWkowQ": {
+      "channel": "CouchInvestor",
+      "title": "NASDAQ UP 2%, AI STOCKS TRY TO BOUNCE BACK, CAN WE END THE WEEK GREEN? | MARKET OPEN",
+      "upload_date": "20261127",
+      "url": "https://www.youtube.com/watch?v=DTa7liWkowQ",
+      "processed_at": "2026-11-27T14:30:13.363129",
+      "transcript_fails": 1,
+      "last_reason": "unavailable",
+      "terminal": true,
+      "skipped": "no transcript"
     }
   },
   "channel_ids": {

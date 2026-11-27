@@ -40551,6 +40551,37 @@
         "tickers_mentioned": []
       },
       "price_at_recommendation": {}
+    },
+    "CoBWpQcrtFg": {
+      "channel": "Jose Najarro Stocks",
+      "title": "If You Own AMD Stock ... GET READY!!",
+      "upload_date": "20261126",
+      "url": "https://www.youtube.com/watch?v=CoBWpQcrtFg",
+      "processed_at": "2026-11-27T06:19:14.915418",
+      "analysis": {
+        "buy_recommendations": [
+          {
+            "ticker": "AMD",
+            "company_name": "Advanced Micro Devices",
+            "reason": "The creator is very bullish on AMD despite the stock being down 37.5% from its 52-week high. Long-term shareholders are still up roughly 90% year-to-date and 97% over 52 weeks. The investment thesis is built on three main catalysts: (1) CPU shortage expected to continue for a very long time, with increased demand from AI agents requiring more tool calling, while competitors like Intel are lagging in supply chain capabilities allowing AMD to gain market share; (2) AI accelerators with MI455 and Helios racks already shipping with significant ramp-up expected through 2027; (3) Attractive valuation with forward PE ratio of 26 based on growth opportunities. The creator emphasizes that AMD's deals with OpenAI and Meta are highly accredited to earnings per share immediately from first revenue according to management guidance. Supply commitments have grown nearly 4x in three quarters (from $12.2B to $48.8B), indicating strong visibility into demand. The creator also owns AMD and would continue dollar-cost averaging at lower prices.",
+            "when_to_buy": "Attractive price point around $350-$375 range if reached; creator already owns shares and would buy more with cash available at that price",
+            "target_price": null,
+            "cautions": "The stock has significant commitments and backstops ($28 billion in guarantees and leases as of September 2026). The creator acknowledges bears will criticize the warrant dilution to OpenAI and Meta (320 million shares total, 16.3% of fully diluted shares at current prices), but argues this is accretive to earnings and necessary to secure customer demand. Balance sheet concerns exist with $15.8 billion in cash against these commitments, though the creator believes cash flow improvements will resolve this. AMD is already a large position in the creator's portfolio, so allocation matters. The creator notes there could be some impact from new Singapore export license rules but believes it won't be a major issue since most US-headquartered companies with US ultimate parents are exempt."
+          }
+        ],
+        "stocks_to_avoid": [],
+        "key_warnings": [
+          "The short report from Hunter Brook Media and the Bearcave newsletter making allegations about AMD's China exposure, firmware issues, and financial engineering appear to be using bearish market narratives to amplify weak claims. The creator systematically refutes each allegation: (1) China and Singapore revenue comparisons are misleading because AMD recognizes revenue by billing location while Nvidia now reports by headquarters location; when compared on the same basis, AMD's 22% China exposure is comparable to Nvidia's 13.1% in the same fiscal year; (2) Singapore revenue reflects legitimate business practice where OEMs and ODMs centralize invoicing through Singapore entities while products ship elsewhere, similar to Nvidia's historical practices; (3) Firmware allegations lack proof\u2014AMD code in IIET BIOS files could be downloaded publicly and CPUs have different export controls than GPUs; (4) Financial engineering claims about OpenAI and Meta deals are refuted by management's explicit guidance that these are accretive to non-GAAP earnings per share. The creator warns that bear narratives tend to get amplified in bearish market environments, and this appears to be opportunistic shorting during AI fatigue and market weakness.",
+          "Market sentiment is currently ignoring AMD's strong forward guidance (80% revenue growth expected in 2027, server revenue to double in 2027, data center revenue growth of over 80%) due to broader AI wave fears and uncertainty. The creator predicts the next earnings call will show similar or better numbers but the market will still react negatively, suggesting a disconnect between fundamentals and valuation that could persist in the near term."
+        ],
+        "tickers_mentioned": [
+          "AMD",
+          "NVDA"
+        ]
+      },
+      "price_at_recommendation": {
+        "AMD": 406.03
+      }
     }
   },
   "channel_ids": {

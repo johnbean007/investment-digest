@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-26T19:57:00.843036",
-  "video_count": 184,
+  "generated_at": "2026-11-27T06:23:26.600634",
+  "video_count": 180,
   "stock_count": 188,
   "stocks": [
     {
@@ -447,8 +447,8 @@
         "analyst_buy": 32,
         "analyst_hold": 7,
         "analyst_sell": 0,
-        "analyst_target": 556.06,
-        "analyst_upside_pct": 78.7,
+        "analyst_target": 557.37,
+        "analyst_upside_pct": 79.1,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -486,7 +486,7 @@
     {
       "ticker": "AMD",
       "company_name": "Advanced Micro Devices Inc.",
-      "buy_count": 23,
+      "buy_count": 24,
       "avoid_count": 4,
       "first_mention_date": "28 Oct 2026",
       "price_at_first_mention": 560.26,
@@ -828,6 +828,19 @@
           "when_to_buy": "Stock under $400 during the day",
           "target_price": null,
           "cautions": "Faces intense competition from Nvidia. Execution risk on new products. Customer concentration risk."
+        },
+        {
+          "channel": "Jose Najarro Stocks",
+          "title": "If You Own AMD Stock ... GET READY!!",
+          "url": "https://www.youtube.com/watch?v=CoBWpQcrtFg",
+          "upload_date": "20261126",
+          "date_label": "26 Nov 2026",
+          "ticker": "AMD",
+          "company_name": "Advanced Micro Devices",
+          "reason": "The creator is very bullish on AMD despite the stock being down 37.5% from its 52-week high. Long-term shareholders are still up roughly 90% year-to-date and 97% over 52 weeks. The investment thesis is built on three main catalysts: (1) CPU shortage expected to continue for a very long time, with increased demand from AI agents requiring more tool calling, while competitors like Intel are lagging in supply chain capabilities allowing AMD to gain market share; (2) AI accelerators with MI455 and Helios racks already shipping with significant ramp-up expected through 2027; (3) Attractive valuation with forward PE ratio of 26 based on growth opportunities. The creator emphasizes that AMD's deals with OpenAI and Meta are highly accredited to earnings per share immediately from first revenue according to management guidance. Supply commitments have grown nearly 4x in three quarters (from $12.2B to $48.8B), indicating strong visibility into demand. The creator also owns AMD and would continue dollar-cost averaging at lower prices.",
+          "when_to_buy": "Attractive price point around $350-$375 range if reached; creator already owns shares and would buy more with cash available at that price",
+          "target_price": null,
+          "cautions": "The stock has significant commitments and backstops ($28 billion in guarantees and leases as of September 2026). The creator acknowledges bears will criticize the warrant dilution to OpenAI and Meta (320 million shares total, 16.3% of fully diluted shares at current prices), but argues this is accretive to earnings and necessary to secure customer demand. Balance sheet concerns exist with $15.8 billion in cash against these commitments, though the creator believes cash flow improvements will resolve this. AMD is already a large position in the creator's portfolio, so allocation matters. The creator notes there could be some impact from new Singapore export license rules but believes it won't be a major issue since most US-headquartered companies with US ultimate parents are exempt."
         }
       ],
       "avoids": [
@@ -1444,7 +1457,7 @@
         "ma50": 211.73,
         "ma200": 184.97,
         "ma_signal": "golden_cross",
-        "pe_trailing": 44.736843,
+        "pe_trailing": 44.642857,
         "pe_forward": 25.552965,
         "peg_ratio": 0.29,
         "revenue_growth": 0.186,
@@ -1729,8 +1742,8 @@
         "analyst_buy": 38,
         "analyst_hold": 4,
         "analyst_sell": 1,
-        "analyst_target": 2111.95,
-        "analyst_upside_pct": 62.1,
+        "analyst_target": 2137.11,
+        "analyst_upside_pct": 64.0,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -2662,8 +2675,8 @@
         "analyst_buy": 22,
         "analyst_hold": 3,
         "analyst_sell": 0,
-        "analyst_target": 411.76,
-        "analyst_upside_pct": 39.6,
+        "analyst_target": 411.89,
+        "analyst_upside_pct": 39.7,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -3008,7 +3021,7 @@
         "ma200": 171.55,
         "ma_signal": "death_cross",
         "pe_trailing": null,
-        "pe_forward": 40.720978,
+        "pe_forward": 40.96949,
         "peg_ratio": null,
         "revenue_growth": -0.342,
         "earnings_growth": 0.674,
@@ -3021,8 +3034,8 @@
         "analyst_buy": 23,
         "analyst_hold": 9,
         "analyst_sell": 3,
-        "analyst_target": 189.93,
-        "analyst_upside_pct": 83.1,
+        "analyst_target": 188.38,
+        "analyst_upside_pct": 81.6,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -5997,7 +6010,7 @@
         "analyst_buy": 33,
         "analyst_hold": 2,
         "analyst_sell": 1,
-        "analyst_target": 36.82,
+        "analyst_target": 36.84,
         "analyst_upside_pct": 39.6,
         "earnings_date": null,
         "earnings_days": null
@@ -8825,9 +8838,9 @@
     {
       "ticker": "NVDA",
       "company_name": "Nvidia Corporation",
-      "buy_count": 45,
+      "buy_count": 44,
       "avoid_count": 6,
-      "first_mention_date": "27 Oct 2026",
+      "first_mention_date": "28 Oct 2026",
       "price_at_first_mention": 217.94,
       "pct_change_since_rec": -31.5,
       "market": {
@@ -8869,19 +8882,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "CouchInvestor",
-          "title": "One Gigawatt Costs $50 Billion: How an AI Token Factory Like Nebius Pays It Back",
-          "url": "https://www.youtube.com/watch?v=Qc9FFmWahvw",
-          "upload_date": "20261027",
-          "date_label": "27 Oct 2026",
-          "ticker": "NVDA",
-          "company_name": "Nvidia Corporation",
-          "reason": "Nvidia is positioned as the primary beneficiary of the AI token factory model. The company's inference platform is called a token factory by Nvidia itself, with run rate revenue hitting $3 billion in June and guidance of $7-9 billion for year-end, demonstrating strong growth trajectory. Nvidia's AI cloud achieved a 50% adjusted EBITDA margin with deals showing an expected payback of 1 year and 10 months, indicating highly profitable operations. The company generated $89 billion in data center revenue last quarter, establishing itself as the core infrastructure provider selling the machines that power AI token factories.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": "The video raises concerns about Nvidia's business model sustainability: the company faces $20-25 billion in CapEx requirements this year, fast depreciation of assets, and potential risk from GPU prices falling. These factors suggest Nvidia could be viewed as a capital trap despite current profitability."
-        },
         {
           "channel": "Jose Najarro Stocks",
           "title": "SK hynix Just Confirmed an AI Chip Shortage Through 2029!!",
@@ -9594,11 +9594,11 @@
     {
       "ticker": "ORCL",
       "company_name": "Oracle Corporation",
-      "buy_count": 8,
+      "buy_count": 7,
       "avoid_count": 0,
-      "first_mention_date": "27 Oct 2026",
-      "price_at_first_mention": 130.29,
-      "pct_change_since_rec": -20.3,
+      "first_mention_date": "28 Oct 2026",
+      "price_at_first_mention": 130.53,
+      "pct_change_since_rec": -20.4,
       "market": {
         "ticker": "ORCL",
         "name": "Oracle Corporation",
@@ -9638,19 +9638,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "FinTek",
-          "title": "Best Value Big Tech Ai Stock (Oracle)",
-          "url": "https://www.youtube.com/watch?v=6KWJoXfm4EY",
-          "upload_date": "20261027",
-          "date_label": "27 Oct 2026",
-          "ticker": "ORCL",
-          "company_name": "Oracle Corporation",
-          "reason": "Oracle just beat earnings at the beginning of September while doubling their cloud infrastructure revenue. The company's stock price is down over 50% in the past year, which could give investors a chance to buy into this big tech stock at a discount. The company is rated as 39% undervalued by Investing Pro, especially when looking at their long-term discounted cash flow growth rate. If the company can survive what is happening right now, there is decent long-term upside potential.",
-          "when_to_buy": "watch list \u2014 monitor over the next quarter before committing to a position",
-          "target_price": null,
-          "cautions": "The stock has declined over 50% in the past year, and the creator is waiting to see if the company can survive current challenges before making a full commitment."
-        },
         {
           "channel": "Jose Najarro Stocks",
           "title": "SK hynix Just Confirmed an AI Chip Shortage Through 2029!!",
@@ -12094,8 +12081,8 @@
         "analyst_buy": 20,
         "analyst_hold": 3,
         "analyst_sell": 1,
-        "analyst_target": 243.38,
-        "analyst_upside_pct": 230.6,
+        "analyst_target": 244.96,
+        "analyst_upside_pct": 232.8,
         "earnings_date": null,
         "earnings_days": null
       },
@@ -12271,12 +12258,12 @@
     },
     {
       "ticker": "SOFI",
-      "company_name": "SoFi (Social Finance, Inc.)",
-      "buy_count": 9,
+      "company_name": "SoFi Technologies Inc.",
+      "buy_count": 8,
       "avoid_count": 1,
-      "first_mention_date": "27 Oct 2026",
-      "price_at_first_mention": 16.4,
-      "pct_change_since_rec": -20.3,
+      "first_mention_date": "01 Nov 2026",
+      "price_at_first_mention": 17.39,
+      "pct_change_since_rec": -24.8,
       "market": {
         "ticker": "SOFI",
         "name": "SoFi Technologies, Inc.",
@@ -12316,19 +12303,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "CouchInvestor",
-          "title": "I Said I\u2019d Decide After Earnings. Here\u2019s What I\u2019m Doing With SoFi",
-          "url": "https://www.youtube.com/watch?v=ICzMBBM5kak",
-          "upload_date": "20261027",
-          "date_label": "27 Oct 2026",
-          "ticker": "SOFI",
-          "company_name": "SoFi (Social Finance, Inc.)",
-          "reason": "The company beat earnings across the board with revenue up 44% year-over-year, adjusted EBITDA at $470 million with 34% margin, and adjusted net income at $243 million with 18% margin. SoFi operates eight distinct businesses each generating over $100 million in annualized revenue and is targeting 100 million products by end of 2030 (4x increase from current). The company is expected to grow revenue 40% year-over-year for fiscal 2026 and 27% year-over-year for 2027, with adjusted EBITDA margin of 35% and net income margin of 20% in 2027. The creator believes the stock is undervalued and cheap relative to growth, with 2028 EPS expected to reach $1.20-$1.30 while still growing above 20%. The company does not need to raise capital (funded without raising) and has a track record of consistently beating guidance and raising targets. Management is described as very smart and conservative, executing well even in challenging macro environments.",
-          "when_to_buy": "Creator is increasing position immediately after earnings; questions whether this is the last time to buy under $16-$17 but indicates general conviction to buy at current levels",
-          "target_price": "$1.20-$1.30 EPS by 2028, suggesting significant upside from current price of approximately $16.40",
-          "cautions": "Fed meeting on Wednesday could impact stock price. Macro environment deterioration could put pressure on targets. Q4 lending expected to be flat compared to Q3. Some unanswered questions on credit card losses and Q4 lending dip. Stock was down 45% year-to-date at time of video despite company being a better business than at start of year."
-        },
         {
           "channel": "CouchInvestor",
           "title": "I Sold an Entire Position This Week. Here\u2019s What I\u2019m Doing With the Money",

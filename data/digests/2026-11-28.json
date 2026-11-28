@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T02:43:26.961794",
+  "generated_at": "2026-11-28T04:02:04.865486",
   "video_count": 178,
   "stock_count": 183,
   "stocks": [
@@ -5813,8 +5813,8 @@
         "analyst_buy": 33,
         "analyst_hold": 2,
         "analyst_sell": 1,
-        "analyst_target": 36.9,
-        "analyst_upside_pct": 34.9,
+        "analyst_target": 36.85,
+        "analyst_upside_pct": 34.7,
         "earnings_date": null,
         "earnings_days": null
       },

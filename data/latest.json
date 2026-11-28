@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-27T23:33:50.001558",
-  "video_count": 185,
-  "stock_count": 188,
+  "generated_at": "2026-11-28T00:37:03.609750",
+  "video_count": 178,
+  "stock_count": 183,
   "stocks": [
     {
       "ticker": "6752",
@@ -485,12 +485,12 @@
     },
     {
       "ticker": "AMD",
-      "company_name": "Advanced Micro Devices Inc.",
-      "buy_count": 25,
+      "company_name": "Advanced Micro Devices",
+      "buy_count": 23,
       "avoid_count": 4,
-      "first_mention_date": "28 Oct 2026",
-      "price_at_first_mention": 560.26,
-      "pct_change_since_rec": -24.2,
+      "first_mention_date": "29 Oct 2026",
+      "price_at_first_mention": 573.28,
+      "pct_change_since_rec": -25.9,
       "market": {
         "ticker": "AMD",
         "name": "Advanced Micro Devices, Inc.",
@@ -530,32 +530,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "SK hynix Just Confirmed an AI Chip Shortage Through 2029!!",
-          "url": "https://www.youtube.com/watch?v=Qf72K1Fends",
-          "upload_date": "20261028",
-          "date_label": "28 Oct 2026",
-          "ticker": "AMD",
-          "company_name": "Advanced Micro Devices Inc.",
-          "reason": "AMD is gaining significant traction as a secondary but important beneficiary of AI infrastructure buildout. AMD announced a $1 billion equity investment in Meta and is deploying its new MI450 Helio systems for testing at scale. The creator highlights that AMD's solutions are being incorporated into Oracle's AI stack and that roadmaps include AMD Helios alongside Nvidia and other solutions. This positions AMD as a key co-design partner for major cloud providers and AI companies seeking to diversify their compute infrastructure.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": null
-        },
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "ARE AI STOCKS BACK?? CAN MY PORTFOLIO BE SAVED? (AMD NVDA ANTHROPIC CRWV)",
-          "url": "https://www.youtube.com/watch?v=FTxfwE-3f8Q",
-          "upload_date": "20261028",
-          "date_label": "28 Oct 2026",
-          "ticker": "AMD",
-          "company_name": "Advanced Micro Devices Inc.",
-          "reason": "Jose owns AMD and sees strong potential with 207% EPS growth expected. However, Steve is more cautious, believing AMD has 'run too far, too fast' at 24x forward earnings while Nvidia trades at 10x forward with 130% growth. Jose notes AMD trades at 73x this year's earnings vs. Broadcom at under 20x, suggesting relative valuation risk. Both acknowledge AMD is a great company but believe Nvidia offers better ROI from current levels over the next year. AMD represents the more aggressive growth play with execution risk.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": "Trading at 73x current year earnings, suggesting significant execution risk if company misses; Steve prefers Nvidia's valuation at same absolute growth rate"
-        },
         {
           "channel": "CouchInvestor",
           "title": "AMD Q3 EARNINGS REPORT BREAKDOWN | MARKET CLOSE",
@@ -906,12 +880,12 @@
     },
     {
       "ticker": "AMZN",
-      "company_name": "Amazon Inc.",
-      "buy_count": 16,
+      "company_name": "Amazon.com Inc.",
+      "buy_count": 14,
       "avoid_count": 2,
-      "first_mention_date": "28 Oct 2026",
-      "price_at_first_mention": 253.1,
-      "pct_change_since_rec": 0.4,
+      "first_mention_date": "29 Oct 2026",
+      "price_at_first_mention": 260.21,
+      "pct_change_since_rec": -2.3,
       "market": {
         "ticker": "AMZN",
         "name": "Amazon.com, Inc.",
@@ -951,32 +925,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "ARE AI STOCKS BACK?? CAN MY PORTFOLIO BE SAVED? (AMD NVDA ANTHROPIC CRWV)",
-          "url": "https://www.youtube.com/watch?v=FTxfwE-3f8Q",
-          "upload_date": "20261028",
-          "date_label": "28 Oct 2026",
-          "ticker": "AMZN",
-          "company_name": "Amazon Inc.",
-          "reason": "Jose sees Amazon as being left in the wind initially but now hitting acceleration in AI investments. CEO commentary showed cloud workload adoption is still very low (far below 50% expected), meaning massive TAM remains. As AI adoption follows similar curve to cloud adoption (expected to take 15+ years), Amazon has significant growth runway. While Steve is choosing Meta over Amazon for the next year, he acknowledges Amazon is being 'left in the wind' and is close to being equally compelling.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": "Slower to commit to AI capex spending initially; execution risk on cloud TAM capture"
-        },
-        {
-          "channel": "CouchInvestor",
-          "title": "Jassy Says AI Inference Is Still 10x Too Expensive",
-          "url": "https://www.youtube.com/watch?v=_tiLV3lfgx8",
-          "upload_date": "20261028",
-          "date_label": "28 Oct 2026",
-          "ticker": "AMZN",
-          "company_name": "Amazon.com Inc.",
-          "reason": "Amazon is spending $220 billion this year with capacity sold out into 2028, indicating strong demand for AI infrastructure. AWS AI is already generating over $25 billion in run rate on a business that grew 36.7%. The bullish case centers on Amazon's ability to win the cost-reduction race for AI inference, similar to their successful Graviton processor strategy which delivered 30-40% better price performance than comparable processors. If Amazon can reduce inference costs by an order of magnitude as CEO Andy Jassy acknowledged is needed, it would unlock massive adoption in production software applications currently underutilized due to high costs.",
-          "when_to_buy": "Amazon closed at $248 into the October 29th call",
-          "target_price": null,
-          "cautions": "The investment thesis is contingent on Amazon successfully reducing AI inference costs. If they fail to win the cost-down race, the sold-out capacity through 2028 may not translate to sustained growth. The biggest addressable market (real production software) remains untapped and dependent on cost breakthroughs."
-        },
         {
           "channel": "CouchInvestor",
           "title": "AWS AI Hit $25B in 3 Years. Early AWS Was $60M.",
@@ -1329,27 +1277,13 @@
     {
       "ticker": "ANTHROPIC",
       "company_name": "Anthropic",
-      "buy_count": 1,
+      "buy_count": 0,
       "avoid_count": 1,
-      "first_mention_date": "28 Oct 2026",
+      "first_mention_date": "19 Nov 2026",
       "price_at_first_mention": null,
       "pct_change_since_rec": null,
       "market": null,
-      "buys": [
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "ARE AI STOCKS BACK?? CAN MY PORTFOLIO BE SAVED? (AMD NVDA ANTHROPIC CRWV)",
-          "url": "https://www.youtube.com/watch?v=FTxfwE-3f8Q",
-          "upload_date": "20261028",
-          "date_label": "28 Oct 2026",
-          "ticker": "ANTHROPIC",
-          "company_name": "Anthropic",
-          "reason": "Anthropic S1 filing shows massive bullish metrics validating AI thesis. Revenue per dollar of compute improved to $28 (up from $40 cents in Q1 2025 - this appears to be a data point comparison showing efficiency). Company is 5 years old with $131.65 billion in cash and raising another $100+ billion in IPO. First half 2026 revenue was $16.29 billion with $11.56 billion in Q2 alone. 900% net revenue retention demonstrates strong product-market fit. Despite spending massive R&D on training and reinforcement learning, compute efficiency is improving dramatically, allowing them to collect huge margins. Inference market still healthy but represents small portion of revenue, meaning huge upside as inference scales. Company can easily pay multi-hundred billion dollar compute commitments over multi-year period given cash generation. Duet (Claude) AI agent still in testing/pre-release; once adopted will dramatically increase compute demand and revenue.",
-          "when_to_buy": "Before or around IPO announcement",
-          "target_price": null,
-          "cautions": "Pre-revenue IPO stage; large capex commitments ahead; depends on successful AI agent adoption"
-        }
-      ],
+      "buys": [],
       "avoids": [
         {
           "channel": "Daniel Pronk",
@@ -1882,33 +1816,6 @@
       ],
       "avoids": [],
       "description": null
-    },
-    {
-      "ticker": "ASTR",
-      "company_name": "Axiom Space (implied reference) or other test equipment company",
-      "buy_count": 1,
-      "avoid_count": 0,
-      "first_mention_date": "28 Oct 2026",
-      "price_at_first_mention": null,
-      "pct_change_since_rec": null,
-      "market": null,
-      "buys": [
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "ARE AI STOCKS BACK?? CAN MY PORTFOLIO BE SAVED? (AMD NVDA ANTHROPIC CRWV)",
-          "url": "https://www.youtube.com/watch?v=FTxfwE-3f8Q",
-          "upload_date": "20261028",
-          "date_label": "28 Oct 2026",
-          "ticker": "ASTR",
-          "company_name": "Axiom Space (implied reference) or other test equipment company",
-          "reason": "Jose mentions 'air test system' as an equipment player benefiting from AI infrastructure buildout. Small company with ~$2 billion market cap. Equipment makers benefit from picks-and-shovels thesis as data centers scale.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": "Very small market cap (~$2 billion); more speculative"
-        }
-      ],
-      "avoids": [],
-      "description": "Designs semiconductor connectivity solutions for data centres and cloud computing"
     },
     {
       "ticker": "AVGO",
@@ -2482,39 +2389,13 @@
     {
       "ticker": "BROADCOM",
       "company_name": "Broadcom Inc.",
-      "buy_count": 8,
+      "buy_count": 6,
       "avoid_count": 1,
-      "first_mention_date": "28 Oct 2026",
+      "first_mention_date": "29 Oct 2026",
       "price_at_first_mention": null,
       "pct_change_since_rec": null,
       "market": null,
       "buys": [
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "SK hynix Just Confirmed an AI Chip Shortage Through 2029!!",
-          "url": "https://www.youtube.com/watch?v=Qf72K1Fends",
-          "upload_date": "20261028",
-          "date_label": "28 Oct 2026",
-          "ticker": "BROADCOM",
-          "company_name": "Broadcom Inc.",
-          "reason": "Broadcom is benefiting from AI infrastructure expansion through multiple vectors. OpenAI is working with Broadcom on designing their own AI chips, indicating demand for networking and custom silicon solutions. Broadcom is also being incorporated into Oracle's AI infrastructure roadmap and broader AI ecosystem expansion.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": null
-        },
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "ARE AI STOCKS BACK?? CAN MY PORTFOLIO BE SAVED? (AMD NVDA ANTHROPIC CRWV)",
-          "url": "https://www.youtube.com/watch?v=FTxfwE-3f8Q",
-          "upload_date": "20261028",
-          "date_label": "28 Oct 2026",
-          "ticker": "BROADCOM",
-          "company_name": "Broadcom Inc.",
-          "reason": "Trading at 11.2x forward earnings with strong expected growth. Broadcom is a picks-and-shovels semiconductor company that benefits from hyperscaler capex spending. Steve notes that in two months when 2026 year ends, Broadcom will trade at single-digit forward multiples (11.2x to single digits) if price doesn't move, representing significant value. Mentioned as one of the semiconductor plays that will capture capex flows.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": "Currently expensive at 11.2x forward; will become more attractive on price basis after 2026 earnings"
-        },
         {
           "channel": "CouchInvestor",
           "title": "I Sold an Entire Position This Week. Here\u2019s What I\u2019m Doing With the Money",
@@ -2738,26 +2619,13 @@
     {
       "ticker": "CEREBRAS",
       "company_name": "Cerebras Systems",
-      "buy_count": 2,
+      "buy_count": 1,
       "avoid_count": 0,
-      "first_mention_date": "28 Oct 2026",
+      "first_mention_date": "15 Nov 2026",
       "price_at_first_mention": null,
       "pct_change_since_rec": null,
       "market": null,
       "buys": [
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "SK hynix Just Confirmed an AI Chip Shortage Through 2029!!",
-          "url": "https://www.youtube.com/watch?v=Qf72K1Fends",
-          "upload_date": "20261028",
-          "date_label": "28 Oct 2026",
-          "ticker": "CEREBRAS",
-          "company_name": "Cerebras Systems",
-          "reason": "Cerebras is gaining traction as an alternative inference solution with its products being deployed across major cloud infrastructure providers. The company is already working with OpenAI and is being included in Oracle's 2027 roadmap for inference capabilities, positioning it as a specialized play within the broader AI compute ecosystem.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": null
-        },
         {
           "channel": "CouchInvestor",
           "title": "I Bought $8,100 of 4 Stocks, Including One I Sold Earlier This Year",
@@ -3531,33 +3399,6 @@
       "description": "Provides high-speed connectivity solutions for Ethernet and PCIe applications"
     },
     {
-      "ticker": "CREDO",
-      "company_name": "Credo Technology Group Inc.",
-      "buy_count": 1,
-      "avoid_count": 0,
-      "first_mention_date": "28 Oct 2026",
-      "price_at_first_mention": null,
-      "pct_change_since_rec": null,
-      "market": null,
-      "buys": [
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "ARE AI STOCKS BACK?? CAN MY PORTFOLIO BE SAVED? (AMD NVDA ANTHROPIC CRWV)",
-          "url": "https://www.youtube.com/watch?v=FTxfwE-3f8Q",
-          "upload_date": "20261028",
-          "date_label": "28 Oct 2026",
-          "ticker": "CREDO",
-          "company_name": "Credo Technology Group Inc.",
-          "reason": "Jose's networking play pick. Credo operates in high-speed optical and networking technology that improves total cost of ownership (TCO) for AI data centers. For advanced chips like Nvidia's NDL72 and Amazon's custom AI chips, optical and networking solutions from companies like Credo enable scale-out and scale-up approaches. Credo is entering the optics market and represents a picks-and-shovels play that will benefit from massive data center buildout. Jose bought Credo and Sterile Labs during the recent dip.",
-          "when_to_buy": "During market dips; Jose bought during recent selloff",
-          "target_price": null,
-          "cautions": "Small company (~$2 billion market cap); more speculative than mega-cap plays"
-        }
-      ],
-      "avoids": [],
-      "description": "Designs high-speed semiconductor intellectual property for data centres and networking"
-    },
-    {
       "ticker": "CRM",
       "company_name": "Salesforce Inc.",
       "buy_count": 1,
@@ -3635,12 +3476,12 @@
     },
     {
       "ticker": "CRWD",
-      "company_name": "CoreWeave Inc.",
-      "buy_count": 4,
+      "company_name": "CrowdStrike Holdings",
+      "buy_count": 3,
       "avoid_count": 3,
-      "first_mention_date": "28 Oct 2026",
-      "price_at_first_mention": 268.02,
-      "pct_change_since_rec": -19.0,
+      "first_mention_date": "29 Oct 2026",
+      "price_at_first_mention": 257.4,
+      "pct_change_since_rec": -15.6,
       "market": {
         "ticker": "CRWD",
         "name": "CrowdStrike Holdings, Inc.",
@@ -3680,19 +3521,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "SK hynix Just Confirmed an AI Chip Shortage Through 2029!!",
-          "url": "https://www.youtube.com/watch?v=Qf72K1Fends",
-          "upload_date": "20261028",
-          "date_label": "28 Oct 2026",
-          "ticker": "CRWD",
-          "company_name": "CoreWeave Inc.",
-          "reason": "CoreWeave is experiencing strong momentum as a data center infrastructure provider for AI workloads. The company reported $79 million in quarter 3 data center adjusted gross profit, up from $11 million in quarter 2, representing the first full quarter under Halo's phase 1 lease. All 133 megawatts of critical IT load have been delivered to CoreWeave, and phase 2 is fully financed and under construction with an initial data hall scheduled for quarter 2 of 2027. An additional 830 megawatts of approved Halos capacity remains unleashed, positioning CoreWeave for substantial future growth without needing to compete for credit market financing.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": null
-        },
         {
           "channel": "Mr. FIRED Up Wealth",
           "title": "Why I'm Buying This Software Selloff, Best Stocks to Buy Now!",
@@ -3771,77 +3599,13 @@
       "description": "Provides cloud-based cybersecurity platform for endpoints and workloads"
     },
     {
-      "ticker": "CRWV",
-      "company_name": "Coreweave Inc.",
-      "buy_count": 1,
-      "avoid_count": 0,
-      "first_mention_date": "28 Oct 2026",
-      "price_at_first_mention": 59.57,
-      "pct_change_since_rec": -25.9,
-      "market": {
-        "ticker": "CRWV",
-        "name": "CoreWeave, Inc.",
-        "currency": "USD",
-        "sector": "Technology",
-        "industry": "Software - Infrastructure",
-        "market_cap": 24552949760,
-        "current_price": 44.15,
-        "daily_change_pct": 3.71,
-        "month_change_pct": -30.94,
-        "week52_high": 138.25,
-        "week52_high_date": "06 May 2026",
-        "week52_low": 37.4,
-        "week52_low_date": "25 Nov 2026",
-        "rsi": 40.8,
-        "rsi_label": "neutral",
-        "ma50": 65.0,
-        "ma200": 87.0,
-        "ma_signal": "death_cross",
-        "pe_trailing": null,
-        "pe_forward": -24.796268,
-        "peg_ratio": null,
-        "revenue_growth": 1.682,
-        "earnings_growth": null,
-        "free_cashflow": -19649423360,
-        "profit_margins": -0.25561002,
-        "debt_to_equity": 1645.242,
-        "beta": null,
-        "short_percent": 0.2746,
-        "dividend_yield": 0.0,
-        "analyst_buy": 26,
-        "analyst_hold": 10,
-        "analyst_sell": 2,
-        "analyst_target": 114.45,
-        "analyst_upside_pct": 159.2,
-        "earnings_date": null,
-        "earnings_days": null
-      },
-      "buys": [
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "ARE AI STOCKS BACK?? CAN MY PORTFOLIO BE SAVED? (AMD NVDA ANTHROPIC CRWV)",
-          "url": "https://www.youtube.com/watch?v=FTxfwE-3f8Q",
-          "upload_date": "20261028",
-          "date_label": "28 Oct 2026",
-          "ticker": "CRWV",
-          "company_name": "Coreweave Inc.",
-          "reason": "Jose and Steve both identify Coreweave as a major buying opportunity during the dip. Coreweave operates 1.5 gigawatts of active power data center capacity with strong GPU reliability, which allows them to charge premium pricing on long-term contracts. Steve bought more Coreweave during the recent dip and made it his fourth pick for the next year. The market is overreacting to increased debt financing costs while ignoring that GPU-per-hour pricing is increasing dramatically. The delta between rising debt costs and rising GPU pricing is actually very favorable for Coreweave. As long-term contracts expire and compute constraints persist, Coreweave will have paid-off GPUs to deploy at spot pricing or higher-margin short-term contracts. Steve believes there is significant ROI over the next year and challenges anyone to show him earnings reports over four quarters that don't justify the investment.",
-          "when_to_buy": "During current market dip; Steve explicitly bought more during recent selloff",
-          "target_price": "Steve references '60 whatever dollars' as current price level during the video",
-          "cautions": "Neocloud companies face financing headwinds and rising debt costs; however, creators argue this is outweighed by GPU pricing power and long-term contract profitability"
-        }
-      ],
-      "avoids": [],
-      "description": "Operates cloud infrastructure platform for artificial intelligence workloads"
-    },
-    {
       "ticker": "CWEB",
-      "company_name": "Coreweave Inc.",
-      "buy_count": 4,
+      "company_name": "CoreWeave Inc.",
+      "buy_count": 3,
       "avoid_count": 3,
-      "first_mention_date": "28 Oct 2026",
-      "price_at_first_mention": 15.74,
-      "pct_change_since_rec": -7.4,
+      "first_mention_date": "01 Nov 2026",
+      "price_at_first_mention": 17.87,
+      "pct_change_since_rec": -18.5,
       "market": {
         "ticker": "CWEB",
         "name": "Direxion Daily CSI China Intern",
@@ -3881,19 +3645,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "The Traveling Trader",
-          "title": "\ud83d\udea8 FED Decision! Live Trading FOMC",
-          "url": "https://www.youtube.com/watch?v=VYg1Zy-EdJ8",
-          "upload_date": "20261028",
-          "date_label": "28 Oct 2026",
-          "ticker": "CWEB",
-          "company_name": "Coreweave Inc.",
-          "reason": "Coreweave is showing signs of capitulation and a potential bottom after severe selling pressure in the AI cloud sector. The stock has record volume ever recorded, made a lower low at capitulation levels, and is now forming three green soldier candles (consecutive full-body candles gapping up). It closed above a key order block (the series of red candles) indicating a potential change in market structure. The stock has more backlog than competitors, positioning it well in the AI infrastructure space. The creator views this as a midterm trading instrument, not a long-term hold.",
-          "when_to_buy": "After capitulation signals and close above the 64 level (previous post-IPO high)",
-          "target_price": "64 level is key resistance/target",
-          "cautions": "This is a midterm trading instrument only, not a 10+ year hold. Earnings not until November 16th. Sector has been under significant pressure with Neoclouds facing bankruptcy concerns. High volatility and risk."
-        },
         {
           "channel": "CouchInvestor",
           "title": "I Sold an Entire Position This Week. Here\u2019s What I\u2019m Doing With the Money",
@@ -4105,7 +3856,7 @@
         "ma200": 203.38,
         "ma_signal": "golden_cross",
         "pe_trailing": 230.20833,
-        "pe_forward": 52.075153,
+        "pe_forward": 51.98076,
         "peg_ratio": 5.33,
         "revenue_growth": 0.352,
         "earnings_growth": 2.316,
@@ -5001,11 +4752,11 @@
     {
       "ticker": "GOOGL",
       "company_name": "Alphabet Inc.",
-      "buy_count": 24,
+      "buy_count": 23,
       "avoid_count": 4,
-      "first_mention_date": "28 Oct 2026",
-      "price_at_first_mention": 320.58,
-      "pct_change_since_rec": -14.2,
+      "first_mention_date": "29 Oct 2026",
+      "price_at_first_mention": 287.7,
+      "pct_change_since_rec": -4.4,
       "market": {
         "ticker": "GOOGL",
         "name": "Alphabet Inc.",
@@ -5045,19 +4796,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "ARE AI STOCKS BACK?? CAN MY PORTFOLIO BE SAVED? (AMD NVDA ANTHROPIC CRWV)",
-          "url": "https://www.youtube.com/watch?v=FTxfwE-3f8Q",
-          "upload_date": "20261028",
-          "date_label": "28 Oct 2026",
-          "ticker": "GOOGL",
-          "company_name": "Alphabet Inc.",
-          "reason": "Google earnings coming tomorrow. Jose is excited to see Gemini performance and expects continued strong Google Cloud growth with double-digit results. However, Steve is more interested in Microsoft. Google Cloud has shown consistent strong revenue growth past two quarters, but Jose expects market already pricing this in. Both agree Google and Microsoft will beat earnings and raise guidance with bullish AI commentary.",
-          "when_to_buy": "Before Google earnings tomorrow",
-          "target_price": null,
-          "cautions": "Market may already be pricing in strong Google Cloud growth; less upside surprise potential than Microsoft Azure"
-        },
         {
           "channel": "CouchInvestor",
           "title": "GOOGLE & MICROSOFT EARNINGS REPORT/ CALL BREAKDOWN",
@@ -5473,11 +5211,11 @@
     {
       "ticker": "HOOD",
       "company_name": "Robinhood Markets Inc.",
-      "buy_count": 3,
+      "buy_count": 2,
       "avoid_count": 1,
-      "first_mention_date": "28 Oct 2026",
-      "price_at_first_mention": 92.24,
-      "pct_change_since_rec": -26.4,
+      "first_mention_date": "13 Nov 2026",
+      "price_at_first_mention": 77.86,
+      "pct_change_since_rec": -12.8,
       "market": {
         "ticker": "HOOD",
         "name": "Robinhood Markets, Inc.",
@@ -5517,19 +5255,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "The Traveling Trader",
-          "title": "\ud83d\udea8 FED Decision! Live Trading FOMC",
-          "url": "https://www.youtube.com/watch?v=VYg1Zy-EdJ8",
-          "upload_date": "20261028",
-          "date_label": "28 Oct 2026",
-          "ticker": "HOOD",
-          "company_name": "Robinhood Markets Inc.",
-          "reason": "While the creator notes Hood is a long-term buy, they emphasize position sizing is critical. The company slightly missed on revenue and earnings per share, but adjusted EPS was actually 60 cents per share versus the 51 cents reported, beating when adjusted for a one-time realized loss on the Robinhood Ventures fund. Prediction markets are now bigger than crypto, which is a significant growth driver. The creator maintains it as a long-term holding but stresses it should only be 3% of an account, not 50%.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": "Position sizing matters more than the buy decision itself. Do not oversize this position. Long-term hold only; not suitable for short-term trading."
-        },
         {
           "channel": "CouchInvestor",
           "title": "The Jensen Pump Lasted One Day. Let's Talk About This Crash",
@@ -6638,11 +6363,11 @@
     {
       "ticker": "META",
       "company_name": "Meta Platforms Inc.",
-      "buy_count": 20,
+      "buy_count": 18,
       "avoid_count": 3,
-      "first_mention_date": "28 Oct 2026",
-      "price_at_first_mention": 620.19,
-      "pct_change_since_rec": 1.4,
+      "first_mention_date": "30 Oct 2026",
+      "price_at_first_mention": 630.0,
+      "pct_change_since_rec": -0.2,
       "market": {
         "ticker": "META",
         "name": "Meta Platforms, Inc.",
@@ -6682,32 +6407,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "SK hynix Just Confirmed an AI Chip Shortage Through 2029!!",
-          "url": "https://www.youtube.com/watch?v=Qf72K1Fends",
-          "upload_date": "20261028",
-          "date_label": "28 Oct 2026",
-          "ticker": "META",
-          "company_name": "Meta Platforms Inc.",
-          "reason": "Meta announced major partnerships and capital commitments from industry leaders AMD ($1 billion equity investment) and Nvidia ($3 billion investment), validating Meta's AI infrastructure strategy and capital allocation. Meta is expanding deployment of Vera Rubin systems and deepening co-design partnerships with GPU manufacturers. The creator notes that Meta is currently trading at relatively attractive valuations while raising $25 billion to fund aggressive AI compute expansion, positioning it as a key beneficiary of the AI infrastructure buildout cycle.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": null
-        },
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "ARE AI STOCKS BACK?? CAN MY PORTFOLIO BE SAVED? (AMD NVDA ANTHROPIC CRWV)",
-          "url": "https://www.youtube.com/watch?v=FTxfwE-3f8Q",
-          "upload_date": "20261028",
-          "date_label": "28 Oct 2026",
-          "ticker": "META",
-          "company_name": "Meta Platforms Inc.",
-          "reason": "Jose and Steve both highlight Meta as a major winner. Meta has generated $617 billion in operating cash flow since Q4 2016 and $297 billion in free cash flow, demonstrating exceptional cash generation. Despite increased capex spending (now $319 billion deployed since Q4 2016), Meta can easily absorb this investment. Mark Zuckerberg is focusing on building AI infrastructure to support core ad business and developing Muse AI models to sell intelligence rather than just compute. Meta raised $25 billion in funding (6x oversubscribed) showing strong investor confidence. Steve's second pick for the next year; he will back Zuckerberg 'night and day.' The market is underestimating Meta's ability to monetize its AI investments and the efficiency gains from compute helping ad impressions and ad efficiency. Steve notes Meta's 26% year-over-year revenue growth will accelerate as data centers complete buildout over the next four quarters.",
-          "when_to_buy": "During recent market dips when stock has pulled back",
-          "target_price": null,
-          "cautions": "Market concerns about massive capex spending may cause near-term volatility; however, creators argue free cash flow generation supports investment thesis"
-        },
         {
           "channel": "CouchInvestor",
           "title": "I Sold an Entire Position This Week. Here\u2019s What I\u2019m Doing With the Money",
@@ -7166,68 +6865,6 @@
       "description": "Automotive components and systems supplier"
     },
     {
-      "ticker": "MRNA",
-      "company_name": "Moderna Inc.",
-      "buy_count": 0,
-      "avoid_count": 1,
-      "first_mention_date": "28 Oct 2026",
-      "price_at_first_mention": 221.55,
-      "pct_change_since_rec": 3.2,
-      "market": {
-        "ticker": "MRNA",
-        "name": "Moderna, Inc.",
-        "currency": "USD",
-        "sector": "Healthcare",
-        "industry": "Biotechnology",
-        "market_cap": 92512534528,
-        "current_price": 228.64,
-        "daily_change_pct": 3.53,
-        "month_change_pct": 6.76,
-        "week52_high": 280.8,
-        "week52_high_date": "09 Nov 2026",
-        "week52_low": 23.92,
-        "week52_low_date": "02 Dec 2025",
-        "rsi": 53.8,
-        "rsi_label": "neutral",
-        "ma50": 213.78,
-        "ma200": 104.03,
-        "ma_signal": "golden_cross",
-        "pe_trailing": null,
-        "pe_forward": -54.584568,
-        "peg_ratio": null,
-        "revenue_growth": 0.292,
-        "earnings_growth": null,
-        "free_cashflow": -584499968,
-        "profit_margins": -1.10455,
-        "debt_to_equity": 61.855,
-        "beta": 1.166,
-        "short_percent": 0.098900005,
-        "dividend_yield": 0.0,
-        "analyst_buy": 5,
-        "analyst_hold": 17,
-        "analyst_sell": 1,
-        "analyst_target": 163.74,
-        "analyst_upside_pct": -28.4,
-        "earnings_date": null,
-        "earnings_days": null
-      },
-      "buys": [],
-      "avoids": [
-        {
-          "channel": "The Traveling Trader",
-          "title": "\ud83d\udea8 FED Decision! Live Trading FOMC",
-          "url": "https://www.youtube.com/watch?v=VYg1Zy-EdJ8",
-          "upload_date": "20261028",
-          "date_label": "28 Oct 2026",
-          "ticker": "MRNA",
-          "company_name": "Moderna Inc.",
-          "reason": "Moderna has extremely poor fundamentals across all valuation metrics. The creator describes it as a company with negative price-to-earnings, negative forward PE, price-to-sales of 38, negative price-to-cash flow, price-to-book of almost 13, negative return on invested capital, negative three-year revenue growth, and tanked revenue after COVID. The stock exhibits a 2022 high followed by a pump from the experimental vaccine period, with a daily fair value gap and massive volume imbalance all positioned above current prices with no volume support. The creator calls it a bad company with no fundamental support for valuation.",
-          "risk": "Significant downside risk to the 2022 highs and fair value gap below; no volume support above current levels"
-        }
-      ],
-      "description": "Develops messenger RNA vaccines for infectious diseases and cancer"
-    },
-    {
       "ticker": "MRVL",
       "company_name": "Marvell Technology",
       "buy_count": 3,
@@ -7332,11 +6969,11 @@
     {
       "ticker": "MSFT",
       "company_name": "Microsoft Corporation",
-      "buy_count": 10,
+      "buy_count": 9,
       "avoid_count": 2,
-      "first_mention_date": "28 Oct 2026",
-      "price_at_first_mention": 531.33,
-      "pct_change_since_rec": -7.2,
+      "first_mention_date": "29 Oct 2026",
+      "price_at_first_mention": 523.04,
+      "pct_change_since_rec": -5.8,
       "market": {
         "ticker": "MSFT",
         "name": "Microsoft Corporation",
@@ -7376,19 +7013,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "ARE AI STOCKS BACK?? CAN MY PORTFOLIO BE SAVED? (AMD NVDA ANTHROPIC CRWV)",
-          "url": "https://www.youtube.com/watch?v=FTxfwE-3f8Q",
-          "upload_date": "20261028",
-          "date_label": "28 Oct 2026",
-          "ticker": "MSFT",
-          "company_name": "Microsoft Corporation",
-          "reason": "Microsoft earnings tomorrow. Steve and Jose are particularly excited for Azure growth acceleration. Azure revenue has been flatlined between 37-40% growth with Microsoft citing capacity constraints as the limiting factor. If Microsoft shows Azure acceleration beyond 40% this quarter due to improved capacity management, it would be significant market catalyst. Jose expects Microsoft to eventually stop talking about supply-demand balance timing and admit compute constraints persist much longer. Strong M365 licenses and Azure revenue drive value.",
-          "when_to_buy": "Before Microsoft earnings on Thursday",
-          "target_price": null,
-          "cautions": "Azure growth has disappointed on expectations; capacity constraints may persist longer than expected"
-        },
         {
           "channel": "CouchInvestor",
           "title": "GOOGLE & MICROSOFT EARNINGS REPORT/ CALL BREAKDOWN",
@@ -7535,12 +7159,12 @@
     },
     {
       "ticker": "MSTR",
-      "company_name": "MicroStrategy",
-      "buy_count": 2,
+      "company_name": "MicroStrategy Inc.",
+      "buy_count": 1,
       "avoid_count": 0,
-      "first_mention_date": "28 Oct 2026",
-      "price_at_first_mention": 141.4,
-      "pct_change_since_rec": -42.3,
+      "first_mention_date": "05 Nov 2026",
+      "price_at_first_mention": 129.3,
+      "pct_change_since_rec": -36.9,
       "market": {
         "ticker": "MSTR",
         "name": "Strategy Inc",
@@ -7581,19 +7205,6 @@
       },
       "buys": [
         {
-          "channel": "Jose Najarro Stocks",
-          "title": "ARE AI STOCKS BACK?? CAN MY PORTFOLIO BE SAVED? (AMD NVDA ANTHROPIC CRWV)",
-          "url": "https://www.youtube.com/watch?v=FTxfwE-3f8Q",
-          "upload_date": "20261028",
-          "date_label": "28 Oct 2026",
-          "ticker": "MSTR",
-          "company_name": "MicroStrategy",
-          "reason": "Steve's fifth pick for the next year. Represents a major AI/tech company play, though specific reasoning for this pick was not detailed in the transcript provided.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": null
-        },
-        {
           "channel": "Mr. FIRED Up Wealth",
           "title": "Why I'm Buying This Stock Market Crash, Best Stocks to Buy Now!",
           "url": "https://www.youtube.com/watch?v=K6uRyW2JK5A",
@@ -7612,12 +7223,12 @@
     },
     {
       "ticker": "MU",
-      "company_name": "Micron Technology Inc.",
-      "buy_count": 18,
+      "company_name": "Micron Technology",
+      "buy_count": 17,
       "avoid_count": 1,
-      "first_mention_date": "28 Oct 2026",
-      "price_at_first_mention": 928.76,
-      "pct_change_since_rec": -30.3,
+      "first_mention_date": "29 Oct 2026",
+      "price_at_first_mention": 948.07,
+      "pct_change_since_rec": -31.8,
       "market": {
         "ticker": "MU",
         "name": "Micron Technology, Inc.",
@@ -7657,19 +7268,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "ARE AI STOCKS BACK?? CAN MY PORTFOLIO BE SAVED? (AMD NVDA ANTHROPIC CRWV)",
-          "url": "https://www.youtube.com/watch?v=FTxfwE-3f8Q",
-          "upload_date": "20261028",
-          "date_label": "28 Oct 2026",
-          "ticker": "MU",
-          "company_name": "Micron Technology Inc.",
-          "reason": "Jose purchased Micron during the recent dip. SK Hynix reported earnings showing memory supply shortage will persist through 2030 even with expansion, meaning AI chip shortage and compute shortage will continue. Micron is building new memory fabs and standing up production, demonstrating confidence in multi-year returns. 50% of SK Hynix's long-term agreements are now securing 50% of capacity for 2027-2028, showing the urgency of memory supply. Steve calls Micron 'the best buy in the market' though notes he is 'too shook' to load up significantly. Memory makers are essential picks-and-shovels beneficiaries of AI capex.",
-          "when_to_buy": "During current market dips; Steve specifically recommends this valuation level",
-          "target_price": null,
-          "cautions": "Memory market cyclicality; however, AI supply constraints appear structural through 2030"
-        },
         {
           "channel": "CouchInvestor",
           "title": "Chip Stocks Are Crashing! Here\u2019s the Truth About the AI Trade",
@@ -7909,12 +7507,12 @@
     },
     {
       "ticker": "NBIS",
-      "company_name": "Nebius",
-      "buy_count": 3,
+      "company_name": "Nebius (likely Nebius AI or similar)",
+      "buy_count": 2,
       "avoid_count": 1,
-      "first_mention_date": "28 Oct 2026",
-      "price_at_first_mention": 170.47,
-      "pct_change_since_rec": -47.5,
+      "first_mention_date": "08 Nov 2026",
+      "price_at_first_mention": 129.49,
+      "pct_change_since_rec": -30.9,
       "market": {
         "ticker": "NBIS",
         "name": "Nebius Group N.V.",
@@ -7954,19 +7552,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "CouchInvestor",
-          "title": "Why One GPU Can Earn $38 an Hour Selling AI Tokens",
-          "url": "https://www.youtube.com/watch?v=ucT6ENJBzgo",
-          "upload_date": "20261028",
-          "date_label": "28 Oct 2026",
-          "ticker": "NBIS",
-          "company_name": "Nebius",
-          "reason": "Nebius operates a token factory business model with a three billion dollar annualized run rate as of June. The company earns revenue through two channels: renting GPUs (H100 at $450/hour on demand, $0.79 spot) and selling AI tokens. Token generation produces significantly higher revenue than GPU rental alone, with Deep Seek demonstrating one cluster earning $38 of revenue per GPU hour at off-peak prices. Nebius's AI cloud achieved a 50% adjusted EBITDA margin in the second quarter, and deals have an expected payback period of one year and ten months, indicating strong unit economics and rapid capital recovery.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": null
-        },
         {
           "channel": "CouchInvestor",
           "title": "What the Anthropic IPO Means for My AI Stocks",
@@ -8087,31 +7672,6 @@
       ],
       "avoids": [],
       "description": "Provides full-stack GPU cloud infrastructure for AI applications"
-    },
-    {
-      "ticker": "NEBA",
-      "company_name": "Nebius Inc.",
-      "buy_count": 0,
-      "avoid_count": 1,
-      "first_mention_date": "28 Oct 2026",
-      "price_at_first_mention": null,
-      "pct_change_since_rec": null,
-      "market": null,
-      "buys": [],
-      "avoids": [
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "ARE AI STOCKS BACK?? CAN MY PORTFOLIO BE SAVED? (AMD NVDA ANTHROPIC CRWV)",
-          "url": "https://www.youtube.com/watch?v=FTxfwE-3f8Q",
-          "upload_date": "20261028",
-          "date_label": "28 Oct 2026",
-          "ticker": "NEBA",
-          "company_name": "Nebius Inc.",
-          "reason": "Jose specifically states he does not own Nebius and chose not to buy during recent dip, instead doubling down on Coreweave. While Nebius is mentioned as a neocloud player with similar dynamics (short-term contracts, token selling, active compute), Jose prefers Coreweave's positioning. Both neocloud players face debt financing headwinds, but Jose sees more value in Coreweave's 1.5 gigawatt active power base and existing profitability trajectory.",
-          "risk": "Financing costs rising; market skepticism on neocloud valuations"
-        }
-      ],
-      "description": "Cloud infrastructure and GPU rental for AI model training and inference"
     },
     {
       "ticker": "NEBIUS",
@@ -8966,11 +8526,11 @@
     {
       "ticker": "NVDA",
       "company_name": "Nvidia Corporation",
-      "buy_count": 45,
+      "buy_count": 43,
       "avoid_count": 6,
-      "first_mention_date": "28 Oct 2026",
-      "price_at_first_mention": 217.94,
-      "pct_change_since_rec": -30.9,
+      "first_mention_date": "29 Oct 2026",
+      "price_at_first_mention": 213.99,
+      "pct_change_since_rec": -29.7,
       "market": {
         "ticker": "NVDA",
         "name": "NVIDIA Corporation",
@@ -9010,32 +8570,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "SK hynix Just Confirmed an AI Chip Shortage Through 2029!!",
-          "url": "https://www.youtube.com/watch?v=Qf72K1Fends",
-          "upload_date": "20261028",
-          "date_label": "28 Oct 2026",
-          "ticker": "NVDA",
-          "company_name": "Nvidia Corporation",
-          "reason": "Nvidia remains a core beneficiary of the AI compute shortage that is expected to persist through 2029 and beyond. SK Hynix confirmed that HBM volume requirements exceed twice their current supply capacity, indicating massive demand for memory chips that will drive continued demand for GPUs. The creator argues that even if other players like Google and OpenAI diversify their chip sources, the overall compute starvation means companies cannot rely on a single supplier and will continue purchasing Nvidia's products at premium pricing. Nvidia's Vera Rubin platform is being deployed across major customers including Meta and Oracle, demonstrating continued market dominance and strategic partnerships.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": "The creator acknowledges that reports of OpenAI buying Google AI chips could be perceived as bearish sentiment for Nvidia, though he dismisses this concern, arguing that compute scarcity will continue to drive Nvidia demand regardless of diversification efforts."
-        },
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "ARE AI STOCKS BACK?? CAN MY PORTFOLIO BE SAVED? (AMD NVDA ANTHROPIC CRWV)",
-          "url": "https://www.youtube.com/watch?v=FTxfwE-3f8Q",
-          "upload_date": "20261028",
-          "date_label": "28 Oct 2026",
-          "ticker": "NVDA",
-          "company_name": "Nvidia Corporation",
-          "reason": "Steve positions Nvidia as his number one pick for the next year. Despite trading at 23.5x forward earnings with 10x forward multiple, Nvidia has expected 130% EPS growth over the next two fiscal years, making it cheaper than AMD on a growth-adjusted basis. Steve believes Nvidia deserves its valuation and that from today's levels, Nvidia has more ROI over the next year compared to AMD. He wants Nvidia to become the Berkshire Hathaway of tech, acquiring stakes in hyperscalers like Meta and other AI infrastructure players. Steve emphasizes that the picks and shovels (semiconductor makers) will continue generating profits as capex flows to them throughout 2027-2029.",
-          "when_to_buy": "During market dips; Steve has been buying during recent pullbacks",
-          "target_price": null,
-          "cautions": "Already at elevated valuations; Steve acknowledges market uncertainty but maintains conviction in long-term thesis"
-        },
         {
           "channel": "Jose Najarro Stocks",
           "title": "Microsoft and Google Earnings!! WILL AI STOCKS BE SAVED??",
@@ -9735,11 +9269,11 @@
     {
       "ticker": "ORCL",
       "company_name": "Oracle Corporation",
-      "buy_count": 8,
+      "buy_count": 6,
       "avoid_count": 1,
-      "first_mention_date": "28 Oct 2026",
-      "price_at_first_mention": 130.53,
-      "pct_change_since_rec": -17.9,
+      "first_mention_date": "05 Nov 2026",
+      "price_at_first_mention": 115.16,
+      "pct_change_since_rec": -7.0,
       "market": {
         "ticker": "ORCL",
         "name": "Oracle Corporation",
@@ -9779,32 +9313,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "SK hynix Just Confirmed an AI Chip Shortage Through 2029!!",
-          "url": "https://www.youtube.com/watch?v=Qf72K1Fends",
-          "upload_date": "20261028",
-          "date_label": "28 Oct 2026",
-          "ticker": "ORCL",
-          "company_name": "Oracle Corporation",
-          "reason": "Oracle is broadening its AI infrastructure offerings by integrating Nvidia's Vera Rubin and VL72 chips, which are already available. The company is expanding its AI stack roadmap to include AMD Helios solutions, and by 2027 plans to add Google TPUs and Cerebras inference capabilities. Oracle's investor day is scheduled for the day after this video, and the creator expresses excitement about potential updates to Oracle Cloud Infrastructure market expansion, positioning Oracle as a multi-vendor platform for enterprise AI.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": null
-        },
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "ARE AI STOCKS BACK?? CAN MY PORTFOLIO BE SAVED? (AMD NVDA ANTHROPIC CRWV)",
-          "url": "https://www.youtube.com/watch?v=FTxfwE-3f8Q",
-          "upload_date": "20261028",
-          "date_label": "28 Oct 2026",
-          "ticker": "ORCL",
-          "company_name": "Oracle Corporation",
-          "reason": "Steve identifies Oracle as a significantly mispriced opportunity. Oracle trades at only 8.4x forward earnings with expected 90% EPS growth over two years, or 16x this year's earnings. The market is pricing in failure of OpenAI contracts (force majeure event), but Steve believes this is unrealistic. Oracle is expanding partnerships with Nvidia on Helios rack and bringing in 2027 TPUs and Cerebras chips to their cloud solution, positioning themselves as chip-agnostic. Steve expects Oracle's investor day tomorrow to reveal stronger OCI (Oracle Cloud Infrastructure) growth projections, especially as data center build efficiency improves and revenue collection accelerates. Jose notes that Oracle was the first company to share multi-year cloud infrastructure trends, and improving data center efficiency means faster revenue realization.",
-          "when_to_buy": "Immediately; identified as a current buying opportunity before investor day",
-          "target_price": null,
-          "cautions": "Depends on successful execution of OpenAI contracts and cloud infrastructure buildout; market sentiment remains skeptical"
-        },
         {
           "channel": "Mr. FIRED Up Wealth",
           "title": "Why I'm Buying This Stock Market Crash, Best Stocks to Buy Now!",
@@ -11847,11 +11355,11 @@
     {
       "ticker": "SK",
       "company_name": "SK Hynix Inc.",
-      "buy_count": 2,
+      "buy_count": 1,
       "avoid_count": 0,
-      "first_mention_date": "28 Oct 2026",
-      "price_at_first_mention": 16.69,
-      "pct_change_since_rec": -42.8,
+      "first_mention_date": "07 Nov 2026",
+      "price_at_first_mention": 12.12,
+      "pct_change_since_rec": -21.2,
       "market": {
         "ticker": "SK",
         "name": "Corgi SK hynix 2x Daily ETF",
@@ -11891,19 +11399,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "SK hynix Just Confirmed an AI Chip Shortage Through 2029!!",
-          "url": "https://www.youtube.com/watch?v=Qf72K1Fends",
-          "upload_date": "20261028",
-          "date_label": "28 Oct 2026",
-          "ticker": "SK",
-          "company_name": "SK Hynix Inc.",
-          "reason": "SK Hynix's earnings report provided critical evidence of the AI chip shortage extending through 2029 and potentially to 2030. Management stated that HBM and DRAM volumes through 2026 are effectively sold out when combining long-term agreements with customer demand still under discussion. HBM4 is exceeding planned yields with targets being raised, and long-term agreements have now allocated more than 50% of production capacity for 2027 and 2028, providing visibility for continued capex expansion. This makes SK Hynix a direct play on the memory shortage constraining the entire AI supply chain.",
-          "when_to_buy": null,
-          "target_price": null,
-          "cautions": "The creator notes a potential bearish case that the market may shift to lower stack requirements (e.g., four-high instead of twelve-high HBM configurations), though he observes that SK Hynix already reflects this in production plans and remains supply constrained regardless."
-        },
         {
           "channel": "CouchInvestor",
           "title": "2027 Market Predictions: Here\u2019s What We\u2019re Actually Doing",
@@ -11950,27 +11445,14 @@
     },
     {
       "ticker": "SKH",
-      "company_name": "SK Hynix Inc.",
-      "buy_count": 2,
+      "company_name": "SK Hynix",
+      "buy_count": 1,
       "avoid_count": 0,
-      "first_mention_date": "28 Oct 2026",
+      "first_mention_date": "18 Nov 2026",
       "price_at_first_mention": null,
       "pct_change_since_rec": null,
       "market": null,
       "buys": [
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "ARE AI STOCKS BACK?? CAN MY PORTFOLIO BE SAVED? (AMD NVDA ANTHROPIC CRWV)",
-          "url": "https://www.youtube.com/watch?v=FTxfwE-3f8Q",
-          "upload_date": "20261028",
-          "date_label": "28 Oct 2026",
-          "ticker": "SKH",
-          "company_name": "SK Hynix Inc.",
-          "reason": "SK Hynix reported earnings with bullish commentary. Memory supply shortage expected to persist through 2030 even with expansion, providing structural support for memory chip pricing and demand. 50% of long-term agreements now secure 50% of capacity for 2027-2028, showing customers locking in supply. Despite massive capex spending on new memory fab construction, company remains capacity constrained, validating multi-year tight supply thesis. Stock up 3% after-hours on earnings, expected to create bullish AI sentiment. Memory is critical picks-and-shovels component.",
-          "when_to_buy": "During recent market dips following earnings",
-          "target_price": null,
-          "cautions": "South Korean company with geopolitical exposure; capital intensity of memory business"
-        },
         {
           "channel": "CouchInvestor",
           "title": "NVIDIA Q3 EARNINGS REPORT BREAKDOWN | CFO SAVING THE MARKET?",
@@ -12781,27 +12263,14 @@
     },
     {
       "ticker": "SPACEX",
-      "company_name": "SpaceX (Private - Valuation Discussion)",
-      "buy_count": 4,
+      "company_name": "SpaceX",
+      "buy_count": 3,
       "avoid_count": 1,
-      "first_mention_date": "28 Oct 2026",
+      "first_mention_date": "17 Nov 2026",
       "price_at_first_mention": null,
       "pct_change_since_rec": null,
       "market": null,
       "buys": [
-        {
-          "channel": "Jose Najarro Stocks",
-          "title": "ARE AI STOCKS BACK?? CAN MY PORTFOLIO BE SAVED? (AMD NVDA ANTHROPIC CRWV)",
-          "url": "https://www.youtube.com/watch?v=FTxfwE-3f8Q",
-          "upload_date": "20261028",
-          "date_label": "28 Oct 2026",
-          "ticker": "SPACEX",
-          "company_name": "SpaceX (Private - Valuation Discussion)",
-          "reason": "Steve's third pick for the next year, stating he was 'wrong' and apologizing to Elon Musk. SpaceX plans to build over 10 gigawatts of compute capacity next year, representing approximately $400 billion in capex (at $40 billion per gigawatt). SpaceX earnings report showed they expect compute demand will be so insane that they could potentially have six-month wait times to sell compute in 2027. This signals that GPU pricing will increase significantly. SpaceX demonstrates the scale and seriousness of AI compute investments by major players, forcing Meta, Google, and Amazon to increase their own capex to compete. Steve is 'SpaceX pill' and believes the engineers and Elon 'are incredible.'",
-          "when_to_buy": "Steve bought a little SpaceX and plans to buy more tomorrow to build a good position",
-          "target_price": null,
-          "cautions": "SpaceX is a private company; investment may not be directly accessible to most retail investors"
-        },
         {
           "channel": "CouchInvestor",
           "title": "NVIDIA Q3 EARNINGS REPORT BREAKDOWN | CFO SAVING THE MARKET?",
@@ -13749,11 +13218,11 @@
     {
       "ticker": "VRT",
       "company_name": "Vertiv Holdings Co.",
-      "buy_count": 3,
+      "buy_count": 2,
       "avoid_count": 0,
-      "first_mention_date": "28 Oct 2026",
-      "price_at_first_mention": 252.08,
-      "pct_change_since_rec": -29.1,
+      "first_mention_date": "30 Oct 2026",
+      "price_at_first_mention": 176.73,
+      "pct_change_since_rec": 1.1,
       "market": {
         "ticker": "VRT",
         "name": "Vertiv Holdings, LLC",
@@ -13793,19 +13262,6 @@
         "earnings_days": null
       },
       "buys": [
-        {
-          "channel": "The Traveling Trader",
-          "title": "\ud83d\udea8 FED Decision! Live Trading FOMC",
-          "url": "https://www.youtube.com/watch?v=VYg1Zy-EdJ8",
-          "upload_date": "20261028",
-          "date_label": "28 Oct 2026",
-          "ticker": "VRT",
-          "company_name": "Vertiv Holdings Co.",
-          "reason": "The creator initiated a buy position in Vertiv in the 200s price range and the stock had an absolute killer earnings report. It has kept its gains and is up approximately 15%. The creator provided a detailed stock write-up on October 20th when initiating the position as a buy, demonstrating conviction in the company's fundamentals.",
-          "when_to_buy": "Previously bought in the 200s range; already in position",
-          "target_price": null,
-          "cautions": null
-        },
         {
           "channel": "The Traveling Trader",
           "title": "The Stealth Bear Market is a GENERATIONAL Buying Opportunity",
